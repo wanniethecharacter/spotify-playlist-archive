@@ -4,7 +4,7 @@
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:1eFOTBAGM0w0SH7jnTYSd1">BLUEM</a>
 
-618 songs - 1 day 7 hr 2 min
+619 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Una via d'uscita](https://open.spotify.com/track/6gxLlVRuJdN8jNczpPur3p) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [Una via d'uscita](https://open.spotify.com/album/2jbaEo5QsRmb5fBx6YIzBz) | 2:59 | 2022-01-06 | 2022-02-18 |
 | [universi](https://open.spotify.com/track/63smshHsSUesvEFWEzs48S) | [fefè](https://open.spotify.com/artist/52wYExoftAantCAUjSLWUr) | [universi](https://open.spotify.com/album/41W47S1PHKYJmlBMsHMV1A) | 3:02 | 2023-02-02 | 2023-03-03 |
 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 | 2022-05-05 | 2022-06-03 |
+| [Uno9999](https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Uno9999](https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS) | 3:27 | 2023-03-07 |  |
 | [Urla con me](https://open.spotify.com/track/1J85ap4LV65jCJ5oUfWxcH) | [Sigmet](https://open.spotify.com/artist/6qFJ465lCZ2Sfiwt2i1J8E) | [Urla con me](https://open.spotify.com/album/3GxYhELq2atH4YWMXZzlOs) | 3:42 | 2022-01-06 | 2022-01-12 |
 | [Valhalla](https://open.spotify.com/track/5tdUWLALLzFt180vBlT2su) | [Reminore](https://open.spotify.com/artist/0aHz7T2jUBp33N4FzdUBZF) | [Valhalla](https://open.spotify.com/album/3WfpXIDsb2tuKRiD1gbDKi) | 2:20 | 2022-07-29 | 2022-08-27 |
 | [VALIGIA](https://open.spotify.com/track/1bHutnZZo3i1kCKqvvrAnE) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Ceckpoint](https://open.spotify.com/artist/7bD9c1YU0jcI2dH2hpijwI) | [VALIGIA](https://open.spotify.com/album/38kTChpoaTKyvyTLnR0mcN) | 2:25 | 2022-03-03 | 2022-04-09 |

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-344 songs - 1 day 1 hr 47 min
+345 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Suligen](https://open.spotify.com/track/56EmWLEAO7lKWhZIOOGehP) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Sodality](https://open.spotify.com/artist/6rkcwqYBmnC0cqjGERkklu) | [From The Start](https://open.spotify.com/album/5fUAt336RVzjYVm7l4kC5a) | 3:58 | 2021-05-07 | 2022-07-25 |
 | [Sun](https://open.spotify.com/track/3gwL0zQKWmtJA8oYhXmqn8) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Sun EP](https://open.spotify.com/album/2eEvThMm9Kj9HDifqrI8Xw) | 7:29 | 2021-05-07 | 2022-04-13 |
 | [Sunday Driver](https://open.spotify.com/track/66QxW6PVaVt4viuUqHFDsJ) | [Igor Garanin](https://open.spotify.com/artist/4ehXKv4sgs5snOxOGnEHLr) | [Anjunadeep Explorations 15](https://open.spotify.com/album/1Z7foZwT3Mg4ZT5GEKD49W) | 4:52 | 2021-05-07 | 2022-04-21 |
+| [Supermodel](https://open.spotify.com/track/3JT8wu4fht9m6m5H9VsAFz) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Supermodel](https://open.spotify.com/album/0wMDrSOXPQeh6Lm2jy5LO6) | 2:52 | 2023-03-03 |  |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-03 |  |
 | [Synesthesia \- Radio Edit](https://open.spotify.com/track/4tYhb2RtgzpltirLnbgoRY) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Timeless/Synesthesia](https://open.spotify.com/album/5SdMIzrsucFXu3QLJhT5tR) | 3:45 | 2021-05-07 | 2022-04-18 |
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |
@@ -319,7 +320,7 @@
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2022-10-28 |  |
 | [Trechter](https://open.spotify.com/track/6fJuBz3USd1yPzmMLtouE2) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Ondertitel](https://open.spotify.com/album/3tapqXnaQbQkFNEXQ3PFfC) | 6:48 | 2022-01-28 | 2022-07-29 |
 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 | 2022-07-22 |  |
-| [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 | 2021-05-07 |  |
+| [Twin Souls](https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Twin Souls](https://open.spotify.com/album/3lGFgqvHsHfqqsfk6pSLgm) | 4:29 | 2021-05-07 | 2023-03-08 |
 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-09-17 |  |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |

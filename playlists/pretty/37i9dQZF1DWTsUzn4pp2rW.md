@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,408 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,519 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 43 | [Sunny Days](https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 4:00 |
 | 44 | [This Life](https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [A Reckoning Bell](https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO) | 4:21 |
 | 45 | [All I Needed](https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00) | [Alex Baird](https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX) | [Lemon Tree](https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7) | 5:48 |
-| 46 | [Don't Need The Real Thing](https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:26 |
-| 47 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [A Little Love](https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt) | 3:20 |
-| 48 | [There is a place](https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E) | 4:07 |
-| 49 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 |
-| 50 | [Live Without You](https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 1:31 |
-| 51 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 |
+| 46 | [There is a place](https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E) | 4:07 |
+| 47 | [Don't Need The Real Thing](https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:26 |
+| 48 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [A Little Love](https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt) | 3:20 |
+| 49 | [Try Your Wings](https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA) | 2:54 |
+| 50 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 |
+| 51 | [Live Without You](https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 1:31 |
 | 52 | [I'll Be Seeing You](https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [I'll Be Seeing You](https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy) | 2:30 |
 | 53 | [Before I Do](https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J) | 3:18 |
 | 54 | [Hilltop](https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Hilltop](https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63) | 4:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 70 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
 | 71 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
 | 72 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/album/2DWRIlo1R10apEYqCk2fK7) | 3:12 |
-| 73 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:44 |
-| 74 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 |
+| 73 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 |
+| 74 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:44 |
 | 75 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
 | 76 | [Something My Heart Trusts](https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Something My Heart Trusts](https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw) | 4:37 |
 | 77 | [I Love You](https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [I Love You](https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [She Used To Be Mine](https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Out Of The Shadows](https://open.spotify.com/album/4lBEvDriPaU6Xn0pnSUYA8) | 4:24 |
 | 100 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
 
-Snapshot ID: `MTY3NzY3OTc1MiwwMDAwMDAwMDYyZmEyOTY3YzdiNDNiNzRhZDAyZWE1YWVlODIxYjAx`
+Snapshot ID: `MTY3NzY3OTc1MiwwMDAwMDAwMGE2MTE1MTc5MjJjNDlkNjk1ODMyZTIzMDkwODdhY2Yx`

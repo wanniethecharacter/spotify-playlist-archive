@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-574 songs - 1 day 21 hr 35 min
+575 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Autumn In New York](https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:37 | 2023-01-18 |  |
 | [Autumn in Washington Square](https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 5:28 | 2022-10-27 | 2023-01-07 |
 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 | 2022-10-27 |  |
+| [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 | 2023-02-23 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-10-27 |  |
 | [B Minor Waltz \- Remastered 2003](https://open.spotify.com/track/1G8ZiodFtDX5tNHwvxcllW) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 3:16 | 2022-10-27 |  |
 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 | 2022-10-27 |  |
@@ -406,7 +407,7 @@
 | [Salt Peanuts](https://open.spotify.com/track/1xXydFs62EqOXFMPizVhn4) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 3:16 | 2022-10-27 |  |
 | [Sandu](https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 4:57 | 2022-10-27 |  |
 | [Satin Doll](https://open.spotify.com/track/02E4skBHp6ZyoEDgXHcQgu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Profile: Duke Ellington](https://open.spotify.com/album/0mYLoXVGdPxS2j3rrvpLl3) | 2:59 | 2023-01-18 | 2023-02-12 |
-| [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-10-27 |  |
+| [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 | 2022-10-27 | 2023-03-08 |
 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 | 2023-01-03 | 2023-01-24 |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-10-27 |  |
 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 | 2022-10-27 |  |

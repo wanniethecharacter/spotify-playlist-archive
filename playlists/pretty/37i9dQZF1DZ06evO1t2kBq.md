@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,473 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,512 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
 | 50 | [Heaven Is Falling](https://open.spotify.com/track/7qXQ8yHfnTGMYSF1gAwpum) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 2:04 |
 
-Snapshot ID: `Mjc5Njg0MDEsMDAwMDAwMDA0YTdhNTJhNTFlMmU0ZjY3ZGEyNGNkMTUyOGYyN2U0Ng==`
+Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDBkZDg4MDdhNTdkOWFiYzIwZTVkYWQ4NTdmY2U2OTJiZQ==`

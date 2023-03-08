@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 97085,
+  "num_followers": 97109,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NTcyMSwwMDAwMDAwMGVlM2E3Y2ZjMWY1YTMzMGIxMTRkOWI3NWQ5N2RmNTY4",
+  "snapshot_id": "MTY3Nzg4NTcyMSwwMDAwMDAwMDI4NjliNmY0MGZjOWE4YTlmMjU2OTM0ZGE2NTI1ODM4",
   "tracks": [
     {
       "added_at": "2023-03-03 23:22:01",
@@ -691,22 +691,18 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "N\u00e3o Me Deixar\u00e1s",
-        "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Caio Cesar",
-          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
         }
       ],
-      "duration_ms": 184320,
-      "name": "N\u00e3o Me Deixar\u00e1s",
-      "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -755,6 +751,26 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "N\u00e3o Me Deixar\u00e1s",
+        "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "Caio Cesar",
+          "url": "https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "N\u00e3o Me Deixar\u00e1s",
+      "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -775,26 +791,6 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -823,26 +819,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "O Vazio",
-        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         },
         {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        },
-        {
-          "name": "Eduardo Vieira",
-          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 176746,
-      "name": "O Vazio",
-      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -871,6 +863,30 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "O Vazio",
+        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        },
+        {
+          "name": "Eduardo Vieira",
+          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "O Vazio",
+      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
       },
@@ -887,26 +903,6 @@
       "duration_ms": 266797,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Tudo Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
-        }
-      ],
-      "duration_ms": 209998,
-      "name": "Tudo Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+        "name": "Voc\u00ea Me Amou",
+        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
       },
       "artists": [
         {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+          "name": "D\u00e9bora Ulhoa",
+          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         }
       ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
+      "duration_ms": 179200,
+      "name": "Voc\u00ea Me Amou",
+      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -999,22 +999,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Voc\u00ea Me Amou",
-        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
+        "name": "Tudo Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/2rtnrWiiIWjlVoFk4U66FN"
       },
       "artists": [
         {
-          "name": "D\u00e9bora Ulhoa",
-          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         },
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/7AmdDFEhE8vyECdzm8fkFP"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Voc\u00ea Me Amou",
-      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
+      "duration_ms": 209998,
+      "name": "Tudo Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/6cLpvpPXoQQItT3UXzXQLP"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1063,6 +1063,46 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
+        "name": "Tropa de Jesus Eletro",
+        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Igor Dj",
+          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
+        },
+        {
+          "name": "Junior Souto",
+          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
+        }
+      ],
+      "duration_ms": 165418,
+      "name": "Tropa de Jesus Eletro",
+      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "A Sua Chance",
         "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
       },
@@ -1079,22 +1119,6 @@
       "duration_ms": 241162,
       "name": "A Sua Chance",
       "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1159,26 +1183,6 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y"
       },
@@ -1207,6 +1211,26 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "Tomado",
         "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 236792,
       "name": "Tomado",
       "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Tropa de Jesus Eletro",
-        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
-      },
-      "artists": [
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "Igor Dj",
-          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
-        },
-        {
-          "name": "Junior Souto",
-          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
-        }
-      ],
-      "duration_ms": 165418,
-      "name": "Tropa de Jesus Eletro",
-      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1263,22 +1263,6 @@
       "duration_ms": 232500,
       "name": "S\u00f3 em Ti",
       "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1323,26 +1307,6 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Rei da Revoada (Remix)",
-        "url": "https://open.spotify.com/album/0KrAlUgsvBss83xPJbILNS"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Ninja",
-          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
-        },
-        {
-          "name": "George Morais",
-          "url": "https://open.spotify.com/artist/6YSJDpVtDDlJydO4n9NOiX"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Rei da Revoada - Remix",
-      "url": "https://open.spotify.com/track/24Sg8149jRsZxYcoY67hoY"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
         "name": "DJ Prince Hits (Remix)",
         "url": "https://open.spotify.com/album/1N3ZpP17GGlFTNd6dPXtT2"
       },
@@ -1355,6 +1319,46 @@
       "duration_ms": 226798,
       "name": "O Sonho N\u00e3o Acabou (Remix)",
       "url": "https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Meu Lugar",
+      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1403,26 +1407,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/4MmaAurB8pIM6tOj1nd3Au"
+        "name": "Rei da Revoada (Remix)",
+        "url": "https://open.spotify.com/album/0KrAlUgsvBss83xPJbILNS"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Dj Lucas Ninja",
+          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
         },
         {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "George Morais",
+          "url": "https://open.spotify.com/artist/6YSJDpVtDDlJydO4n9NOiX"
         }
       ],
-      "duration_ms": 161485,
-      "name": "Meu Lugar",
-      "url": "https://open.spotify.com/track/3rBml8mLLTLkf8avEPl9O8"
+      "duration_ms": 145846,
+      "name": "Rei da Revoada - Remix",
+      "url": "https://open.spotify.com/track/24Sg8149jRsZxYcoY67hoY"
     },
     {
       "added_at": "2023-03-03 23:22:01",

@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-228 songs - 17 hr 28 min
+229 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Taker](https://open.spotify.com/track/0ZdSPHnoFUAE1tck8oxSyJ) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Taker](https://open.spotify.com/album/12Iv5xAKpg2fnS1apJ0lp5) | 4:28 | 2020-10-29\* | 2022-07-29 |
 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 | 2021-06-03 |  |
 | [Taker](https://open.spotify.com/track/6bjzPmFPE4y9pnSYFjqdjj) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Taker](https://open.spotify.com/album/6NIIGDCGRuTizmkQpxZDcM) | 4:28 | 2021-06-03 | 2022-11-13 |
-| [Taste of Cindy](https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 1:42 | 2020-10-29\* |  |
+| [Taste of Cindy](https://open.spotify.com/track/5G1WuoX9U9EnjDKwc5kPjh) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Friday I'm In Love: Alternative Love Songs](https://open.spotify.com/album/0whC3RVfFAPegdggHoQNZl) | 1:42 | 2021-06-03 |  |
+| [Taste of Cindy](https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 1:42 | 2020-10-29\* | 2023-03-08 |
 | [Tastes Like Honey](https://open.spotify.com/track/4t0YSm5foVoTYHLpxoK9t2) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/0ySteqpbwjhNcttU9kiAaw) | 4:41 | 2020-10-29\* | 2022-07-29 |
 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 | 2021-06-03 |  |
 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 | 2020-10-29\* |  |

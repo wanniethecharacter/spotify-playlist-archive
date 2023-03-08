@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Libianca
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,600 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,614 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cant Get Enough](https://open.spotify.com/track/0IehPwtATgB4Ibb2xDRIcE) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9) | [Cant Get Enough](https://open.spotify.com/album/4fzRpSBTZ7HDroMgV5whBj) | 2:02 |
 | 2 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
 | 3 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
-| 4 | [VANESSA...](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
+| 4 | [VANESSA](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
 | 5 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 |
 | 6 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 7 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 |

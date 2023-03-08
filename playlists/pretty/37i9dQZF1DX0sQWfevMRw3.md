@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,636 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,675 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 18 | [Motorburen Ungdom](https://open.spotify.com/track/2cV9QjbN9qHkU3nzqg6fsl) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Motorburen Ungdom](https://open.spotify.com/album/6OKcsPt2vx2cQAjOZ2HAAw) | 2:19 |
 | 19 | [Dyngrak](https://open.spotify.com/track/5K43navq707q9fWgip9l9l) | [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [Dyngrak](https://open.spotify.com/album/4nZ4hG0wOSCW4SFPMwAUUG) | 2:32 |
 | 20 | [HÖJER VÅRA GLAS igen](https://open.spotify.com/track/3suAQXe3UNJAWKp2lfbm5T) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [HÖJER VÅRA GLAS igen](https://open.spotify.com/album/0SpTpINRsx854bIpnWGxYA) | 2:38 |
-| 21 | [Bartender](https://open.spotify.com/track/1PdkX3ZiqySoPgADYuiIBr) | [Euphoric Emperor](https://open.spotify.com/artist/6BTWQ3ohkHO2ITrdbR7QpH) | [Bartender](https://open.spotify.com/album/1wWHpolKnkmO37nfejuMXc) | 2:25 |
+| 21 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 |
 | 22 | [Sprit & bubbel](https://open.spotify.com/track/1g7b4k2ADrqOZFkepFoU6G) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Sprit & bubbel](https://open.spotify.com/album/6nvTimS6DA1Wq7r3HthFS3) | 2:30 |
 | 23 | [TA MIG HELA NATTEN](https://open.spotify.com/track/3W5CDHudoElqUNbuqqPlBW) | [Tjuraz](https://open.spotify.com/artist/422TKCcRW5Kd6j7WDbS4gL), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [TA MIG HELA NATTEN](https://open.spotify.com/album/3XPMm4co393lrFQbozwZu4) | 2:37 |
 | 24 | [Kom och rulla i mitt rullande hus](https://open.spotify.com/track/2Wf26qAnW8SeB2GsXRMITN) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Kom och rulla i mitt rullande hus](https://open.spotify.com/album/6gh9xUtJViqf6FpM0J2DgF) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [SÄNK DIESELPRISET](https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Femedia](https://open.spotify.com/artist/2oKbavAM3HBJQAPxY867tB), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [SÄNK DIESELPRISET](https://open.spotify.com/album/7KcTYUN4oW03vIxq9OZbDj) | 2:21 |
 | 100 | [Fingrarna i halsen](https://open.spotify.com/track/4JWfHH5DlQ1qVKXmGyxOMY) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/7L3fBDH0doYXgV8UafoxgA) | 3:00 |
 
-Snapshot ID: `MTY3ODEwODcyNywwMDAwMDAwMGVmMDI5NDQyN2FmMzg1YWM4MTk3NjBmYjZjNmJjNDdl`
+Snapshot ID: `MTY3ODEwODcyNywwMDAwMDAwMGFlNmJiMzM3MjhmYzg4Mjc1Yzg4YTczNDhiYzljYTM0`

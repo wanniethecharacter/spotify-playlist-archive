@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2157610,
+  "num_followers": 2158564,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyNTc1OCwwMDAwMDAwMGQxZmJmYmY5OWVmMjZiMzAxNjRlZjRjNjI2ZjRiY2Rj",
+  "snapshot_id": "MTY3NzIyNTc1OCwwMDAwMDAwMDdiZjRmZDExNWY0NDc2NGFlM2VjODM4MjYzMmY3YTY2",
   "tracks": [
     {
       "added_at": "2023-02-24 08:02:38",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+        "name": "Disgusting",
+        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+      "duration_ms": 213576,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Disgusting",
-        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 213576,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Ballbreaker",
-        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Hard as a Rock",
-      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "Ballbreaker",
+        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Hard as a Rock",
+      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 233533,
       "name": "Gold Cobra",
       "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Outsider",
-        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Light The Torch",
+          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Infra-Red",
-      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
+      "duration_ms": 235013,
+      "name": "Calm Before the Storm",
+      "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV"
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s"
       },
       "artists": [
         {
-          "name": "Light The Torch",
-          "url": "https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 235013,
-      "name": "Calm Before the Storm",
-      "url": "https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko"
+      "duration_ms": 230933,
+      "name": "Infra-Red",
+      "url": "https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "STRENGTH IN NUMB333RS",
-        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "STRENGTH IN NUMB333RS",
+        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1931,18 +1931,22 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+        "name": "Warrior / Underrated",
+        "url": "https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+      "duration_ms": 165891,
+      "name": "Warrior (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -1963,22 +1967,50 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Warrior / Underrated",
-        "url": "https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         }
       ],
-      "duration_ms": 165891,
-      "name": "Warrior (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 183437,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -2003,22 +2035,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 164990,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "SLEEPS SOCIETY",
         "url": "https://open.spotify.com/album/0wotrj0XrHFh7x2FVvsuA1"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 176695,
       "name": "SYSTEMATIC",
       "url": "https://open.spotify.com/track/7LRotHDhVHU9FE7oWhuFTL"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 183437,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
     },
     {
       "added_at": "2023-02-24 08:02:38",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-02-24 08:02:38",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200310,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
-    },
-    {
-      "added_at": "2023-02-24 08:02:38",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
+    },
+    {
+      "added_at": "2023-02-24 08:02:38",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/6GZ97OMabP41rOzXqzTROC"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200310,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
     },
     {
       "added_at": "2023-02-24 08:02:38",

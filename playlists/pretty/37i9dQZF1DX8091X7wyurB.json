@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 32864,
+  "num_followers": 32936,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDk5MSwwMDAwMDAwMDhkMGU0NDg2YWEyMDdmNWY1YzkxMWUzMDQzN2Y0ZTE1",
+  "snapshot_id": "MTY3NzgzMDk5MSwwMDAwMDAwMGJiYjllMGU3OWZhMGJjNmFlZjA5ZmE2OGQ3NTA1ZTdm",
   "tracks": [
     {
       "added_at": "2023-03-03 08:09:51",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Never Leave Me",
+        "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 160959,
+      "name": "Never Leave Me",
+      "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Final Say",
         "url": "https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 310278,
       "name": "Taking care - Live at Bliss Experience",
       "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Never Leave Me",
-        "url": "https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
-        }
-      ],
-      "duration_ms": 160959,
-      "name": "Never Leave Me",
-      "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -851,6 +851,26 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "This can only be God",
+        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "This can only be God",
+      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -955,26 +975,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "This can only be God",
-        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy D Psalmist",
-          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "This can only be God",
-      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Morning Devotion",
         "url": "https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Yehowah",
         "url": "https://open.spotify.com/album/1HmdkNEK6p2lBsLp5nfqhp"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
       },
       "artists": [
         {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
         }
       ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
+      "duration_ms": 324947,
+      "name": "Onye eze",
+      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ"
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg"
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
         }
       ],
-      "duration_ms": 324947,
-      "name": "Onye eze",
-      "url": "https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8"
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr"
+      },
+      "artists": [
+        {
+          "name": "Tosin Bee",
+          "url": "https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt"
+        },
+        {
+          "name": "Sammie Okposo",
+          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
+        }
+      ],
+      "duration_ms": 309393,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
       },
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr"
-      },
-      "artists": [
-        {
-          "name": "Tosin Bee",
-          "url": "https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt"
-        },
-        {
-          "name": "Sammie Okposo",
-          "url": "https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ"
-        }
-      ],
-      "duration_ms": 309393,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Lehin Jesu ko Se Nikan O (Special Version)",
         "url": "https://open.spotify.com/album/0k4ekS1syiy4WRFhSztXSZ"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 117333,
       "name": "Lehin Jesu ko Se Nikan O - Special Version",
       "url": "https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Shower Me",
-        "url": "https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe"
-      },
-      "artists": [
-        {
-          "name": "Sam Oladotun",
-          "url": "https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Shower Me",
-      "url": "https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1495,6 +1479,22 @@
       "duration_ms": 316290,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6NdP01if2haMSAhoMxVpMe"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "VIBES",
+        "url": "https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        }
+      ],
+      "duration_ms": 193163,
+      "name": "VIBES",
+      "url": "https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq"
     }
   ],
   "unique_name": "Praise and Worship",

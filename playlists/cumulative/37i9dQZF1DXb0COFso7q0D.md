@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras\. Cover: Grupo Marca Registrada & Grupo Frontera
+> The playlist sin fronteras\. Cover: Eden Muñoz & MC Davo
 
 306 songs - 16 hr 10 min
 

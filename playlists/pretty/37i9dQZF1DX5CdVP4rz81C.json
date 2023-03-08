@@ -1,12 +1,12 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Henry Moodie",
-  "num_followers": 1306433,
+  "description": "Discover your favorite new chill pop songs. Cover: Alexander Stewart ",
+  "num_followers": 1306701,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3NDEwMywwMDAwMDAwMGI4YTYyNmE3NjRhODJjZGQyMzc3YzI2OTRlYzA4N2Rh",
+  "snapshot_id": "MTY3ODIyMjAyMSwwMDAwMDAwMGYyOGIwZGNlYmUzZTYyYmMyY2FhMDlhMGU3YWFhZWNk",
   "tracks": [
     {
       "added_at": "2023-03-03 20:08:23",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-03-03 20:08:23",
       "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
       "artists": [
         {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 161210,
-      "name": "Elephant In The Room",
-      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2023-03-03 20:08:23",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-03 20:08:23",
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
-    },
-    {
-      "added_at": "2023-03-03 20:08:23",
-      "album": {
         "name": "Chasing Shadows",
         "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 164027,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+    },
+    {
+      "added_at": "2023-03-03 20:08:23",
+      "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
     },
     {
       "added_at": "2023-03-03 20:08:23",

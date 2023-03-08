@@ -1,12 +1,12 @@
 {
   "description": "Escucha la selecci\u00f3n que Se\u00f1oras Punk hicieron para Mam\u00e1 Cool. \ud83e\udd18\ud83c\udffc\ud83d\udda4",
-  "num_followers": 312790,
+  "num_followers": 312859,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDk5OGU1Y2I1NDY3ZjVkODkxNDNhZjM3NTMxZjYzMTAx",
+  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMGMxOTdmZmYwYWEwMzAyNjc2ODNmMjhmYTU3OTEzMzU1",
   "tracks": [
     {
       "added_at": "2023-02-20 18:18:12",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Exile In Guyville",
+        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Never Said - Remastered",
+      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Lotta Sea Lice",
         "url": "https://open.spotify.com/album/6Va3brVieuLkZIjJYf3orN"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Exile In Guyville",
-        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Never Said - Remastered",
-      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "The Concretes",
-        "url": "https://open.spotify.com/album/4FG2jgGG7SF5cgRcKa3FMd"
-      },
-      "artists": [
-        {
-          "name": "The Concretes",
-          "url": "https://open.spotify.com/artist/4uFpoTqyXb2tfvetAjmJQT"
-        }
-      ],
-      "duration_ms": 122706,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/6juk3VnEI6ONROpELkT8Cn"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Gato",
         "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "The Concretes",
+        "url": "https://open.spotify.com/album/4FG2jgGG7SF5cgRcKa3FMd"
+      },
+      "artists": [
+        {
+          "name": "The Concretes",
+          "url": "https://open.spotify.com/artist/4uFpoTqyXb2tfvetAjmJQT"
+        }
+      ],
+      "duration_ms": 122706,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/6juk3VnEI6ONROpELkT8Cn"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Little Joy",
-        "url": "https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs"
-      },
-      "artists": [
-        {
-          "name": "Little Joy",
-          "url": "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
-        }
-      ],
-      "duration_ms": 144546,
-      "name": "Keep Me in Mind",
-      "url": "https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Pod",
         "url": "https://open.spotify.com/album/0xx56m5AMEIMZlSjdJwxf5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 141866,
       "name": "Hellbound",
       "url": "https://open.spotify.com/track/2Tx3e4tOlmiTs6mTa9aIdz"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Little Joy",
+        "url": "https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs"
+      },
+      "artists": [
+        {
+          "name": "Little Joy",
+          "url": "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
+        }
+      ],
+      "duration_ms": 144546,
+      "name": "Keep Me in Mind",
+      "url": "https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Comatised",
-        "url": "https://open.spotify.com/album/0m7GzodmVBjFbLdzgHtBet"
-      },
-      "artists": [
-        {
-          "name": "Leona Naess",
-          "url": "https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Charm Attack",
-      "url": "https://open.spotify.com/track/7pm41QvCLeF8JzKvz1mv4m"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Ivy Tripp",
         "url": "https://open.spotify.com/album/5wisI1wvXEUguSBYllgj5f"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193080,
       "name": "La Loose",
       "url": "https://open.spotify.com/track/3Wiat6aC9Ib3LFJnfeQOlt"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Comatised",
+        "url": "https://open.spotify.com/album/0m7GzodmVBjFbLdzgHtBet"
+      },
+      "artists": [
+        {
+          "name": "Leona Naess",
+          "url": "https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Charm Attack",
+      "url": "https://open.spotify.com/track/7pm41QvCLeF8JzKvz1mv4m"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "The New Romance",
+        "url": "https://open.spotify.com/album/0eMdX2PZS5iMStFJuzbdgk"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girls Make Graves",
+          "url": "https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "This Is Our Emergency",
+      "url": "https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Vivian Girls",
         "url": "https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "The New Romance",
-        "url": "https://open.spotify.com/album/0eMdX2PZS5iMStFJuzbdgk"
+        "name": "Kellies",
+        "url": "https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM"
       },
       "artists": [
         {
-          "name": "Pretty Girls Make Graves",
-          "url": "https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN"
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
         }
       ],
-      "duration_ms": 223960,
-      "name": "This Is Our Emergency",
-      "url": "https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE"
+      "duration_ms": 95239,
+      "name": "Perro Rompebolas",
+      "url": "https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Kellies",
-        "url": "https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM"
+        "name": "Lo Que Te Pide el Cuerpo",
+        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
       },
       "artists": [
         {
-          "name": "Las Kellies",
-          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 95239,
-      "name": "Perro Rompebolas",
-      "url": "https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe"
+      "duration_ms": 163795,
+      "name": "Todos Mis Amigos Tienen Covid",
+      "url": "https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Lo Que Te Pide el Cuerpo",
-        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6"
       },
       "artists": [
         {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+          "name": "Jessica Sullivan",
+          "url": "https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN"
         }
       ],
-      "duration_ms": 163795,
-      "name": "Todos Mis Amigos Tienen Covid",
-      "url": "https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Plant a Seed",
-        "url": "https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92"
-      },
-      "artists": [
-        {
-          "name": "Songs for eleonor",
-          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "Tienes Miedo",
-      "url": "https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ"
+      "duration_ms": 142575,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6"
+        "name": "Plant a Seed",
+        "url": "https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92"
       },
       "artists": [
         {
-          "name": "Jessica Sullivan",
-          "url": "https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN"
+          "name": "Songs for eleonor",
+          "url": "https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj"
         }
       ],
-      "duration_ms": 142575,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4"
+      "duration_ms": 203337,
+      "name": "Tienes Miedo",
+      "url": "https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ"
     },
     {
       "added_at": "2023-02-20 18:18:12",

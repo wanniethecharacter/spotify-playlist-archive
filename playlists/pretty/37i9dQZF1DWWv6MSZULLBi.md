@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Feist
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,785 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,793 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 3 | [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 |
 | 4 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 |
 | 5 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
-| 6 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 |
+| 6 | [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 |
 | 7 | [Pearl](https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/75iDlOeKjJUihaEryUECiH) | 5:25 |
 | 8 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
 | 9 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 |
 | 100 | [Never Not Sunday](https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Never Not Sunday](https://open.spotify.com/album/4pZYb4QMYfa0Yx1YCEaVn2) | 2:39 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDU0OTY0MTkyYTNkOTJjODNjMjdkMjIyM2E5YTc3MWJh`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDlhMDkzM2RjMzhkZmU5MjAyODM3MDliNzUxNjFkY2Fk`

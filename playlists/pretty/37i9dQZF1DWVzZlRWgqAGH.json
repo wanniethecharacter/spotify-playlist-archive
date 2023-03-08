@@ -1,12 +1,12 @@
 {
   "description": "Smooooth joints. Cover: Adi Oasis, Leven Kali",
-  "num_followers": 779581,
+  "num_followers": 779556,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3NDg1OSwwMDAwMDAwMDAzOTBkNTcyN2RiOWI3YWRmMWU0YzU5NzE1NmUyZDFh",
+  "snapshot_id": "MTY3Nzg3NDg1OSwwMDAwMDAwMDAwYjVmNDY3ZDRmOWRmYjZiYTk3ZDA1ZWI3ZTVlNDcz",
   "tracks": [
     {
       "added_at": "2023-03-03 20:20:59",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
         "name": "Coastin\u2019",
         "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -1043,42 +1063,6 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
-        "name": "Now, You Know",
-        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
-      },
-      "artists": [
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
         "name": "GEEKIN",
         "url": "https://open.spotify.com/album/5JAAZFcedUqBFmxlje3xId"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 157921,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/7y6EyZRzAmObJhbJqDZEik"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
+        "name": "Now, You Know",
+        "url": "https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
+        "name": "Pick Your Tears Up",
+        "url": "https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 168513,
+      "name": "Pick Your Tears Up",
+      "url": "https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
-        "name": "Pick Your Tears Up",
-        "url": "https://open.spotify.com/album/4XHdogqYIFfgdW3qwIkVlI"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 168513,
-      "name": "Pick Your Tears Up",
-      "url": "https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1311,6 +1311,22 @@
       "duration_ms": 266120,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/37z4KRlnEhRforTs0t23Pa"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "EEK",
+        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+      "duration_ms": 247468,
+      "name": "EEK",
+      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1499,34 +1531,26 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+        "name": "BY THE WAY",
+        "url": "https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe"
       },
       "artists": [
         {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
-        "name": "EEK",
-        "url": "https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg"
-      },
-      "artists": [
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "D'LEAU",
+          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
         }
       ],
-      "duration_ms": 247468,
-      "name": "EEK",
-      "url": "https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS"
+      "duration_ms": 244950,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
     },
     {
       "added_at": "2023-03-03 20:20:59",
@@ -1599,30 +1623,6 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "BY THE WAY",
-        "url": "https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        },
-        {
-          "name": "D'LEAU",
-          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
-        }
-      ],
-      "duration_ms": 244950,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
         "name": "Idol Eyes",
         "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-03-03 20:20:59",
       "album": {
-        "name": "No Longer in the Suburbs",
-        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 174163,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
-    },
-    {
-      "added_at": "2023-03-03 20:20:59",
-      "album": {
         "name": "CYBAH (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "added_at": "2023-03-03 20:20:59",
+      "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "added_at": "2023-03-03 20:20:59",

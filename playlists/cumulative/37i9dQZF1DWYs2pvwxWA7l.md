@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ?si=ksCbWaD\_SaaKDic\_pKYdSw"> Libianca</a> ,  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=PnUO\-d\-eQMGMLF0bLcmQ9Q"> Ayra Starr</a>  and  <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=13y9EdRHRL20\-5GRvDcwuQ"> Omah Lay </a>
 
-282 songs - 14 hr 46 min
+283 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-03 | 2022-06-03 |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-12 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-18 |  |
-| [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 |  |
+| [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-03-08 |
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-03-03 | 2022-05-06 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-16 |  |
 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 | 2022-06-02 | 2022-07-08 |
@@ -194,6 +194,7 @@
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2021-09-27 | 2022-05-06 |
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2021-12-09 | 2022-09-30 |
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 | 2022-04-16 |
+| [Non c'est non](https://open.spotify.com/track/3DI9gxFAjWFznguYBaCLg5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 2:22 | 2023-02-23 |  |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-02-17 | 2022-07-29 |
 | [Odinaka](https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:59 | 2022-12-22 | 2023-01-28 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-07 | 2022-03-04 |

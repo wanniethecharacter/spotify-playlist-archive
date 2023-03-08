@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,226 likes - 35 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,348 likes - 35 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 30 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
 | 31 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 |
 | 32 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
-| 33 | [Zoom](https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr) | [Big Bub](https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4) | [Timeless](https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD) | 5:55 |
-| 34 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
+| 33 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
+| 34 | [Zoom](https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr) | [Big Bub](https://open.spotify.com/artist/3CgFQVOvg4sK8vaGtXPIJ4) | [Timeless](https://open.spotify.com/album/5v1twLqXY1LP1L88HPYnDD) | 5:55 |
 | 35 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDg3NTQ3MWFiZjRkZDZkMjA1N2QwYTE0OTdlOWY1NDVm`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDJhNDgxYzRkOGI1ODZjNDNiNjBjNTVjM2E3MjI4YzNj`

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-561 songs - 1 day 10 hr 34 min
+563 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 |  |
 | [Fata Morgana](https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P) | [Fata Morgana](https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv) | 4:06 | 2022-12-10 |  |
-| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 |  |
+| [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 | 2023-03-08 |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 |  |
@@ -495,7 +495,8 @@
 | [Text Me](https://open.spotify.com/track/7cgYvANWUAZk2yuqtJro7w) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/234yjteEry3Y6imN8wQl1Q) | 2:35 | 2022-01-21 | 2022-07-29 |
 | [The Air I Breathe \- Kryder Remix](https://open.spotify.com/track/0WBy5iBMPqSDZA0EB2VLUA) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [The Air I Breathe \(Kryder Remix\)](https://open.spotify.com/album/1e4TS1TPs6uBoMbCdwHm2x) | 3:05 | 2022-03-11 | 2022-05-28 |
 | [the darkness](https://open.spotify.com/track/4MEcRpmTuRdEw8bItHjWbi) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [the darkness](https://open.spotify.com/album/0OzEsyvzn31Ew9RbmuWSNK) | 2:50 | 2022-01-07 | 2022-04-16 |
-| [The Embrace](https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO) | [StanV](https://open.spotify.com/artist/4jvbnqivEzQynSU0VeCXz4) | [The Embrace / Watershed](https://open.spotify.com/album/36yGUuYlgvKLpDG0B7wWJY) | 4:32 | 2022-04-22 |  |
+| [The Distance](https://open.spotify.com/track/4GwlgUV3WbPC7BDQn1als0) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [The Distance](https://open.spotify.com/album/6Vb47VoUdelxyuUf7uKblz) | 2:57 | 2023-03-03 |  |
+| [The Embrace](https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO) | [StanV](https://open.spotify.com/artist/4jvbnqivEzQynSU0VeCXz4) | [The Embrace / Watershed](https://open.spotify.com/album/36yGUuYlgvKLpDG0B7wWJY) | 4:32 | 2022-04-22 | 2023-03-08 |
 | [The Essence](https://open.spotify.com/track/7J3WG5xqQoCl1nFsz7SR5i) | [Yoshi & Razner](https://open.spotify.com/artist/7EXEzZ7o5XKdbzEW6etnHl) | [The Essence](https://open.spotify.com/album/0Jz8H2DUUWDR9OlFHZESuP) | 3:22 | 2022-07-22 | 2022-07-30 |
 | [The Greater Light To Rule The Night](https://open.spotify.com/track/3cfMvE8xePwTp2L7gZyZqN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [The Greater Light To Rule The Night](https://open.spotify.com/album/26rEogvIVvJQKypFIHK1KE) | 3:33 | 2021-12-17 | 2022-01-08 |
 | [The Hero In Me](https://open.spotify.com/track/7H1oWs5rXW2QemEppHT5k3) | [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [The Hero In Me](https://open.spotify.com/album/1F1hIIeukHDF4TnqBiCrzn) | 3:37 | 2022-08-19 |  |
@@ -535,6 +536,7 @@
 | [Velvet Morning 22](https://open.spotify.com/track/6WP0pXmMVycJwQk6L7xesG) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [25 Years, Pt\. 4](https://open.spotify.com/album/32PBafVEACtSgbTsno4e8p) | 2:58 | 2022-10-14 |  |
 | [Villaneve](https://open.spotify.com/track/0cYjaUPIMjgBQOIJk2kZ4i) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Villaneve](https://open.spotify.com/album/08qLODi2HES7w5VRQerOtl) | 3:25 | 2021-12-17 | 2023-02-17 |
 | [Virtual Companion \- Edit](https://open.spotify.com/track/1Ldl0TWQu8k6tDxsAnxtm0) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8) | [Virtual Companion](https://open.spotify.com/album/5MZCBU6Bqtp8G8SZFNhur1) | 4:04 | 2022-08-12 |  |
+| [Vision](https://open.spotify.com/track/6YYL79mwL0GzwCPHzz6eiw) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Vision](https://open.spotify.com/album/2PQhlQpV8fCQuGfuM7qJPA) | 3:54 | 2023-03-03 |  |
 | [Visions](https://open.spotify.com/track/1avY7Gt8UXFY3niXHGj1pZ) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Visions](https://open.spotify.com/album/4lxSkbSFdXBG5aCsvCtcaZ) | 3:02 | 2021-12-17 | 2022-07-26 |
 | [Visions](https://open.spotify.com/track/1dDUV0wX5nnxiqz4MCrnRr) | [Jorza](https://open.spotify.com/artist/2QQUtKcJQ0bkubS0Titmi4), [Sherano](https://open.spotify.com/artist/2Dxe0mR6EMgSc7f72pqKq6) | [Visions](https://open.spotify.com/album/4ewVL0YFCVY1mLeLXXRIKb) | 3:22 | 2022-04-15 | 2022-06-23 |
 | [Voices From Earth](https://open.spotify.com/track/05ESlCD4zwIk8O61n2tRdA) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Voices From Earth](https://open.spotify.com/album/1tANGPlVGpxDO6DNAUdoxT) | 2:57 | 2022-11-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Digiannia\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,074 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,079 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 10 | [ALAS](https://open.spotify.com/track/46dFTrR7IGgWoTbcwjatjC) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [Alas](https://open.spotify.com/album/0q2c31QhtrSny4iG6sYL0W) | 2:59 |
 | 11 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
 | 12 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
-| 13 | [cuando viajas](https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [amarcura](https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q) | 3:10 |
-| 14 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
+| 13 | [yo sad, tú feliz](https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [yo sad, tú feliz](https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5) | 2:41 |
+| 14 | [cuando viajas](https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [amarcura](https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q) | 3:10 |
 | 15 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
 | 16 | [ALMAS GEMELAS](https://open.spotify.com/track/4W3dNusxXdEOpnpn02yBXa) | [KVBRERA](https://open.spotify.com/artist/1I6mFZkFyRZXA1LjhIJDM1) | [ALMAS GEMELAS](https://open.spotify.com/album/62UsG1PPSdzuDvEOnY9dBr) | 2:38 |
 | 17 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 |
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [Doble Vida](https://open.spotify.com/track/2EAZ7jjBQjnm16RSLxwYtX) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Doble Vida](https://open.spotify.com/album/7oBYyC39ZRhKRuaknqOicV) | 3:34 |
 | 28 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
 | 29 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 |
-| 30 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
-| 31 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
+| 30 | [cuidao](https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [cuidao](https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj) | 3:25 |
+| 31 | [Ansiedad y TV](https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e) | [Rococó](https://open.spotify.com/artist/69a8n82mR2VGTcVejFM2Dq), [Meeky](https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5) | [No me sale querer](https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3) | 3:03 |
 | 32 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
 | 33 | [Que tal si](https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I) | [Elio](https://open.spotify.com/artist/1HPJQk3RATpRhuHPzRxx7V), [Zeron](https://open.spotify.com/artist/3mHIRxQ7MhV8yBR2tk5xSn) | [Que tal si](https://open.spotify.com/album/269AjbumPxai7Bv8sa0ADT) | 3:03 |
 | 34 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
 | 35 | [No Se Puede Brillar Siempre <3](https://open.spotify.com/track/0Qx7KbI7VGxPjVmyZZIOUj) | [Loyalkidx](https://open.spotify.com/artist/408serMk8u851EicZV2R2w) | [No Se Puede Brillar Siempre <3](https://open.spotify.com/album/2sPDwluC3aQNMsN4AFFEjv) | 1:50 |
 | 36 | [Mi Cuerpo Subira](https://open.spotify.com/track/1YyDgqeagZ4fjjfGcI9c3S) | [Wekaforé](https://open.spotify.com/artist/73qySwnVMlJZsR9Lk5MOpn) | [Mi Cuerpo Subira](https://open.spotify.com/album/7q11g57w7Ln3HmUrtpcxG7) | 2:16 |
 | 37 | [Vientre](https://open.spotify.com/track/0qrTCjRD816Usk3ixgwqWr) | [NN Caronte](https://open.spotify.com/artist/2BgF5llEBHFru5RzVGxd6O) | [NN CARONTE](https://open.spotify.com/album/4xBdgRmStodbuNPAoJIOsQ) | 3:52 |
-| 38 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
-| 39 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
-| 40 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
-| 41 | [anti\-love](https://open.spotify.com/track/0ZcsaOLKAD6qzDa6CUMhuv) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [anti\-love](https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh) | 2:49 |
-| 42 | [Profundo](https://open.spotify.com/track/0J99aWnGzS8QiwYrLu4eQD) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Profundo](https://open.spotify.com/album/7kAXKKgUTjPe2euhKTI2lq) | 3:05 |
-| 43 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
+| 38 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
+| 39 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
+| 40 | [anti\-love](https://open.spotify.com/track/0ZcsaOLKAD6qzDa6CUMhuv) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [anti\-love](https://open.spotify.com/album/1qnbXOQxiXORXkc36J2jZh) | 2:49 |
+| 41 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 |
+| 42 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
+| 43 | [Profundo](https://open.spotify.com/track/0J99aWnGzS8QiwYrLu4eQD) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Profundo](https://open.spotify.com/album/7kAXKKgUTjPe2euhKTI2lq) | 3:05 |
 | 44 | [Llanura de Cristal](https://open.spotify.com/track/5VEZ0FYrCxxZv6CtQHZfEx) | [Hobo Cane](https://open.spotify.com/artist/0KgxWyvE4xlJ82jCxyBAtM) | [Llanura de Cristal](https://open.spotify.com/album/6Dl89xDR4M0ZPkE6rtrWmc) | 3:49 |
 | 45 | [TE QUIERO TOO](https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS) | [Andres Tagliaferro](https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl) | [TE QUIERO TOO](https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o) | 3:10 |
 | 46 | [Fluye](https://open.spotify.com/track/08cB5cxAoEP2odvWjOFSA6) | [SilverPoppy](https://open.spotify.com/artist/1vk28RZoUjlCNwJlirsJXv), [Shaeta](https://open.spotify.com/artist/0CG9eef9JqksLsgNjcdC8h), [Insert Soul](https://open.spotify.com/artist/1881wAudoT8hotL7FS4zIH) | [Fluye](https://open.spotify.com/album/5qHsbok31cDhHmiL9EFF3D) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 | 50 | [Clase Turista](https://open.spotify.com/track/2m1HYnpusyGj81Zw0eAfqX) | [Almera](https://open.spotify.com/artist/5sIlYZFkKF7tZom5y5IrrZ), [El Santanás](https://open.spotify.com/artist/6rFCMzspkSijL5f49P7gyP) | [Clase Turista](https://open.spotify.com/album/2XMFEaurcpsP0FfXLYr9TS) | 3:09 |
 
-Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMGEzNmFiMGJiZTRjNmM3OTdlNWY2NTYzMjkzM2ZhZTE0`
+Snapshot ID: `MTY3NzY5MzYwMCwwMDAwMDAwMDg5ZmU0ZGRkYmI0MjE4ZjE1OWRjZWNmOTdjMjQxNGFk`

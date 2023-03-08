@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: CAMO \(카모\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: Cherry Bullet \(체리블렛\)
 
-344 songs - 18 hr 31 min
+345 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-05-06 | 2022-12-02 |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/65gzcr0GjgVInjECujSpPm) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [OOMM \(Out of My Mind\)](https://open.spotify.com/album/2oTioa2D2E29diIrgaQmag) | 3:20 | 2021-03-01 | 2022-04-16 |
 | [OOPSIE \(My Bad\)](https://open.spotify.com/track/5TEdFgup4L8CdEZlcqcAHK) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE WORLD: CODE A](https://open.spotify.com/album/2rWqzpo4TfsbjUt4FSmpJ8) | 3:21 | 2021-02-28 | 2022-04-19 |
+| [P.O.W! \(Play On the World\)](https://open.spotify.com/track/2FgeeDfd0MeBi1bT8MP6ni) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Dash](https://open.spotify.com/album/4WKhHCj1pBU1aVyEmRkMZQ) | 3:14 | 2023-03-08 |  |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-01-27 |  |
 | [Passionate Love 열A\-야](https://open.spotify.com/track/0OnrBE4rqwpul8IBSJrcB4) | [Kang xiwon](https://open.spotify.com/artist/2Y5wddf5A6jv6MVB6aH90e) | [SUPA DIVA](https://open.spotify.com/album/5dxaaGgyuZrfXjTWFKvuOZ) | 3:26 | 2021-03-01 | 2022-04-13 |
 | [Pick Me Up](https://open.spotify.com/track/15cn8Ps4IGPzYZpa1dL8XC) | [KIARA](https://open.spotify.com/artist/4zgwEbAQXg18E1rgx4jeOb) | [Pick Me Up](https://open.spotify.com/album/6YEJlBkNryNhKhIWjvfmpN) | 3:16 | 2021-12-08 | 2022-07-24 |
@@ -306,7 +307,7 @@
 | [Violeta](https://open.spotify.com/track/0ahbzg4GCq3wJzUM3cjS3N) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:20 | 2020-10-20 | 2022-05-07 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-12 | 2022-10-27 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-03 | 2023-01-17 |
-| [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-23 |  |
+| [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-23 | 2023-03-08 |
 | [Walking Through The Moon](https://open.spotify.com/track/4werDUuriHrRrTxZx1p029) | [Lee Su Jeong](https://open.spotify.com/artist/2Mq5D1zR3yQIQWhiXOAoeL) | [My Name](https://open.spotify.com/album/1s1c2che6OuIyA8Do2bkNE) | 3:32 | 2022-04-28 | 2022-05-18 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2020-10-13\* | 2021-03-17 |
 | [WANNA KNOW](https://open.spotify.com/track/6f6uBrvxzcLNat7Lgw4EeH) | [IRRIS](https://open.spotify.com/artist/6njhhu11av9aiIJF5N4z7P) | [WANNA KNOW](https://open.spotify.com/album/7L9zMKdcxGO36sTgI0vsqY) | 2:41 | 2022-07-07 | 2022-07-14 |

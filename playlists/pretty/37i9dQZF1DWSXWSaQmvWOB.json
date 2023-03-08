@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 436429,
+  "num_followers": 436496,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEwNTExMiwwMDAwMDAwMDhlZGFlNGMxYjg3MDBlMWFiOWE1MjA5YTU3Y2EzZjFh",
+  "snapshot_id": "MTY3ODEwNTExMiwwMDAwMDAwMDI5YmJmMjU3ODc0NWRlZjE5MWU0ZjAwMDA5NGM0ZDE4",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "TOINE",
-        "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
-      },
-      "artists": [
-        {
-          "name": "TOINE",
-          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
-        }
-      ],
-      "duration_ms": 220713,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/3bQKN5pORIeF3Cqn5eZXfU"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "All The Things I Couldn't Say To You",
         "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 264285,
       "name": "All The Things I Couldn't Say To You",
       "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "TOINE",
+        "url": "https://open.spotify.com/album/2vHgzKe4ndu3ePIBvKF7xS"
+      },
+      "artists": [
+        {
+          "name": "TOINE",
+          "url": "https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no"
+        }
+      ],
+      "duration_ms": 220713,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/3bQKN5pORIeF3Cqn5eZXfU"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Coffee in the Morning",
         "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "90s",
-        "url": "https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR"
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
       },
       "artists": [
         {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 259040,
-      "name": "90s",
-      "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "By Design [Evel Knievel]",
-        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+        "name": "90s",
+        "url": "https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 225312,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+      "duration_ms": 259040,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 245290,
       "name": "Defection",
       "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Our Time Our Music",
         "url": "https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 320866,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Two Jobs",
-        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Two Jobs",
-      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 189667,
       "name": "Outside",
       "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Two Jobs",
+        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Two Jobs",
+      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 272020,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -1343,54 +1359,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 272020,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1411,18 +1379,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
       "artists": [
         {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
         }
       ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1443,6 +1411,38 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 190469,
       "name": "Way That We Feel",
       "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Hurts So Bad",
-        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        }
-      ],
-      "duration_ms": 235061,
-      "name": "Hurts So Bad - with Josh Teskey",
-      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Never Forget My Love",
         "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Unify",
         "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Blessed / Black Star",
-        "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 191604,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 169986,
       "name": "Pure Gold",
       "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Blessed / Black Star",
+        "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 191604,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Footsteps In The Dark",
-        "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
       },
       "artists": [
         {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
-      "duration_ms": 384265,
-      "name": "Footsteps In The Dark",
-      "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-03-02 23:00:00",

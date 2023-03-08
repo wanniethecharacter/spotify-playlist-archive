@@ -2,7 +2,7 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254.
+> The best of bars, beats & rhymes from the 254\. Cover Wangechi
 
 98 songs - 5 hr 6 min
 

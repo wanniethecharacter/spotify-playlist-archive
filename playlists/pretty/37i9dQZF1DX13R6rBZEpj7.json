@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 189707,
+  "num_followers": 189747,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU4NDc3MSwwMDAwMDAwMGI5YWUwZGQ3ZTc1ZGQzNDAyZTNhOWIzYzY5M2FlOTI4",
+  "snapshot_id": "MTY3NDU4NDc3MSwwMDAwMDAwMGRmYjZiODk0ZjI4NmZjNDAyY2FiMGM0NDkwYTk0ZDJl",
   "tracks": [
     {
       "added_at": "2023-01-24 14:24:25",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-01-24 14:24:25",
       "album": {
+        "name": "Nuclear - EP",
+        "url": "https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa"
+      },
+      "artists": [
+        {
+          "name": "Arc Nade",
+          "url": "https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ"
+    },
+    {
+      "added_at": "2023-01-24 14:24:25",
+      "album": {
         "name": "Thugs",
         "url": "https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-01-24 14:24:25",
       "album": {
-        "name": "Nuclear - EP",
-        "url": "https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa"
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ"
       },
       "artists": [
         {
-          "name": "Arc Nade",
-          "url": "https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL"
+          "name": "AWILD",
+          "url": "https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ"
+      "duration_ms": 301400,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT"
     },
     {
       "added_at": "2023-01-24 14:24:25",
@@ -1351,22 +1367,6 @@
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
-    },
-    {
-      "added_at": "2023-01-24 14:24:25",
-      "album": {
-        "name": "Give Me",
-        "url": "https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ"
-      },
-      "artists": [
-        {
-          "name": "AWILD",
-          "url": "https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5"
-        }
-      ],
-      "duration_ms": 301400,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT"
     }
   ],
   "unique_name": "Bassline Bangers",

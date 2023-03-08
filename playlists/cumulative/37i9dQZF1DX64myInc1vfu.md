@@ -2,7 +2,7 @@
 
 ### [Lento.](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
+> The new bolero era just for you\. Los boleritos de hoy\. Cover: Christian Nodal & TINI
 
 91 songs - 5 hr 7 min
 

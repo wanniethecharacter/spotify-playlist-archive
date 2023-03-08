@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 129602,
+  "num_followers": 129665,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMGRjMDRjM2E1Mjk4MzUwNThkZDkxNTk2NWIyYjE4MjVj",
+  "snapshot_id": "MTY3Nzc2OTIwMCwwMDAwMDAwMDE4NDI2ZGZhOGQ4ZTJmNGU1Mzc1OTM3MjBhYjE0NzVm",
   "tracks": [
     {
       "added_at": "2023-03-02 15:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 215386,
       "name": "West Coast Love",
       "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 192787,
       "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
       "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-03-02 15:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-02 15:00:00",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
-    },
-    {
-      "added_at": "2023-03-02 15:00:00",
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 162153,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
+    },
+    {
+      "added_at": "2023-03-02 15:00:00",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
     },
     {
       "added_at": "2023-03-02 15:00:00",

@@ -2727,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Stories We Tell Ourselves EP",
+        "url": "https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w"
+      },
+      "artists": [
+        {
+          "name": "Analogue Dear",
+          "url": "https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216391,
+      "name": "Obrecht",
+      "url": "https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S"
+    },
+    {
+      "album": {
         "name": "Nepenthe",
         "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
       },
@@ -4356,7 +4374,7 @@
       ],
       "date_added": "2020-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"

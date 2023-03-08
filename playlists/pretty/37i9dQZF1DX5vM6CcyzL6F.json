@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 25496,
+  "num_followers": 25569,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDJkMmI4NThiN2JmNTRjNDVkZWY4M2VjNWEwMGQ3YWRk",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMGExMGNhOWRkMDgzZTRjOGFmYWI5MWM3OTZiZDkxMmJi",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364466,
-      "name": "Un Monton De Estrellas",
-      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Mi Raz\u00f3n de Ser",
         "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 261600,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364466,
+      "name": "Un Monton De Estrellas",
+      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "25 Aniversario",
-        "url": "https://open.spotify.com/album/2AWeNpuIiYqGa2UfpjFVk0"
-      },
-      "artists": [
-        {
-          "name": "La Misma Gente",
-          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
-        }
-      ],
-      "duration_ms": 317387,
-      "name": "La Chica de Chicago",
-      "url": "https://open.spotify.com/track/0jqB2X6Ps8HoQnPqoMNsLY"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
         "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 261472,
       "name": "Punta a Punta",
       "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "25 Aniversario",
+        "url": "https://open.spotify.com/album/2AWeNpuIiYqGa2UfpjFVk0"
+      },
+      "artists": [
+        {
+          "name": "La Misma Gente",
+          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
+        }
+      ],
+      "duration_ms": 317387,
+      "name": "La Chica de Chicago",
+      "url": "https://open.spotify.com/track/0jqB2X6Ps8HoQnPqoMNsLY"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Recogiendo Frutos",
-        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
-      },
-      "artists": [
-        {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
-        }
-      ],
-      "duration_ms": 296573,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Hermanos Cartagena",
         "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 241186,
       "name": "Nadie Quien Te Quiera",
       "url": "https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Recogiendo Frutos",
+        "url": "https://open.spotify.com/album/5GzoEi3bJsLWwLvEpK4fxm"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 296573,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/2ccabU9T3oFwcM0NnBXxpf"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Maelo Ruiz\u2026 The Romantic Salsa Idol",
-        "url": "https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
-      "url": "https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "\u00a1Fiesta!",
         "url": "https://open.spotify.com/album/469RU2KFAgvs8IzsiX1kEf"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 443040,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7voC4KJqL12SfKK5wHlXAS"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Maelo Ruiz\u2026 The Romantic Salsa Idol",
+        "url": "https://open.spotify.com/album/4hMO3pqX1IXsVKrX1e60W6"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/7G5X7EyoPEEfH3QGnVNhaB"
     },
     {
       "added_at": "2022-08-02 22:53:13",

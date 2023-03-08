@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-564 songs - 23 hr 16 min
+566 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-02 | 2023-01-05 |
 | [6 Ft](https://open.spotify.com/track/0kwtcexUeuGMmduCFp6x8H) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [6 Ft](https://open.spotify.com/album/4ZcfQUAWisqbHcOL7wfYf6) | 1:43 | 2022-10-25 | 2023-01-14 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-15 |  |
+| [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 |  |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 | 2022-03-28 | 2022-09-17 |
 | [ALL MY MIGHT](https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ALL MY MIGHT](https://open.spotify.com/album/4S1mlCyeQ87cipFb0TClvA) | 2:24 | 2022-01-28 | 2022-03-13 |
@@ -356,6 +357,7 @@
 | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [My Everything \(Part III\) \(feat\. G Herbo\)](https://open.spotify.com/album/5pj2T91lHwn5A3qExRV4l9) | 2:30 | 2021-12-17 | 2022-02-05 |
 | [My Way](https://open.spotify.com/track/3B2bQo24JvhiqrwWI1Q4OW) | [NDO Dee](https://open.spotify.com/artist/3GRdBABrc1l7INMwDldBuQ) | [My Way](https://open.spotify.com/album/06ADyz2v8NMndnRUIYbras) | 1:48 | 2023-02-16 |  |
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-23 |
+| [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-07 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-19 | 2022-04-26 |
 | [NBAYOUNGBOAT](https://open.spotify.com/track/7mfeXGMR9pzX9fOXQlCOP3) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Hip Hop Essentials](https://open.spotify.com/album/2ka2rleIYCZ2EVF7gMvjV5) | 2:19 | 2022-04-26 | 2022-05-28 |
 | [Need](https://open.spotify.com/track/1YeEq1cEWsYbCGYPhatHdV) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/7oneUSVIt6PoefdQ36Vdo2) | 2:37 | 2023-01-19 | 2023-02-12 |
@@ -529,7 +531,7 @@
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 |  |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2022-09-09 |  |
 | [VEGAPUNK](https://open.spotify.com/track/2Jh4Ik2VD5Et1J593Vtotp) | [ITSOKTOCRY](https://open.spotify.com/artist/2BUUAEl4BwFRA9NBDgMWSf) | [VEGAPUNK](https://open.spotify.com/album/2vv7kcy8ZfvNHBKtC8btFy) | 2:02 | 2023-02-03 |  |
-| [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-08-31 |  |
+| [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-08-31 | 2023-03-08 |
 | [Vet](https://open.spotify.com/track/3iGicWZjOWrXXgRE4UcYJL) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Da World Is Ours 3](https://open.spotify.com/album/4R1Qf4Q0daY8Gn58KYRzKX) | 1:40 | 2022-03-17 | 2022-05-07 |
 | [Vito / Bad Boy](https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito / Bad Boy](https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy) | 2:32 | 2022-01-07 | 2022-05-14 |
 | [Vroom](https://open.spotify.com/track/5DDNgyfLS1MgkWq1vnhObp) | [Li Heat](https://open.spotify.com/artist/4rpSDGfnMmQjgnMAEmhptD) | [Vroom](https://open.spotify.com/album/7p04wXOLc0yibGBs0H04Ml) | 2:01 | 2022-04-29 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 26 min
+77 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blade Runner \- End Titles](https://open.spotify.com/track/1u1ATklwZesAvq1whHsI8Z) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:39 | 2022-05-29 | 2022-10-08 |
 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 | 2022-05-29 |  |
 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 | 2022-05-29 | 2023-03-07 |
+| [Celestial Whispers](https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 2:31 | 2023-03-07 |  |
 | [Chung Kuo](https://open.spotify.com/track/0y8yOha94wVIUhnVyc2CXX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 5:31 | 2022-05-30 | 2022-08-11 |
 | [City of Isabel](https://open.spotify.com/track/02nEzf5yn6sqI6PxM6QZ8N) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 2:16 | 2022-09-06 | 2022-09-09 |
 | [Come to Me](https://open.spotify.com/track/0I0i0baAjsJMlTq4rw8w5Q) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Caroline Lavelle](https://open.spotify.com/artist/4tmvH1mdQEmU8RbbVAXcGL) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:38 | 2022-05-29 |  |

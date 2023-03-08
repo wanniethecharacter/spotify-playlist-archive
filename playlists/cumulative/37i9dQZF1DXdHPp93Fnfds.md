@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-472 songs - 1 day 3 hr 8 min
+473 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-21 | 2022-07-20 |
 | [Misiones \- Dos Lobas Remix](https://open.spotify.com/track/4TnyFQRCLCfzCtucaex92O) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU), [Dos Lobas](https://open.spotify.com/artist/0wcI5RlJidylQch0v5aH7q) | [Misiones \(Dos Lobas Remix\)](https://open.spotify.com/album/2Hb2exiQCdICDfiq2rgeVi) | 2:56 | 2022-04-01 | 2022-06-22 |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-05-06 |  |
+| [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-08 |  |
 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2022-01-21 | 2022-07-29 |
 | [Monstruos \(está bn estar mal\)](https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 3:23 | 2022-07-15 |  |
 | [Monstruos \(está bn estar mal\)](https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L) | 3:23 | 2022-06-03 | 2022-07-28 |
@@ -327,7 +328,7 @@
 | [Pasaje Directo](https://open.spotify.com/track/6PpBnYJRcqPW1IwathowqZ) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pasaje Directo](https://open.spotify.com/album/5rPVX8aLD3d85E8YsquR35) | 3:49 | 2022-01-21 | 2022-07-25 |
 | [Paseito](https://open.spotify.com/track/1YBP98l7xGeuGNcYAsjXqp) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/5KgfyeZUxgpQHDoiSmQgPb) | 4:53 | 2022-01-14 | 2022-07-19 |
 | [Paseito](https://open.spotify.com/track/5955aqNG5rGlr7EQdjl4kS) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2agcgDDdxckcav71Z24Dq6) | 4:53 | 2022-01-21 | 2022-07-26 |
-| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 |  |
+| [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 | 2022-07-15 | 2023-03-08 |
 | [Pasos \- Versión Acústica](https://open.spotify.com/track/3AgJCcvGK6g6JEOhc0QHDZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Pasos \(Versión Acústica\)](https://open.spotify.com/album/5MwZCCD8VV3c99yaatXL4U) | 3:41 | 2022-01-21 | 2022-07-13 |
 | [Pedazo de Cielo](https://open.spotify.com/track/4QHl7wxPoNQeN2QyKQ96vX) | [ESHA](https://open.spotify.com/artist/1JguCBS70W5P0NQWAXoCpT), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Pieles](https://open.spotify.com/album/4IP2FJtK1OMgHIsHHuFTb2) | 3:21 | 2022-01-21 | 2022-04-29 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-02-11 | 2022-07-21 |

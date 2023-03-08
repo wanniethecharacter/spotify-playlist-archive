@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,525 likes - 19 songs - 58 min 33 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,526 likes - 19 songs - 58 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 9 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 |
 | 10 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 |
 | 11 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 |
-| 12 | [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/3acHsmBqouVeiU5eGAzCW7) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 |
+| 12 | [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/0Jf2MhXuwAGiBE33d6aiF9) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 |
 | 13 | [MVH](https://open.spotify.com/track/6MNo0OPFoQj37OV5EnOcPX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [MVH](https://open.spotify.com/album/7lf18JYPRXvgf8x4jy7mWx) | 2:52 |
 | 14 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 |
 | 15 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |

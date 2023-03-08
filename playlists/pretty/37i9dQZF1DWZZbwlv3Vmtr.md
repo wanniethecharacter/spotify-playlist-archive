@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,681 likes - 384 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,068 likes - 384 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 103 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 |
 | 104 | [Water under the Bridge](https://open.spotify.com/track/2hkWgVbqRizZklKGPInc5x) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Rare Breed](https://open.spotify.com/album/7qVNP2v7tcpoOnEEnObYej) | 3:27 |
 | 105 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 |
-| 106 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [major7th](https://open.spotify.com/artist/2PM4QtueXi2pjPzJGMYAH8) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 |
+| 106 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 |
 | 107 | [Oase](https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU) | [Mo Anando](https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH) | [Oase](https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa) | 4:45 |
 | 108 | [Twinkle of Night](https://open.spotify.com/track/1uRExJnQi0lXXbfHzcSXRX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/0ZE7GZWUauKoR06f9rli3a) | 2:57 |
 | 109 | [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 |
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 138 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 |
 | 139 | [all in time](https://open.spotify.com/track/5DBdIkRVzbRuJyT9ZlUz3b) | [Isaac Wheadon](https://open.spotify.com/artist/3JdtFl0iWwZTNO5ul5nP5e) | [all in time](https://open.spotify.com/album/4pWWQ94GJBYcTh02Etoint) | 4:25 |
 | 140 | [Flight 99 \- Instrumental](https://open.spotify.com/track/3xYuSl14visUQp9josEqIM) | [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK) | [Flight 99 \(Remixes\)](https://open.spotify.com/album/0TAKBTEX12oBQ6VmlPe0Sn) | 2:51 |
-| 141 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 |
+| 141 | [Autumn Colours](https://open.spotify.com/track/2M5xnklRUnCnLJD00UUfJG) | [Just Derrick](https://open.spotify.com/artist/7DNcVzKkSB9PhdvHwl9tpd), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Autumn Colours](https://open.spotify.com/album/1MqZmJJ8PXsSc76DRVRotP) | 2:27 |
 | 142 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 |
 | 143 | [Time And Space](https://open.spotify.com/track/2LAqKH7Fep8GfNJGONTAag) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/0g5vm8jQYvi7daN6YsSlUY) | 2:46 |
 | 144 | [Candy](https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq) | [Ada Vula](https://open.spotify.com/artist/79KlmpJEbaL2Eif2lceNLv) | [Candy](https://open.spotify.com/album/38oI19U6Dm87afeEMF5f9N) | 1:46 |

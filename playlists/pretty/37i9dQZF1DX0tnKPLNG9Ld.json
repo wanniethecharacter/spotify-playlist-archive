@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 50136,
+  "num_followers": 50238,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0NzE3NCwwMDAwMDAwMDU2YTMwNzEzNDUyNDc0ZDMwMDg3ZmJhNjc1MmY0ZWQ1",
+  "snapshot_id": "MTY3Nzc0NzE3NCwwMDAwMDAwMGU2ZjU4YTM4OGVkYWU5MWE2MDhhNTY5NTllOTdjZWY5",
   "tracks": [
     {
       "added_at": "2023-03-02 08:52:54",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
         "name": "Hello Dolly To Goodbye Charlie",
         "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 124560,
       "name": "Call Me Irresponsible",
       "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
+        "name": "Bossa Antigua",
+        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Bossa Antigua",
-        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 282560,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -603,22 +619,6 @@
       "duration_ms": 142333,
       "name": "A-Tisket, A-Tasket",
       "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Ella Swings Gently With Nelson",
-        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 202226,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -739,6 +723,22 @@
       "duration_ms": 238120,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
+        "name": "Ella Swings Gently With Nelson",
+        "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "Taking A Chance On Love",
+      "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
         "name": "Mr. Top Hat",
         "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
@@ -807,26 +827,6 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "Taking A Chance On Love",
-      "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -839,38 +839,6 @@
       "duration_ms": 132160,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
-        "name": "Fine And Mellow",
-        "url": "https://open.spotify.com/album/1vJfO7RbSk7Ck57cxpcfHm"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -891,6 +859,22 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
         "name": "The Cat Walk",
         "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
+        "name": "Fine And Mellow",
+        "url": "https://open.spotify.com/album/1vJfO7RbSk7Ck57cxpcfHm"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 103400,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
         "name": "Ella And Basie",
         "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195960,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 103400,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Jazz Voices",
-        "url": "https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 300453,
       "name": "I Walk With Music",
       "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
+        "name": "Jazz Voices",
+        "url": "https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED"
     },
     {
       "added_at": "2023-03-02 08:52:54",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-03-02 08:52:54",
       "album": {
-        "name": "Dinah '62",
-        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Destination Moon - 1997 Remaster",
-      "url": "https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq"
-    },
-    {
-      "added_at": "2023-03-02 08:52:54",
-      "album": {
         "name": "It's a Blue World (2015 Remastered Version)",
         "url": "https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 174960,
       "name": "Till the Clouds Roll By - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"
+    },
+    {
+      "added_at": "2023-03-02 08:52:54",
+      "album": {
+        "name": "Dinah '62",
+        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Destination Moon - 1997 Remaster",
+      "url": "https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq"
     }
   ],
   "unique_name": "Sunny Day Jazz",

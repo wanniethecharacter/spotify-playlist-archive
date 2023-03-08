@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-847 songs - 2 day 2 hr 17 min
+848 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 | 2022-12-10 |
 | [Fool's Gold](https://open.spotify.com/track/7kAxc7ZfkPiCWSZBD5ed6F) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Fool's Gold](https://open.spotify.com/album/0EaZIiPjCpZoODnTuzSroH) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [Footprints](https://open.spotify.com/track/6W1WqOE3Wd5AnZbL149Xfy) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Footprints](https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i) | 4:13 | 2022-03-24 | 2022-04-20 |
-| [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 | 2022-07-08 |  |
+| [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 | 2022-07-08 | 2023-03-08 |
 | [For a While](https://open.spotify.com/track/6Qk4zqHRjy4huavhMyQ5co) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [For a While](https://open.spotify.com/album/2Mf95tVtt4V6ewsVsYipHL) | 3:54 | 2022-03-24 | 2022-04-20 |
 | [For Seasons to Come](https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:12 | 2022-05-13 |  |
 | [For Seasons to Come](https://open.spotify.com/track/6SFNnkr1O5SMHkJslzsdST) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2GtFyJbc3Htf5JJCfLtnuY) | 3:12 | 2021-12-21 | 2022-05-16 |
@@ -791,6 +791,7 @@
 | [Waiting Around \- Acoustic](https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Vacancy](https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL) | 2:32 | 2022-07-08 |  |
 | [Waiting Is A Waste](https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Waiting Is A Waste](https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY) | 2:57 | 2022-06-24 | 2022-06-27 |
 | [Waiting Room \- Demo](https://open.spotify.com/track/6jApoxmm4K0yhJlSBONwjz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:13 | 2022-03-24 | 2023-01-15 |
+| [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 | 2023-02-17 |  |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2021-12-21 | 2022-04-08 |
 | [Wandered Away](https://open.spotify.com/track/2jEeajNK4i658NEy0O4706) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:45 | 2022-03-24 | 2022-04-20 |
 | [wanna feel it too](https://open.spotify.com/track/44l1L8DmR3GGA7knSXEnGt) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [wanna feel it too](https://open.spotify.com/album/1ahByMR7AX6oOMxKQz60aO) | 3:15 | 2022-01-07 | 2022-07-29 |

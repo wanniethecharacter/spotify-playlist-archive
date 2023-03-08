@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Young Miko",
-  "num_followers": 125529,
+  "num_followers": 125580,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGE4YTJkOTBkMmZiZGE1NjU1MWYyMDc1ZTEyNjczZmNl",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDU4Y2Y4YjcxMzAxMTQwNzliYTIyZDZkYzFjNTYwOGZj",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Qu\u00e9 piensas hacer sin mi amor?",
+        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "Qu\u00e9 piensas hacer sin mi amor?",
+      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Maricoteca",
-        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 222543,
-      "name": "Maricoteca",
-      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "OTRAS MUJERES",
-        "url": "https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "OTRAS MUJERES",
-      "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Bellakosa",
         "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
@@ -603,6 +587,38 @@
       "duration_ms": 173333,
       "name": "Bellakosa",
       "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Maricoteca",
+        "url": "https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "Maricoteca",
+      "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "OTRAS MUJERES",
+        "url": "https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "OTRAS MUJERES",
+      "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -659,18 +675,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Qu\u00e9 piensas hacer sin mi amor?",
-        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 248121,
-      "name": "Qu\u00e9 piensas hacer sin mi amor?",
-      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -687,22 +703,6 @@
       "duration_ms": 232520,
       "name": "Los Caminos Del Amor",
       "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 154361,
-      "name": "REPROGRAMAR",
-      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Herida",
+        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "duration_ms": 207369,
+      "name": "T\u00edrame al fondo del mar",
+      "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Nunca Fue",
         "url": "https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 282271,
       "name": "Nunca Fue",
       "url": "https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Herida",
-        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        }
-      ],
-      "duration_ms": 207369,
-      "name": "T\u00edrame al fondo del mar",
-      "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
     },
     {
       "added_at": "2023-03-03 05:01:00",

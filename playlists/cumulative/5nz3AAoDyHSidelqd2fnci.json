@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 199920,
       "name": "A Vampires Lament",
       "url": "https://open.spotify.com/track/3yxCQVbZWTEiHQVuRKL4y7"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 301941,
       "name": "And The Snakes Start To Sing",
       "url": "https://open.spotify.com/track/35xAZwCzE58O6EXbzgTSxc"
+    },
+    {
+      "album": {
+        "name": "Hell Chose Me (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6k5zoUd3hheF5OQAguvIqu"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286920,
+      "name": "Angel of Death (Slayer Cover) [Bonus Track]",
+      "url": "https://open.spotify.com/track/2b9QwfRWoHGZ0NAXCq7lHu"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 203400,
       "name": "Another Life - 1998 Remastered Version",
       "url": "https://open.spotify.com/track/0NlYnniNRXy3KyIoGoMHDl"
@@ -88,10 +106,46 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 233964,
       "name": "Black Flame - Single Edit",
       "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF"
+    },
+    {
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90613,
+      "name": "Capsizing the Sea",
+      "url": "https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f"
+    },
+    {
+      "album": {
+        "name": "Eudora",
+        "url": "https://open.spotify.com/album/4VzFXlEdn1HaynezaXxBe9"
+      },
+      "artists": [
+        {
+          "name": "The Get Up Kids",
+          "url": "https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/5pI8oKWXWAd4jjMjIFajsq"
     },
     {
       "album": {
@@ -106,7 +160,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 276986,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/0aKgId5lkNpNyGWQuwyvDn"
@@ -124,10 +178,100 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 226733,
       "name": "Diet\u00e9tico - Remasterizado 2007",
       "url": "https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj"
+    },
+    {
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
+    },
+    {
+      "album": {
+        "name": "FUBAR",
+        "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
+      },
+      "artists": [
+        {
+          "name": "Punkband",
+          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172038,
+      "name": "FUBAR",
+      "url": "https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc"
+    },
+    {
+      "album": {
+        "name": "The Very Best of KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/7swznakopP5J1aSOzCsalv"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/40QPoAAKKMwPms6I6FHJqy"
+    },
+    {
+      "album": {
+        "name": "Mi Sangre 2005 Tour Edition",
+        "url": "https://open.spotify.com/album/3RltgO5Y3cayBeIAlp9YMv"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "La Camisa Negra - Sonidero Nacional Remix",
+      "url": "https://open.spotify.com/track/0A6GSPaUlsKdK7PlkQgZdB"
     },
     {
       "album": {
@@ -142,10 +286,64 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 195680,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5uomo3rXErmfXURMsRBb3v"
+      },
+      "artists": [
+        {
+          "name": "Nxtime",
+          "url": "https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216732,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2rdIbS7BQCGNKuhuED3Xyx"
+    },
+    {
+      "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "Mi\u00e9ntele",
+      "url": "https://open.spotify.com/track/3GISWjNRCtkaReipcMY7Fr"
+    },
+    {
+      "album": {
+        "name": "War Is The Answer",
+        "url": "https://open.spotify.com/album/17IyljrvxhPktGR5NYx9iQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "My Own Hell",
+      "url": "https://open.spotify.com/track/1OwXPnEDI1XoTp5jy7txrX"
     },
     {
       "album": {
@@ -160,10 +358,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 273200,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2"
+    },
+    {
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290360,
+      "name": "Shadow of the Day",
+      "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
     },
     {
       "album": {
@@ -178,7 +394,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 232520,
       "name": "Stay Together For The Kids",
       "url": "https://open.spotify.com/track/2uot2UE0ng9D9UEsmJINvR"
@@ -196,7 +412,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 226733,
       "name": "The Dope Show",
       "url": "https://open.spotify.com/track/1wrIp2G2kEa2pt6jsUJ05A"
@@ -214,7 +430,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 166895,
       "name": "Worms",
       "url": "https://open.spotify.com/track/3vxEgwQPiXqF2FK3hL79BL"

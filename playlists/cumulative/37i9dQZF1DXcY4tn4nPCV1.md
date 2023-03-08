@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-325 songs - 13 hr 59 min
+330 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-04-04 | 2022-04-29 |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-02-28 |  |
 | [Expectations](https://open.spotify.com/track/3k7dzDcm9tXfGNfiAWkJOi) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [Expectations](https://open.spotify.com/album/3aTy7CvlOKBLBBRO3qLJUg) | 2:22 | 2022-11-18 |  |
+| [Faded Portrait](https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Faded Portrait](https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M) | 2:05 | 2023-03-07 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-04 | 2022-04-29 |
 | [False Promises](https://open.spotify.com/track/1cu3EoaUYDWcUvEYceDvbR) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [False Promises](https://open.spotify.com/album/6PG7rTqulExeBecNr3eCSq) | 2:31 | 2022-04-04 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-04 |  |
@@ -88,6 +89,7 @@
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2022-04-04 | 2022-11-19 |
 | [Forget Me Not](https://open.spotify.com/track/4yKBr0AQyvqlvPf9WmbA4c) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Forget Me Not](https://open.spotify.com/album/345nIMY4RJwHwwwYDojGBE) | 2:22 | 2022-05-20 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-04-04 |  |
+| [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 | 2023-03-07 |  |
 | [Free](https://open.spotify.com/track/4CCLD3LQRQovRtC2F8vqNu) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Free](https://open.spotify.com/album/5fR72sTVjsLO15gNq7K4JH) | 2:18 | 2022-07-07 |  |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-04-04 |  |
 | [Frühlingsmorgen](https://open.spotify.com/track/4DS4TRvAEwnpi5A1Qm2oCb) | [Marcel Kaestner](https://open.spotify.com/artist/1pf4PEw1mtKsExJGa3gBdG) | [Frühlingsmorgen](https://open.spotify.com/album/6TQ6200VasnalwEkCgN9oq) | 2:19 | 2022-05-20 |  |
@@ -142,6 +144,7 @@
 | [Les larmes de l'hiver](https://open.spotify.com/track/5OVinfTbBTJn2cErpyhl4F) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Les larmes de l'hiver](https://open.spotify.com/album/3LxgwHbb6V7joeTWy7ldV5) | 2:25 | 2022-12-22 |  |
 | [Letting Go](https://open.spotify.com/track/2aLgFG14lYLiV8YYziZI7Q) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Letting Go](https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr) | 3:01 | 2022-05-20 |  |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-04 |  |
+| [Liegende](https://open.spotify.com/track/6HEdLZYxdEUeAJTYdsqjND) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Liegende](https://open.spotify.com/album/25qCxo5QzY8UjJxq2SJHwY) | 2:02 | 2023-03-07 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-04-04 | 2022-05-21 |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-04-04 | 2022-05-21 |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-04 | 2022-07-08 |
@@ -264,6 +267,7 @@
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-04 |  |
 | [Stella](https://open.spotify.com/track/2STinkqXpJg7A6Hh7TS3ck) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Stella](https://open.spotify.com/album/4GvGyLV8AzmiAtgbS3NBhe) | 2:25 | 2022-10-14 |  |
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2022-12-22 |  |
+| [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 | 2023-03-07 |  |
 | [Stintless Stars](https://open.spotify.com/track/1gnHfFnLPaJvatJ9NuQDLH) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Stintless Stars](https://open.spotify.com/album/1lGHE19pGZ6LvWi2cmn4As) | 2:33 | 2023-02-28 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-04-04 |  |
 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2022-12-22 |  |
@@ -289,6 +293,7 @@
 | [Timeless](https://open.spotify.com/track/4A6N096dpRTRlAGSkxsVrh) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Timeless](https://open.spotify.com/album/5LSs52IqwKW1p2HTqSU7zX) | 2:22 | 2022-04-04 | 2022-05-21 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-20 |  |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-04 |  |
+| [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-03-07 |  |
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-04 |  |
 | [Traunstein](https://open.spotify.com/track/3oTDoIy41rJX9ZQYURoWRt) | [Theodore Tompkins](https://open.spotify.com/artist/6q0goYsbiGF4LUqGIWrXBb) | [Traunstein](https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY) | 2:29 | 2022-04-04 |  |

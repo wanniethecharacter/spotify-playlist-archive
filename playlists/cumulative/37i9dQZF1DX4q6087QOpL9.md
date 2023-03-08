@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-141 songs - 16 hr 50 min
+142 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 | 2022-09-13 |  |
 | [Crossroads \- Vocal Mix](https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d), [Tkumah Sadeek](https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH) | [Crossroads](https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l) | 8:50 | 2022-09-13 |  |
 | [Dance \- Louie Vega Dance Ritual Mix](https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El) | [3 Winans Brothers](https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Dance](https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS) | 9:29 | 2022-09-13 |  |
+| [Dangerous Vibes \- Grant's Main Mix](https://open.spotify.com/track/4CbYN8h96zoJqoB7OWajn1) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Dangerous Vibes](https://open.spotify.com/album/66FlxzmcI8adLafeoppLCp) | 8:14 | 2023-03-07 |  |
 | [Days Like This \(Spinna & Ticklah Mix\)](https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Shaun Escoffery](https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI) | 5:29 | 2022-09-13 |  |
 | [Deep in the Bottom \- of Africa](https://open.spotify.com/track/4okxc2Ues75eVebvEzs1ff) | [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Best of the Last](https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib) | 6:33 | 2022-09-13 |  |
 | [Dem People Go \- Get Out! Mix](https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Bola Belo](https://open.spotify.com/artist/4IG29194bJO2uXvnmp0vjs) | [Dem People Go](https://open.spotify.com/album/6NX2kxi7JIu9Jdw8K5bPef) | 6:42 | 2022-09-13 |  |

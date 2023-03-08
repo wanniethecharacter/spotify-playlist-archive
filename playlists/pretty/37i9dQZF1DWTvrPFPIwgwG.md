@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,104 likes - 85 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,239 likes - 85 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-90 songs - 9 hr 31 min
+91 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Ufzag](https://open.spotify.com/track/1wZEEn84EPDh0DezMNq7x0) | [Kiberu](https://open.spotify.com/artist/5sFNstp7DKE4milr5d1jV8) | [Massai](https://open.spotify.com/album/4y72Kq08pt3ZWMr83qqvz8) | 8:05 | 2022-08-24 | 2022-11-29 |
 | [Vamonos](https://open.spotify.com/track/3sVp4qJWZ9S24KPDvEE1E7) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Vamonos](https://open.spotify.com/album/6fqjsvw7ENyWIjpwYnPLnW) | 6:52 | 2022-12-05 |  |
 | [Ven Pa Ka \- Black Motion Rework](https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Homeboyz](https://open.spotify.com/artist/3L5iHIeqJGEaYViGapHs0C) | [The Healers: The Last Chapter](https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH) | 6:23 | 2022-08-24 |  |
-| [Waves & Wavs](https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:28 | 2022-11-28 |  |
+| [Waves & Wavs](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:28 | 2023-02-03 |  |
+| [Waves & Wavs](https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:28 | 2022-11-28 | 2023-03-08 |
 | [What To Do \- &ME Remix](https://open.spotify.com/track/0RMQgXHIBTsAVcaS7qahLq) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [What To Do \(Remixes\)](https://open.spotify.com/album/0SQmYnktpdLsK7jypOjAHh) | 8:24 | 2022-08-24 |  |
 | [When We Meet](https://open.spotify.com/track/4SMLbQZ9rM5BV8ZxLEOtGk) | [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K) | [The Rain Dance](https://open.spotify.com/album/0TLE2OhP2Hspnn9DIJEKyb) | 7:40 | 2022-08-24 |  |
 | [Who Is Themba \(Mixed\)](https://open.spotify.com/track/5rofzaLo6DzoR3TUVM8yJq) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Herd In Ibiza \(DJ Mix\)](https://open.spotify.com/album/7r57rslWOYskZkS0YnVTzi) | 4:17 | 2022-08-24 | 2022-11-29 |

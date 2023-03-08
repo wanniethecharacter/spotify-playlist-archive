@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 61568,
+  "num_followers": 61598,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDQ4OWM4ZDNiNTQ0NmQ2NzZiOTQyYzJmOWNhMzA3Njlk",
+  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDI0YzE1NWMwYTJjZmZkNTMyYjJiZmZjMzhjNWFjMGNk",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
-      "added_at": "2023-03-07 02:22:23",
+      "added_at": "2023-03-08 01:12:54",
       "album": {
         "name": "Melhor Lugar",
         "url": "https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
     },
     {
-      "added_at": "2023-03-07 02:22:23",
+      "added_at": "2023-03-08 01:12:54",
       "album": {
         "name": "Vai Ser Melhor",
         "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Sopro de Deus",
+        "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Sopro de Deus",
+      "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Sopro de Deus",
-        "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Sopro de Deus",
-      "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Pequenas Coisas",
-        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
-      },
-      "artists": [
-        {
-          "name": "Louisy Cim",
-          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "meu lugar",
         "url": "https://open.spotify.com/album/4q0wzcfAqJH6kgTPdz4Cfw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 250280,
       "name": "meu lugar",
       "url": "https://open.spotify.com/track/7ipxdnPLb7NnkEqAjAAfJK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Pequenas Coisas",
+        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
+      },
+      "artists": [
+        {
+          "name": "Louisy Cim",
+          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
-      "added_at": "2023-02-03 03:00:00",
+      "added_at": "2023-03-08 01:12:54",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
         }
       ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
         "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 272021,
       "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
       "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-03-07 02:22:23",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 266020,
       "name": "Apenas Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Nasce o Sol (Remix)",
         "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 173400,
       "name": "Nasce o Sol - Remix",
       "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "A Voz do Brasil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO"
       },
@@ -987,22 +971,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1051,22 +1051,6 @@
       "duration_ms": 237244,
       "name": "Crescer",
       "url": "https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Batida",
-        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 244539,
-      "name": "Batida",
-      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+        "name": "Batida",
+        "url": "https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+      "duration_ms": 244539,
+      "name": "Batida",
+      "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
-      },
-      "artists": [
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
       },
       "artists": [
         {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
         }
       ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "Amor de Pai",
+        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "Amor de Pai",
+      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Teu Calor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY"
       },
@@ -1351,54 +1367,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Planos Melhores",
-        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
-      },
-      "artists": [
-        {
-          "name": "Andressa Cordeiro",
-          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
-        }
-      ],
-      "duration_ms": 184991,
-      "name": "Planos Melhores",
-      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Amor de Pai",
-        "url": "https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Lucas",
-          "url": "https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "Amor de Pai",
-      "url": "https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 250909,
       "name": "Amado",
       "url": "https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Planos Melhores",
+        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
+      },
+      "artists": [
+        {
+          "name": "Andressa Cordeiro",
+          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
+        }
+      ],
+      "duration_ms": 184991,
+      "name": "Planos Melhores",
+      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
     }
   ],
   "unique_name": "Pop Gospel",

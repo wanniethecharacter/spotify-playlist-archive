@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-294 songs - 18 hr 16 min
+295 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Maybe It Was Memphis](https://open.spotify.com/track/5vs2dB60aaLzNcU85zzOD0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Maybe It Was Memphis](https://open.spotify.com/album/41YjhZQGLth2qkK9Q9zceI) | 4:21 | 2022-03-25 | 2022-07-09 |
 | [Me\. \- Anna's Version](https://open.spotify.com/track/6qQQZIsrt1FPgJzFOlQNIV) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Me\. \(Anna's Version\)](https://open.spotify.com/album/1OAImKpRGdsg8Q0X83qRHc) | 3:18 | 2022-04-01 | 2022-04-21 |
 | [Midnight Rider](https://open.spotify.com/track/013H2CRJ3XVjluSQ7KG1Kf) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Walking the Line](https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw) | 2:50 | 2022-03-25 | 2022-05-16 |
+| [Miss You](https://open.spotify.com/track/181vfV6t30xd89BCul7Wzh) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Miss You](https://open.spotify.com/album/0yz48S1MJskeJCF39QAD6X) | 4:54 | 2023-03-03 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/6XP87R5Pp6TBmQyZevStoH) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Favorites Collection](https://open.spotify.com/album/5R0VIdFn8PMBt3oxUnVHSi) | 3:44 | 2022-04-08 | 2022-05-11 |
 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 2:37 | 2022-07-08 |  |
 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 2:37 | 2021-12-10 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-24 |  |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
-| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 |  |
+| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 | 2023-03-08 |
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 | 2023-01-06 |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Someone Like You \- Piano Vocal](https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [1979](https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C) | 5:20 | 2021-12-10 |  |

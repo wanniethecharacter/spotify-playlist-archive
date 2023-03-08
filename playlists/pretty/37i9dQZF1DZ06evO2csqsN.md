@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,430 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,452 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 42 | [Step It Up](https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 43 | [Youngest N Richest](https://open.spotify.com/track/2TctO4deS9kABuiQ7070R1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:44 |
 | 44 | [Sorry Not Sorry \- Remix](https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry \(Remix\)](https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2) | 3:15 |
-| 45 | [Kash App \(feat\. Mulatto\)](https://open.spotify.com/track/5rcCDtgYpgcrz6NMg4N1Cb) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Kash App \(feat\. Mulatto\)](https://open.spotify.com/album/5crkkBiS59S3C9tW3f49tx) | 2:17 |
+| 45 | [He Say She Say](https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say](https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq) | 2:24 |
 | 46 | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/track/4QpNg4wDBtdevpOZFKYabg) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/album/1g56wNgEleOMrM0gYypkZF) | 3:28 |
-| 47 | [He Say She Say](https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say](https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq) | 2:24 |
+| 47 | [Kash App \(feat\. Mulatto\)](https://open.spotify.com/track/5rcCDtgYpgcrz6NMg4N1Cb) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Kash App \(feat\. Mulatto\)](https://open.spotify.com/album/5crkkBiS59S3C9tW3f49tx) | 2:17 |
 | 48 | [No Panties](https://open.spotify.com/track/4XWQVpZtYsyvVMP99H415j) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Hit The Latto](https://open.spotify.com/album/3lPb5PGWUAbT2iJxBvrVeE) | 2:33 |
 | 49 | [Longway](https://open.spotify.com/track/25AujQLIytQyTmdEIVRE8V) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Latto](https://open.spotify.com/album/3JfwblqPm4qtegXObm9ZiM) | 2:41 |
 | 50 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 |
 
-Snapshot ID: `Mjc5Njg0MDAsMDAwMDAwMDBmZWEwNzJhYmMzNzZhZDIzY2Q2ZjlkOTc3YjI0OTkyYQ==`
+Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDBhZjZjNmMzNGY2NjE4YmQ2NWY2ZjE1ZTQwOGY0MDU4NA==`

@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: JayO
 
-432 songs - 23 hr 2 min
+433 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Dangerous Love](https://open.spotify.com/track/5JayOLFuofunaBCIjissQL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Dangerous Love](https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf) | 3:14 | 2021-12-15 | 2022-07-12 |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-08-05 | 2022-11-02 |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2021-12-15 | 2022-03-26 |
-| [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 | 2022-05-13 |  |
+| [Dead To Me](https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Dead To Me](https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY) | 2:13 | 2022-05-13 | 2023-03-08 |
 | [Demonstration](https://open.spotify.com/track/5Kbwsd46e2OJfI4fGPEeFX) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Demonstration](https://open.spotify.com/album/4DeKN4alInin8samiVnWB0) | 3:44 | 2021-12-15 | 2022-05-12 |
 | [Deuce Deuce](https://open.spotify.com/track/7MPAYDUFszdl2HnJ4fqirq) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo) | [ebony](https://open.spotify.com/album/0nbXZAlsDndQrrnF5OVQiD) | 2:59 | 2023-02-03 |  |
 | [Devotion](https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Devotion](https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR) | 4:09 | 2021-12-15 | 2022-07-22 |
@@ -431,6 +431,7 @@
 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 | 2021-12-15 | 2023-01-28 |
 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 | 2023-01-27 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-12-15 | 2022-10-29 |
+| [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 | 2023-02-24 |  |
 | [Worst \(I Assume\)](https://open.spotify.com/track/6LUHCk4qqqupsz0yF48Opr) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Worst \(I Assume\)](https://open.spotify.com/album/0bHH4umiElJUvPIvqrQVfA) | 3:07 | 2021-12-15 | 2022-07-28 |
 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 | 2021-12-15 | 2022-06-11 |
 | [WTF](https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [No Weapons](https://open.spotify.com/album/6qCsH9hHN8PPVLvlswoaNt) | 2:30 | 2022-09-23 | 2022-10-08 |

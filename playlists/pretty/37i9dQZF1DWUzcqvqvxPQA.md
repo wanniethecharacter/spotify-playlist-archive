@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,922 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,930 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 39 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
 | 40 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
 | 41 | [Glorify](https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
-| 42 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
-| 43 | [He Still Does \(Miracles\)](https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Miracles](https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU) | 3:34 |
+| 42 | [He Still Does \(Miracles\)](https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Miracles](https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU) | 3:34 |
+| 43 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
 | 44 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 |
 | 45 | [Wherever I Go](https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
 | 46 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 64 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 65 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
 | 66 | [Count That High](https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Future](https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b) | 2:59 |
-| 67 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
-| 68 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
-| 69 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
+| 67 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
+| 68 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
+| 69 | [I'm Up](https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [I'm Up](https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW) | 2:57 |
 | 70 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
 | 71 | [Never Have I Ever](https://open.spotify.com/track/0maqaTZLFWYs7Wj31XXtr2) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Never Have I Ever](https://open.spotify.com/album/4DAI16o6397wZrDloQqLYT) | 3:05 |
-| 72 | [Born Ready](https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Homesick](https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl) | 2:54 |
-| 73 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
+| 72 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
+| 73 | [Born Ready](https://open.spotify.com/track/5RBlhuY6iXpnc4De5nDOvO) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [Homesick](https://open.spotify.com/album/7LXqxH6bSaN395nIDyYPPl) | 2:54 |
 | 74 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 |
 | 75 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
 | 76 | [Chasing Quiet](https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Chasing Quiet](https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 | 100 | [Can't Help Myself](https://open.spotify.com/track/0ul6k0oWpARwwd5WU1M7J5) | [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [The Boys & Girls Club of the Gulf Coast](https://open.spotify.com/artist/3D60aniZnT8Bcdq7RYzGps) | [Can't Help Myself](https://open.spotify.com/album/3ZB5Pd99GsNFKGuGjsl3kq) | 1:50 |
 
-Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMGVjNTZjOWNhZjlhYTlkNmE3YzgzNTJkMzgzOWYzNjA3`
+Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMGYxYmU2Yzk5MTE0OTVmYWJjNGFmMDg3M2UzM2I4YjM3`

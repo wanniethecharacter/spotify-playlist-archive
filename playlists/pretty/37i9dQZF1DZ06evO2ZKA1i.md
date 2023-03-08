@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,870 likes - 51 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,971 likes - 51 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 |
 | 51 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
 
-Snapshot ID: `Mjc5Njg0MDAsMDAwMDAwMDBmYmI3ZTZmZDhhNTdmNGMyZDBjNWFjMGM5NjQ1NDU5ZQ==`
+Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDAyMjdhOTI3MDc3MmY0YTQyNjU3ZWY4MjlmNzdiNzU3Mw==`

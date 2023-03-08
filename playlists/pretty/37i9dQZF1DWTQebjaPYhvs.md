@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,441 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,048 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 52 | [All Over the Road](https://open.spotify.com/track/7HsyyW9EbO0o2LMv161z10) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:48 |
 | 53 | [Flying or Crying](https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:49 |
 | 54 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
-| 55 | [The Low Road](https://open.spotify.com/track/2nQG1tuHcVNf2NJcol24oT) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/6dl36IjRdRcQyTrnTNYUK0) | 3:04 |
+| 55 | [The Low Road](https://open.spotify.com/track/5KYl73hNrzAX2D4jEHtVGL) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/0LwLSQt1PQ8X22GbGq1DtT) | 3:04 |
 | 56 | [Hands on the Wheel](https://open.spotify.com/track/6C8nBZQw7yyPQ1jkelFYX5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 4:22 |
 | 57 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
 | 58 | [Ain't Got Much](https://open.spotify.com/track/0HqEgeA548kmAOfUt8wSEd) | [Ross Shifflett](https://open.spotify.com/artist/2suY4tiIX70Hx8WqjpUM4p) | [Forever Wild](https://open.spotify.com/album/6oqxycnvaf8V9TasNZWwgd) | 3:06 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDZiOWM0YTg1MjhjNGNlYTViNTM2MzU3NTNkODQ5Yzc5`
+Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDEzNmM3ZTMyMzllNmZjMzRkY2M2Y2M3NWI5NmVlN2E3`

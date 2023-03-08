@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Winaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,716 likes - 63 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,723 likes - 63 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sudah Jalannya](https://open.spotify.com/track/09bt5vJLSuCHwXdW4Rz2AR) | [Winaya](https://open.spotify.com/artist/5kKvSQT7B5aSLXKnvSzQHq) | [Sudah Jalannya](https://open.spotify.com/album/4U1AZpoipV3MYvQIu8SwSM) | 4:33 |
 | 2 | [How Could We](https://open.spotify.com/track/6DzlhYGOYRVEiN9bmUC1nC) | [Jasmine Risach](https://open.spotify.com/artist/2BNcSe8pI5AHKmYV6D1JIj) | [Show Me the Way Out](https://open.spotify.com/album/7dpEYmIzGdJkrbvvX7FT0V) | 2:56 |
-| 3 | [Albuquerque](https://open.spotify.com/track/39aIeN9UF3JiYpcqL29WtY) | [Salsha](https://open.spotify.com/artist/25gaVpEHT6OQXS7SKVmBag) | [Albuquerque](https://open.spotify.com/album/5Va4XMr1chlKFJSewWh9K1) | 3:45 |
+| 3 | [Albuquerque](https://open.spotify.com/track/39aIeN9UF3JiYpcqL29WtY) | [Salsha](https://open.spotify.com/artist/2oKgrb7gCKVVFjyweydKyT) | [Albuquerque](https://open.spotify.com/album/5Va4XMr1chlKFJSewWh9K1) | 3:45 |
 | 4 | [Slider](https://open.spotify.com/track/7MuE0RP09IB0UvXZsQcUnQ) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Slider](https://open.spotify.com/album/7Fko4vmMGorn6RILkLMHPZ) | 3:05 |
 | 5 | [Girl](https://open.spotify.com/track/7KFhm9KVm4GEHEsNFzeDsW) | [bynemusic](https://open.spotify.com/artist/1ol3DGccEiFdDWLZLqfFLZ) | [Girl](https://open.spotify.com/album/7tqpjeqYumgR5ZWmLZOe0G) | 2:52 |
 | 6 | [Tak Sejalan](https://open.spotify.com/track/6CufvjAu4Hq4BDDDyuK59t) | [Axl Ramanda](https://open.spotify.com/artist/6OJKPCiRnBW1UqYvEC276L) | [Tak Sejalan](https://open.spotify.com/album/3mXynCcffkZiQyl8EU1vyx) | 4:03 |

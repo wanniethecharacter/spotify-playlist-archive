@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 106853,
+  "num_followers": 107119,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMDA1NTM2YTU1MDE2NDVjOTlhOWM3ZmVlODkzMmRlYzcx",
+  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMGY2ZTcyNmQyZTVkODMxMTgyNzM4YWJlOTgwOGJlYzc4",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
-      "added_at": "2023-03-07 03:10:35",
+      "added_at": "2023-03-08 01:34:41",
       "album": {
         "name": "Crux Australis",
         "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
     },
     {
-      "added_at": "2023-03-07 03:10:35",
+      "added_at": "2023-03-08 01:34:41",
       "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
-      "added_at": "2023-03-07 03:10:35",
+      "added_at": "2023-03-08 01:34:41",
       "album": {
         "name": "Regresar (Vibes4YourSoul Remix)",
         "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 219600,
       "name": "Hipn\u00f3tico",
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2022-09-30 04:03:44",
@@ -645,6 +645,38 @@
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
     },
     {
+      "added_at": "2022-08-02 22:05:40",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 216163,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
+    },
+    {
+      "added_at": "2022-07-01 02:43:42",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
       "added_at": "2022-08-03 03:35:17",
       "album": {
         "name": "Savanne",
@@ -665,22 +697,6 @@
       "url": "https://open.spotify.com/track/4EtXoWsTabm86xzjQSAwoU"
     },
     {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "El Abuelo",
@@ -699,22 +715,6 @@
       "duration_ms": 331158,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/1cmjjbzi9Hqe6IgHbB7gBp"
-    },
-    {
-      "added_at": "2022-08-02 22:05:40",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 216163,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
-    },
-    {
       "added_at": "2022-11-17 23:06:29",
       "album": {
         "name": "El Sabor del Viejo Mar",
@@ -847,6 +831,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Skin and Bones",
         "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 238000,
       "name": "Pool Party",
       "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/7ossK2yjI5VzrYWMF8E57F"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
       "added_at": "2023-01-02 21:43:35",
       "album": {
         "name": "Noest\u00e1saqu\u00ed",
@@ -995,6 +979,22 @@
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Carnavalera",
         "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 227984,
       "name": "Carnavalera",
       "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Forevernevermore",
-        "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Don\u2019t You Want My Love",
-      "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Apolinar",
         "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 251428,
       "name": "Temazcal",
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Forevernevermore",
+        "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Don\u2019t You Want My Love",
+      "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Tropical Gypsy",
         "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 181926,
       "name": "Tropical Gypsy",
       "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     },
     {
       "added_at": "2022-06-15 04:26:09",

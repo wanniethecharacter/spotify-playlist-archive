@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,530 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,534 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 9 | [You Don't Own Me](https://open.spotify.com/track/4WQQca1mSDCLsBKdxV3sjh) | [Jack Killed Jill...](https://open.spotify.com/artist/0xJn4cHxwGEdg0bVjeb0Gj) | [Hello Neighbor](https://open.spotify.com/album/0Ycvf8skLYb73LQdZph9jb) | 2:32 |
 | 10 | [I Was Made for Lovin' You](https://open.spotify.com/track/0m0yp4DfZG8HI80byBbv3n) | [Queen of Japan](https://open.spotify.com/artist/1KgOUOeP1C4B0neabVHAwv) | [Headrush](https://open.spotify.com/album/0Tzw30NIDBVdrMjXmWl4EC) | 3:53 |
 | 11 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
-| 12 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 |
+| 12 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/36bTUqjD7QyMY5ABZqVwLv) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Best Of The Bs](https://open.spotify.com/album/7rkyBR3TJuM7EtXlZROo27) | 2:46 |
 | 13 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
 | 14 | [Bad Lieutenant](https://open.spotify.com/track/5OtJV84lmbqSfrE8VBLFBy) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/03XbxOVj2wfUVZrccBgPBB) | 3:17 |
 | 15 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 51 | [The Best](https://open.spotify.com/track/6fekGHLJPWZQZQhPJgcJfl) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Compliments Please \(Deluxe\)](https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex) | 3:50 |
 | 52 | [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 |
 
-Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMGJhMWM2N2ZlODI2YWY4ZjFlOWY3YTQzMTdiMDk5Yzcw`
+Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMGM1NTFiNDJjNTc2NmNjZGU0N2I1OWU4Yjg2ZmRhZjVk`

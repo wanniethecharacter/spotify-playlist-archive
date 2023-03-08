@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-197 songs - 14 hr 20 min
+198 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Love Me Once Again](https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Afterglow](https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb) | 4:11 | 2021-04-21 |  |
 | [Love Sick](https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cheerful Sensibility](https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk) | 4:01 | 2021-04-21 |  |
 | [Love you](https://open.spotify.com/track/2AaFVIvvx4IofzSMuaLkbe) | [Min Kyunghoon](https://open.spotify.com/artist/7uv6GgFILw5jZxPnsGzER3) | [The K2 \(Original Television Soundtrack\), Pt 4](https://open.spotify.com/album/62zPzFcvW08FhyggfphnlK) | 3:49 | 2021-04-21 |  |
-| [Love…It is](https://open.spotify.com/track/6xCqSpnnWDsPsgLNG5INXe) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/44EYHeEEPPp7C8wzLeTQxG) | 4:50 | 2021-04-21 |  |
+| [Love…It is](https://open.spotify.com/track/1ZwY85R4wiv7vSrHwM5N1F) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/73myaoDVJVg75N8P0VS5RK) | 4:50 | 2021-04-21 |  |
+| [Love…It is](https://open.spotify.com/track/6xCqSpnnWDsPsgLNG5INXe) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/44EYHeEEPPp7C8wzLeTQxG) | 4:50 | 2021-04-21 | 2023-03-08 |
 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 | 2021-04-21 |  |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2021-04-21 |  |
 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 | 2021-04-21 |  |

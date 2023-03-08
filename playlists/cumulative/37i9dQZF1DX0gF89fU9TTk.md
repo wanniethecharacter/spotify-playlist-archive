@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-168 songs - 10 hr 3 min
+169 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 | 2021-12-31 | 2022-10-05 |
 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 | 2021-12-31 | 2022-07-29 |
 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 | 2021-12-31 |  |
-| [Help Me](https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Help Me](https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ) | 3:24 | 2023-02-18 |  |
+| [Help Me](https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Help Me](https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ) | 3:24 | 2023-02-18 | 2023-03-08 |
 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 | 2021-12-31 |  |
 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 | 2021-12-31 | 2022-10-21 |
 | [Horizon](https://open.spotify.com/track/1NmHUEvUh1JdxsxSBv1xIg) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Horizon](https://open.spotify.com/album/5aioaYMnrqTk5GzgfKGvG8) | 3:43 | 2021-12-31 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [Loyal \(OMG\)](https://open.spotify.com/track/1vqDM7Dx9s4TokQu2NWXRF) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Loyal \(OMG\)](https://open.spotify.com/album/6x2tyKrPxFbqeQJ613pSfk) | 2:33 | 2021-12-31 | 2022-07-29 |
 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 | 2021-12-31 |  |
 | [Momentum](https://open.spotify.com/track/0U6GdW3n6kjIGQ6UM60EWK) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/6zlre1tj8zUG60NB6sSrzV) | 3:14 | 2021-12-31 | 2023-02-13 |
+| [Momentum](https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ) | 3:14 | 2023-02-18 |  |
 | [Momentum](https://open.spotify.com/track/6qUWiMokzyMYbqa3IXHhPd) | [ZOE Worship](https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK) | [BE OKAY](https://open.spotify.com/album/1TVTbmQbX8c8EvDOSdznLc) | 3:13 | 2021-12-31 | 2022-07-28 |
 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 | 2021-12-31 |  |
 | [More Than Good Enough](https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [More Than Good Enough](https://open.spotify.com/album/46FVrs8EC3twbTNHVWCLVt) | 3:43 | 2021-12-31 | 2022-07-29 |

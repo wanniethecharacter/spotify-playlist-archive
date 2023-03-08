@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: ILLENIUM \\m/
 
-284 songs - 16 hr 22 min
+285 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Medulla \- Barren Gates Remix](https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt), [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Medulla \(Barren Gates Remix\)](https://open.spotify.com/album/0XF4M7GOmdrOouV87cKcLd) | 4:08 | 2021-12-10 | 2022-07-29 |
 | [Modern Guy \- grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Modern Guy \(grandson remix\)](https://open.spotify.com/album/2jSPvTo1wN8DKMIKZS6fzT) | 2:18 | 2021-12-10 | 2022-06-25 |
+| [Money Makes The World Go Round](https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC) | [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI), [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [Money Makes The World Go Round](https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw) | 2:42 | 2023-03-03 |  |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2023-01-16 |
 | [My Head](https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC), [Listing](https://open.spotify.com/artist/2KFVbDcO6wEgFaecVXDMhw) | [Bloom](https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV) | 4:30 | 2021-12-10 | 2022-01-27 |
 | [My Name Is Thunder](https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [The Great Electronic Swindle](https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi) | 2:47 | 2021-12-10 |  |
@@ -229,7 +230,7 @@
 | [Shine \(Konus & INF1N1TE Remix\)](https://open.spotify.com/track/5jdMwB3oIRYwPtjXHxgDoE) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Konus](https://open.spotify.com/artist/2LKYdTjorWiwLF17VK5eI9), [NetNobody](https://open.spotify.com/artist/34LuaqC7oxlHjEyB925Qgz) | [Shine \(Remastered\)](https://open.spotify.com/album/0Pe0OkDNqVVOGZYu32y4Ya) | 4:28 | 2021-12-10 | 2022-01-26 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |
 | [Shockwave](https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 3:01 | 2021-12-10 |  |
-| [Sick](https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Sick](https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur) | 3:49 | 2021-12-10 |  |
+| [Sick](https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Sick](https://open.spotify.com/album/4BvWG5QPVZk19DgLCUqxur) | 3:49 | 2021-12-10 | 2023-03-08 |
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-24 | 2023-02-26 |
 | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/track/7sOneFgIctEkJJd6gXV7nj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/album/1RNw8fPG9pT28Eqjlesqcr) | 2:34 | 2021-12-10 | 2022-07-29 |

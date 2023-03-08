@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-349 songs - 20 hr 51 min
+350 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Ready For The High](https://open.spotify.com/track/4Md0lS45w5oNNmWL8OS3AV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready For The High](https://open.spotify.com/album/7BAyGMOoV9VObrZfb3tfWJ) | 4:05 | 2021-10-14 |  |
 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 | 2020-11-20 | 2022-03-18 |
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-10-10\* | 2021-05-13 |
+| [Regret Me](https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:16 | 2023-03-08 |  |
 | [Remote Control](https://open.spotify.com/track/5IsB2kShsBfmHZcXqcFB7Y) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Remote Control](https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg) | 2:41 | 2021-02-26 | 2022-03-18 |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-02-25 | 2022-03-18 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 |  |

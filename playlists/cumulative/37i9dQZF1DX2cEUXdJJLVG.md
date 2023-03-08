@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-224 songs - 13 hr 30 min
+227 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Am Ta](https://open.spotify.com/track/1kxD9cHzYspr92wMjTyUIu) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Am Ta EP](https://open.spotify.com/album/3jWRdeKMHeSFTBzYvxWV9K) | 4:30 | 2022-09-29 |  |
 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 | 2022-09-09 |  |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-09-09 |  |
+| [Are You Even Sorry](https://open.spotify.com/track/6rDRn3bjkILnkDJySKjzMO) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Are You Even Sorry](https://open.spotify.com/album/3vYAhAb03cBAIaTJmM9Zj2) | 2:47 | 2023-03-07 |  |
 | [Baby Who](https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp) | 3:07 | 2022-10-12 | 2022-10-15 |
 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2022-09-09 | 2022-10-14 |
 | [Backpack](https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Backpack](https://open.spotify.com/album/23VitqlOhg49f9RSxVNqAF) | 5:11 | 2022-09-09 |  |
@@ -191,6 +192,7 @@
 | [Something New \- Kraak & Smaak Remix Edit](https://open.spotify.com/track/279sQU1hHoEwLleB1dTmS2) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Muhsinah](https://open.spotify.com/artist/2xMBRdUYQjgJezQ8lNGQq5), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Something New \(Kraak & Smaak Remixes\)](https://open.spotify.com/album/3IZIsNJS0sdV30Sp1Xj1YC) | 4:14 | 2023-02-23 |  |
 | [Soul Caliber \(Remix\)](https://open.spotify.com/track/455v0kWFW362VlD22VJFvz) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [h0wdy](https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Quintin Gulledge](https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf) | [Soul Caliber \(Remix\)](https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF) | 3:44 | 2022-12-05 |  |
 | [Soul Liberator \- Kerem Akdağ Remix](https://open.spotify.com/track/3T0wb0HTqKGhEMdTCn3gUt) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Sanguita Akkrum](https://open.spotify.com/artist/2InEuUF9oBtn5E8IstCrIs), [Kerem Akdağ](https://open.spotify.com/artist/5DxrSUpHixL1t8os9E7xOz) | [Pleasure Centre Remixed](https://open.spotify.com/album/5ica5FqEeFkG3vOmhj8Ey7) | 3:08 | 2022-09-09 | 2022-09-16 |
+| [Soul Tropical](https://open.spotify.com/track/45zW45OwpItrFbKzAW9jA0) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Soul Tropical](https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm) | 3:44 | 2023-03-07 |  |
 | [Spare Me](https://open.spotify.com/track/2cH0clQUvBwo77M8W2YQ3D) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Spare Me](https://open.spotify.com/album/0MQaaH4YZEapRhhaJOVDG9) | 3:20 | 2022-09-09 | 2022-10-15 |
 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 | 2022-09-09 |  |
 | [Stella](https://open.spotify.com/track/4aUuuGkBAsQPheOvi4bnsN) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:41 | 2022-09-09 | 2022-10-15 |
@@ -221,6 +223,7 @@
 | [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 |  |
 | [Vibe of Summer](https://open.spotify.com/track/3bNTws4fs7hgliXbfBmN3d) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1TgpfmHtQM4sUrGowYTtn2) | 3:27 | 2022-09-09 | 2022-10-15 |
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 |  |
+| [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [Koffie](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 | 2023-03-07 |  |
 | [Wait Till The Morning](https://open.spotify.com/track/1MLF2YamXA1ELOgbQ6Ivtf) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T), [New Body Electric](https://open.spotify.com/artist/3h0OzibApOQzdvIGPEVavo), [Efraïm Trujillo](https://open.spotify.com/artist/6QMEYX8YSAruSN9r8EHgv5) | [I Wanna Go Home](https://open.spotify.com/album/15W0lTLQPOJWHnjR5c3RYS) | 2:45 | 2023-02-16 |  |
 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2022-09-09 |  |
 | [Water](https://open.spotify.com/track/2rd14gIDd5AKvY0p0lEIo1) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/1mZph3gZln4JRUoARWWRJW) | 3:29 | 2022-09-09 |  |

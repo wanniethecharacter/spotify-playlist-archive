@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-235 songs - 15 hr 41 min
+236 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 | 2019-09-16 |  |
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 | 2023-03-01 |
 | [Obrecht](https://open.spotify.com/track/3PwmnXo3vQi326NDlf0iQj) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves](https://open.spotify.com/album/0n636PGAlBwMN0dn03ZmC3) | 3:36 | 2018-11-26 | 2022-07-29 |
+| [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 | 2022-12-14 |  |
 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 | 2018-11-26 |  |
 | [One Half](https://open.spotify.com/track/4gDTwTId75QePmzeZ2woCQ) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/7wVXPA9EfAh7VA5dfaIiP3) | 3:41 | 2018-11-26 | 2022-07-28 |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2018-11-26 |  |
@@ -242,6 +243,6 @@
 | [You](https://open.spotify.com/track/6H179fTdaQXT4QHnNxNX4D) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:09 | 2018-11-26 | 2022-07-29 |
 | [Your Love Is An Island](https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Wild Alee \(Deluxe Edition\)](https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF) | 3:56 | 2022-12-14 |  |
 | [Your Love Is an Island](https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Your Love Is an Island](https://open.spotify.com/album/5k6cxdLfxmu1cIcgCInAkB) | 4:05 | 2018-11-26 | 2022-11-13 |
-| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 |  |
+| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 | 2023-03-08 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

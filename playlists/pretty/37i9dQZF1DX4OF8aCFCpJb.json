@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66055,
+  "num_followers": 66056,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDEyMDQwNWRjZDc0MjMxMDMzZDFiNzY3MTI0MmQwZDE3",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMGZkM2I4ZTJiNmU4MjEzMzBiOWNlN2Q3M2IzNzJjMDYz",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Punch of Love",
-        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
-        }
-      ],
-      "duration_ms": 245530,
-      "name": "No Winners",
-      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "ANITYA",
         "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Punch of Love",
+        "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lemma",
+          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+        }
+      ],
+      "duration_ms": 245530,
+      "name": "No Winners",
+      "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
         "url": "https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg"
       },
@@ -791,6 +791,26 @@
       "duration_ms": 231293,
       "name": "Snapphaneklanen",
       "url": "https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -827,26 +847,6 @@
       "duration_ms": 242973,
       "name": "12 Steps",
       "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2023-03-02 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Gerardo Ortíz & Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,093 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,304 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 26 | [El Kiwi \(En Vivo\)](https://open.spotify.com/track/67VfQFDFC0gdkIWQa1a6ny) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [El Kiwi \(En Vivo\)](https://open.spotify.com/album/4sO36TZzZN6jwcdc6d021a) | 3:24 |
 | 27 | [El Mago](https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Mago](https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U) | 3:48 |
 | 28 | [Comando 14](https://open.spotify.com/track/73nHwR55NTZKqFEKRMtYHl) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Comando 14](https://open.spotify.com/album/6Bij0V8PuByX1OMjqZvghl) | 2:48 |
-| 29 | [Te Quiero \- Live](https://open.spotify.com/track/1Z6mjxGzbilLNnRDXlZ61Z) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero \(Live\)](https://open.spotify.com/album/6YV2xEVGlp9PLTv2wHS04X) | 3:02 |
+| 29 | [Te Quiero](https://open.spotify.com/track/30cecr0ZkOxzBAmdA8fWeu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero](https://open.spotify.com/album/2SEQvr4tdaQguLDvjYtnKr) | 3:06 |
 | 30 | [Que Tu Voz Te Salve](https://open.spotify.com/track/2XsSvQ6A1H9DG8vVSLNT99) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Naina](https://open.spotify.com/artist/6KYhfKWl6pCw7bFcZcAn4Z), [Maria Bernal](https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3) | [Que Tu Voz Te Salve](https://open.spotify.com/album/5WCNMsBGOFO9j6ffKk1ePW) | 3:36 |
 | 31 | [Te Solté La Rienda](https://open.spotify.com/track/0XdSeukWZB68n5zWc2NnQT) | [Beatriz Gonzalez](https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ) | [Te Solté la Rienda](https://open.spotify.com/album/1b5rtmCRP3ycSZgAGrpOGw) | 4:04 |
 | 32 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 |
 | 50 | [Qué Onda Perdida](https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN) | 3:43 |
 
-Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMDFmMDRiM2ZkMTFlNmExOGJjYTJhNjExMWMzY2JlMmRj`
+Snapshot ID: `MTY3NzgyMzIwMCwwMDAwMDAwMGFlN2JkYzZiZjE3ZmY4ZTIwOTllYWY3MWJjZmJhMGRi`

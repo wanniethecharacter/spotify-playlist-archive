@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-200 songs - 12 hr 12 min
+201 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Backstep Cindy / Purple Bamboo](https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Song of the Traveling Daughter \(Bonus Track Version\)](https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL) | 3:01 | 2022-07-22 |  |
 | [Backstep Cindy/Purple Bamboo](https://open.spotify.com/track/6XuD42wKyxfGOTrO1kdZK0) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Song of the Traveling Daughter](https://open.spotify.com/album/4unZBN3ywyKP0ULRH9ODlh) | 3:01 | 2021-12-03 | 2022-07-29 |
 | [Backwaters](https://open.spotify.com/track/07BCxiinT4u11J5QQHpd1w) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [Backwaters](https://open.spotify.com/album/2CeKS7jH06EWqGgaRp3Len) | 6:10 | 2021-12-03 | 2022-07-29 |
-| [Backwaters](https://open.spotify.com/track/3K9w773BVnDob3ZxwSwu2D) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [Backwaters](https://open.spotify.com/album/2c61OQqY8w2F0Mfpb8vKmv) | 6:10 | 2022-07-22 |  |
+| [Backwaters](https://open.spotify.com/track/3K9w773BVnDob3ZxwSwu2D) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [Backwaters](https://open.spotify.com/album/2c61OQqY8w2F0Mfpb8vKmv) | 6:10 | 2022-07-22 | 2023-03-08 |
 | [Baltimore Johnny](https://open.spotify.com/track/2FKMBFBtCytHBMREtKSFyx) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [The Cold Hard Facts](https://open.spotify.com/album/3UlWgH0BvvUmv4NJ7ftRGu) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Baltimore Johnny](https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [The Cold Hard Facts](https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao) | 3:31 | 2022-07-22 |  |
 | [Banjo in the Hollow](https://open.spotify.com/track/3aJtHHAiq4HGM1FPtMDbLy) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Back Porch Bluegrass](https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea) | 1:54 | 2021-12-03 | 2022-07-23 |
@@ -109,6 +109,7 @@
 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 | 2021-12-03 |  |
 | [Joshua](https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Act 1](https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf) | 2:37 | 2021-12-03 | 2023-02-06 |
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2021-12-03 |  |
+| [Just a Closer Walk With Thee](https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [New Highway \(Remastered\)](https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0) | 2:20 | 2023-03-03 |  |
 | [Katmandu](https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:23 | 2021-12-03 | 2022-07-23 |
 | [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 | 2022-10-25 |
 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-12-03 |  |

@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Los Bitchos
 
-99 songs - 5 hr 0 min
+101 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [6L GTR](https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 2:05 | 2022-12-02 |  |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-12-02 |  |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-12-02 |  |
-| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 |  |
+| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 | 2023-03-08 |
 | [Always Lose](https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Always Lose](https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI) | 3:07 | 2022-12-02 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 |  |
@@ -32,6 +32,7 @@
 | [D.R.I.L.D.O](https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:12 | 2022-12-02 |  |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-12-02 |  |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-12-02 | 2023-02-03 |
+| [Demolition Row](https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp) | 4:18 | 2023-03-03 |  |
 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 | 2023-02-06 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-12-02 |  |
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-12-02 |  |
@@ -62,7 +63,7 @@
 | [It Ain't Enough](https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World \(Deluxe\)](https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8) | 4:43 | 2023-01-18 |  |
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-12-02 | 2023-03-03 |
 | [Knees Deep](https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 3:39 | 2022-12-02 |  |
-| [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-12-02 |  |
+| [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-12-02 | 2023-03-08 |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-12-02 |  |
 | [Lonely Island](https://open.spotify.com/track/0l0hy8NAZPk5qCzS2UTgu6) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Disposable Life](https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi) | 3:17 | 2022-12-02 | 2023-01-19 |
 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 | 2022-12-02 |  |
@@ -107,5 +108,6 @@
 | [White Trash Millionaire](https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Sweet Tooth](https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL) | 2:38 | 2022-12-02 |  |
 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 | 2022-12-02 |  |
 | [Wishing You Hell](https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Wishing You Hell](https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa) | 3:14 | 2022-12-02 |  |
+| [Your Turn](https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Cairn](https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv) | [Your Turn](https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59) | 2:23 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

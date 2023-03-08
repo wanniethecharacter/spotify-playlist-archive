@@ -4,7 +4,7 @@
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-110 songs - 9 hr 5 min
+111 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 | 2023-01-04 |  |
 | [Balthus Bemused By Color](https://open.spotify.com/track/4uBVCPfbPFKQmy0kEQgJMT) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 5:16 | 2022-06-04 | 2022-10-08 |
 | [Beau, As In Beaumont](https://open.spotify.com/track/03zhFeVXRdiugsURvkKmih) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Another Flower](https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv) | 3:27 | 2022-10-13 | 2022-10-19 |
-| [Bell Tower](https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [La Bella Vista](https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL) | 2:00 | 2023-02-10 |  |
+| [Bell Tower](https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [La Bella Vista](https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL) | 2:00 | 2023-02-10 | 2023-03-08 |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2022-05-29 |  |
 | [Bloody And Blunt](https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 2:13 | 2022-05-31 |  |
 | [Boy About 10](https://open.spotify.com/track/4aAkYp6k2sP2WsBiFyaF8J) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [By The Dawn's Early Light](https://open.spotify.com/album/2koLWogmlGsQKefgooyRXa) | 4:59 | 2022-05-29 | 2022-09-21 |
@@ -116,6 +116,7 @@
 | [Wanderer](https://open.spotify.com/track/34wVtw1bMgjicq9o9uK4nr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 4:15 | 2022-05-29 | 2022-10-12 |
 | [Why Do You Love Me?](https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 4:51 | 2022-05-29 |  |
 | [Widows Charm](https://open.spotify.com/track/0fnwhKgvtZOaG4LosBTdko) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [I Know This Much Is True \(Music From The HBO Series\)](https://open.spotify.com/album/3U97Z1DvgFjej0mVTi5slN) | 1:58 | 2022-10-24 | 2023-01-13 |
+| [Widows Charm](https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 1:58 | 2023-03-07 |  |
 | [Winter Garden](https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:45 | 2022-05-30 |  |
 | [You Again](https://open.spotify.com/track/2AukRdyCuqfBHnNUUI7uoE) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 3:24 | 2022-06-23 | 2022-06-26 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 22704,
+  "num_followers": 22716,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3NjE0NiwwMDAwMDAwMDczMjgwNTIwMjFiMjEwNjI5M2E2MjViNzg4NDdmY2Ni",
+  "snapshot_id": "MTY3Mzg3NjE0NiwwMDAwMDAwMDA4MDUyYmU5YzEzOGFkYWE4NTQ3NjU3ZTY4NzFhNGQw",
   "tracks": [
     {
       "added_at": "2022-11-17 16:14:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "A Day At The Races (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1mnQiO568zXIrUncttTZGp"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Pretzel Logic",
-        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Rikki Don't Lose That Number",
-      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 170800,
       "name": "You're My Best Friend - Remastered 2011",
       "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Pretzel Logic",
+        "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Rikki Don't Lose That Number",
+      "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Let's Stick Together",
-        "url": "https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Let's Stick Together",
-      "url": "https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1wNDlgfrrLKInAgz5W4b2n"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 168826,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/4scS449npSaFolwj9b4RJD"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Let's Stick Together",
+        "url": "https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Let's Stick Together",
+      "url": "https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp"
     },
     {
       "added_at": "2022-11-17 16:14:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-17 16:14:04",
       "album": {
-        "name": "Cat Scratch Fever",
-        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
-      },
-      "artists": [
-        {
-          "name": "Ted Nugent",
-          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
-    },
-    {
-      "added_at": "2022-11-17 16:14:04",
-      "album": {
         "name": "Living in the Material World",
         "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 215701,
       "name": "Give Me Love (Give Me Peace on Earth)",
       "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
+    },
+    {
+      "added_at": "2022-11-17 16:14:04",
+      "album": {
+        "name": "Cat Scratch Fever",
+        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
+      },
+      "artists": [
+        {
+          "name": "Ted Nugent",
+          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
     },
     {
       "added_at": "2022-11-17 16:14:04",

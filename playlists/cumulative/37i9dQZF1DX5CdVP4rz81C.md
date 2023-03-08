@@ -2,7 +2,7 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Henry Moodie
+> Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
 1,200 songs - 2 day 14 hr 57 min
 

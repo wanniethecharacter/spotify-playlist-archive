@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 121156,
+  "num_followers": 121184,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDA2NmUwZjdhZWU2N2EwOTc4YmQ2ZTQ1MmIwOGVjZmY5",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDNjMjM1Y2U1YmIyMzk3YWU2NmM4OWVmMzIzY2IwY2Fm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Manglares (B-Sides) - EP",
         "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 218752,
       "name": "Gemas",
       "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2023-02-17 05:58:00",

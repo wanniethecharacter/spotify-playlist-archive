@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-215 songs - 15 hr 1 min
+216 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 | 2020-11-13 |  |
 | [Boardwalk](https://open.spotify.com/track/3J80Xk9JJgygAlTWmaWEQA) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Boardwalk](https://open.spotify.com/album/7mlPg2FJZbUWhn4ghRXaIn) | 4:04 | 2022-03-25 | 2022-07-29 |
 | [Boiling Pot](https://open.spotify.com/track/561DcDl3hPXFdW9bI7mTbn) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Boiling Pot](https://open.spotify.com/album/0hYWNyPQg7ntchVk83CeDF) | 3:11 | 2021-04-23 | 2022-07-29 |
+| [Boiling Pot](https://open.spotify.com/track/6e2cN0jB6TskHmMvQAxW7k) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Drift](https://open.spotify.com/album/33PW6j12JZS3VTvbQkuKUX) | 3:11 | 2021-04-23 |  |
 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2020-11-13 |  |
 | [Bounce: pts I + II](https://open.spotify.com/track/4CewWsIgEbKcSBtrgi0T9o) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/6U0q62N1S9dRXLNDE6PigD) | 5:33 | 2020-11-13 | 2022-07-29 |
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2020-11-13 | 2022-11-07 |
@@ -217,7 +218,7 @@
 | [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 | 2022-11-18 |
 | [Way Of The Haggis](https://open.spotify.com/track/2UCnlNredMUv69xZ6kVs1D) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Keep On Movin'](https://open.spotify.com/album/0YIl9Rl3emtKP2qnjjmM72) | 4:28 | 2020-11-13 | 2022-04-21 |
 | [We Need Love](https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Need Love](https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp) | 3:00 | 2021-06-25 | 2022-05-19 |
-| [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 |  |
+| [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 | 2023-03-08 |
 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 | 2020-11-13 | 2022-07-12 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/6kElTefmRx2J8nYe84vWRj) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/0SGSbCsHJrgkaUe2FiR8Tp) | 3:21 | 2021-12-03 | 2022-07-16 |
 | [Work Tapes](https://open.spotify.com/track/5hVL3iwV00R4K10kPmfM5W) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/16E6N3NF4JmckFOIDuvRwp) | 2:18 | 2020-11-13 | 2022-07-29 |

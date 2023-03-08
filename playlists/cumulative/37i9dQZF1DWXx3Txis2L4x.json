@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 230066,
       "name": "Control",
       "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Get on Top",
+      "url": "https://open.spotify.com/track/0GcWf1Cc4ixN35D3O9VdcP"
+    },
+    {
+      "album": {
         "name": "Asymmetry (Deluxe)",
         "url": "https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 222214,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 239386,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -1499,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
+    },
+    {
+      "album": {
         "name": "SHINY AND OH SO BRIGHT, VOL. 1 / LP: NO PAST. NO FUTURE. NO SUN.",
         "url": "https://open.spotify.com/album/6chLMlDdUlCHQ1t48qHmwA"
       },
@@ -1755,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
@@ -1784,7 +1838,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 240572,
       "name": "Out of the Black",
       "url": "https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX"
@@ -2022,6 +2076,24 @@
       "duration_ms": 222588,
       "name": "Silverspoon",
       "url": "https://open.spotify.com/track/6I3l3hVdt7JyfZC112hweJ"
+    },
+    {
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Sleep Now In the Fire",
+      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
     },
     {
       "album": {
@@ -2490,6 +2562,24 @@
       "duration_ms": 265706,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
+    },
+    {
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "album": {

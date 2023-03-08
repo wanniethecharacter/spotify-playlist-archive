@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 337268,
+  "num_followers": 337521,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDMzMDlmYTk3ZWZkYmY3NTQwOGM0MzM1MTYzOThkN2Vl",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDQ4OGY2MjY3NmM3YTExNmQ0ZTZkNDllYmY0ZTk5YzEw",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -823,8 +823,8 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -911,38 +911,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Fornalha Laura Souguellis",
         "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
       },
@@ -963,6 +931,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "H\u00e1 Um Vinho Novo",
         "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 315586,
       "name": "Voc\u00ea Me Leva ao Deserto",
       "url": "https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2022-04-15 03:00:00",

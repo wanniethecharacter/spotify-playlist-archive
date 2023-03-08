@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,383 likes - 162 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,710 likes - 162 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 43 | [Better](https://open.spotify.com/track/6vR67M62RldzHCU9Bb1ZQf) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Better](https://open.spotify.com/album/09qHlN2iSzm0JPLXYiVkKM) | 2:55 |
 | 44 | [Broken](https://open.spotify.com/track/2yg53XBaQDtIk6hYT2VFSD) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/7ghIKFtH1hzdB3dLXgRcOf) | 3:48 |
 | 45 | [about you](https://open.spotify.com/track/5Q9TqsxESs6B2GqOambNLm) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:47 |
-| 46 | [I Don't Wanna Know](https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD) | 3:00 |
-| 47 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
+| 46 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
+| 47 | [I Don't Wanna Know](https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD) | 3:00 |
 | 48 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 |
 | 49 | [4AM \(feat\. HOLT.\)](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:14 |
 | 50 | [Lovers Say Goodbye](https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Lovers Say Goodbye](https://open.spotify.com/album/2SCHhLKJQTLI3OExmZYaTz) | 2:17 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 161 | [Alone](https://open.spotify.com/track/7Mle7Hl4xLcbaSOTNvKDrg) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Alone](https://open.spotify.com/album/5C0QX3dIaId5XpyL5nxh2h) | 2:51 |
 | 162 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 |
 
-Snapshot ID: `MTY3Nzg4MjU3MSwwMDAwMDAwMDI4MmE2MTIyMzExZDY5NWYzYjkyZjEzZmJkYTEzMmZj`
+Snapshot ID: `MTY3Nzg4MjU3MSwwMDAwMDAwMGQ0Y2RjNGU1NGE4YTZhNzFjYjFiMTgxZGU1NTQyMTc1`

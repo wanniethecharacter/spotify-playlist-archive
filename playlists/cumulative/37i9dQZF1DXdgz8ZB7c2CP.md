@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Skrillex.
 
-356 songs - 20 hr 2 min
+357 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Stroll](https://open.spotify.com/track/5MCn3O0w5iXHIEbhRfLwxZ) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [2018 – 2021 \(mixtape\)](https://open.spotify.com/album/2f0fN9byk0YhViWf0rZDDN) | 3:12 | 2021-08-06 | 2022-06-18 |
 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 | 2021-08-06 |  |
 | [Subterfuge](https://open.spotify.com/track/6UTPwvV7k4Lmscca3tJxuE) | [Krischvn](https://open.spotify.com/artist/4VT88y8BOxQjndfg6LS2Od) | [Rude Boi EP](https://open.spotify.com/album/3tWfAmQHyDMbKpzZVGmraF) | 3:50 | 2021-08-06 | 2022-07-27 |
-| [Sun Fall Down](https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sun Fall Down](https://open.spotify.com/album/4Xuvi6KBxr2Flnb5ZspUf4) | 2:22 | 2021-08-06 |  |
+| [Sun Fall Down](https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sun Fall Down](https://open.spotify.com/album/4Xuvi6KBxr2Flnb5ZspUf4) | 2:22 | 2021-08-06 | 2023-03-08 |
 | [Sunburn \- Reimagined](https://open.spotify.com/track/0i27kJRbxmdzQzhVDJVgzO) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Sunburn \(Reimagined\)](https://open.spotify.com/album/4B8VCnt9cXMBzQctzzEYDW) | 4:07 | 2021-08-06 | 2023-02-11 |
 | [Sunrise](https://open.spotify.com/track/6YiN3NPoIN35zCRJ17C7v0) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K) | [Sunrise](https://open.spotify.com/album/6vVcYDuLnPxT7OfXK4Xa2l) | 2:59 | 2022-03-18 | 2022-04-20 |
 | [Sunsets With You](https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sunsets With You](https://open.spotify.com/album/6a3OAugRshmqyRyDZ6FVgP) | 3:48 | 2021-08-06 | 2023-03-04 |
@@ -314,6 +314,7 @@
 | [Think About Us](https://open.spotify.com/track/2HeL8TqSKIWdZLtCL90ykM) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Lorne](https://open.spotify.com/artist/2wHF1TMPlk7tgzmEWAjPpR) | [Think About Us](https://open.spotify.com/album/5gNXhMLVOlonpTqa3tVlMg) | 3:22 | 2021-08-06 | 2022-04-21 |
 | [Thinkin About](https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Thinkin About](https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs) | 2:39 | 2023-02-10 |  |
 | [Thirst \- Hex Cougar Remix](https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Thirst \(Hex Cougar Remix\)](https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd) | 3:24 | 2023-03-03 |  |
+| [THIS IS THE END.](https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [THIS IS THE END.](https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1) | 2:50 | 2023-03-03 |  |
 | [three little words](https://open.spotify.com/track/0F7u39EASLrCAcThAXE1fM) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Anna Dellaria](https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR) | [three little words](https://open.spotify.com/album/5Xw17msGS4bB8NCXp4Sc2v) | 3:24 | 2023-02-10 |  |
 | [tic tac toe](https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [tic tac toe](https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs) | 2:52 | 2021-08-06 | 2022-06-22 |
 | [TIME + ENERGY](https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TIME + ENERGY](https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM) | 2:58 | 2021-08-06 |  |

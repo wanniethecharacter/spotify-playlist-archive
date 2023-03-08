@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq"
+    },
+    {
+      "album": {
         "name": "Remote Control",
         "url": "https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg"
       },

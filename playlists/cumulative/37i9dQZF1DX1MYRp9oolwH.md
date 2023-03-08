@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-99 songs - 6 hr 38 min
+100 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 | 2022-07-08 |  |
 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [M\. M\. Sreelekha](https://open.spotify.com/artist/6CuXzjuJB23gdGN8IsA5yS), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 | 2022-11-10 |  |
 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 | 2022-11-26 |  |
+| [Vennello Aadapilla \(From "Bedurulanka 2012"\)](https://open.spotify.com/track/7nNZTyhbJcS3hx9Ecx3w8f) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Vennello Aadapilla \(From "Bedurulanka 2012"\)](https://open.spotify.com/album/3splLInsIEyso2mD5hDD3D) | 4:15 | 2023-03-07 |  |
 | [What's Happening \(From "Dhamaka"\)](https://open.spotify.com/track/4mKZayqLgsawAfmWnJhDSC) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Bhargavi Pillai](https://open.spotify.com/artist/7FtuQ5LCrZa0813JkrBQe4) | [What's Happening \(From "Dhamaka"\)](https://open.spotify.com/album/1EDWLK9X6N7vWia8DJxRK9) | 4:40 | 2022-11-14 |  |
 | [Yedurangula Vaana](https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI) | 4:12 | 2022-12-12 |  |
 | [Yemaiundacho](https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Yemaiundacho](https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx) | 5:25 | 2022-03-11 | 2023-02-21 |

@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-127 songs - 7 hr 42 min
+128 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Floating By \- Mndsgn Remix](https://open.spotify.com/track/7KlnAsAp5d2liLfQnUXITM) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Floating By \(Mndsgn Remix\)](https://open.spotify.com/album/3KG1lZGWbEGUG3SvZFUUHb) | 3:57 | 2018-12-11 | 2022-07-29 |
 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 | 2018-12-11 |  |
 | [Fragment II](https://open.spotify.com/track/4BE2zxYvp7iUqaj6nb7kyb) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur) | [Fragment II](https://open.spotify.com/album/0w3OKPMhnsAMivBZCjMBZL) | 5:39 | 2018-12-11 | 2022-07-29 |
-| [Fragment II](https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur) | [Fragments](https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub) | 5:39 | 2018-12-11 |  |
+| [Fragment II](https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur) | [Fragments](https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub) | 5:39 | 2018-12-11 | 2023-03-08 |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2018-12-11 |  |
 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 | 2018-12-11 |  |
 | [Frozen Away](https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [Blur // Frozen Away](https://open.spotify.com/album/2fqV2w0MSDUocsbpI0OSaa) | 2:48 | 2018-12-11 | 2022-07-29 |
@@ -85,6 +85,7 @@
 | [Money](https://open.spotify.com/track/1Pvp3lLLxoc0qKBDUjHvvn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Money](https://open.spotify.com/album/1o78NPweWzYF2cH9iWayZg) | 3:59 | 2018-12-11 | 2022-07-29 |
 | [Money](https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:59 | 2018-12-11 |  |
 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 | 2018-12-11 | 2023-02-18 |
+| [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 | 2018-12-11 |  |
 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 | 2018-12-11 |  |
 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 | 2019-03-18 |  |
 | [Never Meant To Call](https://open.spotify.com/track/5b5wCUEao71E5iME5fPl93) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant To Call](https://open.spotify.com/album/3TZUFqDwQsrmzY5d7cXYdy) | 2:57 | 2019-03-18 | 2022-06-03 |

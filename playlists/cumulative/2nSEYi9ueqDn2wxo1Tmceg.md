@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-386 songs - 1 day 2 hr 3 min
+387 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Lucked Out](https://open.spotify.com/track/5tIk9HI04FCiYFJqRFef5B) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 1:48 | 2022-11-23 | 2023-01-12 |
 | [Macca The Mutt](https://open.spotify.com/track/2kpi8kAf9mrQwLKmdCxJ45) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [Macca The Mutt](https://open.spotify.com/album/4f7VB6WcKvRfxepC6FgirJ) | 4:01 | 2022-06-16 | 2022-07-28 |
 | [Make A Wish](https://open.spotify.com/track/2s866YAOjnMqLb6iBPsYBM) | [Cody Pepper](https://open.spotify.com/artist/4PdvTDaTRycQZtT1JLU4Fh) | [Make A Wish](https://open.spotify.com/album/5Mgd7rlG2HPVOTaziV3Y9y) | 3:36 | 2022-11-09 | 2022-12-08 |
+| [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 | 2023-03-07 |  |
 | [Mam Pe'ela Su'ure](https://open.spotify.com/track/6UONPrPGoFlTMm74cjBQkx) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Mam Pe'ela Su'ure](https://open.spotify.com/album/4aD1N49PqHfqVd7gCK7008) | 3:49 | 2022-09-21 | 2022-10-21 |
 | [MBGATE \- Kero Kero Bonito Remix](https://open.spotify.com/track/3h2e8PoBKVQKjswwQnCgsY) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [MBGATE \(Kero Kero Bonito Remix\)](https://open.spotify.com/album/20s2d4wXpZnFmkp4WdzSXu) | 2:46 | 2022-08-10 | 2022-09-29 |
 | [Melon](https://open.spotify.com/track/5734g7WLlFBFsRJoG2vw46) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [Paste](https://open.spotify.com/album/6ovELXbM0sve6oZSU0SIeg) | 4:16 | 2022-11-09 | 2022-12-15 |

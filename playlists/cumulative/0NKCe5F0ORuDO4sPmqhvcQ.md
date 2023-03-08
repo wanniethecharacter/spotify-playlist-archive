@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-413 songs - 23 hr 10 min
+414 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-10-24 | 2022-11-23 |
 | [eee](https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF), [Abraham Tilbury](https://open.spotify.com/artist/4aQXVB8RpVJTrpQoKdkE4M) | [eee](https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ) | 3:06 | 2022-02-17 | 2022-03-10 |
 | [Electric Girl](https://open.spotify.com/track/31zigPsorRb8r0F4qlzajY) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Electric Girl](https://open.spotify.com/album/1Hvdm7WU9nNjadZZQtJz3f) | 2:55 | 2022-02-03 | 2022-02-16 |
+| [Embrace Chaos](https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [The Valentine Effect](https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk) | 2:35 | 2023-03-07 |  |
 | [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 | 2023-01-19 |  |
 | [END\-LE77](https://open.spotify.com/track/5FbY1gyzhiSoBBD0ynX5AT) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [END\-LE77](https://open.spotify.com/album/57lDSqe8Xwxrc2jTfVuOdQ) | 4:43 | 2022-11-11 | 2023-01-30 |
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-25 | 2023-01-30 |
@@ -201,7 +202,7 @@
 | [Inside My Head](https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [Inside My Head](https://open.spotify.com/album/46Xk8s8C66TNraDW6r4dWs) | 2:42 | 2022-10-09 |  |
 | [Into The Night](https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Eilish Gilligan](https://open.spotify.com/artist/65LDkZn0JiySoZODomsvVQ) | [Into The Night](https://open.spotify.com/album/37NLypcnxqNBPzPuoJYcVS) | 2:30 | 2022-08-04 | 2022-09-19 |
 | [intothedeep](https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/7c2heWYrt28gCmmJ8U9fwu) | 3:10 | 2022-07-01 | 2022-07-16 |
-| [It Girl \(Warner Case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(Warner Case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 | 2023-01-20 |  |
+| [It Girl \(warner case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(warner case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 | 2023-01-20 |  |
 | [It's All for You](https://open.spotify.com/track/0nmllQKv85yVIgPHHzKK4l) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Aria](https://open.spotify.com/album/0NlaAPR7ZFnfi1OTL0eOly) | 3:25 | 2021-09-29 | 2022-01-08 |
 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 | 2022-10-20 | 2023-01-20 |
 | [John Cena](https://open.spotify.com/track/4DKILQtMzmWQe5iWxKfqrE) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v), [Kevin Bedford](https://open.spotify.com/artist/4Db2sZjOrXmsy7upT254sM) | [John Cena](https://open.spotify.com/album/6wgIEc5ueZ7LdkvPiqlUsx) | 2:33 | 2021-09-24 | 2022-01-08 |

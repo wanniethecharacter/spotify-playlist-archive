@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 44 min
+71 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 | 2022-06-01 |  |
 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 | 2022-06-01 |  |
 | [El Que Sigue De Mí](https://open.spotify.com/track/6aIW3bAThbuDnZmqC7hHqu) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 3:12 | 2022-06-01 |  |
+| [En El Proceso De Olvidarte](https://open.spotify.com/track/4Her2iviLlAgL1NQQJZHnh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 2:38 | 2023-03-07 |  |
 | [En Eso No Quedamos](https://open.spotify.com/track/1JqyD8BNhTpqEkpgeJRdaD) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:09 | 2022-06-01 |  |
 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 | 2022-06-01 |  |
 | [Ese Loco Soy Yo](https://open.spotify.com/track/0bBBOltko9yaIrIzQgYzYp) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ese Loco Soy Yo](https://open.spotify.com/album/6zEXNn3VL8OzlR0R4X2AEr) | 4:47 | 2022-06-01 | 2022-10-20 |
@@ -76,7 +77,7 @@
 | [Volver A Volar](https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Banda La Ejecutiva](https://open.spotify.com/artist/1ROmrzMDt3ZdBSwtNGBaSy), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Emir Pabón](https://open.spotify.com/artist/2WLxRZFk4tyKg9CCp5m7lB), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn), [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [José Manuel Figueroa](https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF), [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Volver A Volar](https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg) | 3:11 | 2022-06-01 |  |
 | [Y Se Parece A Ti](https://open.spotify.com/track/7j0DwKoBLkgXkfDtu3CgmV) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:26 | 2022-12-17 | 2023-02-07 |
 | [Y Sólo Tú](https://open.spotify.com/track/4dgaCpg0k6iNUh1UUDvKay) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:47 | 2022-06-11 |  |
-| [Ya Me Enculé](https://open.spotify.com/track/2FSMCv6ix85x8r5E7zGsmd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 2:21 | 2023-03-01 |  |
+| [Ya Me Enculé](https://open.spotify.com/track/2FSMCv6ix85x8r5E7zGsmd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Hecho Para Ti](https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3) | 2:21 | 2023-03-01 | 2023-03-08 |
 | [Ya Me Voy Para Siempre \- En Vivo](https://open.spotify.com/track/6RQAzfcmcKxXUPRY4NZ9In) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Ya Me Voy Para Siempre \(En Vivo\)](https://open.spotify.com/album/1RhWFjueW3APSWIyAilxxV) | 3:46 | 2022-06-01 | 2022-08-10 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

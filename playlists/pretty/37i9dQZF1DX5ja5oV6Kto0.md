@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=PR3NDmcERxS43WJOhOizBA"> SUPERJAZZCLUB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,353 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,408 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 7 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 |
 | 8 | [Bow Down](https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:03 |
 | 9 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 |
-| 10 | [Vex](https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/0c16bmaBQQto9akErVkTue), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [ODUMODUBLVCK](https://open.spotify.com/artist/1KMl7oxmZzQS5I9e8aiNTs) | [Cruel Love/Vex](https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u) | 2:46 |
+| 10 | [Vex](https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [ODUMODUBLVCK](https://open.spotify.com/artist/1KMl7oxmZzQS5I9e8aiNTs) | [Cruel Love/Vex](https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u) | 2:46 |
 | 11 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 12 | [If You Say](https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 3:38 |
 | 13 | [Pacifier](https://open.spotify.com/track/1pWiciwrA2f7sny0zC6XAt) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Pacifier](https://open.spotify.com/album/2ytDOAj8V1qYVlNHt3HWD1) | 2:30 |

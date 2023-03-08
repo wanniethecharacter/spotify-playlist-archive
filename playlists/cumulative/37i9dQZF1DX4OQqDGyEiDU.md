@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-469 songs - 1 day 3 hr 3 min
+470 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [パラサイト](https://open.spotify.com/track/3nMZzgFVIIn9gH6BELlnO6) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [パラサイト](https://open.spotify.com/album/4RqyeNSVWthESSg676MKLr) | 2:45 | 2022-06-09 | 2022-07-27 |
 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 | 2022-07-05 | 2022-07-10 |
 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 | 2022-06-09 | 2022-07-29 |
-| [ヒアソビ \(feat\. 初音ミク\)](https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [ヒアソビ](https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X) | 4:05 | 2023-02-28 |  |
+| [ヒアソビ \(feat\. 初音ミク\)](https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [ヒアソビ](https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X) | 4:05 | 2023-02-28 | 2023-03-08 |
 | [ヒガン](https://open.spotify.com/track/6ar2xVifUQwjHXyRGThlrw) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ミゼラブル](https://open.spotify.com/album/352noHeM2Iq8h1EcguExNC) | 3:34 | 2022-06-14 | 2022-07-07 |
 | [ヒトサマアレルギー](https://open.spotify.com/track/781eCm44DxjVZiln6OjN9G) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [一期一会](https://open.spotify.com/album/0AwjkkarpsHafMLm4om94j) | 3:18 | 2023-02-23 | 2023-03-06 |
 | [ヒトサマアレルギー](https://open.spotify.com/track/5wzZpasFh4cOfFA8LbBMcB) | [かいりきベア feat.flower](https://open.spotify.com/artist/18pfezVicJROB7KoWV74Mc) | [一期一会](https://open.spotify.com/album/5R9hc0gwV3pBoiyz0jM3BM) | 3:18 | 2022-06-09 | 2022-07-28 |
@@ -426,6 +426,7 @@
 | [残星と鴎](https://open.spotify.com/track/1M07a757rwmx99M8XUiMdk) | [立椅子かんな](https://open.spotify.com/artist/7y3hS1XfKRHoWbs5SrJyJy) | [残星と鴎](https://open.spotify.com/album/08VJMW4iDXIQ8e0IM5JTgJ) | 3:41 | 2022-07-19 | 2022-07-23 |
 | [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 | 2022-12-13 | 2023-01-20 |
 | [気まぐれ流星群](https://open.spotify.com/track/3GeYWTHbDTU98WhkowXavL) | [パンD](https://open.spotify.com/artist/6XbY0ubbBCcuM1ony5gu9I) | [気まぐれ流星群](https://open.spotify.com/album/7r3JbbLphgZPeshbhYzyxt) | 3:28 | 2022-06-09 | 2022-07-23 |
+| [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-03-08 |  |
 | [水色侵略](https://open.spotify.com/track/7mzT4nSOs335TWzIVrRarX) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [水色侵略](https://open.spotify.com/album/669k9UED6tumRgLBqWzZ1T) | 4:09 | 2022-06-14 | 2022-07-09 |
 | [泡沫未来 \(feat\. 初音ミク\)](https://open.spotify.com/track/1dV1V1xgkrnWE1GcK5fsdw) | [加賀\(ネギシャワーP\)](https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm) | [Negi Shower Party!!](https://open.spotify.com/album/1O9VzscrVd71TqaTIhV2sC) | 2:51 | 2022-06-14 | 2022-07-17 |
 | [流星のパルス \(feat\. 鏡音レン\)](https://open.spotify.com/track/0hgBNUmvRqa8se2Gs10Un3) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [流星のパルス](https://open.spotify.com/album/3GzJnwhTXiW7MWGRmTmywu) | 4:45 | 2022-06-14 | 2022-07-22 |

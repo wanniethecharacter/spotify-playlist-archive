@@ -4,7 +4,7 @@
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-87 songs - 6 hr 47 min
+88 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 | 2021-10-20 |  |
 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 | 2021-10-20 |  |
 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 | 2021-10-20 | 2022-07-29 |
-| [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 | 2021-10-20 |  |
+| [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 | 2021-10-20 | 2023-03-08 |
 | [Bailar Contigo En La Oscuridad](https://open.spotify.com/track/0mPvl85Cym8Fx1qn4eEQXi) | [Rubi](https://open.spotify.com/artist/3510DsTIfnfwEQeCqZ9F9T) | [Quiero Bailar Contigo](https://open.spotify.com/album/1ao7o8wrtgNQ19Jc595n6M) | 3:32 | 2021-10-20 | 2022-07-29 |
 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 | 2021-10-20 |  |
 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 | 2021-10-20 |  |
@@ -75,6 +75,7 @@
 | [Problèmes d'Amour](https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq), [Martine Michellod](https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE) | [Ce n'est q'un début \(Remastered\)](https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs) | 4:30 | 2021-10-20 | 2022-07-29 |
 | [Programmed for Love](https://open.spotify.com/track/4hh98lPI8eofSZwtD1RRR7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Andy Wallace](https://open.spotify.com/artist/2WhBMr0aFMTJVXc5TYvu27) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 5:40 | 2021-10-20 | 2022-07-29 |
 | [Push It](https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 3:28 | 2021-10-20 |  |
+| [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 | 2021-10-20 |  |
 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 | 2021-10-20 | 2023-03-03 |
 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 | 2021-10-20 | 2022-07-26 |
 | [Rock the Box](https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Rock the Box](https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem) | 5:00 | 2021-10-20 | 2022-07-28 |

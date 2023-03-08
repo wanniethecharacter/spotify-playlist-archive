@@ -1,12 +1,12 @@
 {
   "description": "good vibes only.",
-  "num_followers": 1024044,
+  "num_followers": 1024369,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDE3Y2UxMDc1NzA0OWU3YzcxMWU2MGYxYzM0MDM0ZDhh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGNlNmI1YmNhMjM3ZjA2NjMyZTc0YmM1NWE2MTdmYTI5",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 238810,
       "name": "World on Fire (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
-      },
-      "artists": [
-        {
-          "name": "MAGIC GIANT",
-          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "The Best Of Sugar Ray",
-        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
       },
       "artists": [
         {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Someday - Remastered",
-      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
+      "duration_ms": 209613,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 205065,
       "name": "Straight Jacket",
       "url": "https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Best Of Sugar Ray",
+        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Someday - Remastered",
+      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1187,22 +1187,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "I Wanna Be Your High",
-        "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
+        "name": "Pacific Coast Highway (with Trevor Hall)",
+        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
       "artists": [
         {
-          "name": "Chad Tepper",
-          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
         },
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 187500,
-      "name": "I Wanna Be Your High",
-      "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
+      "duration_ms": 227440,
+      "name": "Pacific Coast Highway (with Trevor Hall)",
+      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Pacific Coast Highway (with Trevor Hall)",
-        "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
+        "name": "I Wanna Be Your High",
+        "url": "https://open.spotify.com/album/3XUe0l63TUAhtxrA0WPqVU"
       },
       "artists": [
         {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
         },
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 227440,
-      "name": "Pacific Coast Highway (with Trevor Hall)",
-      "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
+      "duration_ms": 187500,
+      "name": "I Wanna Be Your High",
+      "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Vacation (feat. Train)",
         "url": "https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 212937,
       "name": "Vacation (feat. Train)",
       "url": "https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY"
     },
     {
       "added_at": "2022-10-07 04:01:00",

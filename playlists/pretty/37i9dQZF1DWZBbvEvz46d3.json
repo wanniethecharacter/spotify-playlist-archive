@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 54669,
+  "num_followers": 54704,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDIzZjE0ZjQxMGM0NGQ4YWMyNTg0YTA5NzZlZWNlNjA1",
+  "snapshot_id": "MTY3NjI4NDgwOCwwMDAwMDAwMDQ0ZjNkMThlNTc2NTUzZmMxNWZkNzVkZjM3MGUxN2E1",
   "tracks": [
     {
       "added_at": "2023-02-03 16:31:51",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Kawalerka",
-        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
-      },
-      "artists": [
-        {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Kawalerka",
+        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
+      },
+      "artists": [
+        {
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Helena",
-        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "Prawda o nas",
         "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/7HYiz2pwAzXulTpWcL5ZtD"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5HoGLRydfDTwIWGrTzJPbQ"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Wielki Odlot 2 - Najlepsze 80-te",
-        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
-      },
-      "artists": [
-        {
-          "name": "Urszula",
-          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Dmuchawce, Latawce, Wiatr",
-      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 239373,
       "name": "A Wszystko To...(Bo Ciebie Kocham)",
       "url": "https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
+        "name": "Wielki Odlot 2 - Najlepsze 80-te",
+        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
+      },
+      "artists": [
+        {
+          "name": "Urszula",
+          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Dmuchawce, Latawce, Wiatr",
+      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
-      "added_at": "2023-03-07 01:55:58",
+      "added_at": "2023-03-08 01:15:22",
       "album": {
         "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
         "url": "https://open.spotify.com/album/1ps4zilmJwT8YRPfIrmv30"
@@ -1111,22 +1111,6 @@
       "duration_ms": 258946,
       "name": "Nie zrozumie nas - z filmu \u201eJohnny\u201d",
       "url": "https://open.spotify.com/track/19vMdeqdiAf5zpHuv3bUW6"
-    },
-    {
-      "added_at": "2023-02-03 16:31:51",
-      "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
-      },
-      "artists": [
-        {
-          "name": "Piotr Zio\u0142a",
-          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+      },
+      "artists": [
+        {
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
+    },
+    {
+      "added_at": "2023-02-03 16:31:51",
+      "album": {
         "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
         "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 157837,
       "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
-    },
-    {
-      "added_at": "2023-03-07 01:55:58",
-      "album": {
-        "name": "Osobista kolekcja 2",
-        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
-      },
-      "artists": [
-        {
-          "name": "Krystyna Pro\u0144ko",
-          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
-      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1195,6 +1179,22 @@
       "duration_ms": 202127,
       "name": "Pomimo Burz",
       "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
+    },
+    {
+      "added_at": "2023-03-08 01:15:22",
+      "album": {
+        "name": "Osobista kolekcja 2",
+        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
+      },
+      "artists": [
+        {
+          "name": "Krystyna Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
+      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2023-02-03 16:31:51",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-02-03 16:31:51",
       "album": {
-        "name": "Oddycham",
-        "url": "https://open.spotify.com/album/754tuVtUml3dvC0YysRpZK"
+        "name": "Kwiat Jab\u0142oni i go\u015bcie: Wolne serca",
+        "url": "https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0"
       },
       "artists": [
         {
-          "name": "Kamil Bednarek",
-          "url": "https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE"
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
         }
       ],
-      "duration_ms": 290481,
-      "name": "List",
-      "url": "https://open.spotify.com/track/427wJVMJuEPYdxjwDhFiBY"
+      "duration_ms": 259941,
+      "name": "Jutro mo\u017cemy by\u0107 szcz\u0119\u015bliwi",
+      "url": "https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

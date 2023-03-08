@@ -5886,7 +5886,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 142223,
       "name": "Sun Fall Down",
       "url": "https://open.spotify.com/track/15XblnEBskqnVR3DzR30H7"
@@ -6302,6 +6302,28 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "album": {
+        "name": "THIS IS THE END.",
+        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "THIS IS THE END.",
+      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
     },
     {
       "album": {

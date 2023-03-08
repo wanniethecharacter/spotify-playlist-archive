@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 26704,
+  "num_followers": 26829,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMDU0YjI0NDM0ZWIyY2I1YzhlMmJjMzUwZjY4YWFiMzNl",
+  "snapshot_id": "MTY3NDc0ODAyNCwwMDAwMDAwMDk0OTVjM2UyOWQyYjNhNTZmNmM1ZWExOTcxYWE3MzJk",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -271,22 +271,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "SURVIVORS GUILT: THE MIXTAPE//",
-        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
+        "name": "The Dream Is Over",
+        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 118733,
-      "name": "estella//",
-      "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
+      "duration_ms": 148893,
+      "name": "DVP",
+      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -307,18 +303,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "The Dream Is Over",
-        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
+        "name": "SURVIVORS GUILT: THE MIXTAPE//",
+        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 148893,
-      "name": "DVP",
-      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+      "duration_ms": 118733,
+      "name": "estella//",
+      "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "I Wish I Was Stephen Malkmus",
         "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 231860,
       "name": "I Wish I Was Stephen Malkmus",
       "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 282121,
       "name": "Weed Pin",
       "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Angelhood",
-        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
-      },
-      "artists": [
-        {
-          "name": "grandma",
-          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "soft-glow",
-      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6bKQ8iw83w4iyACgoEzPt4"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Angelhood",
+        "url": "https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh"
+      },
+      "artists": [
+        {
+          "name": "grandma",
+          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "soft-glow",
+      "url": "https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE"
     },
     {
       "added_at": "2023-01-13 05:00:00",

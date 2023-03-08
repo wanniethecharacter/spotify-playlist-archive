@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Nabihah Iqbal
 
-1,329 songs - 3 day 6 hr 44 min
+1,330 songs - 3 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Confidence \(feat\. Jon Waltz\)](https://open.spotify.com/track/6cMKaS2ZRD8GDgdTdufanl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 4:20 | 2021-02-06 | 2021-03-26 |
 | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/track/5Q3yF8ebIG1emrWXXw9Tbt) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Confidence \(feat\. Tayo Sound\)](https://open.spotify.com/album/0ikMJFtQr0X1g9j4OG3VY6) | 2:53 | 2022-11-18 | 2023-02-03 |
 | [Control](https://open.spotify.com/track/40eaYakmKgXWBRnlmYKj5w) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Control](https://open.spotify.com/album/4Yd21IKbdwX7GQCBa3zKWT) | 4:03 | 2022-03-31 | 2022-06-25 |
+| [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-07 |  |
 | [cool kid](https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [cool kid](https://open.spotify.com/album/2AXY3PdfKoLLcIHtEfPSZN) | 4:02 | 2021-07-15 | 2021-09-10 |
 | [Cool Kids](https://open.spotify.com/track/1KuKl8qIrUfkvtQtGn1Awo) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Cool Kids](https://open.spotify.com/album/05IcnMq0Wn025bMmbV8J9L) | 3:26 | 2021-09-10 | 2021-10-29 |
 | [Cop Car](https://open.spotify.com/track/3h1P9jnY42axEAIm28POdL) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Misled](https://open.spotify.com/album/4mCPQKGgqWVHBgkG1eHH7j) | 3:34 | 2021-10-29 | 2022-02-04 |

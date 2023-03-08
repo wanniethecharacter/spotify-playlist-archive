@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141409,
+  "num_followers": 141405,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDY0YjE4Zjc0MzkzMjU3YTJiMWYxN2MxZjk1ZTEyYjA2",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDM4NjQ5MjExYTY5MzUzZjIyN2QyNGRiNDM5YzI3MTc4",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -359,6 +359,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 271229,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",

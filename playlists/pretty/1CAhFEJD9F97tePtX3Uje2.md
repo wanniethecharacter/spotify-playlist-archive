@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 357 likes - 212 songs - 12 hr 42 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 357 likes - 213 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 210 | [Paradise](https://open.spotify.com/track/7atISFYLur90ZXfQgFibA9) | [SHPACKYOU$](https://open.spotify.com/artist/67qKhVs7sfKAF7b38kPcNE) | [Vinyl 2](https://open.spotify.com/album/3nbGgtr417BUtWI1fZkvtI) | 1:56 |
 | 211 | [Forever](https://open.spotify.com/track/3AvllZd4og3ZaxildemX4O) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Forever](https://open.spotify.com/album/5gTC1VPmpEG0yq3wK5bLBA) | 4:40 |
 | 212 | [Never Leave](https://open.spotify.com/track/37xPHUDhcmt8ezVkqsotdM) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [Never Leave](https://open.spotify.com/album/0XxgmHPqu2K9QrObH6trsm) | 3:09 |
+| 213 | [Slow Drift](https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE) | [CRXSS](https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo), [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Slow Drift](https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ) | 2:48 |
 
-Snapshot ID: `MjI4LDVlYjA4MzlhYmVmNWQwZTg5N2FiODU0NjUzM2U5MmI1OWZlYzNhZjA=`
+Snapshot ID: `MjI5LDcyOTZiYzYyMGQ1ZDBkNmU4MDQ2MmU0YjJkODM1MmUyZTg1NDIyYTQ=`

@@ -1,29 +1,13 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 121613,
+  "num_followers": 121698,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMDk4OGM5ZWE2YjdhMDAwZTFmMWQ1YWE1MzAwOTkyMGQx",
+  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMGM2ZDljZWM4MTgxMDA2YjRlZjQzYTM5MWYzMTA3OGMz",
   "tracks": [
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
-    },
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 250106,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Como Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 130066,
       "name": "Amor de Estudiante",
       "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "30 Anos De Exitos",
         "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 161386,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
-        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Tu Cabeza en Mi Hombro",
-      "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Palito Ortega y Sus Exitos",
         "url": "https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 200960,
       "name": "Por Muchas Razones Te Quiero",
       "url": "https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
+        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Cara de Gitana",
-        "url": "https://open.spotify.com/album/6pqKRx4O9p4Y4pAZMSF5qc"
-      },
-      "artists": [
-        {
-          "name": "Daniel Magal",
-          "url": "https://open.spotify.com/artist/3SFE7F3VPgSDh7AvBLuVyL"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Cara de Gitana",
-      "url": "https://open.spotify.com/track/6ZcL1hCAnEgz3MxP3xdFYe"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
         "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 274533,
       "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
       "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Cara de Gitana",
+        "url": "https://open.spotify.com/album/6pqKRx4O9p4Y4pAZMSF5qc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Magal",
+          "url": "https://open.spotify.com/artist/3SFE7F3VPgSDh7AvBLuVyL"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Cara de Gitana",
+      "url": "https://open.spotify.com/track/6ZcL1hCAnEgz3MxP3xdFYe"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Mocedades (1973) [Remasterizado 2022]",
-        "url": "https://open.spotify.com/album/2I4E6FHABHanPPXmY2cMqZ"
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Eres T\u00fa - Remasterizado",
-      "url": "https://open.spotify.com/track/5MWUstMMH2rcxqTSkEeTtP"
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+        "name": "Mocedades (1973) [Remasterizado 2022]",
+        "url": "https://open.spotify.com/album/2I4E6FHABHanPPXmY2cMqZ"
       },
       "artists": [
         {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+      "duration_ms": 210693,
+      "name": "Eres T\u00fa - Remasterizado",
+      "url": "https://open.spotify.com/track/5MWUstMMH2rcxqTSkEeTtP"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Castillos en el aire",
-        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Castillos en el aire",
-      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "2 en 1 (Amigo Mio, Cuenta Conmigo)",
         "url": "https://open.spotify.com/album/6WEYYj4KpgQEvkPMIomeih"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "La Orquesta de Siempre: Volume 1",
-        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+      "duration_ms": 198106,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1511,6 +1495,22 @@
       "duration_ms": 239826,
       "name": "Esa Triste Guitarra",
       "url": "https://open.spotify.com/track/0OA9C6PLBsWYA3LDljB0E3"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1543,22 +1543,6 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "Mi Arbol Y Yo",
-        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Mi Arbol Y Yo",
-      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1623,6 +1607,22 @@
       "duration_ms": 233293,
       "name": "Una L\u00e1grima (Una Lacrima)",
       "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Mi Arbol Y Yo",
+        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Mi Arbol Y Yo",
+      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",

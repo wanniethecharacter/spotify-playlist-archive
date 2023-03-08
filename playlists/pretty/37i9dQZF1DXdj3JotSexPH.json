@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Gaming Time!",
-  "num_followers": 32864,
+  "num_followers": 32867,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUxMTE4NSwwMDAwMDAwMDg5OGI2NzE5ZjUyZmFjMzBlZjU4NzdiYWVlNzFlNGU5",
+  "snapshot_id": "MTY3MzUxMTE4NSwwMDAwMDAwMGIwMGQ5OTdlZGRiNmU5M2ViYzA5M2ExNTQwZjMxNDVk",
   "tracks": [
     {
       "added_at": "2023-01-12 08:13:05",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Spinnin",
-        "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
-      },
-      "artists": [
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        },
-        {
-          "name": "Bens",
-          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
-        }
-      ],
-      "duration_ms": 110938,
-      "name": "Spinnin",
-      "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Enemy (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 173381,
       "name": "Enemy - From the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "duration_ms": 110938,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
     },
     {
       "added_at": "2023-01-12 08:13:05",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-01-12 08:13:05",
       "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2023-01-12 08:13:05",
-      "album": {
         "name": "Check Out",
         "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "added_at": "2023-01-12 08:13:05",
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2023-01-12 08:13:05",

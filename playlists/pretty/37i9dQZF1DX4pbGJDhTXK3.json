@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 124699,
+  "num_followers": 124727,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDQzYmI0MTM2MTY2MWQ4OTlhOTNjMTlmYzQ2NjM4ZDVl",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDhmYjhlMmJmZjkyYzQ3MTIxMjg0Mjk2NWU2NDFlYzRi",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -407,34 +407,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
       "artists": [
         {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -455,18 +439,34 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
         }
       ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 401066,
+      "name": "Flott Flyt",
+      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "CDIII",
         "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
       },
@@ -583,6 +599,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "A City So Convenient",
+        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
+      },
+      "artists": [
+        {
+          "name": "Mungolian Jetset",
+          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
+        }
+      ],
+      "duration_ms": 386268,
+      "name": "A City So Convenient",
+      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Vegvisir (Nils Olav Remix)",
         "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
@@ -599,38 +631,6 @@
       "duration_ms": 372838,
       "name": "Vegvisir (Nils Olav Remix)",
       "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 401066,
-      "name": "Flott Flyt",
-      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "A City So Convenient",
-        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
-      },
-      "artists": [
-        {
-          "name": "Mungolian Jetset",
-          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
-        }
-      ],
-      "duration_ms": 386268,
-      "name": "A City So Convenient",
-      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
     },
     {
       "added_at": "2023-01-19 23:00:00",

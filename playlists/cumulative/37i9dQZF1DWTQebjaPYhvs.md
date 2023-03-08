@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-204 songs - 12 hr 44 min
+205 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-11-28 |  |
 | [The Humbling River](https://open.spotify.com/track/69GE6yPZZldvqtgBHrKXxg) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [C Is For \(Please Insert Sophomoric Genitalia Reference Here\)](https://open.spotify.com/album/5dKl1Mg0MWV7m4Yhu76b9F) | 5:05 | 2019-06-27 |  |
 | [The Light](https://open.spotify.com/track/4ynqu9dZHY2LeyDzVUjpXc) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [The Light](https://open.spotify.com/album/4bHF4d67wEchsDA8D1AY5K) | 3:58 | 2022-01-03 |  |
-| [The Low Road](https://open.spotify.com/track/2nQG1tuHcVNf2NJcol24oT) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/6dl36IjRdRcQyTrnTNYUK0) | 3:04 | 2021-11-23 |  |
+| [The Low Road](https://open.spotify.com/track/2nQG1tuHcVNf2NJcol24oT) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/6dl36IjRdRcQyTrnTNYUK0) | 3:04 | 2021-11-23 | 2023-03-08 |
+| [The Low Road](https://open.spotify.com/track/5KYl73hNrzAX2D4jEHtVGL) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [The Other Life](https://open.spotify.com/album/0LwLSQt1PQ8X22GbGq1DtT) | 3:04 | 2021-11-23 |  |
 | [The Mercury](https://open.spotify.com/track/0vNTlunI1KuAEM9N1bqH13) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Turnpike Troubadours](https://open.spotify.com/album/46EPywakNshyqPm3KFUYpQ) | 3:43 | 2020-07-13 |  |
 | [The Other Side](https://open.spotify.com/track/6gDOaDZ1gIckCpjh8LdN7Q) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Mescalito](https://open.spotify.com/album/3R4SU0GLULP0QxIal7Fcr1) | 2:08 | 2021-11-08 |  |
 | [The Poet](https://open.spotify.com/track/6ky22lfaJkoGgDRE6W5xUn) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 4:56 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 301847,
+  "num_followers": 301954,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGU4ZjFjYmJiODk2NWM2ZjhmZjhlMTY5MGU2MWI4MjNm",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDc4M2ZiNDgyNTE2Yjc1NWM4ZTMwY2NhZGMwZDc1MDUz",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
         }
       ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+      "duration_ms": 207200,
+      "name": "Heart Beat Here",
+      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
     }
   ],
   "unique_name": "Stripped Down",

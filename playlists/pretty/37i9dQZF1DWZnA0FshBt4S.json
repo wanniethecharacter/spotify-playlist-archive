@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 76461,
+  "num_followers": 76599,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDRhYTYwNGFmY2JmY2E2NTIxNWIxMjRlOWM3NTkwODFm",
+  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDRiZThkYTgwOTQ2NWNmNTZiMmZlOWRhMmU3ZWM1Njc5",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215400,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Smalltown Poets",
-        "url": "https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E"
-      },
-      "artists": [
-        {
-          "name": "Smalltown Poets",
-          "url": "https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Prophet, Priest and King",
-      "url": "https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 199226,
       "name": "Super Good Feeling - Static Album Version",
       "url": "https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Smalltown Poets",
+        "url": "https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E"
+      },
+      "artists": [
+        {
+          "name": "Smalltown Poets",
+          "url": "https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Prophet, Priest and King",
+      "url": "https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Larue",
-        "url": "https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly"
-      },
-      "artists": [
-        {
-          "name": "LaRue",
-          "url": "https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202333,
       "name": "Why Do I Do",
       "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Larue",
+        "url": "https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly"
+      },
+      "artists": [
+        {
+          "name": "LaRue",
+          "url": "https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2"
     },
     {
       "added_at": "2023-02-01 04:53:20",

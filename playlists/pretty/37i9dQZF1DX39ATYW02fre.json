@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 116685,
+  "num_followers": 116863,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMDkwYzI4ODU3MGQzODAwODM0ZjE0MDE2ZWRmYTg3YWVi",
+  "snapshot_id": "MTY2OTM5NDkwNiwwMDAwMDAwMDcxYmJkMWFkMjJjMWM0NzUzNTI3YzE0YjU4MGMxNmUw",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -443,18 +443,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
+      "duration_ms": 217946,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2022-11-25 16:48:26",

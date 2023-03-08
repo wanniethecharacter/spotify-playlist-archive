@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 445,
+  "num_followers": 446,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDgzODE2Yzk0Yjk3OTE1NTIzYzUwYmQ5NzU0Y2FlZDFl",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDBlZjI3OWJlNTE3ODU4YTQ3ZDg2ZDI1NzY1YzhjYTEy",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
+      "added_at": "2022-08-19 12:56:03",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Kyoyina Omanya (Remix)",
@@ -251,22 +267,6 @@
       "duration_ms": 180062,
       "name": "Kyoyina Omanya (Remix)",
       "url": "https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji"
-    },
-    {
-      "added_at": "2022-08-19 12:56:03",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Kokonya",
+        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Bakuwe",
         "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
@@ -847,22 +867,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Kokonya",
-        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+        "name": "Kiriza (Remix)",
+        "url": "https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
         },
         {
-          "name": "King Saha",
-          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
+      "duration_ms": 162500,
+      "name": "Kiriza - Remix",
+      "url": "https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg"
     },
     {
       "added_at": "2023-01-20 05:09:22",
@@ -905,26 +925,6 @@
       "url": "https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Kiriza (Remix)",
-        "url": "https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Kiriza - Remix",
-      "url": "https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg"
-    },
-    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Second of All",
@@ -945,20 +945,28 @@
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
     },
     {
-      "added_at": "2023-01-12 20:59:00",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Chronicles Of A Woman",
-        "url": "https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD"
+        "name": "Semyekozo",
+        "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
         }
       ],
-      "duration_ms": 191250,
-      "name": "I'm Blessed",
-      "url": "https://open.spotify.com/track/6saAkb9ZbwkwRtJyiYM5vR"
+      "duration_ms": 280160,
+      "name": "Dancehall",
+      "url": "https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8"
     }
   ],
   "unique_name": "Kidandali Parte",

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 23391,
+  "num_followers": 23437,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODU0NiwwMDAwMDAwMDU3NDBhMjdkMjViMzE0ZWVmODA5ODAzZTJhYjY5NWUw",
+  "snapshot_id": "MTY3NzE0ODU0NiwwMDAwMDAwMDQ1ZmQ1MDdiMGY5OWVjYWI2MjE0N2M1NWY4NjA3Y2Rl",
   "tracks": [
     {
       "added_at": "2023-02-23 10:35:46",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "Elise",
         "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 362680,
       "name": "Paa Hinside \u00d8rken",
       "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
+        "name": "No City, No Tree, No Lake",
+        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
+      },
+      "artists": [
+        {
+          "name": "Johan Lindvall Trio",
+          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Almost Romance",
+      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
         "name": "A Year From Easter",
         "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
@@ -811,26 +827,6 @@
       "duration_ms": 204800,
       "name": "Eliasong",
       "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Vinterm\u00f8rke",
-        "url": "https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF"
-      },
-      "artists": [
-        {
-          "name": "Espen Berg Trio",
-          "url": "https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk"
-        },
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 438573,
-      "name": "Vinterm\u00f8rke",
-      "url": "https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -851,18 +847,22 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "No City, No Tree, No Lake",
-        "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
+        "name": "Vinterm\u00f8rke",
+        "url": "https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF"
       },
       "artists": [
         {
-          "name": "Johan Lindvall Trio",
-          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
+          "name": "Espen Berg Trio",
+          "url": "https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk"
+        },
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Almost Romance",
-      "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+      "duration_ms": 438573,
+      "name": "Vinterm\u00f8rke",
+      "url": "https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 411640,
-      "name": "Polska Of Despair (1)",
-      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "Krystall Revisited",
         "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+      "duration_ms": 411640,
+      "name": "Polska Of Despair (1)",
+      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1031,6 +1015,38 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
         "name": "As If The Ghost \u2026 Was Me!?",
         "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
       },
@@ -1043,6 +1059,38 @@
       "duration_ms": 343213,
       "name": "As If The Ghost \u2026 Was Me!?",
       "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Cirklar",
+        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Vulkanen",
+      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1071,54 +1119,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Cirklar",
-        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Vulkanen",
-      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Nipa Revisited",
-        "url": "https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 299995,
-      "name": "Nipa Revisited",
-      "url": "https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+        "name": "Nipa Revisited",
+        "url": "https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R"
       },
       "artists": [
         {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         }
       ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+      "duration_ms": 299995,
+      "name": "Nipa Revisited",
+      "url": "https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Meles Meles Revisited",
-        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 275474,
-      "name": "Meles Meles Revisited",
-      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Meles Meles Revisited",
+        "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 275474,
+      "name": "Meles Meles Revisited",
+      "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Sun Blowing",
-        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 538387,
-      "name": "Salme",
-      "url": "https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "So I Write",
         "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
       },
@@ -1455,6 +1431,30 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 538387,
+      "name": "Salme",
+      "url": "https://open.spotify.com/track/4x3m7XTp0TOFYgAodSxiVa"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "What Are You Doing the Rest of Your Life",
-        "url": "https://open.spotify.com/album/2BVN35fZ4R97yOoq4MB3H3"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 292623,
-      "name": "Hymne",
-      "url": "https://open.spotify.com/track/1VlE5KmU2VZ262ZMfw421w"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 341248,
       "name": "Faculties",
       "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "What Are You Doing the Rest of Your Life",
+        "url": "https://open.spotify.com/album/2BVN35fZ4R97yOoq4MB3H3"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 292623,
+      "name": "Hymne",
+      "url": "https://open.spotify.com/track/1VlE5KmU2VZ262ZMfw421w"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1659,30 +1659,6 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
-        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
-        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Sofia Jernberg",
-          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
-        },
-        {
-          "name": "Olav Lukseng\u00e5rd Mjelva",
-          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
-        }
-      ],
-      "duration_ms": 416240,
-      "name": "Pols etter Marta-Johannes",
-      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
@@ -1707,6 +1683,30 @@
       "duration_ms": 314253,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
+        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Sofia Jernberg",
+          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
+        },
+        {
+          "name": "Olav Lukseng\u00e5rd Mjelva",
+          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
+        }
+      ],
+      "duration_ms": 416240,
+      "name": "Pols etter Marta-Johannes",
+      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
     },
     {
       "added_at": "2023-02-23 10:35:46",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
+        "name": "Kautokeino Undercover",
+        "url": "https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5vard Stub\u00f8 Quartet",
+          "url": "https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Blodspredikan",
+      "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1839,6 +1855,42 @@
     {
       "added_at": "2023-02-23 10:35:46",
       "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
+    },
+    {
+      "added_at": "2023-02-23 10:35:46",
+      "album": {
         "name": "P\u00e5 gjensyn",
         "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
       },
@@ -1855,74 +1907,6 @@
       "duration_ms": 367280,
       "name": "P\u00e5 gjensyn",
       "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "A Fine Line",
-        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
-      },
-      "artists": [
-        {
-          "name": "LITANGEN",
-          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
-        },
-        {
-          "name": "Ole Edvard Antonsen",
-          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Leilani",
-      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Kautokeino Undercover",
-        "url": "https://open.spotify.com/album/6ihQPS7ppBCJwyXiQrFXrB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5vard Stub\u00f8 Quartet",
-          "url": "https://open.spotify.com/artist/7dmLpbha17tADigq4qlGvd"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Blodspredikan",
-      "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
-    },
-    {
-      "added_at": "2023-02-23 10:35:46",
-      "album": {
-        "name": "Rica",
-        "url": "https://open.spotify.com/album/2P3qOHDL5doBKhulk0xoJX"
-      },
-      "artists": [
-        {
-          "name": "Parish",
-          "url": "https://open.spotify.com/artist/7GZtWzhM2azYa28RJ9L53g"
-        },
-        {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
-        },
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
-        },
-        {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
-        },
-        {
-          "name": "Fredrik Ljungkvist",
-          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
-        }
-      ],
-      "duration_ms": 821333,
-      "name": "Beatrice - Live",
-      "url": "https://open.spotify.com/track/3JQvfK06PNsSrDimmXlbT0"
     }
   ],
   "unique_name": "Nordic Jazz",

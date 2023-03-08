@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,021 likes - 150 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,380 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 105 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 |
 | 106 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 |
 | 107 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 |
-| 108 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
-| 109 | [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 |
+| 108 | [Slidin'](https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [H O L O G R A P H I C](https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm) | 2:44 |
+| 109 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
 | 110 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 |
 | 111 | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/track/7K1u44U0085H0hu2BbPxbI) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Zay Jones](https://open.spotify.com/artist/0E4tZUFpHURZ2NFqc2hluK), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Banner \(feat\. Zay Jones & Torey D'Shaun\)](https://open.spotify.com/album/43QDVMXACG2khCZNFGlgOP) | 3:03 |
 | 112 | [Hold Me Back](https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Hold Me Back](https://open.spotify.com/album/7j3AwRPzTy00HODBozut4E) | 3:07 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 147 | [Unstoppable \(Do It Again\) \- Global Remix](https://open.spotify.com/track/012mT5JjqPWeIMw22u4eZj) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Chris Liggio](https://open.spotify.com/artist/37bBlPlAIjh0KOXCAfKaOf) | [Unstoppable \(Do It Again\) \[Global Remix\]](https://open.spotify.com/album/1287vr06Ue6VKn80lYz3uY) | 2:40 |
 | 148 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 |
 | 149 | [Hold Me Back](https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Hold Me Back](https://open.spotify.com/album/4D5iRWNKdcqfryA717B96y) | 2:18 |
-| 150 | [Anita](https://open.spotify.com/track/6TwqJKfD6MWbnmoWU0aaiX) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Anita](https://open.spotify.com/album/2XHkpQnkkPOFqJFyHzK0Nd) | 2:05 |
+| 150 | [Catch These Hands \- Remix](https://open.spotify.com/track/3K7zvRw4Wg9afWGfnDU7vM) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Pettidee](https://open.spotify.com/artist/0qehlCsv0Di0jyb9tWOmvO) | [Catch These Hands \(Remix\)](https://open.spotify.com/album/7APamlqElimCKW62z0yKFf) | 2:24 |
 
-Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMDIxYzk4OTczNzhjOWE2YWY4MjBjMjk3NjIwMmNiNzY2`
+Snapshot ID: `MTY3MTE4MTIwMCwwMDAwMDAwMGZhNzZmZjk5YWRjNTkzZWZkMzIyMjc0YzgzNDE2MGM4`

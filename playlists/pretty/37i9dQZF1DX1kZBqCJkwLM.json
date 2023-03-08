@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 74830,
+  "num_followers": 74907,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMDkyOTdkZWE3YTZjZWJkMDEyMjA4NGU5ZWRhZmQ0YmI1",
+  "snapshot_id": "MTY3NjY0MzU5OSwwMDAwMDAwMDc5MmYyMmZlZTUyZDZkMTJiM2YzOTAyZjgyYjI4MWM3",
   "tracks": [
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2023-02-17 14:19:59",
-      "album": {
         "name": "CLOUDS",
         "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
+    },
+    {
+      "added_at": "2023-02-17 14:19:59",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Can you (Galcher Lustwerk Remix)",
-        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
       "artists": [
         {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 219216,
-      "name": "Can you",
-      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
+      "duration_ms": 282110,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
     },
     {
       "added_at": "2023-02-17 14:19:59",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-02-17 14:19:59",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+        "name": "Can you (Galcher Lustwerk Remix)",
+        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
         }
       ],
-      "duration_ms": 282110,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+      "duration_ms": 219216,
+      "name": "Can you",
+      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
     },
     {
       "added_at": "2023-02-17 14:19:59",

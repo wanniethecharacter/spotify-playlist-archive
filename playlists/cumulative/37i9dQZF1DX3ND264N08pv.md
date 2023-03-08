@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-130 songs - 7 hr 32 min
+131 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [NARKOS](https://open.spotify.com/track/2gCNvpnuWTcV05hpFzZ1xd) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [NARKOS](https://open.spotify.com/album/77Nlgy3Pbxf3CdSlcwyOas) | 3:31 | 2022-12-08 | 2023-03-07 |
 | [No Matter](https://open.spotify.com/track/33C0wJkcVVMIy2aMIhgnVJ) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [No Matter](https://open.spotify.com/album/3HRodgTtyTaMaXqMFIKWsh) | 3:47 | 2022-12-08 |  |
 | [NO MONEY](https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [NO MONEY](https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm) | 3:21 | 2022-12-08 | 2023-03-07 |
+| [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |
 | [Oasis \- The Dark Horror Remix](https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Oasis \(The Dark Horror Remix\)](https://open.spotify.com/album/37PYdrUtg45otbte44i8C1) | 3:14 | 2023-01-26 |  |
 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 | 2022-12-08 |  |
 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 | 2022-12-08 |  |
@@ -120,7 +121,7 @@
 | [Spacestorm](https://open.spotify.com/track/66lM2053Cgq8Xm7TUMR475) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Jax](https://open.spotify.com/artist/74qgM5Rvsk16SBXAdXeWmG) | [Showtime](https://open.spotify.com/album/0P8MdMLHjzqHzVd8twfxe5) | 2:18 | 2022-12-08 | 2023-01-20 |
 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 | 2022-12-08 |  |
 | [STRUGGLE TO SURVIVE](https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [STRUGGLE TO SURVIVE](https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4) | 3:47 | 2022-12-08 |  |
-| [Syndicate Of Rave \- Official Syndicate 2021 Anthem](https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Syndicate Of Rave \(Official Syndicate 2021 Anthem\)](https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv) | 3:42 | 2022-12-08 |  |
+| [Syndicate Of Rave \- Official Syndicate 2021 Anthem](https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Syndicate Of Rave \(Official Syndicate 2021 Anthem\)](https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv) | 3:42 | 2022-12-08 | 2023-03-08 |
 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 | 2023-01-26 |  |
 | [Terrified](https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t) | [Trespassed](https://open.spotify.com/artist/4P64zOuVtzLwvGEMasQXl5), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Terrified](https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae) | 3:22 | 2022-12-08 |  |
 | [The Deadly Fist](https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [The Deadly Fist](https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP) | 3:14 | 2022-12-15 |  |

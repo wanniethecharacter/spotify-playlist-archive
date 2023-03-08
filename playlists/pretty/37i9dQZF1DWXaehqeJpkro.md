@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Tei\(테이\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,994 likes - 163 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,008 likes - 163 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 34 | [Love Should Not Be Harsh on You](https://open.spotify.com/track/5377e0iYznz3jvxZYrLSSa) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love Should Not Be Harsh on You](https://open.spotify.com/album/2R65vfu1wSdAy6JTvucoqE) | 4:28 |
 | 35 | [seomyun](https://open.spotify.com/track/23qzVx2zTL1fIGMV1KwPjr) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [seomyun](https://open.spotify.com/album/2NihUWdTbjVSmeijN7phPC) | 3:20 |
 | 36 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 37 | [VVS \(Feat\. JUSTHIS\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/2Zr0bYRHwWXi7eM2wuE6Aj) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/70FWnBesejYnRifMGqbdxu) | 5:35 |
+| 37 | [VVS \(Feat\. JUSTHIS\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/2Zr0bYRHwWXi7eM2wuE6Aj) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Munchman](https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/70FWnBesejYnRifMGqbdxu) | 5:35 |
 | 38 | [꿈속에 너](https://open.spotify.com/track/79w8z28yTXmAvC7L7grLux) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [두 번째 이야기](https://open.spotify.com/album/2R2jo2dkMi4TFyBvSOFAj1) | 4:11 |
 | 39 | [Would it be enough?](https://open.spotify.com/track/1Ch2BB5K5LpNglFxPnCLQe) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Would it be enough?](https://open.spotify.com/album/44ZsZHCu3ir5KeuobNrK8Z) | 3:18 |
 | 40 | [Suddenly](https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Bipolar](https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v) | 2:36 |

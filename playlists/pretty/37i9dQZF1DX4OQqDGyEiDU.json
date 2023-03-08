@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 59506,
+  "num_followers": 59593,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYwMDY2NiwwMDAwMDAwMDhmMzhkZGJlNzE0ZDBiOWUwYmI4MjAwMWI5OWNhNTYy",
+  "snapshot_id": "MTY3ODIwNzUwNCwwMDAwMDAwMDkwMDc3NjM3NDk4OTI0MmQ2N2ExNTE5OWMzNmQ2YzZi",
   "tracks": [
     {
       "added_at": "2023-02-28 16:11:06",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
     },
     {
+      "added_at": "2023-03-08 01:25:38",
+      "album": {
+        "name": "\u6c34\u6b7b\u4f53\u306f\u604b\u3057\u305f\u3044",
+        "url": "https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7"
+      },
+      "artists": [
+        {
+          "name": "LonePi",
+          "url": "https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "\u6c34\u6b7b\u4f53\u306f\u604b\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW"
+    },
+    {
       "added_at": "2023-02-28 16:11:06",
       "album": {
         "name": "DAISAN WAVE",
@@ -675,22 +691,6 @@
       "duration_ms": 294400,
       "name": "\u5c11\u5973\u30ec\u30a4",
       "url": "https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR"
-    },
-    {
-      "added_at": "2023-02-28 16:11:06",
-      "album": {
-        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
-        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
-      },
-      "artists": [
-        {
-          "name": "rerulili",
-          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
-      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
     },
     {
       "added_at": "2023-02-28 16:11:06",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-28 16:11:06",
       "album": {
+        "name": "\u53a8\u75c5\u6fc0\u767a\u30dc\u30fc\u30a4",
+        "url": "https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs"
+      },
+      "artists": [
+        {
+          "name": "rerulili",
+          "url": "https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
+      "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"
+    },
+    {
+      "added_at": "2023-02-28 16:11:06",
+      "album": {
         "name": "\u82b1\u3068\u6c34\u98f4\u3001\u6700\u7d42\u96fb\u8eca",
         "url": "https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 308967,
       "name": "\u591c\u660e\u3051\u3068\u86cd",
       "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"
-    },
-    {
-      "added_at": "2023-02-28 16:11:06",
-      "album": {
-        "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
-        "url": "https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC"
-      },
-      "artists": [
-        {
-          "name": "Misumi",
-          "url": "https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA"
-        }
-      ],
-      "duration_ms": 222954,
-      "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
-      "url": "https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU"
     },
     {
       "added_at": "2023-02-28 16:11:06",
@@ -771,6 +771,22 @@
       "duration_ms": 242874,
       "name": "\u30d5\u30ed\u30fc\u30c8\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/2T7Yky4Kmlq1xkY2paZVm9"
+    },
+    {
+      "added_at": "2023-02-28 16:11:06",
+      "album": {
+        "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
+        "url": "https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC"
+      },
+      "artists": [
+        {
+          "name": "Misumi",
+          "url": "https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA"
+        }
+      ],
+      "duration_ms": 222954,
+      "name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
+      "url": "https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU"
     },
     {
       "added_at": "2023-02-28 16:11:06",
@@ -823,22 +839,6 @@
       "duration_ms": 132032,
       "name": "CH4NGE - feat. KAFU",
       "url": "https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2"
-    },
-    {
-      "added_at": "2023-02-28 16:11:06",
-      "album": {
-        "name": "\u30d2\u30a2\u30bd\u30d3",
-        "url": "https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X"
-      },
-      "artists": [
-        {
-          "name": "Camellia",
-          "url": "https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M"
-        }
-      ],
-      "duration_ms": 245149,
-      "name": "\u30d2\u30a2\u30bd\u30d3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-302 songs - 13 hr 6 min
+305 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-26 |  |
 | [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-30 |  |
 | [Change](https://open.spotify.com/track/3QPEngaGqubH9qeo3MrPv2) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Change](https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL) | 5:19 | 2022-10-26 |  |
+| [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-03-07 |  |
 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 | 2022-04-14 | 2022-12-24 |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-14 | 2022-07-16 |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-22 |  |
@@ -61,6 +62,7 @@
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-04-14 |  |
 | [Crimson Reds, Yellow Hue](https://open.spotify.com/track/7qsQ7j3sFIsV5dxbDsrscI) | [Nahuel Bahr](https://open.spotify.com/artist/0aB950Mezo9NcPb1o8KNlM) | [Crimson Reds, Yellow Hue](https://open.spotify.com/album/4LsUKsgXS3PE5y68qFXXDi) | 2:07 | 2022-10-26 |  |
 | [Cuore](https://open.spotify.com/track/1a31NqOXht9wFFpjTYRirI) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Cuore](https://open.spotify.com/album/5X7LXtUg4O5ZLy1aRqfGgr) | 2:40 | 2022-04-14 |  |
+| [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 | 2023-03-07 |  |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-04-14 |  |
 | [Dad](https://open.spotify.com/track/2a4qSFUMV0mrriQu4VuEMJ) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [Dad](https://open.spotify.com/album/5eT69OJMgnprwPOnnC8KF6) | 2:44 | 2022-05-13 | 2022-08-04 |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2022-04-14 |  |
@@ -158,6 +160,7 @@
 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2022-04-14 | 2022-05-14 |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-04-14 |  |
+| [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 | 2023-03-07 |  |
 | [Lonely Children](https://open.spotify.com/track/3qOEq8x1ayOUmvcEvzkPux) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Lonely Children](https://open.spotify.com/album/11ytfVbaf7XPoKghET8RIy) | 2:44 | 2022-04-14 | 2022-06-08 |
 | [Look to the Sea](https://open.spotify.com/track/0niChogoxtdK17KtHH0jni) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Look to the Sea](https://open.spotify.com/album/5krugfl1J2zSBZG7R2zNy5) | 2:42 | 2022-04-14 | 2022-06-08 |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-14 | 2022-05-27 |

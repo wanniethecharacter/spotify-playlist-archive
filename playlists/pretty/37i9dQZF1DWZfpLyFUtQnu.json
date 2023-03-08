@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 45000,
+  "num_followers": 45094,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMGI5OWNmYTAwYzJhMDFkYjY1N2FiZjEzYTI5ZWMwZmE3",
+  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMGViOTI1ZTE3NTczY2E0ZGNhMmE3NzhjODhlZDE3ZDg3",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1MOSRjdAbUhvLNnHCdUEL5"
     },
     {
-      "added_at": "2023-03-07 02:20:21",
+      "added_at": "2023-03-08 01:16:05",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "On n\u2019enferme pas les oiseaux",
         "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Un air de rien",
         "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 192544,
       "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
       "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
         "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 137160,
       "name": "Mon amie la rose",
       "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
     },
     {
-      "added_at": "2023-03-07 02:20:21",
+      "added_at": "2023-03-08 01:16:05",
       "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Au Nom D'Une Femme",
-        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9l\u00e8ne S\u00e9gara",
-          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Elle, tu l'aimes",
-      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Sanson comme ils l'imaginent",
         "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 230600,
       "name": "Quelques mots d'amour",
       "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Au Nom D'Une Femme",
+        "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne S\u00e9gara",
+          "url": "https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Elle, tu l'aimes",
+      "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "On fait comme si",
-        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 251625,
-      "name": "On fait comme si",
-      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 214600,
       "name": "S'il suffisait d'aimer",
       "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "On fait comme si",
+        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 251625,
+      "name": "On fait comme si",
+      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Donne-moi ton c\u0153ur (acoustique)",
-        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Donne-moi ton c\u0153ur - acoustique",
-      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Loin des yeux",
         "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "La nuit (Version acoustique)",
-        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
+        "name": "Donne-moi ton c\u0153ur (acoustique)",
+        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
       },
       "artists": [
         {
-          "name": "Piedbois",
-          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 231155,
-      "name": "La nuit - Version acoustique",
-      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
+      "duration_ms": 177902,
+      "name": "Donne-moi ton c\u0153ur - acoustique",
+      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1199,6 +1183,22 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "La nuit (Version acoustique)",
+        "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
+      },
+      "artists": [
+        {
+          "name": "Piedbois",
+          "url": "https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea"
+        }
+      ],
+      "duration_ms": 231155,
+      "name": "La nuit - Version acoustique",
+      "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -1237,20 +1237,20 @@
       "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
     },
     {
-      "added_at": "2023-03-07 02:20:21",
+      "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Br\u00fbler le Feu 2",
-        "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 177306,
-      "name": "L\u2019\u00c9pine",
-      "url": "https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp"
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH"
     }
   ],
   "unique_name": "Douce France",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 16182,
+  "num_followers": 16221,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3MDMzNSwwMDAwMDAwMGE5YzA4YWNkMmJmMmM3OGIyNTY3Y2RmM2NkZTRhYjU2",
+  "snapshot_id": "MTY3Nzg3MDMzNSwwMDAwMDAwMDA5ODAxMzBhZThmYTkyYTg4YzJkOTU2YWMyNmI5ODFm",
   "tracks": [
     {
       "added_at": "2023-03-03 19:05:35",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-03-03 19:05:35",
       "album": {
-        "name": "Lovelee Dae",
-        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
-        },
-        {
-          "name": "Blaze (Kevin Hedge)",
-          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
-        }
-      ],
-      "duration_ms": 382278,
-      "name": "Lovelee Dae",
-      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
-    },
-    {
-      "added_at": "2023-03-03 19:05:35",
-      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
+    },
+    {
+      "added_at": "2023-03-03 19:05:35",
+      "album": {
+        "name": "Lovelee Dae",
+        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "Blaze (Kevin Hedge)",
+          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
+        }
+      ],
+      "duration_ms": 382278,
+      "name": "Lovelee Dae",
+      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
     },
     {
       "added_at": "2023-03-03 19:05:35",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-03-03 19:05:35",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
-    },
-    {
-      "added_at": "2023-03-03 19:05:35",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -787,18 +767,22 @@
     {
       "added_at": "2023-03-03 19:05:35",
       "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+      "duration_ms": 223880,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
     },
     {
       "added_at": "2023-03-03 19:05:35",
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-03-03 19:05:35",
       "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/3oUkoGYPWVxt3NrohcoMHY"
+    },
+    {
+      "added_at": "2023-03-03 19:05:35",
+      "album": {
         "name": "Fuck The Regs EP",
         "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 204836,
       "name": "Fuck The Regs",
       "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2023-03-03 19:05:35",
-      "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
     },
     {
       "added_at": "2023-03-03 19:05:35",
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-03-03 19:05:35",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs"
+    },
+    {
+      "added_at": "2023-03-03 19:05:35",
+      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 404000,
       "name": "Kill The Soundboy",
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
-    },
-    {
-      "added_at": "2023-03-03 19:05:35",
-      "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        }
-      ],
-      "duration_ms": 263931,
-      "name": "Honey Bee - Edit",
-      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     },
     {
       "added_at": "2023-03-03 19:05:35",
@@ -927,6 +911,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-03-03 19:05:35",
+      "album": {
+        "name": "Honey Bee",
+        "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "duration_ms": 263931,
+      "name": "Honey Bee - Edit",
+      "url": "https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk"
     }
   ],
   "unique_name": "Minimal Tech",

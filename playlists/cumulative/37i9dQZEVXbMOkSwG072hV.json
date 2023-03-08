@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 163584,
       "name": "085 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 136110,
       "name": "Attack of the Killer Beast (Phonk)",
       "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
@@ -3299,6 +3299,28 @@
     },
     {
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+    },
+    {
+      "album": {
         "name": "Bora Bill ( Speed Up )",
         "url": "https://open.spotify.com/album/4UwzWJtLo9CqnFkgxQJgpn"
       },
@@ -3808,6 +3830,32 @@
       "duration_ms": 119481,
       "name": "Bucora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7jrI4QqqC8UIOgzeUkkYnr"
+    },
+    {
+      "album": {
+        "name": "Essa \u00e9 a Vida de um Corredor",
+        "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Gu$Z",
+          "url": "https://open.spotify.com/artist/0NTTVLWsZy8PsDeT2JD1vv"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03"
     },
     {
       "album": {
@@ -6241,6 +6289,32 @@
     },
     {
       "album": {
+        "name": "Duas Tr\u00eas",
+        "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Adriano Rhod",
+          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "Duas Tr\u00eas",
+      "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
+    },
+    {
+      "album": {
         "name": "Duas Tr\u00eas (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BboQAcTjqRPn8o4mGWxho"
       },
@@ -7166,7 +7240,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 160641,
       "name": "Eu Minto (Ao Vivo)",
       "url": "https://open.spotify.com/track/6tW23l5oRR8XyYJsF5si9G"
@@ -8228,7 +8302,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
@@ -8979,6 +9053,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1 Vem O Guarda",
+        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
+      },
+      "artists": [
+        {
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215065,
+      "name": "Haja Amor",
+      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
+    },
+    {
+      "album": {
         "name": "Haja Col\u00edrio (feat. Hugo & Guilherme) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU"
       },
@@ -9651,6 +9743,24 @@
     },
     {
       "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
         "name": "A Great Work",
         "url": "https://open.spotify.com/album/0o9a31MuEFplebgbvfQCWt"
       },
@@ -9834,6 +9944,36 @@
       "duration_ms": 110769,
       "name": "Incrivel Jogando a Potranca",
       "url": "https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp"
+    },
+    {
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "album": {
@@ -10866,7 +11006,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
@@ -13341,6 +13481,24 @@
     },
     {
       "album": {
+        "name": "MTG QUANDO A NOITE CAI",
+        "url": "https://open.spotify.com/album/4vG224Hl0F5CRkAv78QCOo"
+      },
+      "artists": [
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "MTG QUANDO A NOITE CAI",
+      "url": "https://open.spotify.com/track/0dgcqtkMMJKIRVXWELlXpC"
+    },
+    {
+      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
@@ -15525,6 +15683,24 @@
     },
     {
       "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
+    {
+      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -16748,7 +16924,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 138129,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/6KgPTk8J2i1DOTSGvwhLPM"
@@ -16934,6 +17110,24 @@
       "duration_ms": 572706,
       "name": "Quadrilha Brasileira / O Sanfoneiro S\u00f3 Tocava Isso",
       "url": "https://open.spotify.com/track/3KSFbrgX9nK3ikU87T9fki"
+    },
+    {
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "album": {
@@ -17552,7 +17746,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 158400,
       "name": "Ritmo de Copa",
       "url": "https://open.spotify.com/track/61BxiY7A9V9FC2IL7llA76"
@@ -19368,7 +19562,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 155791,
       "name": "Soy Boiadeiro",
       "url": "https://open.spotify.com/track/7FMYdhpUWOiQ2wajjanA3s"
@@ -21470,7 +21664,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 152267,
       "name": "T\u00f4 Invis\u00edvel",
       "url": "https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL"

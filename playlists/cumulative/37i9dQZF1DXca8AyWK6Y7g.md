@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: EMELINE
 
-1,549 songs - 3 day 6 hr 57 min
+1,550 songs - 3 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Freaks](https://open.spotify.com/track/418c3nz1GneGpbMCJc7AM2) | [Kidmimself](https://open.spotify.com/artist/6flDyr2Z1phGHvupzKpBsG), [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA) | [Freaks](https://open.spotify.com/album/3Kr9U2Wb32hX4eQaveYPqS) | 3:10 | 2020-05-11 | 2020-05-25 |
 | [Free](https://open.spotify.com/track/0qjs1raRXtPL58LPSheApo) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb) | 2:42 | 2022-06-06 | 2022-07-16 |
 | [Free \(with Drew Love\) \- Party Favor Remix](https://open.spotify.com/track/5H5vK2EzkPoCsoYTXbkU90) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Free \(with Drew Love\) \[Party Favor Remix\]](https://open.spotify.com/album/2eSxK8DN270vT21TKrBfpE) | 4:18 | 2020-06-02 | 2021-03-21 |
+| [Free Love](https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Free Love](https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3) | 2:53 | 2023-03-03 |  |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-03 |  |
 | [Friend Like Me](https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Friend Like Me](https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea) | 2:32 | 2022-06-24 |  |
 | [Friendly Sex](https://open.spotify.com/track/0UIaM3C7aw2ao6ZDatzEir) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Friendly Sex](https://open.spotify.com/album/3KgVXRJUmbAS28XfHrJOs2) | 2:39 | 2022-04-08 | 2022-05-20 |
@@ -977,7 +978,7 @@
 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 | 2023-02-03 |  |
 | [not okay \(feat\. mazie\)](https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [not okay \(feat\. mazie\)](https://open.spotify.com/album/660EN7ZkbkMuho9k4ajJgC) | 2:43 | 2021-08-18 | 2022-01-15 |
 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 | 2019-09-29 | 2021-03-21 |
-| [Nothing](https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Nothing](https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF) | 2:54 | 2022-03-25 |  |
+| [Nothing](https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Nothing](https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF) | 2:54 | 2022-03-25 | 2023-03-08 |
 | [Nothing Fits](https://open.spotify.com/track/6hj7ILX5Cf9eLpA0qvL6oh) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Nothing Fits](https://open.spotify.com/album/3kBp9RT2cqjJT5Fc5ccBIR) | 3:51 | 2021-11-12 | 2022-01-15 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 | 2022-11-12 |
 | [Nothing Really Matters](https://open.spotify.com/track/0NDeB1JOGniNUbc0z2LuFb) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Nothing Really Matters](https://open.spotify.com/album/0wX8o9FiMpnek9fWNJ52NH) | 2:44 | 2019-05-26\* | 2020-03-20 |

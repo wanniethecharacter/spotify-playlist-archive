@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 193919,
+  "num_followers": 193914,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEwMzQ0MSwwMDAwMDAwMGNlOGYyNjgzYTA2ZmE3MzlmZmU4ZGZkYzEyYjExYjg3",
+  "snapshot_id": "MTY3ODEwMzQ0MSwwMDAwMDAwMDgwYTQ3NGZmNWUyNmY1ODUxY2M3NDJmNWEyMjhjODUw",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
-        "url": "https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
-      "url": "https://open.spotify.com/track/5KMyGMGRiSMZLG1q9sMYRx"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
+        "url": "https://open.spotify.com/album/4HgWCtXu0Wa8xngobsJjRt"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Gr\u00e5ter tillsammans \u00f6ver varandra",
+      "url": "https://open.spotify.com/track/5KMyGMGRiSMZLG1q9sMYRx"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Vi \u00c4r P\u00e5 Riktigt",
-        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        },
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 187664,
-      "name": "Vi \u00c4r P\u00e5 Riktigt",
-      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 180617,
       "name": "Cute & Cruel (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Vi \u00c4r P\u00e5 Riktigt",
+        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        },
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 187664,
+      "name": "Vi \u00c4r P\u00e5 Riktigt",
+      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
-        "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 178394,
-      "name": "Regnar \u00f6ver Stockholm",
-      "url": "https://open.spotify.com/track/38w3AeVl212DfCXRFwearV"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Neon Lights",
         "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 209200,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Stora dr\u00f6mmar s\u00e4ger aldrig goodbye",
+        "url": "https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 178394,
+      "name": "Regnar \u00f6ver Stockholm",
+      "url": "https://open.spotify.com/track/38w3AeVl212DfCXRFwearV"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "A Lover Like Me",
-        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "A Lover Like Me",
-      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Ut med allt",
         "url": "https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 141333,
       "name": "Ut med allt",
       "url": "https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "A Lover Like Me",
+        "url": "https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "A Lover Like Me",
+      "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Le Fruit Disco",
         "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Satsa \u2013 Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
-      },
-      "artists": [
-        {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
-        }
-      ],
-      "duration_ms": 177630,
-      "name": "Satsa \u2013 Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 153783,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Satsa \u2013 Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 177630,
+      "name": "Satsa \u2013 Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "N\u00e4r jag blundar",
         "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 193268,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj"
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1379,34 +1395,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Belly Shots",
-        "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Belly Shots",
-      "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+      "duration_ms": 193268,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "New World Coming",
-        "url": "https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 125850,
-      "name": "New World Coming",
-      "url": "https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 203039,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "New World Coming",
+        "url": "https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 125850,
+      "name": "New World Coming",
+      "url": "https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Roses N Guns",
+        "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 281547,
+      "name": "Roses N Guns",
+      "url": "https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Notre-Dame",
         "url": "https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 166811,
       "name": "Rules",
       "url": "https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "What You Were Made For",
-        "url": "https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 194759,
-      "name": "What You Were Made For",
-      "url": "https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt"
     }
   ],
   "unique_name": "Made in Sweden",

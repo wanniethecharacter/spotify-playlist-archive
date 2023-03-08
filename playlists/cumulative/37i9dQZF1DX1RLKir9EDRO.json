@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "B\u0130Z\u0130M NEY\u0130M\u0130Z VAR",
+        "url": "https://open.spotify.com/album/1ioTyYXZ1igattQuH8fK3U"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/583r15fLR295RYefGrqkTx"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149062,
+      "name": "B\u0130Z\u0130M NEY\u0130M\u0130Z VAR",
+      "url": "https://open.spotify.com/track/4c6e5iTCnYoaP5CbEV20kR"
+    },
+    {
+      "album": {
         "name": "Bu Kalp Hep Seninle",
         "url": "https://open.spotify.com/album/4C6GRLd4HHMqInqjdMmKxn"
       },
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 122454,
       "name": "de\u011fdin asl\u0131nda",
       "url": "https://open.spotify.com/track/6q4EmtkUIFWly3DE2lx5x0"
@@ -2939,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "kalabal\u0131kt\u0131 kalbin",
+        "url": "https://open.spotify.com/album/6Dm1TJQ3ilRYYJZf71NtmC"
+      },
+      "artists": [
+        {
+          "name": "Ruyaymisgaliba",
+          "url": "https://open.spotify.com/artist/6EiebYPtntwnWtQkZcoUwC"
+        },
+        {
+          "name": "Melisa Aksoy",
+          "url": "https://open.spotify.com/artist/03WpsJWawzUEQdN4zdkQoa"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198634,
+      "name": "kalabal\u0131kt\u0131 kalbin",
+      "url": "https://open.spotify.com/track/5ijrMAQtIwG4HapjmmdAPN"
+    },
+    {
+      "album": {
         "name": "Kalbin Odalar\u0131",
         "url": "https://open.spotify.com/album/7t1PRJ37yZrMWNki8kvBDL"
       },
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 180267,
       "name": "Kendimdeyim",
       "url": "https://open.spotify.com/track/0opGdERRNzPDuQZtfzRAgt"
@@ -3537,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "YaDa (Akustikhane Sessions)",
+        "url": "https://open.spotify.com/album/6mgXeckoqAMnE5M03mXGuf"
+      },
+      "artists": [
+        {
+          "name": "YaDa",
+          "url": "https://open.spotify.com/artist/1nK7QIlWRKhFTid6OJEIAK"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "K\u0131r\u0131lgan",
+      "url": "https://open.spotify.com/track/5RrtxRpVSi8ZM3dbrpPB79"
+    },
+    {
+      "album": {
         "name": "K\u0131z G\u00fczel (Acoustic Version)",
         "url": "https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE"
       },
@@ -3732,7 +3790,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 142894,
       "name": "Naber",
       "url": "https://open.spotify.com/track/6zhWElcrLmVxlKdXIbNXiD"
@@ -3970,6 +4028,24 @@
       "duration_ms": 138596,
       "name": "Onlar\u0131 Hakl\u0131 \u00c7\u0131kartma",
       "url": "https://open.spotify.com/track/6nnTufBQZe0NusVinHbO1E"
+    },
+    {
+      "album": {
+        "name": "Onun Hikayesi",
+        "url": "https://open.spotify.com/album/4nNtNK7rCaH9z7JZ2S0wBy"
+      },
+      "artists": [
+        {
+          "name": "Olabilir!",
+          "url": "https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272620,
+      "name": "Onun Hikayesi",
+      "url": "https://open.spotify.com/track/00HzVKC3wKkV4D6jOutode"
     },
     {
       "album": {
@@ -5422,7 +5498,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 254400,
       "name": "Yaln\u0131zl\u0131k",
       "url": "https://open.spotify.com/track/0Sz8xueIDngXd1c0RarRWh"

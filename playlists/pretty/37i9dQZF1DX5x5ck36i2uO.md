@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,385 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 32 | [ice coffee](https://open.spotify.com/track/0NXN8CNyQOQvZuSuFP75IB) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 2:53 |
 | 33 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
 | 34 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
-| 35 | [Bloo Story](https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 5:06 |
-| 36 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 35 | [SS \(Prod\. by KHYO\)](https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [SS](https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR) | 3:25 |
+| 36 | [Bloo Story](https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 5:06 |
 | 37 | [Mannequin \(Feat\. Beenzino & SURAN\)](https://open.spotify.com/track/6HTMdjQSnAebsMYEKM1vy2) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:53 |
 | 38 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
 | 39 | [gucci girl](https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Rainy Day](https://open.spotify.com/track/6lmSfkbYSpI6zgLjzkZ4WS) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:58 |
 | 50 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 |
 
-Snapshot ID: `MTY3NjM1ODI1OSwwMDAwMDAwMDQyYWU5NWFkNWY5OWNkNjYyNGJmMDczOTliNGU4MWQz`
+Snapshot ID: `MTY3NjM1ODI1OSwwMDAwMDAwMGE3ZDFkZGIwNzFmOGU5ZGUxZDM2ZTJjNGUyYjY2OWI0`

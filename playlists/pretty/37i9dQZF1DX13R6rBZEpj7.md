@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,707 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,747 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 65 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 66 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
-| 67 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
-| 68 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 |
-| 69 | [Perfect Crime](https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J) | [Spence](https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L), [S\-70](https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ) | [Perfect Crime](https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV) | 3:30 |
-| 70 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 |
+| 67 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 |
+| 68 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
+| 69 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 |
+| 70 | [Perfect Crime](https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J) | [Spence](https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L), [S\-70](https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ) | [Perfect Crime](https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV) | 3:30 |
 
-Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMGI5YWUwZGQ3ZTc1ZGQzNDAyZTNhOWIzYzY5M2FlOTI4`
+Snapshot ID: `MTY3NDU4NDc3MSwwMDAwMDAwMGRmYjZiODk0ZjI4NmZjNDAyY2FiMGM0NDkwYTk0ZDJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Dorothy
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,746 likes - 151 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,029 likes - 151 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > The best Indie tracks from the scene\. Cover \- Zaeden
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,830 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,477 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

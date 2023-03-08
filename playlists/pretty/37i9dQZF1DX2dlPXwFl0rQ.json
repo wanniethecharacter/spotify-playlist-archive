@@ -1,15 +1,15 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Ingrid Contreras & Mari\u00e1n Oviedo en portada.",
-  "num_followers": 82162,
+  "num_followers": 82229,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDBmMWRkZjA4NDY3MTg4ZDZjN2ZhYjc4NWIzYWNjMGQ5",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDNhZmQ4ODNmMTZiMWVhZTg2YTQyZjYxNTExN2UyN2Ex",
   "tracks": [
     {
-      "added_at": "2023-03-07 02:55:47",
+      "added_at": "2023-03-08 01:21:46",
       "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
-      "added_at": "2023-03-07 02:55:47",
+      "added_at": "2023-03-08 01:21:46",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
     },
     {
-      "added_at": "2023-03-07 02:55:47",
+      "added_at": "2023-03-08 01:21:46",
       "album": {
         "name": "Desarmada - Spotify Singles",
         "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
-      "added_at": "2023-03-07 02:55:47",
+      "added_at": "2023-03-08 01:21:46",
       "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Mujer Normal",
-        "url": "https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "Mujer Normal",
-      "url": "https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "No Me Amenaces",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Graciela Beltran 14 Super Exitos",
         "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Mujer Normal",
+        "url": "https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "Mujer Normal",
+      "url": "https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "La Que Sigue de Mi",
-      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 164186,
       "name": "Empoderada",
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "La Que Sigue de Mi",
+      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-12-09 06:00:00",
       "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
-    },
-    {
-      "added_at": "2022-12-09 06:00:00",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 206960,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2022-12-09 06:00:00",
+      "album": {
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Volver\u00e9 A Amar",
-        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
-      },
-      "artists": [
-        {
-          "name": "Valentina Elizalde",
-          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "En Carne Viva",
         "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
       },
@@ -1439,18 +1423,34 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Volver\u00e9 A Amar",
+        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
+      },
+      "artists": [
+        {
+          "name": "Valentina Elizalde",
+          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1519,6 +1519,22 @@
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2022-09-23 05:00:00",

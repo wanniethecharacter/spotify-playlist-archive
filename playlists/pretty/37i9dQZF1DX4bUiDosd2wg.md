@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,478 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,489 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 102 | [Desire and resent](https://open.spotify.com/track/7KZmUfFueGiWXRqUz6a3F5) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [When a man loves a woman](https://open.spotify.com/album/5jJ45p8F7WXGbfx4iyV7W1) | 4:07 |
 | 103 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 |
 | 104 | [바보](https://open.spotify.com/track/6GyrI9HEVZSc4XUQeg3Mi8) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN) | 4:42 |
-| 105 | [Love…It is](https://open.spotify.com/track/6xCqSpnnWDsPsgLNG5INXe) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/44EYHeEEPPp7C8wzLeTQxG) | 4:50 |
+| 105 | [Love…It is](https://open.spotify.com/track/1ZwY85R4wiv7vSrHwM5N1F) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/73myaoDVJVg75N8P0VS5RK) | 4:50 |
 | 106 | [There is No one Like you](https://open.spotify.com/track/4IVamb5uivBasUfXsDSmDD) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [LEE SEUNG CHUL\-THE BEST LIVE \(WORLD TOUR\)](https://open.spotify.com/album/00KwiwUMAW7d13SUOgQhmN) | 3:39 |
 | 107 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 108 | [Come back to me](https://open.spotify.com/track/6giVIUnYtPt65tRmTKMbzh) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [VIBE IN PRAHA](https://open.spotify.com/album/4OCkcwSER9boDvzxEdlh6c) | 4:59 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MTYxODk3Mjg1NywwMDAwMDAwMGZiNmFjYmJlZmUwMDExMGFmM2FkODYxNzIwMDg3ODA1`
+Snapshot ID: `MTYxODk3Mjg1NywwMDAwMDAwMGNmMzRjYTU4YjIwNGIwNjBmNDA0NGFkMzg3ZTg3Zjg1`

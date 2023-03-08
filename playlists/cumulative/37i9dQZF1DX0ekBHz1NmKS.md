@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-651 songs - 1 day 10 hr 30 min
+652 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |
 | [Rosa nejlikor](https://open.spotify.com/track/0czj9HxnkaotIbcXazZ6PG) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Rosa nejlikor](https://open.spotify.com/album/0ReOX2s7WHUhmYcAwRxDrZ) | 3:19 | 2022-04-07 | 2022-04-29 |
+| [Roses N Guns](https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 4:41 | 2023-03-02 |  |
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
@@ -630,7 +631,7 @@
 | [Waiting on Your Love](https://open.spotify.com/track/24Xb1t3v9EmLIxGrkezlys) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Waiting on Your Love](https://open.spotify.com/album/5W5j070IXwKqX2mq6laTwX) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 |  |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
-| [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 |  |
+| [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
 | [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 |  |
 | [Where Do We Go](https://open.spotify.com/track/2w4mOchaVwD34HGesWK4YE) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Feelings Unresolved](https://open.spotify.com/album/7lP8swCcM2RvsCTFIN6kLC) | 2:59 | 2021-12-16 | 2022-02-25 |
 | [Where She'll Go](https://open.spotify.com/track/7HSJLidMuUG1b6ot846mI1) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Where She'll Go](https://open.spotify.com/album/4eiDKbbj8cfBn9ZP44l7yx) | 3:32 | 2022-01-13 | 2022-02-05 |

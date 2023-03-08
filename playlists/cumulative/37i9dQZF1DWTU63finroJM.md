@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-936 songs - 2 day 4 hr 18 min
+939 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Party Sahne](https://open.spotify.com/track/3JOV6IFlO4cviGK2cqeTVQ) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [2022 war film gewesen](https://open.spotify.com/album/7lOlLrkcD0F2SXIqyVxL43) | 2:17 | 2023-01-27 | 2023-02-11 |
 | [Pasan las Horas](https://open.spotify.com/track/23EG1UBKz9pngihJbn516q) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Pasan las Horas](https://open.spotify.com/album/4fnSR3wekbp5mmGxWQhTzX) | 2:41 | 2022-04-07 | 2022-04-11 |
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2022-03-24 | 2022-04-18 |
+| [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 | 2023-03-07 |  |
 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2022-09-08 |  |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2022-02-03 | 2022-04-21 |
 | [Pelejei](https://open.spotify.com/track/4mFyni5z0DnQLvXvaA8yWm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:16 | 2022-04-07 | 2022-12-15 |
@@ -709,11 +710,13 @@
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-21 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-06-29 | 2022-09-16 |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-08-02 |
+| [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-03-07 |  |
 | [Takut](https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Takut](https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL) | 5:19 | 2022-03-21 | 2022-09-16 |
 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 | 2022-02-03 | 2022-08-26 |
 | [Tapu Te Po](https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [VĀRUA](https://open.spotify.com/album/7jgSag5L2lSg2Ycbn1XAyS) | 4:42 | 2022-04-07 | 2023-01-21 |
 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 | 2022-06-29 | 2022-08-02 |
 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 | 2022-04-07 | 2022-04-21 |
+| [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-03-07 |  |
 | [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 | 2022-03-21 | 2022-04-28 |
 | [Terug Naar Toen](https://open.spotify.com/track/67V5WHm5O3yHmgYVk7AJDz) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Terug Naar Toen](https://open.spotify.com/album/73J7iiixwLvv14L6YQioy8) | 2:46 | 2022-11-11 | 2022-12-15 |
 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 | 2022-03-24 | 2022-04-07 |

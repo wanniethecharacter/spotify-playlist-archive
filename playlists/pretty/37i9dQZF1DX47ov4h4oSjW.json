@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104325,
+  "num_followers": 104327,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMGZiOWQ1MzQwZTAwZDFmNGMyOTkzYjJhNjY0ZTJjMzFj",
+  "snapshot_id": "MTY3NDc2NjgwMCwwMDAwMDAwMGM4Y2QwMTk3OTNiZjQ5NGQ1MTc3NGYxYzc0Njc1MDk0",
   "tracks": [
     {
       "added_at": "2023-01-26 21:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Ambrosia (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Bannenberg",
-          "url": "https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy"
-        }
-      ],
-      "duration_ms": 96500,
-      "name": "For Stormboy",
-      "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Viaggi in aeromobile",
         "url": "https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+        "name": "Ambrosia (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
       "artists": [
         {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+          "name": "Rhiannon Bannenberg",
+          "url": "https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+      "duration_ms": 96500,
+      "name": "For Stormboy",
+      "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -507,6 +491,22 @@
       "duration_ms": 177882,
       "name": "Home full of solipsism",
       "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Donde Nadas",
+        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "duration_ms": 141941,
+      "name": "Donde Nadas",
+      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
         "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 353146,
       "name": "Opening",
       "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Donde Nadas",
-        "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
-      },
-      "artists": [
-        {
-          "name": "Lupe Sinsonte",
-          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
-        }
-      ],
-      "duration_ms": 141941,
-      "name": "Donde Nadas",
-      "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Tient qu'a\u0300 un fil",
-        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Tient qu'a\u0300 un fil",
-      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 112583,
       "name": "Light through a Willow's Leaves",
       "url": "https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Tient qu'a\u0300 un fil",
+        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Tient qu'a\u0300 un fil",
+      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+        "name": "Mosel Reflections (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
       },
       "artists": [
         {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+          "name": "Nikolas Belalis",
+          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
         }
       ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
+      "duration_ms": 98993,
+      "name": "Mosel Reflections (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 122883,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Mosel Reflections (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
-      },
-      "artists": [
-        {
-          "name": "Nikolas Belalis",
-          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
-        }
-      ],
-      "duration_ms": 98993,
-      "name": "Mosel Reflections (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1"
-      },
-      "artists": [
-        {
-          "name": "Bernadine Richter",
-          "url": "https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z"
-        }
-      ],
-      "duration_ms": 175025,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 151784,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1"
+      },
+      "artists": [
+        {
+          "name": "Bernadine Richter",
+          "url": "https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z"
+        }
+      ],
+      "duration_ms": 175025,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Finding Rain",
+        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
+      },
+      "artists": [
+        {
+          "name": "Emily Rubye",
+          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
+        }
+      ],
+      "duration_ms": 134915,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Azure (Piano Version)",
         "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 222129,
       "name": "Azure - Piano Version",
       "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Finding Rain",
-        "url": "https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq"
-      },
-      "artists": [
-        {
-          "name": "Emily Rubye",
-          "url": "https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp"
-        }
-      ],
-      "duration_ms": 134915,
-      "name": "Next",
-      "url": "https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
-      },
-      "artists": [
-        {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 147874,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
+      },
+      "artists": [
+        {
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
+        }
+      ],
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "For\u00eat Profonde",
-        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
-      },
-      "artists": [
-        {
-          "name": "Ricard Paul",
-          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
-        }
-      ],
-      "duration_ms": 187382,
-      "name": "For\u00eat Profonde",
-      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
         "name": "For the Love of Love",
         "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "For\u00eat Profonde",
+        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
+      },
+      "artists": [
+        {
+          "name": "Ricard Paul",
+          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
+        }
+      ],
+      "duration_ms": 187382,
+      "name": "For\u00eat Profonde",
+      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "The Melody At Night, With You",
         "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 344693,
       "name": "I Loves You Porgy",
       "url": "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
-      },
-      "artists": [
-        {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1571,34 +1555,18 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
-        "name": "Merveilleuse",
-        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
       "artists": [
         {
-          "name": "Valeria Henkel",
-          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
         }
       ],
-      "duration_ms": 121063,
-      "name": "Merveilleuse",
-      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
-    },
-    {
-      "added_at": "2023-01-26 21:00:00",
-      "album": {
-        "name": "Landscapes",
-        "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
-      },
-      "artists": [
-        {
-          "name": "Berlinist",
-          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
-        }
-      ],
-      "duration_ms": 271610,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-01-26 21:00:00",
@@ -1619,6 +1587,22 @@
     {
       "added_at": "2023-01-26 21:00:00",
       "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/3C7A7XuwIMVMyuCAZKtZ0x"
+      },
+      "artists": [
+        {
+          "name": "Berlinist",
+          "url": "https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn"
+        }
+      ],
+      "duration_ms": 271610,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/3JQ1n3bt7Hl6ilW46i8QOf"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-01-26 21:00:00",
+      "album": {
+        "name": "Merveilleuse",
+        "url": "https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9"
+      },
+      "artists": [
+        {
+          "name": "Valeria Henkel",
+          "url": "https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN"
+        }
+      ],
+      "duration_ms": 121063,
+      "name": "Merveilleuse",
+      "url": "https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB"
     },
     {
       "added_at": "2023-01-26 21:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Izabela Zabielska",
-  "num_followers": 2705,
+  "num_followers": 2706,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDFiMGQ5NWFmNGY2MWFjYTljNmI4MzczZjcwZTExYzlm",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDExODJiYTJiMTg4YTVlZTg4ZjI3MThjODU3ODEzZGU0",
   "tracks": [
     {
       "added_at": "2023-01-24 14:00:00",
@@ -423,38 +423,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 244827,
-      "name": "Straty",
-      "url": "https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
-      },
-      "artists": [
-        {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Cicho",
-      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Pokussa Na Parkiecie",
         "url": "https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 176000,
       "name": "POKUSSA",
       "url": "https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
+      },
+      "artists": [
+        {
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "Cicho",
+      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 244827,
+      "name": "Straty",
+      "url": "https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 207732,
-      "name": "Jako\u015b To Przetrwamy",
-      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 207732,
+      "name": "Jako\u015b To Przetrwamy",
+      "url": "https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 248202,
-      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
-      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 192557,
       "name": "Tamto Lato",
       "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+        "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 248202,
+      "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
+      "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
-        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
-      },
-      "artists": [
-        {
-          "name": "Cudowne Lata",
-          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Po Szkole",
-      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Nie ma",
         "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 202419,
       "name": "Nie ma",
       "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "K\u00f3\u0142ko I Krzy\u017cyk",
+        "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
+      },
+      "artists": [
+        {
+          "name": "Cudowne Lata",
+          "url": "https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Po Szkole",
+      "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -911,8 +911,8 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Technikolor",
-        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
+        "name": "VITAY (Avtomat Remix)",
+        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
       },
       "artists": [
         {
@@ -920,17 +920,29 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Twoja Stara",
-          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
-        },
-        {
-          "name": "Lola Eyeonyou Potocki",
-          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Technikolor",
-      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
+      "duration_ms": 250208,
+      "name": "VITAY - Avtomat Remix",
+      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Parlez Vous Francais",
+        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Bosski",
+          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Parlez Vous Francais",
+      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -951,22 +963,6 @@
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Parlez Vous Francais",
-        "url": "https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA"
-      },
-      "artists": [
-        {
-          "name": "Julia Bosski",
-          "url": "https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Parlez Vous Francais",
-      "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -1003,8 +999,8 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "VITAY (Avtomat Remix)",
-        "url": "https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s"
+        "name": "Technikolor",
+        "url": "https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc"
       },
       "artists": [
         {
@@ -1012,13 +1008,17 @@
           "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         },
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Twoja Stara",
+          "url": "https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ"
+        },
+        {
+          "name": "Lola Eyeonyou Potocki",
+          "url": "https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP"
         }
       ],
-      "duration_ms": 250208,
-      "name": "VITAY - Avtomat Remix",
-      "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+      "duration_ms": 230906,
+      "name": "Technikolor",
+      "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
     },
     {
       "added_at": "2023-01-24 14:00:00",

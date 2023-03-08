@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: RBD\n\n",
-  "num_followers": 114460,
+  "num_followers": 114489,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExMjcwNCwwMDAwMDAwMDU1NTJkZDQyZjA1NjlhYTU3MWMxYjY5YjY4NjM1MGFk",
+  "snapshot_id": "MTY3ODExMjcwNCwwMDAwMDAwMDU5ODczOGJhZGE1N2JmNTczZjdkYzcxODUwYWI4OTFl",
   "tracks": [
     {
       "added_at": "2023-03-06 14:13:28",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-03-07 02:12:23",
+      "added_at": "2023-03-08 01:15:23",
       "album": {
         "name": "on the street (with J. Cole)",
         "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -295,22 +299,18 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -507,26 +523,6 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 181763,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 118993,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 181763,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -819,6 +819,46 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -851,22 +891,42 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Lottery (feat. LU KALA)",
-        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+        "name": "PROIBIDONA",
+        "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         },
         {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
         }
       ],
-      "duration_ms": 186761,
-      "name": "Lottery (feat. LU KALA)",
-      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+      "duration_ms": 157649,
+      "name": "PROIBIDONA",
+      "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -895,46 +955,6 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "PROIBIDONA",
-        "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Valesca Popozuda",
-          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
-        }
-      ],
-      "duration_ms": 157649,
-      "name": "PROIBIDONA",
-      "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
         "name": "PLAYGROUND",
         "url": "https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi"
       },
@@ -947,46 +967,6 @@
       "duration_ms": 139300,
       "name": "PLAYGROUND",
       "url": "https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1011,26 +991,6 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "KU LO SA (with Camila Cabello)",
-        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "KU LO SA (with Camila Cabello)",
-      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -1047,6 +1007,46 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155406,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
       },
@@ -1203,6 +1219,22 @@
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1227,38 +1259,6 @@
       "duration_ms": 166005,
       "name": "Be Someone (feat. Ray X Ben)",
       "url": "https://open.spotify.com/track/0XMl0fVTh3PyPlwyJTn33n"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Macetar",
-        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "Macetar",
-      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/1cx7kDfiHlvQWwPRNxQrfQ"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1299,6 +1299,38 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/1cx7kDfiHlvQWwPRNxQrfQ"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Macetar",
+        "url": "https://open.spotify.com/album/5a1k4OWYmvWyaz1UvqLh2v"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "Macetar",
+      "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
         "name": "Enough To Drink",
         "url": "https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf"
       },
@@ -1319,34 +1351,22 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 155406,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
-      },
-      "artists": [
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Collett",
+          "url": "https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
+      "duration_ms": 173453,
+      "name": "NO BAD DAYS (feat. Collett)",
+      "url": "https://open.spotify.com/track/5C8ySsx3AT121g24uYR823"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1395,22 +1415,34 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+        "name": "I DON'T WANNA BE LIKE YOU",
+        "url": "https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT"
       },
       "artists": [
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Collett",
-          "url": "https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 173453,
-      "name": "NO BAD DAYS (feat. Collett)",
-      "url": "https://open.spotify.com/track/5C8ySsx3AT121g24uYR823"
+      "duration_ms": 163933,
+      "name": "I DON'T WANNA BE LIKE YOU",
+      "url": "https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Tudo Pra Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1435,54 +1467,6 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Tudo Pra Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "I DON'T WANNA BE LIKE YOU",
-        "url": "https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "I DON'T WANNA BE LIKE YOU",
-      "url": "https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 169036,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV"
-    },
-    {
-      "added_at": "2023-03-06 14:13:28",
-      "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 182918,
       "name": "Hungry Heart ft. Hayley Kiyoko",
       "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "added_at": "2023-03-06 14:13:28",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 169036,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/7w45EmjSQ5BdJaZoZwB7YV"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1667,8 +1667,8 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Fofoca",
-        "url": "https://open.spotify.com/album/4bgdTL3Uzg6ch39LWULulc"
+        "name": "Dias Antes do Baile",
+        "url": "https://open.spotify.com/album/6LzD72fSjP8rqZe54YcipI"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 172819,
-      "name": "Fofoca",
-      "url": "https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f"
+      "duration_ms": 187602,
+      "name": "Clareou",
+      "url": "https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB"
     },
     {
       "added_at": "2023-03-06 14:13:28",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2023-03-06 14:13:28",
       "album": {
-        "name": "Dias Antes do Baile",
-        "url": "https://open.spotify.com/album/6LzD72fSjP8rqZe54YcipI"
+        "name": "Fofoca",
+        "url": "https://open.spotify.com/album/4bgdTL3Uzg6ch39LWULulc"
       },
       "artists": [
         {
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 187602,
-      "name": "Clareou",
-      "url": "https://open.spotify.com/track/0cttxC2PCCrfSmgbA1GIwB"
+      "duration_ms": 172819,
+      "name": "Fofoca",
+      "url": "https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f"
     },
     {
       "added_at": "2023-03-06 14:13:28",

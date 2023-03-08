@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dizzy Dros
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,073 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,159 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 22 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
 | 23 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 |
 | 24 | [Wo Wo](https://open.spotify.com/track/4DOXUf71PoUQmF2IeCgJqw) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Akhro Noor](https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7) | 3:31 |
-| 25 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 |
+| 25 | [HVD](https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [HVD](https://open.spotify.com/album/3Ka4gK10E7b7MjQnPZL1pX) | 4:12 |
 | 26 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
-| 27 | [HVD](https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [HVD](https://open.spotify.com/album/3Ka4gK10E7b7MjQnPZL1pX) | 4:12 |
+| 27 | [Dexter](https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Dexter](https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI) | 2:48 |
 | 28 | [2 Frères](https://open.spotify.com/track/6XuVxP2EypUui0Kji4VcEr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [2 Frères](https://open.spotify.com/album/254QtoJMVKY6Io9CMH2Umu) | 4:25 |
 | 29 | [Babel](https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Babel](https://open.spotify.com/album/1Xm9f3GltPZRXz87dneSDO) | 4:15 |
 | 30 | [Business](https://open.spotify.com/track/600N1qOhl74PSwlDKbrJ7x) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:50 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 36 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 |
 | 37 | [HAPPY BIRTHDAY TO ME \- 1993](https://open.spotify.com/track/02QIXc2DlnYfzgARziXvzA) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [HAPPY BIRTHDAY TO ME \(1993\)](https://open.spotify.com/album/1zkZuBuOdJB8Bw26flNVy7) | 2:12 |
 | 38 | [Napoli](https://open.spotify.com/track/5l37BFLcOujPniSPbmiIzy) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Zedk](https://open.spotify.com/artist/5eDzQ1aF3AyCoQC9uNTwzE) | [Napoli](https://open.spotify.com/album/62DlWYJwVkY82WK17OFdQl) | 3:36 |
-| 39 | [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 |
+| 39 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
 | 40 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 |
-| 41 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
+| 41 | [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 |
 | 42 | [Pulga](https://open.spotify.com/track/6vg38Y8X6Ly5nTICq5vawX) | [Nirmou](https://open.spotify.com/artist/4w4Iyllv9FAqkq5yNw04tN), [MVSS](https://open.spotify.com/artist/2ZpWTC3oHAjeDFEDTjCf6G) | [Pulga](https://open.spotify.com/album/2HSW9bTfxAN9szvbHBKp2i) | 3:25 |
 | 43 | [Sawarekh](https://open.spotify.com/track/0Cl3o1hWpDdKwbfedzB78f) | [Shbash](https://open.spotify.com/artist/2SR6jVMQv7ahcivQ5y7fBA), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Sawarekh](https://open.spotify.com/album/13jqpSvTNfWbvUyNFcyS4h) | 3:18 |
 | 44 | [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [Langa \(feat\. Khayyat\)](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa \(feat\. Khayyat\)](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 |
 | 50 | [GHAREEB](https://open.spotify.com/track/56HnSz8IBgw9w5crh6gfqr) | [Shbash](https://open.spotify.com/artist/2SR6jVMQv7ahcivQ5y7fBA) | [GHAREEB](https://open.spotify.com/album/6HrRDDWIBvHOKAslzrpyRe) | 2:31 |
 
-Snapshot ID: `MTY3Nzc5ODAwMiwwMDAwMDAwMGJhMTUxNjY2NTg2NjM3MzE3M2Y5ZDlmNzE0YWFhNDJj`
+Snapshot ID: `MTY3Nzc5ODAwMiwwMDAwMDAwMDJjZWIxMzQxMjJiMTE0YWI4ZmYwMzUwYjIwMjgzNDRm`

@@ -1,15 +1,15 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 33332,
+  "num_followers": 33402,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDg5NSwwMDAwMDAwMGM4N2Y4MWZhNzI0ODhiOTE4YmQxNDgwZGFlNjg0MTkw",
+  "snapshot_id": "MTY3NzgzMDg5NSwwMDAwMDAwMDg5OGI0NGE0N2Y3NGQ5YjliMDhhMzg5NjAyZDYxNDYz",
   "tracks": [
     {
-      "added_at": "2023-03-07 02:22:09",
+      "added_at": "2023-03-08 01:15:43",
       "album": {
         "name": "People (feat. Ayra Starr & Omah Lay) [Remix]",
         "url": "https://open.spotify.com/album/689njStjzEujqVZtSDlpha"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
-      "added_at": "2023-03-07 02:22:09",
+      "added_at": "2023-03-08 01:15:43",
       "album": {
         "name": "GANGSTER ROMANTIC",
         "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q"
     },
     {
-      "added_at": "2023-03-07 02:22:09",
+      "added_at": "2023-03-08 01:15:43",
       "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+      "duration_ms": 171764,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -695,6 +695,22 @@
       "duration_ms": 145657,
       "name": "Attends",
       "url": "https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 154455,
       "name": "Body & Soul",
       "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Hide & Seek (Rema Remix)",
+        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Hide & Seek - Rema Remix",
+      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -831,22 +851,22 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Hide & Seek (Rema Remix)",
-        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
+        "name": "LV N ATTN",
+        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Hide & Seek - Rema Remix",
-      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
+      "duration_ms": 213991,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -867,26 +887,6 @@
       "duration_ms": 155789,
       "name": "Loaded",
       "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
-        "name": "LV N ATTN",
-        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 213991,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 209235,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 146399,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
-    },
-    {
-      "added_at": "2023-02-23 22:34:18",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-02-23 22:34:18",
       "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+      "duration_ms": 146399,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
     },
     {
       "added_at": "2023-02-23 22:34:18",
@@ -1307,6 +1291,22 @@
       "duration_ms": 222506,
       "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
       "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
+    },
+    {
+      "added_at": "2023-02-23 22:34:18",
+      "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
       "added_at": "2023-02-23 22:34:18",

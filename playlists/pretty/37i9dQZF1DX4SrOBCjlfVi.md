@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, Young Nudy and more\. Cover: BIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,317 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,365 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [I Am That](https://open.spotify.com/track/3WdByEKEIoKMhiXznveEHu) | [Yung Wolf](https://open.spotify.com/artist/12wAA2EoMsNYtnTqEvn1y0), [Action Pack](https://open.spotify.com/artist/7FjgkFMkxGiIJ3RkjUBOW4) | [Yung Wolf](https://open.spotify.com/album/5a1EGY7qgZ7KlK3JIMopDu) | 2:37 |
 | 44 | [PRETTIER THAN A BITCH](https://open.spotify.com/track/2njCc1INLgOZuHc4We6VZR) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [PRETTIER THAN A BITCH](https://open.spotify.com/album/0glpKQY9h1xLYG17XEaSik) | 2:02 |
 | 45 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 |
-| 46 | [Undefeated](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Undefeated](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
+| 46 | [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
 | 47 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 |
 | 48 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 |
 | 49 | [I Don't](https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Bank Appointment](https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t) | 2:59 |

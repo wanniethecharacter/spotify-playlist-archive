@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Mia Nicolai & Dion Cooper vormen dit jaar TeamNL tijdens het Eurovisie Songfestival 2023 met 'Burning Daylight'\. 🔥🔥🔥 🇳🇱🇳🇱🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,013 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,034 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

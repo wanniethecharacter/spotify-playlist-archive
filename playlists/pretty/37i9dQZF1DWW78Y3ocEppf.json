@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: JayO",
-  "num_followers": 39727,
+  "num_followers": 39742,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMDU3MCwwMDAwMDAwMDQ0YzcyYmI2MTg5MzgxYjZlZTEzMWY1MDU2MDJhMmM4",
+  "snapshot_id": "MTY3NzgyMDU3MCwwMDAwMDAwMDI5OTRhOGUzMjJjM2FiZjZhYjFkNjcyNmJkY2JkYzA1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
-      },
-      "artists": [
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -943,6 +927,22 @@
       "duration_ms": 211384,
       "name": "Nurture",
       "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Public Displays Of Affection: The Album",
@@ -1013,20 +997,20 @@
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
-      "added_at": "2022-08-26 04:41:34",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Love Quotes",
-        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 195401,
-      "name": "Love Quotes",
-      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1049,6 +1033,22 @@
       "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
     },
     {
+      "added_at": "2022-08-26 04:41:34",
+      "album": {
+        "name": "Love Quotes",
+        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 195401,
+      "name": "Love Quotes",
+      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+    },
+    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "KEYS II",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Spin the Block",
-        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229052,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Working On My Karma",
@@ -1103,6 +1087,22 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1305,26 +1305,6 @@
       "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "By My Side (feat. Kai Ca$h)",
-        "url": "https://open.spotify.com/album/1qZALfmBBt0NgdHLIHysET"
-      },
-      "artists": [
-        {
-          "name": "Nieman J",
-          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
-        },
-        {
-          "name": "Kai Ca$h",
-          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "By My Side (feat. Kai Ca$h)",
-      "url": "https://open.spotify.com/track/79YzNNX7vZpaC0ThGTnTJX"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lost In Melody (Deluxe)",
@@ -1359,6 +1339,26 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "By My Side (feat. Kai Ca$h)",
+        "url": "https://open.spotify.com/album/1qZALfmBBt0NgdHLIHysET"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "By My Side (feat. Kai Ca$h)",
+      "url": "https://open.spotify.com/track/79YzNNX7vZpaC0ThGTnTJX"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "C BOTH SIDES",
-        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "CYCLOPS",
-      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "TOP BOY",
@@ -1443,6 +1427,22 @@
       "duration_ms": 123157,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
+    },
+    {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "C BOTH SIDES",
+        "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "CYCLOPS",
+      "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1637,6 +1637,22 @@
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Outside Freestyle",
+        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Not a Statistic",
@@ -1657,22 +1673,6 @@
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Outside Freestyle",
-        "url": "https://open.spotify.com/album/2YCeNLDi7iPw8UVyDHBy0F"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "No Drama",
@@ -1687,6 +1687,22 @@
       "duration_ms": 189200,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "B.E.D",
         "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
       },
@@ -1737,20 +1737,20 @@
       "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 133671,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     }
   ],
   "unique_name": "Some Kinda Way",

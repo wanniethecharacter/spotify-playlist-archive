@@ -2,7 +2,7 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Connor Price, 4Korners, Nic D
+> The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Pvrx
 
 807 songs - 1 day 13 hr 32 min
 
@@ -685,7 +685,7 @@
 | [SUSHI STAND!](https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP) | [PhlyMur](https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG) | [SUSHI STAND!](https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75) | 5:32 | 2022-02-04 | 2022-03-26 |
 | [Sway the Billow](https://open.spotify.com/track/2TdBSAQRmZoEPUjSYa2gXV) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Sway the Billow](https://open.spotify.com/album/2xi7BFItQU5vNXcGaFPYvz) | 1:55 | 2022-04-15 | 2022-06-18 |
 | [Sweeter Summer](https://open.spotify.com/track/2Tfgf9gZjsyW3t7SYNGDt8) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Sweeter Summer](https://open.spotify.com/album/23tJ41qBumAwqHmpQ9YLPF) | 2:57 | 2022-07-01 | 2022-10-22 |
-| [Swing](https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Swing](https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS) | 2:09 | 2023-03-03 |  |
+| [Swing](https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Swing](https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS) | 2:09 | 2023-03-03 | 2023-03-08 |
 | [Switch](https://open.spotify.com/track/3AZPoZUgcdTuWYWI7GJ7N0) | [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL), [ytnSL](https://open.spotify.com/artist/0lZQOgfwRLpHQReSVxjyh2) | [Switch](https://open.spotify.com/album/7qxHb97YNDItJyPuK2QlPu) | 2:19 | 2022-01-21 | 2022-03-18 |
 | [Switch Locations](https://open.spotify.com/track/1CjBObmnN9MztK344Xkjd2) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd) | [Switch Locations](https://open.spotify.com/album/3XfCVakaWMTIvVmfdcEaJn) | 2:52 | 2022-10-21 | 2022-11-05 |
 | [Take A Trip](https://open.spotify.com/track/0C5XDxZ4ko10KK8syW6gG2) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Take A Trip](https://open.spotify.com/album/0vaCHXXAHJ4dehOrHhbR3i) | 3:14 | 2022-04-15 | 2022-08-06 |

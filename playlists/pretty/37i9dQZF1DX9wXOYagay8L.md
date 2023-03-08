@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=Jxo12rkVRJmeBp\-BEV8i6g">Bongeziwe Mabandla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,491 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,553 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 245474,
+  "num_followers": 245663,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMDJmZDA0NGRhNTI5MGE1Y2FjNTAxN2Y4MGNjOTFjYjIx",
+  "snapshot_id": "MTU5MzE0NDEyMCwwMDAwMDAwMGI1NGI2MGUzMjM5M2Y3NmEzYzk2Y2IxZjk0MDZjZTg3",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "God That Saves",
-        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
-      },
-      "artists": [
-        {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Belong To You",
-      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Empires",
         "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 331373,
       "name": "Captain",
       "url": "https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "God That Saves",
+        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/6zSXglLZMZBUMoqXHzzvYC"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Breakthrough (Live)",
         "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 285560,
       "name": "I'm Listening - Live",
       "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 297320,
-      "name": "The Cause Of Christ",
-      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "A Thousand More",
         "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 359710,
       "name": "A Thousand More - Live",
       "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
+      },
+      "artists": [
+        {
+          "name": "Woodlands Worship",
+          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
+        }
+      ],
+      "duration_ms": 493706,
+      "name": "Maker",
+      "url": "https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 326246,
       "name": "Awe + Wonder - Live",
       "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/4ZMCjXFFNlIIwp5uI20Njt"
-      },
-      "artists": [
-        {
-          "name": "Woodlands Worship",
-          "url": "https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls"
-        }
-      ],
-      "duration_ms": 493706,
-      "name": "Maker",
-      "url": "https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp"
     }
   ],
   "unique_name": "epicPRAISE",

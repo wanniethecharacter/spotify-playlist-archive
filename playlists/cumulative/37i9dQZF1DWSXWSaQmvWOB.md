@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-627 songs - 1 day 14 hr 31 min
+628 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Flesh and Blood](https://open.spotify.com/track/3ApDLA7FGUlDc7rNM4bzkb) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:58 | 2020-03-25\* | 2020-11-13 |
 | [Flow](https://open.spotify.com/track/0sVjIDqmoDYFS13wJ4aGWN) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Flow](https://open.spotify.com/album/0K1QrERzol1Muix9tfgQBi) | 4:23 | 2021-02-12 | 2021-04-17 |
 | [Flowers](https://open.spotify.com/track/7p7DGHdk7LUjQHOXrT3y5I) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Flowers](https://open.spotify.com/album/4uUmZgAogxVyxMlxCIso0E) | 3:22 | 2020-05-15 | 2020-07-18 |
-| [Footsteps In The Dark](https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Footsteps In The Dark](https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7) | 6:24 | 2022-04-08 |  |
+| [Footsteps In The Dark](https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Footsteps In The Dark](https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7) | 6:24 | 2022-04-08 | 2023-03-08 |
 | [For The Mighty Dollar](https://open.spotify.com/track/3uJ21Rgz9ihaoYPPLdDG9D) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Kevin Mark Trail](https://open.spotify.com/artist/1JaAAzV5C8aTUH8tuKcLxT), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [For The Mighty Dollar](https://open.spotify.com/album/2bwNXXfhcgik7PkS7dwLEl) | 5:04 | 2020-07-03 | 2021-01-09 |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 |  |
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-22 |  |
@@ -506,6 +506,7 @@
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-07-23 | 2022-02-18 |
 | [Still](https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Still](https://open.spotify.com/album/1Scr6kniX8lYs84lGKfga4) | 2:26 | 2022-05-12 | 2022-07-29 |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-05-14 | 2021-12-01 |
+| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-02 |  |
 | [Stories \- Blue Lab Beats Remix](https://open.spotify.com/track/0bUmmhZrae79ohOrmE2gm7) | [Full Flava](https://open.spotify.com/artist/5t5JR8OaTz7lsKo9xFKnl3), [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [Stories \(Blue Lab Beats Remix\)](https://open.spotify.com/album/72GcUvSlBYfogW44g97cSQ) | 4:05 | 2020-11-06 | 2020-12-11 |
 | [Story Starts Today](https://open.spotify.com/track/1MHelwASBBLimX8lgto9nP) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Story Starts Today](https://open.spotify.com/album/5jd91JY8okLP87MvYAse2L) | 3:26 | 2020-11-28 | 2021-04-17 |
 | [Strawberry Blush \(feat\. Free Nationals\)](https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2022-09-12 | 2022-09-30 |

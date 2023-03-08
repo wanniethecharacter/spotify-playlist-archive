@@ -4435,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156303,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm"
+    },
+    {
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/4ZAeR6E0QW2dO82sMxT1Mu"
       },
@@ -11289,7 +11311,7 @@
     },
     {
       "album": {
-        "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) [Trailer Anthem]",
+        "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) [Trailer Anthem / Extended Version]",
         "url": "https://open.spotify.com/album/1DfDXWmnmfnqHmPbvgPhWc"
       },
       "artists": [
@@ -11318,7 +11340,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191757,
-      "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
+      "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem / Extended Version",
       "url": "https://open.spotify.com/track/21wkixaulehrFctAvEhvQl"
     },
     {
@@ -17288,7 +17310,7 @@
           "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
         },
         {
-          "name": "Mirani",
+          "name": "MIRANI",
           "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         },
         {

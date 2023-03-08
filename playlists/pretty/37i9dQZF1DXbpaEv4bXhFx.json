@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8190,
+  "num_followers": 8205,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTA2MiwwMDAwMDAwMGM2M2UxM2U3MGFkOTg3OGZiNGU2OGU5MTdkZjdhMjQ4",
+  "snapshot_id": "MTY3NzIzNTA2MiwwMDAwMDAwMGVmMzAyN2U0N2VkZmRhMzFmZGFlOGJiYmFiNzNkODYz",
   "tracks": [
     {
       "added_at": "2023-02-14 07:53:40",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -321,7 +305,23 @@
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
     },
     {
-      "added_at": "2023-03-07 03:15:00",
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2023-03-08 01:39:18",
       "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
         "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-14 07:53:40",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "MISSING U",
-      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
-    },
-    {
-      "added_at": "2023-02-14 07:53:40",
-      "album": {
         "name": "wave 0.01",
         "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 216399,
       "name": "bird",
       "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
+    },
+    {
+      "added_at": "2023-02-14 07:53:40",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 248051,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
     },
     {
       "added_at": "2023-02-14 07:53:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: hongjoin\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,882 likes - 106 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,883 likes - 106 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

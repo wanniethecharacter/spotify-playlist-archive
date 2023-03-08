@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,363 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,407 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nowhere But Here](https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Nowhere But Here](https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p) | 2:14 |
 | 2 | [Coffee Break Blues](https://open.spotify.com/track/69xc8xiEWlKE4ughhki1uA) | [Benji Strings](https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs) | [Coffee Break Blues](https://open.spotify.com/album/4UNwW6wGi9XIKupflS2cnj) | 1:53 |
 | 3 | [You Don't Know Me](https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 5:41 |
-| 4 | [Blues For Alice](https://open.spotify.com/track/1T0NR2hR4sN25nBZymmdIH) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:39 |
-| 5 | [Twin Cities Blues](https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:02 |
-| 6 | [Train Ride](https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m) | [Josh Henning](https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk) | [Train Ride](https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI) | 2:56 |
-| 7 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 |
-| 8 | [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 |
-| 9 | [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 |
-| 10 | [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 |
-| 11 | [South Bound](https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [South Bound](https://open.spotify.com/album/167ijXAsdSVBFkQdl679kB) | 2:19 |
-| 12 | [Rainy Day Blues](https://open.spotify.com/track/3LLkcx4aJEtLFYemy1RjZh) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Rainy Day Blues](https://open.spotify.com/album/3ASDklCaL6JBF57JZXOBdm) | 2:58 |
-| 13 | [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 |
-| 14 | [With Love from My Porch](https://open.spotify.com/track/79Eobaxlzqp9jrepMMFqlV) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [With Love from My Porch](https://open.spotify.com/album/0DRbvFvHJDxRp4zLT2JvJe) | 1:53 |
-| 15 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 |
-| 16 | [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 |
-| 17 | [Take Root](https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Take Root](https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM) | 1:42 |
-| 18 | [Rope Hill](https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk) | [The Realist](https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ) | [The Heart of the Delta](https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx) | 1:25 |
-| 19 | [This Time Another Year](https://open.spotify.com/track/7hXVQQlcLFngiAOHLgBmBt) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 2:34 |
-| 20 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 |
+| 4 | [Twin Cities Blues](https://open.spotify.com/track/5QTNOAonSo9nw9mYNjb07R) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Stormy Sea](https://open.spotify.com/album/6WSj8xhmmO7riEXhzvGE4p) | 2:02 |
+| 5 | [Train Ride](https://open.spotify.com/track/2kuGJ5Dfda4zr6j3AtSU4m) | [Josh Henning](https://open.spotify.com/artist/3E7euSFqjyYvuAzF69w1Zk) | [Train Ride](https://open.spotify.com/album/2IJcIF95WPnyh0CAwqDBcI) | 2:56 |
+| 6 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 |
+| 7 | [As the years go by](https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [As the years go by](https://open.spotify.com/album/34J8KC4sA4YwWBCCMF97eT) | 2:03 |
+| 8 | [Authentic](https://open.spotify.com/track/3IIlAtayl38lQmDvuZfUAf) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 4:41 |
+| 9 | [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 |
+| 10 | [South Bound](https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [South Bound](https://open.spotify.com/album/167ijXAsdSVBFkQdl679kB) | 2:19 |
+| 11 | [Rainy Day Blues](https://open.spotify.com/track/3LLkcx4aJEtLFYemy1RjZh) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Rainy Day Blues](https://open.spotify.com/album/3ASDklCaL6JBF57JZXOBdm) | 2:58 |
+| 12 | [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 |
+| 13 | [With Love from My Porch](https://open.spotify.com/track/79Eobaxlzqp9jrepMMFqlV) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [With Love from My Porch](https://open.spotify.com/album/0DRbvFvHJDxRp4zLT2JvJe) | 1:53 |
+| 14 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 |
+| 15 | [Met my Love in Baton Rouge](https://open.spotify.com/track/5oj8xhZdu8TgqYIBWgw3Qm) | [Lada](https://open.spotify.com/artist/4GerVbgFLWZCwwnz6tE1EN) | [Don't Be Fooled](https://open.spotify.com/album/1ziVR6or0rA1lj4cbMxjQy) | 2:10 |
+| 16 | [Take Root](https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Take Root](https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM) | 1:42 |
+| 17 | [Rope Hill](https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk) | [The Realist](https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ) | [The Heart of the Delta](https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx) | 1:25 |
+| 18 | [This Time Another Year](https://open.spotify.com/track/7hXVQQlcLFngiAOHLgBmBt) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 2:34 |
+| 19 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 |
+| 20 | [Blues For Alice](https://open.spotify.com/track/1T0NR2hR4sN25nBZymmdIH) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:39 |
 | 21 | [When I'm With You](https://open.spotify.com/track/5FWOKwCQMQrStHCwSa0nSW) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [When I'm With You](https://open.spotify.com/album/5Uph6wx9f8zrVNDke8fIot) | 2:22 |
 | 22 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 |
 | 23 | [Monument Valley](https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 99 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 100 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MTY3Nzg2NzExNCwwMDAwMDAwMDdkM2MwYThjNzA0OGFhOGQ5NjJmMTYwZTBhNmJhNjM4`
+Snapshot ID: `MTY3ODE5NzMyNCwwMDAwMDAwMDQ0OTlhNDc0ZDc4NmNjY2NkMzU4ZDUzNTRmMjlhZTM3`

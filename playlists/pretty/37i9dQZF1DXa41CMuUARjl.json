@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Eliza Rose.",
-  "num_followers": 425226,
+  "num_followers": 425311,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzMTExMCwwMDAwMDAwMGUwNjEzNDM4ZjdhMTMyNjc2ZGY0NzE4MDU5NjBjM2I5",
+  "snapshot_id": "MTY3ODEzMTExMCwwMDAwMDAwMGQ4ODVkMzQzYmJlZDVhMDI5ZWRmNzhkOWY4MTYyYTQy",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Deceiver (VIP)",
-        "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "Deceiver - VIP",
-      "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Highs And Lows",
         "url": "https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P"
       },
@@ -643,6 +623,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Deceiver (VIP)",
+        "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 155845,
+      "name": "Deceiver - VIP",
+      "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Can\u2019t Do Both (with Clara Mae)",
         "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/1o0tOUwRDX6isTfSPxzXkD"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Hija de Su",
         "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 179439,
       "name": "Hija de Su",
       "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/1o0tOUwRDX6isTfSPxzXkD"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/5absCIrG8eUllroWDleIML"
-      },
-      "artists": [
-        {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        },
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 187282,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0Qn9ServO4rTrOwsofjVEd"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Big Talk",
         "url": "https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 160887,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/5absCIrG8eUllroWDleIML"
+      },
+      "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/0Qn9ServO4rTrOwsofjVEd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Higher Ground (Part 2)",
+        "url": "https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "Kairos Grove",
+          "url": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Emotions of Colour",
         "url": "https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K"
       },
@@ -871,22 +891,42 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Higher Ground (Part 2)",
-        "url": "https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6"
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
       },
       "artists": [
         {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
         },
         {
-          "name": "Kairos Grove",
-          "url": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7"
+      "duration_ms": 160367,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "JIYO",
+        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Chitralekha Sen",
+          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
+        }
+      ],
+      "duration_ms": 247619,
+      "name": "JIYO",
+      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -915,42 +955,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "JIYO",
-        "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
+        "name": "Drugs From Amsterdam (Armand Van Helden Remix)",
+        "url": "https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         },
         {
-          "name": "Chitralekha Sen",
-          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 247619,
-      "name": "JIYO",
-      "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        }
-      ],
-      "duration_ms": 160367,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
+      "duration_ms": 156923,
+      "name": "Drugs From Amsterdam - Armand Van Helden Remix",
+      "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Drugs From Amsterdam (Armand Van Helden Remix)",
-        "url": "https://open.spotify.com/album/5BJsik3qQYgBnm8mtwfTL4"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Drugs From Amsterdam - Armand Van Helden Remix",
-      "url": "https://open.spotify.com/track/1i7ystPYSrQGjDw3ykXTgR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Free (Ferreck Dawn Remix)",
         "url": "https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT"
       },
@@ -1071,30 +1071,6 @@
       "duration_ms": 173392,
       "name": "Free - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/0qaFVIeo7NYNi0WqycON6A"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Edge of Tomorrow",
-        "url": "https://open.spotify.com/album/0IRsFZxn79L0oItnOXFI3c"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Chapter 47",
-          "url": "https://open.spotify.com/artist/1cHBpxIOcQfyOAX1MWI734"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 241285,
-      "name": "Edge of Tomorrow",
-      "url": "https://open.spotify.com/track/7q5rYWltVXyYloLt7K9Efs"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1127,6 +1103,26 @@
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        }
+      ],
+      "duration_ms": 214108,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1167,38 +1163,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
+        "name": "Edge of Tomorrow",
+        "url": "https://open.spotify.com/album/0IRsFZxn79L0oItnOXFI3c"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
         },
         {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        }
-      ],
-      "duration_ms": 214108,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Reincarnation EP",
-        "url": "https://open.spotify.com/album/6W74HIJEn8xY0swZtCJHDd"
-      },
-      "artists": [
+          "name": "Chapter 47",
+          "url": "https://open.spotify.com/artist/1cHBpxIOcQfyOAX1MWI734"
+        },
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
         }
       ],
-      "duration_ms": 235364,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/67mwbUF45cIqBmqmOKe8lO"
+      "duration_ms": 241285,
+      "name": "Edge of Tomorrow",
+      "url": "https://open.spotify.com/track/7q5rYWltVXyYloLt7K9Efs"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Reincarnation EP",
+        "url": "https://open.spotify.com/album/6W74HIJEn8xY0swZtCJHDd"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/67mwbUF45cIqBmqmOKe8lO"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Four Tet Is My Godmother",
         "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 300200,
       "name": "Four Tet Is My Godmother",
       "url": "https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6W5AE2AwsYRz9yaerVhHYT"
-      },
-      "artists": [
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        },
-        {
-          "name": "Robot Collective",
-          "url": "https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/4XeCHTFZsnBkWalJNSqIDs"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Feels Darker",
-        "url": "https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI"
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/6W5AE2AwsYRz9yaerVhHYT"
       },
       "artists": [
         {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Robot Collective",
+          "url": "https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp"
         }
       ],
-      "duration_ms": 195375,
-      "name": "Feels Darker",
-      "url": "https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp"
+      "duration_ms": 177600,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/4XeCHTFZsnBkWalJNSqIDs"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Lost & Found EP, Vol. 2",
-        "url": "https://open.spotify.com/album/5sCgxUhV1LjWdAv5gCvh6g"
+        "name": "Feels Darker",
+        "url": "https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
         }
       ],
-      "duration_ms": 506000,
-      "name": "Fluff Rehab",
-      "url": "https://open.spotify.com/track/4e3ZVOp6VN3Lp8krsh5tQd"
+      "duration_ms": 195375,
+      "name": "Feels Darker",
+      "url": "https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1339,6 +1323,38 @@
       "duration_ms": 174193,
       "name": "Sweet Moment",
       "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Summer Heartbreak",
+        "url": "https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        }
+      ],
+      "duration_ms": 229045,
+      "name": "Summer Heartbreak",
+      "url": "https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Lost & Found EP, Vol. 2",
+        "url": "https://open.spotify.com/album/5sCgxUhV1LjWdAv5gCvh6g"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 506000,
+      "name": "Fluff Rehab",
+      "url": "https://open.spotify.com/track/4e3ZVOp6VN3Lp8krsh5tQd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1363,6 +1379,26 @@
       "duration_ms": 136835,
       "name": "Freedive",
       "url": "https://open.spotify.com/track/7c4fguBnrgWUiUuClAoEbN"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Babylonia",
+        "url": "https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
+        {
+          "name": "ParteNope",
+          "url": "https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713"
+        }
+      ],
+      "duration_ms": 311670,
+      "name": "Perzechella",
+      "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1407,26 +1443,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Babylonia",
-        "url": "https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va"
-      },
-      "artists": [
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        },
-        {
-          "name": "ParteNope",
-          "url": "https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713"
-        }
-      ],
-      "duration_ms": 311670,
-      "name": "Perzechella",
-      "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "NEED IT",
         "url": "https://open.spotify.com/album/6hRN1GU6dWV7MU81ZTbL7i"
       },
@@ -1467,22 +1483,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Start Small (Lamorn Remix)",
-        "url": "https://open.spotify.com/album/54SAgYdUypGi1rRlc58GVN"
+        "name": "Music For Dark Spaces",
+        "url": "https://open.spotify.com/album/7DVmkL0riHAf0zcbEQaADo"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Lamorn",
-          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
         }
       ],
-      "duration_ms": 298754,
-      "name": "Start Small - Lamorn Remix",
-      "url": "https://open.spotify.com/track/79HLHHL8xuSumcE6ZV2tOP"
+      "duration_ms": 258250,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1R19e1DuE9LAYUFddZLJii"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1503,54 +1515,6 @@
       "duration_ms": 178571,
       "name": "With You (with Morgin Madison)",
       "url": "https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Music For Dark Spaces",
-        "url": "https://open.spotify.com/album/7DVmkL0riHAf0zcbEQaADo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/1R19e1DuE9LAYUFddZLJii"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Summer Heartbreak",
-        "url": "https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR"
-      },
-      "artists": [
-        {
-          "name": "DJ Kent",
-          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
-        }
-      ],
-      "duration_ms": 229045,
-      "name": "Summer Heartbreak",
-      "url": "https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Mala (La Noche)",
-        "url": "https://open.spotify.com/album/25sQxILp4Yj9ILnmHmEXIF"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 348145,
-      "name": "Mala (La Noche)",
-      "url": "https://open.spotify.com/track/2qjPvUYCX5zE7WbvOKsUQd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1615,6 +1579,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Start Small (Lamorn Remix)",
+        "url": "https://open.spotify.com/album/54SAgYdUypGi1rRlc58GVN"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "duration_ms": 298754,
+      "name": "Start Small - Lamorn Remix",
+      "url": "https://open.spotify.com/track/79HLHHL8xuSumcE6ZV2tOP"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/19RHtUMUXEwTh0kHtzVAoG"
       },
@@ -1643,42 +1627,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/2k9kQzygXAZ2R5g021gAqw"
+        "name": "Mala (La Noche)",
+        "url": "https://open.spotify.com/album/25sQxILp4Yj9ILnmHmEXIF"
       },
       "artists": [
         {
-          "name": "Golf Clap",
-          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Since I Fell For You",
-        "url": "https://open.spotify.com/album/4Ux5BJDBmvdF4JCGZ5FGVH"
-      },
-      "artists": [
-        {
-          "name": "Fahlberg",
-          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
-        }
-      ],
-      "duration_ms": 297995,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/2OCDgzHWQQfRDWxDL5RxwV"
+      "duration_ms": 348145,
+      "name": "Mala (La Noche)",
+      "url": "https://open.spotify.com/track/2qjPvUYCX5zE7WbvOKsUQd"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1699,6 +1659,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Since I Fell For You",
+        "url": "https://open.spotify.com/album/4Ux5BJDBmvdF4JCGZ5FGVH"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        }
+      ],
+      "duration_ms": 297995,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/2OCDgzHWQQfRDWxDL5RxwV"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Is It Enough",
         "url": "https://open.spotify.com/album/1aOGZLGCKrqd5ukZsWqygl"
       },
@@ -1713,7 +1689,7 @@
       "url": "https://open.spotify.com/track/0OZ80Lvoxxd0c0ig8O8scg"
     },
     {
-      "added_at": "2023-03-07 02:41:47",
+      "added_at": "2023-03-08 01:01:53",
       "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/6lSzDYFE6TWrkhJJ24zU7j"
@@ -1747,6 +1723,30 @@
       "duration_ms": 268800,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/1nSBTGGMQOMyxd1sjJJNYP"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/2k9kQzygXAZ2R5g021gAqw"
+      },
+      "artists": [
+        {
+          "name": "Golf Clap",
+          "url": "https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Know My Mind",
-        "url": "https://open.spotify.com/album/5DpYfGBtalHlXNUNV5huhr"
-      },
-      "artists": [
-        {
-          "name": "Amy Dabbs",
-          "url": "https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl"
-        }
-      ],
-      "duration_ms": 228692,
-      "name": "Know My Mind",
-      "url": "https://open.spotify.com/track/41FiwSByXYSdXuKnMKS5e3"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Wat U Want",
         "url": "https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 144035,
       "name": "Wat U Want",
       "url": "https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Know My Mind",
+        "url": "https://open.spotify.com/album/5DpYfGBtalHlXNUNV5huhr"
+      },
+      "artists": [
+        {
+          "name": "Amy Dabbs",
+          "url": "https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl"
+        }
+      ],
+      "duration_ms": 228692,
+      "name": "Know My Mind",
+      "url": "https://open.spotify.com/track/41FiwSByXYSdXuKnMKS5e3"
     },
     {
       "added_at": "2023-03-03 05:00:00",

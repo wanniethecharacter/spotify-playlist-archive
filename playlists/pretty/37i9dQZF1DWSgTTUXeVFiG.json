@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 14211,
+  "num_followers": 14240,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGM1YjBhMzM5YzJkODIxMGEzZTNkMjJlNjk1OWI4NzJl",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGZlNGMzZTE0ODhjYTYzMWU3ZWY1MjZjYTZmZjU1ODU1",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Intimamente Salsero (En Vivo)",
         "url": "https://open.spotify.com/album/5Reuqd1mwQDQOdx0vFvOXm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 298573,
       "name": "Sue\u00f1o Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1ACoCw1B1BRNg0gaLQmdJQ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -883,58 +883,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "40 Aniversario: EN VIVO",
-        "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Richie Ray",
-          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
-        },
-        {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        },
-        {
-          "name": "Wille Colon",
-          "url": "https://open.spotify.com/artist/7FjTUD6W5stHN4LwBCcwkU"
-        },
-        {
-          "name": "Pedro Brull",
-          "url": "https://open.spotify.com/artist/5gNP6xGmxzC25B3Fhqg5eg"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Luisito Carrion",
-          "url": "https://open.spotify.com/artist/7Gkr47aENhNsnuE72IIuUl"
-        },
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/5pUnaPzP3a5oHMWgJHU0gp"
-        },
-        {
-          "name": "Papo Lucca",
-          "url": "https://open.spotify.com/artist/7vBicXCUm81QrCyx83xEfj"
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
         }
       ],
-      "duration_ms": 393810,
-      "name": "Sonido Bestial",
-      "url": "https://open.spotify.com/track/1FVahOIncroD7JyUrEslTm"
+      "duration_ms": 500520,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
     }
   ],
   "unique_name": "Vivo de Salsa",

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. In cover, Giorgieness!
 
-325 songs - 18 hr 7 min
+326 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 | 2023-03-02 |  |
 | [Furore](https://open.spotify.com/track/6q3QpJO8HmJrWuF0zaBr62) | [Giant Gummy Bears](https://open.spotify.com/artist/5V2GfS5pUpv5Sbqy3Zf6lu) | [Furore](https://open.spotify.com/album/0gd8zQEysYahjiJ20rE79G) | 4:19 | 2022-08-18 | 2022-09-09 |
 | [Gay division](https://open.spotify.com/track/3IcAYELBteC0J76y30biJV) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Miracolosamente Illesi](https://open.spotify.com/album/5Amj4EQkJ54rt09Ztzn5R9) | 3:16 | 2022-11-17 | 2023-01-20 |
+| [GDPR](https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [GDPR](https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6) | 2:52 | 2023-03-07 |  |
 | [Gent](https://open.spotify.com/track/4X0DLF1x69H8ybF2M3tkjl) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP), [Tana Combinaguai](https://open.spotify.com/artist/7u6nsTUogydvsNlVUcF2HY) | [Gent](https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA) | 4:01 | 2022-06-09 | 2022-07-01 |
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-25 | 2022-09-30 |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |

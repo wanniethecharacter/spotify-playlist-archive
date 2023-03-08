@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Los Bitchos",
-  "num_followers": 48146,
+  "num_followers": 48158,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMGEwZTExNWU2NDUxZTNhYWNmOTIzYTczNDUxNmY2MzQ2",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDQyYTZhMGVkMWI4MTI0ODNiN2E2Y2ViOGE2YmZhZGMy",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "It Was Fun While It Lasted",
-        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 150522,
-      "name": "Drunk Dial",
-      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "It Was Fun While It Lasted",
+        "url": "https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 150522,
+      "name": "Drunk Dial",
+      "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "me vs me vs all of y'all",
-        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "me vs me vs all of y'all",
-      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "me vs me vs all of y'all",
+        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "me vs me vs all of y'all",
+      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "EXPLICIT: The MiXXXtape",
         "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192226,
       "name": "D.R.I.L.D.O",
       "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
+        "name": "Ghost Brigade",
+        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
       },
       "artists": [
         {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
         }
       ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+      "duration_ms": 224687,
+      "name": "Ghost Brigade",
+      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -939,18 +939,34 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Ghost Brigade",
-        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
       "artists": [
         {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
         }
       ],
-      "duration_ms": 224687,
-      "name": "Ghost Brigade",
-      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "TNSW",
         "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Hell of Mine",
-        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
-      },
-      "artists": [
-        {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
-        }
-      ],
-      "duration_ms": 125484,
-      "name": "Hell of Mine",
-      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Taste the Money",
         "url": "https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Cool Blue",
-        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
       },
       "artists": [
         {
-          "name": "happydaze",
-          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
         }
       ],
-      "duration_ms": 189072,
-      "name": "Cool Blue",
-      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 115936,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "punkadonk",
-        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Moto",
-      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Paying The Price",
         "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 160884,
       "name": "Paying The Price",
       "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "punkadonk",
+        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 165831,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1295,38 +1295,38 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
         }
       ],
-      "duration_ms": 184653,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
     },
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx"
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59"
       },
       "artists": [
         {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        },
+        {
+          "name": "Cairn",
+          "url": "https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv"
         }
       ],
-      "duration_ms": 156248,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1"
+      "duration_ms": 143551,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM"
     }
   ],
   "unique_name": "The Punk List",

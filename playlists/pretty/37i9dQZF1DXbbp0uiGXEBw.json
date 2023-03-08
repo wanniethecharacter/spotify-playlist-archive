@@ -1,12 +1,12 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: C\u1ea7m",
-  "num_followers": 17479,
+  "num_followers": 17536,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxODMyNSwwMDAwMDAwMDA2ZWYxODJiZmY0YzQ5ZGY3OTcwNWVhZmJlMzI5YTI0",
+  "snapshot_id": "MTY3ODIwODQwMCwwMDAwMDAwMDhmNTMxNjAxZGY3YzVlZGZiZWU3MmNhODQzNTM5MzAz",
   "tracks": [
     {
       "added_at": "2023-03-03 04:38:45",
@@ -95,6 +95,26 @@
       "duration_ms": 264000,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
+    },
+    {
+      "added_at": "2023-03-07 17:00:00",
+      "album": {
+        "name": "girls like me don't cry (remix) ft. MIN",
+        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "girls like me don't cry (remix) ft. MIN",
+      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
     },
     {
       "added_at": "2023-03-03 04:38:45",
@@ -755,22 +775,6 @@
       "duration_ms": 279152,
       "name": "Em H\u00e1t Ai Nghe",
       "url": "https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg"
-    },
-    {
-      "added_at": "2023-03-03 04:38:45",
-      "album": {
-        "name": "N\u01a1i M\u00ecnh D\u1eebng Ch\u00e2n (Nh\u1ea1c Phim Ch\u1ecb Tr\u1ee3 L\u00fd C\u1ee7a Anh)",
-        "url": "https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo"
-      },
-      "artists": [
-        {
-          "name": "M\u1ef9 T\u00e2m",
-          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
-        }
-      ],
-      "duration_ms": 242093,
-      "name": "N\u01a1i M\u00ecnh D\u1eebng Ch\u00e2n (Nh\u1ea1c Phim Ch\u1ecb Tr\u1ee3 L\u00fd C\u1ee7a Anh)",
-      "url": "https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft"
     },
     {
       "added_at": "2023-03-03 04:38:45",

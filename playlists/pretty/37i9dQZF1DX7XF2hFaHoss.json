@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Sunny War",
-  "num_followers": 143685,
+  "num_followers": 143747,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDM1MTgyZGJjNjk3YzRmNjE4MDlkYWZlMzE1OGE1ZDhh",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDliZjllZWFjY2FiYjhjNzI4Njc5YWFjNjhkZGE4OTM2",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "Our Two Skins",
+        "url": "https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 221880,
+      "name": "Extraordinary Life",
+      "url": "https://open.spotify.com/track/5WynYq2cndxR6HFc7r3prE"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 190229,
       "name": "Answers - Acoustic",
       "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Our Two Skins",
-        "url": "https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "Extraordinary Life",
-      "url": "https://open.spotify.com/track/5WynYq2cndxR6HFc7r3prE"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
         "name": "Quiet (Stripped)",
         "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
     },
     {
       "added_at": "2023-02-03 05:00:00",

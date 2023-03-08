@@ -1,12 +1,12 @@
 {
   "description": "pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms\n",
-  "num_followers": 40735,
+  "num_followers": 41055,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MDU0MSwwMDAwMDAwMGViYmI4MDRlOGE0ZjcwMTBlMWQ2ZWViNWRmZTVhMGQz",
+  "snapshot_id": "MTY3NDE3MDU0MSwwMDAwMDAwMDdlMjEwMTVjYjEzNjg2ZTAwOTA3NTU3MWQ0MjVhMzcx",
   "tracks": [
     {
       "added_at": "2023-01-19 23:22:21",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-01-19 23:22:21",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Ultraviolence",
+      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "added_at": "2023-01-19 23:22:21",
+      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
-    },
-    {
-      "added_at": "2023-01-19 23:22:21",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Ultraviolence",
-      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
     },
     {
       "added_at": "2023-01-19 23:22:21",

@@ -4,7 +4,7 @@
 
 > Anthems from the early days of recorded rap music.
 
-143 songs - 12 hr 6 min
+144 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Brass Monkey](https://open.spotify.com/track/6MzdzJ4hkHJWROmUzED9yP) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/5izHWBylmEjk1yTVPAYJWj) | 2:37 | 2021-12-21 | 2022-07-29 |
 | [Break Dance \- Electric Boogie](https://open.spotify.com/track/5gs8ySYMZyiGdVGbNcGlbx) | [West Street Mob](https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO) | [Break Dance \- Electric Boogie](https://open.spotify.com/album/7dFQDsjoGaJEEKG7mQhiow) | 5:11 | 2022-01-13 | 2022-07-08 |
 | [Bring The Noise](https://open.spotify.com/track/2r2U0MB6es56gAAywHczAC) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/3fnVPzF3kChsDGYdBOkLZc) | 3:46 | 2021-12-21 | 2022-07-29 |
+| [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 | 2023-02-27 |  |
 | [Bring The Noise](https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 3:46 | 2022-07-07 | 2023-03-02 |
 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 | 2021-12-21 |  |
 | [Bust A Move](https://open.spotify.com/track/29ssM9oYcFjoZGi4UWxq6X) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin' \(Deluxe Edition\)](https://open.spotify.com/album/1mp9ks0PqwGCLbe7y0jCKr) | 4:23 | 2021-12-21 | 2022-07-29 |
@@ -86,7 +87,7 @@
 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 | 2021-12-21 |  |
 | [Mona Lisa](https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick](https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN) | 4:08 | 2021-12-21 |  |
 | [My Adidas](https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 2:47 | 2021-12-21 |  |
-| [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 | 2021-12-21 |  |
+| [My Part of Town](https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV) | [Tuff Crew](https://open.spotify.com/artist/7voU3OBl973giCAvy3AT5D) | [Danger Zone](https://open.spotify.com/album/5k1kZGgMzrFEPskXQlwcrb) | 4:31 | 2021-12-21 | 2023-03-08 |
 | [My Philosophy](https://open.spotify.com/track/74pIq8LeHDZZYPfvjChDbL) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary](https://open.spotify.com/album/2Bq235xG1XzeEfSDl1Xh7s) | 5:38 | 2021-12-21 | 2022-07-29 |
 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 | 2022-07-07 |  |
 | [One for the Treble](https://open.spotify.com/track/5uAzSQQhVL9X0C2BFNA7EC) | [Davy DMX](https://open.spotify.com/artist/2IsmDumTniT9BP7qyozDCC) | [Tuff City Records: Original Old School Recordings, Vol\. 1](https://open.spotify.com/album/1browE7iTxvLMftpdvzny2) | 6:23 | 2021-12-21 | 2022-07-29 |

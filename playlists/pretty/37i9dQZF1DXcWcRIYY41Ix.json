@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alex Ferreira.",
-  "num_followers": 105723,
+  "num_followers": 105756,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDY0YzI1MjI2YjZjMmUzZmMxNGEzZjE0Y2Y2NTdkZTM2",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDRiOGUzZmI0MzhiYjQ1OGFiMjcxZjg1YjlhMmE4NjMz",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "abril y mayo",
+        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+      "duration_ms": 120542,
+      "name": "abril y mayo",
+      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "El Siglo del Loro",
         "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "abril y mayo",
-        "url": "https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 120542,
-      "name": "abril y mayo",
-      "url": "https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "lo que siento",
+        "url": "https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "lo que siento",
+      "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 194826,
       "name": "La Mirada",
       "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "lo que siento",
-        "url": "https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "lo que siento",
-      "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Nin\u0303a de mis ojos",
-      "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Nin\u0303a de mis ojos",
+      "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 216891,
-      "name": "Yo Soy",
-      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Impulso",
         "url": "https://open.spotify.com/album/1szqXDTyWrUkOhHUrOwy71"
       },
@@ -1295,18 +1275,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
       "artists": [
         {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+      "duration_ms": 216891,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Un Viajecito",
+        "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 282114,
+      "name": "Tonada de Luna Llena",
+      "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Un Viajecito",
-        "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 282114,
-      "name": "Tonada de Luna Llena",
-      "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1715,6 +1715,46 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT"
+      },
+      "artists": [
+        {
+          "name": "Elena Gadel",
+          "url": "https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
+      },
+      "artists": [
+        {
+          "name": "IRIA M",
+          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/2t3YFJYZC8U4ru0xGkWDlN"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "duration_ms": 146731,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1767,46 +1807,6 @@
       "duration_ms": 209710,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/59zGEtzyJYGrYhSne6ZVZD"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT"
-      },
-      "artists": [
-        {
-          "name": "Elena Gadel",
-          "url": "https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg"
-      },
-      "artists": [
-        {
-          "name": "IRIA M",
-          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
-        },
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        },
-        {
-          "name": "Factoria Chakataga",
-          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
-        }
-      ],
-      "duration_ms": 146731,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v"
     }
   ],
   "unique_name": "Cancionistas",

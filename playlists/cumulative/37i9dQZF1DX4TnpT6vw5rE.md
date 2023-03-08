@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-233 songs - 14 hr 6 min
+234 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
-| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 |  |
+| [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-03-08 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 |  |
@@ -160,6 +160,7 @@
 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 | 2022-07-22 | 2023-01-05 |
 | [Ocelot](https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn) | 4:36 | 2022-12-30 |  |
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2021-01-15 | 2022-07-29 |
+| [On the Horizon](https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [On the Horizon](https://open.spotify.com/album/0pysKRX6glumaLQ8glH5L2) | 1:48 | 2023-02-24 |  |
 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 | 2021-01-16 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2020-12-08\* |  |
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |

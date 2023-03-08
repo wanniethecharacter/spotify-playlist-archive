@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Los Palmeras & Axel.",
-  "num_followers": 111922,
+  "num_followers": 111974,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3NDE3MSwwMDAwMDAwMDI0OGI4ZDEzZmEzMDdhZTY5ZGU5NWFjNzY2MjE4ZDBh",
+  "snapshot_id": "MTY3Nzg3NDE3MSwwMDAwMDAwMDAyZWRlYmQ4MDljMjM1YWY0YTc2YWQ3ZmUyZWMyMDYz",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:27",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
     },
     {
-      "added_at": "2023-03-07 02:44:00",
+      "added_at": "2023-03-08 01:13:04",
       "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9"
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
-      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -775,22 +775,6 @@
       "duration_ms": 175992,
       "name": "Adios Amor Adios - En Vivo",
       "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 496146,
-      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
-      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -827,18 +811,34 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -875,18 +875,34 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quiero Yo Saber (Donde Esta El Amor)",
+      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -923,38 +939,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Crecer (En Vivo)",
-        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Dime Si Eres Feliz - En Vivo",
-      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quiero Yo Saber (Donde Esta El Amor)",
-      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180244,
       "name": "Mi Condena - En Vivo",
       "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     }
   ],
   "unique_name": "Vivo de Cumbia",

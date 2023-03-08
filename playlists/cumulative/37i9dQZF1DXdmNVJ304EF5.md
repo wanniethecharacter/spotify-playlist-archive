@@ -4,7 +4,7 @@
 
 > Where the local scene started.
 
-52 songs - 3 hr 1 min
+53 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [History Is Bunk](https://open.spotify.com/track/2TugrCuKJNhsUKKCgzqhQC) | [Gnarwolves](https://open.spotify.com/artist/3dsBRiySuhVwZcFv1qsNbd) | [Chronicles of Gnarnia](https://open.spotify.com/album/47ruB75LFAlmpgseXW56hn) | 1:43 | 2022-12-28 |  |
 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 | 2023-01-06 |  |
 | [In The Belly Of A Shark](https://open.spotify.com/track/77Aq2TZHqT2qalPlcZIuOO) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves](https://open.spotify.com/album/4kdf7PUYEUVsZ1yeBFVK6d) | 2:41 | 2022-12-28 |  |
-| [Lighthouse](https://open.spotify.com/track/3sUTuGtwusULswgwtN3HlE) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Signals](https://open.spotify.com/album/1H6vkyzIdyad0oGfbNWOsL) | 4:00 | 2022-12-28 |  |
+| [Lighthouse](https://open.spotify.com/track/0VRmeU1YVF3044m1ByOR3m) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Signals](https://open.spotify.com/album/37Yy9e50ytn0rWc2WpLmpR) | 4:00 | 2022-12-28 |  |
+| [Lighthouse](https://open.spotify.com/track/3sUTuGtwusULswgwtN3HlE) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Signals](https://open.spotify.com/album/1H6vkyzIdyad0oGfbNWOsL) | 4:00 | 2022-12-28 | 2023-03-08 |
 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 | 2023-01-06 |  |
 | [Love Someone Else](https://open.spotify.com/track/1tofp6uffkJvUAy3yoC1Tp) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Changing Tune](https://open.spotify.com/album/2mw1ppe4S1ijmVTdF5iuCe) | 2:29 | 2022-12-28 |  |
 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 | 2023-01-06 |  |

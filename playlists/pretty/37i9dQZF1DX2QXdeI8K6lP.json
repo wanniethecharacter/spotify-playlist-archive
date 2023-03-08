@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 213747,
+  "num_followers": 213870,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5MjU5NiwwMDAwMDAwMDExZTU1YTBlMmUyOWYyZjEzMGUzZDU4N2M3YWViMWQ2",
+  "snapshot_id": "MTY3NTE5MjU5NiwwMDAwMDAwMGI0ZDdhYzMxNDk4Y2E1MzExODc2MDI2ODNkN2M4ZDNh",
   "tracks": [
     {
       "added_at": "2021-10-01 13:30:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
-    },
-    {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
         "name": "Epoca De Oro",
         "url": "https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 176160,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/7410XFJdR47lachsg3fkth"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+      "duration_ms": 162944,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 162944,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
     },
     {
-      "added_at": "2021-12-26 11:28:49",
-      "album": {
-        "name": "100th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "T\u00fa me acostumbraste",
-      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
-    },
-    {
       "added_at": "2021-10-01 13:30:07",
       "album": {
         "name": "Nos Hizo Falta Tiempo",
@@ -1259,6 +1243,22 @@
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
-      "added_at": "2021-10-01 13:30:07",
+      "added_at": "2021-12-26 11:28:49",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+        "name": "100th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+      "duration_ms": 163693,
+      "name": "T\u00fa me acostumbraste",
+      "url": "https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2021-10-01 13:30:07",
       "album": {
-        "name": "Antolog\u00eda. . .Hermanas Aguila",
-        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+        "name": "Vamos a la Cumbancha",
+        "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
       },
       "artists": [
         {
-          "name": "Hermanas Aguila",
-          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+          "name": "El Negro Peregrino Y Su Trio",
+          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Se\u00f1ora tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+      "duration_ms": 198146,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
     },
     {
       "added_at": "2021-10-01 13:30:07",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
-      "added_at": "2021-10-01 13:30:07",
-      "album": {
-        "name": "Vamos a la Cumbancha",
-        "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
-      },
-      "artists": [
-        {
-          "name": "El Negro Peregrino Y Su Trio",
-          "url": "https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9"
-        }
-      ],
-      "duration_ms": 198146,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx"
-    },
-    {
       "added_at": "2021-12-26 11:28:49",
       "album": {
         "name": "Tres Super Trios",
@@ -1603,6 +1587,22 @@
       "duration_ms": 186573,
       "name": "Cuando Me Vaya",
       "url": "https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI"
+    },
+    {
+      "added_at": "2021-10-01 13:30:07",
+      "album": {
+        "name": "Antolog\u00eda. . .Hermanas Aguila",
+        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Aguila",
+          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Se\u00f1ora tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
     },
     {
       "added_at": "2021-10-01 13:30:07",

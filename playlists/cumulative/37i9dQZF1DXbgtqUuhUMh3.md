@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Oumaima Taleb
 
-411 songs - 1 day 0 hr 8 min
+413 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2022-03-03 | 2022-07-26 |
 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-21 |  |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2021-12-23 | 2022-03-02 |
+| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-08 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-03-02 |  |
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-21 |  |
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
@@ -167,7 +168,7 @@
 | [Irrelevant](https://open.spotify.com/track/4eq6MbQqOOKhqM4lWtNOyE) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Irrelevant](https://open.spotify.com/album/2bKsA9h2qEwF43ep3xWfKn) | 3:24 | 2021-12-23 | 2022-03-02 |
 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-08-04 |  |
 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2022-03-08 | 2022-07-29 |
-| [Janne](https://open.spotify.com/track/434dk1E0K6p4J5mW8nznFX) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Janne](https://open.spotify.com/album/1uBuVHdxXpGLZDXcT791yF) | 3:38 | 2023-03-02 |  |
+| [Janne](https://open.spotify.com/track/434dk1E0K6p4J5mW8nznFX) | [Yara Korkomaz](https://open.spotify.com/artist/6amwfCnGymkXQLiFYq23PU) | [Janne](https://open.spotify.com/album/1uBuVHdxXpGLZDXcT791yF) | 3:38 | 2023-03-02 | 2023-03-08 |
 | [Jeet Ahrak](https://open.spotify.com/track/7EFFcVrADndTUDZt88tAK0) | [Aroa](https://open.spotify.com/artist/3YIVc1ZHmaoN4iZa6QUk7Q) | [Jeet Ahrak](https://open.spotify.com/album/3G88nKXJz9ApDpVI2ngwjk) | 3:28 | 2022-01-27 | 2022-02-02 |
 | [Joudia](https://open.spotify.com/track/1bdTseAlqJLOjf61wvOOCr) | [Soukaina Fahsi](https://open.spotify.com/artist/39DD8OzHyAs32eKK9GLQDp) | [Joudia](https://open.spotify.com/album/1fQoYFxc0EZCG6XZtC5VOC) | 5:02 | 2021-12-23 | 2022-03-01 |
 | [Kam Marra](https://open.spotify.com/track/0cawWyQZDZheOScU3xR5jr) | [Tania Kassis](https://open.spotify.com/artist/793k10CpQo36RQJyL7rGDi) | [Kam Marra](https://open.spotify.com/album/6DixtSWrxYingKM0PHuG11) | 4:01 | 2022-03-01 | 2022-07-28 |
@@ -317,6 +318,7 @@
 | [Ya Ana](https://open.spotify.com/track/7iXbIIEeBJLI89HDrn9V0s) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Ya Ana](https://open.spotify.com/album/5S7WCHWsqQUdHzH9nKzTzN) | 2:52 | 2023-01-19 | 2023-02-04 |
 | [Ya Awali](https://open.spotify.com/track/5tFGdOqUADXctbmxqDXGXK) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Ya Awali](https://open.spotify.com/album/0UlIrbaOwgNnis6eJ9boTY) | 3:56 | 2021-12-23 | 2022-03-02 |
 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 | 2022-11-15 |  |
+| [Ya Gamalak](https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak](https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv) | 3:29 | 2023-03-07 |  |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-05-03 | 2023-03-03 |
 | [Ya Sayedi](https://open.spotify.com/track/0DOwOVgbKokXj36OWKzgiH) | [Oumaima Taleb](https://open.spotify.com/artist/40Op8SEXDhPBzJmyDfL9G3) | [Ya Sayedi](https://open.spotify.com/album/6l2LoN6YaYDoz3SRFhmUwP) | 4:24 | 2021-12-30 | 2022-03-01 |
 | [Ya Yema](https://open.spotify.com/track/0yhfnQQXbiBPAfPHGRBLfM) | [Bouchra Elm](https://open.spotify.com/artist/2JeWGigve92LrpLG6UfEwd) | [Ya Yema](https://open.spotify.com/album/6ncyf9iCc3h3gvtPmvmPbd) | 2:28 | 2022-03-03 |  |
@@ -365,7 +367,7 @@
 | [رحيل](https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [رحيل](https://open.spotify.com/album/65sOpDahfqO6srZGGhtgH5) | 4:53 | 2023-01-31 | 2023-03-04 |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-03-03 |
-| [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 |  |
+| [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 | 2023-03-08 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 | 2022-11-02 |
 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 | 2022-08-19 | 2023-01-29 |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |

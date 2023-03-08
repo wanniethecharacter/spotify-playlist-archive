@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-319 songs - 19 hr 55 min
+321 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 | 2022-11-02 |  |
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2021-12-15 |  |
-| [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 | 2023-02-28 |  |
+| [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 | 2023-02-27 |  |
 | [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 | 2021-12-15 | 2023-01-26 |
 | [Airplane](https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/7GNLSiqm0a7XIAsbORgOJW) | 3:25 | 2022-04-15 | 2022-07-29 |
 | [Airplane](https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R) | 3:25 | 2022-10-11 | 2023-02-15 |
@@ -76,12 +76,12 @@
 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 | 2022-06-23 |  |
 | [Drink the Sunshine](https://open.spotify.com/track/7CFu1EG7qOdp6IdXlVAkof) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [One Day at a Time](https://open.spotify.com/album/2TJq6nTvk4gsnUlgwNsKN2) | 3:55 | 2022-11-02 | 2022-12-12 |
 | [Driveway to Driveway](https://open.spotify.com/track/1C65EMS98C2cnJZA5DEEq8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish \(Remastered\)](https://open.spotify.com/album/1qmuiYImHKC0qwKQXH1U1O) | 4:41 | 2021-12-15 | 2022-07-29 |
-| [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 |  |
+| [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 | 2023-03-08 |
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2021-12-15 | 2023-03-06 |
 | [Drugs](https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6) | [Ammonia](https://open.spotify.com/artist/1yaf2CGmvYuUIyrsL0GZOV) | [Mint 400](https://open.spotify.com/album/4A8BiSkjO2PvMBZAXHiSby) | 3:27 | 2021-12-15 |  |
 | [Empty Eyes](https://open.spotify.com/track/3Ct9bSfkgmX7MSMI6ZsqAf) | [Dead History](https://open.spotify.com/artist/719fbHkBe8sRhnokHm56Py) | [Dead History](https://open.spotify.com/album/3WdZpSVjNj5dnVKHDWqwux) | 3:43 | 2021-12-15 | 2022-07-29 |
 | [Encore](https://open.spotify.com/track/4LdImt7hg85uPpUOPKlLAy) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 2:45 | 2021-12-15 |  |
-| [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-02-28 |  |
+| [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-02-27 |  |
 | [Everyone Needs a Nemesis](https://open.spotify.com/track/3J8ReooQWOzrZrF2T5IqMW) | [Fighting With Wire](https://open.spotify.com/artist/7j5NOrcRzeQkX4s9RlY9VR) | [Man vs Monster](https://open.spotify.com/album/2M8OASkw9IhvEyMOeiSkNv) | 3:30 | 2021-12-15 | 2022-07-22 |
 | [Fade Out/In](https://open.spotify.com/track/2n95SHaby7YQBiPeQP7X5I) | [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A) | [Heroes And Villains](https://open.spotify.com/album/5SGWgDLfzAz9KjchKxSYPF) | 3:37 | 2022-04-15 | 2022-04-21 |
 | [Feel the Burn](https://open.spotify.com/track/3Ns3L4FiaTOvNHzj42dCiN) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [The Good Life](https://open.spotify.com/album/0H6OGmAxBhBAIMqmarWdqt) | 2:52 | 2022-02-02 | 2022-04-21 |
@@ -156,6 +156,7 @@
 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 | 2022-11-02 | 2023-02-28 |
 | [Leaving Home](https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ) | [Jebediah](https://open.spotify.com/artist/6L9bfTvOEA9BOJEIBhU4ln) | [Slightly Odway](https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3) | 3:01 | 2021-12-15 |  |
 | [Let’s Go](https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Pursuit](https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC) | 3:31 | 2022-09-21 |  |
+| [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 | 2023-03-08 |  |
 | [Lift](https://open.spotify.com/track/7xztI3ccyUdEYqKYABkMQM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:06 | 2021-12-15 | 2022-09-22 |
 | [Lightspeed](https://open.spotify.com/track/5U3Z0cpZXSivN3UUUrymEF) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium](https://open.spotify.com/album/4WPzYjZlEwQRITnqA61XAP) | 3:21 | 2022-11-02 | 2022-12-12 |
 | [Lily](https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 3:25 | 2022-11-02 |  |
@@ -300,7 +301,7 @@
 | [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 | 2022-06-23 | 2022-12-13 |
 | [Unreal Is Here](https://open.spotify.com/track/4aBXGe7ftxVf7GaArOg0nK) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/4UjIWlTVbImEfiI40fF83i) | 2:31 | 2021-12-15 | 2022-07-29 |
 | [Us Vs Them](https://open.spotify.com/track/5GGPceIwbcpa563RKaNnoc) | [Spring King](https://open.spotify.com/artist/5kkANnP50OoBkxc8JRuTsA) | [A Better Life](https://open.spotify.com/album/3WwiWPs4LPH5421J6wovcV) | 3:42 | 2021-12-15 | 2022-07-29 |
-| [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 | 2021-12-15 |  |
+| [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 | 2021-12-15 | 2023-03-08 |
 | [Vacation Forever](https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 4:28 | 2021-12-15 | 2023-01-26 |
 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 | 2021-12-15 |  |
 | [Vessel & Vine](https://open.spotify.com/track/3mNmHZ2mgw0dHPVtwnZ00K) | [The Lucky Nine](https://open.spotify.com/artist/02D1HyeAbPzPM5Mm5JAU1K) | [True Crown Foundation Songs](https://open.spotify.com/album/6nxf691oUXG5WWenfk1qRg) | 3:56 | 2022-01-11 | 2022-06-20 |
@@ -323,6 +324,7 @@
 | [You Drove Me to It](https://open.spotify.com/track/2iKYd15sqmxKQBvsOEhT63) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [The Neon Handshake](https://open.spotify.com/album/13emeERNt6pPdmBwodNztx) | 3:01 | 2021-12-15 | 2022-07-29 |
 | [You Know Better](https://open.spotify.com/track/70qEtopkR96BvM5ek1Kt1r) | [Sad Heroes](https://open.spotify.com/artist/6wcGzkZa4zwU3cJxRs6seS) | [You Know Better](https://open.spotify.com/album/3dDS2DJ16DAjAB7TUVlZYx) | 3:13 | 2022-06-23 | 2022-07-25 |
 | [You Said](https://open.spotify.com/track/7d7eDR4LzeYwfJegcS2Zg0) | [False Advertising](https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp) | [Brainfreeze](https://open.spotify.com/album/521ZryTNfahC4vzpUBGLkh) | 3:42 | 2021-12-15 | 2022-07-23 |
+| [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-03-08 |  |
 | [Your Deep Rest](https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4) | 3:47 | 2022-06-23 |  |
 | [Your Deep Rest](https://open.spotify.com/track/651zgpohmcHZUPLnhHGS7a) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like NoPlace Is There](https://open.spotify.com/album/5jfqj3O8WU3755J2OK19rd) | 3:47 | 2021-12-15 | 2022-07-29 |
 | [Your Way](https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [2 Songs](https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ) | 3:20 | 2021-12-15 |  |

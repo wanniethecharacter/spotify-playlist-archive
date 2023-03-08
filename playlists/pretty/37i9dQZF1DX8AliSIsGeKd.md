@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: biskuwi, Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,682 likes - 81 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,808 likes - 81 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Ask Believe Feel Receive](https://open.spotify.com/track/5pSJrzBwi0gEgsaknpNLiz) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Enarchy](https://open.spotify.com/album/7FdD8z9dfP5yfX8evSEsCj) | 3:15 |
 | 78 | [Do You Love Me?](https://open.spotify.com/track/42Tis1KQQnns2LaAuA0vk5) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Do You Love Me?](https://open.spotify.com/album/61BjICDXiSjQ2Bi8bakMK8) | 4:51 |
 | 79 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 |
-| 80 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Nevile](https://open.spotify.com/artist/3sy43mZfZxqIWbFli9A8fg) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 |
+| 80 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 |
 | 81 | [Let's Move](https://open.spotify.com/track/1fDsFj0la9WK0lSaQtuaqp) | [DJ Dee](https://open.spotify.com/artist/6BJUZfk50Ru1g0sMC4dcsf) | [Let's Move](https://open.spotify.com/album/2KyJKTjiW8X68cBFpL8SVJ) | 3:55 |
 
 Snapshot ID: `MTY3NzgzNzUyNywwMDAwMDAwMGZiMWFiZDY5N2U4MDNjN2Y4ZTljM2IwY2E4OTVkODgw`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMGRmZmQ4NWNmZjU5NDBjNDljZDIwZDI4ODM3NzE1Mjc3",
+  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMDdkYzcyYjViZGQ4NDliZTY2MTM3ZjdhM2U2YzAwMzRi",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX"
     },
     {
-      "added_at": "2023-03-07 03:08:24",
+      "added_at": "2023-03-08 00:56:43",
       "album": {
         "name": "I Want 2",
         "url": "https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj"
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
-      "added_at": "2022-02-15 01:38:18",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        }
-      ],
-      "duration_ms": 145746,
-      "name": "Oiseau Sauvage",
-      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
@@ -355,6 +339,22 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+    },
+    {
+      "added_at": "2022-02-15 01:38:18",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
+      },
+      "artists": [
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        }
+      ],
+      "duration_ms": 145746,
+      "name": "Oiseau Sauvage",
+      "url": "https://open.spotify.com/track/0A48wzUVDrN0t3JaOrui2a"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW"
     },
     {
+      "added_at": "2022-09-02 05:54:39",
+      "album": {
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "duration_ms": 267775,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
+    },
+    {
       "added_at": "2022-09-29 00:14:11",
       "album": {
         "name": "Todo Se Mantiene en Su Lugar",
@@ -511,22 +527,6 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
-    },
-    {
-      "added_at": "2022-09-02 05:54:39",
-      "album": {
-        "name": "Sal de Mar",
-        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 267775,
-      "name": "Sal de Mar",
-      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
-      "added_at": "2022-08-16 00:06:15",
-      "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Camino al Mar",
@@ -635,6 +619,22 @@
       "duration_ms": 252040,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
+    },
+    {
+      "added_at": "2022-08-16 00:06:15",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-01-11 00:19:39",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
     },
     {
+      "added_at": "2022-03-30 03:09:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "Amuleto",
@@ -823,22 +839,6 @@
       "duration_ms": 191150,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
-    },
-    {
-      "added_at": "2022-03-30 03:09:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2022-07-11 18:35:10",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
     },
     {
-      "added_at": "2022-08-12 14:23:28",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
-    },
-    {
       "added_at": "2022-10-27 22:16:41",
       "album": {
         "name": "Se Ve Desde Aqu\u00ed",
@@ -979,6 +963,22 @@
       "duration_ms": 408057,
       "name": "Desde el Cielo",
       "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
+    },
+    {
+      "added_at": "2022-08-12 14:23:28",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1321,20 +1321,24 @@
       "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-07-25 03:37:28",
       "album": {
-        "name": "Ild\u00e9 Pa\u2019 Beberte",
-        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
+        "name": "JEVI",
+        "url": "https://open.spotify.com/album/44FI7VK0w4cqoj31ImZCCU"
       },
       "artists": [
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 208064,
-      "name": "Ild\u00e9 Pa\u2019 Beberte",
-      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
+      "duration_ms": 185440,
+      "name": "Pa' Siempre No Es Na",
+      "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1357,24 +1361,20 @@
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "JEVI",
-        "url": "https://open.spotify.com/album/44FI7VK0w4cqoj31ImZCCU"
+        "name": "Ild\u00e9 Pa\u2019 Beberte",
+        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Pa' Siempre No Es Na",
-      "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
+      "duration_ms": 208064,
+      "name": "Ild\u00e9 Pa\u2019 Beberte",
+      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
     },
     {
       "added_at": "2022-08-19 02:38:30",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Contenta",
-        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 215347,
-      "name": "Contenta",
-      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
-    },
-    {
       "added_at": "2022-08-08 21:56:18",
       "album": {
         "name": "Marineros",
@@ -1493,20 +1477,20 @@
       "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
-      "added_at": "2023-01-04 01:42:46",
+      "added_at": "2022-07-25 03:37:28",
       "album": {
-        "name": "12:21",
-        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
       },
       "artists": [
         {
-          "name": "Cruz Del Monte",
-          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
         }
       ],
-      "duration_ms": 213344,
-      "name": "12:21",
-      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1527,6 +1511,22 @@
       "duration_ms": 222333,
       "name": "El Cabr\u00f3n - Radio Edit",
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
+    },
+    {
+      "added_at": "2023-01-04 01:42:46",
+      "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
     },
     {
       "added_at": "2022-04-05 15:50:31",

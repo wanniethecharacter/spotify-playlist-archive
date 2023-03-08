@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 37893,
+  "num_followers": 37903,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGYwOWUwMTgxOGQ1N2NhYWQ4ODZiMjc3OWUzODY3N2M0",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGFlOGIwMzJmYjU0OTcyN2QxY2Y4ODlhZWMzNWRkNGRk",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+        "name": "I GUESS IT'S LOVE?",
+        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+      "duration_ms": 137725,
+      "name": "I GUESS IT'S LOVE?",
+      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "I GUESS IT'S LOVE?",
-        "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 137725,
-      "name": "I GUESS IT'S LOVE?",
-      "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+      "duration_ms": 175040,
+      "name": "Grinding All My Life",
+      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -819,18 +815,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+        "name": "Ain\u2019t Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Grinding All My Life",
-      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
+      "duration_ms": 166514,
+      "name": "Ain\u2019t Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 111066,
+      "name": "Captain Chicken (feat. Del The Funky Homosapien)",
+      "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 111066,
-      "name": "Captain Chicken (feat. Del The Funky Homosapien)",
-      "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Street Sermons",
-        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 153264,
       "name": "Crocadillaz (feat. De La Soul and Dawn Penn)",
       "url": "https://open.spotify.com/track/07bE8BmqXXMGUiAHcZwl2q"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Street Sermons",
+        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 163205,
-      "name": "Miss My Dawgs (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Good Job",
         "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 129600,
       "name": "Thug Till It's Over",
       "url": "https://open.spotify.com/track/41vSsnP46DpUZC0YoNyk3U"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 229312,
       "name": "Me Myself and I",
       "url": "https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1987,6 +1987,30 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "3 Feet High and Rising",
+        "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 294728,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -2047,30 +2071,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "3 Feet High and Rising",
-        "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 294728,
-      "name": "Buddy",
-      "url": "https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Daily Duppy (Dem Dead)",
         "url": "https://open.spotify.com/album/6H1aU8exiYl8OI0Xt8d4GG"
       },
@@ -2083,6 +2083,22 @@
       "duration_ms": 179907,
       "name": "Daily Duppy (Dem Dead)",
       "url": "https://open.spotify.com/track/1RLFNhcRa6572GRGfa6TBB"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -2107,22 +2123,6 @@
       "duration_ms": 133000,
       "name": "Park Bench Blues (feat. Curren$y)",
       "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "ARE YOU WITH THAT?",
-        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 138410,
-      "name": "ARE YOU WITH THAT?",
-      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
+      "duration_ms": 135929,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 135929,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2023-03-03 03:01:00",

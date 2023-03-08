@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,085 likes - 131 songs - 7 hr 34 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,084 likes - 132 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 108 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 |
 | 109 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 |
 | 110 | [Emphasis](https://open.spotify.com/track/10pvRr9ZcRekb09qMiKfQI) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Emphasis](https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM) | 4:11 |
-| 111 | [It Girl \(Warner Case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(Warner Case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 |
+| 111 | [It Girl \(warner case Remix\)](https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [It Girl \(warner case Remix\)](https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg) | 3:39 |
 | 112 | [Take You High](https://open.spotify.com/track/32hY9dJwqBNMiwhgJ0SDhq) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Take You High](https://open.spotify.com/album/5AratY1dSsx99KK11yyNjH) | 4:04 |
 | 113 | [we're the last to leave](https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [we're the last to leave](https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp) | 2:27 |
 | 114 | [Pioneer Digital Plastic Sound](https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Pioneer Digital Plastic Sound](https://open.spotify.com/album/3UwsX6nPPSZKxMUlt4fip0) | 5:04 |
@@ -139,5 +139,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 129 | [BLUE LIGHT](https://open.spotify.com/track/2blHAJSeclS036DmrQxOvE) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:42 |
 | 130 | [Falling In Love](https://open.spotify.com/track/1qkGT5wBhfWwbbHtkm2GMZ) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [Falling In Love](https://open.spotify.com/album/4RM7dK7ScgLW1UG1k8kInQ) | 3:25 |
 | 131 | [Capsize \(feat\. Sarah de Warren\)](https://open.spotify.com/track/6FxILeOa0DIDHq5oD05zpI) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [HER](https://open.spotify.com/album/00YaZIXwhtyUVAQW1XSNZH) | 2:53 |
+| 132 | [Embrace Chaos](https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [The Valentine Effect](https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk) | 2:35 |
 
-Snapshot ID: `MTAyNDEsMmJkNzg3YTRkNzJlNTNjM2E1ZmM2NjJkNThjNzI2MTYxODM0NzYxNg==`
+Snapshot ID: `MTAyNDIsOGFhOTQwZTVhYjY3YTVhYjMzZTFiZDNmZjNhMWE2YWNkZTdlMmMzMg==`

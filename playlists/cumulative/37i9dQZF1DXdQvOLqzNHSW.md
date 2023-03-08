@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-444 songs - 1 day 3 hr 35 min
+445 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 |  |
 | [look at me](https://open.spotify.com/track/3ol0443PaVEBdnDATmEFkX) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:54 | 2020-12-21 | 2022-07-21 |
 | [Looking for Knives](https://open.spotify.com/track/1kJYmG59kwtbs2rvkqpzB6) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 6:13 | 2020-12-21 | 2022-04-20 |
-| [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 |  |
+| [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2020-12-21 | 2023-03-08 |
 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 | 2022-07-22 |  |
 | [Love Again](https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Love Again](https://open.spotify.com/album/4FfsMdl6O73pgkxSqasps2) | 4:03 | 2020-12-21 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 | 2022-10-28 |  |
@@ -357,7 +357,7 @@
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2020-12-21 | 2022-04-21 |
 | [So Tired](https://open.spotify.com/track/0npSmMSYZ6zCfNrjtOjwpE) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crumb](https://open.spotify.com/album/3KlT3WRjpdhXsBZ2rRlYFO) | 3:38 | 2020-12-21 | 2022-04-21 |
 | [Social Sites](https://open.spotify.com/track/0puyikpyVwe8TTv2tvMHeq) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5CVh7KRau0zBDqKuM6G2ZU) | 4:49 | 2020-12-21 | 2022-04-18 |
-| [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 | 2023-02-28 |  |
+| [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 | 2023-02-27 |  |
 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 | 2020-12-21 | 2022-04-19 |
 | [Sometimes I Don't](https://open.spotify.com/track/3sgacAzOpMt2IfwDv7BZwe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Sometimes I Don't](https://open.spotify.com/album/6sY0SxEXmu9JEYDxKAiCMb) | 2:30 | 2020-12-21 | 2022-04-18 |
 | [Soon Soon](https://open.spotify.com/track/2vHMsgLQaxDYqHvkLrPw65) | [Praything](https://open.spotify.com/artist/7pidPnHnMa0lzlF0rElbMW) | [Soon Soon](https://open.spotify.com/album/5P4BaJ5km2xDv96ZfkULSU) | 4:41 | 2020-12-21 | 2022-04-19 |
@@ -435,6 +435,7 @@
 | [We're All Gonna Die](https://open.spotify.com/track/4ZfPkAW0O7h1sj7Akt18DU) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die \- Single](https://open.spotify.com/album/5rUTt2ROxXzfgmMsEs8GOF) | 5:04 | 2020-12-21 | 2022-04-15 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-17 |  |
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2022-07-22 | 2022-08-27 |
+| [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 | 2023-03-08 |  |
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2020-12-21 | 2022-04-20 |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2020-12-21 | 2022-07-20 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-17 |  |

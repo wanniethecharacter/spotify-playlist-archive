@@ -1,12 +1,12 @@
 {
   "description": "Beat the traffic blues with these killer tunes.",
-  "num_followers": 7531,
+  "num_followers": 7538,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDk2OSwwMDAwMDAwMDFhNmVlZGM2ZTc4ZWU2ZGYwMGQwYzhmM2VjZWNhZmRj",
+  "snapshot_id": "MTY3NzgzMDk2OSwwMDAwMDAwMDVhYjJkYmQxOGJhODliNDEzNjljYmMyNzcxNWE5NGVl",
   "tracks": [
     {
       "added_at": "2023-03-03 08:09:29",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -391,6 +407,22 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -431,22 +463,6 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
-        "name": "Who Is Your Guy?",
-        "url": "https://open.spotify.com/album/3l2DGZPCX1tkzV3O9tqiq4"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "Who Is Your Guy?",
-      "url": "https://open.spotify.com/track/50Fnn6VgRmPXcCKKBFUxm0"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -679,22 +663,18 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 177067,
-      "name": "10 Toes (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -727,6 +707,26 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 151663,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
-        "name": "Werser",
-        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 248697,
-      "name": "Werser",
-      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 162720,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "Atele",
-        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 166885,
-      "name": "Atele",
-      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
         "name": "Kolo Kolo",
         "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 195135,
       "name": "Kolo Kolo",
       "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
+        "name": "Atele",
+        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Atele",
+      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-03 08:09:29",
       "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 190791,
-      "name": "Sungba",
-      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
         "name": "Gbese",
         "url": "https://open.spotify.com/album/0BKZkxzh5KPV9CKQiQ23mC"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 190791,
+      "name": "Sungba",
+      "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -1279,6 +1279,26 @@
       "duration_ms": 176000,
       "name": "Hear My Sound",
       "url": "https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh"
+    },
+    {
+      "added_at": "2023-03-03 08:09:29",
+      "album": {
+        "name": "Who Is Your Guy? (Remix)",
+        "url": "https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Who Is Your Guy? - Remix",
+      "url": "https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh"
     },
     {
       "added_at": "2023-03-03 08:09:29",
@@ -1387,26 +1407,6 @@
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
-    },
-    {
-      "added_at": "2023-03-03 08:09:29",
-      "album": {
-        "name": "Who Is Your Guy? (Remix)",
-        "url": "https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Who Is Your Guy? - Remix",
-      "url": "https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh"
     },
     {
       "added_at": "2023-03-03 08:09:29",

@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-550 songs - 1 day 8 hr 1 min
+551 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [See You](https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [See You](https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp) | 4:14 | 2022-05-23 |  |
 | [Sensory](https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Sensory](https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB) | 3:34 | 2022-05-23 |  |
 | [Set Myself Free](https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [Set Myself Free](https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy) | 3:47 | 2022-06-12 |  |
+| [Shabaka](https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/46GQVv2jjSSb53Vn8nhy41) | 3:33 | 2023-02-23 |  |
 | [Shabaka](https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL) | 3:33 | 2021-12-16 | 2023-02-25 |
 | [Shady People](https://open.spotify.com/track/21WeEP1WFMO0wIzQRVzVd8) | [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Shady People](https://open.spotify.com/album/5TIxZdnwGSdShFys0L7FFm) | 3:14 | 2021-12-16 | 2022-12-09 |
 | [Shake The Ground](https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Noubya](https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud) | [Shake The Ground \(feat\. Noubya\)](https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW) | 3:33 | 2021-12-16 |  |
@@ -465,7 +466,7 @@
 | [Take The Leap](https://open.spotify.com/track/0OJ3MUvbp8rJJ5dOkQQ9La) | [Unsenses](https://open.spotify.com/artist/5ezp2WTBB8rewVCdTKGO1F) | [Take the Leap](https://open.spotify.com/album/1erN3kh2PTmsTyfJN5QcNh) | 3:12 | 2022-03-24 | 2022-04-21 |
 | [Takin' It Back \(Live Edit\)](https://open.spotify.com/track/4Wb1114QFbKiuQTBEagtPb) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Takin' It Back \(Live Edit\)](https://open.spotify.com/album/6qCrLJQw4nU5rdcCrPLn18) | 5:07 | 2022-03-24 | 2022-04-21 |
 | [That Way \(feat\. Chris Crone\) \- Raakmo Remix](https://open.spotify.com/track/6ljPU0VPm0t3gP73tQ0XOi) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [That Way \(feat\. Chris Crone\) \[Raakmo Remix\]](https://open.spotify.com/album/63O3aNy67gQ1OMWyeDCTXZ) | 2:48 | 2022-08-18 |  |
-| [The 9th Gate](https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Darksiderz](https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa) | [The 9th Gate](https://open.spotify.com/album/0W9ap7B7XvGzgqHvsSrfOA) | 3:32 | 2021-12-16 |  |
+| [The 9th Gate](https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Darksiderz](https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa) | [The 9th Gate](https://open.spotify.com/album/0W9ap7B7XvGzgqHvsSrfOA) | 3:32 | 2021-12-16 | 2023-03-08 |
 | [The Apex](https://open.spotify.com/track/5Y1O7jgXqKjSMuXnD1vPvq) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [The Apex](https://open.spotify.com/album/5ndnaviegNaIft490xtIgL) | 3:49 | 2022-03-24 | 2022-04-21 |
 | [The Calling \(Da Tweekaz Remix\)](https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [The Calling \(Da Tweekaz Remix\)](https://open.spotify.com/album/7LT1ZlmIgH54ntff4MbIls) | 3:48 | 2021-12-16 |  |
 | [The Elite](https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [The Elite](https://open.spotify.com/artist/7KNKKIsyxgZRBWnrcj8vHk) | [The Elite](https://open.spotify.com/album/6RejAWA7AXcb4ICP1eYRrK) | 4:23 | 2021-12-16 |  |

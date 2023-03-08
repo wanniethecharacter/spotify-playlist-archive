@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 78410,
+  "num_followers": 78509,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDQxNGFkMjBmNjc2NjI3NTA3ZmY4MzE2OGI2YmY0Njg3",
+  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMGFkYzRmNGFmNjE0ZTI4ZjJjZmE5ZWM4NGIxMTU4MTll",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "3 En 1 Super Show De Los Vaskez",
-        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
-      },
-      "artists": [
-        {
-          "name": "El Super Show De Los Vaskez",
-          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Jugo De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "T\u00fa Me Quieres Lastimar",
         "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215266,
       "name": "T\u00fa Me Quieres Lastimar",
       "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "3 En 1 Super Show De Los Vaskez",
+        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
+      },
+      "artists": [
+        {
+          "name": "El Super Show De Los Vaskez",
+          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Jugo De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
+        "name": "Tongoneaito",
+        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
+      "duration_ms": 194413,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/7aVTI1LZJvL1apJ4c0g7tC"
+    },
+    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 2",
@@ -1639,34 +1655,34 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Tongoneaito",
-        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
       },
       "artists": [
         {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
+      "duration_ms": 324280,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
+      "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 202266,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/7aVTI1LZJvL1apJ4c0g7tC"
+      "duration_ms": 201813,
+      "name": "La Coloreteada",
+      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1687,22 +1703,6 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "La Coloreteada",
-      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1737,6 +1737,22 @@
       "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Dejenla Que Baile",
+      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Ron Y Coca Cola",
@@ -1755,22 +1771,6 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Dejenla Que Baile",
-      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 142640,
       "name": "Ritmo Facil",
       "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1805,6 +1821,22 @@
       "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Sabor A Cumbia",
@@ -1819,22 +1851,6 @@
       "duration_ms": 174933,
       "name": "La Velludita",
       "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1867,22 +1883,6 @@
       "duration_ms": 172813,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
     },
     {
       "added_at": "2022-01-25 19:05:16",

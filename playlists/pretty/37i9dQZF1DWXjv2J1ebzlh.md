@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,036 likes - 1,176 songs - 3 day 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,100 likes - 1,176 songs - 3 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Show Me The Way, My Brother \(Iph'Indlela\)](https://open.spotify.com/track/1xjlABbsrIRwA5FXOzQ5zZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:12 |
 | 2 | [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 |
 | 3 | [Mona Ki Ngi Xica](https://open.spotify.com/track/08fsjbOK2ruSfbBTcmEZHZ) | [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Angola 72/74](https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP) | 5:00 |
-| 4 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/5PP3y51Sfrv9kcGtVZqIWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelliğin On Para Etmez](https://open.spotify.com/album/2zpwSb7QP9cFD2aag9JzBQ) | 3:46 |
+| 4 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/3YX99Dy9sc2VrMI5SbnVx3) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelligin On Para Etmez](https://open.spotify.com/album/5RsXvPb5AVqMbO6Q0ym6NA) | 3:46 |
 | 5 | [Bala](https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bala](https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN) | 3:16 |
 | 6 | [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 |
 | 7 | [Tin Hinane](https://open.spotify.com/track/6Rsi9LoLZ6EjumotqsY7HN) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 4:17 |
@@ -1185,4 +1185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1175 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1176 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMDBhZGUzYmVjOGRhMTUyMjM4YWI3YWIwMzY4MzI3ZThi`
+Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMGZlZDM4NmQ4M2Q4NmIxMmI5MjA4OGZhNjIyZDA3NTI5`

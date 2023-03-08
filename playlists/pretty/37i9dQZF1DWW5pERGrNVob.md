@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,971 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,031 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 10 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 |
 | 11 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 |
 | 12 | [Bada Boom \(With MISMOLLY, TURNS\)](https://open.spotify.com/track/7010GzT5bbMuQ4fWTMbpKz) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 2:56 |
-| 13 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 |
+| 13 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 |
 | 14 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 |
 | 15 | [Pink Cloud](https://open.spotify.com/track/4FoMtD0b7zQYAxZAQbLxjh) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:01 |
 | 16 | [Letter Filled With Light](https://open.spotify.com/track/6Gahwmzoqi4uaZCdVopJr4) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:08 |

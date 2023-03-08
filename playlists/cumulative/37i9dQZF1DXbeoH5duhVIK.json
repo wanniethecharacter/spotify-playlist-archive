@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#FILTER",
+        "url": "https://open.spotify.com/album/2UTgBeM4jyG3prxKgAnHzV"
+      },
+      "artists": [
+        {
+          "name": "Princess Shaw",
+          "url": "https://open.spotify.com/artist/4nNqSw4oiBkrRjd4vEivbD"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253879,
+      "name": "#FILTER",
+      "url": "https://open.spotify.com/track/1La1CnxlYPre0HVUzrRmJ7"
+    },
+    {
+      "album": {
         "name": "A Bit like Todayz",
         "url": "https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn"
       },
@@ -276,6 +294,24 @@
       "duration_ms": 187640,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/1ncFUsiM3zEqmBNoEHoYGF"
+    },
+    {
+      "album": {
+        "name": "Bleak Midwinter",
+        "url": "https://open.spotify.com/album/7slEjB8JYcqG5pvIZvjcrM"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Christmastime (Again)",
+      "url": "https://open.spotify.com/track/57IKWxocTDQv5T19LCPbd0"
     },
     {
       "album": {
@@ -697,6 +733,28 @@
     },
     {
       "album": {
+        "name": "EMPORIUM",
+        "url": "https://open.spotify.com/album/0AkeGzzUn1PhVdbeApKQU5"
+      },
+      "artists": [
+        {
+          "name": "Onelight",
+          "url": "https://open.spotify.com/artist/0DYKOID9CBlDE9Fsm4YVum"
+        },
+        {
+          "name": "June Fermie",
+          "url": "https://open.spotify.com/artist/7HfKZXAezbbVcEB9qNrBmN"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4kFHcu4nHxsgUUOK5Eeygm"
+    },
+    {
+      "album": {
         "name": "About Us",
         "url": "https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu"
       },
@@ -1007,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Native Tongue",
+        "url": "https://open.spotify.com/album/5M9CiEd9IfSRfVplYj4PMc"
+      },
+      "artists": [
+        {
+          "name": "Spunsugar",
+          "url": "https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119456,
+      "name": "Native Tongue",
+      "url": "https://open.spotify.com/track/0xN1i1FbjpdUqsNoUxl78T"
+    },
+    {
+      "album": {
         "name": "Only Heaven",
         "url": "https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA"
       },
@@ -1178,6 +1254,24 @@
       "duration_ms": 173693,
       "name": "Rawnald Gregory Erickson the Second",
       "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
+    },
+    {
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2Dh4QA6lBhNu8xAhs5AYDm"
+      },
+      "artists": [
+        {
+          "name": "Carlile",
+          "url": "https://open.spotify.com/artist/5oVmfRMAc0GXe5c3UJQ3dz"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/5jGCbDTm5ZXgasOymIwfJV"
     },
     {
       "album": {
@@ -1524,6 +1618,28 @@
       "duration_ms": 247547,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/1PbOiQchhhEpu9ClePkrqm"
+      },
+      "artists": [
+        {
+          "name": "EJ Sar\u00e0",
+          "url": "https://open.spotify.com/artist/4ygcZiKOGZxg8B4GLWzS71"
+        },
+        {
+          "name": "KittyGun",
+          "url": "https://open.spotify.com/artist/1YrOII3ZLAflU4ywUgZliQ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/49oOGpE3lpfe3pm0ZAW4ab"
     },
     {
       "album": {

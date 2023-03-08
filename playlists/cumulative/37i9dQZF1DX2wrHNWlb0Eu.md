@@ -4,7 +4,7 @@
 
 > PM2.5 ไม่ดีต่อปอด แต่ที่ชอบเธอมาตลอดเพราะมันดีต่อใจ
 
-100 songs - 6 hr 14 min
+101 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2023-02-10 |  |
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2023-02-10 |  |
 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 | 2023-02-10 |  |
-| [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 | 2023-02-10 |  |
+| [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 | 2023-02-10 | 2023-03-08 |
 | [ของขวัญ](https://open.spotify.com/track/5hXcptJwH8dr3s9ibOZUvp) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Left Right And Something](https://open.spotify.com/album/3GPJ0Z4IvhB948RrCGIoPj) | 5:22 | 2023-02-10 |  |
 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 | 2023-02-10 |  |
 | [ข้างกัน \(City\)](https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:56 | 2023-02-10 |  |
@@ -34,6 +34,7 @@
 | [จะบอกเธอว่ารัก](https://open.spotify.com/track/0S7lzjAbf1BMeFMSuYvnlC) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/0kFH6H2rIhrjnPfoKIdFfy) | 4:12 | 2023-02-10 |  |
 | [จังหวะจะรัก](https://open.spotify.com/track/0ntdviIRIuOlRFnEZLWqNR) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/2DI0hATxWUbv0pRpmhbfwx) | 3:40 | 2023-02-10 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2023-02-10 |  |
+| [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 | 2023-02-10 |  |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2023-02-10 |  |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2023-02-10 |  |
 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 | 2023-02-10 |  |

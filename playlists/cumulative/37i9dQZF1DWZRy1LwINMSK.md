@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-138 songs - 7 hr 29 min
+139 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 |  |
 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 |  |
 | [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 |  |
-| [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 |  |
+| [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 | 2023-03-08 |
 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 |  |
 | [Instinto](https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Instinto](https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh) | 2:34 | 2022-01-20 |  |
 | [Intuición](https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc) | [Yaero](https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k) | [Intuición](https://open.spotify.com/album/5xMJ1s0acu2UzIDhbHIRas) | 2:56 | 2022-01-20 |  |
@@ -99,6 +99,7 @@
 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 | 2022-01-20 |  |
 | [Perco Con Mari \- Remastered](https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 3:56 | 2022-01-20 |  |
 | [POPCORN](https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [POPCORN](https://open.spotify.com/album/6RNKxVM0RlZQ3qTLV5Kbj7) | 3:44 | 2022-01-20 |  |
+| [Porsche](https://open.spotify.com/track/3pxgbTB4ISycXnQZwAEb2W) | [Kevin Idarraga](https://open.spotify.com/artist/3MKQRvXoGPMo9WmSqFA36A), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Zewa](https://open.spotify.com/artist/0b3v0MjhWKcPxVOhZhofdL), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Porsche](https://open.spotify.com/album/4HztiO4eBWAJHWLAUQMFCN) | 6:43 | 2023-03-07 |  |
 | [Pretty Face](https://open.spotify.com/track/4KjGQAOF88wve6WeVu5hhD) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:58 | 2023-02-24 |  |
 | [Quienes Son](https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT) | [BMF Squad](https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE), [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Jokker Liricis](https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA), [Andrés Slater](https://open.spotify.com/artist/6F0XGx9f0asxjfG3WZj0nJ) | [Quienes Son](https://open.spotify.com/album/6ZoKBoMrztP3iffJPAwT0H) | 3:51 | 2022-01-20 | 2022-03-18 |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 |  |

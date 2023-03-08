@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,273 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,305 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 49 | [Basta Ya \- Pop](https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 4:13 |
 | 50 | [Me Vas a Extrañar \(Versión Dueto\)](https://open.spotify.com/track/4i8I5pbBvnm5tbOQaVJY4h) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Más Pandora Que Nunca](https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d) | 3:29 |
 | 51 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 |
-| 52 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
-| 53 | [Fuerte No Soy](https://open.spotify.com/track/6Gw9FBzHleoRjMJV6zZXy1) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:21 |
+| 52 | [Fuerte No Soy](https://open.spotify.com/track/6Gw9FBzHleoRjMJV6zZXy1) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:21 |
+| 53 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
 | 54 | [Casi Algo \- Versión Mariachi](https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo \(Versión Mariachi\)](https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d) | 2:12 |
 | 55 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 56 | [Te Lo Pido por Favor](https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 95 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
 | 96 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 |
 | 97 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
-| 98 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
-| 99 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
+| 98 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
+| 99 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
 | 100 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGY5YTM5NTU5Zjg4Y2VhYjlhMjY5ZGQzNjdmZjE5ZWFm`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDg5NDg5ZjNjMjMxOTFmNzJhMzA3OWYxNTgyZjY2ZjVi`

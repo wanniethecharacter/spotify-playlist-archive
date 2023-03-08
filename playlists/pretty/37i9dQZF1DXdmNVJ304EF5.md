@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 
 > Where the local scene started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,550 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 2 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 3 | [Captivate You](https://open.spotify.com/track/7msUsozEfRrk9ZDvk1ncgR) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 4:00 |
 | 4 | [Matters at All](https://open.spotify.com/track/4xcVz5h9ZArd4UG3EzDms1) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Emo Confessions](https://open.spotify.com/album/1jNV367bAhq5M8szF4EG6f) | 3:50 |
-| 5 | [Lighthouse](https://open.spotify.com/track/3sUTuGtwusULswgwtN3HlE) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Signals](https://open.spotify.com/album/1H6vkyzIdyad0oGfbNWOsL) | 4:00 |
+| 5 | [Lighthouse](https://open.spotify.com/track/0VRmeU1YVF3044m1ByOR3m) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Signals](https://open.spotify.com/album/37Yy9e50ytn0rWc2WpLmpR) | 4:00 |
 | 6 | [Faster the Chase](https://open.spotify.com/track/3TyvUMUb5SG55CWxCwizoF) | [InMe](https://open.spotify.com/artist/6EXjdbEiqhPzodtf7MtVos) | [White Butterfly](https://open.spotify.com/album/6iBQRwQad8crW7TkoVZXcy) | 3:30 |
 | 7 | [Paint Your Target](https://open.spotify.com/track/2luFHMQrq9yKgr1U8JubKH) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [Grand Unification](https://open.spotify.com/album/1Y3M8nTpIKr1Vz8ufZthfC) | 3:16 |
 | 8 | [Dial Tones](https://open.spotify.com/track/64WtHwNC5X0VzGfzA0IES3) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After](https://open.spotify.com/album/2fxvurudVER6VB5DBxo7S4) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 49 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 |
 | 50 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 |
 
-Snapshot ID: `MTY3Mjk2NDg2NSwwMDAwMDAwMGJmNmE4MTI2ZjM2ZjFmY2E5NmExZTlkZGM1MzgwMDg0`
+Snapshot ID: `MTY3Mjk2NDg2NSwwMDAwMDAwMDVmNTNkY2ZjMDM1MjRhMDk5OTQ1MzQ4MzZmZjUxYTJi`

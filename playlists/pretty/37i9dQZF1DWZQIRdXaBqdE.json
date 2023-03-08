@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 341479,
+  "num_followers": 341689,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMGQ4OTRmMDk0OGQwZDY3MGEwNzRkZTQxM2ZhOWRiNzc3",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDQwMmFjN2UwZjliNDU5YjdiYmMwMzg0NWMxODI3NGFj",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 182653,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Don't Close Your Eyes",
         "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 252626,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Connie Smith",
-        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
-      },
-      "artists": [
-        {
-          "name": "Connie Smith",
-          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Once a Day",
-      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1715,18 +1699,38 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "American Originals",
-        "url": "https://open.spotify.com/album/5DHSzaRCg638OK8gl6uyCL"
+        "name": "Connie Smith",
+        "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Long Black Veil",
-      "url": "https://open.spotify.com/track/6W7JvNYum6o2NxIIP5rZ2s"
+      "duration_ms": 140120,
+      "name": "Once a Day",
+      "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Get Rhythm / I Walk the Line",
+        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
     }
   ],
   "unique_name": "Classic Country Drive",

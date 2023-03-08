@@ -4,13 +4,14 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 46 min
+95 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 | 2022-06-01 |  |
 | [Aguanta Corazón](https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:09 | 2022-06-01 |  |
 | [Amor A La Ligera](https://open.spotify.com/track/6lWhsgbZr8P2zKkucWWqGH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:19 | 2022-06-01 |  |
+| [Bajo Mil Llaves](https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Bajo Mil Llaves](https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe) | 2:29 | 2023-03-07 |  |
 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 | 2022-06-01 |  |
 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 | 2022-06-01 |  |
 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 | 2022-06-01 |  |
@@ -98,7 +99,7 @@
 | [Vearon Se Lia](https://open.spotify.com/track/2qh4hYDdpebCGhDVjQmuIk) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Dicomo](https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3) | 2:25 | 2022-10-17 | 2022-10-19 |
 | [Veil](https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 3:30 | 2022-08-18 | 2022-11-23 |
 | [Vete Con Él](https://open.spotify.com/track/5Zza5gIVxsMi57nOlTwfgr) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Tributo A Valentín Elizalde](https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00) | 3:03 | 2022-06-13 | 2022-10-06 |
-| [Vete Con Él](https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vete Con Él](https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ) | 3:07 | 2022-12-01 |  |
+| [Vete Con Él](https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vete Con Él](https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ) | 3:07 | 2022-12-01 | 2023-03-08 |
 | [W.A.R](https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [W.A.R](https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9) | 3:27 | 2023-02-23 |  |
 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 | 2022-06-01 |  |
 | [Z07](https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Me Porto Bonito](https://open.spotify.com/album/64cw2BtmoePT5gKlBbswDi) | 2:12 | 2022-11-20 | 2022-12-20 |

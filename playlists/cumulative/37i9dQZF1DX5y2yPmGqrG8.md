@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-487 songs - 1 day 22 hr 11 min
+488 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2023-02-15 |
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-21 |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-06 | 2022-07-22 |
-| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 | 2023-02-28 |
+| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 |  |
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2022-08-24 |
 | [34\-46](https://open.spotify.com/track/5Utgg5uI7sMaYNcw6rLt1x) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [34\-46](https://open.spotify.com/album/2BNq4qGhepJGroEyfTIJBU) | 4:01 | 2022-02-18 | 2022-07-28 |
 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 | 2022-03-30 | 2022-07-29 |
@@ -130,7 +130,7 @@
 | [Danfo Mellow](https://open.spotify.com/track/413cuZEcMxiXocsO0qXGHc) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [Beyond The Yellow Haze](https://open.spotify.com/album/4EjBca2aqF7mMRkDkXSrNN) | 11:24 | 2021-10-06 | 2022-05-24 |
 | [Dark blue](https://open.spotify.com/track/4Pb4Z8GOxeUCBBvjOoaRkD) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Dark blue](https://open.spotify.com/album/5fGa3JSjIwgY5kkKKw5gCQ) | 6:41 | 2021-10-06 | 2022-07-27 |
 | [Dawn](https://open.spotify.com/track/4v93IUVgbQhYSuk75aJhey) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 5:34 | 2022-03-30 | 2022-06-22 |
-| [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 | 2022-03-30 |  |
+| [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 | 2022-03-30 | 2023-03-08 |
 | [Demetra](https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Hilja](https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe) | 5:21 | 2021-10-06 | 2022-05-29 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-03-09 | 2022-07-25 |
 | [Die Dinge des Lebens](https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/5zXCkTQBeSfeSxEG82DRRM) | 4:56 | 2021-10-06 | 2022-08-04 |
@@ -273,6 +273,7 @@
 | [Microtronics 20](https://open.spotify.com/track/7wj3TuI2wAzwHDWkp0bCVr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/5P4pg6W3wwI04pstGDQJ8O) | 1:35 | 2022-03-18 | 2022-07-22 |
 | [Migrants](https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 4:43 | 2022-04-06 | 2022-07-17 |
 | [Mirages](https://open.spotify.com/track/5ARGa1YCWbgNobFCM2F6JB) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:20 | 2021-10-06 | 2022-06-21 |
+| [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 | 2023-03-08 |  |
 | [Missing Men](https://open.spotify.com/track/6oDJzR2ccgDdFzSfXojGvU) | [Ruth Mascelli](https://open.spotify.com/artist/6wPVVMuhVWvJFrfBoiX0Zr) | [Missing Men](https://open.spotify.com/album/5urIxXFHhxOdGhz2QLU8oQ) | 3:12 | 2021-10-06 | 2022-07-20 |
 | [Mkwaju](https://open.spotify.com/track/6EXxt6R2ziKNUeClSiLg1L) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/2PeTfaXfMczJeduhKAMsZV) | 6:28 | 2021-10-06 | 2022-04-19 |
 | [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 | 2021-10-06 | 2022-04-18 |
@@ -464,7 +465,7 @@
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 | 2022-09-29 |
 | [Veils and Mirrors](https://open.spotify.com/track/3WWOniXQOWprUhfWkIsmXe) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/2rT5TTG2aomPh1tzk1XAWi) | 4:53 | 2022-03-30 | 2022-04-13 |
 | [Ventus](https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q) | [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Ventus](https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY) | 5:04 | 2023-02-14 |  |
-| [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 |  |
+| [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2021-10-06 | 2023-03-08 |
 | [Virtual U](https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Gallery Love](https://open.spotify.com/album/449aXZhYMnuXRL877ZFF64) | 5:02 | 2021-10-06 | 2022-10-15 |
 | [Vision of Self](https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:47 | 2022-10-14 |  |
 | [Vixen](https://open.spotify.com/track/2pb6ojnggCASqe3AWA1Ty2) | [r o s so](https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx) | [Vixen](https://open.spotify.com/album/3EQfecdYQko209sbSGCN8O) | 3:48 | 2022-04-06 | 2022-07-10 |

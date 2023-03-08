@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53653,
+  "num_followers": 53648,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGZhZDlkMmQyY2FjMzNkZGIzNjViYjE5ZGNhYWI2YzNj",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDIzYzBjYTZhN2IwYzE0OTNiNTc0OTY3N2Y5YTIyY2Vm",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Yo Invito",
-        "url": "https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH"
-      },
-      "artists": [
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Yo Invito",
-      "url": "https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Una Propuesta",
         "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 195760,
       "name": "Una Propuesta",
       "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Yo Invito",
+        "url": "https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH"
+      },
+      "artists": [
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 191114,
+      "name": "Yo Invito",
+      "url": "https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 251199,
       "name": "Como una Flecha",
       "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Marinero",
         "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 204562,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+        "name": "Sin Compromiso",
+        "url": "https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy"
       },
       "artists": [
         {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
+      "duration_ms": 182282,
+      "name": "Sin Compromiso",
+      "url": "https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Sin Compromiso",
-        "url": "https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
         }
       ],
-      "duration_ms": 182282,
-      "name": "Sin Compromiso",
-      "url": "https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc"
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Coronita",
-        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
       },
       "artists": [
         {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
         }
       ],
-      "duration_ms": 223354,
-      "name": "Coronita",
-      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1143,6 +1127,22 @@
       "duration_ms": 193750,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Coronita",
+        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
+        }
+      ],
+      "duration_ms": 223354,
+      "name": "Coronita",
+      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Helen K",
+        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 178656,
+      "name": "Helen K",
+      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Empate",
         "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 178067,
       "name": "Empate",
       "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Helen K",
-        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 178656,
-      "name": "Helen K",
-      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Los Viernes",
-        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Los Viernes",
-      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 214010,
       "name": "Sigue Avanzando",
       "url": "https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Los Viernes",
+        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Los Viernes",
+      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Todo el D\u00eda Loca",
+      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 225500,
       "name": "A Medio Paso de Tu Amor",
       "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Todo el D\u00eda Loca",
-      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "trece",
         "url": "https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ"
       },
@@ -1719,30 +1719,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "La Guarida",
-        "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
+        "name": "Meteorito",
+        "url": "https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe"
       },
       "artists": [
         {
-          "name": "Julian Mourin",
-          "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
-        },
-        {
-          "name": "Mei demayo",
-          "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
-        },
-        {
-          "name": "Juan ortiz",
-          "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+          "name": "Lupe Alvarez",
+          "url": "https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X"
         }
       ],
-      "duration_ms": 190750,
-      "name": "La Guarida",
-      "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
+      "duration_ms": 197391,
+      "name": "Meteorito",
+      "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
     }
   ],
   "unique_name": "mandarina",

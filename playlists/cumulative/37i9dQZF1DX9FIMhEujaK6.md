@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-133 songs - 10 hr 35 min
+134 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 | 2022-07-20 |  |
 | [Bloom!](https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3) | [Pavlov](https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu) | [Pink Bloom!](https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc) | 8:26 | 2021-10-15 | 2022-07-29 |
 | [Both Of Us \- Jayda G Sunset Bliss Mix](https://open.spotify.com/track/4yzN4R8n4esAGQgRBlACH8) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us \(Jayda G Sunset Bliss Mix\)](https://open.spotify.com/album/6sMkMbTp8E8LOxui7iMPPj) | 6:12 | 2021-10-15 | 2022-07-27 |
-| [British Summertime](https://open.spotify.com/track/6AWElb3A8ZE1iZe8PjuWix) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [From the Vaults 1998\-2006 Vol.2](https://open.spotify.com/album/33lBpS0mVv49w7EDw5BRiX) | 4:38 | 2022-07-20 |  |
+| [British Summertime](https://open.spotify.com/track/6AWElb3A8ZE1iZe8PjuWix) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [From the Vaults 1998\-2006 Vol.2](https://open.spotify.com/album/33lBpS0mVv49w7EDw5BRiX) | 4:38 | 2022-07-20 | 2023-03-08 |
 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 | 2021-10-15 | 2022-08-18 |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-07-20 |  |
 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2022-07-20 |  |
@@ -104,6 +104,7 @@
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2021-10-15 |  |
 | [Retina](https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Retina / Stay](https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s) | 3:54 | 2021-10-15 | 2022-07-27 |
 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 | 2021-10-15 | 2023-03-01 |
+| [Rolling Back](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back \(Durante Remix\)](https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT) | 3:58 | 2022-07-20 |  |
 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-10-15 | 2023-01-06 |
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2021-10-15 | 2022-09-29 |
 | [Sam Sam](https://open.spotify.com/track/32mQnFkAUENgNFJoxTebcP) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Time is A Gift Which We Share All The Time](https://open.spotify.com/album/3BzsH4g4BX3UuWy0cMa1uy) | 5:18 | 2021-10-15 | 2022-07-27 |

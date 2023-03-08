@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Bang!Bang!Bang!",
+      "url": "https://open.spotify.com/track/7fFTv30HXrskzZ3Mdb6eoz"
+    },
+    {
+      "album": {
         "name": "Bang!Bang!Bang!",
         "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
       },
@@ -70,10 +88,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 261213,
       "name": "Bang!Bang!Bang!",
       "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
+    },
+    {
+      "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "Trigger",
+          "url": "https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276933,
+      "name": "BE AUTHENTIC",
+      "url": "https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3"
     },
     {
       "album": {
@@ -131,6 +167,24 @@
     },
     {
       "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "Trigger",
+          "url": "https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337373,
+      "name": "Crescent rise",
+      "url": "https://open.spotify.com/track/1IpVaRVTAIr6LrDJuyFBye"
+    },
+    {
+      "album": {
         "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
         "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
@@ -178,7 +232,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 305013,
       "name": "Dear Butterfly",
       "url": "https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC"
@@ -232,10 +286,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 237266,
       "name": "DIAMOND FUSION",
       "url": "https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk"
+    },
+    {
+      "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "Trigger",
+          "url": "https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "DIAMOND FUSION",
+      "url": "https://open.spotify.com/track/3JqN8blZpThioKYqirQXX5"
     },
     {
       "album": {
@@ -268,7 +340,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 221506,
       "name": "DiSCOVER THE FUTURE",
       "url": "https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT"
@@ -748,7 +820,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 252493,
       "name": "LOOK AT\u2026",
       "url": "https://open.spotify.com/track/3hVQAuRbnygtwaR0CB8lpy"
@@ -832,6 +904,24 @@
       "duration_ms": 306013,
       "name": "MEMORiES MELODiES",
       "url": "https://open.spotify.com/track/0H2ugH92hI461qYKaqK12r"
+    },
+    {
+      "album": {
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307520,
+      "name": "MEMORiES MELODiES",
+      "url": "https://open.spotify.com/track/7zYl0bbuPNAcxn9YhEFxEH"
     },
     {
       "album": {
@@ -1124,7 +1214,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 275346,
       "name": "Period Color",
       "url": "https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY"
@@ -1160,10 +1250,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 225013,
       "name": "Poisonous Gangster",
       "url": "https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3"
+    },
+    {
+      "album": {
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Poisonous Gangster - Album Edition",
+      "url": "https://open.spotify.com/track/5I8xtOE4I1mnUFvTK4hGah"
     },
     {
       "album": {
@@ -1290,6 +1398,24 @@
       "duration_ms": 260013,
       "name": "SEPTET for...",
       "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
+    },
+    {
+      "album": {
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "SILVER SKY",
+      "url": "https://open.spotify.com/track/581Gif77og4lfyJuylzXpS"
     },
     {
       "album": {
@@ -1639,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239253,
+      "name": "ZONE OF OVERLAP",
+      "url": "https://open.spotify.com/track/5VuIvbKbqslaV2UpT9oINy"
+    },
+    {
+      "album": {
         "name": "Bang!Bang!Bang!",
         "url": "https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg"
       },
@@ -1650,7 +1794,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 241200,
       "name": "ZONE OF OVERLAP",
       "url": "https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue"
@@ -1708,6 +1852,24 @@
       "duration_ms": 233760,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
       "url": "https://open.spotify.com/track/4lDreS79cWyHzL9U6NMoh6"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30ba\u30ca",
+        "url": "https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "\u30ad\u30ba\u30ca",
+      "url": "https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K"
     },
     {
       "album": {
@@ -1882,7 +2044,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 283506,
       "name": "\u30df\u30e9\u30a4\u30ce\u30fc\u30c4\u3092\u594f\u3067\u3066",
       "url": "https://open.spotify.com/track/7M63j53cfKSCU6sU8f5rs8"

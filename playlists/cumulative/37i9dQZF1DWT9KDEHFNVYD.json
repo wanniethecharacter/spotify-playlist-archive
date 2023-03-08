@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 217133,
       "name": "Like Foxes Through Fences",
       "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
@@ -5276,6 +5276,24 @@
       "duration_ms": 230613,
       "name": "Trimbornstra\u00dfe",
       "url": "https://open.spotify.com/track/5t6XSo7zCpAuSulPSNH66g"
+    },
+    {
+      "album": {
+        "name": "Ookii Gekkou",
+        "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Tub Erupt",
+      "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
     },
     {
       "album": {

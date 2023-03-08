@@ -1,12 +1,12 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 559798,
+  "num_followers": 560532,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzMxNjE2MiwwMDAwMDAwMDQxNWEyNjU4YmFhMjlhYmExNzliODgwYmExMzg5ZDBi",
+  "snapshot_id": "MTY0NzMxNjE2MiwwMDAwMDAwMDhmMjlmZmQ2YjY4ZWYzZDY3MzRjYzY5YWM4MGZjMTRk",
   "tracks": [
     {
       "added_at": "2022-03-15 03:49:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "El Que Busca Encuentra",
-        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "El Que Busca Encuentra",
+        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
+        "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
         "name": "Pampas Reggae",
         "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 253173,
       "name": "Traici\u00f3n a la Mejicana",
       "url": "https://open.spotify.com/track/4M7pLnko9ZAbjNnXTlXAVR"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
     },
     {
       "added_at": "2022-03-15 03:49:22",

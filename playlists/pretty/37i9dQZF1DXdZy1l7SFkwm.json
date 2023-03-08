@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 32875,
+  "num_followers": 32890,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDAzMzE5ZTJjNGVmMGRlNzNiN2ZiNzI3ZDI4N2E5ZmE4",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDExOGMxNTAwNjZhOGE3Yjg1YWE4ZDc4YTZhNTI1ZmUy",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Wonderful World, Beautiful People",
-        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Many Rivers To Cross",
-      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -771,18 +755,34 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+        "name": "Wonderful World, Beautiful People",
+        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+      "duration_ms": 164066,
+      "name": "Many Rivers To Cross",
+      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 227906,
       "name": "L\u00e1grimas negras",
       "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
-        "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
+        "name": "Bonfa Burrows Brazil",
+        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
+      "duration_ms": 234200,
+      "name": "The Shade of the Mango Tree",
+      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Bonfa Burrows Brazil",
-        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
+        "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
+        "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 234200,
-      "name": "The Shade of the Mango Tree",
-      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
+      "duration_ms": 174106,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
     },
     {
       "added_at": "2021-03-15 16:04:53",

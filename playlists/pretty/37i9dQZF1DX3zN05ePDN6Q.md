@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Febre 90's
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,701 likes - 77 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,770 likes - 77 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

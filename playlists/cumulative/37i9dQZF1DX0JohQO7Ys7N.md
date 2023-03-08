@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf?si=BtUw\_V2qRrGdMnuxhMw6og">mau from nowhere </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=7ZBC78cQReWxx83z4DpS2Q">Nikita Kering'</a>
 
 116 songs - 6 hr 33 min
 

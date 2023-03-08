@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d7\u30ea\u30ad\u30e5\u30a2 (Pretty Cure)",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u7d50\u675f\u30d0\u30f3\u30c9 (Kessoku Band)",
   "name": "EQUAL Anime",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 226733,
       "name": "Alright!\u30cf\u30fc\u30c8\u30ad\u30e3\u30c3\u30c1\u30d5\u309a\u30ea\u30ad\u30e5\u30a2!",
       "url": "https://open.spotify.com/track/2rH4mBejCYWx3cIVgFLWO8"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 228920,
       "name": "Cheers!\u30c7\u30ea\u30b7\u30e3\u30b9\u30d1\u30fc\u30c6\u30a3\u2661\u30d7\u30ea\u30ad\u30e5\u30a2",
       "url": "https://open.spotify.com/track/2fogdJN46llUQtV4lZ5410"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 253160,
       "name": "courage",
       "url": "https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 214266,
       "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
       "url": "https://open.spotify.com/track/2yenJwFvH6NOs9MQwIZHsj"
@@ -1110,10 +1110,28 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 174106,
       "name": "FAKEit",
       "url": "https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi"
+    },
+    {
+      "album": {
+        "name": "8\u25cb\u25cb\u25cb\u25cb\u25cb\u25cbZ\u25cb\u25cb",
+        "url": "https://open.spotify.com/album/0RvzLnpAYRmB0N6dpCy2EF"
+      },
+      "artists": [
+        {
+          "name": "YABI\u00d7YABI",
+          "url": "https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177947,
+      "name": "Far Middle",
+      "url": "https://open.spotify.com/track/3vn1q2f2qiHAkDKGXeGqfU"
     },
     {
       "album": {
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 210466,
       "name": "Maihime",
       "url": "https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab"
@@ -2922,7 +2940,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 244160,
       "name": "SPARK-AGAIN",
       "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
@@ -3526,7 +3544,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 272786,
       "name": "We can!! HUG\u3063\u3068!\u30d7\u30ea\u30ad\u30e5\u30a2",
       "url": "https://open.spotify.com/track/1xUbRRoKObSTqPmeDl1Q8n"
@@ -4982,7 +5000,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 234573,
       "name": "\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f",
       "url": "https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 192800,
       "name": "\u30cc\u30de\u30eb\u30a2\u30af\u30de",
       "url": "https://open.spotify.com/track/5uDUTHTV8xhFLe8JfDm1P8"
@@ -5228,7 +5246,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 236333,
       "name": "\u30d5\u309a\u30ea\u30ad\u30e5\u30a25\u3001\u30b9\u30de\u30a4\u30eb go go!",
       "url": "https://open.spotify.com/track/0ahHs7XjW6piqhTYHzSszk"
@@ -5316,6 +5334,24 @@
       "duration_ms": 249560,
       "name": "\u30d7\u30e9\u30c1\u30ca - from CrosSing",
       "url": "https://open.spotify.com/track/0AmatthIisAg466qau2Oab"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
+      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
     },
     {
       "album": {
@@ -6520,7 +6556,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 265040,
       "name": "\u706b\u66dc\u65e5\u306f\u30c1\u30e5\u30fc\u30c7\u30a4 -another story-",
       "url": "https://open.spotify.com/track/0V8f08FTSpfAWi0ttE8WN2"
@@ -7071,6 +7107,24 @@
     },
     {
       "album": {
+        "name": "la valigia",
+        "url": "https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u5c71\u5409\u80fd",
+          "url": "https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249433,
+      "name": "\u900f\u660e\u4eba\u9593",
+      "url": "https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1"
+    },
+    {
+      "album": {
         "name": "D4DJ Groovy Mix \u30ab\u30d0\u30fc\u30c8\u30e9\u30c3\u30af\u30b9 (vol.3)",
         "url": "https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB"
       },
@@ -7100,7 +7154,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"

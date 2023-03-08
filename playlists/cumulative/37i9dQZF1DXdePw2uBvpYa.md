@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-81 songs - 4 hr 35 min
+82 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Heads Will Roll](https://open.spotify.com/track/1YaOIrutGLebjpneXgQqol) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spring Breakers 2021](https://open.spotify.com/album/3mc7YfYD6vojcREl0OA6Ly) | 3:41 | 2021-06-02 | 2022-11-13 |
 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2021-06-02 | 2022-07-29 |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2021-06-02 |  |
-| [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 | 2021-06-02 |  |
+| [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/36bTUqjD7QyMY5ABZqVwLv) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Best Of The Bs](https://open.spotify.com/album/7rkyBR3TJuM7EtXlZROo27) | 2:46 | 2021-06-02 |  |
+| [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 | 2021-06-02 | 2023-03-08 |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/7bZq2oWTiGm46S3oIm88d1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Women To The Front](https://open.spotify.com/album/2vo07GjorJuX6KJ3WfPBnI) | 3:58 | 2021-06-02 | 2022-11-13 |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/2tlQN0gUJz6tW7bPunEaid) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:58 | 2021-06-02 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/4GRnCW4Alb5vcfptFytJdl) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/4iNtNt45SY3Ieb5FR8qt3Q) | 4:02 | 2021-06-02 | 2022-07-29 |

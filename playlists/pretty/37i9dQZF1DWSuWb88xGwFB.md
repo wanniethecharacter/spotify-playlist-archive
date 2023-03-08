@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,327 likes - 75 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,346 likes - 75 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 43 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |
 | 44 | [Carnival 93 \- The Mardi Gras Mix](https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [Carnival 93](https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn) | 6:14 |
 | 45 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
-| 46 | [Boom \- Radio Mix](https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W) | [House 2 House](https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz) | [Boom / I Need Your Love](https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8) | 5:58 |
-| 47 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
+| 46 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
+| 47 | [Boom \- Radio Mix](https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W) | [House 2 House](https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz) | [Boom / I Need Your Love](https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8) | 5:58 |
 | 48 | [Dancin](https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 12:11 |
-| 49 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
-| 50 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 |
+| 49 | [Justify \- Vocal Mix](https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb) | [M&S](https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT) | [Justify](https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9) | 9:05 |
+| 50 | [Tyler Moore Mary](https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk) | [Rageous](https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe), [Franklin Fuentes](https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:51 |
 | 51 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
-| 52 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
-| 53 | [Justify \- Vocal Mix](https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb) | [M&S](https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT) | [Justify](https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9) | 9:05 |
+| 52 | [Get Up](https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q) | [Krimp](https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz) | [Get Up](https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK) | 6:50 |
+| 53 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
 | 54 | [Wanna Be Your Girl \- A 'G' Thang Mix](https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH) | [Raw Power](https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 4:57 |
-| 55 | [Boy \- MK Deep Dub](https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0) | [K.E.L.S.E.Y.](https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64) | [This Way / Boy](https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2) | 7:08 |
-| 56 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
+| 55 | [Jump & Sing \- Hard Metro Mix](https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx) | [Scram](https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:41 |
+| 56 | [Boy \- MK Deep Dub](https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0) | [K.E.L.S.E.Y.](https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64) | [This Way / Boy](https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2) | 7:08 |
 | 57 | [Tribal Seagulls](https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T) | [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Strictly Rhythms, Vol\. 1](https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i) | 12:46 |
 | 58 | [I Could Be This¦ \(The Remix\) \- Morel's That Mix](https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m) | [Androgeny](https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 8:14 |
 | 59 | [Carnival '95 \- Pride Vocal Mix](https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 6:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 |
 | 75 | [Generate Power \(feat\. Paula Brion\) \- Radio Mix](https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP), [Paula Brion](https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4) | [Generate Power \(Mixes\)](https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl) | 3:40 |
 
-Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDBiMjEyYmU2OTQzMGVkNTEwYzEzMjMzMjI4Y2U1N2Ux`
+Snapshot ID: `MTY0NjMxNTk1NiwwMDAwMDAwMDVlNTEyNWMyOGJmNTdhZjFkZTJlOTFhOWMyMDg5MTU1`

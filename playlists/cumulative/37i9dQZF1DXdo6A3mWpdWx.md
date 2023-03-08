@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-316 songs - 21 hr 29 min
+317 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 | 2021-09-08 | 2022-07-29 |
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2021-03-22 |  |
 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 | 2021-09-08 | 2022-07-29 |
-| [Free](https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Situation:Critical](https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ) | 5:53 | 2021-03-22 |  |
+| [Free](https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Situation:Critical](https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ) | 5:53 | 2021-03-22 | 2023-03-08 |
 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 | 2021-03-22 | 2022-11-13 |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2021-03-22 |  |
 | [Freedom! '90](https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 6:28 | 2021-03-22 |  |
@@ -232,6 +232,7 @@
 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2021-09-08 |  |
 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 | 2021-09-08 |  |
 | [Set You Free](https://open.spotify.com/track/1Gees6TmaSHNkprVFOSiKH) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt) | [Set You Free](https://open.spotify.com/album/30uRwKVpPuSTyp0Bq1fo47) | 4:22 | 2021-09-08 | 2022-07-29 |
+| [Set You Free \- 1994 Edit](https://open.spotify.com/track/0JxdP3ctbORCiQUMo7Xmyi) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt) | [Set You Free \(1994 Edit\)](https://open.spotify.com/album/0PiOraXcUPTwFbRKnTRtAx) | 4:14 | 2022-10-11 |  |
 | [Sex on the Beach \- Radio Mix](https://open.spotify.com/track/0IprUQmGWvCtnbcpHj9UIi) | [T\-Spoon](https://open.spotify.com/artist/6AGGV787LmMPGeyCgZqy6U) | [The Hit Collection](https://open.spotify.com/album/47vSyDEsXn8mG7JKDMiK5L) | 3:46 | 2021-09-08 | 2022-08-30 |
 | [Sexy Eyes](https://open.spotify.com/track/0eJle2gkR9YlGECb4QV4ZA) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Whigfield 1](https://open.spotify.com/album/024sl8R7bYLjUvx5iikxP9) | 3:58 | 2021-09-08 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Cool Summer Reggae](https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji) | 3:46 | 2021-09-08 | 2022-07-29 |

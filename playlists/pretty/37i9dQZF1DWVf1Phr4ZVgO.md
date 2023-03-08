@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,129 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,376 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
 | 100 | [Stardust](https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [No Count Sarah](https://open.spotify.com/album/53B3ZugSBLBVQT9XftI5Xb) | 3:19 |
 
-Snapshot ID: `MTY3NzY2MDYxOCwwMDAwMDAwMDAyMThhZDdkNjkzNDA1YmYxNmU0OGEzMzUyNThjODhj`
+Snapshot ID: `MTY3ODE5NDUxMiwwMDAwMDAwMGNjYjlhZDcxODM0NDU2MjMxZGFjYWM3NDUzNzZmYmU1`

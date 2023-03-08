@@ -4,14 +4,14 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-137 songs - 7 hr 31 min
+139 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-02-02 |  |
+| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-02-02 | 2023-03-08 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-01-31 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2023-02-02 | 2023-02-15 |
-| [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-31 |  |
+| [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-31 | 2023-03-08 |
 | [Akatoki Reload](https://open.spotify.com/track/62EpDxcm0oRG5uxvjtel9r) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Akatoki Reload](https://open.spotify.com/album/5g1qutSXgwGmx5uEMzjfzk) | 4:04 | 2023-01-31 | 2023-02-03 |
 | [ALOS](https://open.spotify.com/track/6RDPV5PjbVSy4EtyI6dUI3) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [ALOS](https://open.spotify.com/album/29y5aBN0K1xZx5u6jroZ2U) | 3:30 | 2023-01-31 | 2023-02-15 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-01-31 |  |
@@ -136,6 +136,8 @@
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2023-01-31 |  |
 | [かまへん](https://open.spotify.com/track/4NfeLplLIUwLuIOONnnm9c) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ) | [かまへん](https://open.spotify.com/album/4CwGHUyCp8Kcr0wEtt22xh) | 4:11 | 2023-03-02 |  |
 | [アドベンチャー](https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドベンチャー](https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi) | 3:19 | 2023-02-14 |  |
+| [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 | 2023-03-07 |  |
+| [シアン](https://open.spotify.com/track/3C6co4m7UfLMqgRPhbmk9S) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ACTA](https://open.spotify.com/album/7zbJDkKmJzQ7z67i8N8neb) | 2:14 | 2023-03-07 |  |
 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-01-31 | 2023-02-03 |
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-31 | 2023-02-03 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-31 |  |

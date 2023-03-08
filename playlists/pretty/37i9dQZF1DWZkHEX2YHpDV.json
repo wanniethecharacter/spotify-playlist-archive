@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 442832,
+  "num_followers": 442925,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMGMzZDdhYTNiNGVhMGFkZWJlOTMyNTE0YWE2MTI0ZTZl",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDE1ODBjNDgxMWNiNGEzOTI0Y2RjMmE4NmIxZGZkZWNk",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "REAL SUPER DARK",
-        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6vWyte1vaXXpZA8TRZzjkF"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 219363,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2q9og3lbX4cdRaZMKVmlSY"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6vWyte1vaXXpZA8TRZzjkF"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 219363,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2q9og3lbX4cdRaZMKVmlSY"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Trauma Factory",
+        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 169450,
+      "name": "fake friend",
+      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Fuck You",
         "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 314594,
       "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
       "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Trauma Factory",
-        "url": "https://open.spotify.com/album/16rbUsslYCC9NnKIwLQUnY"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 169450,
-      "name": "fake friend",
-      "url": "https://open.spotify.com/track/6pO9pxKxrIHuTRqK7VLP8B"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Tell Me You're Sorry",
-        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Tell Me You're Sorry",
-      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 195898,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Tell Me You're Sorry",
+        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Tell Me You're Sorry",
+      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "LEVITATE (The Summer Song)",
-        "url": "https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "LEVITATE (The Summer Song)",
-      "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "LEVITATE (The Summer Song)",
+        "url": "https://open.spotify.com/album/19xqa3tlSC1vzTVmirhB6I"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 142600,
+      "name": "LEVITATE (The Summer Song)",
+      "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "<COPINGMECHANISM>",
         "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 172928,
       "name": "Re-Entry (feat. Mark Hoppus)",
       "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "I WENT TO HELL AND BACK",
-        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -1707,22 +1691,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Untitled Vol. 1",
-        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Coke Nose",
-      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1735,6 +1703,38 @@
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Coke Nose",
+      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "\u2022I WON'T DIE\u2022",
-        "url": "https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 123183,
-      "name": "\u2022I WON'T DIE\u2022",
-      "url": "https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "GOOD MOOD (feat. grandson)",
         "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
       },
@@ -2275,6 +2259,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "\u2022I WON'T DIE\u2022",
+        "url": "https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 123183,
+      "name": "\u2022I WON'T DIE\u2022",
+      "url": "https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "CESSATION",
         "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
       },
@@ -2287,22 +2287,6 @@
       "duration_ms": 216000,
       "name": "28",
       "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "The Water",
-        "url": "https://open.spotify.com/album/2GKMTSlnEfOs6EirxGlOwN"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "The Water",
-      "url": "https://open.spotify.com/track/3QsLgPbGX8Tr5BK3y1c9d4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2331,6 +2315,22 @@
       "duration_ms": 146643,
       "name": "PARANOIA (with FEVER 333 & Point North) - Remix",
       "url": "https://open.spotify.com/track/04cSt0T1HgM8NxKA1KCobZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "The Water",
+        "url": "https://open.spotify.com/album/2GKMTSlnEfOs6EirxGlOwN"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/3QsLgPbGX8Tr5BK3y1c9d4"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2519,26 +2519,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Untitled Vol. 1",
-        "url": "https://open.spotify.com/album/6qm6v3TnZyRghFCCjlWWji"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 162559,
-      "name": "Play Pretend (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/2iuiPZXIeAdnLwkNGnMfyi"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Teenagers",
         "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
       },
@@ -2555,6 +2535,26 @@
       "duration_ms": 182253,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/6qm6v3TnZyRghFCCjlWWji"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 162559,
+      "name": "Play Pretend (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/2iuiPZXIeAdnLwkNGnMfyi"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2643,6 +2627,26 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "SORRY 4 MYSELF",
+        "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
+      },
+      "artists": [
+        {
+          "name": "KD BADLUNG",
+          "url": "https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 200999,
+      "name": "SORRY 4 MYSELF",
+      "url": "https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu"
     }
   ],
   "unique_name": "The Scene",

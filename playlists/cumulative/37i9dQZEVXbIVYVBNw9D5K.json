@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 304266,
       "name": "Firuze",
       "url": "https://open.spotify.com/track/7wy9gDTUipeY35NKn45ru5"
@@ -8068,7 +8068,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "O Yeterdi Asl\u0131nda",
       "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
@@ -10579,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "\u00d6pt\u00fcm",
+        "url": "https://open.spotify.com/album/1hOFeE5hZYxIO72UKhnrWS"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250218,
+      "name": "Unuttun mu Beni",
+      "url": "https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP"
+    },
+    {
+      "album": {
         "name": "H\u0130ZA",
         "url": "https://open.spotify.com/album/730v11m4FWgDUnl9Gte19s"
       },
@@ -10844,10 +10862,32 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 201522,
       "name": "Yabani",
       "url": "https://open.spotify.com/track/48GOj8WUO8vatzdlpkBnqS"
+    },
+    {
+      "album": {
+        "name": "Yabani",
+        "url": "https://open.spotify.com/album/10zaLDx26PWu0BUWsTfW7c"
+      },
+      "artists": [
+        {
+          "name": "Kougan Ray",
+          "url": "https://open.spotify.com/artist/1tjrUEv2YuI4IAza0Ao3S1"
+        },
+        {
+          "name": "A\u015fk\u0131n Nur Yengi",
+          "url": "https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201522,
+      "name": "Yabani",
+      "url": "https://open.spotify.com/track/6OfgOcfxPRXQj6i529ICLH"
     },
     {
       "album": {
@@ -11046,7 +11086,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 221052,
       "name": "Yanl\u0131\u015f",
       "url": "https://open.spotify.com/track/4syfTeyd4GqV2l8qAz7sEa"

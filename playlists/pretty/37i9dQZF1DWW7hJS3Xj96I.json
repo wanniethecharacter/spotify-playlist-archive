@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90!",
-  "num_followers": 1001642,
+  "num_followers": 1001673,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTQzNSwwMDAwMDAwMDdmY2RlNjhkMDU1M2QxY2I3N2RjNTQ2YjkyMGNlMDdm",
+  "snapshot_id": "MTY2MTkyOTQzNSwwMDAwMDAwMDBjM2YzYjk0ZTcwMTAxMjg1MjIwZThmNzEzZjFiOGM2",
   "tracks": [
     {
       "added_at": "2022-08-31 07:03:55",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 195866,
       "name": "Dime Que Me Quieres (Bring A Little Lovin)",
       "url": "https://open.spotify.com/track/4pupiOjh6MWxPUTIroVaJy"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
     },
     {
       "added_at": "2022-08-31 07:03:55",

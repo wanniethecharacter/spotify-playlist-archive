@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 646761,
+  "num_followers": 647138,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDBjOGM4MWQ2NDBjMTFkMmJlOTNjOGMyOTBjNmZlOTAz",
+  "snapshot_id": "MTY3NTQwMDQwMCwwMDAwMDAwMDVlZGM0NWNmNWZlM2RjMDZjNjgyODQ1NTM1NTk1NDRi",
   "tracks": [
     {
       "added_at": "2023-02-03 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
-      },
-      "artists": [
-        {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "Straight Outta The Country",
         "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 174837,
       "name": "We Didn't Have Much",
       "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -863,6 +863,22 @@
       "duration_ms": 209253,
       "name": "She Won't Be Lonely Long",
       "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+      },
+      "artists": [
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -927,22 +943,6 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-03 05:00:00",
       "album": {
-        "name": "Put Yourself In My Place",
-        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Maybe It Was Memphis",
-      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
         "name": "You've Got to Stand for Something",
         "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
       "added_at": "2023-02-03 05:00:00",

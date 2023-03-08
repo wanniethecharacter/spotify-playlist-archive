@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-635 songs - 1 day 15 hr 8 min
+636 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [California Dreamin'](https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB) | 3:08 | 2022-06-10 |  |
 | [California Dreamin'](https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 3:08 | 2022-06-10 | 2022-10-13 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/290jcyCDiqqBVNr1laLyU0) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:36 | 2021-10-20 | 2022-05-25 |
-| [Can't Get You out of My Head](https://open.spotify.com/track/3b3c2r2sga1NJWjSLbFk74) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:36 | 2022-06-10 |  |
+| [Can't Get You out of My Head](https://open.spotify.com/track/3b3c2r2sga1NJWjSLbFk74) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:36 | 2022-06-10 | 2023-03-08 |
 | [Can't Get You Out Of My Head \- Acoustic](https://open.spotify.com/track/2A37BYWvwoV1ayixGNE5Xs) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Can't Get You Out Of My Head \(Acoustic\)](https://open.spotify.com/album/7Had5sJWicH46VSu0dwZo7) | 3:53 | 2021-10-20 | 2022-01-12 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3kkGQZCcJAW0W0sURDT0gQ) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-06-10 |  |
@@ -548,6 +548,7 @@
 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 | 2021-10-20 | 2022-07-29 |
 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 | 2022-06-10 |  |
 | [Titanium](https://open.spotify.com/track/5mo1T0Ygy0t0PWsrmGR6Mp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:39 | 2022-06-10 | 2023-02-15 |
+| [Titanium](https://open.spotify.com/track/6z6Kn5smHm9RzcQuyFxoWh) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:39 | 2023-02-24 |  |
 | [To Love Somebody](https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [To Love Somebody](https://open.spotify.com/album/1i2I4jCH7ISfrITKPp1vsd) | 3:26 | 2021-10-20 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 | 2021-10-20 | 2022-07-21 |
 | [Torn](https://open.spotify.com/track/3Uu8nwa9xA9bxCur5g3oJU) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Torn](https://open.spotify.com/album/00loS4Xy7s2oRHhisLGLXm) | 3:16 | 2021-10-20 | 2022-07-29 |

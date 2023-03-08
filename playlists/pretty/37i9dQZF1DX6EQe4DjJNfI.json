@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 158645,
+  "num_followers": 158677,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGJhM2MwZjJmNzAzOTA1NmMzM2M2MDk4YmZmMTFhMjcy",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDQ3ZDU2NjdmOWUwMWFjNTEyNTEwY2RhYzgwMTQ1YWYz",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Localiza\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
       },
@@ -603,18 +583,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
         }
       ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -631,6 +615,22 @@
       "duration_ms": 210000,
       "name": "Casual",
       "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Real (Citando Djonga)",
-        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
-      },
-      "artists": [
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
-        },
-        {
-          "name": "MofoRec",
-          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Real (Citando Djonga)",
-      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Jura pra Mim",
         "url": "https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 170344,
       "name": "Jura pra Mim",
       "url": "https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Real (Citando Djonga)",
+        "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
+      },
+      "artists": [
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT"
+        },
+        {
+          "name": "MofoRec",
+          "url": "https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Real (Citando Djonga)",
+      "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
-      },
-      "artists": [
-        {
-          "name": "Camaleoa",
-          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "N\u00e3o Quero Te Perder",
         "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 169142,
       "name": "N\u00e3o Quero Te Perder",
       "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "10%",
+        "url": "https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O"
+      },
+      "artists": [
+        {
+          "name": "Camaleoa",
+          "url": "https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
       "artists": [
         {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
         }
       ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
       "artists": [
         {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
         }
       ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Paierin",
-        "url": "https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt"
-      },
-      "artists": [
-        {
-          "name": "Flav",
-          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
-        }
-      ],
-      "duration_ms": 210504,
-      "name": "Paierin",
-      "url": "https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Paierin",
+        "url": "https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt"
+      },
+      "artists": [
+        {
+          "name": "Flav",
+          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
+        }
+      ],
+      "duration_ms": 210504,
+      "name": "Paierin",
+      "url": "https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
-      },
-      "artists": [
-        {
-          "name": "Mariah Nala",
-          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
-      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Nosso Futuro",
         "url": "https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 123185,
       "name": "Nosso Futuro",
       "url": "https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
+      },
+      "artists": [
+        {
+          "name": "Mariah Nala",
+          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
+      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
     },
     {
       "added_at": "2023-03-03 03:01:00",

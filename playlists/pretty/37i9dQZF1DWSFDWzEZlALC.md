@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: AnnenMayKantereit
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,516 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,609 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 55 | [Elendig](https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [Elendig](https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE) | 2:17 |
 | 56 | [Technoclubs](https://open.spotify.com/track/6i2eY2ea3N6HYEp0HGTV2Q) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Technoclubs](https://open.spotify.com/album/6cF0PwUikGvw2yXbQd6qRk) | 3:48 |
 | 57 | [Farben](https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Farben](https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9) | 2:56 |
-| 58 | [sonne](https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [sonne](https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs) | 2:04 |
+| 58 | [Sonne](https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [Sonne](https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs) | 2:04 |
 | 59 | [110 km/h](https://open.spotify.com/track/019qHAL5i793FKmBomt6Py) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [110 km/h](https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9) | 3:13 |
 | 60 | [Im Walzerschritt Fahrradfahren](https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Im Walzerschritt Fahrradfahren](https://open.spotify.com/album/6rL2esEZkbzqSWZAgqWqgB) | 3:41 |
 | 61 | [profilbild//NieGehört](https://open.spotify.com/track/6kqavVPA6YVq8WADVYFdn1) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [profilbild//NieGehört](https://open.spotify.com/album/2iZWOTHWm8fcgbCRAPKqg5) | 2:31 |

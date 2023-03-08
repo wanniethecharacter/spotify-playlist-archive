@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-475 songs - 1 day 3 hr 0 min
+476 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Central City 中の都](https://open.spotify.com/track/2nRPWDnuUxpZY90B9MHUV5) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave II](https://open.spotify.com/album/1GFoofcnejLjZfvQeQjPLH) | 2:56 | 2022-04-12 | 2022-04-14 |
 | [Change](https://open.spotify.com/track/64IOxsrXZIm0IY4ABbT22Y) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Change](https://open.spotify.com/album/5wgFBDW3fRjle5ltgDVuPM) | 2:55 | 2021-12-08 | 2022-05-20 |
 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 | 2022-04-12 | 2022-07-28 |
-| [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 | 2021-12-08 |  |
+| [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 | 2021-12-08 | 2023-03-08 |
 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 | 2022-02-27 | 2022-07-29 |
 | [Chillin' With Some Koi Fish](https://open.spotify.com/track/4wFAa3hEi4ApV5U06kT5JY) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Chillin' With Some Koi Fish](https://open.spotify.com/album/4R0PhvKPl0Ol1tvp6BAUTS) | 4:00 | 2022-01-25 | 2022-07-27 |
 | [City Nightlife \- Original Mix](https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Royal Club, Vol\. 3](https://open.spotify.com/album/6QY51ifImoOIngncUguYlp) | 3:36 | 2021-12-08 |  |
@@ -470,6 +470,7 @@
 | [You Are Valid](https://open.spotify.com/track/7KGxEu9GsbMujtnpHCfNq7) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [You Are Valid](https://open.spotify.com/album/7agvluFPgnKUbFDqPFOad3) | 3:22 | 2022-07-15 | 2022-08-13 |
 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 | 2021-12-08 |  |
 | [You Know It's True](https://open.spotify.com/track/7mzRGycltsu3yJbMGsubmc) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Just Have Fun](https://open.spotify.com/album/4oOsh9rhISXYfR7jYmiQ8t) | 4:44 | 2022-01-25 | 2022-07-15 |
+| [You Love Me](https://open.spotify.com/track/4pbWOOSKNBIWGCtQsl1mpt) | [Minuit Cafe](https://open.spotify.com/artist/2pJWVmd4jNn9lTDTw8A7JR), [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Groove Memories](https://open.spotify.com/album/6OQUDvIDgcZHzru2qakl1g) | 3:33 | 2022-11-04 |  |
 | [You Love Me](https://open.spotify.com/track/7kVp9mgnlWlGtdoD7LH1br) | [Minuit Cafe](https://open.spotify.com/artist/2pJWVmd4jNn9lTDTw8A7JR), [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [You Love Me](https://open.spotify.com/album/5RqqMHuz1QlJpZ1QDlkIUD) | 3:33 | 2022-02-27 | 2022-07-29 |
 | [You've Got Me](https://open.spotify.com/track/6qRRj3Q5VGrlbFILTKDiVz) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 2:53 | 2022-03-04 | 2022-03-12 |
 | [You've Heard This Song Before](https://open.spotify.com/track/2lJH4jsHg7CgxtaNjIJa95) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [No New Music](https://open.spotify.com/album/6plA34dSdPj040f7yGqdai) | 5:10 | 2022-07-15 | 2022-09-02 |

@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "MjI4LDVlYjA4MzlhYmVmNWQwZTg5N2FiODU0NjUzM2U5MmI1OWZlYzNhZjA=",
+  "snapshot_id": "MjI5LDcyOTZiYzYyMGQ1ZDBkNmU4MDQ2MmU0YjJkODM1MmUyZTg1NDIyYTQ=",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -3615,6 +3615,26 @@
       "duration_ms": 189069,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/37xPHUDhcmt8ezVkqsotdM"
+    },
+    {
+      "added_at": "2023-03-07 21:56:07",
+      "album": {
+        "name": "Slow Drift",
+        "url": "https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ"
+      },
+      "artists": [
+        {
+          "name": "CRXSS",
+          "url": "https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo"
+        },
+        {
+          "name": "Xyla",
+          "url": "https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN"
+        }
+      ],
+      "duration_ms": 168398,
+      "name": "Slow Drift",
+      "url": "https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE"
     }
   ],
   "unique_name": "hardwave~phonk",

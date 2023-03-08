@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 8138,
+  "num_followers": 8161,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDRmZTkxODNjMTI2NjNmMDgyNmFmMzMxMTcwNzZiY2Nl",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMGJkMGNkZGNjYWZiM2QxZTA1YzI2YjRiNDFjMDY4YzFi",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
+        "name": "Op. 4",
+        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
       "artists": [
         {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
         }
       ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
+      "duration_ms": 337066,
+      "name": "In dreams",
+      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Op. 4",
-        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
       "artists": [
         {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 337066,
-      "name": "In dreams",
-      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "It's Unique",
+        "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 277746,
+      "name": "\uc5ec\uc790",
+      "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Miss Ripley OST",
         "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "It's Unique",
-        "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 277746,
-      "name": "\uc5ec\uc790",
-      "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2021-03-11 16:36:50",

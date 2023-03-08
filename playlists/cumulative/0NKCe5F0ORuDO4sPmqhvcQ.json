@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "The Valentine Effect",
+        "url": "https://open.spotify.com/album/2emMBLs21dHIsQzGTt85Vk"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155404,
+      "name": "Embrace Chaos",
+      "url": "https://open.spotify.com/track/5Zt8IFYVXIR9KkRtZBXL10"
+    },
+    {
+      "album": {
         "name": "Emphasis",
         "url": "https://open.spotify.com/album/1BKqAARcyS0KPhmz6kcupM"
       },
@@ -3983,7 +4001,7 @@
     },
     {
       "album": {
-        "name": "It Girl (Warner Case Remix)",
+        "name": "It Girl (warner case Remix)",
         "url": "https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg"
       },
       "artists": [
@@ -4008,7 +4026,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219000,
-      "name": "It Girl (Warner Case Remix)",
+      "name": "It Girl (warner case Remix)",
       "url": "https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw"
     },
     {

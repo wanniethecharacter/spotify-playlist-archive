@@ -1,12 +1,12 @@
 {
   "description": "oops_i_did_it_again.mp3",
-  "num_followers": 8182,
+  "num_followers": 8186,
   "original_name": "dosmileras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU0ODczMywwMDAwMDAwMGNkOGMzMzU3YjgyNWJiMThhNzZhZTc0YzE3NmRmOWVm",
+  "snapshot_id": "MTY0MDU0ODczMywwMDAwMDAwMDJiMDdlNjkxNmZhYTg2ODExYTRmYmRiNWU4MTlkZTg4",
   "tracks": [
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2021-12-26 19:58:53",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2021-12-26 19:58:53",
       "album": {
+        "name": "Todavia (Radio Edit)",
+        "url": "https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8"
+      },
+      "artists": [
+        {
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Todavia - Radio Edit",
+      "url": "https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac"
+    },
+    {
+      "added_at": "2021-12-26 19:58:53",
+      "album": {
         "name": "The Man Who",
         "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
-    },
-    {
-      "added_at": "2021-12-26 19:58:53",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "El Ultimo Adios",
-      "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
     }
   ],
   "unique_name": "dosmileras",

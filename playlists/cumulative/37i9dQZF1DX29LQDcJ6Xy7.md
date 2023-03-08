@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-194 songs - 13 hr 49 min
+195 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 | 2022-07-01 | 2022-12-14 |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-07-01 |  |
-| [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 |  |
+| [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 | 2023-03-08 |
 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 | 2022-07-01 |  |
 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 | 2022-08-12 |  |
 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 | 2022-07-01 |  |
@@ -42,6 +42,7 @@
 | [Burn the Witches](https://open.spotify.com/track/0JO8ZD69eDoSl2NaOZgZTc) | [Darkcell](https://open.spotify.com/artist/0DjpT3SNCqLQlHSGPD51Tp) | [Darkcell](https://open.spotify.com/album/5Zt9lcl8sqdjpxBYm2go9S) | 4:41 | 2022-07-01 | 2022-07-29 |
 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 | 2022-07-01 | 2022-07-29 |
 | [Candidate](https://open.spotify.com/track/5JneBvJFTvKv0EmarM0gln) | [Blitz Union](https://open.spotify.com/artist/4hV6JPwfadReTcpspP1OrN) | [Candidate](https://open.spotify.com/album/0IztMqsz5p62HUMh7hdOsq) | 3:08 | 2022-07-01 | 2022-07-27 |
+| [Chains](https://open.spotify.com/track/1rqUtcFAapMVcO2KID5EBW) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Strange Bones](https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts) | [Chains](https://open.spotify.com/album/0tSJeKgD4TlepuXTt13Zj9) | 3:02 | 2023-01-31 |  |
 | [Chaos](https://open.spotify.com/track/4nb2nUKvsp28TKE9NSjsrW) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Chaos / A Hard No](https://open.spotify.com/album/5ZJmOvim6ordn24npYFqNi) | 3:48 | 2022-07-01 | 2022-07-26 |
 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 | 2022-07-01 |  |
 | [Compliance](https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Compliance](https://open.spotify.com/album/7f26amusc28x2vnxTACxDN) | 5:02 | 2022-10-21 |  |

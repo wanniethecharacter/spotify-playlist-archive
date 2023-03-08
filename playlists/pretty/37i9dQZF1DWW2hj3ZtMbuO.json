@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1239427,
+  "num_followers": 1240900,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyNzczMywwMDAwMDAwMDY3MGNmN2IzZjg0NDBmNGQyNmMxZjJkYjg0ZDIwNjg5",
+  "snapshot_id": "MTY3ODEyNzczMywwMDAwMDAwMGRhYWMwYzNjMzFmZDZlMTJkZDVkYzc4OWNjMzQ0Y2Q1",
   "tracks": [
     {
       "added_at": "2023-03-06 18:35:33",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-03-06 18:35:33",
       "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
-    },
-    {
-      "added_at": "2023-03-06 18:35:33",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 248266,
       "name": "Child Psychology",
       "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
+    },
+    {
+      "added_at": "2023-03-06 18:35:33",
+      "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "added_at": "2023-03-06 18:35:33",

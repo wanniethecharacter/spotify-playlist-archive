@@ -619,6 +619,32 @@
     },
     {
       "album": {
+        "name": "Hann kemur \u00ed kv\u00f6ld",
+        "url": "https://open.spotify.com/album/3bEKyiLUiaG3KUQ4ruMUHz"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        },
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Jelena Ciric",
+          "url": "https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344434,
+      "name": "Hann kemur \u00ed kv\u00f6ld",
+      "url": "https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H"
+    },
+    {
+      "album": {
         "name": "hario island",
         "url": "https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY"
       },
@@ -840,7 +866,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -2552,7 +2578,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 283149,
       "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
@@ -2830,7 +2856,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 195693,
       "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"

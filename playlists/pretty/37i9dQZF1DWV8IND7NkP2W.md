@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,906 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,019 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 33 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 |
 | 34 | [Hey](https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Hey](https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx) | 2:09 |
 | 35 | [Mood Ring](https://open.spotify.com/track/2wsO3NnI1LtUO2fAqb7tY9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Mood Ring](https://open.spotify.com/album/5b8LIdYst2iRT0fkLpeHc8) | 3:39 |
-| 36 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 |
-| 37 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
+| 36 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 |
+| 37 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 |
 | 38 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 |
 | 39 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 |
 | 40 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 87 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 |
 | 88 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 |
 | 89 | [Know](https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Know](https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H) | 2:52 |
-| 90 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 |
+| 90 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 |
 | 91 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 |
 | 92 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 |
-| 93 | [ARUKAS](https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Garden](https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5) | 5:41 |
-| 94 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 |
+| 93 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 |
+| 94 | [ARUKAS](https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Garden](https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5) | 5:41 |
 | 95 | [kageokuri](https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL) | 3:35 |
 | 96 | [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 |
 | 97 | [Water Circles](https://open.spotify.com/track/0Nm5Bp7nRHP398BEnIOnhK) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Water Circles](https://open.spotify.com/album/0vqTCC4FGn6WosT2pGb2rD) | 1:57 |
 | 98 | [Warm Day of Winter](https://open.spotify.com/track/1sK6GyrSJJJ0ZBQtAyaz2p) | [Auto&mst](https://open.spotify.com/artist/0hvzMAPeK2gZ1HewTUXNwz) | [Sometime Somewhere](https://open.spotify.com/album/2ubohjSJIZdbI3cgd9hMBC) | 4:49 |
 | 99 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 |
-| 100 | [After Hours](https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [After Hours](https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C) | 1:51 |
+| 100 | [Many "Scratch" Perry](https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc) | [Kōya Ogata](https://open.spotify.com/artist/22uFYUbePeINzJYB9CQOwZ) | [blank space \-vol.2\-](https://open.spotify.com/album/33hAQUBAuB1msJ2Mk3hnWh) | 6:13 |
 
-Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMDc2Y2QyYTM0MGNhMjNkMGY2ZTVhMTlkY2M0ODdmOTVh`
+Snapshot ID: `MTY3Nzc2OTIwMCwwMDAwMDAwMGRkYThkNTQ4ODYzNzRmMWQ1MWEyNGJiYTJhNWVlY2U2`

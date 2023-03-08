@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,362 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,392 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 38 | [Turn Back Time](https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ) | 2:27 |
 | 39 | [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 |
 | 40 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 |
-| 41 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
-| 42 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 41 | [SICKO MODE \- Skrillex Remix](https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SICKO MODE \(Skrillex Remix\)](https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa) | 5:04 |
+| 42 | [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 |
 | 43 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 |
 | 44 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 | 45 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 79 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
 | 80 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 | 81 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
-| 82 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 |
-| 83 | [Unlove You](https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 2:30 |
+| 82 | [Unlove You](https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 2:30 |
+| 83 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 |
 | 84 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
 | 85 | [Roses \- \(Imanbek Remix\) \[Latino Gang\]](https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \[\(Imanbek Remix\) \[Latino Gang\]\]](https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u) | 3:28 |
 | 86 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 |
 | 90 | [Sweet Potato](https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/5CAbEja62qpe4nzETlwQhg) | 2:46 |
 
-Snapshot ID: `MTY3MzA2Mjg5MSwwMDAwMDAwMGEwNDM0YjYxYzYzZjQxMWJhODQ5M2Y0OTM0YTIyODM5`
+Snapshot ID: `MTY3MzA2Mjg5MSwwMDAwMDAwMDk5ZGNhOGViMGU2ZjlkNmNlZDE2NTBjOGRlYWZkYWZh`

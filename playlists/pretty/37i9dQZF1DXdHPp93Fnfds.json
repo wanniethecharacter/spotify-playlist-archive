@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: RENEE",
-  "num_followers": 145219,
+  "num_followers": 145258,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDQwNDEyOGU2ZjE2OTM5ZjQ4ZmE5MGY2YWE3ZDg3OTk4",
+  "snapshot_id": "MTY3ODIwNTk2NiwwMDAwMDAwMGE0NmRjODQ3NzZkZjE1ZTU4Yzc2NDRhY2M4ODNkNDMz",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Wannabe - Spotify Singles",
         "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 152109,
       "name": "Wannabe - Spotify Singles",
       "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
-      },
-      "artists": [
-        {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Dormir Contigo",
         "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ya Dormir\u00e9 Cuando Me Muera",
-        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
         }
       ],
-      "duration_ms": 159715,
-      "name": "Cosas Moradas",
-      "url": "https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH"
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Ya Dormir\u00e9 Cuando Me Muera",
+        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159715,
+      "name": "Cosas Moradas",
+      "url": "https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 154361,
-      "name": "REPROGRAMAR",
-      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "LIBERTAD",
         "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
       },
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
+        "name": "Un Gatito",
+        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
       },
       "artists": [
         {
@@ -1024,13 +1024,13 @@
           "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
         },
         {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 250909,
-      "name": "La Fuerza",
-      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
+      "duration_ms": 185824,
+      "name": "Un Gatito",
+      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Un Gatito",
-        "url": "https://open.spotify.com/album/37mDIREfofAksvorhbC64M"
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W"
       },
       "artists": [
         {
@@ -1180,13 +1180,13 @@
           "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
         },
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
         }
       ],
-      "duration_ms": 185824,
-      "name": "Un Gatito",
-      "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
+      "duration_ms": 250909,
+      "name": "La Fuerza",
+      "url": "https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1223,6 +1223,26 @@
       "duration_ms": 144179,
       "name": "Te Pense un Monton",
       "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+    },
+    {
+      "added_at": "2023-03-08 01:41:33",
+      "album": {
+        "name": "Mito",
+        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 234478,
+      "name": "Mito",
+      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1263,22 +1283,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Una Linterna",
         "url": "https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO"
       },
@@ -1291,6 +1295,22 @@
       "duration_ms": 162546,
       "name": "Quien",
       "url": "https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Error 404",
+        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 114706,
+      "name": "Deriva",
+      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -1327,22 +1347,6 @@
       "duration_ms": 172170,
       "name": "DISFRAZ",
       "url": "https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Humo",
-        "url": "https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 293414,
-      "name": "Paseito",
-      "url": "https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD"
     }
   ],
   "unique_name": "Mujeres del Indie",

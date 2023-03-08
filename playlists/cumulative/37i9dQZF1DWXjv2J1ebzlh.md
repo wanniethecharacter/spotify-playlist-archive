@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,901 songs - 5 day 7 hr 52 min
+1,902 songs - 5 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,8 @@
 | [Gurbet](https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID) | [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6) | [Yorumcu](https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8) | 3:26 | 2022-06-09 |  |
 | [Gypsy Queen](https://open.spotify.com/track/5og3nbiR4hZ24Ij6ue6i3n) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Spellbinder](https://open.spotify.com/album/0Ri88poJN9bsj8k66O00mV) | 5:13 | 2022-06-09 |  |
 | [Gypsy Woman \- Demo Version](https://open.spotify.com/track/17v2ohSG0hO8u2AjKaU6MR) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Under The Streetlamps: Anthology 1967\-72](https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq) | 4:06 | 2022-07-12 |  |
-| [Güzelliğin On Para Etmez](https://open.spotify.com/track/5PP3y51Sfrv9kcGtVZqIWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelliğin On Para Etmez](https://open.spotify.com/album/2zpwSb7QP9cFD2aag9JzBQ) | 3:46 | 2023-02-08 |  |
+| [Güzelliğin On Para Etmez](https://open.spotify.com/track/3YX99Dy9sc2VrMI5SbnVx3) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelligin On Para Etmez](https://open.spotify.com/album/5RsXvPb5AVqMbO6Q0ym6NA) | 3:46 | 2023-02-27 |  |
+| [Güzelliğin On Para Etmez](https://open.spotify.com/track/5PP3y51Sfrv9kcGtVZqIWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Güzelliğin On Para Etmez](https://open.spotify.com/album/2zpwSb7QP9cFD2aag9JzBQ) | 3:46 | 2023-02-08 | 2023-03-08 |
 | [Had to Come Back Wet](https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 3:16 | 2022-10-31 |  |
 | [Had to Come Back Wet](https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 3:16 | 2022-07-12 | 2022-11-20 |
 | [Haditouni](https://open.spotify.com/track/7ynqrnZkqEJKkkdtGkV9Nq) | [Douaa](https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 3:25 | 2022-07-12 | 2022-11-20 |

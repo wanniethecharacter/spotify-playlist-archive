@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 14955,
+  "num_followers": 14985,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE0ODc3NywwMDAwMDAwMDQ0Y2UxNTBlZTVjNzViNGRhNzU0MDIwYTkwNmFhN2Q4",
+  "snapshot_id": "MTY3NzE0ODc3NywwMDAwMDAwMDE2Y2Q3MGVjNWRlMWQ4MmZjNmNkMzU4YzExYTEzZDU5",
   "tracks": [
     {
       "added_at": "2023-02-23 10:39:37",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "Four!",
-        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
-      },
-      "artists": [
-        {
-          "name": "Hampton Hawes",
-          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
         "name": "Coolin'",
         "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
+        "name": "Four!",
+        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
+      },
+      "artists": [
+        {
+          "name": "Hampton Hawes",
+          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Thou Swell",
+      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
-      },
-      "artists": [
-        {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
-    },
-    {
-      "added_at": "2023-02-23 10:39:37",
-      "album": {
         "name": "Jazz Loves Paris",
         "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 146306,
       "name": "Pigalle",
       "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+    },
+    {
+      "added_at": "2023-02-23 10:39:37",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
     },
     {
       "added_at": "2023-02-23 10:39:37",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-02-23 10:39:37",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
+        "name": "East Coast Jazz, Vol. 1 (Remastered 2013)",
+        "url": "https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ"
       },
       "artists": [
         {
-          "name": "The Chet Baker Sextet",
-          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
+          "name": "Bobby Scott",
+          "url": "https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD"
         }
       ],
-      "duration_ms": 285620,
-      "name": "Little Man You've Had a Busy Day",
-      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
+      "duration_ms": 227287,
+      "name": "Moon Tan",
+      "url": "https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh"
     }
   ],
   "unique_name": "West Coast Jazz",

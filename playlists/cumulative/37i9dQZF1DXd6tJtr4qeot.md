@@ -2,9 +2,9 @@
 
 ### [Punk Essentials](https://open.spotify.com/playlist/37i9dQZF1DXd6tJtr4qeot)
 
-> Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
+> All the Punk Rock that you need in your life\. Cover: Rancid
 
-138 songs - 7 hr 5 min
+139 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Radio](https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:41 | 2021-10-05 | 2022-11-13 |
 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6xLlFIY9nuri5BR0Cp84ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 3:42 | 2021-10-05 | 2022-07-29 |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-10-05 |  |
-| [Roots Radical](https://open.spotify.com/track/0LWkdUtorgGHr1bwT2C6tY) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:47 | 2021-10-05 |  |
+| [Roots Radical](https://open.spotify.com/track/0LWkdUtorgGHr1bwT2C6tY) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:47 | 2021-10-05 | 2023-03-08 |
 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 | 2021-10-05 |  |
 | [Ruby Soho](https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:37 | 2021-10-05 | 2022-12-13 |
 | [Ruby Soho](https://open.spotify.com/track/6zOlYzDyJifRMxim69LoWj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl) | 2:37 | 2021-10-05 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [The Kids Aren't Alright](https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4) | 2:59 | 2021-10-05 | 2022-07-29 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2021-10-05 | 2022-12-13 |
 | [The Slowest Drink at the Saddest Bar on the Snowiest Day in the Greatest City](https://open.spotify.com/track/7o2M1H5G247OQs98gIo10z) | [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [Buttsweat and Tears](https://open.spotify.com/album/6CszJWUjAd6gBk6T7MzDUi) | 3:13 | 2021-10-05 | 2022-07-10 |
+| [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 | 2023-03-08 |  |
 | [The Three of Us](https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [The Hands That Thieve](https://open.spotify.com/album/3sZ300pdz8v0l1Jd4NFQbY) | 5:18 | 2021-10-05 | 2022-07-21 |
 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 | 2021-10-05 |  |
 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 | 2021-10-05 |  |

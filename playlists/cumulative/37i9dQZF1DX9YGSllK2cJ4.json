@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/1YrneT7zPyEDXSnJ2AIDrD"
+      },
+      "artists": [
+        {
+          "name": "Michiel Borstlap",
+          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166547,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/5JSQc1Anz5HWLZUpMbmMh1"
+    },
+    {
+      "album": {
         "name": "Beneath the Crystal Veil",
         "url": "https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB"
       },
@@ -1433,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Fornaboda",
+        "url": "https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "Fornaboda",
+      "url": "https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM"
+    },
+    {
+      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K"
       },
@@ -2309,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Lonely Melody",
+        "url": "https://open.spotify.com/album/7gjS3mFddUJGHyF5KgMQeh"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Ferrer",
+          "url": "https://open.spotify.com/artist/6PKJzUJNJKQjAHcgbzbuCJ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127450,
+      "name": "Lonely Melody",
+      "url": "https://open.spotify.com/track/4RTZWfEZ6uSDUDhqOCX7Yy"
+    },
+    {
+      "album": {
         "name": "Longing For Yesterday",
         "url": "https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v"
       },
@@ -2900,6 +2954,24 @@
       "duration_ms": 152137,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire"
+    },
+    {
+      "album": {
+        "name": "Nostalgica",
+        "url": "https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq"
+      },
+      "artists": [
+        {
+          "name": "Thom Nelson",
+          "url": "https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126833,
+      "name": "Nostalgica",
+      "url": "https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ"
     },
     {
       "album": {
@@ -3628,6 +3700,24 @@
       "duration_ms": 131923,
       "name": "saman",
       "url": "https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr"
+    },
+    {
+      "album": {
+        "name": "Sans fleurir",
+        "url": "https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u"
+      },
+      "artists": [
+        {
+          "name": "Revemont",
+          "url": "https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "Sans fleurir",
+      "url": "https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V"
     },
     {
       "album": {
@@ -4552,6 +4642,24 @@
       "duration_ms": 154874,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+    },
+    {
+      "album": {
+        "name": "Torpet",
+        "url": "https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121394,
+      "name": "Torpet",
+      "url": "https://open.spotify.com/track/59klDnqZsQo97d309brDWo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,507 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,526 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 75 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 |
 | 76 | [Muse](https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci), [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Introspect](https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV) | 1:07 |
 | 77 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
-| 78 | [Elevate](https://open.spotify.com/track/5RSizqADue4KCSy1og5v7P) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/0lU7hjTcAchfSYl45Z4TOz) | 2:19 |
-| 79 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 |
-| 80 | [The Perks of Being a Wallflower](https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:12 |
-| 81 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
-| 82 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 |
-| 83 | [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 |
+| 78 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 |
+| 79 | [Elevate](https://open.spotify.com/track/5RSizqADue4KCSy1og5v7P) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Tel Père Tel Fils](https://open.spotify.com/album/0lU7hjTcAchfSYl45Z4TOz) | 2:19 |
+| 80 | [School](https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu) | [BLYNE](https://open.spotify.com/artist/3B6ECroeS4yEP8xKx5zyDD), [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO) | [This is Our First EP](https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9) | 3:32 |
+| 81 | [The Perks of Being a Wallflower](https://open.spotify.com/track/7exckrvIzQrsl6USYjtpCW) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:12 |
+| 82 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
+| 83 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 |
 | 84 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 |
 | 85 | [End Credits](https://open.spotify.com/track/7JKNxNTc9GZMFLIT5fIWvg) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 1:51 |
 | 86 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Holding On](https://open.spotify.com/track/5WhLz63p2yzbpTROq87AT0) | [LAKEY INSPIRED](https://open.spotify.com/artist/3zDGjdtoxUiH7YcTWOdtMd) | [Holding On](https://open.spotify.com/album/1hVENLbXnEHqjREdfjurS7) | 2:26 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY3NzU5NjQwMCwwMDAwMDAwMDI3ZmJlMjdiN2U3MjUyMDA5ZDgyMzMwMDIwYjE2OTNl`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDIxZDVmNjYwMjI4YTBhNDY5ZjllNzdhYWYxY2ExZWVh`

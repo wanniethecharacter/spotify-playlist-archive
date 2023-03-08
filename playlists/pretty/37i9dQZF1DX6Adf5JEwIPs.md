@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Oscar Maydon & Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,926 likes - 53 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,953 likes - 53 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 31 | [Soy Rencoroso](https://open.spotify.com/track/5vmD1Wz4sXwlYdtRd991eB) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Soy Rencoroso](https://open.spotify.com/album/3C9p8aflFObx9nDH1hFYnR) | 3:33 |
 | 32 | [El Kiwi \(En Vivo\)](https://open.spotify.com/track/67VfQFDFC0gdkIWQa1a6ny) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [El Kiwi \(En Vivo\)](https://open.spotify.com/album/4sO36TZzZN6jwcdc6d021a) | 3:24 |
 | 33 | [El Mago](https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Mago](https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U) | 3:48 |
-| 34 | [Te Quiero \- Live](https://open.spotify.com/track/1Z6mjxGzbilLNnRDXlZ61Z) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero \(Live\)](https://open.spotify.com/album/6YV2xEVGlp9PLTv2wHS04X) | 3:02 |
+| 34 | [Te Quiero](https://open.spotify.com/track/30cecr0ZkOxzBAmdA8fWeu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero](https://open.spotify.com/album/2SEQvr4tdaQguLDvjYtnKr) | 3:06 |
 | 35 | [Que Tu Voz Te Salve](https://open.spotify.com/track/2XsSvQ6A1H9DG8vVSLNT99) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Naina](https://open.spotify.com/artist/6KYhfKWl6pCw7bFcZcAn4Z), [Maria Bernal](https://open.spotify.com/artist/4b1FbId1PaWUVGCfES76E3) | [Que Tu Voz Te Salve](https://open.spotify.com/album/5WCNMsBGOFO9j6ffKk1ePW) | 3:36 |
 | 36 | [Muriendo Lento](https://open.spotify.com/track/2NkSZA9C8xRCZrrOQLqjfU) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Muriendo Lento](https://open.spotify.com/album/4xA8QCP8FhTfiVxfnDgotb) | 3:32 |
 | 37 | [DIFF](https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Tiempo Perdido](https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot) | 3:52 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 52 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 | 53 | [Estrella Fugaz](https://open.spotify.com/track/2FxON8ngyrUEfIuigYyS76) | [Doble Infame](https://open.spotify.com/artist/6wK8afTRnGKhlVuYsOLHM7), [Impacto SH](https://open.spotify.com/artist/0EeKTPKRCKZgSdYGQlyrZy) | [Estrella Fugaz](https://open.spotify.com/album/5iB0786XybYiVxYwOTa9h6) | 3:33 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGFjZDdkYjViZmI3MjdjNTNjNWUwYTY5YWRiN2VkMTA2`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGI2YzRkY2E1YzQ2NWI2YzNjZWQ3YzUzZDEzMjhlZTFm`

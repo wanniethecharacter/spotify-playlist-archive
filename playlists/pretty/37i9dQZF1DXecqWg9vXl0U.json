@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Foudeqush.",
-  "num_followers": 41501,
+  "num_followers": 41510,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3NTM1NSwwMDAwMDAwMDA1MTk0OTk3MjMwMDhhNWRlYTc2NGE1MzVlOThhZTgw",
+  "snapshot_id": "MTY3NzI3NTM1NSwwMDAwMDAwMDhkZDFkNzQ0NjExODVjNjg0ZGU3OWIzYmQwNDBhNDhi",
   "tracks": [
     {
       "added_at": "2023-02-24 21:49:14",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7fynD3Yq0jxuxKhgYxiNMi"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 126923,
+      "name": "dime",
+      "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
         "name": "Fin Del Mundo (with Bratty)",
         "url": "https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 174117,
       "name": "Fin Del Mundo (with Bratty)",
       "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7fynD3Yq0jxuxKhgYxiNMi"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 126923,
-      "name": "dime",
-      "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -667,6 +667,38 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+      },
+      "artists": [
+        {
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -691,38 +723,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -739,22 +739,18 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Instintos",
-        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
+        "name": "Rester",
+        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 208723,
-      "name": "Instintos",
-      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+      "duration_ms": 297530,
+      "name": "Rester",
+      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Rester",
-        "url": "https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M"
+        "name": "Instintos",
+        "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 297530,
-      "name": "Rester",
-      "url": "https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos"
+      "duration_ms": 208723,
+      "name": "Instintos",
+      "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
+        "name": "Oniros (Bacalar)",
+        "url": "https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e"
+      },
+      "artists": [
+        {
+          "name": "Azain",
+          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Oniros (Bacalar)",
+      "url": "https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
-        "name": "Oniros (Bacalar)",
-        "url": "https://open.spotify.com/album/3PA5CHZiXWtBHlaebey22e"
-      },
-      "artists": [
-        {
-          "name": "Azain",
-          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Oniros (Bacalar)",
-      "url": "https://open.spotify.com/track/7Fj4QOaGNsZjco1Px0Jt75"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Recuerdos y Cenizas",
-        "url": "https://open.spotify.com/album/4apIpuJxGjMTqpa7Ifi2Nb"
-      },
-      "artists": [
-        {
-          "name": "Quemarlo Todo Por Error",
-          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
-        }
-      ],
-      "duration_ms": 203140,
-      "name": "No te alejas no me alejo",
-      "url": "https://open.spotify.com/track/6RwqlFaWlsz38XFNxdZcnd"
-    },
-    {
-      "added_at": "2023-02-24 21:49:14",
-      "album": {
         "name": "Colores crom\u00e1ticos",
         "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2023-02-24 21:49:14",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+        "name": "Recuerdos y Cenizas",
+        "url": "https://open.spotify.com/album/4apIpuJxGjMTqpa7Ifi2Nb"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+          "name": "Quemarlo Todo Por Error",
+          "url": "https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG"
         }
       ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
+      "duration_ms": 203140,
+      "name": "No te alejas no me alejo",
+      "url": "https://open.spotify.com/track/6RwqlFaWlsz38XFNxdZcnd"
     },
     {
       "added_at": "2023-02-24 21:49:14",
@@ -1239,6 +1219,26 @@
       "duration_ms": 180400,
       "name": "Lenguaje Universal",
       "url": "https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit"
+    },
+    {
+      "added_at": "2023-02-24 21:49:14",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2023-02-24 21:49:14",

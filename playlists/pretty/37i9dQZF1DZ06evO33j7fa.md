@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,357 likes - 33 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,385 likes - 33 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 32 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4PlLayYBWMf0C65EJVtXnS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 0:32 |
 | 33 | [They're Leaving Me Behind](https://open.spotify.com/track/4bjiatRltrcQgvA5go2FVZ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Digital Box Set](https://open.spotify.com/album/37NXzMNSyW0RhFVM2bkACC) | 3:17 |
 
-Snapshot ID: `Mjc5Njg0MDEsMDAwMDAwMDBlNzQwOWEzNmQxNWU2NzgyOTg5MmY2YzBmZmU2NzkxYQ==`
+Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDBhOWNkMmY0YWNkMzJlYWQyZmEzNDYzYzc2MDA4MTEwMw==`

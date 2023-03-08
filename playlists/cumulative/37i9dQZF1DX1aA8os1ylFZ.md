@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-306 songs - 16 hr 12 min
+307 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 | 2023-01-13 |
 | [2 Good 2B True](https://open.spotify.com/track/6q9aC2jOvVegF3kbs0LcHG) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [Aaria](https://open.spotify.com/artist/6wQhJatwZHWgRTz2gtWVbc), [SYPS](https://open.spotify.com/artist/0n6Dxt9W4fUDlCqLCRLwqt) | [2 Good 2B True](https://open.spotify.com/album/29WwuOvEB24YGOtqjruY2s) | 4:28 | 2021-12-16 | 2022-07-29 |
 | [2 Good 2B True](https://open.spotify.com/track/6m150Wsv4TFOAaOABANgLS) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [SYPS](https://open.spotify.com/artist/0n6Dxt9W4fUDlCqLCRLwqt), [Aaria](https://open.spotify.com/artist/6wQhJatwZHWgRTz2gtWVbc) | [2 Good 2B True](https://open.spotify.com/album/4GcW67cyojCQm97aUe9Erd) | 4:27 | 2022-07-22 | 2023-01-13 |
+| [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-07 |  |
 | [23](https://open.spotify.com/track/7L8zGKqHF7IPjpMgXd3s83) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [23](https://open.spotify.com/album/6wSipi0TDJMk8YDnFXecGX) | 2:15 | 2023-01-12 | 2023-02-03 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2023-01-12 | 2023-01-19 |
 | [3 Words \(Message To My Ex\)](https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Message From My Ex / 3 Words \(Message To My Ex\)](https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V) | 3:06 | 2023-01-12 |  |
@@ -303,7 +304,7 @@
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2023-01-12 |  |
 | [Whispers](https://open.spotify.com/track/1axwmTbryAGBoMy9OOnlB0) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Whispers](https://open.spotify.com/album/4KYgpnfISyOhm5iUYvkEQx) | 3:23 | 2021-12-16 | 2023-01-13 |
 | [Why We Love](https://open.spotify.com/track/6hYPE8tc5yc6Vd9yR3cVH1) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Why We Love](https://open.spotify.com/album/3CXMLXwgCKKpF9GV8dqqvf) | 3:09 | 2021-12-16 | 2023-01-13 |
-| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 |  |
+| [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2023-02-02 | 2023-03-08 |
 | [Wish You Well](https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Wish You Well](https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y) | 2:54 | 2023-01-12 |  |
 | [wish you were here](https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/30ssp982Ym9GCQstBVvEve) | 3:22 | 2021-12-16 | 2022-11-03 |
 | [wish you were here](https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wish you were here](https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ) | 3:22 | 2022-10-27 | 2023-01-13 |

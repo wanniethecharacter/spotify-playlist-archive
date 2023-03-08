@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 668392,
+  "num_followers": 668583,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMDNhMjkxZGUyODI5NDhlYjM0YWI0M2M2ODE2Mjc4OTdj",
+  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMGZiYjIyMGI5OGQzYjljMTBmMTUzOWU2OWVjYjhiOGM1",
   "tracks": [
     {
       "added_at": "2023-02-07 18:06:48",
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
     },
     {
-      "added_at": "2023-03-07 02:15:43",
+      "added_at": "2023-03-08 00:44:53",
       "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 357357,
       "name": "Movie",
       "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Black Leaves",
-        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 104280,
-      "name": "Black Leaves",
-      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -575,6 +559,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "cold/mess",
-        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 281218,
-      "name": "cold/mess",
-      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Hold Space For Me",
         "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Sheep",
-        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 215180,
-      "name": "Sheep",
-      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Sheep",
+        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 215180,
+      "name": "Sheep",
+      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Make Out in My Car: Chameleon Suite",
         "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 166880,
       "name": "Make Out in My Car - Sufjan Stevens Version",
       "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
+      },
+      "artists": [
+        {
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "There Is Something on Your Mind",
+      "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1127,22 +1143,6 @@
       "duration_ms": 250533,
       "name": "Baby",
       "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "There Is Something on Your Mind",
-      "url": "https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Sexy Weekend EP",
         "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "((( 2 )))",
         "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 170013,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2023-02-07 18:06:48",

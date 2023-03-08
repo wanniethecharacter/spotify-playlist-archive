@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 6231,
+  "num_followers": 6262,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDk0YmEwZDI5NzExNWQyZTdiNjY5ODRjNTk0NDQwNmFi",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMGFjNWZjYmVjZGNlOTQzMDRiMmU5MTFjMWRlNzg4ZDQ4",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -395,18 +395,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
       "artists": [
         {
           "name": "Noah Pino Palo",
           "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Youth Attraction",
-        "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
       },
       "artists": [
         {
-          "name": "Wet Baes",
-          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 333500,
-      "name": "Midnight Caller",
-      "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+        "name": "Youth Attraction",
+        "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
       },
       "artists": [
         {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+          "name": "Wet Baes",
+          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
         }
       ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
+      "duration_ms": 333500,
+      "name": "Midnight Caller",
+      "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
     },
     {
       "added_at": "2023-03-03 05:01:00",

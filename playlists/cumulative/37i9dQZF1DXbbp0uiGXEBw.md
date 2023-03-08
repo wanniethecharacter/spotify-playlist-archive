@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Cầm
 
-137 songs - 9 hr 0 min
+138 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [ghệ iu dấu của em ơi](https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [ghệ iu dấu của em ơi](https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK) | 3:25 | 2023-02-14 |  |
 | [Gieo Quẻ \(feat\. Den\)](https://open.spotify.com/track/6SjnTRDyTM162pPOAM0O8M) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:18 | 2022-11-30 |  |
 | [Gieo Quẻ \(feat\. Đen\)](https://open.spotify.com/track/7lkWAB0Ru7WEa0mkdgiqJG) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Gieo Quẻ \(feat\. Đen\)](https://open.spotify.com/album/1cvlu9FQk5dawfuyZErjuO) | 3:18 | 2022-01-01 | 2022-08-19 |
+| [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 | 2023-03-07 |  |
 | [Giã Từ Dĩ Vãng & Bỗng Dưng Muốn Khóc \(Ký Ức Part 1\)](https://open.spotify.com/track/0Ic9k0A0lH9uMeYMCl1wvw) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Giã Từ Dĩ Vãng & Bỗng Dưng Muốn Khóc \(Ký Ức Part 1\)](https://open.spotify.com/album/4Orwq4lvKskQYzqxa36fvM) | 4:56 | 2022-11-01 | 2022-12-01 |
 | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/track/1MQ97OxIEAMm5BUHbS6yHv) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/album/3sd1Ni5crypjsq5VuVYaK1) | 3:46 | 2021-12-07 | 2022-12-01 |
 | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/track/4M3s2pObhdGGipU9akgGNa) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/album/1pB0pPGOkof3chK93qVRGJ) | 3:46 | 2022-11-30 |  |
@@ -91,7 +92,7 @@
 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 | 2022-08-02 | 2022-09-07 |
 | [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 | 2021-12-07 | 2022-05-04 |
 | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ) | [Luna Đào](https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB) | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha) | 5:50 | 2023-01-03 | 2023-01-14 |
-| [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo) | 4:02 | 2022-01-04 |  |
+| [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo) | 4:02 | 2022-01-04 | 2023-03-08 |
 | [nằm ngủ emru](https://open.spotify.com/track/0TTJufXrJgRZUUV7brd2hT) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [nằm ngủ emru](https://open.spotify.com/album/4uig3uMCgVndDQeOw1shgg) | 4:14 | 2021-12-07 | 2022-04-24 |
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-03 |  |
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-08-18 | 2022-09-28 |

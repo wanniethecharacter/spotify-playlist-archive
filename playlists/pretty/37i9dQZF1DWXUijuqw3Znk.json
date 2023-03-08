@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2944,
+  "num_followers": 2949,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMDM0NGNmMWQ1YTkzYjFkYTc3ODIyNzU4YWQ3OTI4ZmQz",
+  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMGNkMjM4MmJiYWRlOTBhZTVlNzkzYjdiY2JhNTQ5ZjMx",
   "tracks": [
     {
       "added_at": "2023-02-14 07:04:41",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
-      "added_at": "2023-03-07 02:44:31",
+      "added_at": "2023-03-08 01:12:48",
       "album": {
         "name": "LALALA Remix",
         "url": "https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3"
@@ -240,7 +240,7 @@
           "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         },
         {
-          "name": "Mirani",
+          "name": "MIRANI",
           "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         }
       ],
@@ -279,26 +279,18 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "\u20a9 & ONLY",
+        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
       },
       "artists": [
         {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        },
-        {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 229450,
-      "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
+      "duration_ms": 223087,
+      "name": "Simon Dominic",
+      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -323,18 +315,26 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "\u20a9 & ONLY",
-        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
         }
       ],
-      "duration_ms": 223087,
-      "name": "Simon Dominic",
-      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
+      "duration_ms": 229450,
+      "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MARZ 2 AMBITION",
-        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 152921,
-      "name": "TRUE (Prod. by Way Ched)",
-      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Call Me Gray",
         "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 273267,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "MARZ 2 AMBITION",
+        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 152921,
+      "name": "TRUE (Prod. by Way Ched)",
+      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 279130,
-      "name": "On & On (feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 162901,
       "name": "24 Hours (Feat. Chin, SC4F & MADII)",
       "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 279130,
+      "name": "On & On (feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MEVIUS",
-        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
-      },
-      "artists": [
-        {
-          "name": "J;KEY",
-          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
-        },
-        {
-          "name": "Von Air",
-          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
-        }
-      ],
-      "duration_ms": 174587,
-      "name": "MEVIUS (Feat. Von Air)",
-      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 180733,
       "name": "Smile Now Cry Later",
       "url": "https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "MEVIUS",
+        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+      },
+      "artists": [
+        {
+          "name": "J;KEY",
+          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
+        },
+        {
+          "name": "Von Air",
+          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+        }
+      ],
+      "duration_ms": 174587,
+      "name": "MEVIUS (Feat. Von Air)",
+      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1588,7 +1588,7 @@
       },
       "artists": [
         {
-          "name": "Mirani",
+          "name": "MIRANI",
           "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         },
         {
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
-      },
-      "artists": [
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
     },
     {
       "added_at": "2023-02-14 07:04:41",

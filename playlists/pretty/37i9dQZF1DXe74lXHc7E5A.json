@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: AKA",
-  "num_followers": 4889,
+  "num_followers": 4897,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQ4OSwwMDAwMDAwMDA3MjExMTllZGYyZTI5NDJmNGYwNjRjMGMzNmYxNWFk",
+  "snapshot_id": "MTY3NzgzMDQ4OSwwMDAwMDAwMGYxYzQ1ZTk4M2U0MWI4MDc5NDE4NjRlOTRmMDkzMDMw",
   "tracks": [
     {
       "added_at": "2023-03-03 08:01:29",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
+    },
+    {
+      "added_at": "2023-03-03 08:01:29",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
-    },
-    {
-      "added_at": "2023-03-03 08:01:29",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
       },
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2023-03-03 08:01:29",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Kid MARLEY",
+          "url": "https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+      "duration_ms": 178775,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-124 songs - 5 hr 45 min
+126 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Like Stars in Clouds](https://open.spotify.com/track/3nXM6IQAAaQby5qvuHezW2) | [PJ Montgomery](https://open.spotify.com/artist/28tWoUOf4pqhvoz6aaBezb) | [Like Stars in Clouds](https://open.spotify.com/album/7MDPF7wi1GP2IPnQU67tPW) | 2:39 | 2022-04-28 |  |
 | [Lonely road](https://open.spotify.com/track/0R58Fl5lvlTEMblnMv96lI) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Lonely road](https://open.spotify.com/album/7uT4pnKkqhvkQSKDdGn3mK) | 2:11 | 2022-07-27 |  |
 | [Look Ahead](https://open.spotify.com/track/6YCLKWqMCgiAu7GR2eFMKL) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Look Ahead](https://open.spotify.com/album/70ccS4xYLs6F0jqnLMvlhQ) | 2:40 | 2022-04-28 |  |
+| [Lost in Time](https://open.spotify.com/track/7eMnLdvX83UPtfJKcLDA7l) | [Ambient Renaissance](https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y) | [Lost in Time](https://open.spotify.com/album/4vIuob5doYBvZeeJ8GLjhE) | 2:11 | 2023-03-07 |  |
 | [Lucid Air](https://open.spotify.com/track/0c4UV2Y0OuKBIYxI5p4du4) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 2:33 | 2022-04-28 |  |
 | [Luminous](https://open.spotify.com/track/0a3yJynCpqxbcoxdI5qLsI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Luminous](https://open.spotify.com/album/1fcPItFxNR27pS3EBcOt0K) | 2:28 | 2022-04-28 |  |
 | [Majestic Sky](https://open.spotify.com/track/6h76YDPycRG0nGSIHxFxzP) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Majestic Sky](https://open.spotify.com/album/5RHZVIZAuCXStOzIbCmCa1) | 3:40 | 2023-02-14 |  |
@@ -98,6 +99,7 @@
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-04-28 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-04-28 |  |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-04-28 |  |
+| [Serene Sanctuary](https://open.spotify.com/track/69HNELzycnP7UucHMyfPv6) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Serene Sanctuary](https://open.spotify.com/album/06KfQjiKksP8mmCSdayolJ) | 2:31 | 2023-03-07 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-04-28 |  |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-04-28 |  |
 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 | 2023-02-06 |  |

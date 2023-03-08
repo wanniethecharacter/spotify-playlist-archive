@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,184 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,310 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 11 | [Absolute Zero](https://open.spotify.com/track/5cJRXcBwoDkZvjxT2va8am) | [Entheos](https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI) | [Time Will Take Us All](https://open.spotify.com/album/6MaZPqBPNUXLRiI4yvz7ki) | 4:40 |
 | 12 | [From Tha Gods To Earth](https://open.spotify.com/track/30SODQqyUDe0FLnk3dbPhJ) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:25 |
 | 13 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 |
-| 14 | [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renske](https://open.spotify.com/artist/2O1c4QD1ND5Qb60ImHdVpw) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 |
+| 14 | [Dom Andra](https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za), [Jonas Renkse](https://open.spotify.com/artist/5ttMur3R8GpuNimbWm1xn0) | [Dom Andra](https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby) | 3:41 |
 | 15 | [Calm Before The Storm](https://open.spotify.com/track/00pQHFVMLQFxJ5YGJlRwpy) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Calm Before The Storm](https://open.spotify.com/album/7rZYtNrVKMr5wR7e6zH9pa) | 3:47 |
 | 16 | [RISE](https://open.spotify.com/track/1Q99lciGepKxOoUO0JxDAh) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/6SA6Ml0cEluSLl5NdqU0Bp) | 4:35 |
 | 17 | [Midnight Party](https://open.spotify.com/track/13gHY5OxvywHHfqXneK6Px) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Midnight Party](https://open.spotify.com/album/7rDH3VNxPjhXP8BKqy7qWk) | 3:44 |

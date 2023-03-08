@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,043 likes - 57 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,066 likes - 57 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 37 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
 | 38 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 |
 | 39 | [Can't Hold Us](https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 3:18 |
-| 40 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
-| 41 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
+| 40 | [Bad Romance](https://open.spotify.com/track/7EZjj4CRzBfeEAVfQMDqWu) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Sing On](https://open.spotify.com/album/5UPAYGrQMGmGO3vPUXF1ou) | 4:36 |
+| 41 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 |
 | 42 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 |
 | 43 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
 | 44 | [I'm Yours / Somewhere over the Rainbow \- EP Version](https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack](https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj) | 3:34 |
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 54 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 55 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 56 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
-| 57 | [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 |
+| 57 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDJmYjc2ZjgzZDhjMDliNGNhMzhkNjE2Y2Q1MGFhMTc3`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGQyNzVjYmRiM2Q1Mzg2NDVmM2ZjM2YxY2NhYWU2ODQ1`

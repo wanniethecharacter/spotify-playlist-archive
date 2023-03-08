@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 146003,
+  "num_followers": 146132,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMDUxZGNmY2IxODA5MGUzNjkxNjczNWM4NjZhNWViNmZh",
+  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMGY4YzYwMGYwZmQ0MTQ0ZmRhZDljNzZjYTkyNjY0YzFi",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "T\u00fa No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "T\u00fa No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Back To Work",
+        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 398536,
+      "name": "Te Vas De Mi",
+      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 327466,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Back To Work",
-        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 398536,
-      "name": "Te Vas De Mi",
-      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
     },
     {
       "added_at": "2022-12-30 20:18:36",

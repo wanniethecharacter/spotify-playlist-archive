@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 434516,
+  "num_followers": 435202,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQwMjgxMiwwMDAwMDAwMDIwZDc0ODZlOGM2MzZlODlhYjNlMDhlMjExMGUzNjU3",
+  "snapshot_id": "MTY3NjQwMjgxMiwwMDAwMDAwMDczZGJjNjkyYjlkMjVlZDdjYzc0NThkM2VhYTM1Mzk3",
   "tracks": [
     {
       "added_at": "2023-01-10 01:36:03",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
     },
     {
-      "added_at": "2023-03-07 01:50:06",
+      "added_at": "2023-03-08 01:08:00",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 257266,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Fightin Side Of Me",
-      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Fightin Side Of Me",
+      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "The Very Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Hello Darlin' - Single Version",
-      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/7D8bxjLSMvrXZYqDOsbbjC"
+        "name": "The Very Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
       },
       "artists": [
         {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 153866,
-      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
-      "url": "https://open.spotify.com/track/1zJRHhb8yN2LyVfNhmlhH0"
+      "duration_ms": 145866,
+      "name": "Hello Darlin' - Single Version",
+      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1643,6 +1627,22 @@
       "duration_ms": 299746,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/50hbhWWZ5b36hC6x7dh4bP"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/7D8bxjLSMvrXZYqDOsbbjC"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+      "url": "https://open.spotify.com/track/1zJRHhb8yN2LyVfNhmlhH0"
     }
   ],
   "unique_name": "Country's Greatest Hits",

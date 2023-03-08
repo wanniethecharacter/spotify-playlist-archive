@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5373,
+  "num_followers": 5381,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMGE1OGU2ZjMyZThiMmRiZWYzNWViYjE0NmE4YWQzNWM3",
+  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMGU0MmE4MTI5NWUyNDZkZGI0MmIzZDljN2ZmZDIwYTAw",
   "tracks": [
     {
       "added_at": "2023-02-24 10:36:44",
@@ -63,6 +63,26 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "She lives in Paris",
         "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -359,22 +359,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "White Snow",
-        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
+        "name": "Bad words with KozyPop",
+        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         },
         {
-          "name": "prettyhappy",
-          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+          "name": "Housekeepers",
+          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
         }
       ],
-      "duration_ms": 184133,
-      "name": "White Snow (feat. prettyhappy)",
-      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
+      "duration_ms": 197687,
+      "name": "Bad words",
+      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "Bad words with KozyPop",
-        "url": "https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa"
+        "name": "White Snow",
+        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Housekeepers",
-          "url": "https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1"
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
         }
       ],
-      "duration_ms": 197687,
-      "name": "Bad words",
-      "url": "https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX"
+      "duration_ms": 184133,
+      "name": "White Snow (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "Last Night (feat. DD7)",
         "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 184736,
       "name": "Last Night (feat. DD7)",
       "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "BURN-OUT",
-        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
-      },
-      "artists": [
-        {
-          "name": "FRIDA-ANNE",
-          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
-        }
-      ],
-      "duration_ms": 156984,
-      "name": "BURN-OUT",
-      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
+        "name": "BURN-OUT",
+        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
+      },
+      "artists": [
+        {
+          "name": "FRIDA-ANNE",
+          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
+        }
+      ],
+      "duration_ms": 156984,
+      "name": "BURN-OUT",
+      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "I Mean You",
-        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
-      },
-      "artists": [
-        {
-          "name": "Diana",
-          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
-        }
-      ],
-      "duration_ms": 195150,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
         "name": "Kangaroo",
         "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 225903,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+      },
+      "artists": [
+        {
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+        }
+      ],
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 190457,
       "name": "GOOD BYE SONG",
       "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     },
     {
       "added_at": "2023-02-24 10:36:44",

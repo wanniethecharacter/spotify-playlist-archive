@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 747197,
+  "num_followers": 747497,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NjU0NCwwMDAwMDAwMGY0ZjVlZmNiMWNmZTM4ZGJlOTk1MWQ1NTc0YTQ2OWQy",
+  "snapshot_id": "MTY3Nzg2NjU0NCwwMDAwMDAwMDNmNzBmMmViMTNjNWVjYzUwYTM1ZTNjMjBiODVjM2Rk",
   "tracks": [
     {
       "added_at": "2023-02-25 00:01:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "Spirituale",
+        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Insieme",
+      "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Breezy Blossoms",
         "url": "https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 154550,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Spirituale",
-        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
-      },
-      "artists": [
-        {
-          "name": "Constantine Lupo",
-          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Insieme",
-      "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "As it is At Night",
-        "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
-      },
-      "artists": [
-        {
-          "name": "Elder Tones",
-          "url": "https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "As It Is At Night",
-      "url": "https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Peripateo",
         "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193162,
       "name": "Peripateo",
       "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "As it is At Night",
+        "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
+      },
+      "artists": [
+        {
+          "name": "Elder Tones",
+          "url": "https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "As It Is At Night",
+      "url": "https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "\u00c1 Eftir",
-        "url": "https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rg Stigbj\u00f8rnson",
-          "url": "https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn"
-        }
-      ],
-      "duration_ms": 198162,
-      "name": "Arp Of Life",
-      "url": "https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Remembering",
         "url": "https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "\u00c1 Eftir",
+        "url": "https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rg Stigbj\u00f8rnson",
+          "url": "https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn"
+        }
+      ],
+      "duration_ms": 198162,
+      "name": "Arp Of Life",
+      "url": "https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Pace tua",
         "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 144305,
       "name": "Pace Tua",
       "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Clarity Frequency",
+        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Laporte",
+          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
+        }
+      ],
+      "duration_ms": 152318,
+      "name": "Eternal Frequencies",
+      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Clarity Frequency",
-        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
-      },
-      "artists": [
-        {
-          "name": "Beatrice Laporte",
-          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
-        }
-      ],
-      "duration_ms": 152318,
-      "name": "Eternal Frequencies",
-      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Nattljus",
         "url": "https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Neda",
-        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
-      },
-      "artists": [
-        {
-          "name": "Xiada",
-          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Neda",
-      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/021gMyQNpIiRxNspxbQuyR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 239785,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Neda",
+        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "Neda",
+      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "Inevitably",
+        "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Inevitably - Deep Sleep Edit",
+      "url": "https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Noraezean",
         "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 194655,
       "name": "You've Sent Me Peace",
       "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Inevitably",
-        "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Inevitably - Deep Sleep Edit",
-      "url": "https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Incondizionatamente",
-        "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
-      },
-      "artists": [
-        {
-          "name": "Miravaldini",
-          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Incondizionatamente",
-      "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 163005,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Incondizionatamente",
+        "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Incondizionatamente",
+      "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 165517,
       "name": "Well Spent",
       "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
-        "name": "Somniac",
-        "url": "https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX"
-      },
-      "artists": [
-        {
-          "name": "Dream Runner",
-          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
-        }
-      ],
-      "duration_ms": 170590,
-      "name": "Spiritual Pressure",
-      "url": "https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+        "name": "Somniac",
+        "url": "https://open.spotify.com/album/48GvOvNvTmpGpBekXqL5mX"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Dream Runner",
+          "url": "https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
+      "duration_ms": 170590,
+      "name": "Spiritual Pressure",
+      "url": "https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 227315,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM"
-    },
-    {
-      "added_at": "2023-02-25 00:01:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb"
       },
@@ -2739,18 +2723,34 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Stream Of Consciousness",
-        "url": "https://open.spotify.com/album/1NsfijePewYqh84KibLhCg"
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy"
       },
       "artists": [
         {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 180624,
-      "name": "Stream Of Consciousness",
-      "url": "https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV"
+      "duration_ms": 227315,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM"
+    },
+    {
+      "added_at": "2023-02-25 00:01:00",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D"
     },
     {
       "added_at": "2023-02-25 00:01:00",
@@ -2787,18 +2787,18 @@
     {
       "added_at": "2023-02-25 00:01:00",
       "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG"
+        "name": "Stream Of Consciousness",
+        "url": "https://open.spotify.com/album/1NsfijePewYqh84KibLhCg"
       },
       "artists": [
         {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D"
+      "duration_ms": 180624,
+      "name": "Stream Of Consciousness",
+      "url": "https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV"
     },
     {
       "added_at": "2023-02-25 00:01:00",

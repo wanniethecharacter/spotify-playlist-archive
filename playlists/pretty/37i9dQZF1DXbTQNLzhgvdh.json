@@ -1,15 +1,15 @@
 {
   "description": "y solo m\u00edrame con esos ojito' lindo' \u2764\ufe0f",
-  "num_followers": 54141,
+  "num_followers": 54250,
   "original_name": "enqla2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQwMjY0NiwwMDAwMDAwMDBkOWQxYTI3ZGI4OTJlYjliMmZmY2Y1Mzc3ZTU4YjZj",
+  "snapshot_id": "MTY3NjQwMjY0NiwwMDAwMDAwMGRlYTYzMTg4YmI4NWVhNTY3YWVmMDFlOTg0MjI0NTQ2",
   "tracks": [
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -227,22 +231,18 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "La Siguiente",
-        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 202176,
-      "name": "La Siguiente",
-      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 174932,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -511,6 +491,26 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 174932,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
@@ -747,6 +747,38 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
+        "name": "In\u00e9ditos",
+        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Tienes el Don",
+      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -771,38 +803,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
-        "name": "In\u00e9ditos",
-        "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 241972,
-      "name": "Tienes el Don",
-      "url": "https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "Adue\u00f1arme",
         "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 183762,
       "name": "Adue\u00f1arme",
       "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
+      },
+      "artists": [
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        },
+        {
+          "name": "Moree Neri",
+          "url": "https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -863,26 +883,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
-      },
-      "artists": [
-        {
-          "name": "Santy-P",
-          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
-        },
-        {
-          "name": "Moree Neri",
-          "url": "https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR"
     },
     {
-      "added_at": "2023-03-07 03:08:37",
+      "added_at": "2023-03-08 01:21:13",
       "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "Junto A T\u00ed",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 193922,
       "name": "Junto A T\u00ed",
       "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     }
   ],
   "unique_name": "enqla2",

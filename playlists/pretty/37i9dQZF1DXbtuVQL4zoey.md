@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,042 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,149 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 21 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 |
 | 22 | [Sentimental Mood](https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:49 |
 | 23 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 |
-| 24 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [major7th](https://open.spotify.com/artist/2PM4QtueXi2pjPzJGMYAH8) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 |
+| 24 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 |
 | 25 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 |
 | 26 | [Ballroom Samba](https://open.spotify.com/track/3OzKdBTO77CznB7mmxWheV) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Ballroom Samba](https://open.spotify.com/album/41M22LDCY7NgRbfLmySeLr) | 2:27 |
 | 27 | [Conant Gardens](https://open.spotify.com/track/563eOsTuwa7hZomJl7AI4A) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Conant Gardens](https://open.spotify.com/album/3qqQxrLKoQJJ9yGdAXuJ6l) | 2:42 |

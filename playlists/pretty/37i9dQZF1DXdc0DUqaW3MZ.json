@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 296715,
+  "num_followers": 296804,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDM4ZDVlMjM1MmI5ODZiYThmNDI5NzYwYzY4NzljYTcz",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDc1NTAwNDBkMTQ1MzU2Y2ZhNjI5MTIzZTA5ZGZlYjFk",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -927,18 +927,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
       "artists": [
         {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
         }
       ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -963,6 +967,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "It's Nice to Be Alive",
-      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "It's Nice to Be Alive",
+      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 239178,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Pleasure (Now & Forever)",
         "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 246760,
       "name": "Boy Blue",
       "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 239178,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
     },
     {
       "added_at": "2022-06-20 14:19:42",

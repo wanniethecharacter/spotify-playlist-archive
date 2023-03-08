@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-234 songs - 14 hr 58 min
+235 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Clear Enough](https://open.spotify.com/track/0dUOty6ev4peVLoiVC8Beh) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Clear Enough](https://open.spotify.com/album/2t1lk5lyBtRpNzuigtwCql) | 2:50 | 2022-01-03 | 2022-04-21 |
 | [Clear Enough](https://open.spotify.com/track/0iqbvLUoANlhXizwGUKWHJ) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Plastic World](https://open.spotify.com/album/4SxMaBkSKYysgd0JM1tewe) | 2:50 | 2022-06-30 |  |
 | [Clement](https://open.spotify.com/track/0gZledHxMOU9mcsVeW9NmF) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Highmare](https://open.spotify.com/album/5rRaCgk5xWmQ6OCZPO6kku) | 4:55 | 2022-02-18 |  |
-| [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 | 2023-03-07 |
+| [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 |  |
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 |  |
@@ -57,6 +57,7 @@
 | [Devil in sight](https://open.spotify.com/track/7t6rd88j5ie44uHFzDO5kP) | [Cold Valley](https://open.spotify.com/artist/1w1u8ebvhNqRMCv2GeBRrQ) | [Devil in sight](https://open.spotify.com/album/7a6PGGG9hVl4VicBn6iwYL) | 3:50 | 2021-12-31 | 2022-07-25 |
 | [Didn’t Know](https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Future Me](https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ) | 3:07 | 2023-01-26 |  |
 | [Disappear](https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Disappear](https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX) | 3:54 | 2022-11-28 |  |
+| [Disappointed](https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x) | 5:20 | 2023-02-02 |  |
 | [Disappointed](https://open.spotify.com/track/5iEBZQZTvAAAJBFi4FwsRd) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/0LTjFQ67GmORc4ttbXWOJu) | 5:20 | 2022-06-30 | 2023-02-27 |
 | [Disappointed](https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA) | 5:20 | 2021-12-15 | 2022-07-29 |
 | [Don't Follow Me](https://open.spotify.com/track/5Xbwp8PT55iYMkoECvE3BQ) | [Another Five Minutes](https://open.spotify.com/artist/08F7kA02XWvTzcKus7ms2u) | [Don't Follow Me](https://open.spotify.com/album/4eTRhhvkB8cY1WQucZI5UU) | 4:29 | 2021-12-31 | 2022-07-19 |
@@ -72,7 +73,7 @@
 | [Excuses](https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 4:00 | 2023-01-31 |  |
 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 | 2021-12-15 | 2022-07-29 |
 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 | 2022-02-14 | 2022-06-28 |
-| [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 |  |
+| [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 | 2023-03-08 |
 | [Fire Fire](https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ) | 3:52 | 2022-11-28 | 2023-02-01 |
 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 | 2021-12-15 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 | 2021-12-15 |  |
@@ -164,7 +165,7 @@
 | [Passing On](https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4) | [Untitled With Drums](https://open.spotify.com/artist/4XiFVuDepsbUebkmNbTjlu) | [Hollow](https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ) | 4:05 | 2021-12-15 | 2022-07-28 |
 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 | 2023-01-27 |
 | [People In The Shadow](https://open.spotify.com/track/13Kk7Slvx443ZmMAFB9fjP) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late \(Super Deluxe Version\)](https://open.spotify.com/album/2D9zCv79mWQw6j3nRTcf4N) | 4:30 | 2022-04-17 | 2022-07-29 |
-| [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 |  |
+| [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 | 2023-03-08 |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |
 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 | 2022-04-17 |  |
 | [Post\-Post\-](https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Post\-Post\-](https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM) | 7:34 | 2023-02-02 |  |

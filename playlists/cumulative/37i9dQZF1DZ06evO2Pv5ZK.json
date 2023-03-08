@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
+    },
+    {
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
       },

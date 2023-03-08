@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 80023,
+  "num_followers": 80053,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDBjYzBjZTQzYmQ1OGZkYjMyYTI0ZTM5MGNhYmQxZjlm",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDc3ODc5ZDZkZDc3ODRkMDZhNjZiNzQ5OWRiN2FlOTBh",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
+        "name": "20 TropiExitos",
+        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
       },
       "artists": [
         {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 183240,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB"
+      "duration_ms": 218333,
+      "name": "La Cantaleta",
+      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "20 TropiExitos",
-        "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
       },
       "artists": [
         {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
         }
       ],
-      "duration_ms": 218333,
-      "name": "La Cantaleta",
-      "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
+      "duration_ms": 183240,
+      "name": "La G\u00fcera Salom\u00e9",
+      "url": "https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB"
     },
     {
       "added_at": "2023-03-03 03:00:00",

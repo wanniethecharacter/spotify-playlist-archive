@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Swinging with Jimmy Rosenberg",
+        "url": "https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR"
+      },
+      "artists": [
+        {
+          "name": "Hot Club De Norvege",
+          "url": "https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Amour, Mon Cher Amour",
+      "url": "https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg"
+    },
+    {
+      "album": {
         "name": "French Caf\u00e9: A Parisian Gypsy Jazz Swing Experience",
         "url": "https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp"
       },
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Gypsy Jazz Caravan III",
+        "url": "https://open.spotify.com/album/2DWUmK8Bo0wiT21Wb7d2Ne"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Jazz Caravan",
+          "url": "https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266226,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5wILoqydB2oea8fQFWVGOG"
+    },
+    {
+      "album": {
         "name": "Cris",
         "url": "https://open.spotify.com/album/5x3cqAMsUcM9YvAG1Xeo6N"
       },
@@ -499,6 +535,24 @@
     },
     {
       "album": {
+        "name": "A La Noce",
+        "url": "https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP"
+      },
+      "artists": [
+        {
+          "name": "Baguette Quartette",
+          "url": "https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244413,
+      "name": "El choclo",
+      "url": "https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv"
+    },
+    {
+      "album": {
         "name": "L'air de Paris",
         "url": "https://open.spotify.com/album/1D5A3USZd7Cz0TMLBn6AYa"
       },
@@ -535,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Enrique Ugarte: Cafe Paris",
+        "url": "https://open.spotify.com/album/2CQC3OjeiOhkEvOyAcC7JQ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Ugarte",
+          "url": "https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Entre Paris et Buenos Aires",
+      "url": "https://open.spotify.com/track/5OALAotUm5wNEuYkB5yJaP"
+    },
+    {
+      "album": {
         "name": "Local Color",
         "url": "https://open.spotify.com/album/0EIuXb7mEQEdfJpCgfS6x1"
       },
@@ -568,6 +640,42 @@
       "duration_ms": 192946,
       "name": "Flambee Montalbanaise",
       "url": "https://open.spotify.com/track/7fPHlQGsVtfOyVU3hQnrYU"
+    },
+    {
+      "album": {
+        "name": "A La Noce",
+        "url": "https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP"
+      },
+      "artists": [
+        {
+          "name": "Baguette Quartette",
+          "url": "https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Flamb\u00e9e montalbanaise",
+      "url": "https://open.spotify.com/track/6gugxXbWxWRtXqaen97y9l"
+    },
+    {
+      "album": {
+        "name": "Passion Gitane",
+        "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
+      },
+      "artists": [
+        {
+          "name": "Daniel Colin",
+          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130346,
+      "name": "Folie \u00e0 amphion",
+      "url": "https://open.spotify.com/track/4X5fkuK8fbrlUARtdxbD2h"
     },
     {
       "album": {
@@ -644,6 +752,42 @@
       "duration_ms": 205706,
       "name": "Germaine",
       "url": "https://open.spotify.com/track/4pKl4xbZeJMPdmxTHHth4H"
+    },
+    {
+      "album": {
+        "name": "Paris Nights: French Gyspy Jazz",
+        "url": "https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN"
+      },
+      "artists": [
+        {
+          "name": "Craig Sharmat",
+          "url": "https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98429,
+      "name": "Happy Go Lucky",
+      "url": "https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V"
+      },
+      "artists": [
+        {
+          "name": "Cafe Accordion Orcherstra",
+          "url": "https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "Harry Lime's Theme",
+      "url": "https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ"
     },
     {
       "album": {
@@ -750,6 +894,24 @@
       "duration_ms": 316586,
       "name": "Indifference",
       "url": "https://open.spotify.com/track/4EPJFerjvNlm9wzrWraknR"
+    },
+    {
+      "album": {
+        "name": "Passion Gitane",
+        "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
+      },
+      "artists": [
+        {
+          "name": "Daniel Colin",
+          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Jacqueline",
+      "url": "https://open.spotify.com/track/1mDQrcfMrnEq6SsGY3WlqI"
     },
     {
       "album": {
@@ -1065,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Afternoon in Paris",
+        "url": "https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV"
+      },
+      "artists": [
+        {
+          "name": "Dan Newton",
+          "url": "https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "Little French Bistro",
+      "url": "https://open.spotify.com/track/6XRQ7rygcyL8NJhsfFxQl2"
+    },
+    {
+      "album": {
         "name": "Vol.1",
         "url": "https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1"
       },
@@ -1083,6 +1263,60 @@
     },
     {
       "album": {
+        "name": "Afternoon in Paris",
+        "url": "https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV"
+      },
+      "artists": [
+        {
+          "name": "Dan Newton",
+          "url": "https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152040,
+      "name": "Memories of Paris",
+      "url": "https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax"
+    },
+    {
+      "album": {
+        "name": "Sinister Amusement",
+        "url": "https://open.spotify.com/album/0Ub9C7sPAcsgwuPeJkpBuk"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Jazz Caravan",
+          "url": "https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294773,
+      "name": "Menage a Trois",
+      "url": "https://open.spotify.com/track/6U2gPk43Wjx7uLEUqM1QFD"
+    },
+    {
+      "album": {
+        "name": "Germaine",
+        "url": "https://open.spotify.com/album/0Uol4Z9p4oDWXY39jm9Z3p"
+      },
+      "artists": [
+        {
+          "name": "Cafe Accordion Orchestra",
+          "url": "https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Milou de Paname",
+      "url": "https://open.spotify.com/track/6bzB2JPrAjwSHwNwasbkzS"
+    },
+    {
+      "album": {
         "name": "Paris-accordeon",
         "url": "https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD"
       },
@@ -1098,6 +1332,42 @@
       "duration_ms": 138424,
       "name": "Mon amant de Saint-Jean",
       "url": "https://open.spotify.com/track/6wsyd1VUuZjHZkXiHNHWhT"
+    },
+    {
+      "album": {
+        "name": "Introducing Stephane Wrembel",
+        "url": "https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD"
+      },
+      "artists": [
+        {
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130213,
+      "name": "Montagne Ste Genevieve",
+      "url": "https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V"
+      },
+      "artists": [
+        {
+          "name": "Cafe Accordion Orcherstra",
+          "url": "https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4P902IvZ9cyL3HiiuzNzYn"
     },
     {
       "album": {
@@ -1155,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Nuits de Paris",
+        "url": "https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq"
+      },
+      "artists": [
+        {
+          "name": "Alma Sinti",
+          "url": "https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Nivram",
+      "url": "https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m"
+    },
+    {
+      "album": {
         "name": "CAO 10",
         "url": "https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS"
       },
@@ -1206,6 +1494,42 @@
       "duration_ms": 158986,
       "name": "Padam...Padam...",
       "url": "https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu"
+    },
+    {
+      "album": {
+        "name": "Accordion World",
+        "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gscheidle",
+          "url": "https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120865,
+      "name": "Paris Pigalle",
+      "url": "https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM"
+    },
+    {
+      "album": {
+        "name": "Souvenir From Paris Vol. 2",
+        "url": "https://open.spotify.com/album/3WvINlDO8RBro8DFeU3eEQ"
+      },
+      "artists": [
+        {
+          "name": "Max Marino Et Son Accord\u00e9on",
+          "url": "https://open.spotify.com/artist/1cnJh2kOWm2O6TGzJOOcTY"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104106,
+      "name": "Paris, Mon Gai Paris",
+      "url": "https://open.spotify.com/track/2ORkFQoxavazm08LcpwQsz"
     },
     {
       "album": {
@@ -1267,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Paris: French Accordion & Gypsy Guitar Favorites",
+        "url": "https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K"
+      },
+      "artists": [
+        {
+          "name": "Paris Cafe Ensemble",
+          "url": "https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123186,
+      "name": "Petite Chanson de l'amour",
+      "url": "https://open.spotify.com/track/03CoelVFp9OYFb9MXZjkDd"
+    },
+    {
+      "album": {
         "name": "Valse musette de Paris",
         "url": "https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH"
       },
@@ -1325,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Passion Gitane",
+        "url": "https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l"
+      },
+      "artists": [
+        {
+          "name": "Daniel Colin",
+          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Pierrine",
+      "url": "https://open.spotify.com/track/1YEI60yKVmC4qeCXL5GMj2"
+    },
+    {
+      "album": {
         "name": "Valse musette de Paris",
         "url": "https://open.spotify.com/album/1dojDdiTR2HzTutReEQRiu"
       },
@@ -1376,6 +1736,50 @@
       "duration_ms": 199080,
       "name": "Pour Michele",
       "url": "https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH"
+      },
+      "artists": [
+        {
+          "name": "Vincent Carenzi",
+          "url": "https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B"
+        },
+        {
+          "name": "Gilbert Sigrist",
+          "url": "https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX"
+        },
+        {
+          "name": "Laurent Sigrist",
+          "url": "https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "Quai aux Fleurs",
+      "url": "https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn"
+    },
+    {
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5f3Gv6mWHhWBCDNoNbsizk"
+      },
+      "artists": [
+        {
+          "name": "Baguette Quartette",
+          "url": "https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Reine de musette",
+      "url": "https://open.spotify.com/track/3bBHMiALWgT39xebBnpgJN"
     },
     {
       "album": {
@@ -1713,6 +2117,50 @@
     },
     {
       "album": {
+        "name": "Il en faudrait si peu (Collection \"Les archives de l'accord\u00e9on\")",
+        "url": "https://open.spotify.com/album/5XWBYQsWBSCIM3iFTzu5hi"
+      },
+      "artists": [
+        {
+          "name": "Gilbert Roussel",
+          "url": "https://open.spotify.com/artist/5pIaaeMGL31kC7Jz2ZU0K1"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho"
+    },
+    {
+      "album": {
+        "name": "French Cafe Music",
+        "url": "https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Colin",
+          "url": "https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F"
+        },
+        {
+          "name": "Dominique Cravic",
+          "url": "https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8"
+        },
+        {
+          "name": "Claire Elzi\u00e8re",
+          "url": "https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107800,
+      "name": "Sous les ponts de Paris",
+      "url": "https://open.spotify.com/track/7EPUfhGSOEA2oJ7l7eIMHZ"
+    },
+    {
+      "album": {
         "name": "Fleur D'ennui",
         "url": "https://open.spotify.com/album/4XAQbww740j53SaJCHFXCU"
       },
@@ -1750,6 +2198,32 @@
       "duration_ms": 185165,
       "name": "Sunbeam Bossa",
       "url": "https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH"
+      },
+      "artists": [
+        {
+          "name": "Vincent Carenzi",
+          "url": "https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B"
+        },
+        {
+          "name": "Gilbert Sigrist",
+          "url": "https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX"
+        },
+        {
+          "name": "Laurent Sigrist",
+          "url": "https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144233,
+      "name": "Sur la Seine",
+      "url": "https://open.spotify.com/track/3rvFCB6mfxK3rmG7rcTA79"
     },
     {
       "album": {
@@ -1902,6 +2376,24 @@
       "duration_ms": 157028,
       "name": "Valse aux Champs-Elysees",
       "url": "https://open.spotify.com/track/5lxtAvtpVeVjBxhtrtF8EA"
+    },
+    {
+      "album": {
+        "name": "Minor Swing",
+        "url": "https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF"
+      },
+      "artists": [
+        {
+          "name": "Jo Privat",
+          "url": "https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142627,
+      "name": "Valse Des Niglos",
+      "url": "https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8"
     },
     {
       "album": {

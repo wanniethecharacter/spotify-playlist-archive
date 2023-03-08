@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 148755,
+  "num_followers": 148892,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MjgwMCwwMDAwMDAwMGU2MjUwYmVjYjMwOWY0MTEzODU2ZmQ2N2Q2Mjk3ZDZh",
+  "snapshot_id": "MTY3Nzc3MjgwMCwwMDAwMDAwMDU5MmVlZjY0YmQ0MTNjOTNlM2VkMDY4NmUxYWRlZmI3",
   "tracks": [
     {
       "added_at": "2023-03-02 16:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-02 16:00:00",
       "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
-    },
-    {
-      "added_at": "2023-03-02 16:00:00",
-      "album": {
         "name": "East Daygo Popstar",
         "url": "https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 222315,
       "name": "Green Tea & Honey",
       "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
+    },
+    {
+      "added_at": "2023-03-02 16:00:00",
+      "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-03-02 16:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-02 16:00:00",
       "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
-    },
-    {
-      "added_at": "2023-03-02 16:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2023-03-02 16:00:00",
+      "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2023-03-02 16:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-02 16:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
-    },
-    {
-      "added_at": "2023-03-02 16:00:00",
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 186432,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz"
+    },
+    {
+      "added_at": "2023-03-02 16:00:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
     },
     {
       "added_at": "2023-03-02 16:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-03-02 16:00:00",
       "album": {
-        "name": "the world could end with you",
-        "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 180722,
-      "name": "the world could end with you",
-      "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
-    },
-    {
-      "added_at": "2023-03-02 16:00:00",
-      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 212224,
       "name": "BEAUTiFUL",
       "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
+    },
+    {
+      "added_at": "2023-03-02 16:00:00",
+      "album": {
+        "name": "the world could end with you",
+        "url": "https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "duration_ms": 180722,
+      "name": "the world could end with you",
+      "url": "https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q"
     },
     {
       "added_at": "2023-03-02 16:00:00",

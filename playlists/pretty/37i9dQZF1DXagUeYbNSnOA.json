@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Digiannia. Updates every Wednesday.",
-  "num_followers": 169074,
+  "num_followers": 169079,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMGEzNmFiMGJiZTRjNmM3OTdlNWY2NTYzMjkzM2ZhZTE0",
+  "snapshot_id": "MTY3NzY5MzYwMCwwMDAwMDAwMDg5ZmU0ZGRkYmI0MjE4ZjE1OWRjZWNmOTdjMjQxNGFk",
   "tracks": [
     {
       "added_at": "2023-03-01 18:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "amarcura",
-        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "cuando viajas",
-      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "yo sad, t\u00fa feliz",
         "url": "https://open.spotify.com/album/2jOpcpQ0ZUNQcRpJaWdcx5"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 161621,
       "name": "yo sad, t\u00fa feliz",
       "url": "https://open.spotify.com/track/4e0SoeqUIO4XpgK4VpV0SO"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "amarcura",
+        "url": "https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "cuando viajas",
+      "url": "https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
+        "name": "cuidao",
+        "url": "https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj"
+      },
+      "artists": [
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "cuidao",
+      "url": "https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
         "name": "No me sale querer",
         "url": "https://open.spotify.com/album/42g65upSU5sj7NtC6dZth3"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 183657,
       "name": "Ansiedad y TV",
       "url": "https://open.spotify.com/track/4fgyRpHJridkqa6um7x47e"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
-        "name": "cuidao",
-        "url": "https://open.spotify.com/album/2h9bXFYYMaykZ3FlSGOSlj"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "cuidao",
-      "url": "https://open.spotify.com/track/6B2xmQgcYZzDESQUjh2l55"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "Mar\u00eda Indebida",
-        "url": "https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax"
-      },
-      "artists": [
-        {
-          "name": "La Zorra Zapata",
-          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
-        }
-      ],
-      "duration_ms": 194723,
-      "name": "Mar\u00eda Indebida",
-      "url": "https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ"
-    },
-    {
-      "added_at": "2023-03-01 18:00:00",
-      "album": {
         "name": "Nobody Got It",
         "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+        "name": "Mar\u00eda Indebida",
+        "url": "https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax"
       },
       "artists": [
         {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+          "name": "La Zorra Zapata",
+          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
         }
       ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
+      "duration_ms": 194723,
+      "name": "Mar\u00eda Indebida",
+      "url": "https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-03-01 18:00:00",
       "album": {
-        "name": "Profundo",
-        "url": "https://open.spotify.com/album/7kAXKKgUTjPe2euhKTI2lq"
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
       },
       "artists": [
         {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
         }
       ],
-      "duration_ms": 185876,
-      "name": "Profundo",
-      "url": "https://open.spotify.com/track/0J99aWnGzS8QiwYrLu4eQD"
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-03-01 18:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 169600,
       "name": "Miento",
       "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
+    },
+    {
+      "added_at": "2023-03-01 18:00:00",
+      "album": {
+        "name": "Profundo",
+        "url": "https://open.spotify.com/album/7kAXKKgUTjPe2euhKTI2lq"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "duration_ms": 185876,
+      "name": "Profundo",
+      "url": "https://open.spotify.com/track/0J99aWnGzS8QiwYrLu4eQD"
     },
     {
       "added_at": "2023-03-01 18:00:00",

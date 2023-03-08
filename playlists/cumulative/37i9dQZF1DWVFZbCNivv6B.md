@@ -4,7 +4,7 @@
 
 > Hip\-hop 100% mexicano, puras rimas de la calle\. Aczino y Gera MX en portada
 
-294 songs - 17 hr 31 min
+295 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-07-01 |  |
 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 | 2022-11-25 |  |
 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 | 2022-10-28 | 2023-03-04 |
+| [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-03-07 |  |
 | [Si Me Ven](https://open.spotify.com/track/78OauUHA9r0rWFGEOMArs7) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Si Me Ven](https://open.spotify.com/album/7nxJGvXy3X67D5DITVqFQS) | 3:05 | 2022-01-28 | 2022-04-23 |
 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 | 2023-01-11 |  |
 | [Si Supieras](https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D) | [Barbarela](https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Si Supieras](https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ) | 2:26 | 2023-01-13 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Neima Ezza, Icy Subzero&Tony Effe \(cover\), Bresh e tanti altri!
 
-1,391 songs - 2 day 15 hr 42 min
+1,392 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1240,7 +1240,7 @@
 | [TAPPETO VOLANTE](https://open.spotify.com/track/7iSTM4ohW0oDdvhkkoe1Wn) | [Charles Muda](https://open.spotify.com/artist/3MF5fxi7CZh0UZL5mIyqzX) | [SMETTERE](https://open.spotify.com/album/7izZwresxb6Lmiv2yJVc5d) | 2:55 | 2022-07-07 | 2022-07-22 |
 | [Tarantella](https://open.spotify.com/track/16BJyQiv2RiP6GNxa1W8G4) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Gumma Vybz](https://open.spotify.com/artist/3XOuRvla4WvUpc7jpO5b9P) | [Tarantella](https://open.spotify.com/album/311Rt04S5rnCRonfaO6KA5) | 2:11 | 2023-03-03 |  |
 | [Tardi insieme](https://open.spotify.com/track/0jyF2iogsnyhZd5BGFtics) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tardi insieme](https://open.spotify.com/album/7d66CkPBNjrzsAVDpRbQvT) | 2:09 | 2022-05-12 | 2022-05-20 |
-| [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-02-16 |  |
+| [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-02-16 | 2023-03-08 |
 | [TAXI](https://open.spotify.com/track/2jJpEaES8hhNysT2d3yPGc) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [TAXI](https://open.spotify.com/album/2ODeD4PHuifsm7n6ea9ZaN) | 2:15 | 2022-12-09 | 2022-12-24 |
 | [Tchikita](https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tchikita](https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE) | 2:36 | 2022-10-07 | 2022-11-11 |
 | [TCHOP](https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [TCHOP](https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW) | 3:01 | 2023-02-03 | 2023-03-03 |
@@ -1315,6 +1315,7 @@
 | [Una Vita](https://open.spotify.com/track/05U4CaS902wj5esC7CpFf7) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Una Vita](https://open.spotify.com/album/3EhyuLueH3k3nVf0dPf1oN) | 3:13 | 2023-01-26 | 2023-02-10 |
 | [Underrated](https://open.spotify.com/track/2Pt94XBTq6m3Je95DBaJZu) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Underrated](https://open.spotify.com/album/3eQ3j9NdRjAr8yeZbLAbLb) | 3:05 | 2023-01-19 | 2023-02-24 |
 | [Universo \(feat\. Neffa & Fabri Fibra\)](https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Universo \(feat\. Neffa & Fabri Fibra\)](https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93) | 3:24 | 2022-10-13 | 2022-11-04 |
+| [Uno9999](https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Uno9999](https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS) | 3:27 | 2023-03-07 |  |
 | [Upgrading](https://open.spotify.com/track/2l9BLoVTu76LArkicVEzBI) | [Nobody](https://open.spotify.com/artist/5pqvIYhqL6Sb3PB5XCjd13), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Upgrading](https://open.spotify.com/album/4x45k0bmMqor60QheebaTZ) | 2:19 | 2022-05-19 | 2022-05-28 |
 | [UTOPIA](https://open.spotify.com/track/06KTz2GaqpDKC9EN4gtobB) | [Italo Guccio](https://open.spotify.com/artist/7d6zzu4lZoQENAQGiB85uJ) | [UTOPIA](https://open.spotify.com/album/31JI4W41lVyuGw1y0yGi47) | 2:46 | 2022-10-13 | 2022-10-21 |
 | [Uzi](https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ) | [Trap God](https://open.spotify.com/artist/39yVrqHlEzhfH3juNpSRvz), [Sghenny Madattak](https://open.spotify.com/artist/7BvgAL2eNaLZ4S3XkwqE0u) | [Uzi](https://open.spotify.com/album/7HUaGiOfqxeHHSI84DUWGX) | 1:38 | 2022-09-08 | 2022-09-16 |

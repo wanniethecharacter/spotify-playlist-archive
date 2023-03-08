@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 48142,
+  "num_followers": 48332,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDI4MmRhNWJlY2M3ZTZlODFkMDE5MTg4OWQzYzcyYWY0",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDUyZDY3MmE4ODk4MTEyNzI5MzdlNmQ0OTVlYTdiMmRm",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "JoJo",
-        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Femme Fatale (Deluxe Version)",
         "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 210266,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "JoJo",
+        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Dance Love Pop (The Love Love Love Edition)",
-        "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
+        "name": "Stars Dance (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
       },
       "artists": [
         {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 256213,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+      "duration_ms": 210293,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Dance Love Pop (The Love Love Love Edition)",
+        "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 256213,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "I Will Never Let You Down",
         "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 203466,
       "name": "I Will Never Let You Down",
       "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Stars Dance (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2OsEJFTfzfjG4oC92cuP2c"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 162595,
+      "name": "Look At Her Now",
+      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 162595,
-      "name": "Look At Her Now",
-      "url": "https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr"
+      "duration_ms": 202906,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Half Written Story",
-        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 216083,
-      "name": "I Love You's",
-      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 221205,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Half Written Story",
+        "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 216083,
+      "name": "I Love You's",
+      "url": "https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 192172,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
       },
       "artists": [
         {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 183280,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
+      "duration_ms": 251320,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
     }
   ],
   "unique_name": "Deserved",

@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "GDPR",
+        "url": "https://open.spotify.com/album/50pO3NjGEEQyGRU9lpVbA6"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "GDPR",
+      "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
+    },
+    {
+      "album": {
         "name": "Gent",
         "url": "https://open.spotify.com/album/485ZUajT3OBSsa0ndRBJvA"
       },

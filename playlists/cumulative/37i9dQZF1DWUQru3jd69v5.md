@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Yunes LaGrintaa e Zeta Cooper in cover.
 
-447 songs - 19 hr 28 min
+448 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [TYPE BEAT SHAWTY](https://open.spotify.com/track/6HFLgj8BnhPwRynNgdAr1I) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 1:42 | 2022-07-01 | 2022-07-22 |
 | [UFC](https://open.spotify.com/track/3T1KXh21ieREyl1TIdxzdb) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [UFC](https://open.spotify.com/album/27pQVLpSz8kAFBwnTc1ZZM) | 2:48 | 2023-02-16 |  |
 | [Una Chance](https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Una Chance](https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy) | 2:53 | 2022-05-10 | 2022-06-03 |
+| [Uno9999](https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Uno9999](https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS) | 3:27 | 2023-03-07 |  |
 | [Uzi](https://open.spotify.com/track/5OAa4e22LQglEWHvV5BjvZ) | [Trap God](https://open.spotify.com/artist/39yVrqHlEzhfH3juNpSRvz), [Sghenny Madattak](https://open.spotify.com/artist/7BvgAL2eNaLZ4S3XkwqE0u) | [Uzi](https://open.spotify.com/album/7HUaGiOfqxeHHSI84DUWGX) | 1:38 | 2022-09-08 | 2022-09-23 |
 | [VAI DISA!](https://open.spotify.com/track/3YX9eZcubS44Cd2LnsykUk) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [VAI DISA!](https://open.spotify.com/album/1z7NSmgTQGpdwWsulZAAmi) | 2:15 | 2022-08-18 | 2022-09-16 |
 | [Vetri fumé \(feat\. Side baby\)](https://open.spotify.com/track/37O38DKQDwRTo3pqXolfyZ) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [Vetri fumé \(feat\. Side baby\)](https://open.spotify.com/album/3icKdrxTd9KULlZhJKIPRk) | 2:54 | 2022-05-10 | 2022-05-27 |

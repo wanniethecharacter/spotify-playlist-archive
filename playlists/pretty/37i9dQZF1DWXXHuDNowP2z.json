@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 75198,
+  "num_followers": 75319,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMDNiM2NlNzBkZDY2OTdmYmNmYzM1NTJjYjk1YTEzN2Ey",
+  "snapshot_id": "MTY3NzIxODQwMCwwMDAwMDAwMGM3MGIxYTRiYjBiYzg2NDNlNDI5ODc0ODFjYmI5NDRj",
   "tracks": [
     {
       "added_at": "2023-02-24 06:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 252888,
       "name": "Te Vez Buena",
       "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 134234,
       "name": "La Flechita",
       "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Chiquilla Cari\u00f1osa",
-      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 171826,
       "name": "El Bigote",
       "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Chiquilla Cari\u00f1osa",
+      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "Una No Es Ninguna",
-        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
-      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
-    },
-    {
-      "added_at": "2023-02-24 06:00:00",
-      "album": {
         "name": "Studio Session, Vol. 1 (Live Session)",
         "url": "https://open.spotify.com/album/5zweVE3EKIBSwqSq7yaF8r"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 240500,
       "name": "Amanda Cierrale - Live Session",
       "url": "https://open.spotify.com/track/1JrP6eV81Lm9X3JzRw9PNy"
+    },
+    {
+      "added_at": "2023-02-24 06:00:00",
+      "album": {
+        "name": "Una No Es Ninguna",
+        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
+      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
     },
     {
       "added_at": "2023-02-24 06:00:00",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2023-02-24 06:00:00",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+        "name": "Simple y Sencillamente",
+        "url": "https://open.spotify.com/album/5gUXeDZJNSAbv8Kdwytqht"
       },
       "artists": [
         {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+          "name": "Estilo Chihuahua",
+          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
         }
       ],
-      "duration_ms": 230471,
-      "name": "La Cuichi",
-      "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
+      "duration_ms": 314044,
+      "name": "Huapangos popurr\u00ed",
+      "url": "https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi"
     }
   ],
   "unique_name": "Cumbias, Huapangos & Zapateados",

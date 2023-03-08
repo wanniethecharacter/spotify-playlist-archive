@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 145153,
+  "num_followers": 145184,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDM3ZjkxNTc3OTAwYTk1MjZhZDU5NzFkOWJmMDAxOWM2",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDRhZWY1MjExYmY3MDMwMTAwODNiNmUzMDc1YmM1MDEz",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Esse Teu Sorriso",
         "url": "https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189240,
       "name": "Esse Teu Sorriso",
       "url": "https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 213698,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1443,42 +1443,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Guts Sessions #1: Menina Linda",
-        "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
-      },
-      "artists": [
-        {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN"
-        },
-        {
-          "name": "N\u00edcolas Walter",
-          "url": "https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa"
-        },
-        {
-          "name": "Lucas Laypold",
-          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
-        },
-        {
-          "name": "Lil Sete",
-          "url": "https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP"
-        },
-        {
-          "name": "Diogo Mariense",
-          "url": "https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l"
-        },
-        {
-          "name": "Neew",
-          "url": "https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH"
-        }
-      ],
-      "duration_ms": 252367,
-      "name": "Guts Sessions #1: Menina Linda",
-      "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Tipo Ac\u00fastico 01 - Partida",
         "url": "https://open.spotify.com/album/31Z6CWZNUy80Vv2a44JL20"
       },
@@ -1519,6 +1483,42 @@
       "duration_ms": 307373,
       "name": "Tipo Ac\u00fastico 01 - Partida",
       "url": "https://open.spotify.com/track/4nPiOvBP7kvNH04Yfz1wae"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Guts Sessions #1: Menina Linda",
+        "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN"
+        },
+        {
+          "name": "N\u00edcolas Walter",
+          "url": "https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa"
+        },
+        {
+          "name": "Lucas Laypold",
+          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
+        },
+        {
+          "name": "Lil Sete",
+          "url": "https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP"
+        },
+        {
+          "name": "Diogo Mariense",
+          "url": "https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l"
+        },
+        {
+          "name": "Neew",
+          "url": "https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH"
+        }
+      ],
+      "duration_ms": 252367,
+      "name": "Guts Sessions #1: Menina Linda",
+      "url": "https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ"
     },
     {
       "added_at": "2023-03-03 03:01:00",

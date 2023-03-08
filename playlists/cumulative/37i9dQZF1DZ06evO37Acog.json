@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Triste Recuerdo (Aferrado Por Ti)",
+        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "La Miedosa",
+      "url": "https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq"
+    },
+    {
+      "album": {
         "name": "La Rama De Mezquite",
         "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"

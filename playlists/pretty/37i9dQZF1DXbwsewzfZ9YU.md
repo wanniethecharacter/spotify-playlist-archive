@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: DRAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017 likes - 76 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 76 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

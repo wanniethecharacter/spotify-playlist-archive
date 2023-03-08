@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Armani Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,603,705 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,603,914 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 30 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
 | 31 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 |
 | 32 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 |
-| 33 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 |
-| 34 | [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 |
-| 35 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
-| 36 | [Moon Roof](https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Moon Roof](https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs) | 3:01 |
+| 33 | [Moon Roof](https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Moon Roof](https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs) | 3:01 |
+| 34 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 |
+| 35 | [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 |
+| 36 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
 | 37 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 |
 | 38 | [Bricks & Bags](https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:42 |
 | 39 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 48 | [Jaguar](https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Cocodrillo Turbo](https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c) | 2:55 |
 | 49 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGZmZmY5ZDMyMzNlYzhjZTM3YmY2YWZjMGNiNWEwZjQ5`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDE2ZDczODljOWRjYzcyZjNkOTQ4NGNkODBmNzYxODM4`

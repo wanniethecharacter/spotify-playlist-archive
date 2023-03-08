@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 1 min
+67 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [7.62 God \(Reloaded\) \[feat\. EST Gee & BIG30\]](https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shiesty Season: Certified](https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE) | 3:32 | 2022-12-03 | 2023-02-16 |
 | [All 100s](https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:11 | 2022-10-28 |  |
 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 | 2022-10-28 |  |
-| [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7BG1Wlc6CjHuwvUg0XzGNw) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:05 | 2023-03-05 |  |
+| [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7BG1Wlc6CjHuwvUg0XzGNw) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:05 | 2023-03-05 | 2023-03-08 |
+| [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 2:05 | 2023-03-07 |  |
 | [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(feat\. EST Gee\)](https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d) | 2:50 | 2022-10-28 |  |
 | [Back and Forth \(feat\. EST Gee\)](https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:01 | 2022-10-28 |  |
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-10-28 |  |
@@ -73,6 +74,6 @@
 | [The Realest \(feat\. Jeezy\)](https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:15 | 2022-10-28 |  |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-10-28 |  |
 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 | 2022-10-28 |  |
-| [Undefeated](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Undefeated](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 | 2023-02-26 |  |
+| [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 | 2023-02-26 |  |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Henry Moodie
+> Discover your favorite new chill pop songs\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,433 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,701 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Falling Apart](https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Hold the Rhythm](https://open.spotify.com/album/4nof0TI1S49a6Gogj33yue) | 3:18 |
 | 2 | [LET EM GO](https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [LET EM GO](https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3) | 3:01 |
-| 3 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 |
+| 3 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 |
 | 4 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 |
-| 5 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 |
-| 6 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
+| 5 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 |
+| 6 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 |
 | 7 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 |
 | 8 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 9 | [free me](https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [free me](https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 79 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 80 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
 
-Snapshot ID: `MTY3Nzg3NDEwMywwMDAwMDAwMGI4YTYyNmE3NjRhODJjZGQyMzc3YzI2OTRlYzA4N2Rh`
+Snapshot ID: `MTY3ODIyMjAyMSwwMDAwMDAwMGYyOGIwZGNlYmUzZTYyYmMyY2FhMDlhMGU3YWFhZWNk`

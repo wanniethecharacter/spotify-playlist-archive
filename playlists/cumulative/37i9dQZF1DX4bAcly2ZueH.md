@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-115 songs - 6 hr 8 min
+116 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 | 2022-10-11 |  |
+| [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 |  |
 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 |  |
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 |  |
@@ -62,7 +63,7 @@
 | [Like I Do](https://open.spotify.com/track/6aUqMFKWVu66RPcSFozJRo) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/6BqJwMta8igGVnteOli3AW) | 2:20 | 2022-10-11 |  |
 | [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 |  |
 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 | 2022-10-11 |  |
-| [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 | 2022-10-11 |  |
+| [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 | 2022-10-11 | 2023-03-08 |
 | [Maru](https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Maru](https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr) | 2:47 | 2022-10-11 |  |
 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 | 2022-10-11 |  |
 | [Mirage](https://open.spotify.com/track/5mV7HHYf0uYQTbk1HWDoCW) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Mirage](https://open.spotify.com/album/245D6HaTivYD87OTFiEr5Q) | 3:13 | 2022-10-11 |  |

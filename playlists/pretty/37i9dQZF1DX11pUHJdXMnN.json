@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 56187,
+  "num_followers": 56197,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDE3OWZiMWU0NWNhNzJlN2FkZGVlM2M2NWE3MWY0NTMy",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDcyMmFjNzlmYmFkNGJjNGI3MmNhMjc5MWU2ZDQ1YmVk",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Floppy Drive EP",
         "url": "https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 278755,
       "name": "First Wave",
       "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
-      },
-      "artists": [
-        {
-          "name": "Monki",
-          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Queen of Hearts",
-      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Dixon Presents Transmoderna Part 2/4",
         "url": "https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 399447,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque"
+      },
+      "artists": [
+        {
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c"
     },
     {
       "added_at": "2021-08-27 15:45:01",

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-726 songs - 1 day 23 hr 52 min
+727 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 | 2023-02-23 |
-| [In Her Arms](https://open.spotify.com/track/5ZbBxrl5NBzZWtFkPNtNBt) | [Hayien](https://open.spotify.com/artist/757lp5rkqNBZKPLeQ5NugB) | [In Her Arms](https://open.spotify.com/album/4RER31DgHSnRZa1yenNonQ) | 2:53 | 2023-02-22 |  |
+| [In Her Arms](https://open.spotify.com/track/5ZbBxrl5NBzZWtFkPNtNBt) | [Hayien](https://open.spotify.com/artist/757lp5rkqNBZKPLeQ5NugB) | [In Her Arms](https://open.spotify.com/album/4RER31DgHSnRZa1yenNonQ) | 2:54 | 2023-02-22 |  |
 | [In Your Arms](https://open.spotify.com/track/2DgaPZppYXSYGCaBceXfTw) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Wonderer](https://open.spotify.com/album/3zmWJr754RgoD1u7BEk2Nk) | 4:39 | 2022-05-23 | 2022-07-30 |
 | [Infinite Source](https://open.spotify.com/track/4Okw5Im49vRlERn4KLMQkc) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Infinite Source](https://open.spotify.com/album/5N8nKM5KhfW2SalKPtNYNA) | 3:03 | 2023-03-06 |  |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
@@ -391,6 +391,7 @@
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-09-23 | 2023-03-07 |
 | [Love Will Let You Down](https://open.spotify.com/track/6mPfje0IYksk2ADSKnzt5H) | [Lounge FM](https://open.spotify.com/artist/6hc0mVCpacCeXn2M8O8nj5) | [Love Will Let You Down](https://open.spotify.com/album/2A0VHH7uZhV8RAyteKOkj4) | 4:25 | 2021-04-02 | 2022-04-19 |
 | [Low Beam](https://open.spotify.com/track/3Bq8UbeWq9MOgwcARIMz4O) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Low Beam](https://open.spotify.com/album/5lGh3AUr39oOyoVpqePxPv) | 4:28 | 2021-04-02 | 2022-07-29 |
+| [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 | 2023-03-07 |  |
 | [Lucid Dream](https://open.spotify.com/track/7kzoKUweUtcgZCyCruojmF) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Glue Trip](https://open.spotify.com/album/77vBVSbov2E7xVdvsiZqYf) | 6:14 | 2022-07-22 | 2022-07-30 |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-02-11 | 2022-07-27 |
 | [Luxury](https://open.spotify.com/track/4MO2wrcoedE7l5QoZGNIiu) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc) | [Write Me off the Show](https://open.spotify.com/album/1Z2y4FrxO6Mrnv8Bc1TR4g) | 3:04 | 2021-11-19 | 2022-06-08 |

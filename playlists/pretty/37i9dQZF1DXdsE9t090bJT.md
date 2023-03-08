@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,188 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,265 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 72 | [Te Metiste](https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:31 |
 | 73 | [Un Loco Enamorado](https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Un Loco Enamorado](https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C) | 3:21 |
 | 74 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
-| 75 | [Porque Tú Llegaste \- Versión Banda](https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Porque Tú Llegaste \(Versión Banda\)](https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM) | 3:19 |
-| 76 | [Adicto](https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Adicto](https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4) | 3:07 |
+| 75 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
+| 76 | [Porque Tú Llegaste \- Versión Banda](https://open.spotify.com/track/7kK0WBjfXWBXrIxgxhpXd9) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Porque Tú Llegaste \(Versión Banda\)](https://open.spotify.com/album/08Gd99qF2Dx89cRRQzhIbM) | 3:19 |
 | 77 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
-| 78 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 |
+| 78 | [Adicto](https://open.spotify.com/track/5mvQxewFOB8Ft4Wz13AwWj) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Adicto](https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4) | 3:07 |
 | 79 | [Nací Para Amarte](https://open.spotify.com/track/6EPVLVH60HAutxzxV4Tb6y) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nací Para Amarte](https://open.spotify.com/album/01GhHCQsul9FkChZCfyW8V) | 4:32 |
 | 80 | [Noches De Desvelo](https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:59 |
 
-Snapshot ID: `MTY3NzUxMTE3NiwwMDAwMDAwMDQ2M2Y2MmUwM2QyNjAxOGEwNDE0YzkwZGQ1YWIwZjk3`
+Snapshot ID: `MTY3NzUxMTE3NiwwMDAwMDAwMDc0NWM0MjEwNmI1NTFiNzI2NGViYjRmY2E4MGUxMzdh`

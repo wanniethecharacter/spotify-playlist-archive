@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > HOW DO WE GET ON HIS CLOSE FRIENDS STORY
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,544 likes - 638 songs - 1 day 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,852 likes - 638 songs - 1 day 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

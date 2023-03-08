@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Wisin, Emilia & Lyanno.
 
-486 songs - 1 day 2 hr 34 min
+487 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Hey Shorty](https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Hey Shorty](https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l) | 3:14 | 2023-01-20 |  |
 | [Hickey](https://open.spotify.com/track/18vPa4e59Td4k020On5sqa) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Hickey](https://open.spotify.com/album/5CGooOr9Im1VwrCRj49yPg) | 3:17 | 2022-01-07 | 2022-04-09 |
 | [Hotel](https://open.spotify.com/track/4k11pkNfqJsq7ZX1TbxBeo) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Hotel](https://open.spotify.com/album/1oOYJiGceppR1wxTUEbpbb) | 2:59 | 2022-09-08 | 2022-10-22 |
-| [Hoy Salí](https://open.spotify.com/track/0lliPJ3GqylrzV4akaDmv9) | [Ren Kai](https://open.spotify.com/artist/4ZUU6PKIrQET7oGxQ0r5zL) | [Hoy Salí](https://open.spotify.com/album/0htuXVNngsOMkFN5kuxCP8) | 2:28 | 2023-02-17 |  |
+| [Hoy Salí](https://open.spotify.com/track/0lliPJ3GqylrzV4akaDmv9) | [Ren Kai](https://open.spotify.com/artist/4ZUU6PKIrQET7oGxQ0r5zL) | [Hoy Salí](https://open.spotify.com/album/0htuXVNngsOMkFN5kuxCP8) | 2:28 | 2023-02-17 | 2023-03-08 |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 | 2022-07-16 |
 | [I Love U](https://open.spotify.com/track/6veV38SFh4H9Uvso2lewOl) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [I Love U](https://open.spotify.com/album/6nJZsSOYEj3qKGzvv2lfiy) | 3:33 | 2022-01-28 | 2022-02-05 |
 | [Idilio](https://open.spotify.com/track/5FtjZf2fUJpwIrAkJwsK21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Idilio](https://open.spotify.com/album/0g8fVIMvb5v9atJ0Uzv42o) | 2:44 | 2022-08-26 | 2022-11-26 |
@@ -465,6 +465,7 @@
 | [Un Trago](https://open.spotify.com/track/51fKrxgweK5TqUEuzYXswm) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [kenser](https://open.spotify.com/artist/0LkUf4EevVseUbsW2hW9ux), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Un Trago](https://open.spotify.com/album/27uCwEABNZgPpwfVj2RrKD) | 3:52 | 2022-01-07 | 2022-03-19 |
 | [Una Llamada](https://open.spotify.com/track/0K1muMnMBrwseIwuswb18q) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Una Llamada](https://open.spotify.com/album/1V9ImHHtf4gyi3FZt9WuWJ) | 3:13 | 2022-01-07 | 2022-01-29 |
 | [Vamonos](https://open.spotify.com/track/2gXYMfVWjXt0gu71VDiW4v) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Vamonos](https://open.spotify.com/album/0QG1YS0sAAg0N27V8wqehq) | 4:11 | 2022-01-28 | 2022-02-09 |
+| [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 | 2023-03-07 |  |
 | [Vete](https://open.spotify.com/track/52x5xGEe3DMahkpDR6aEhX) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Vete](https://open.spotify.com/album/18hHrCTRv4mSGaCHvskuWy) | 3:13 | 2022-05-27 | 2022-06-09 |
 | [Vibra](https://open.spotify.com/track/0DU150UuvrIsqOzAoeB2Zv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 2:33 | 2022-12-09 |  |
 | [Vida](https://open.spotify.com/track/7qUv2Tq895aJc6g4O1F6Zs) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:32 | 2022-10-07 | 2023-02-17 |

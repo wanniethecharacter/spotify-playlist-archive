@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,886 likes - 60 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,942 likes - 60 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 49 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 50 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
 | 51 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
-| 52 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 |
-| 53 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
+| 52 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
+| 53 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 |
 | 54 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
-| 55 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 |
+| 55 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
 | 56 | [Diamonds & Gold \- Live](https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 6:27 |
-| 57 | [Keep Coming Back \- Live](https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 4:35 |
+| 57 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 |
 | 58 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 | 59 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
 | 60 | [Rocket 88 \- Live](https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 7:26 |
 
-Snapshot ID: `MTY3Nzg1ODc4MCwwMDAwMDAwMDE2NGNhMDk1MWJmNDI4Y2FlYjBkNDIyY2UxYzZkMzgw`
+Snapshot ID: `MTY3Nzg1ODc4MCwwMDAwMDAwMGJlOGNhODVkY2NjZTRkNDM4NTI4MGYxYmY1MDU4ODZl`

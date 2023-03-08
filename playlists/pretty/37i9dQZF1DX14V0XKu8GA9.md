@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,048 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,071 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 5 | [Pit Lock](https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Listo](https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j) | [Pit Lock](https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX) | 2:40 |
 | 6 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 |
 | 7 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
-| 8 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
-| 9 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
+| 8 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
+| 9 | [Frontline](https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Frontline](https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j) | 3:04 |
 | 10 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
 | 11 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
 | 12 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 | 35 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMDc3MDg2YmE1MjgwYWM0ODI0OWMyNTdiZmFlNjk4NTgy`
+Snapshot ID: `MTY3NTM5NTQ3MiwwMDAwMDAwMGE4M2Y5ZDgyNTE5MjBmOGE2YWI2MWViYzk4NWRmY2Q3`

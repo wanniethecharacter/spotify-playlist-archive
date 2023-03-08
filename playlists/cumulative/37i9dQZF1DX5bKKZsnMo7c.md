@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-212 songs - 11 hr 44 min
+213 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Gambling Addiction](https://open.spotify.com/track/49K5DbnLuQ20IzlFe1uEhz) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Gambling Addiction](https://open.spotify.com/album/7FgOugktlsg4ODTM29jMzP) | 2:47 | 2022-05-17 | 2022-07-25 |
 | [Genesis](https://open.spotify.com/track/49nE8KUUvy7LGJG1kKqheT) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [Genesis](https://open.spotify.com/album/4yojiZOEenXhf4nPO8EPLq) | 2:28 | 2022-09-02 | 2022-12-10 |
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
-| [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-24 |  |
+| [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-24 | 2023-03-08 |
 | [Golden](https://open.spotify.com/track/4Re3BkmG5JYl2bB2s0yV2b) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Golden](https://open.spotify.com/album/7szpzMClGbgEeP2UhIY2Xf) | 3:32 | 2022-06-07 | 2022-08-04 |
 | [Golden](https://open.spotify.com/track/7wjmwD5nIYWVnHiR3X3PTO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 3:32 | 2022-05-17 | 2022-12-10 |
 | [Goodbye](https://open.spotify.com/track/2JAEfa7DOZJ61TdTCc322N) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE \(DELUXE\)](https://open.spotify.com/album/2ZiKx3dsBYBGMypMTdPoKg) | 4:09 | 2022-10-21 | 2022-11-13 |
@@ -136,6 +136,7 @@
 | [Love of My Life](https://open.spotify.com/track/1NqfSrgNQxrsSVjza5vO9a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/1WaRQUZdZNe5BYyOxLFenk) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [Love of My Life](https://open.spotify.com/track/7c8wJ1DIFvM9e7bHIpgP7a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/12yCH8wFhPPW0cUCFpC8DQ) | 2:55 | 2023-01-27 |  |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-06-25 |
+| [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/0jG7SgyIpQa0ZFBjB8fFDh) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/659uFsMnMpBCnAqiGre77y) | 2:01 | 2023-03-07 |  |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-28 |
 | [Mawce](https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc) | 3:02 | 2022-05-17 | 2022-07-29 |
 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 | 2022-06-07 | 2022-12-10 |

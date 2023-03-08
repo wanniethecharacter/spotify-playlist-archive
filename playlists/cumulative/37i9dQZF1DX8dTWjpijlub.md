@@ -4,7 +4,7 @@
 
 > The champs are here.
 
-228 songs - 12 hr 51 min
+229 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-03 | 2022-07-29 |
 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 | 2022-03-25 | 2022-04-21 |
 | [NO TRENDS](https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/5ESucdNFBDxfVPHprdjfA7) | 2:31 | 2022-02-25 | 2022-07-27 |
-| [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 | 2022-10-14 |  |
+| [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 | 2022-10-14 | 2023-03-08 |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-10-28 | 2022-12-04 |
 | [Noticed](https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Northsbest \(Extended\)](https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr) | 2:45 | 2022-03-25 |  |
 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 | 2021-09-03 | 2022-07-21 |
@@ -206,6 +206,7 @@
 | [THIS IS MY YEAR \(feat\. A Boogie Wit Da Hoodie, Big Sean, Rick Ross & Puff Daddy\)](https://open.spotify.com/track/3pBt8B92anUJVIllwPrIuR) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:27 | 2021-09-03 | 2022-06-25 |
 | [thought i was playing](https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:47 | 2022-02-25 | 2022-07-19 |
 | [Time Today](https://open.spotify.com/track/2bo0HCDcZj8BYjoht9zYgk) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Today](https://open.spotify.com/album/6bhDYrLxUl1AocYR05p91R) | 2:16 | 2021-09-03 | 2022-07-29 |
+| [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2022-11-04 |  |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-10-07 | 2023-02-24 |
 | [Trap Star](https://open.spotify.com/track/1ynZEpoQPz0ylGFCUx7l9u) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 3:52 | 2022-03-25 | 2022-04-18 |
 | [Trophies](https://open.spotify.com/track/77Lpioi8uKcmiwdU8ClD6t) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:42 | 2022-03-25 | 2022-04-21 |

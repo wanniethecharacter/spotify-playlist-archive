@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-555 songs - 23 hr 43 min
+556 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-05-27 |  |
 | [Free Ale](https://open.spotify.com/track/3u7GlA6brJKbJx2PSuY10U) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi) | [Free Ale](https://open.spotify.com/album/6L4y9iYU1sCoUBHzHuTkyU) | 1:36 | 2022-05-27 | 2022-09-24 |
 | [Freedom](https://open.spotify.com/track/5PHIGFF2ikcf0lEGH5D9fZ) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Freedom](https://open.spotify.com/album/4ekcFTkZHjuLXCYMFxZ8Ug) | 2:16 | 2022-05-27 | 2022-09-24 |
-| [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 |  |
+| [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 | 2023-03-08 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-27 |  |
 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-05-27 | 2023-01-03 |
@@ -322,6 +322,7 @@
 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 | 2023-02-19 |  |
 | [Needle and Thread](https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Needle and Thread](https://open.spotify.com/album/1MglpBPFAoUNAoPPtp4Tz0) | 2:46 | 2022-05-27 |  |
 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 | 2022-07-20 | 2023-02-14 |
+| [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 | 2023-02-27 |  |
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-05-27 | 2022-07-29 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-05-27 |  |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-05-27 |  |

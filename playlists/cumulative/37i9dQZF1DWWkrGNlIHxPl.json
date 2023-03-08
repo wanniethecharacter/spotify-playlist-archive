@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "From Gaza, With Love",
+        "url": "https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119747,
+      "name": "From Gaza, With Love",
+      "url": "https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu"
+    },
+    {
+      "album": {
         "name": "Fruitseller",
         "url": "https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC"
       },

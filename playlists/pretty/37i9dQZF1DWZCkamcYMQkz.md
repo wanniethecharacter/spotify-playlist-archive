@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,164 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,325 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 |
 | 100 | [It's Only a Paper Moon](https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Follow Your Heart](https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT) | 3:12 |
 
-Snapshot ID: `MTY3NzgzMjI0NCwwMDAwMDAwMGU5ZTY4NGU5NzEwNzhmZjNiNDYyYjIyMjdlNjUwODli`
+Snapshot ID: `MTY3ODE5NTAxNiwwMDAwMDAwMDBhNDliMjkzNTk3MWRjMDdlMjYyNTY0ZjJjNTNlOWI2`

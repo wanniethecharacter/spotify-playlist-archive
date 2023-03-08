@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Welcome to Post-Hardcore's pantheon. Cover: Finch",
-  "name": "Scream & Shout",
+  "description": "Back to the golden age of the scene. Cover: Underoath",
+  "name": "Chaos Anthems",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 158360,
       "name": "3rd Measurement in C",
       "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 185333,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
@@ -398,6 +416,24 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "album": {
+        "name": "Lead Sails Paper Anchor",
+        "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Becoming the Bull",
+      "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
     },
     {
       "album": {
@@ -736,7 +772,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 244786,
       "name": "Darling",
       "url": "https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo"
@@ -851,6 +887,24 @@
     },
     {
       "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366560,
+      "name": "Demolition Lovers",
+      "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
+    },
+    {
+      "album": {
         "name": "The Second Stage Turbine Blade (Re-Issue)",
         "url": "https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k"
       },
@@ -862,7 +916,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 287866,
       "name": "Devil In Jersey City",
       "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 171831,
       "name": "Error Operator",
       "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
@@ -1168,7 +1222,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
@@ -1262,6 +1316,42 @@
       "duration_ms": 194800,
       "name": "Hey Baby, Here's That Song You Wanted",
       "url": "https://open.spotify.com/track/6RbeLGGRcELEeKjMAplpap"
+    },
+    {
+      "album": {
+        "name": "Scary Kids Scaring Kids",
+        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261240,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+    },
+    {
+      "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "album": {
@@ -1456,7 +1546,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 254853,
       "name": "Image Of The Invisible",
       "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
@@ -1496,6 +1586,24 @@
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
+    },
+    {
+      "album": {
+        "name": "Casually Dressed & Deep In Conversation",
+        "url": "https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Juneau",
+      "url": "https://open.spotify.com/track/6GZRgyUAO1QbqEmMxH1WsH"
     },
     {
       "album": {
@@ -1730,7 +1838,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 224346,
       "name": "Mouths Like Sidewinder Missles",
       "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
@@ -2094,6 +2202,24 @@
       "duration_ms": 318120,
       "name": "Planning a Prison Break",
       "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Pretty Handsome Awkward",
+      "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
     },
     {
       "album": {
@@ -2540,7 +2666,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 210986,
       "name": "Studying Politics",
       "url": "https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z"
@@ -2612,7 +2738,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 171266,
       "name": "The After Dinner Payback",
       "url": "https://open.spotify.com/track/3gBo8grQ7vtZGARZO43MeU"
@@ -2720,7 +2846,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
@@ -3177,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326506,
+      "name": "Vampires Will Never Hurt You",
+      "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
+    },
+    {
+      "album": {
         "name": "A Shipwreck In The Sand (Bonus Track Version)",
         "url": "https://open.spotify.com/album/05OgjuvYwliwjcFq6EFWSA"
       },
@@ -3232,7 +3376,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 211813,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
@@ -3304,7 +3448,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 272400,
       "name": "War All The Time",
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
@@ -3412,7 +3556,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"

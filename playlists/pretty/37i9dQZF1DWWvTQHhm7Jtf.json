@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 12767,
+  "num_followers": 12778,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY1NjAyOSwwMDAwMDAwMDY0ZWY5ZWEzMjBmZWZjMDIwMzY2M2QwZWYyM2VmMmY1",
+  "snapshot_id": "MTY3ODE1OTg5MCwwMDAwMDAwMDM1NGIzYTFmOWVlZjY1ZjhjOTI0NTFmMDA1NmU2MjUy",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B"
     },
     {
-      "added_at": "2022-12-20 22:19:56",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Substrata + Man with a Movie Camera",
@@ -121,6 +105,54 @@
       "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2023-03-07 03:31:30",
+      "album": {
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
+      },
+      "artists": [
+        {
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
+        }
+      ],
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 421463,
+      "name": "Suite Pour L'invisible",
+      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
+    },
+    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -147,54 +179,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2022-12-21 20:36:53",
-      "album": {
-        "name": "Spirits of the River",
-        "url": "https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X"
-      },
-      "artists": [
-        {
-          "name": "Almanacs",
-          "url": "https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa"
-        }
-      ],
-      "duration_ms": 309999,
-      "name": "Mamba Negra",
-      "url": "https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 421463,
-      "name": "Suite Pour L'invisible",
-      "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tower of Silence",
         "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 177255,
       "name": "Claudia, Wilhelm R And Me",
       "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+    },
+    {
+      "added_at": "2022-12-20 22:19:56",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -255,6 +255,22 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2022-12-21 20:36:53",
+      "album": {
+        "name": "Spirits of the River",
+        "url": "https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X"
+      },
+      "artists": [
+        {
+          "name": "Almanacs",
+          "url": "https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa"
+        }
+      ],
+      "duration_ms": 309999,
+      "name": "Mamba Negra",
+      "url": "https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -357,6 +373,22 @@
       "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 155411,
+      "name": "Introspection - Edit",
+      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
+    },
+    {
       "added_at": "2022-05-18 00:27:56",
       "album": {
         "name": "Machinarium Soundtrack",
@@ -391,38 +423,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Introspection (Edit)",
-        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
-      },
-      "artists": [
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 155411,
-      "name": "Introspection - Edit",
-      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Shortwave Ruins",
         "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Kakashi",
-        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
       "artists": [
         {
-          "name": "Yasuaki Shimizu",
-          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 498800,
-      "name": "Umi No Ue Kara",
-      "url": "https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU"
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2021-11-25 22:14:03",
@@ -485,20 +485,20 @@
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
-      "added_at": "2022-12-21 20:53:49",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Patrimonio Inmaterial de la Nada",
-        "url": "https://open.spotify.com/album/1z7yS6GTqHKqG8cKDDMTGQ"
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
       },
       "artists": [
         {
-          "name": "Ezmeralda",
-          "url": "https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA"
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Lucerito Mirando a la Nada",
-      "url": "https://open.spotify.com/track/5XN7z1RPOZhguyhDNZuODa"
+      "duration_ms": 498800,
+      "name": "Umi No Ue Kara",
+      "url": "https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
-      },
-      "artists": [
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i"
+      },
+      "artists": [
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tumblers from the Vault",
-        "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
       "artists": [
         {
-          "name": "Syrinx",
-          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 313746,
-      "name": "Hollywood Dream Trip",
-      "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
+      "duration_ms": 245927,
+      "name": "Palace Posy",
+      "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Tumblers from the Vault",
+        "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
+      },
+      "artists": [
+        {
+          "name": "Syrinx",
+          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "Hollywood Dream Trip",
+      "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Fourth World Vol 1 Possible Musics",
         "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 209040,
       "name": "Delta Rain Dream",
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Tomorrow's Harvest",
-        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Palace Posy",
-      "url": "https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi"
     },
     {
       "added_at": "2022-02-18 05:44:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Trans-Millenia Music",
-        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 278533,
-      "name": "Virgin Ice",
-      "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Oquo",
         "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 160000,
       "name": "Omprovo",
       "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Trans-Millenia Music",
+        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "Virgin Ice",
+      "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
     },
     {
       "added_at": "2021-10-20 18:30:26",

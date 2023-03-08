@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Hugo & Guilherme, DJ Biel do Furduncinho com Gloria Groove, Israel & Rodolffo com Mari Fernandez, Tropkillaz com Sango e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,843,919 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,346 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
-| 2 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/2O8EhkoCxxsOYv87DLAnKA) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
+| 2 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
 | 3 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 |
 | 4 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
 | 5 | [Onde Tu Vai Sentar \- Ao Vivo](https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Onde Tu Vai Sentar \(Ao Vivo\)](https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7) | 3:02 |

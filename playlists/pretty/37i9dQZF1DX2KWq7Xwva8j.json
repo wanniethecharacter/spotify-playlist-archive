@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Queralt Lahoz",
-  "num_followers": 20913,
+  "num_followers": 20928,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMDkxNGExOThmNThkNGJlYjU5Y2ZiNzljOTM3YjkzYTc2",
+  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMDM0M2EyYTFkYmE3ZWQxY2NmZWNlMGU0MjQ3MWYzMzEz",
   "tracks": [
     {
       "added_at": "2023-02-21 12:17:01",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
-      "added_at": "2023-03-07 02:38:18",
+      "added_at": "2023-03-08 00:50:01",
       "album": {
         "name": "Mil Laberintos",
         "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
     },
     {
-      "added_at": "2023-03-07 02:38:18",
+      "added_at": "2023-03-08 00:50:01",
       "album": {
         "name": "Tiro Al Aire",
         "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
@@ -263,6 +263,22 @@
       "duration_ms": 200145,
       "name": "Tiro Al Aire",
       "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+    },
+    {
+      "added_at": "2023-03-08 00:50:01",
+      "album": {
+        "name": "Porque t\u00fa lo sabr\u00edas",
+        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 191806,
+      "name": "Porque t\u00fa lo sabr\u00edas",
+      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -285,20 +301,24 @@
       "url": "https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5"
     },
     {
-      "added_at": "2023-03-07 02:38:18",
+      "added_at": "2023-03-08 00:50:01",
       "album": {
-        "name": "Porque t\u00fa lo sabr\u00edas",
-        "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
+        "name": "C\u00e1psula Espacial",
+        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
         }
       ],
-      "duration_ms": 191806,
-      "name": "Porque t\u00fa lo sabr\u00edas",
-      "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
+      "duration_ms": 156800,
+      "name": "C\u00e1psula Espacial",
+      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -319,26 +339,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-03-07 02:38:18",
-      "album": {
-        "name": "C\u00e1psula Espacial",
-        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "C\u00e1psula Espacial",
-      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -427,22 +427,18 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -529,6 +529,22 @@
       "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
     },
     {
+      "added_at": "2023-03-08 00:50:01",
+      "album": {
+        "name": "Muchas gracias por venir",
+        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 202156,
+      "name": "Muchas gracias por venir",
+      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
+    },
+    {
       "added_at": "2023-02-21 12:17:01",
       "album": {
         "name": "Del cielo",
@@ -559,22 +575,6 @@
       "duration_ms": 165882,
       "name": "Ca\u00edmos las dos",
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
-    },
-    {
-      "added_at": "2023-03-07 02:38:18",
-      "album": {
-        "name": "Muchas gracias por venir",
-        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 202156,
-      "name": "Muchas gracias por venir",
-      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173200,
       "name": "La Broma De Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-02-21 12:17:01",

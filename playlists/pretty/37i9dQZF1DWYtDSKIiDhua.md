@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: The Weeknd, Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,123 likes - 84 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,210 likes - 84 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

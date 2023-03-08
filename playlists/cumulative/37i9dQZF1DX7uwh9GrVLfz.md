@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ヤバイTシャツ屋さん \(Yabai T\-shirts yasan\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり \(Haru Nemuri\)
 
-519 songs - 1 day 4 hr 21 min
+520 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [After 30 years](https://open.spotify.com/track/3HbdkqhTM4maDSnNI5bV1b) | [LABRET](https://open.spotify.com/artist/28gEh6RZDT8AHNjm78kEfY) | [AFTER 30 YEARS](https://open.spotify.com/album/24wJdb9QkcqtqWIF8yxnca) | 3:16 | 2022-06-28 | 2022-07-20 |
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2022-08-19 |
+| [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-07 |  |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |
 | [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 | 2022-08-18 |
 | [Awaking Now](https://open.spotify.com/track/4WAmdwMGWeWW85onNiOw84) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [Trajectory](https://open.spotify.com/album/1hCK81KZpUEhQHrk7s3mYh) | 2:28 | 2022-05-12 | 2022-07-21 |
@@ -134,8 +135,8 @@
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-12 | 2022-12-20 |
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
 | [Homies](https://open.spotify.com/track/5ET2DvVkvKHIdCIVuIcGlm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Home is…](https://open.spotify.com/album/7esl263ge8LFdNp7giZhNY) | 2:43 | 2022-06-07 | 2022-07-29 |
-| [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 | 2023-03-07 |
-| [Hurdle Race](https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 2:35 | 2023-02-10 |  |
+| [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 |  |
+| [Hurdle Race](https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 2:35 | 2023-02-10 | 2023-03-08 |
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
 | [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 | 2023-03-01 |
@@ -219,9 +220,9 @@
 | [None Of Your Business](https://open.spotify.com/track/4DI9gLWCpVKhQkGTRzmYmu) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [SPECIES](https://open.spotify.com/album/7CQlJXuU0JXXbolokiPLVK) | 3:56 | 2022-07-21 | 2022-10-18 |
 | [Notebook](https://open.spotify.com/track/1eIXwS3xCwOjfZIcWViSaT) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [TRIAD](https://open.spotify.com/album/5jvnjgeVUYCKJVmndNq5nQ) | 2:18 | 2022-05-12 | 2022-07-26 |
 | [Ode to Joy](https://open.spotify.com/track/1PP762X3mGJl5OnW4TwK6Q) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:48 | 2023-02-21 | 2023-02-23 |
-| [Ode to Joy](https://open.spotify.com/track/5OVuQtzwNxAL3V5Y4daijB) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:48 | 2023-02-21 |  |
+| [Ode to Joy](https://open.spotify.com/track/5OVuQtzwNxAL3V5Y4daijB) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:48 | 2023-02-21 | 2023-03-08 |
 | [OFF THE WALL](https://open.spotify.com/track/1UFagrhLahtfM5bpC2a938) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:04 | 2022-05-17 | 2022-07-20 |
-| [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 | 2023-03-01 |
+| [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 |  |
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-12 | 2022-07-27 |
 | [Omotesando](https://open.spotify.com/track/2VIqACtFptv3Y1Z7rT5zpp) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/3nLvQzElvXxOBAqemV0rqo) | 2:04 | 2022-11-17 | 2022-12-21 |
 | [on my way](https://open.spotify.com/track/1pL9q42ZQuu05GaWK2KutY) | [LEGAL RUSH](https://open.spotify.com/artist/3FbEdSZOvGICjM2Qs7pQQ0) | [on my way](https://open.spotify.com/album/5ZLuPHzi4JwaSUsj6P8VDP) | 1:31 | 2022-07-14 | 2022-07-25 |
@@ -260,7 +261,7 @@
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2022-05-17 | 2022-07-29 |
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
-| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2023-02-23 |
+| [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 |  |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-12-04 |
@@ -321,7 +322,7 @@
 | [Sweet8beat](https://open.spotify.com/track/6Zs9nJ3th9ExyzygXdSfjJ) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Sweet8beat](https://open.spotify.com/album/64Nc3eTnqRlwRoiVmDLlm8) | 3:58 | 2022-05-12 | 2022-07-06 |
 | [Take Off!!](https://open.spotify.com/track/5KOyDAveuaIds6qRoU0M26) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [SCREAM ON THE BOARD!!](https://open.spotify.com/album/7dnFrpMSja30CeY70L8dPQ) | 2:07 | 2022-05-17 | 2022-07-22 |
 | [Tell Me Christmas](https://open.spotify.com/track/1gfRBvssKxEF5DoHsUyhtr) | [マッドネスマンボウ](https://open.spotify.com/artist/5vZ26wkzaUAQ6DqpjOZRG4) | [Tell Me Christmas](https://open.spotify.com/album/54shjZ5TvsTN66lpDusq81) | 3:08 | 2022-12-15 | 2022-12-21 |
-| [Tenshi no Rock](https://open.spotify.com/track/39Fk6WLmjFBjXx6D6pIg2f) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:18 | 2023-02-21 |  |
+| [Tenshi no Rock](https://open.spotify.com/track/39Fk6WLmjFBjXx6D6pIg2f) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:18 | 2023-02-21 | 2023-03-08 |
 | [Thanks](https://open.spotify.com/track/5NVZ8qhpvBM2ni14PcL6Gs) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 2:48 | 2022-05-12 | 2022-07-29 |
 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 | 2022-07-21 | 2022-12-08 |
 | [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 | 2022-05-12 | 2023-02-22 |
@@ -373,7 +374,7 @@
 | [YELLOW](https://open.spotify.com/track/17uHwqgjol5Yszx6PrdE6z) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [YELLOW](https://open.spotify.com/album/3rU1y1VZundBvMRyLd2n47) | 2:48 | 2022-06-02 | 2022-07-23 |
 | [YES](https://open.spotify.com/track/7t4aDuE9jG3HIdnFL6pjkP) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [YES](https://open.spotify.com/album/638FZbjRqSA9uC5Axw9Zyz) | 1:21 | 2022-05-24 | 2022-07-27 |
 | [YOU'RE MY FRIEND](https://open.spotify.com/track/6z0ur2QkD9cLh96x4mH5R2) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [YOU'RE MY FRIEND](https://open.spotify.com/album/1oF4xfSko2D8aI5EvBodi5) | 3:08 | 2022-05-12 | 2022-07-24 |
-| [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 | 2023-02-21 |  |
+| [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 | 2023-02-21 | 2023-03-08 |
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
 | [Zero](https://open.spotify.com/track/5styNIwvP009zHUCdIsZlo) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Zero \- Single](https://open.spotify.com/album/0tyftZWAOYq3wh9bVrCR5J) | 4:11 | 2022-05-19 | 2022-07-11 |
 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 | 2023-02-11 |

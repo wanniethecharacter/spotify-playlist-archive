@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 28378,
+  "num_followers": 28432,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMTg5NywwMDAwMDAwMDE3OThmYjliMDNjMGJhODE3NzhmOTNmYmVjNGFjZTg5",
+  "snapshot_id": "MTY3ODEyMTg5NywwMDAwMDAwMDRjZTNjNGRiOWEzM2ZiMzc4MzBiZTdkZDliZjE4ZmVj",
   "tracks": [
     {
       "added_at": "2023-02-28 13:16:04",
@@ -811,38 +811,6 @@
     {
       "added_at": "2023-02-28 13:16:04",
       "album": {
-        "name": "Tubar\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
-      },
-      "artists": [
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        },
-        {
-          "name": "Tchakabum",
-          "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "mc jhenny",
-          "url": "https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6"
-        },
-        {
-          "name": "Mc RF",
-          "url": "https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ"
-        }
-      ],
-      "duration_ms": 149076,
-      "name": "Tubar\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
-    },
-    {
-      "added_at": "2023-02-28 13:16:04",
-      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 85360,
       "name": "nuts",
       "url": "https://open.spotify.com/track/11k8KTbNeG9iabeNXMuwf0"
+    },
+    {
+      "added_at": "2023-02-28 13:16:04",
+      "album": {
+        "name": "Tubar\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
+      },
+      "artists": [
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        },
+        {
+          "name": "Tchakabum",
+          "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "mc jhenny",
+          "url": "https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6"
+        },
+        {
+          "name": "Mc RF",
+          "url": "https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ"
+        }
+      ],
+      "duration_ms": 149076,
+      "name": "Tubar\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
     },
     {
       "added_at": "2023-02-28 13:16:04",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-02-28 13:16:04",
       "album": {
-        "name": "Parado no Bail\u00e3o",
-        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Parado no Bail\u00e3o",
-      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
-    },
-    {
-      "added_at": "2023-02-28 13:16:04",
-      "album": {
         "name": "My Ordinary Life",
         "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2023-02-28 13:16:04",
+      "album": {
+        "name": "Parado no Bail\u00e3o",
+        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
+      },
+      "artists": [
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "MC Gury",
+          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Parado no Bail\u00e3o",
+      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
     },
     {
       "added_at": "2023-02-28 13:16:04",

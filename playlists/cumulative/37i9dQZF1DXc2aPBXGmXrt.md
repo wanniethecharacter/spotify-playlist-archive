@@ -4,7 +4,7 @@
 
 > This is the essential Justin Bieber.
 
-95 songs - 5 hr 21 min
+96 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [One Less Lonely Girl](https://open.spotify.com/track/7qUcqYzOtfZe65bednDxmz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My Worlds \(International Version\)](https://open.spotify.com/album/6gdLfnf2vdNlMTyhJHaDLs) | 3:49 | 2021-11-17 | 2022-07-29 |
 | [One Time](https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:35 | 2021-11-17 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-11-17 |  |
+| [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/4EDTT4kSqfpc0FKuxfNo2E) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/album/3UeapbH1wFSnDjCjraZMQ2) | 3:58 | 2023-03-07 |  |
 | [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2022-04-29 |  |
 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 | 2021-11-17 | 2022-07-29 |
 | [Purpose](https://open.spotify.com/track/4akknPSIJH8JZOadthgXkR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Cozy Songs 2020](https://open.spotify.com/album/4UkruAvphs0CweRwOdbiLb) | 3:30 | 2022-09-02 | 2022-11-14 |

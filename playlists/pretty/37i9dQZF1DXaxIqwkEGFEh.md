@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,072 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,106 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 5 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 |
 | 6 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 |
 | 7 | [Dirt](https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dirt](https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2) | 3:19 |
-| 8 | [Undefeated](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Undefeated](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
+| 8 | [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 |
 | 9 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 |
 | 10 | [Kant Nobody \(feat\. DMX\)](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Kant Nobody](https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24) | 3:00 |
-| 11 | [Trappin n Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
+| 11 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
 | 12 | [Highly Performing](https://open.spotify.com/track/0JaoDZZej4Hwbn2FT0Nskn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Humble As Ever](https://open.spotify.com/album/4Qv3R7YIc3LsYfO91qCiqE) | 3:25 |
 | 13 | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/album/4TWBAJq0lSGNDG9tKu2Bas) | 3:43 |
 | 14 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |

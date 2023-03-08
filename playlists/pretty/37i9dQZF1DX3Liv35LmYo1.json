@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102691,
+  "num_followers": 102716,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMGY4NDIxMTM4NWI0YjM1ODhhN2UxMTBmNDhlYzc3ZmM5",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMGY2OWU4YzhhNjgyOWUyOTQyNGEzNzhjZTQxMDM4NGMy",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 181873,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Orsay",
-        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 246363,
-      "name": "Orsay",
-      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -63,6 +47,22 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Orsay",
+        "url": "https://open.spotify.com/album/1AbtwU50Jik6zPT1kvsIZ4"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 246363,
+      "name": "Orsay",
+      "url": "https://open.spotify.com/track/5sUKkQzT6ZrCQPV65hnkx8"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
+      "added_at": "2023-03-08 01:23:52",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
+      "added_at": "2023-03-08 01:23:52",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
+      "added_at": "2023-03-08 01:23:52",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
+      "added_at": "2023-03-08 01:23:52",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
         }
       ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+      "duration_ms": 224655,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 269995,
       "name": "Strong - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5"
-      },
-      "artists": [
-        {
-          "name": "OLAN",
-          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
-        }
-      ],
-      "duration_ms": 224655,
-      "name": "Contra",
-      "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -673,42 +673,6 @@
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
-      "album": {
-        "name": "Cellular",
-        "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
-      },
-      "artists": [
-        {
-          "name": "DJOKO",
-          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
-        },
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 425204,
-      "name": "Cellular",
-      "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
       "added_at": "2023-02-09 13:00:00",
       "album": {
         "name": "fall back",
@@ -735,18 +699,38 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
         }
       ],
-      "duration_ms": 213441,
-      "name": "Clavicle",
-      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2023-03-08 01:23:52",
+      "album": {
+        "name": "Cellular",
+        "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
+      },
+      "artists": [
+        {
+          "name": "DJOKO",
+          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 425204,
+      "name": "Cellular",
+      "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -767,22 +751,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Closure (feat. Helena)",
-        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        },
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 270536,
-      "name": "Closure (feat. Helena)",
-      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
+      "duration_ms": 213441,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -799,6 +779,26 @@
       "duration_ms": 388735,
       "name": "Whipbird Dub",
       "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Closure (feat. Helena)",
+        "url": "https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        },
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm"
+        }
+      ],
+      "duration_ms": 270536,
+      "name": "Closure (feat. Helena)",
+      "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 228198,
       "name": "Bleu - Radio Edit",
       "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1029,7 +1029,23 @@
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
-      "added_at": "2023-03-07 02:35:38",
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-03-08 01:23:52",
       "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
@@ -1063,22 +1079,6 @@
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Can Do This",
-        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 228609,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "Can Do This",
+        "url": "https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 228609,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup"
     }
   ],
   "unique_name": "Night Shift",

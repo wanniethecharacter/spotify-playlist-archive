@@ -3225,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "Slow Drift",
+        "url": "https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ"
+      },
+      "artists": [
+        {
+          "name": "CRXSS",
+          "url": "https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo"
+        },
+        {
+          "name": "Xyla",
+          "url": "https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168398,
+      "name": "Slow Drift",
+      "url": "https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE"
+    },
+    {
+      "album": {
         "name": "SORCERER",
         "url": "https://open.spotify.com/album/4l6QbiloEiRsDBMDNykNBg"
       },

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Finesse, Shiva, Sfera, Guè
 
-234 songs - 11 hr 39 min
+235 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-06-02 |  |
 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 | 2022-06-12 |  |
 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 | 2022-09-08 | 2022-09-29 |
-| [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 |  |
+| [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 | 2022-05-09 | 2023-03-08 |
 | [CELL \(feat\. Rose Villain, Ghali\)](https://open.spotify.com/track/52o5vmiZYvQinAT8QqZ7Rw) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:01 | 2022-11-07 | 2023-01-13 |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-02-14 | 2023-02-24 |
 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 | 2023-02-09 |  |
@@ -240,6 +240,7 @@
 | [Vorrei \(feat\. Lazza\)](https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:11 | 2022-11-24 |  |
 | [WEED, SOLDI, SESSO \(feat\. Gemitaiz\)](https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 3:13 | 2022-06-02 | 2022-06-17 |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 |  |
+| [Yamamay](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Yamamay](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-03-07 |  |
 | [ye@h \(feat\. Shiva\)](https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:36 | 2022-09-29 | 2022-11-08 |
 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/2VyZWWKamfq7kVnh5gMgPd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:38 | 2022-05-09 | 2022-05-13 |
 

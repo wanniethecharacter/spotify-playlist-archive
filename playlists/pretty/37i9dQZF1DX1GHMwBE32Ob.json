@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Seyi Vibes, BNXN, Kizz Daniel ",
-  "num_followers": 11338,
+  "num_followers": 5097,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDc0NCwwMDAwMDAwMGVkZDk4MGZmYjAzMDkyNmVkMThhOTFmNzM4NDZhN2Ux",
+  "snapshot_id": "MTY3NzgzMDc0NCwwMDAwMDAwMDVmNzY4OWQ1NGJmZjgxYmViNDkzMmE4ZjdiZGY1MjE2",
   "tracks": [
     {
       "added_at": "2023-02-03 04:43:37",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-02-03 04:43:37",
       "album": {
+        "name": "Sinym (Sarz Is Not Your Mate)",
+        "url": "https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Celetronic Riddim",
+      "url": "https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs"
+    },
+    {
+      "added_at": "2023-02-03 04:43:37",
+      "album": {
         "name": "SDM (Spray D Money)",
         "url": "https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 164764,
       "name": "SDM (Spray D Money)",
       "url": "https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou"
-    },
-    {
-      "added_at": "2023-02-03 04:43:37",
-      "album": {
-        "name": "Sinym (Sarz Is Not Your Mate)",
-        "url": "https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Celetronic Riddim",
-      "url": "https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs"
     }
   ],
   "unique_name": "Street Energy ",

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-201 songs - 17 hr 51 min
+202 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2022-07-27 |
+| [i'm lost](https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH) | [Magician of W21](https://open.spotify.com/artist/4qWysN8Ub3gWFUXjkZrsck) | [darkpath](https://open.spotify.com/album/3y4UnRclOikrK3o9NAJgbD) | 1:19 | 2023-02-17 |  |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
 | [In Waves](https://open.spotify.com/track/4M9tpdXFcV41nJgLiuEEM8) | [Loke Rahbek](https://open.spotify.com/artist/6fiX1FdXGRLUMN8xvwfgpw), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz) | [Elephant](https://open.spotify.com/album/5dcLbUaWSJPcYykHbhEIBs) | 3:16 | 2022-01-21 |  |
 | [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 | 2022-01-21 |  |
@@ -99,7 +100,7 @@
 | [Little One](https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Feelings](https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw) | 2:22 | 2022-01-28 |  |
 | [Ljusdal](https://open.spotify.com/track/7H6PFuHnGNkoEOwWgwGkuo) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5WGM2nY7EKogs7tOTnebHi) | 5:08 | 2022-12-30 |  |
 | [Ljusdal](https://open.spotify.com/track/7xr2Gkl3u6gOVa11PPBr1J) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5795LZIYAuces2kT5rXibb) | 5:08 | 2022-02-04 | 2022-07-29 |
-| [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 | 2022-01-21 |  |
+| [Loneliness of Earth \(Varg´s Ursviken version\)](https://open.spotify.com/track/4uJiT3ZeO7jgMgPxBRh6zG) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Loneliness of Earth \(Varg´s Ursviken Version\)](https://open.spotify.com/album/1GUm0mjbKPrBbMrTSFPTYo) | 5:06 | 2022-01-21 | 2023-03-08 |
 | [Low Smoulder](https://open.spotify.com/track/7d8ZJaA8vvqu3FoIhGZ73V) | [William Ryan Fritch](https://open.spotify.com/artist/4uKt0y4zMxjivxkjDsT3gl) | [Low Smoulder / Canary](https://open.spotify.com/album/3bUoijDzf8zWf0KfYF1OA1) | 6:26 | 2022-01-21 |  |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 |  |
 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 | 2022-03-04 | 2022-07-28 |

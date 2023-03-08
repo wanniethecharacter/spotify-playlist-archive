@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 323031,
+  "num_followers": 323075,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGQ3NmJlMDA2NDc0YjU0MWVkZGNmYmYyZDA1Y2YyYzI0",
+  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGU2NjVhZDFhZGNlNWQzM2Y5ZTFiYzc1Nzc0NDgyNDI2",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
-      },
-      "artists": [
-        {
-          "name": "Eddie Holman",
-          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Hey There Lonely Girl",
-      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Up on the Roof: The Best of the Drifters",
         "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 146813,
       "name": "This Magic Moment",
       "url": "https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
+      },
+      "artists": [
+        {
+          "name": "Eddie Holman",
+          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Hey There Lonely Girl",
+      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
     },
     {
       "added_at": "2022-03-04 21:48:30",

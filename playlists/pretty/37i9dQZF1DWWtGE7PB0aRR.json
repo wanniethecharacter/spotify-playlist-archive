@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 112288,
+  "num_followers": 112348,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDkzNTk1MjVkMzNiYmQyNjU5ODJhY2M1ZWNlNDBlYzVj",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDAxMDI2ZjE5YWNhMzZjZWNhZWI2OWFmYWRjNzA0ZDFm",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "On The Boards",
-        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
-      },
-      "artists": [
-        {
-          "name": "Taste",
-          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Railway And Gun",
-      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Bridge Of Sighs (2007 Remaster)",
         "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 235720,
       "name": "The Fool and Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "On The Boards",
+        "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
+      },
+      "artists": [
+        {
+          "name": "Taste",
+          "url": "https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Railway And Gun",
+      "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -495,26 +495,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Gonks Go Beat (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i"
+        "name": "Spooky Two",
+        "url": "https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp"
       },
       "artists": [
         {
-          "name": "The Graham Bond Organisation",
-          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
-        },
-        {
-          "name": "Jack Bruce",
-          "url": "https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV"
-        },
-        {
-          "name": "Ginger Baker",
-          "url": "https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw"
+          "name": "Spooky Tooth",
+          "url": "https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u"
         }
       ],
-      "duration_ms": 169850,
-      "name": "Harmonica",
-      "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
+      "duration_ms": 548826,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -539,18 +531,26 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Spooky Two",
-        "url": "https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp"
+        "name": "Gonks Go Beat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i"
       },
       "artists": [
         {
-          "name": "Spooky Tooth",
-          "url": "https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u"
+          "name": "The Graham Bond Organisation",
+          "url": "https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff"
+        },
+        {
+          "name": "Jack Bruce",
+          "url": "https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV"
+        },
+        {
+          "name": "Ginger Baker",
+          "url": "https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw"
         }
       ],
-      "duration_ms": 548826,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr"
+      "duration_ms": 169850,
+      "name": "Harmonica",
+      "url": "https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 321160,
+      "name": "I Can't Wait Much Longer",
+      "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Blues Helping",
         "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Cries from the Midnight Circus",
-      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
       },
       "artists": [
         {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
         }
       ],
-      "duration_ms": 321160,
-      "name": "I Can't Wait Much Longer",
-      "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
+      "duration_ms": 388200,
+      "name": "Cries from the Midnight Circus",
+      "url": "https://open.spotify.com/track/52Fn9DRxCDZlcjZXXxxqT5"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Shapes of Things",
-      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Eyes Wide Open",
@@ -791,6 +775,22 @@
       "duration_ms": 357813,
       "name": "Won't Be Taken Down",
       "url": "https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Shapes of Things",
+      "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Pigthology",
-        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
-      },
-      "artists": [
-        {
-          "name": "Blodwyn Pig",
-          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Twice Removed from Yesterday",
         "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 162426,
       "name": "Man of the World",
       "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Pigthology",
+        "url": "https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli"
+      },
+      "artists": [
+        {
+          "name": "Blodwyn Pig",
+          "url": "https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 148933,
       "name": "You Shook Me - Alternate Version",
       "url": "https://open.spotify.com/track/1zdIWwLewKA80dpjMHoZKc"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "As Safe As Yesterday Is",
-        "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
-      },
-      "artists": [
-        {
-          "name": "Humble Pie",
-          "url": "https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU"
-        }
-      ],
-      "duration_ms": 387640,
-      "name": "Desperation (Stereo Version)",
-      "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Blues & Gospel (Rare & Unreleased Recordings)",
         "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 450000,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "As Safe As Yesterday Is",
+        "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
+      },
+      "artists": [
+        {
+          "name": "Humble Pie",
+          "url": "https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU"
+        }
+      ],
+      "duration_ms": 387640,
+      "name": "Desperation (Stereo Version)",
+      "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
     }
   ],
   "unique_name": "Brit-Blues",

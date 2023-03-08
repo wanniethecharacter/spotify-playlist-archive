@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 55167,
+  "num_followers": 55183,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA3NTIwMCwwMDAwMDAwMDZkZGQ4MzlhNTYyMzMwZDFhYjlhMGY4MmY2NTVkYjEz",
+  "snapshot_id": "MTY3ODA3NTIwMCwwMDAwMDAwMDgzY2QyZTU4YzQ3OGFhMjY4MjdkNjc0YzcyZjFjYThk",
   "tracks": [
     {
       "added_at": "2023-03-06 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-06 04:00:00",
       "album": {
-        "name": "Body Better",
-        "url": "https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Body Better",
-      "url": "https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v"
+      "duration_ms": 231653,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

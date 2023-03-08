@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-112 songs - 4 hr 57 min
+113 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 | 2023-02-18 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 |  |
 | [apartmnt](https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [apartmnt](https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ) | 1:34 | 2022-12-04 | 2023-02-18 |
+| [battle](https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [battle](https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx) | 1:17 | 2023-03-07 |  |
 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 | 2022-12-16 |  |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-04 |  |
 | [bittersweet teeth](https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [NOT A TOY](https://open.spotify.com/artist/7uiWgFc6g98QsoDKotM3T4) | [bittersweet teeth \(alternate versions\)](https://open.spotify.com/album/795wZH8JkFop6dDOFYXkN6) | 2:22 | 2023-02-24 |  |
@@ -63,7 +64,7 @@
 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 | 2023-03-01 |  |
 | [let her go](https://open.spotify.com/track/2ovFPM5cL34Mo5ZsOD0F7N) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [let her go](https://open.spotify.com/album/20F7eI4lO96MZWyYdPR6Nt) | 2:18 | 2023-03-03 |  |
 | [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 |  |
-| [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 |  |
+| [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2022-12-04 |  |
 | [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 | 2023-02-10 |  |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 | 2023-02-18 |
@@ -85,7 +86,7 @@
 | [Radio Cuts](https://open.spotify.com/track/4z8Np65HXuFFsikXFLPLfR) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [Radio Cuts](https://open.spotify.com/album/1AgoVr8MNQkwPR4z5dohPq) | 1:46 | 2022-12-04 | 2023-02-18 |
 | [red](https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [111](https://open.spotify.com/album/0Evr5vaROxhu2I01MzqlU1) | 2:11 | 2023-02-10 |  |
 | [repeat](https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [repeat](https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f) | 2:42 | 2023-01-26 |  |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 | 2023-03-08 |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 |  |
 | [Send My Love](https://open.spotify.com/track/19peDv7OzX8XnQx6nAomoM) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Send My Love](https://open.spotify.com/album/3vhMcEy0QNZ0S7uE7yu30K) | 2:33 | 2023-02-24 |  |
 | [SET YOU FREE](https://open.spotify.com/track/6dU35fmLnM6yB8tCySkvwC) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [SET YOU FREE](https://open.spotify.com/album/44dlMu3kxAHKgQYxdqeZVQ) | 2:25 | 2022-12-04 |  |

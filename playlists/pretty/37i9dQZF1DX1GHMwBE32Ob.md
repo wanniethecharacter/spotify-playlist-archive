@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibes, BNXN, Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,338 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,097 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 56 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 |
 | 57 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 |
 | 58 | [Geng](https://open.spotify.com/track/1pUaknOVFqwYwExrK3K5zv) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Geng](https://open.spotify.com/album/5V40JgTzx7L2GYMAcj7Rdw) | 2:07 |
-| 59 | [SDM \(Spray D Money\)](https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [SDM \(Spray D Money\)](https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n) | 2:44 |
-| 60 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 |
+| 59 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 |
+| 60 | [SDM \(Spray D Money\)](https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [SDM \(Spray D Money\)](https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n) | 2:44 |
 
-Snapshot ID: `MTY3NzgzMDc0NCwwMDAwMDAwMGVkZDk4MGZmYjAzMDkyNmVkMThhOTFmNzM4NDZhN2Ux`
+Snapshot ID: `MTY3NzgzMDc0NCwwMDAwMDAwMDVmNzY4OWQ1NGJmZjgxYmViNDkzMmE4ZjdiZGY1MjE2`

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 447303,
+  "num_followers": 447389,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGIyYzI1OGJkY2YyNzU4ZWRiNTUyY2VhZTA2NTgyZDUw",
+  "snapshot_id": "MTY3NjA0NTgzMywwMDAwMDAwMGM3Y2VkN2NmMmY1MDI5YWRkOWY4NzI0YjhlMjJhZTJi",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:25",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Resentment",
         "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 227266,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
-      "added_at": "2023-03-07 02:30:38",
+      "added_at": "2023-03-08 01:04:28",
       "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
-      "added_at": "2023-03-07 02:30:38",
+      "added_at": "2023-03-08 01:04:28",
       "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP"
     },
     {
-      "added_at": "2023-03-07 02:30:38",
+      "added_at": "2023-03-08 01:04:28",
       "album": {
         "name": "Evil Finds Light",
         "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 173000,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r"
     },
     {
-      "added_at": "2023-01-27 16:27:25",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "wonderful life (feat. Dani Filth)",
@@ -1061,6 +1045,22 @@
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
     },
     {
+      "added_at": "2023-01-27 16:27:25",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+    },
+    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Pray",
@@ -1075,22 +1075,6 @@
       "duration_ms": 224453,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Hypochondria",
-      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 229896,
+      "name": "Hypochondria",
+      "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Brutalism",
-        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
     },
     {
-      "added_at": "2023-03-07 02:30:38",
-      "album": {
-        "name": "Attainable",
-        "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
-      },
-      "artists": [
-        {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
-        }
-      ],
-      "duration_ms": 103488,
-      "name": "Attainable",
-      "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
@@ -1315,6 +1299,22 @@
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "added_at": "2023-03-08 01:04:28",
+      "album": {
+        "name": "Attainable",
+        "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 103488,
+      "name": "Attainable",
+      "url": "https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "The Love You Let Too Close",
-        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Tradition",
-      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The Love You Let Too Close",
+        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Tradition",
+      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
     },
     {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "Dark Blue",
-        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 169045,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
-    },
-    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "Restless Heart, Keep Running",
@@ -1475,6 +1459,22 @@
       "duration_ms": 227573,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "Dark Blue",
+        "url": "https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 169045,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1597,20 +1597,20 @@
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
-      "added_at": "2023-01-27 16:27:25",
+      "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
+        "name": "Voyeurist",
+        "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
       },
       "artists": [
         {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
+      "duration_ms": 157880,
+      "name": "Damn Excuses",
+      "url": "https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1629,20 +1629,20 @@
       "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
     },
     {
-      "added_at": "2022-12-13 20:10:17",
+      "added_at": "2023-01-27 16:27:25",
       "album": {
-        "name": "Voyeurist",
-        "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
         }
       ],
-      "duration_ms": 157880,
-      "name": "Damn Excuses",
-      "url": "https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH"
+      "duration_ms": 207720,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs"
     }
   ],
   "unique_name": "Crash Course",

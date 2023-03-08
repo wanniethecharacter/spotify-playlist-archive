@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,495 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,895 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 66 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 |
 | 67 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 |
 | 68 | [Never See Me Again](https://open.spotify.com/track/7KQchwvb5bBeGbkQ8E0A1N) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Never See Me Again](https://open.spotify.com/album/1EsUu6pZ6I0NsITBN1Ua9y) | 2:40 |
-| 69 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 |
-| 70 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
+| 69 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
+| 70 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGIzN2ZmYTBhN2YyNzI5YThiZmUwODc3MTE0NGMzMjIx`
+Snapshot ID: `MTY3ODE4MzgxNiwwMDAwMDAwMDIyNDM3OWZlMWM1YjE3ZWI4YTYwMjc2ZDQzZTVjY2Rl`

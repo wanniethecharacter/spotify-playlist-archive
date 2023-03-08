@@ -4,10 +4,11 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-95 songs - 5 hr 50 min
+101 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#FILTER](https://open.spotify.com/track/1La1CnxlYPre0HVUzrRmJ7) | [Princess Shaw](https://open.spotify.com/artist/4nNqSw4oiBkrRjd4vEivbD) | [\#FILTER](https://open.spotify.com/album/2UTgBeM4jyG3prxKgAnHzV) | 4:13 | 2023-03-07 |  |
 | [A Bit like Todayz](https://open.spotify.com/track/2YIHgWe4yVg47gw78GxokQ) | [DJ Destroyer](https://open.spotify.com/artist/3D60ZYCpmUW1j9tog4jKJT) | [A Bit like Todayz](https://open.spotify.com/album/4SnginvNQ6ojUT2UESpVDn) | 4:15 | 2023-03-02 |  |
 | [About You](https://open.spotify.com/track/4N2OBtjqEH8Z84s5LTBAFK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 4:07 | 2023-03-02 |  |
 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 | 2023-03-02 |  |
@@ -23,6 +24,7 @@
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2023-03-02 |  |
 | [Cheers to Poison](https://open.spotify.com/track/0fg2OF9Kn01EyqzdpVTfXY) | [Ghost Suns](https://open.spotify.com/artist/2Bo8KgI2isqJKRePLSiOUJ) | [Cheers to Poison](https://open.spotify.com/album/6gg2lAv6oSiXIlr0LsJ0T4) | 3:41 | 2023-03-02 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/1ncFUsiM3zEqmBNoEHoYGF) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [Bleak Midwinter](https://open.spotify.com/album/7slEjB8JYcqG5pvIZvjcrM) | 3:07 | 2023-03-02 |  |
+| [Christmastime \(Again\)](https://open.spotify.com/track/57IKWxocTDQv5T19LCPbd0) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [Bleak Midwinter](https://open.spotify.com/album/7slEjB8JYcqG5pvIZvjcrM) | 3:32 | 2023-03-07 |  |
 | [Dangerous \(Redux\)](https://open.spotify.com/track/3rSC8JxbxY5m7D5Atkmla4) | [Jaymes Bullet](https://open.spotify.com/artist/3ue5XnHkGOgu580Ndtz71u) | [Dangerous \(Redux\)](https://open.spotify.com/album/5zuFMxqF2aaPIuxzbWZtKG) | 6:06 | 2023-03-02 |  |
 | [Darkness Fades](https://open.spotify.com/track/4vzheKJ4T7vtewqPLH4jBW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong \(Deluxe Edition\)](https://open.spotify.com/album/55k2y2CMY7Xkw7T3t26MTS) | 4:33 | 2023-03-02 |  |
 | [Darling, Be Here](https://open.spotify.com/track/4EJsJiYzrmkOik3IMSIaYE) | [Bodies Of Water](https://open.spotify.com/artist/2T8gi6LXnVJf8XJIdIr2WQ) | [A Certain Feeling](https://open.spotify.com/album/6ESmPiZ7fKfI2elQKpco9u) | 5:18 | 2023-03-02 |  |
@@ -46,6 +48,7 @@
 | [Hey There Cowgirl](https://open.spotify.com/track/0FeEyD4FZqDh78DhShxGCx) | [Palm Springsteen](https://open.spotify.com/artist/0uCRjVc8oWaEvazuCMDOXD) | [Hey There Cowgirl](https://open.spotify.com/album/4hqsi3T2wX4ogN2syEH7LR) | 3:38 | 2023-03-02 |  |
 | [High Above The Sun](https://open.spotify.com/track/2XK6b75sWnHyv32YKyQgQt) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 4:44 | 2023-03-02 |  |
 | [High Beams](https://open.spotify.com/track/28r57p0khZL2C2tpeKENXi) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 3:30 | 2023-03-02 |  |
+| [Hold Me](https://open.spotify.com/track/4kFHcu4nHxsgUUOK5Eeygm) | [Onelight](https://open.spotify.com/artist/0DYKOID9CBlDE9Fsm4YVum), [June Fermie](https://open.spotify.com/artist/7HfKZXAezbbVcEB9qNrBmN) | [EMPORIUM](https://open.spotify.com/album/0AkeGzzUn1PhVdbeApKQU5) | 3:10 | 2023-03-07 |  |
 | [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 | 2023-03-02 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2023-03-02 |  |
 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 | 2023-03-02 |  |
@@ -63,6 +66,7 @@
 | [MMM](https://open.spotify.com/track/60qQekX5FYoDH3LNDLQpFQ) | [Sebastian](https://open.spotify.com/artist/50AH0RAXuSoChcJGjPGeSf) | [Sebastian Vol\. 7](https://open.spotify.com/album/18bRVnduTgeGezNk73QSDQ) | 2:38 | 2023-03-02 |  |
 | [Musa](https://open.spotify.com/track/5yQWLsczzq4zocDUxxlAJ6) | [Matter Of Tact](https://open.spotify.com/artist/5oihtt6C5MRCR8R4fkt4VQ) | [Musa](https://open.spotify.com/album/4tlKZVWHBIg4BG8zAVuWTm) | 3:29 | 2023-03-02 |  |
 | [Music \(I Like It\) \- Part 1](https://open.spotify.com/track/2Jb1h4KCaLwnFW42DNMUUp) | [Benny Sharp & The Sharpies](https://open.spotify.com/artist/61D7cUf6FGUAvPmW8bbR4G) | [The One\-Derful! Collection, Vol\. 5: Midas Records](https://open.spotify.com/album/2tpNiQOSzFHKcxe1p5leGq) | 2:55 | 2023-03-02 |  |
+| [Native Tongue](https://open.spotify.com/track/0xN1i1FbjpdUqsNoUxl78T) | [Spunsugar](https://open.spotify.com/artist/2NDWJvRwXGTFBngWiSNLu9) | [Native Tongue](https://open.spotify.com/album/5M9CiEd9IfSRfVplYj4PMc) | 1:59 | 2023-03-07 |  |
 | [Never Let You Go](https://open.spotify.com/track/1rDBcksBApWqECgPGwI5It) | [People On People](https://open.spotify.com/artist/71mOU281352We1iANampDV) | [Only Heaven](https://open.spotify.com/album/1tXd2npzRkjEAWzvNRLUFA) | 3:35 | 2023-03-02 |  |
 | [Notes](https://open.spotify.com/track/042UcI95xTMzE5gu8Ow9zX) | [Rose Cologne](https://open.spotify.com/artist/4f0Xdf4DakeOXzGRnILimE) | [Dark Alarm](https://open.spotify.com/album/0X86MyQMsOGOzGqRZYt44k) | 3:31 | 2023-03-02 |  |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT) | 4:46 | 2023-03-02 |  |
@@ -72,6 +76,7 @@
 | [Pourquoi pas](https://open.spotify.com/track/5exiWZkZho6AvCGkabEMeA) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:12 | 2023-03-02 |  |
 | [Rain Passing Through](https://open.spotify.com/track/1T57YbED4wpgaRA5Z49P8V) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz), [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Anemoia](https://open.spotify.com/album/0P65IoBOZZ36tbKMfUwILD) | 4:28 | 2023-03-02 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2023-03-02 |  |
+| [Restart](https://open.spotify.com/track/5jGCbDTm5ZXgasOymIwfJV) | [Carlile](https://open.spotify.com/artist/5oVmfRMAc0GXe5c3UJQ3dz) | [Restart](https://open.spotify.com/album/2Dh4QA6lBhNu8xAhs5AYDm) | 4:56 | 2023-03-07 |  |
 | [Revolution](https://open.spotify.com/track/3nrOxadECyhoHzNRpP4IIY) | [Fanny Daggers](https://open.spotify.com/artist/6yUE4Xg5VgPIQzsgJ8Pnd7) | [Revolution](https://open.spotify.com/album/3gVvymSdOeXEKgh2Aw9qMv) | 2:58 | 2023-03-02 |  |
 | [Run Away](https://open.spotify.com/track/7GGkZHuudCVXORI9TSFP19) | [Brighton](https://open.spotify.com/artist/0SEU33r3P5PsuEVLoMG2l8) | [Run Away](https://open.spotify.com/album/4RGZvJhiOIbyBUwt8NX5ld) | 3:05 | 2023-03-02 |  |
 | [Sex To Me](https://open.spotify.com/track/5VYxtmyTV8ZSMLLt6PMyYu) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 3:36 | 2023-03-02 |  |
@@ -91,6 +96,7 @@
 | [The Way Out](https://open.spotify.com/track/4ekOEI0XLh8aIHaPMMAkwU) | [Breanna Barbara](https://open.spotify.com/artist/2p5zh0v6BIDwVSY3Q6pgwn) | [The Way Out](https://open.spotify.com/album/65i4pMwHDaaRecBItUHkOe) | 5:22 | 2023-03-02 |  |
 | [Time Of The Season](https://open.spotify.com/track/5Q9mMFaR0jAnG6pFSW2aNI) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [What's That Sound?](https://open.spotify.com/album/0wm5vMyCNiABzxsbdPSVye) | 3:18 | 2023-03-02 |  |
 | [Two Weeks](https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:07 | 2023-03-02 |  |
+| [Unstoppable](https://open.spotify.com/track/49oOGpE3lpfe3pm0ZAW4ab) | [EJ Sarà](https://open.spotify.com/artist/4ygcZiKOGZxg8B4GLWzS71), [KittyGun](https://open.spotify.com/artist/1YrOII3ZLAflU4ywUgZliQ) | [Unstoppable](https://open.spotify.com/album/1PbOiQchhhEpu9ClePkrqm) | 3:18 | 2023-03-07 |  |
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2023-03-02 |  |
 | [Use Me \(feat\. 070 Shake\)](https://open.spotify.com/track/6gqZzQyJfKqdc9boOILz4x) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:23 | 2023-03-02 |  |
 | [Veski](https://open.spotify.com/track/42z52CjcmuMjpGjZSUfd5g) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [Rapsodie](https://open.spotify.com/album/3u0mzDIK7xjiGdBbZ6ASet) | 3:20 | 2023-03-02 |  |

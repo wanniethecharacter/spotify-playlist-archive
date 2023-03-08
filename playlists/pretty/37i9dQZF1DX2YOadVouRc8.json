@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11073,
+  "num_followers": 11078,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMGVjYzkzYWNkOTFiZTFmYTliMjdjOTEyY2ViMmNiMTc4",
+  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMGQyZjZlYjMyYmRlZDZmODllMjg5YmFlZjUzMzRjYmFk",
   "tracks": [
     {
       "added_at": "2023-03-03 08:00:19",
@@ -899,18 +899,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Phizbarz",
+          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
         }
       ],
-      "duration_ms": 180773,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
+      "duration_ms": 139249,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -931,6 +935,22 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -967,26 +987,6 @@
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
-      },
-      "artists": [
-        {
-          "name": "Phizbarz",
-          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        }
-      ],
-      "duration_ms": 139249,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+        "name": "Naked Wire",
+        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
       },
       "artists": [
         {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+      "duration_ms": 162352,
+      "name": "Naked Wire",
+      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
       },
       "artists": [
         {
-          "name": "Tha Beatsmith",
-          "url": "https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O"
-        },
-        {
-          "name": "Ogranya",
-          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
         }
       ],
-      "duration_ms": 224837,
-      "name": "Can You See Her",
-      "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1227,6 +1207,26 @@
       "duration_ms": 232021,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
+      },
+      "artists": [
+        {
+          "name": "Tha Beatsmith",
+          "url": "https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O"
+        },
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "duration_ms": 224837,
+      "name": "Can You See Her",
+      "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "R-/LBT",
         "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2023-03-03 08:00:19",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 204568,
+  "num_followers": 204659,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMGYzNjA4ZjllN2NjNTIzZjc5OGI0YzdiMTY0MTg0ZDNm",
+  "snapshot_id": "MTY2NjczODg4NSwwMDAwMDAwMDg5NDkxNmVmM2NiMTUyZWZjNzIwYWEyODg4YjhlMzQ0",
   "tracks": [
     {
       "added_at": "2022-10-25 23:01:25",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "La Historia\u2026Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
+        "name": "Todo Tiene Su Hora",
+        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 242320,
-      "name": "Me Voy - Bachata",
-      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
+      "duration_ms": 203853,
+      "name": "Muchachita Linda",
+      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Todo Tiene Su Hora",
-        "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
+        "name": "La Historia\u2026Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 203853,
-      "name": "Muchachita Linda",
-      "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
+      "duration_ms": 242320,
+      "name": "Me Voy - Bachata",
+      "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Morir Solo",
-        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 242342,
-      "name": "Morir Solo",
-      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Llora Alma Mia",
         "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 261519,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Morir Solo",
+        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 242342,
+      "name": "Morir Solo",
+      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
     },
     {
       "added_at": "2022-10-25 23:01:25",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
       },
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2022-10-25 23:01:25",
       "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
-    },
-    {
-      "added_at": "2022-10-25 23:01:25",
-      "album": {
         "name": "Bachatas Pal' Pueblo: Mas Pueblo Que Nunca",
         "url": "https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 221480,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
+    },
+    {
+      "added_at": "2022-10-25 23:01:25",
+      "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
     },
     {
       "added_at": "2022-10-25 23:01:25",

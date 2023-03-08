@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,621 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,659 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 89 | [Nervous \- Acoustic](https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf) | 4:10 |
 | 90 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
 | 91 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
-| 92 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 |
-| 93 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
+| 92 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
+| 93 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 |
 | 94 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
 | 95 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
 | 96 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Used To Be Friends](https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Used To Be Friends](https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix) | 5:35 |
 | 100 | [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 |
 
-Snapshot ID: `MTY3NzIzNjc2MCwwMDAwMDAwMGVkMzlkZTRlMjA1ZWQ1NWI4YjNhZWVlMzcwODJjODQy`
+Snapshot ID: `MTY3NzIzNjc2MCwwMDAwMDAwMGE2OTBkNzk2OWYzYjM5MmMyYmQ2NWQwMTkyMzQ0Y2U4`

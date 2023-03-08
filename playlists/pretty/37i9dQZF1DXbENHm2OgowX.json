@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 30430,
+  "num_followers": 30495,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDJkZTE1M2MxY2I1ZTU1ODgxNDllMzVkNDI1N2EzYjA3",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDllMDc5ODNlMzE4MDA1ZjZmNWQwZDE0ZGE5YjRiMGY0",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Earthbound Transmissions",
         "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 308000,
       "name": "River Whispering Run",
       "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 318786,
+      "name": "The Marble Eye",
+      "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -897,7 +897,23 @@
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
     },
     {
-      "added_at": "2023-03-07 03:14:16",
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+    },
+    {
+      "added_at": "2023-03-08 01:04:02",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -947,22 +963,6 @@
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 260482,
       "name": "Snowa",
       "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2023-01-20 15:04:59",

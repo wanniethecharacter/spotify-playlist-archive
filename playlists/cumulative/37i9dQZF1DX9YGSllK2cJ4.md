@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-288 songs - 13 hr 4 min
+294 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Au loin](https://open.spotify.com/track/7JR2FbKiAkUfCw0pe4F9Ob) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/6434rqJKVGoPvcn2rlZbx2) | 2:47 | 2022-10-04 |  |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2022-08-01 |  |
 | [Aşk Mühürü \(Mira & Yaman\)](https://open.spotify.com/track/0Y6qIIK11T451NjsjvMSYJ) | [Toygar Işıklı](https://open.spotify.com/artist/2l0Ol9ASKE7E196nHpblB7) | [Med Cezir \(Original Tv Series Soundtrack\)](https://open.spotify.com/album/4g4jsUq6IsRUQM6kPBjucu) | 1:59 | 2022-11-14 |  |
+| [Barcelona](https://open.spotify.com/track/5JSQc1Anz5HWLZUpMbmMh1) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Barcelona](https://open.spotify.com/album/1YrneT7zPyEDXSnJ2AIDrD) | 2:46 | 2023-03-07 |  |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2022-08-01 |  |
 | [Beyond Imagination](https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beyond Imagination](https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt) | 4:31 | 2022-08-01 | 2022-12-06 |
 | [Blue Tears](https://open.spotify.com/track/1GaS1JQcaYnPlOmvDy8d9D) | [Octane](https://open.spotify.com/artist/2KTIaiNCA1JqLtIeTLYzxp) | [Blue Tears](https://open.spotify.com/album/1DHGUjGmiQqxf3FMxU5DL0) | 2:42 | 2022-12-20 |  |
@@ -86,6 +87,7 @@
 | [For the Time Being](https://open.spotify.com/track/01Ta3xqx0lWGtiZupK2O7l) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [For the Time Being](https://open.spotify.com/album/5124C1o4Wm1P3BfMgw87T2) | 2:31 | 2022-08-25 | 2022-10-15 |
 | [Forever](https://open.spotify.com/track/1JUlfV6Dj06XkGLlVZaSEY) | [Richard Noé](https://open.spotify.com/artist/3aUTUUnDU6XhCLuYELfl4N) | [Forever](https://open.spotify.com/album/4VMVsxb3ooYMH6sV1m78kp) | 2:06 | 2023-01-31 |  |
 | [Forever Changed](https://open.spotify.com/track/6u20TgouBczWOOlnR6703e) | [Winifred Kang](https://open.spotify.com/artist/5r0SmbwJ70z8AoUrrbdRnU) | [Forever Changed](https://open.spotify.com/album/5r8Z1CKRpkrqF8IqcHnEY7) | 1:59 | 2022-08-01 | 2022-11-15 |
+| [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 | 2023-03-07 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-08-01 |  |
 | [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-12-05 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-08-01 | 2022-12-06 |
@@ -134,6 +136,7 @@
 | [Lillian](https://open.spotify.com/track/4cwSFF1hXI78ZTmREh6Yww) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/76qmoKhO9fwNsUh1BOcnPf) | 2:07 | 2022-10-24 | 2022-11-13 |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-08-01 | 2022-11-15 |
 | [Loneliness is my only company](https://open.spotify.com/track/6vDrmzekBoFnbFO0XcKGqZ) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Loneliness is my only company](https://open.spotify.com/album/3A9XSZyHfBjqBWZLxlu5Xw) | 2:17 | 2022-10-04 |  |
+| [Lonely Melody](https://open.spotify.com/track/4RTZWfEZ6uSDUDhqOCX7Yy) | [Stephanie Ferrer](https://open.spotify.com/artist/6PKJzUJNJKQjAHcgbzbuCJ) | [Lonely Melody](https://open.spotify.com/album/7gjS3mFddUJGHyF5KgMQeh) | 2:07 | 2023-03-07 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-08-01 |  |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2022-08-01 | 2022-10-25 |
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2022-08-01 | 2022-10-25 |
@@ -167,6 +170,7 @@
 | [Night](https://open.spotify.com/track/5wEbriJa2SDzgsU18Xknql) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Dreamer](https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN) | 2:49 | 2022-08-01 | 2022-12-06 |
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-20 |  |
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-01 |  |
+| [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 | 2023-03-07 |  |
 | [Now Towards the Next](https://open.spotify.com/track/6Pr3s6FdonSiWXtRLI1F17) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/2o5fmUgEHO56WLOP1mj6nR) | 3:36 | 2022-10-04 | 2022-11-15 |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2022-12-05 |  |
 | [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 | 2023-02-06 |  |
@@ -207,6 +211,7 @@
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2022-08-01 |  |
 | [Sail to the Moon](https://open.spotify.com/track/0dx8e4V1h2Xus4dHNkxU5T) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Sail to the Moon](https://open.spotify.com/album/4EyvJlfrI2j9V1654Uwvcq) | 2:52 | 2022-10-04 |  |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-08-01 |  |
+| [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 | 2023-03-07 |  |
 | [Say My Name](https://open.spotify.com/track/2OrJ8SYAFfTHGzLKIurphr) | [Octane](https://open.spotify.com/artist/2KTIaiNCA1JqLtIeTLYzxp) | [Say My Name](https://open.spotify.com/album/2wCN4RpBcE9cWF0YBbpfW3) | 3:56 | 2022-11-14 |  |
 | [Say Something](https://open.spotify.com/track/7mbVCa3RJ9fPAkssAkrQ2j) | [Lukas O' Kane](https://open.spotify.com/artist/72CucnBc9khzpqxeA6Npkp) | [Say Something](https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA) | 3:47 | 2022-08-01 | 2022-12-06 |
 | [Scheme of Things](https://open.spotify.com/track/0Tkda9INoI8yK8YDWitmqK) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Scheme of Things](https://open.spotify.com/album/1H6USCW27B3FQ14QlQaTob) | 2:36 | 2023-02-21 |  |
@@ -257,6 +262,7 @@
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2022-08-01 |  |
 | [Time Passing By](https://open.spotify.com/track/5vqGmdOETj2jRoXXm3mmWj) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Time Passing By](https://open.spotify.com/album/5YmjYCh8Jsq4ToFUgE4JN9) | 2:11 | 2023-01-31 |  |
 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-01-27 |  |
+| [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-03-07 |  |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2022-08-01 |  |
 | [Tranquillo](https://open.spotify.com/track/72kzlLev3gbe93hKa4oHnh) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Tranquillo](https://open.spotify.com/album/2Ef8kD6MMZg9FkvMZZ8kyk) | 2:08 | 2022-11-14 |  |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2022-08-01 |  |

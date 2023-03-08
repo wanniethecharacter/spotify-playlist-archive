@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,519 likes - 105 songs - 5 hr 27 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,524 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 37 | [Lasso](https://open.spotify.com/track/0sjcQJh7eIF95LcAMYNq2P) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [Lasso](https://open.spotify.com/album/3hW6iaSRsll3mz3TN6McQz) | 2:15 |
 | 38 | [COMMA'S](https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [COMMA'S](https://open.spotify.com/album/6FIeebQJt5DyQRW7ZNQZU9) | 3:18 |
 | 39 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
-| 40 | [Pikete Italiano 2](https://open.spotify.com/track/7cYMDFpcbYDAGGluKSE6Zj) | [KvndySwing](https://open.spotify.com/artist/3mvje4iLJHQX3Wr757PSmf), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg) | [Pikete Italiano 2 \(El Krtl Remix\)](https://open.spotify.com/album/4MgABPqD7eCpAVcqNEI87C) | 3:56 |
+| 40 | [Pikete Italiano 2](https://open.spotify.com/track/7cYMDFpcbYDAGGluKSE6Zj) | [KvndySwing](https://open.spotify.com/artist/3mvje4iLJHQX3Wr757PSmf), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Pikete Italiano 2 \(El Krtl Remix\)](https://open.spotify.com/album/4MgABPqD7eCpAVcqNEI87C) | 3:56 |
 | 41 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 42 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
 | 43 | [Wasted Prayers](https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5MvARiRgNiMgbxYWaX6EOa) | 3:24 |
-| 44 | [VANESSA...](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
+| 44 | [VANESSA](https://open.spotify.com/track/4G73ZbqMSz2JlMzBjzgb4q) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS), [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [VANESSA](https://open.spotify.com/album/5mybiXqO3IyP0YrO1c183k) | 2:57 |
 | 45 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 |
 | 46 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 |
 | 47 | [Tout seul](https://open.spotify.com/track/6gvo1vOwrzbqQ5kxn4Fq5B) | [JDL](https://open.spotify.com/artist/3aSOqB03AcdniBDFyhaQBq) | [Tout seul](https://open.spotify.com/album/5tapBIFonisGWiZ1rV9Hkd) | 2:45 |

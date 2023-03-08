@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 110205,
+  "num_followers": 110329,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDkyNDc2ZTIxNDgwN2M1ZjQwYjM3MTY3NDU1NzZiOGRk",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGZkZGJkNTdmYzJiMmVkYmFlNjFhZWNkNDk0MjZjOGEz",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 416565,
-      "name": "Rose rouge",
-      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Becoming X",
         "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 228840,
       "name": "6 Underground",
       "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 416565,
+      "name": "Rose rouge",
+      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -871,18 +871,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
         }
       ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -903,18 +903,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
       "artists": [
         {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
-      },
-      "artists": [
-        {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 384226,
       "name": "Rodney Yates",
       "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
+      },
+      "artists": [
+        {
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Supermodified",
-        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 337506,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Supermodified",
+        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 337506,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Apricot Morning",
-        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Transatlantic",
-      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supreme Beings Of Leisure",
         "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+        "name": "Apricot Morning",
+        "url": "https://open.spotify.com/album/0bVFmAlU4ToJ2i3ZPkgzHf"
       },
       "artists": [
         {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+      "duration_ms": 284693,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/3pJ0rv6o5HeIBWiO7mB1th"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1531,6 +1515,22 @@
       "duration_ms": 243426,
       "name": "Angels",
       "url": "https://open.spotify.com/track/5r3eWOSUAcHHbX7cydZ4Q7"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
     },
     {
       "added_at": "2020-09-04 01:12:56",

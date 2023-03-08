@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: So!YoON! \(황소윤\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-310 songs - 17 hr 38 min
+311 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,13 +45,14 @@
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-01 | 2022-07-28 |
 | [Boy](https://open.spotify.com/track/4AXPq8RyL0rrVhcmCw0bvr) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [Boy](https://open.spotify.com/album/0Np1Ghr7TB9tTIkI42AOnH) | 3:15 | 2022-03-22 | 2022-04-21 |
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2022-10-26 |  |
-| [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2023-01-31 |  |
+| [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2023-01-31 | 2023-03-08 |
 | [But I'm Trying to Tell You How Much I Love You 난 가끔 너에게 상처를 주고 싶어](https://open.spotify.com/track/5IrBZBSF6vGySrvA3iM7Jx) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [But I'm Trying to Tell You How Much I Love You 난 가끔 너에게 상처를 주고 싶어](https://open.spotify.com/album/56iipvHudhRYvKLpT36aPz) | 4:13 | 2021-11-21 | 2022-06-14 |
 | [Butterfly](https://open.spotify.com/track/5jhYykolbcG1T9wZSyvhp5) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:57 | 2021-11-21 | 2022-03-08 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-11-21 | 2022-05-08 |
 | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/track/7KlXPh6RPpuNea6wvJY6WY) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/album/4Vi3kP5TmbgJq1y7K5kIIm) | 2:31 | 2021-11-21 | 2022-07-21 |
 | [Can You See My Heart](https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel Del Luna OST Part.5](https://open.spotify.com/album/4HxM9RlVFPOEwNRorTuLiZ) | 3:45 | 2021-11-21 | 2022-03-08 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-04-05 | 2022-07-19 |
+| [CANADA](https://open.spotify.com/track/0nnBNJCB4r9nVkCZ2YEzgJ) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:55 | 2023-03-07 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-21 | 2022-11-30 |
 | [Cheers \(ZZAN\)](https://open.spotify.com/track/3eAI3CXukjPxjXdzGMmeih) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Just One Bite 2](https://open.spotify.com/album/0Fgu7agMrAXcHyw4dFh70c) | 2:59 | 2022-03-22 | 2022-04-19 |
 | [Chica](https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:12 | 2021-11-21 | 2022-03-05 |

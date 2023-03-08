@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023\. Cover: SG Lewis
+> Dance hits in 2023, featuring Jax Jones, Steve Aoki, Topic, and more!\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,727 likes - 50 songs - 2 hr 23 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,720 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 7 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 8 | [Highs And Lows](https://open.spotify.com/track/5ahreMEX9oBKkDlv6pWWlE) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Highs And Lows](https://open.spotify.com/album/2yfHta0dmPYSlOvpMhmt3P) | 2:38 |
 | 9 | [Ignite](https://open.spotify.com/track/6B6DMevt44SK6QtCoVyAfO) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Ignite](https://open.spotify.com/album/6G9QGTgljI6R6VOUWX0A5Z) | 2:30 |
-| 10 | [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/3acHsmBqouVeiU5eGAzCW7) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 |
+| 10 | [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/0Jf2MhXuwAGiBE33d6aiF9) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 |
 | 11 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 |
 | 12 | [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 |
 | 13 | [Gravity](https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Gravity](https://open.spotify.com/album/6Wkt3HuhyHbxN7G9aSJ6L9) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 49 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 |
 | 50 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 |
 
-Snapshot ID: `NDU4OCw3YjkzYTgyMzQ0OWMwZDVjOTMzMWE3MjA2N2M3YjUzNTFmOTQxYWJl`
+Snapshot ID: `NDU4OSxjMDY3ZjQ3NjNjYTM1YzZhOTllYjY1ZWQ0N2Q1ZmU0ZGNhMDExMmM5`

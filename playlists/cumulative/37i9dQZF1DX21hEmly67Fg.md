@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-162 songs - 9 hr 34 min
+167 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blank Space](https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions](https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv) | 2:35 | 2021-11-25 |  |
 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 | 2021-11-25 | 2022-10-17 |
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 |  |
+| [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
 | [Cemeteries of London](https://open.spotify.com/track/3VYqUFO5rtWrcQe9XxW4OJ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Coldplay's Viva La Vida](https://open.spotify.com/album/6QIK648ES8MNvYpqZF8Zy3) | 3:08 | 2022-11-18 | 2022-11-26 |
 | [Cherry Blossom Girl](https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Beaucoup de VSQ](https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn) | 3:54 | 2022-11-18 | 2022-11-26 |
@@ -55,6 +56,7 @@
 | [Eastside](https://open.spotify.com/track/37MspE4lVtZzAvvYknWKdp) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:52 | 2022-11-18 | 2022-11-26 |
 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 | 2021-11-25 |  |
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
+| [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 |  |
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2021-11-25 |  |
@@ -73,6 +75,7 @@
 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-15 |  |
 | [Happier Than Ever](https://open.spotify.com/track/6YdoHXpaoC41PACP5q6VSu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Happier Than Ever](https://open.spotify.com/album/7ghv2N51bQG2GegOqLwjpm) | 3:51 | 2022-07-15 |  |
 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 | 2023-02-14 |  |
+| [Hello](https://open.spotify.com/track/6wXcmmbuKgyCz5nnU7T4lI) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Hello](https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG) | 3:57 | 2023-03-07 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |
 | [Here](https://open.spotify.com/track/2sJqQqodYHAv9gHhSbFVo2) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 3](https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD) | 3:22 | 2022-11-18 | 2022-11-26 |
 | [Here I Dreamt I Was an Architect](https://open.spotify.com/track/3raq8Hy4VIHlj9k5Chsfmp) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Decemberists](https://open.spotify.com/album/6H2zbBBOWSTxiat8AhpO1R) | 4:45 | 2022-11-18 | 2022-11-26 |
@@ -114,6 +117,7 @@
 | [Novocaine for the Soul](https://open.spotify.com/track/3DtqQPayLqTqcnDuMqRcCQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Alternative Hits of the 90s](https://open.spotify.com/album/3M5lwpG7B3HuKhyYcBLfkn) | 2:15 | 2022-11-18 | 2022-11-26 |
 | [One Dance](https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 2:11 | 2022-11-18 | 2022-11-26 |
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 |  |
+| [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 | 2023-03-07 |  |
 | [Photograph](https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 2](https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Rainbow \- Instrumental](https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Rainbow \(Instrumental\)](https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB) | 3:23 | 2021-11-25 |  |
 | [Riptide](https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 3](https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN) | 3:27 | 2022-11-18 | 2022-11-26 |
@@ -170,5 +174,6 @@
 | [You're The Inspiration](https://open.spotify.com/track/7ePt0ghR9CVmCmcuAdkTX8) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [You're The Inspiration](https://open.spotify.com/album/5oD1eJKrw3ev9DsL88TN9F) | 2:23 | 2023-02-21 |  |
 | [Young and Beautiful](https://open.spotify.com/track/1CNgRdKyiVXhdBtD0DGMtP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Lana Del Rey](https://open.spotify.com/album/3HuXseIKWFC5Pwg0oMuNFT) | 3:36 | 2022-11-18 | 2022-11-26 |
 | [Young Dumb and Broke](https://open.spotify.com/track/1uUf3j1JanarEIsAcX6NGd) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2017 Vol\. 2](https://open.spotify.com/album/41p4FJy6Y6BvuZymMfHrxE) | 3:22 | 2022-11-18 | 2022-11-26 |
+| [Your Song](https://open.spotify.com/track/61iDbuI3Skfhn7vIRtLjZE) | [Elia McWey](https://open.spotify.com/artist/0po0EvPeTYz8RX8UgYl7ZV) | [Your Song](https://open.spotify.com/album/594hE61YkjA1I8kV6GsPGT) | 3:10 | 2023-03-07 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

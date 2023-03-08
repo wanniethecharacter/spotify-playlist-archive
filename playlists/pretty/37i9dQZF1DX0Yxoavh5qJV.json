@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5396898,
+  "num_followers": 5395842,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMDlhYjVkMmEwYWRmMDkxZTE3YTUxMmJlNTlmMTRlMDQ3",
+  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMDkzY2FkMGExNzBmNWEzOTYwNTIwZGY0ZTU1MjdkZDQy",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "The Beach Boys' Christmas Album",
+        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 118840,
+      "name": "Little Saint Nick - 1991 Remix",
+      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 272393,
-      "name": "Step Into Christmas",
-      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -607,34 +607,34 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "The Beach Boys' Christmas Album",
-        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 118840,
-      "name": "Little Saint Nick - 1991 Remix",
-      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+      "duration_ms": 272393,
+      "name": "Step Into Christmas",
+      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 126360,
-      "name": "Jingle Bell Rock - Daryl's Version",
-      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+      "duration_ms": 203653,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 203653,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
+      "duration_ms": 126360,
+      "name": "Jingle Bell Rock - Daryl's Version",
+      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Do You Hear What I Hear? - Remastered 2006",
-      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Cozy Little Christmas",
         "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 182520,
       "name": "Cozy Little Christmas",
       "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Make It To Christmas",
-        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Make It To Christmas",
-      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "That's Christmas To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 203373,
       "name": "Mary, Did You Know?",
       "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Make It To Christmas",
+        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Make It To Christmas",
+      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "I Wish It Could Be Christmas Everyday",
-        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
-      },
-      "artists": [
-        {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "I Wish It Could Be Christmas Everyday",
-      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 171093,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/1RMDXedcRno6rDBCbNHDJf"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "I Wish It Could Be Christmas Everyday",
+        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
+      },
+      "artists": [
+        {
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "I Wish It Could Be Christmas Everyday",
+      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
-        "url": "https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 275896,
-      "name": "Fairytale of New York (feat. Kirsty MacColl) - Edit",
-      "url": "https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp"
+      "duration_ms": 206786,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1671,18 +1667,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
+        "url": "https://open.spotify.com/album/5Rxp9oBKNjn0m24SjWIkUW"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp"
+      "duration_ms": 275896,
+      "name": "Fairytale of New York (feat. Kirsty MacColl) - Edit",
+      "url": "https://open.spotify.com/track/4soJpnUFA0SPs7XTi6QIVp"
     }
   ],
   "unique_name": "Christmas Hits",

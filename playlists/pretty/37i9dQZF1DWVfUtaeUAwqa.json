@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6949,
+  "num_followers": 6952,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGVhN2I0YmExMjZjMTFhN2Y0M2ViOGQ2Njk0OWFmY2Yy",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDFmYTBkYzAxNTA2M2MxODY0MzE3NWU5MWJmNGU0MDli",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Preservation Hall Hot 4 With Duke Dejan",
         "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 250986,
       "name": "Ain't She Sweet",
       "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
         "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
-        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans, Vol. 2",
         "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 158946,
       "name": "Dippermouth Blues",
       "url": "https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
+        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
     },
     {
       "added_at": "2020-08-19 17:19:14",

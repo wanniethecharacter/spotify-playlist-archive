@@ -4,7 +4,7 @@
 
 > Listen to the biggest Arabic hits all in one place\. Cover: Ahmed Kamel.
 
-267 songs - 15 hr 57 min
+269 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Call Me](https://open.spotify.com/track/5VYEBcFvG8bNqwpnbQv9eu) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/33osRJgOnEAOry3VmsKoAj) | 2:45 | 2021-12-12 | 2022-09-27 |
 | [Chokran la vie](https://open.spotify.com/track/2U8ErvM7WUELQ5rhXFQIUz) | [Lsan L7or](https://open.spotify.com/artist/3HyATnFu4reyWAEn5rZEog), [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Chokran la vie](https://open.spotify.com/album/593LqSldvuA4xnzpiaz3BP) | 3:59 | 2021-12-12 | 2022-07-21 |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-12 | 2022-09-19 |
+| [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-03-07 |  |
 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 | 2022-10-07 |  |
 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47 Soul](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 | 2022-01-04 | 2022-01-08 |
 | [Dag El Galb](https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Dag El Galb](https://open.spotify.com/album/69Ezh1ncGl5mV9C6Yj7NE3) | 3:10 | 2021-12-12 | 2022-10-05 |
@@ -236,7 +237,7 @@
 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 | 2022-02-15 | 2022-03-08 |
 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 | 2022-08-17 |  |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-29 |  |
-| [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-03-18 |  |
+| [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-03-18 | 2023-03-08 |
 | [العمر كله](https://open.spotify.com/track/4hgBNlMh0PF4S2VE0ejaM6) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [العمر كله](https://open.spotify.com/album/3DY0Bt7zzSdaLx0i5VFZxh) | 4:20 | 2023-01-30 |  |
 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 | 2023-01-23 |  |
 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 | 2021-12-12 |  |
@@ -270,6 +271,7 @@
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2021-12-12 | 2022-07-29 |
 | [مشتاق](https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0) | [Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [مشتاق](https://open.spotify.com/album/6pXEgoWi9LeJSBDVPR7of6) | 4:43 | 2022-01-24 | 2022-07-28 |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-12 | 2022-01-15 |
+| [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-03-07 |  |
 | [نهارنا وردي](https://open.spotify.com/track/1AZELIVj9dbzculbZXocRS) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [نهارنا وردي](https://open.spotify.com/album/02l1jHBJrh68fU2kaiM8V7) | 3:09 | 2021-12-12 | 2022-01-04 |
 | [وبطير](https://open.spotify.com/track/5FnNPUjvsrRGiZiDvQDIj3) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [W Btir](https://open.spotify.com/album/2EcC0e5A1Yjpo3yLtxg37I) | 4:10 | 2022-11-01 |  |
 | [وش جابك قلي وش جابك](https://open.spotify.com/track/1y7wArtYdwMin7fG9jhg4d) | [جودي الحوتي](https://open.spotify.com/artist/7rIm9xf0Pz40fCsdbew2ZX) | [وش جابك قلي وش جابك](https://open.spotify.com/album/4HQCv2oY1iR6UAPgplzOG2) | 2:49 | 2022-10-22 |  |

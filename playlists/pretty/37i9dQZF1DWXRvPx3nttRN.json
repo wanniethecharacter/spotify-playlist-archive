@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 479844,
+  "num_followers": 480019,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2OTU5MSwwMDAwMDAwMGU4M2NlMDJjYTRiZTAxODA2NDYwMzA3NDZhNzRiNWM1",
+  "snapshot_id": "MTY3Mjc2OTU5MSwwMDAwMDAwMDdjZmVjZmExZGViNDJlYjQzNTkzZDczNDgzMjcwNWQ5",
   "tracks": [
     {
       "added_at": "2022-12-29 00:11:17",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "2U (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "2U - Acoustic Version",
-      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "2U (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "2U - Acoustic Version",
+      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Just Let It Go",
-        "url": "https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0"
-      },
-      "artists": [
-        {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Just Let It Go",
-      "url": "https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Youngblood (Acoustic)",
         "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 220995,
       "name": "Youngblood - Acoustic",
       "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Just Let It Go",
+        "url": "https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Just Let It Go",
+      "url": "https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 208568,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "Cosmic Empire - Day 2 Demo; Take 1",
+      "url": "https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
         "name": "More Than You Know (Acoustic)",
         "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
       },
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
-        "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "Cosmic Empire - Day 2 Demo; Take 1",
-      "url": "https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "For Seasons to Come",
         "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
@@ -2023,22 +2023,6 @@
       "duration_ms": 192000,
       "name": "For Seasons to Come",
       "url": "https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -2059,6 +2043,22 @@
       "duration_ms": 200620,
       "name": "I Wanna Know - Acoustic",
       "url": "https://open.spotify.com/track/78dhp5G3n3KbA2ThlSkl2b"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Wake Up Sleeper (Acoustic)",
-        "url": "https://open.spotify.com/album/4wjmtlC0ySXydlahF2StXe"
-      },
-      "artists": [
-        {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
-        }
-      ],
-      "duration_ms": 215628,
-      "name": "Wake Up Sleeper - Acoustic",
-      "url": "https://open.spotify.com/track/1gwPB3AVPLhn4SPa7SmM93"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/6MUKJJrQjnqk2w5yPsmn4H"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 206094,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6ZGCcVUyPnuNV6lmPFUnxT"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Wake Up Sleeper (Acoustic)",
+        "url": "https://open.spotify.com/album/4wjmtlC0ySXydlahF2StXe"
+      },
+      "artists": [
+        {
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+        }
+      ],
+      "duration_ms": 215628,
+      "name": "Wake Up Sleeper - Acoustic",
+      "url": "https://open.spotify.com/track/1gwPB3AVPLhn4SPa7SmM93"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Unreleased",
-        "url": "https://open.spotify.com/album/4Jz3pcEQIWsUK3aWzcJ6b1"
-      },
-      "artists": [
-        {
-          "name": "Maddi Jane",
-          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/4C3ln6RkjVX4diPfLbwaK2"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Boy & Bear at Golden Retriever Studio",
         "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 187186,
       "name": "Telescope - Acoustic",
       "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Unreleased",
+        "url": "https://open.spotify.com/album/4Jz3pcEQIWsUK3aWzcJ6b1"
+      },
+      "artists": [
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/4C3ln6RkjVX4diPfLbwaK2"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "Million Ways - Acoustic",
-      "url": "https://open.spotify.com/track/7tq4nl4WgpuHz0Nvn4lMck"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/2sfwHqwFlq2NQFXGyC6ULL"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 174967,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/2OdpaewWP74b0lJ97gfWMz"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "Million Ways - Acoustic",
+      "url": "https://open.spotify.com/track/7tq4nl4WgpuHz0Nvn4lMck"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -2895,22 +2895,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Acoustic Throwback - Nineties Rhythm and Blues",
-        "url": "https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX"
-      },
-      "artists": [
-        {
-          "name": "Ernie Halter",
-          "url": "https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "You Make Me Wanna / Where My Girls At",
-      "url": "https://open.spotify.com/track/3lM5SO52u63e3LM3S6Uhec"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "The Covers, Vol. 5",
         "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
       },
@@ -2923,6 +2907,22 @@
       "duration_ms": 219511,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Acoustic Throwback - Nineties Rhythm and Blues",
+        "url": "https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX"
+      },
+      "artists": [
+        {
+          "name": "Ernie Halter",
+          "url": "https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "You Make Me Wanna / Where My Girls At",
+      "url": "https://open.spotify.com/track/3lM5SO52u63e3LM3S6Uhec"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -3059,6 +3059,22 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
+        "name": "A Thousand Ways (Acoustic)",
+        "url": "https://open.spotify.com/album/0hqIWEMjY0nVwX3dpsM4u3"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 231762,
+      "name": "A Thousand Ways (Acoustic)",
+      "url": "https://open.spotify.com/track/4laBgbIXVtNbYkRMByKtFn"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
         "name": "Maps (Acoustic) [feat. Ali Brustofski]",
         "url": "https://open.spotify.com/album/1fLmM3dGNREudqYKNRpZLI"
       },
@@ -3075,22 +3091,6 @@
       "duration_ms": 182186,
       "name": "Maps (Acoustic) [feat. Ali Brustofski]",
       "url": "https://open.spotify.com/track/4R2oHU0vr7wpDvbIxXzFGN"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
-        "name": "A Thousand Ways (Acoustic)",
-        "url": "https://open.spotify.com/album/0hqIWEMjY0nVwX3dpsM4u3"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 231762,
-      "name": "A Thousand Ways (Acoustic)",
-      "url": "https://open.spotify.com/track/4laBgbIXVtNbYkRMByKtFn"
     },
     {
       "added_at": "2022-12-29 00:11:17",
@@ -3675,22 +3675,6 @@
     {
       "added_at": "2022-12-29 00:11:17",
       "album": {
-        "name": "Under the Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5cH5xt1xK1koMrvhBfZbXe"
-      },
-      "artists": [
-        {
-          "name": "Jake Coco",
-          "url": "https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ"
-        }
-      ],
-      "duration_ms": 220458,
-      "name": "Last Friday Night",
-      "url": "https://open.spotify.com/track/1ebbyhBE7qIejKekYiBYi5"
-    },
-    {
-      "added_at": "2022-12-29 00:11:17",
-      "album": {
         "name": "Cover Sessions, Vol.3",
         "url": "https://open.spotify.com/album/5I0AQeCqNNQvd4KQhTm2Nj"
       },
@@ -3703,6 +3687,22 @@
       "duration_ms": 189473,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/0Ib5UzoZMtdgDQm1jlZDHk"
+    },
+    {
+      "added_at": "2022-12-29 00:11:17",
+      "album": {
+        "name": "Under the Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5cH5xt1xK1koMrvhBfZbXe"
+      },
+      "artists": [
+        {
+          "name": "Jake Coco",
+          "url": "https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ"
+        }
+      ],
+      "duration_ms": 220458,
+      "name": "Last Friday Night",
+      "url": "https://open.spotify.com/track/1ebbyhBE7qIejKekYiBYi5"
     },
     {
       "added_at": "2022-12-29 00:11:17",

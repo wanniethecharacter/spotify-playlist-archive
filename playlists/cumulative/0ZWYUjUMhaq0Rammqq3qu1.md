@@ -2,7 +2,7 @@
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023\. Cover: SG Lewis
+> Dance hits in 2023, featuring Jax Jones, Steve Aoki, Topic, and more!\. Cover: SG Lewis
 
 186 songs - 9 hr 38 min
 
@@ -79,7 +79,7 @@
 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 | 2021-07-02 | 2022-09-13 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-02-18 | 2023-02-23 |
 | [Intentions \(feat\. Quavo\)](https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:32 | 2021-07-02 | 2022-09-13 |
-| [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/3acHsmBqouVeiU5eGAzCW7) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 | 2023-03-06 |  |
+| [Is It Love](https://open.spotify.com/track/4inSIskko4hF2UAIj8lg8y) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [CARAH](https://open.spotify.com/artist/0Jf2MhXuwAGiBE33d6aiF9) | [Is It Love](https://open.spotify.com/album/0E5lTb40e3rvtm8dWXjfmv) | 2:36 | 2023-03-06 |  |
 | [Jackie Chan](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Jackie Chan](https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt) | 3:35 | 2021-07-02 | 2022-09-13 |
 | [Jumpin Out The Face](https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Jumpin Out The Face](https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj) | 2:50 | 2021-07-02 | 2022-09-13 |
 | [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 | 2023-02-14 |  |

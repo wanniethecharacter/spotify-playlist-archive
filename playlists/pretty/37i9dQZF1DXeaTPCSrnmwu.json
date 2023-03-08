@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 20581,
+  "num_followers": 20590,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDVmMzQwYzk0YzhlMDc0ODNiMTYxYjI3Y2E1Y2NkZWNi",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDdlMjM3MzVhNDQ5ZWZkNmQ2M2E3MjIwZDI5NjE3N2Zh",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Ev'rything I Love",
-        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
+        "name": "Boleros Inolvidables, Vol. 1",
+        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
       },
       "artists": [
         {
-          "name": "Petra Britton",
-          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
+          "name": "Piano Magico",
+          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
         }
       ],
-      "duration_ms": 138777,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
+      "duration_ms": 143386,
+      "name": "Palabras De Mujer-Hojas Secas",
+      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Ev'rything I Love",
+        "url": "https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh"
+      },
+      "artists": [
+        {
+          "name": "Petra Britton",
+          "url": "https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2"
+        }
+      ],
+      "duration_ms": 138777,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Starlight EP",
         "url": "https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 290555,
       "name": "God Bless The Child",
       "url": "https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Boleros Inolvidables, Vol. 1",
-        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
-      },
-      "artists": [
-        {
-          "name": "Piano Magico",
-          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Palabras De Mujer-Hojas Secas",
-      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Boleros Inolvidables, Vol. 1",
+        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
+      },
+      "artists": [
+        {
+          "name": "Piano Magico",
+          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Acercate Mas-Nosotros",
+      "url": "https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Cuba Cuba",
         "url": "https://open.spotify.com/album/40i0UpNxAtRaHYpRHJn7xX"
       },
@@ -823,26 +839,6 @@
       "duration_ms": 134500,
       "name": "La mariposa",
       "url": "https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Descarga Caliente",
-        "url": "https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Havana All-Stars",
-          "url": "https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Mambo Cantabile",
-      "url": "https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4"
     }
   ],
   "unique_name": "Cena con Piano",

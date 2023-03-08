@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=fojlNFrTTAqXuhHrXxWftA"> AKA </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,057 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,154 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 49 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 |
 | 50 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
 | 51 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
-| 52 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
+| 52 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 |
 | 53 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
-| 54 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 |
+| 54 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
 | 55 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
 | 56 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
 | 57 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 66 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 |
 | 67 | [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 |
 | 68 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
-| 69 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
-| 70 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
+| 69 | [4 Door Jeep](https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:12 |
+| 70 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDdkMzBhNzk3YWE5Njg4N2U1MTE1YzIxZTMxMWE0ODk1`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGMxZDQwNmQ0Nzc5ZjlhMzEwZjY3OTg4NDc5ODAzMmY3`

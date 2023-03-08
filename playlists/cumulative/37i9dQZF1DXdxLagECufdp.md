@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-143 songs - 9 hr 12 min
+144 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bubamara \(Main Version\)](https://open.spotify.com/track/6lFMUE3wCWMxw63N0GKeUJ) | [Dr Nele Karajlic](https://open.spotify.com/artist/6S93eD0WtHS03m2IdOdlsx) | [Muzika Iz Filma "Crna Macka Beli Macor"](https://open.spotify.com/album/5IbXHF05fEGWn70rtON4ZZ) | 3:55 | 2023-01-07 |  |
 | [Bucovina](https://open.spotify.com/track/5cBHEbHIhZ6o4xkVqnxygC) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 3:21 | 2023-01-07 |  |
 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 | 2021-09-10 |  |
-| [Canción Animal](https://open.spotify.com/track/4WEaMJomqn7EtH6frQe0dI) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd) | [Átoma](https://open.spotify.com/album/1GnZNhvpkEWW64WkjTyzfg) | 2:22 | 2022-03-09 |  |
+| [Canción Animal](https://open.spotify.com/track/3CkrzE1zcbL3l5mJzujN0x) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd) | [Atoma](https://open.spotify.com/album/5D3ZJXVGXq6rCF9udCCgiu) | 2:22 | 2022-03-09 |  |
+| [Canción Animal](https://open.spotify.com/track/4WEaMJomqn7EtH6frQe0dI) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd) | [Átoma](https://open.spotify.com/album/1GnZNhvpkEWW64WkjTyzfg) | 2:22 | 2022-03-09 | 2023-03-08 |
 | [Cantina Band](https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Bien Bonito](https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR) | 2:49 | 2021-09-10 | 2022-12-04 |
 | [Cherry's World](https://open.spotify.com/track/5YemLTqNZ0o2Oiyd02cxdw) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [Con Ritmo en la Sangre \(En Vivo\)](https://open.spotify.com/album/2U1NoLh0Vi3iuMgcJSYno5) | 2:36 | 2021-09-10 | 2022-07-29 |
 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 | 2021-09-10 |  |

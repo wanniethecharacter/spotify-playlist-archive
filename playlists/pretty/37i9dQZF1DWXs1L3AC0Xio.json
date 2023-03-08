@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 652633,
+  "num_followers": 652848,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDAxNjcyOTk4OTFlYjVlMWZkMWEyMWVhNjFhMzQ4MjA0",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGU5YmU1YjVmMDkzZjVhOTJmZmQwNTU4MTRlYTRkMTU4",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Lifeless Stars",
-        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Lifeless Stars",
-      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 191813,
       "name": "Scars - Acoustic Version",
       "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Lifeless Stars",
+        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Lifeless Stars",
+      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
     },
     {
       "added_at": "2023-01-20 05:00:00",

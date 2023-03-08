@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,174 likes - 56 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,231 likes - 56 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 41 | [Tango Bar \- Alvaro Suarez Remix](https://open.spotify.com/track/5t93cE5V3JELqsgXeBVoKG) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [Mr Doxx](https://open.spotify.com/artist/5Hi7p9BIFa2GlpcGL5tfaB) | [Tango Bar](https://open.spotify.com/album/4twfkJpB5oUWVBix59JVu7) | 7:18 |
 | 42 | [Lenaia](https://open.spotify.com/track/1at150vi89vVRYpLGQQTdV) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Lenaia](https://open.spotify.com/album/1rpVIzw7to1Qfi9TwCkPo3) | 5:28 |
 | 43 | [Morena](https://open.spotify.com/track/13hPKoBriB6yPSqPvbRd6A) | [Vinila von Bismark](https://open.spotify.com/artist/74nWFV1ioJp3FNqVwINsDZ), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Francis Coletta](https://open.spotify.com/artist/6qBX3cp5fWdIsYDfbkHb3S) | [Seven Seas](https://open.spotify.com/album/2i3Al7KL47Mp5LcyP9rCn6) | 4:37 |
-| 44 | [Waves & Wavs](https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:28 |
+| 44 | [Waves & Wavs](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:28 |
 | 45 | [Fragile \- Extended Mix](https://open.spotify.com/track/2CDuAnnj2GCxLVxO1Rk7Op) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/5QSXhVNVFpkPClqFxQUtpz) | 7:37 |
 | 46 | [Lost Trumpet In Space](https://open.spotify.com/track/26z4AI4PEA4HS7MuuV2o8O) | [NonCitizens](https://open.spotify.com/artist/73KWbbG4ZspCHvI0aDcfl1) | [Lost Trumpet In Space](https://open.spotify.com/album/4hrVv6wLydlI4Z7veGvRPl) | 6:10 |
 | 47 | [Ay Como Hago](https://open.spotify.com/track/6p1YupLCbZcXAMYqXzF30A) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Anlly Marin](https://open.spotify.com/artist/4ywyCbn9tmI1FzsXlDFvK5), [Yimalá](https://open.spotify.com/artist/4MtegK6bkIzJEi0PcyOBrN) | [Ay Como Hago](https://open.spotify.com/album/67KSanoaM4gplWUIlwaudD) | 6:32 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 55 | [Mambo Jambo](https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mambo Jambo](https://open.spotify.com/album/5TA2xPbvz4x9TJeWMJluGo) | 6:11 |
 | 56 | [Never Too Late](https://open.spotify.com/track/4uLcna2HHwVvCobsOYBVas) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Moodintrigo](https://open.spotify.com/artist/2igvV2IqzbKJ1wrGSKwSFt), [Melödisch](https://open.spotify.com/artist/6qcyxd5kBmJlOD5ee7EdJo) | [Never Too Late](https://open.spotify.com/album/7sm5rQZZsRhSte2xSHTGKK) | 6:15 |
 
-Snapshot ID: `MTY3NTQyMTQ2MSwwMDAwMDAwMGZkNzAyNjNmN2E1YjgxNjQ0OWJiYTNlNWVmYjdiNmRk`
+Snapshot ID: `MTY3NTQyMTQ2MSwwMDAwMDAwMGY2NWQ3NjFlNGEzMDg1ZGYyZTU5Y2FkOTE3NjhmMTc4`

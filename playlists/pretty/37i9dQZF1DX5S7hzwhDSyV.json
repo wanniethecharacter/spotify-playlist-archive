@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 66331,
+  "num_followers": 66476,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEzNjU3MiwwMDAwMDAwMGM0OGM1NzcyNDdkOWNlYzFiOTY4ZDU4YmU0ZGVkYTU1",
+  "snapshot_id": "MTY3NzEzNjU3MiwwMDAwMDAwMDRhNGUxOTFlZTE3N2E1Y2E4MGZkNDhiMWI4NDQxYmRh",
   "tracks": [
     {
       "added_at": "2023-02-23 07:16:12",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 339533,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 837813,
-      "name": "Lush Life - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
         "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 181666,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 837813,
+      "name": "Lush Life - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 454186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 454186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
         "name": "Piano In The Background",
         "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Introducing Nat Adderley",
         "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 267560,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 627733,
-      "name": "Basin Street Blues",
-      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
-    },
-    {
-      "added_at": "2023-02-23 07:16:12",
-      "album": {
         "name": "Criss-Cross (Expanded Edition)",
         "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+      "duration_ms": 627733,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1419,6 +1403,22 @@
       "duration_ms": 515039,
       "name": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
       "url": "https://open.spotify.com/track/7aHMuaIUsIS6p3wKuoPxnN"
+    },
+    {
+      "added_at": "2023-02-23 07:16:12",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "The Real... Toots Thielemans",
-        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
+        "name": "Anticipation",
+        "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
       },
       "artists": [
         {
-          "name": "Toots Thielemans",
-          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+          "name": "Eddie Higgins",
+          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
         }
       ],
-      "duration_ms": 275226,
-      "name": "Bluesette",
-      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
+      "duration_ms": 276131,
+      "name": "Falling in Love with Love",
+      "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
     },
     {
       "added_at": "2023-02-23 07:16:12",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-02-23 07:16:12",
       "album": {
-        "name": "Anticipation",
-        "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
+        "name": "The Real... Toots Thielemans",
+        "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
       "artists": [
         {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
         }
       ],
-      "duration_ms": 276131,
-      "name": "Falling in Love with Love",
-      "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
+      "duration_ms": 275226,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
     },
     {
       "added_at": "2023-02-23 07:16:12",

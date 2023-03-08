@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf?si=BtUw\_V2qRrGdMnuxhMw6og">mau from nowhere </a>
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=7ZBC78cQReWxx83z4DpS2Q">Nikita Kering'</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,270 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,308 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 |
 | 2 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
-| 3 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
-| 4 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 |
-| 5 | [Save Me](https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:21 |
+| 3 | [Save Me](https://open.spotify.com/track/0lZxPIkeXHFYsMousts9TZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:21 |
+| 4 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 |
+| 5 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 |
 | 6 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 |
 | 7 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 |
 | 8 | [Forget You](https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 4:22 |
 | 9 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 |
-| 10 | [small acts of recklessness](https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 3:15 |
-| 11 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 |
+| 10 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 |
+| 11 | [small acts of recklessness](https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 3:15 |
 | 12 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 |
 | 13 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 |
 | 14 | [Mbali \- Stripped Version](https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Mbali \(Stripped Version\)](https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8) | 3:20 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 56 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 |
 | 57 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 |
 | 58 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 |
-| 59 | [Uko Poa \- Full Version](https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Uko Poa \(Full Version\)](https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1) | 3:24 |
-| 60 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 |
+| 59 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 |
+| 60 | [Uko Poa \- Full Version](https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Uko Poa \(Full Version\)](https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1) | 3:24 |
 
-Snapshot ID: `MTY3NzgyNTk1NiwwMDAwMDAwMDhlYWRkNzQ0YzZkMjM0MGU2MjE3MTk2NzJmNWUxYzgy`
+Snapshot ID: `MTY3ODIyMjc0MCwwMDAwMDAwMDNkMzE4YjE2ZTlhZDIzMTYxMzZlYzJmMGYxMDI3YzRk`

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Azevedo, BIN",
-  "num_followers": 96805,
+  "num_followers": 96912,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMGM3MWYyMmM1N2EzY2YxNDQ0YzY0ZTA4NDIxODhjOGI1",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDZjNTAxY2MwODAxOWJmZjU4ZmQxNWU4ODcxYzllMGZl",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -899,22 +899,42 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Bicho Solto",
-        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
+        "name": "Vou de Lala",
+        "url": "https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I"
       },
       "artists": [
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
         },
         {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Bicho Solto",
-      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
+      "duration_ms": 300000,
+      "name": "Vou de Lala",
+      "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -955,42 +975,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Vou de Lala",
-        "url": "https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I"
+        "name": "Bicho Solto",
+        "url": "https://open.spotify.com/album/2Wma4pTFGzWmhdvIBAZtQy"
       },
       "artists": [
         {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Vou de Lala",
-      "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"
+      "duration_ms": 159000,
+      "name": "Bicho Solto",
+      "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
     },
     {
       "added_at": "2023-03-03 03:01:00",

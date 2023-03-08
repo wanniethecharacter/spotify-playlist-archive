@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 119408,
+  "num_followers": 119519,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY3OTc1MiwwMDAwMDAwMDYyZmEyOTY3YzdiNDNiNzRhZDAyZWE1YWVlODIxYjAx",
+  "snapshot_id": "MTY3NzY3OTc1MiwwMDAwMDAwMGE2MTE1MTc5MjJjNDlkNjk1ODMyZTIzMDkwODdhY2Yx",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -815,18 +831,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA"
       },
       "artists": [
         {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
         }
       ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -859,26 +879,6 @@
       "duration_ms": 91613,
       "name": "Live Without You",
       "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/29vC4zQ1mb9V3YylUigQGA"
-      },
-      "artists": [
-        {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 284213,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Start Again EP",
         "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 187306,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 284213,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2023-02-23 23:00:00",

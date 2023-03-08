@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> كوفر: الصواريخ مع أبو الأنوار
 
-131 songs - 8 hr 4 min
+132 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [مظبوط](https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [مظبوط](https://open.spotify.com/album/0DXCelQ2rGcnuZjWPAOil6) | 3:45 | 2022-06-02 | 2022-07-31 |
 | [مفيش بالحب](https://open.spotify.com/track/7GCYL8SY4tcN1Em3Vvwfwy) | [Ordony](https://open.spotify.com/artist/7MDBPW2W5Bs3BfRIym4H37), [دودج](https://open.spotify.com/artist/6kwwwSPXnZbAYd354YhkaV) | [مفيش بالحب](https://open.spotify.com/album/0QGa6n3vep0t4zLvWbMVOe) | 2:40 | 2022-10-24 | 2022-10-26 |
 | [ملقتش حد قالي مالك](https://open.spotify.com/track/2rJ6FZ0LQjHCxg0Pi8B4Vl) | [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [ملقتش حد قالي مالك](https://open.spotify.com/album/6DTMAHdk6AOs4sdKLLOyNi) | 3:41 | 2022-01-10 | 2022-10-08 |
-| [ممنوع حد يقرب منك](https://open.spotify.com/track/746Q5YMgrPz2tLACl93ZPl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ممنوع حد يقرب منك](https://open.spotify.com/album/2gNEIBS4gLkGKlZuzDDwZx) | 4:15 | 2021-12-16 |  |
+| [ممنوع حد يقرب منك](https://open.spotify.com/track/746Q5YMgrPz2tLACl93ZPl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ممنوع حد يقرب منك](https://open.spotify.com/album/2gNEIBS4gLkGKlZuzDDwZx) | 4:15 | 2021-12-16 | 2023-03-08 |
 | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/track/7HwAJD7l8JhAJtlKDYBY0F) | [حلقولو](https://open.spotify.com/artist/7b9HTYLzKkHgp3qaC6mr4V), [الدوجرى](https://open.spotify.com/artist/5qxlcrQWyPwEwdZ3PDFe2X) | [مهرجان اخرس عمك جالك \( مالك يا صاحبي احكيلي \- خلوني ابقي شيطان \)](https://open.spotify.com/album/2wvuf3nTDEhD2kZivp7LjS) | 5:44 | 2022-07-19 |  |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-12-16 | 2022-01-11 |
 | [مهرجان اسكت يا قلبي](https://open.spotify.com/track/3bpMAr3KaaAm7YrAp8K9XD) | [Eslam Nabawy](https://open.spotify.com/artist/4msLeWosAtlqUnbOu7K0bk) | [مهرجان اسكت يا قلبي](https://open.spotify.com/album/3oyReWYuMccCmyqaJMIpGF) | 3:36 | 2021-12-16 | 2022-01-11 |
@@ -136,6 +136,7 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 | 2022-10-17 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-09 |  |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-12-16 |  |
+| [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-07 |  |
 | [يلا نفتح الحساب](https://open.spotify.com/track/3fTKJkqA0enU1iDrC3QM4H) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا نفتح الحساب](https://open.spotify.com/album/6F6ObdCsn6o5F4QYcSrR4i) | 3:48 | 2022-09-27 | 2023-01-06 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 | 2022-01-10 | 2022-10-03 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/12h9Zu7E5LG8pRj0XnPX9A) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/4x1nQ9tP0qe3ZclwgXdCNF) | 3:48 | 2022-07-19 | 2022-09-25 |

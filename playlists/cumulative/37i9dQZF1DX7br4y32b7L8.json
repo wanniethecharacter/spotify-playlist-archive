@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "FAY: \"Dankjewel voor al die slapeloze nachten.\"",
+  "description": "Maks: \"Ok\u00e9 jij wilt vies nou ik zal je wat vertellen. Zij heeft dyscalculie dus is niet zo goed in tellen.\"",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 186866,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/2TL9ng664CxAiRs37Hfa2Z"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "album": {
@@ -164,7 +182,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
@@ -248,6 +266,28 @@
       "duration_ms": 102000,
       "name": "Bruder + Schwester",
       "url": "https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87"
+    },
+    {
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
     },
     {
       "album": {
@@ -534,7 +574,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 373489,
       "name": "Hear The Sound",
       "url": "https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw"
@@ -556,6 +596,24 @@
       "duration_ms": 198803,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
+    },
+    {
+      "album": {
+        "name": "Het Eind",
+        "url": "https://open.spotify.com/album/2IsYJShE9eFjUwvkVuIOrG"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145972,
+      "name": "Het Eind",
+      "url": "https://open.spotify.com/track/2umHBbVBhktAVcU5U6L2BY"
     },
     {
       "album": {
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-08",
       "duration_ms": 122891,
       "name": "Pacman",
       "url": "https://open.spotify.com/track/4joVpbCQJpocvyp9cbD8lf"
@@ -1374,6 +1432,28 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+    },
+    {
+      "album": {
+        "name": "Wat Is Er Gebeurd",
+        "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155643,
+      "name": "Wat Is Er Gebeurd",
+      "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
       "album": {

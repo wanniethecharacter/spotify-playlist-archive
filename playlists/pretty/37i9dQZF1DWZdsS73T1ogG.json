@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Anuel AA, Mambo Kingz & DJ Luian ",
-  "num_followers": 513559,
+  "num_followers": 513698,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDcwYTBkZmM2MzkzNTg0YWM4OGZmYjczNzgwMWY5ZWZl",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDIzZTZmNjQyYTA3Yzg5NTI3YzY4NzE5OTYwYWM0ZjFl",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "TAMO EN NOTA",
+        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 180060,
+      "name": "TAMO EN NOTA",
+      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Dominicana",
         "url": "https://open.spotify.com/album/0xBy8mlkeW6KOPuzt5xikF"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 216000,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/0xCRFfgIHOsmovVZzrFCoT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "TAMO EN NOTA",
-        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 180060,
-      "name": "TAMO EN NOTA",
-      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "No Pinto Pajaritos",
-        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 145349,
-      "name": "No Pinto Pajaritos",
-      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "No Pinto Pajaritos",
+        "url": "https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 145349,
+      "name": "No Pinto Pajaritos",
+      "url": "https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Clickiamos",
-        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Clickiamos",
-      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Drippin",
         "url": "https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 218400,
       "name": "Drippin",
       "url": "https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Clickiamos",
+        "url": "https://open.spotify.com/album/4r4fzFm36AaDlOKKF6Cr4o"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Clickiamos",
+      "url": "https://open.spotify.com/track/29epP1fWAPigLlCi0h5iU2"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Toy a Mil",
-        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "Toy a Mil",
-      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "AP",
         "url": "https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 213333,
       "name": "AP",
       "url": "https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Toy a Mil",
+        "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Toy a Mil",
+      "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 135463,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 174506,
       "name": "Quien Va a Frontiar",
       "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/63Evq6spRulb51uVevqui3"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 135463,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Chingar (Remix)",
-        "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
-      },
-      "artists": [
-        {
-          "name": "Philip Ariaz",
-          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
-        },
-        {
-          "name": "El Clooy",
-          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
-        }
-      ],
-      "duration_ms": 187195,
-      "name": "Chingar (Remix)",
-      "url": "https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -1371,6 +1351,26 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Chingar (Remix)",
+        "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
+      },
+      "artists": [
+        {
+          "name": "Philip Ariaz",
+          "url": "https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC"
+        },
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        }
+      ],
+      "duration_ms": 187195,
+      "name": "Chingar (Remix)",
+      "url": "https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "ALERTA BB",
         "url": "https://open.spotify.com/album/0PA4BKQQgSYov1Hytn6Ilp"
       },
@@ -1383,6 +1383,26 @@
       "duration_ms": 196500,
       "name": "ALERTA BB",
       "url": "https://open.spotify.com/track/5WoudyHePcBEHrwVYCQmSn"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Pretty Bad Bitch",
+        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Pretty Bad Bitch",
+      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1431,26 +1451,6 @@
       "duration_ms": 168510,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/4IjmpmsaSjbK1fXcMH06CA"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Pretty Bad Bitch",
-        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Pretty Bad Bitch",
-      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "n la disco",
-      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 175840,
       "name": "UuU",
       "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "n la disco",
+      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Que casualidad",
-        "url": "https://open.spotify.com/album/0fPJBmML3bER3OWEQMNymg"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Que casualidad",
-      "url": "https://open.spotify.com/track/2GWajVt726TYAys6k4KZAU"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Uva",
         "url": "https://open.spotify.com/album/36CZqjmsiL3aRFkkbgn5d2"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 187040,
       "name": "Uva",
       "url": "https://open.spotify.com/track/7eiLYbtnvcPcA7UE7lcgqm"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Que casualidad",
+        "url": "https://open.spotify.com/album/0fPJBmML3bER3OWEQMNymg"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Que casualidad",
+      "url": "https://open.spotify.com/track/2GWajVt726TYAys6k4KZAU"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Frontal",
-        "url": "https://open.spotify.com/album/28e7MMir9UFaj0Zo5dm1t3"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        },
-        {
-          "name": "Angie Flores",
-          "url": "https://open.spotify.com/artist/0mtlM0TqGqmfxPDsgIVc6T"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Frontal",
-      "url": "https://open.spotify.com/track/1d0oVJE9NW9cxubVR0PcMw"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Light Zone",
         "url": "https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC"
       },
@@ -1939,6 +1919,22 @@
       "duration_ms": 197333,
       "name": "Light Zone",
       "url": "https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Juqueando",
+        "url": "https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Juqueando",
+      "url": "https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1959,18 +1955,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Juqueando",
-        "url": "https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP"
+        "name": "Frontal",
+        "url": "https://open.spotify.com/album/28e7MMir9UFaj0Zo5dm1t3"
       },
       "artists": [
         {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        },
+        {
+          "name": "Angie Flores",
+          "url": "https://open.spotify.com/artist/0mtlM0TqGqmfxPDsgIVc6T"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Juqueando",
-      "url": "https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG"
+      "duration_ms": 180666,
+      "name": "Frontal",
+      "url": "https://open.spotify.com/track/1d0oVJE9NW9cxubVR0PcMw"
     },
     {
       "added_at": "2023-03-03 05:00:00",
