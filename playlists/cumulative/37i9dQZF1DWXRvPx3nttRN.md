@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-380 songs - 21 hr 24 min
+381 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Like I Can](https://open.spotify.com/track/07rVlfoJTfJbRtqkRo7g0M) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:47 | 2022-04-22 |  |
 | [Like I Can](https://open.spotify.com/track/3vsleqgIlGso3digeTpx6H) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Like I Can](https://open.spotify.com/album/4iYpYmRR7ahnTrHtll8RI5) | 2:47 | 2021-03-12 | 2022-07-29 |
 | [Like I Can](https://open.spotify.com/track/4bTToCKmxbG5Qy6jnN1VLx) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Like I Can](https://open.spotify.com/album/3SQd4dXdPiSLH3PFr1LJjm) | 2:47 | 2022-04-22 | 2022-11-13 |
-| [Little Love](https://open.spotify.com/track/43LWPJSO1sg36MdqOZ0PcO) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 3:33 | 2022-04-22 |  |
+| [Little Love](https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 3:33 | 2022-12-29 |  |
+| [Little Love](https://open.spotify.com/track/43LWPJSO1sg36MdqOZ0PcO) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 3:33 | 2022-04-22 | 2023-03-09 |
 | [Little Love](https://open.spotify.com/track/4I6oc3FccCUbVMOI7hXJzR) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Little Love](https://open.spotify.com/album/5U1JnfMBjhibuXLfJq04g1) | 3:33 | 2021-03-12 | 2022-07-29 |
 | [Little Love](https://open.spotify.com/track/60REiunaf8iYI7t6LG4O7c) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Little Love](https://open.spotify.com/album/07aGoEiZyWvpoZRh9SqY14) | 3:33 | 2022-04-22 | 2022-11-13 |
 | [Look Away \- Acoustic](https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Look Away \(Acoustic\)](https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb) | 3:04 | 2021-03-12 |  |

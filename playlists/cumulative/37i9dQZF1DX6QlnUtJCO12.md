@@ -4,7 +4,7 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-61 songs - 3 hr 25 min
+62 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Treasury Scandal](https://open.spotify.com/track/0ajLft89362lfuwWmxlHHi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 3:13 | 2021-04-23 | 2022-11-13 |
 | [Treasury Scandal](https://open.spotify.com/track/0u2k6gMrd5Vj3LE6roICjO) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:15 | 2021-04-23 | 2022-07-29 |
 | [Treasury Scandal](https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L) | [Attila the Hun](https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG) | [Treasury Scandal](https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN) | 3:13 | 2021-04-23 |  |
-| [Woman Is Not the Weaker Sex](https://open.spotify.com/track/3TdWiZMMN9oTToEi51e8ji) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:56 | 2021-04-23 |  |
+| [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 | 2021-04-23 |  |
+| [Woman Is Not the Weaker Sex](https://open.spotify.com/track/3TdWiZMMN9oTToEi51e8ji) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:56 | 2021-04-23 | 2023-03-09 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

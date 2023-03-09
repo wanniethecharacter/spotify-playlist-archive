@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2036908,
+  "num_followers": 2037116,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMxOTUsNGE1MjIwNTYwZjU0MmRjZDZiZjMzZGJhZjlmYjNiMGIwYzAwMjE5Mg==",
+  "snapshot_id": "MTMxOTgsMWVkZWExNzQxZjY4MjNkZDVmYmU5ODgxYzFlYjU4NTA2NmIxMzIzOA==",
   "tracks": [
     {
       "added_at": "2023-03-06 03:11:58",
@@ -83,30 +83,6 @@
       "duration_ms": 228979,
       "name": "Everything Black",
       "url": "https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp"
-    },
-    {
-      "added_at": "2023-03-06 03:11:58",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt"
-      },
-      "artists": [
-        {
-          "name": "K Theory",
-          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        },
-        {
-          "name": "ELECTRA",
-          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6"
     },
     {
       "added_at": "2023-03-06 03:11:58",
@@ -447,26 +423,6 @@
       "duration_ms": 163057,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj"
-    },
-    {
-      "added_at": "2023-03-06 03:11:58",
-      "album": {
-        "name": "VOICES + MORE EP",
-        "url": "https://open.spotify.com/album/7ndfT523VjwV8JBPXZrn4V"
-      },
-      "artists": [
-        {
-          "name": "Stereotype",
-          "url": "https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq"
-        },
-        {
-          "name": "Shir Koren",
-          "url": "https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Voices - revisioned",
-      "url": "https://open.spotify.com/track/0q5wpRIzgNLWEM4ohN8wOv"
     },
     {
       "added_at": "2023-03-06 03:11:58",
@@ -1027,6 +983,26 @@
     {
       "added_at": "2023-03-06 03:11:58",
       "album": {
+        "name": "VOICES + MORE EP",
+        "url": "https://open.spotify.com/album/7ndfT523VjwV8JBPXZrn4V"
+      },
+      "artists": [
+        {
+          "name": "Stereotype",
+          "url": "https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq"
+        },
+        {
+          "name": "Shir Koren",
+          "url": "https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Voices - revisioned",
+      "url": "https://open.spotify.com/track/0q5wpRIzgNLWEM4ohN8wOv"
+    },
+    {
+      "added_at": "2023-03-06 03:11:58",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/47pGAx1Lz91xNIKwUeQBYb"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 183000,
       "name": "The Kid I Used to Know - WiDE AWAKE Remix",
       "url": "https://open.spotify.com/track/0ZrCu7JTfPHev2kzaabC7V"
+    },
+    {
+      "added_at": "2023-03-06 03:11:58",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt"
+      },
+      "artists": [
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        },
+        {
+          "name": "ELECTRA",
+          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6"
     },
     {
       "added_at": "2023-03-06 03:11:58",
@@ -1675,6 +1675,30 @@
     {
       "added_at": "2023-03-06 03:11:58",
       "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "rSUN",
+          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
+        },
+        {
+          "name": "Deliriousninja",
+          "url": "https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk"
+        }
+      ],
+      "duration_ms": 177441,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
+    },
+    {
+      "added_at": "2023-03-06 03:11:58",
+      "album": {
         "name": "Limelight (NGHTMRE Remix)",
         "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
       },
@@ -1779,30 +1803,6 @@
       "duration_ms": 158478,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5suBTMaVFuSmXUdhoXSCnL"
-    },
-    {
-      "added_at": "2023-03-06 03:11:58",
-      "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "rSUN",
-          "url": "https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo"
-        },
-        {
-          "name": "Deliriousninja",
-          "url": "https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk"
-        }
-      ],
-      "duration_ms": 177441,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B"
     },
     {
       "added_at": "2023-03-06 03:11:58",

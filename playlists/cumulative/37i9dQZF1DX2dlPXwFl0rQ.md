@@ -2,9 +2,9 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables del Regional Mexicano\. Ingrid Contreras & Marián Oviedo en portada.
+> Estas son las indomables del Regional Mexicano\. KAROL G en portada.
 
-258 songs - 13 hr 54 min
+259 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Apuré Mi Café \- Versión Mariachi](https://open.spotify.com/track/7tbablwEgks4a625msS2i2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café \(Versión Mariachi\)](https://open.spotify.com/album/4HU6mMXnKkLmAHEpGFlk3z) | 3:05 | 2021-12-17 | 2022-04-29 |
 | [Asi Son los Hombres](https://open.spotify.com/track/3ZTldOU6uczC22Rx1eXIbG) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Juntos Otra Vez \(with Juan Gabriel\)](https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny) | 3:11 | 2023-01-20 |  |
 | [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 | 2021-12-17 | 2022-07-02 |
-| [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 | 2023-02-25 |  |
+| [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 | 2023-02-24 |  |
 | [Ay Linda Mujer](https://open.spotify.com/track/5xsUTu1COh70m9AxUQlbje) | [Pau Hernandez](https://open.spotify.com/artist/1jaYTVD3HFlhuGo8ObC6Ed) | [Ay Linda Mujer](https://open.spotify.com/album/3WbsAMnhoFtLqgss7cWXDj) | 2:32 | 2022-01-28 | 2022-02-22 |
 | [Ay Qué Pena](https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ay Qué Pena](https://open.spotify.com/album/0z2XVtdknOawHBcW4OK2rs) | 2:36 | 2022-04-29 | 2022-09-03 |
 | [Ay! Papacito](https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Soy Así](https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3) | 3:47 | 2021-12-17 | 2023-01-21 |
@@ -61,7 +61,7 @@
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-04-29 | 2022-07-02 |
 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 | 2022-06-08 |  |
 | [Desaparecer](https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Desaparecer](https://open.spotify.com/album/6uf6xnnBVS6MDayHKeYx0E) | 2:46 | 2021-12-17 | 2022-07-02 |
-| [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 | 2023-02-25 |  |
+| [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 | 2023-02-24 |  |
 | [Desierto](https://open.spotify.com/track/6NbmwBCJd1K9GBu4kE0sOy) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Eduardo Perez](https://open.spotify.com/artist/2VJLOaGQ35FZnSBWs5sWlr) | [Desierto](https://open.spotify.com/album/0ThunE3MLebOEpHB76UtP3) | 3:34 | 2022-02-25 | 2022-03-02 |
 | [Después De Ti ¿Quien?](https://open.spotify.com/track/6FejHPAGo8xZe4Q6xLqqjA) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Después De Ti ¿Quien?](https://open.spotify.com/album/4IdUwHfvUe6SxF7xBsBVuA) | 3:32 | 2021-12-17 | 2022-03-09 |
 | [Después de Unas Horas](https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Después de Unas Horas](https://open.spotify.com/album/2Qu47XObvHFpFRZ6gvN88d) | 2:53 | 2022-03-18 |  |
@@ -86,7 +86,7 @@
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2021-12-17 | 2022-06-09 |
 | [Fruta Prohibida \- Versión Acústica](https://open.spotify.com/track/65Qln5PKRZhA5FIXUyMU3q) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida \(Versión Acústica\)](https://open.spotify.com/album/4tzLKAiSk7qgEsQVOoQC6Z) | 3:11 | 2021-12-17 | 2022-03-18 |
 | [Gaviota Traidora](https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Principios Vol\. 1](https://open.spotify.com/album/05KzRftEfw53JFMEzSZ5sY) | 3:47 | 2022-04-29 | 2022-06-09 |
-| [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-25 |  |
+| [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-24 |  |
 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Volumen 2](https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe) | 4:00 | 2022-12-09 |  |
 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 | 2022-04-08 |  |
 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 | 2021-12-17 |  |
@@ -141,7 +141,7 @@
 | [Mi Religión](https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 3:35 | 2021-12-17 | 2022-03-17 |
 | [Mi Único Regalo](https://open.spotify.com/track/0Wl9IzjERfhblhfC9n4Cq3) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Mi Único Regalo](https://open.spotify.com/album/6YpFUQKfANP6L6vxA7fbSv) | 3:26 | 2021-12-17 | 2022-03-21 |
 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 | 2022-07-29 |  |
-| [Mujer Normal](https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Mujer Normal](https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw) | 3:21 | 2023-01-20 |  |
+| [Mujer Normal](https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Mujer Normal](https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw) | 3:21 | 2023-01-20 | 2023-03-09 |
 | [Nadie Me Verá Llorar](https://open.spotify.com/track/0iQBxjQzHmyHEt4nBfGmsQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Verá Llorar](https://open.spotify.com/album/62cOOnQ3t3QDqKg12E7L8C) | 3:06 | 2022-04-29 | 2023-02-25 |
 | [Ni Diabla Ni Santa](https://open.spotify.com/track/1NncWv7T19isafndpzddUd) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Ni Diabla Ni Santa](https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr) | 2:48 | 2022-09-23 |  |
 | [Ni Dios Lo Quiera](https://open.spotify.com/track/2YSFeITUSjryNJA9ERQMMP) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/5dR2k3sOy7X9OQ56o3EluT) | 3:03 | 2021-12-17 | 2022-03-16 |
@@ -233,6 +233,7 @@
 | [Te Llegará Mi Olvido](https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [Chuladas Del Alma](https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr) | 2:16 | 2022-09-23 | 2022-12-10 |
 | [Te Llore Solo Un Dia](https://open.spotify.com/track/6e68Jj7IQpPJCITehmdyJb) | [Diana Laura](https://open.spotify.com/artist/2jTGZfXMSzIfAcQ5UUDOuS) | [Te Llore Solo Un Dia](https://open.spotify.com/album/5DPJvrjYzmuWber2tBFwu6) | 2:59 | 2022-03-18 | 2022-04-29 |
 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 | 2022-03-18 |  |
+| [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 | 2023-03-09 |  |
 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 | 2021-12-17 |  |
 | [Te Quiero para Mí](https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:47 | 2021-12-17 | 2023-01-21 |
 | [Te Vas](https://open.spotify.com/track/2Pow5S9NxZt7gNEbwRP0Mx) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Te Vas](https://open.spotify.com/album/2TkI4H7C9c50OdNfrfyJ2U) | 2:46 | 2021-12-17 | 2022-03-23 |
@@ -264,7 +265,7 @@
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-06-08 |  |
 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 | 2023-01-20 |  |
 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [¿Por Qué Te Vas?](https://open.spotify.com/album/1Wjp0bh15AzLi7JbersDl5) | 3:05 | 2021-12-17 | 2022-07-30 |
-| [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 | 2023-02-25 |  |
+| [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 | 2023-02-24 |  |
 | [Échame a Mi La Culpa](https://open.spotify.com/track/0217K1S145FAb99BfTdFkx) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échame a Mi La Culpa](https://open.spotify.com/album/5l8OXPQJqqvz0RMLWxSzCa) | 3:13 | 2021-12-17 | 2022-04-29 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

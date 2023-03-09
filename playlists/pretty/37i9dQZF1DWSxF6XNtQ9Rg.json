@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 166801,
+  "num_followers": 166956,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMGVmY2FiMzg4OGU3NGU1ODViNTk5ZGFkN2FiMzE1ZWM5",
+  "snapshot_id": "MTY3ODA5NDA2NywwMDAwMDAwMDAzOGNlZGEzZTJmMWMxN2RhN2E2NGE3OWI2MzA3NGE4",
   "tracks": [
     {
       "added_at": "2023-03-06 09:09:52",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 212284,
       "name": "Lei (feat. Ben\u00e9)",
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201961,
       "name": "Senza Di Me (feat. Venerus & Franco126)",
       "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
+      "duration_ms": 230922,
+      "name": "CRUDELIA - I nervi",
+      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
+        "name": "Fenomeno",
+        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Stavo Pensando A Te",
+      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
-        "name": "Fenomeno",
-        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Stavo Pensando A Te",
-      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+        "name": "68 (Till The End)",
+        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
       },
       "artists": [
         {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+      "duration_ms": 174000,
+      "name": "Phi",
+      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "68 (Till The End)",
-        "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Phi",
-      "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Blauer",
-        "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Blauer",
-      "url": "https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/5b64UDoCcx1v1MSeAAz5We"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 184304,
       "name": "Centro (feat. Coez)",
       "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Blauer",
+        "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa"
     },
     {
       "added_at": "2023-03-06 09:09:52",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-03-06 09:09:52",
       "album": {
-        "name": "Crack Musica",
-        "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Cavallini (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
-    },
-    {
-      "added_at": "2023-03-06 09:09:52",
-      "album": {
         "name": "Ossigeno - EP",
         "url": "https://open.spotify.com/album/0eAgD8ueJfUud98yLZ612P"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
+    },
+    {
+      "added_at": "2023-03-06 09:09:52",
+      "album": {
+        "name": "Crack Musica",
+        "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Cavallini (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
     },
     {
       "added_at": "2023-03-06 09:09:52",

@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/6mJvoMLOdDeaw9OX5SiFs0"
+      },
+      "artists": [
+        {
+          "name": "Rosemarie",
+          "url": "https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Fool\u2019s Gold",
+      "url": "https://open.spotify.com/track/2u8QEY57mJrD1EWBGCyKKC"
+    },
+    {
+      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },

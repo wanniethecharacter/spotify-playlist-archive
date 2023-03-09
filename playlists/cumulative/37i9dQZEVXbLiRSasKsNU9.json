@@ -9753,6 +9753,24 @@
     },
     {
       "album": {
+        "name": "i dont wna cry",
+        "url": "https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121296,
+      "name": "i dont wna cry (haste)",
+      "url": "https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY"
+    },
+    {
+      "album": {
         "name": "I Got Summer On My Mind",
         "url": "https://open.spotify.com/album/1aBTzwMCesh4ERMJOfQvjX"
       },
@@ -17826,7 +17844,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 164127,
       "name": "Quando Eu Morrer Quero Ser Enterrada de Qu4tro",
       "url": "https://open.spotify.com/track/7i1EsBBDoR8NDQqL8Smvh9"
@@ -18736,6 +18754,28 @@
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"
+    },
+    {
+      "album": {
+        "name": "Samay Samjhayega (Lofi)",
+        "url": "https://open.spotify.com/album/4Jw1R2ZmLOMraidMdZVoAO"
+      },
+      "artists": [
+        {
+          "name": "Mohit Lalwani",
+          "url": "https://open.spotify.com/artist/5Nfs3z1NSsrI3wxInUl6v8"
+        },
+        {
+          "name": "Bharat Kamal",
+          "url": "https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102906,
+      "name": "Samay Samjhayega (Lofi)",
+      "url": "https://open.spotify.com/track/1PSFtCx1i5J6b7mSxhTXIz"
     },
     {
       "album": {
@@ -24598,7 +24638,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 187333,
       "name": "yok muydu vaktin bana?",
       "url": "https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm"

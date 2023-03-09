@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=HrYwM7ehQHSWoTJRp8Ig\_Q"> Sarkodie</a> takes over with the best new music by independent artists and labels from Ghana\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,078 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,086 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

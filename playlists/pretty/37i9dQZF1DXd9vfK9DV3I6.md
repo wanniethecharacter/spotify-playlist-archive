@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,445 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,661 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 132 | [Mizaru](https://open.spotify.com/track/0KcO9fZg4t4iEX2Ug0hvrY) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ) | 4:13 |
 | 133 | [Lalai](https://open.spotify.com/track/05DbXdyYmbC4FMsALulcSa) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [Ariana Vafadari](https://open.spotify.com/artist/40VqpakNhSvLxqMqfhARDY) | [Lalai](https://open.spotify.com/album/3wOQ7OS70pSBJ5GHHf9JG3) | 6:30 |
 | 134 | [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 |
-| 135 | [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 |
+| 135 | [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 |
 | 136 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 |
 | 137 | [Dreams](https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC) | [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Dreams](https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m) | 2:49 |
 | 138 | [Be Mine](https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Be Mine](https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe) | 3:30 |

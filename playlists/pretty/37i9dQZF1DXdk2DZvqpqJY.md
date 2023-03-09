@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,219 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,315 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 |
 | 100 | [Ice\-free](https://open.spotify.com/track/60xyKm58pAqYg5HJ5pApWJ) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS), [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Helge Norbakken](https://open.spotify.com/artist/330550E6AXRr7jHSLX1GPd) | [Harbour](https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai) | 3:08 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMGYyODgwNjNjODc5NDUwMGIzNWY2NWM5M2E1YTkzZTUw`
+Snapshot ID: `MTY3ODI4Mjk4MywwMDAwMDAwMDIyZmY2NjM0NWQ1ODhhNWM4NDE0NmU2NDAxMTIzNGU5`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,173 songs - 2 day 12 hr 29 min
+1,174 songs - 2 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1040,7 +1040,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-07-19 |
 | [Svuotatasche](https://open.spotify.com/track/4cF8xXRteGQypocjEOtdAd) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:51 | 2022-03-05 | 2022-03-10 |
 | [Take 3](https://open.spotify.com/track/2wsuLKApNAWiFuCFJdRjlW) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 3](https://open.spotify.com/album/5rQLxdh8dmLEe4uSXBSOA5) | 2:55 | 2021-11-21 | 2021-11-28 |
-| [Take 4](https://open.spotify.com/track/1cc9BzqfV6aO0EV8c7jGnN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:50 | 2022-11-26 |  |
+| [Take 4](https://open.spotify.com/track/1cc9BzqfV6aO0EV8c7jGnN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:50 | 2022-11-26 | 2023-03-09 |
 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 | 2022-11-10 | 2022-11-27 |
 | [TANGO](https://open.spotify.com/track/74cyFjvgjyiFiQ3QxszFWq) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:29 | 2023-02-10 |  |
 | [Tanti Cuori](https://open.spotify.com/track/76D368ZOyiLZQwsjRlDyRg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW) | 2:43 | 2022-06-25 | 2022-07-01 |
@@ -1078,6 +1078,7 @@
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-04-02 | 2022-04-04 |
 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 | 2021-05-25 | 2021-05-30 |
 | [TOXIC](https://open.spotify.com/track/4TF2IPm9ZNs4xowapURvKv) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 3:05 | 2023-02-07 |  |
+| [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-03-08 |  |
 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2LxEDzVro56jdFydwjwQL6) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 4:25 | 2022-01-29 | 2022-05-04 |
 | [TRENCHES BABY](https://open.spotify.com/track/36Y5DDHeA8IXxR5foShbSH) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:28 | 2022-11-05 | 2022-11-08 |
 | [Tribale](https://open.spotify.com/track/6dMvLEipqRW6vh8Bt5PbOg) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Tribale](https://open.spotify.com/album/4riFp09J5vcQZbTHDwQ48D) | 2:42 | 2022-06-11 | 2022-09-18 |

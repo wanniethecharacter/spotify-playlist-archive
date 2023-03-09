@@ -1,12 +1,12 @@
 {
   "description": "Todos los cumbieros con las manos bien arriba haciendo palmas \ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe\ud83c\udfdd",
-  "num_followers": 3723,
+  "num_followers": 3836,
   "original_name": "Tropical Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUxNTcwMywwMDAwMDAwMDMwMWE1ZGQ0NjNhZTg3M2VhYmYyNDk0NzhiZGYwYjI2",
+  "snapshot_id": "MTY3ODI4NjcyMywwMDAwMDAwMDU2MDYyOGVmN2I0ZmU2YmE5YTAyOGExNTdmMTczNWI3",
   "tracks": [
     {
       "added_at": "2023-01-30 20:33:03",
@@ -67,6 +67,26 @@
       "duration_ms": 186735,
       "name": "Pa\u2019 la Selecci\u00f3n",
       "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
+    },
+    {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -143,6 +163,30 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Te Escapas De Mis Brazos (Remix)",
+        "url": "https://open.spotify.com/album/2qwDoRmOoiueskiEQuAL4a"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Te Escapas De Mis Brazos - Remix",
+      "url": "https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART"
     },
     {
       "added_at": "2023-02-13 16:17:05",
@@ -381,6 +425,30 @@
       "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
     },
     {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Noche Primavera",
+        "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 199277,
+      "name": "Noche Primavera",
+      "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
+    },
+    {
       "added_at": "2023-02-27 16:35:03",
       "album": {
         "name": "Manos de Tijera",
@@ -445,6 +513,22 @@
       "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
     },
     {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Si Pudiera / Vuelve a Mi",
+        "url": "https://open.spotify.com/album/4zDHp2WDSsJR2gVKnUQLEX"
+      },
+      "artists": [
+        {
+          "name": "La Cosa Nostra",
+          "url": "https://open.spotify.com/artist/5COe0O4U83udZQ9ch6SVI6"
+        }
+      ],
+      "duration_ms": 172152,
+      "name": "Si Pudiera / Vuelve a Mi",
+      "url": "https://open.spotify.com/track/3PE7MugQdM7Yl9rW9rO5a1"
+    },
+    {
       "added_at": "2023-01-30 20:33:03",
       "album": {
         "name": "Aqui No Se Sienta Nadie!",
@@ -491,6 +575,22 @@
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Lleg\u00f3 Pap\u00e1",
+        "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
+      },
+      "artists": [
+        {
+          "name": "Merenglass Grupo",
+          "url": "https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA"
+        }
+      ],
+      "duration_ms": 198635,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -547,6 +647,22 @@
       "duration_ms": 279893,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
+    },
+    {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "BUENOS AIRES MOTEL",
+        "url": "https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "LO MISMO QUE MORIR",
+      "url": "https://open.spotify.com/track/1XYjy0yiCL1utjnBRWou6f"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -637,6 +753,26 @@
       "url": "https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h"
     },
     {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
       "added_at": "2023-01-30 20:33:03",
       "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
@@ -685,6 +821,22 @@
       "url": "https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO"
     },
     {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 220135,
+      "name": "Algo Que Se Quede",
+      "url": "https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB"
+    },
+    {
       "added_at": "2023-01-30 20:33:03",
       "album": {
         "name": "Guaracha Sabrosona",
@@ -699,22 +851,6 @@
       "duration_ms": 219026,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2023-01-30 20:33:03",
-      "album": {
-        "name": "No Soy Un 10",
-        "url": "https://open.spotify.com/album/1w15wkI8Fnelrb4dMkCiFr"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 134049,
-      "name": "No Soy Un 10",
-      "url": "https://open.spotify.com/track/3S3WhDTKcVtuRfWfJulLuE"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -747,22 +883,6 @@
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-01-30 20:33:03",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -821,6 +941,26 @@
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
+      "added_at": "2023-03-08 14:45:23",
+      "album": {
+        "name": "Pa' los Gustos los Colores",
+        "url": "https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO"
+      },
+      "artists": [
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
+        },
+        {
+          "name": "Los de Juancho",
+          "url": "https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi"
+        }
+      ],
+      "duration_ms": 230117,
+      "name": "Que Bonita Ni Que Na'",
+      "url": "https://open.spotify.com/track/2Ln9Ff9V6X7crU1c51eqTu"
+    },
+    {
       "added_at": "2023-02-02 23:01:45",
       "album": {
         "name": "Asondeguerra",
@@ -835,30 +975,6 @@
       "duration_ms": 191106,
       "name": "Bachata En Fukuoka",
       "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
-    },
-    {
-      "added_at": "2023-01-30 20:33:03",
-      "album": {
-        "name": "Nuestro Amor Regresa",
-        "url": "https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Nuestro Amor Regresa",
-      "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
     },
     {
       "added_at": "2023-01-30 20:33:03",
@@ -955,26 +1071,6 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2023-01-30 20:33:03",
-      "album": {
-        "name": "Costumbres (Vivo)",
-        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 133077,
-      "name": "Costumbres - Vivo",
-      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
     },
     {
       "added_at": "2023-01-30 20:33:03",

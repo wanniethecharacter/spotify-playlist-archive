@@ -4,7 +4,7 @@
 
 > Co\-curated by a number of our ambassadors for International Women’s Day\. Cover: Jamala.
 
-1,051 songs - 2 day 10 hr 10 min
+1,052 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Chip S](https://open.spotify.com/track/2MlhrPEpnv6z90YO3ZkghY) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Chip S](https://open.spotify.com/album/38O5m3AOZ6U16kk4cFsRh5) | 2:55 | 2022-01-05 | 2022-02-03 |
 | [Chove Muito, Chove Tanto](https://open.spotify.com/track/5myCd2BltCXXFEdN92iWYg) | [Amélia Muge](https://open.spotify.com/artist/0iru4sRcRUOQFbXFMSqaJ1) | [Chove Muito, Chove Tanto](https://open.spotify.com/album/06vgS4jdbDAcTbyjx4beJg) | 4:42 | 2022-04-06 | 2022-05-05 |
 | [CICATRICI \(feat\. Madame\)](https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 2:53 | 2022-04-06 | 2023-01-05 |
+| [Ciche szepty](https://open.spotify.com/track/78YX9wyB7kXsgBuvPjnp6P) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Ciche szepty](https://open.spotify.com/album/4gjTgaRtOrUCws8g7NjRRo) | 2:32 | 2023-03-08 |  |
 | [CityPop](https://open.spotify.com/track/5koiE0jeoLoguwVIVxiDXo) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [CityPop \(English Version\)](https://open.spotify.com/album/1VJk7lQNySvEiNai1EBTnu) | 3:47 | 2022-01-05 | 2022-02-03 |
 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 | 2022-05-04 | 2022-06-01 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-10-04 | 2022-11-03 |
@@ -549,7 +550,7 @@
 | [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 | 2022-11-02 | 2022-11-10 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2022-10-05 |
-| [Miasto](https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Miasto](https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv) | 2:25 | 2023-03-01 |  |
+| [Miasto](https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Miasto](https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv) | 2:25 | 2023-03-01 | 2023-03-09 |
 | [Mienteme](https://open.spotify.com/track/1FRXYqJfNWcNCsuvsAPtHa) | [Katie Angel](https://open.spotify.com/artist/0yLrby88zlSxFax5EMnTGf) | [Game Over](https://open.spotify.com/album/1WI4WQY8cAYwofWkmqyZm9) | 2:24 | 2022-02-02 | 2022-03-09 |
 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 | 2022-10-04 | 2022-11-03 |
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-06-01 | 2023-01-05 |

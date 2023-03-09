@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 54757,
+  "num_followers": 54772,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMDU0YjExNzQzY2RlY2ViYzA5MzJhMjg5MjY0NzM3ZTIx",
+  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMGI3OTA3MThhZWYyZWQ1ZTA3NGY4Y2FkZmQ4N2FkMmVk",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -191,22 +207,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nos Toca",
-        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
-          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
         }
       ],
-      "duration_ms": 353320,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -435,18 +435,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+        "name": "Nos Toca",
+        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
       "artists": [
         {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
+          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
         }
       ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+      "duration_ms": 353320,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -543,6 +543,42 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Frente A Frente: Mexican Jazz Jam",
+        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Safo (La Sacerdotiza Del Amor)",
+      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -567,42 +603,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
-      },
-      "artists": [
-        {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Musica Infinita",
         "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 283841,
       "name": "Orbita 13",
       "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -751,6 +735,22 @@
       "duration_ms": 335725,
       "name": "To Chick",
       "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -795,30 +795,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Arturo Cipriano",
-          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
-        },
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 404666,
-      "name": "Las Pulgas Freeway",
-      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Hilando Lunas",
         "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 485054,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Arturo Cipriano",
+          "url": "https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u"
+        },
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 404666,
+      "name": "Las Pulgas Freeway",
+      "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
       "added_at": "2021-07-28 16:44:28",

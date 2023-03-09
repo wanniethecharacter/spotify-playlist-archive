@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1065552,
+  "num_followers": 1065544,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGE3MTYxN2FkNjllN2UyNzA2YWRhNjUzZjIwMTRkOTJj",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGNkNjQxNWM2ZmMyMGM1MDBhY2FkNWZlMzE2MjE3NGZh",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Inner Smile",
-      "url": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ"
     },
     {
       "added_at": "2020-08-27 16:10:25",

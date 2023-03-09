@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,524 likes - 105 songs - 5 hr 27 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,538 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 12 | [double checks against the corner \(c\)](https://open.spotify.com/track/794yIsQpuiKF4Un77uwkkP) | [Shoeb Ahmad](https://open.spotify.com/artist/2h708ZTAjPlRu96CjKqAK7) | [double checks against the corner \(c\)](https://open.spotify.com/album/7mf1AEHGXDtGDzVLwdnIjr) | 4:15 |
 | 13 | [Anthem](https://open.spotify.com/track/0nr55vemRBcZKXha7ETn03) | [babybaby\_explores](https://open.spotify.com/artist/2hSrGXXGohzgYCb3QxENPG) | [Food Near Me, Weather Tomorrow](https://open.spotify.com/album/0E2QadE2QGHt56LipKEqs4) | 2:41 |
 | 14 | [Lui ou moi](https://open.spotify.com/track/4yKTn5qM7SZv8XOUsN9Qu3) | [Med](https://open.spotify.com/artist/1av8auIcgMQfYwZtKStZB2) | [Lui ou moi](https://open.spotify.com/album/0Ni6jqNW1RFJj1R80buui9) | 2:38 |
-| 15 | [Briller \(Héméra\)](https://open.spotify.com/track/0oZaXOmx8fkkXWAvpD9q6o) | [Ashéo](https://open.spotify.com/artist/5jvx3xT9YR3YkWfa3t90CN) | [Briller \(Nyx\)](https://open.spotify.com/album/32un99FDHsn3fISDC41CYm) | 2:49 |
+| 15 | [Briller \(Héméra\)](https://open.spotify.com/track/0oZaXOmx8fkkXWAvpD9q6o) | [Ashéo](https://open.spotify.com/artist/5jvx3xT9YR3YkWfa3t90CN) | [Briller \(Nyx\)](https://open.spotify.com/album/32un99FDHsn3fISDC41CYm) | 2:48 |
 | 16 | [AZUL.](https://open.spotify.com/track/04a2sigJKKNact2W6tXYi3) | [Indigo Jams](https://open.spotify.com/artist/71IY7h7bhtZ1kkPJl8IFpU) | [AZUL.](https://open.spotify.com/album/2inWhWUk3f0TD0Wdxi9Nih) | 3:00 |
 | 17 | [Como te desconozco](https://open.spotify.com/track/4WzuNWUnof3KAS3F4fWINr) | [Sazza](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Como te desconozco](https://open.spotify.com/album/6ZMuDvzweQnH33ltuZzyeQ) | 2:43 |
 | 18 | [Memory Den](https://open.spotify.com/track/3EkhRiTg6EfLAbk4BYXTfM) | [Gleezy](https://open.spotify.com/artist/6AzoufY6340IAPFk1aKw9S) | [Memory Den](https://open.spotify.com/album/2hdcHaqLXDHWWo2SnHbb5h) | 2:22 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 37 | [Lasso](https://open.spotify.com/track/0sjcQJh7eIF95LcAMYNq2P) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [Lasso](https://open.spotify.com/album/3hW6iaSRsll3mz3TN6McQz) | 2:15 |
 | 38 | [COMMA'S](https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [COMMA'S](https://open.spotify.com/album/6FIeebQJt5DyQRW7ZNQZU9) | 3:18 |
 | 39 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
-| 40 | [Pikete Italiano 2](https://open.spotify.com/track/7cYMDFpcbYDAGGluKSE6Zj) | [KvndySwing](https://open.spotify.com/artist/3mvje4iLJHQX3Wr757PSmf), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Pikete Italiano 2 \(El Krtl Remix\)](https://open.spotify.com/album/4MgABPqD7eCpAVcqNEI87C) | 3:56 |
+| 40 | [Pikete Italiano 2](https://open.spotify.com/track/7cYMDFpcbYDAGGluKSE6Zj) | [KvndySwing](https://open.spotify.com/artist/3mvje4iLJHQX3Wr757PSmf), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Pikete Italiano 2](https://open.spotify.com/album/4MgABPqD7eCpAVcqNEI87C) | 3:56 |
 | 41 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 42 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
 | 43 | [Wasted Prayers](https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5MvARiRgNiMgbxYWaX6EOa) | 3:24 |

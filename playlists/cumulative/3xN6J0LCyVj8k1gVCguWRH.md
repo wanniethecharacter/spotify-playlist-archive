@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,059 songs - 4 day 22 hr 31 min
+2,061 songs - 4 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1217,6 +1217,7 @@
 | [MOTION](https://open.spotify.com/track/7cQM2G5MT80a0xmv4Dcr8x) | [HINYL](https://open.spotify.com/artist/5C1kYgcLy2bHUCWGGvpKVP) | [MOTION](https://open.spotify.com/album/6fKNqMMnSkRFWTNMRNUp1w) | 3:06 | 2022-12-23 | 2022-12-25 |
 | [Move On](https://open.spotify.com/track/7kwGPYkQx1dYu0lod9IEAf) | [Ayo August](https://open.spotify.com/artist/2BiwobuxFl5vPgLcvA6yb4), [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Move On](https://open.spotify.com/album/0wwMY8G12nqu8CePeBBq2Q) | 2:09 | 2021-04-17 | 2021-05-03 |
 | [Move On](https://open.spotify.com/track/7m3Vj6y1dYXGwKhZ4N6BYB) | [Joytide](https://open.spotify.com/artist/6oKwIoXslSna3RRQwcCoOW), [Carl Roos](https://open.spotify.com/artist/0fKlHm1QYTvlNd8T1yeHBH) | [Move On](https://open.spotify.com/album/6uiU8puP5cdQv625EiIalh) | 2:54 | 2021-04-24 | 2021-05-09 |
+| [Moves Like Shakira](https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC) | [Mersed](https://open.spotify.com/artist/5WiBH8FG5kcrfAvmW9znYQ), [Lardi B](https://open.spotify.com/artist/6KP5Ws86YSPOxpbsmmwYHc) | [Moves Like Shakira](https://open.spotify.com/album/3UEe3zFWlPWCtmuUziEk2c) | 2:25 | 2023-03-09 |  |
 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 | 2022-10-28 | 2022-11-19 |
 | [Mundieo](https://open.spotify.com/track/77rlDhZm5eRYMLIXSfySlR) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Mundieo](https://open.spotify.com/album/7Jnebi6eFAJSZFOnWAT49n) | 3:33 | 2023-01-21 | 2023-02-24 |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2020-08-10 | 2020-08-24 |
@@ -1718,7 +1719,7 @@
 | [Swing With Me](https://open.spotify.com/track/4OIFVICOvkbP8yQ0k8LVrn) | [Leon Rosen](https://open.spotify.com/artist/13O0zKTEYQA0fx7VT0RFAr) | [The Night is for Jokers](https://open.spotify.com/album/5VoDkkbIWrOYWOec1rPJeQ) | 3:09 | 2021-01-05 | 2021-01-21 |
 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 | 2021-07-11 |  |
 | [Switch Off](https://open.spotify.com/track/19DEsE9oHqRVZXtAO8wNNy) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Switch Off](https://open.spotify.com/album/26KLso0iYAnzXqVrJSyTYI) | 2:54 | 2020-02-27 | 2020-03-11 |
-| [Só Pra Dizer](https://open.spotify.com/track/4tBTV37b72pBYMYUuZctat) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Téka Penteriche](https://open.spotify.com/artist/0pOsCjNjgezuvqdvPGapuZ) | [Só Pra Dizer](https://open.spotify.com/album/0dje5oJErhHLE3hoRxryVd) | 3:08 | 2023-02-05 |  |
+| [Só Pra Dizer](https://open.spotify.com/track/4tBTV37b72pBYMYUuZctat) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Téka Penteriche](https://open.spotify.com/artist/0pOsCjNjgezuvqdvPGapuZ) | [Só Pra Dizer](https://open.spotify.com/album/0dje5oJErhHLE3hoRxryVd) | 3:08 | 2023-02-05 | 2023-03-09 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0FlfN5cbUUpIHCRH8X1M44) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 5:04 | 2020-12-20 | 2023-02-12 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/0XS2rOeAPNEoi23fS7K5TO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/2Q8nhGOz0h2HJraU44goUF) | 5:05 | 2020-08-20 | 2021-07-12 |
 | [Table for Two](https://open.spotify.com/track/7F7WRCNDWTwGkNEu8otUoY) | [Matt Sterling](https://open.spotify.com/artist/48Dv0C21GDMR2XcHMJ5ZYT) | [Table for Two](https://open.spotify.com/album/4XqkBHArY0LTq481SdbNE3) | 3:10 | 2022-12-09 | 2023-01-03 |
@@ -1964,6 +1965,7 @@
 | [What a Way](https://open.spotify.com/track/1yWBXDefrIQhyyI0a8jPsV) | [Kindred Connection](https://open.spotify.com/artist/5cEEoJbXSjPdfO4xYWXPvg) | [What a Way](https://open.spotify.com/album/1s689DNOZ7yADGwMdx78Nt) | 4:00 | 2021-09-12 | 2021-09-28 |
 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 | 2022-07-22 | 2022-08-07 |
 | [What I Know](https://open.spotify.com/track/79Gg3a5rEcaEWFVSgpeAcL) | [LBR DPT](https://open.spotify.com/artist/4evsswEUZMesBf7Irxg8pC) | [What I Know](https://open.spotify.com/album/0ihbD1OOySf01rTmEJ0Fg2) | 3:15 | 2021-12-05 | 2021-12-20 |
+| [What if](https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn) | [Isa Bellido](https://open.spotify.com/artist/0X87molz4985PMgGOcEVN3) | [What if](https://open.spotify.com/album/04gFOCcTs3WAVOwbJuvEu4) | 2:40 | 2023-03-09 |  |
 | [what if you break my heart again](https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [what if you break my heart again](https://open.spotify.com/album/1G6C5Crg74VSejc5Xyuh6C) | 2:54 | 2022-10-14 | 2022-12-03 |
 | [What Is Love](https://open.spotify.com/track/5jKjUSRlHerD1UfdWyvKfS) | [Alvin Whitte](https://open.spotify.com/artist/1FC1eTUauFiZrcIawwc6rD) | [What Is Love](https://open.spotify.com/album/3FCDH2leLj9Kdau57aZsSP) | 2:43 | 2020-02-21 | 2020-03-11 |
 | [What Is Love](https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c) | [Orion and the Melted Crayons](https://open.spotify.com/artist/2z1E9QDGOeaEg6XaUS4eSc) | [The Good Stuff](https://open.spotify.com/album/0vnEfoQOupRZdfj5wdej5U) | 3:38 | 2021-09-18 | 2021-10-03 |

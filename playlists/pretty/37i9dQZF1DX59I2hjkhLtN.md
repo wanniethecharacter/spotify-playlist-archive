@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: PNG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,886 likes - 111 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,891 likes - 111 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 32 | [EGOH](https://open.spotify.com/track/0wvvRPSaBPo0YEo2y0Nnkx) | [OhTel](https://open.spotify.com/artist/3kQlFbgH44PqNUjSxyLviA) | [Mic el AngelOh](https://open.spotify.com/album/3MjOywF6hZtfTucw1TNLuJ) | 2:57 |
 | 33 | [MUKA MUNDO, Pt.2](https://open.spotify.com/track/6VOhzSYCbPJY0oWiGpfuB0) | [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT), [404Soundlab](https://open.spotify.com/artist/6MnjuLzxDo66w0t8cI7Ma3) | [ODB](https://open.spotify.com/album/61kuB7V9SXBnw3EOwR6wOC) | 3:40 |
 | 34 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 |
-| 35 | [Ballin](https://open.spotify.com/track/02hhYLKM9ELJtYpudf2cS6) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH) | [No fvks given](https://open.spotify.com/album/503peILyG3EcOahyDy7Urx) | 3:14 |
+| 35 | [Ballin](https://open.spotify.com/track/02hhYLKM9ELJtYpudf2cS6) | [Tieijci](https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH) | [Ballin](https://open.spotify.com/album/503peILyG3EcOahyDy7Urx) | 3:14 |
 | 36 | [REDFLAGS](https://open.spotify.com/track/6CFlhf6PbF7muUZHx0s1se) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [REDFLAGS](https://open.spotify.com/album/0BOLgNRI3skEgH8RRcolCJ) | 1:54 |
 | 37 | [Cuida](https://open.spotify.com/track/6fBto8JNYvrhFAvTwYLbb4) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [When It Hurts](https://open.spotify.com/album/2CFQ6l45Y5Gis4jog559mG) | 2:34 |
 | 38 | [Reckless](https://open.spotify.com/track/5AWW1r4OzIyXmxtcD3Kbci) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Reckless](https://open.spotify.com/album/5sw7CIuUOaLgYs0E2tO2IT) | 4:02 |

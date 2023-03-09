@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-120 songs - 6 hr 56 min
+121 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Don't be happy](https://open.spotify.com/track/53SDgytlX2ZoKbkjNAylPa) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Don't be happy](https://open.spotify.com/album/0l5IiLA2VL4M1AVcLKgc3H) | 3:36 | 2022-04-28 |  |
 | [Don’t Be Happy 2021](https://open.spotify.com/track/2dBOuoUlnHibSw719Pn9PG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 2:57 | 2022-04-28 |  |
 | [Décalcomanie](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MEMORY](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) | 3:35 | 2022-04-28 |  |
-| [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2022-04-28 |  |
+| [Egotistic](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/3vlnS8olJIlCACkLBbHYP2) | 3:16 | 2023-02-22 |  |
+| [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2022-04-28 | 2023-03-09 |
 | [Egotistic \(Blistering sun ver.\)](https://open.spotify.com/track/2kBaZ1oHXgPhpWe30gIv2z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:31 | 2022-04-28 |  |
 | [For Me](https://open.spotify.com/track/1M3FXW2uFBhO2BfphX0ozo) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:38 | 2022-04-28 |  |
 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 | 2022-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 514776,
+  "num_followers": 514694,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDQ5ZmZhMjcyYjEyN2QyYjU4YzRjMWI5OGE0ZTk1OWNm",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDg0NzQ3Zjk1ZDUxODgwMzExOTAxOWVkM2QzMjQwZjcx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "A Dave Brubeck Christmas",
         "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212400,
       "name": "To Us Is Given",
       "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Show Me The Magic",
-        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 150412,
-      "name": "Show Me The Magic",
-      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Big Band Christmas",
         "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 133893,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Show Me The Magic",
+        "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 150412,
+      "name": "Show Me The Magic",
+      "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -759,22 +759,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
+        "name": "Together Again (Remastered 2003)",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
       "artists": [
         {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         },
         {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 148026,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
+      "duration_ms": 194133,
+      "name": "A Child Is Born - Remastered 2003",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -815,38 +815,38 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Together Again (Remastered 2003)",
-        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
         },
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 194133,
-      "name": "A Child Is Born - Remastered 2003",
-      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+      "duration_ms": 148026,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 174906,
-      "name": "I've Got My Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU"
+      "duration_ms": 243600,
+      "name": "Have a Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
     }
   ],
   "unique_name": "Christmas Jazz",

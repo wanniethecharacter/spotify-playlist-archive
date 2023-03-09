@@ -2,7 +2,7 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Vaathi
 
 93 songs - 5 hr 46 min
 

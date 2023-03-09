@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-183 songs - 13 hr 8 min
+184 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Too Sweet for Words](https://open.spotify.com/track/7sZ2hmT4sz4VpE5ZMadnzQ) | [Lovie Austin](https://open.spotify.com/artist/2IadbCgYP2Oj0LHFoSBh68) | [Traveling Blues](https://open.spotify.com/album/4OtR9w1flp5uvnrPQdr77r) | 2:47 | 2022-03-08 |  |
 | [Too Sweet For Words](https://open.spotify.com/track/6rmNXkwUIl3GZ5suQaT8PC) | [Lovie Austin](https://open.spotify.com/artist/2IadbCgYP2Oj0LHFoSBh68) | [Archive Of American Popular Music 1895\-1927](https://open.spotify.com/album/5xnlcB6XVRq99tvQHp3w8s) | 2:49 | 2021-12-02 | 2023-02-17 |
 | [Turiya & Ramakrishna](https://open.spotify.com/track/4DVu7YgHVJaeN0C7HNpy2q) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 8:18 | 2021-12-02 |  |
+| [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2023-03-08 |  |
 | [Un Jour De Différence](https://open.spotify.com/track/1WLTzgu4pulSMjGjinApyd) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jeff Johnston](https://open.spotify.com/artist/6sg6wzUynsWQNmhS4cBQgp), [Bill Gossage](https://open.spotify.com/artist/3DIwSrXAs3zyLFxuyjt62D), [Frédéric Grenier](https://open.spotify.com/artist/75NhFDotWXXsrvG2xPjDpS), [Michel Berthiaume](https://open.spotify.com/artist/0Af2U9ZexloRwwJIARz3ez), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All The Way\-EP](https://open.spotify.com/album/6SGi9R8T8BfGSwhg6fjtEG) | 3:22 | 2021-12-02 | 2022-07-29 |
 | [Un jour de différence](https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:23 | 2022-03-08 |  |
 | [Violets For Your Furs](https://open.spotify.com/track/4ULJ6CB7D8cDOtQGzPdTCW) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Golden Hour Jazz](https://open.spotify.com/album/5bmlT59IBF0CHmS4dXAadJ) | 6:10 | 2022-10-07 | 2022-11-13 |

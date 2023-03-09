@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Cheat Codes
 
-322 songs - 16 hr 25 min
+324 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Can't Hide Love](https://open.spotify.com/track/2U1drF0wHxIHWhkl4JN7js) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 2:29 | 2022-02-11 |  |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-10 | 2022-05-20 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-29 |  |
-| [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 | 2022-07-29 |  |
+| [Carrying Your Love](https://open.spotify.com/track/2LgmOV0Stq52Y25zJBhnd9) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Hometown Heartbreak](https://open.spotify.com/album/0Yl5jku0xM4HVpgDUH5zPA) | 2:35 | 2023-03-03 |  |
+| [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 | 2022-07-29 | 2023-03-09 |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-10 | 2023-02-02 |
 | [Chillbilly](https://open.spotify.com/track/3MMCHaGF2O4Fv61JI9dHr9) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu) | [Chillbilly](https://open.spotify.com/album/4CTZP1oLQtwfofXk37rwqi) | 2:55 | 2022-08-26 | 2023-02-02 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-02-26 |
@@ -100,7 +101,8 @@
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-10 | 2022-06-04 |
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-10 | 2023-01-21 |
 | [Drinkin' Drinks](https://open.spotify.com/track/7DjNEHu28F1cObsPQOUFDH) | [Urban Outlaws](https://open.spotify.com/artist/0OIe9J3WmpoAQsISHsj26F), [Kurt Stevens](https://open.spotify.com/artist/3hxWaqOFMEKfbdxs3O9Iwj) | [Drinkin' Drinks](https://open.spotify.com/album/0eMUBRcNkWpMUjqpNTOeQh) | 2:40 | 2022-04-29 | 2023-01-04 |
-| [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 |  |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/7IWe39vVoSxisDY6jRmqmA) | 2:23 | 2022-08-12 | 2023-03-09 |
+| [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-03-03 |  |
 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 | 2022-04-15 |  |
 | [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 | 2022-09-16 |  |
 | [Effortless](https://open.spotify.com/track/6cxnYQWZdZDlfJiCtI1vnr) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Effortless](https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd) | 3:24 | 2021-12-10 | 2022-05-20 |

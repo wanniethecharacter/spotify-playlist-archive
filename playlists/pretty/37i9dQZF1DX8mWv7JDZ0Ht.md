@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,756 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,807 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 27 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
 | 28 | [Você nasceu para mudar](https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Você nasceu para mudar](https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt) | 3:31 |
 | 29 | [Aquarela](https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 2:59 |
-| 30 | [Amor Compartilhado](https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Amor Compartilhado](https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL) | 2:26 |
-| 31 | [Folha](https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Folha](https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2) | 3:17 |
+| 30 | [Folha](https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Folha](https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2) | 3:17 |
+| 31 | [Amor Compartilhado](https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Amor Compartilhado](https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL) | 2:26 |
 | 32 | [Golden Hour](https://open.spotify.com/track/4oDijncCNWBbS54GAqa9if) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Golden Hour](https://open.spotify.com/album/2yKMpfp6npVmfyjHVR08xQ) | 2:48 |
 | 33 | [Lance ou Romance](https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Lance ou Romance](https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc) | 2:42 |
 | 34 | [Toda pra Você](https://open.spotify.com/track/5idwUIbn0g5U7Lk3MlfEX6) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV), [José Cândido](https://open.spotify.com/artist/19NtAWXxzXXpcJhGvJIAnf) | [Toda pra Você](https://open.spotify.com/album/6NekMZBPLFc5qrbBNEEmS6) | 3:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 |
 | 80 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
 
-Snapshot ID: `MTY3ODExMTk3NiwwMDAwMDAwMDZkYjdiMGIxNzhhOGExZTU3OTYxZThkZTFkYzI1OTJl`
+Snapshot ID: `MTY3ODExMTk3NiwwMDAwMDAwMGJhNWI2ZjE2YzNlMTRjMjAyYWYwYWFhYzc4ODAxNjE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,757 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,935 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 23 | [Never Gonna Let You Go \- Kelly G Bump\-N\-Go Dub Edit](https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH) | [Tina Moore](https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u), [Kelly G.](https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb) | [Never Gonna Let You Go](https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl) | 3:57 |
 | 24 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
 | 25 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
-| 26 | [My Love \(So Good\) \[10 Below Club Mix\]](https://open.spotify.com/track/3z84XGmcOS2V1cQSXe9IGZ) | [10 Below & Kele Le Roc](https://open.spotify.com/artist/4HOsFnbVyWoaOoUz5Lc2UD) | [My Love](https://open.spotify.com/album/4k65UMs7lmHiDnlFs4QJgD) | 5:34 |
-| 27 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/5FO1NUarjrRlFpOTnyritk) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/22IqOTt63ddQffgEDoghxf) | 3:29 |
+| 26 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/5FO1NUarjrRlFpOTnyritk) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [RIP Groove](https://open.spotify.com/album/22IqOTt63ddQffgEDoghxf) | 3:29 |
+| 27 | [My Love \(So Good\) \[10 Below Club Mix\]](https://open.spotify.com/track/3z84XGmcOS2V1cQSXe9IGZ) | [10 Below & Kele Le Roc](https://open.spotify.com/artist/4HOsFnbVyWoaOoUz5Lc2UD) | [My Love](https://open.spotify.com/album/4k65UMs7lmHiDnlFs4QJgD) | 5:34 |
 | 28 | [Why? \- UK Garage MC Radio Edit](https://open.spotify.com/track/1dHLyXaqQDLxH4IyZ3NgdN) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:20 |
 | 29 | [Things We Do for Love](https://open.spotify.com/track/6aK9ltNssyBsh0C6Q9ZsVZ) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH), [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD) | [Uk Garage Beats V4](https://open.spotify.com/album/0IhOfm65ovw4xuw8XXsef3) | 3:31 |
 | 30 | [Little Man \- Exemen Works](https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Exemen](https://open.spotify.com/artist/3pCHYkU91rpHix5L78plcF) | [Healing is Difficult \(10th Anniversary Edition\) \(Deluxe\)](https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG) | 5:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 |
 | 75 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 
-Snapshot ID: `MTY3NDA1MzQ5MywwMDAwMDAwMDBhMTNmMmUxMDk0YTgyMDMwMGQxZGU5ZjM2YzliNTJi`
+Snapshot ID: `MTY3NDA1MzQ5MywwMDAwMDAwMDgwODA4NmYyZjI0Yzk3NDAzMjZlYTYyNWNjNjFjMzM5`

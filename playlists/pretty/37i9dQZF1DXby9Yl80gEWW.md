@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,233 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,268 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 34 | [Midnight on the Water](https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc) | [John Reischman](https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt), [Scott Nygaard](https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [The Harmonic Tone Revealers](https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd) | 5:11 |
 | 35 | [Annabelle June](https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Appalachian Picking Society](https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg) | 3:33 |
 | 36 | [Mountains Quake](https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Leave Some Things Behind](https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd) | 2:01 |
-| 37 | [Tall Fiddler](https://open.spotify.com/track/1CSVXXjCoOaPEqa2R5QDb3) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Flamekeeper](https://open.spotify.com/artist/2RqXeLGyEF8fqBzEoELDeo), [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Tall Fiddler](https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX) | 3:14 |
-| 38 | [Smith Chapel](https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG) | [David Grier](https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2) | [Lone Soldier](https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m) | 3:18 |
+| 37 | [Smith Chapel](https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG) | [David Grier](https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2) | [Lone Soldier](https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m) | 3:18 |
+| 38 | [Tall Fiddler](https://open.spotify.com/track/1CSVXXjCoOaPEqa2R5QDb3) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Flamekeeper](https://open.spotify.com/artist/2RqXeLGyEF8fqBzEoELDeo), [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Tall Fiddler](https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX) | 3:14 |
 | 39 | [Baltimore Johnny](https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [The Cold Hard Facts](https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao) | 3:31 |
 | 40 | [Peace Behind the Bridge](https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 2:34 |
-| 41 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 |
+| 41 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 |
 | 42 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 |
 | 43 | [Mansinneedof](https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Song Up In Her Head](https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP) | 2:51 |
-| 44 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 |
+| 44 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 |
 | 45 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 |
 | 46 | [Blue Midnite](https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The David Grisman Quintet](https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq) | 3:40 |
 | 47 | [Su Prabhat](https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN) | [The Greencards](https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S) | [Viridian](https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Creatures of Havoc](https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:52 |
 | 100 | [Just a Closer Walk With Thee](https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [New Highway \(Remastered\)](https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0) | 2:20 |
 
-Snapshot ID: `MTY3Nzg2NDg1NiwwMDAwMDAwMDgzZDVhMDJlNmZhYjFkZTMwNWQ2OTg2N2E1MDU3M2Rh`
+Snapshot ID: `MTY3Nzg2NDg1NiwwMDAwMDAwMDc1MzIyNjEzYTgzOWIwM2Y0NzE3Yjk1YjdlYzc4YzU0`

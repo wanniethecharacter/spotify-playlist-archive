@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "pawnshop",
+        "url": "https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158998,
+      "name": "pawnshop",
+      "url": "https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca"
+    },
+    {
+      "album": {
         "name": "Tell Me What You Miss The Most",
         "url": "https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95"
       },

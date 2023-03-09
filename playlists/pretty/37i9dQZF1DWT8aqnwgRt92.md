@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,287 likes - 85 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,789 likes - 85 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 7 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 |
 | 8 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 |
 | 9 | [TRIGGER](https://open.spotify.com/track/0zzfORvHh4ak5BscgpdRqF) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [TRIGGER](https://open.spotify.com/album/0FX4ocXqTa8VSq9QSXFA4O) | 4:34 |
-| 10 | [uni\-verse](https://open.spotify.com/track/6kmD2DHbBb80dHfIRlhTxx) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ギフト](https://open.spotify.com/album/29KGPVGqmyN095m2VgRACs) | 4:31 |
+| 10 | [Uni\-Verse](https://open.spotify.com/track/0bJIoYV4eotOGrdKOgjeHj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 4:31 |
 | 11 | [Sorairo Days \- From CrosSing](https://open.spotify.com/track/3YnFuf6DE54Uw3gt7iBgBF) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [Sorairo Days \- From CrosSing](https://open.spotify.com/album/5AHqJaHjgCN0L9RgYVOUzQ) | 4:13 |
 | 12 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 |
 | 13 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Dawn](https://open.spotify.com/track/2NmEYIZ24bLuxQGFKXfkPP) | [Sir Vanity](https://open.spotify.com/artist/7HAVj2cCdBRXq6BYf1C6qA) | [midnight sun](https://open.spotify.com/album/5XYyr4HDb5s7f6lGrtooI4) | 3:38 |
 | 85 | [SEIEN](https://open.spotify.com/track/42o1jncT5EodHI9TP6J3f5) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [SEIEN](https://open.spotify.com/album/0U6PwfdcTKaLaHKyIWGl16) | 3:26 |
 
-Snapshot ID: `MTY3ODIwNjE1OCwwMDAwMDAwMGRhZmFiOGZmZDgxMzJkMzBhMDMxZmEyNjcxMTJiMGRj`
+Snapshot ID: `MTY3ODIwNjE1OCwwMDAwMDAwMDExMmQwNjZhZmUxODVjNWVjNjFiOWFjZDBhYWY3MGUy`

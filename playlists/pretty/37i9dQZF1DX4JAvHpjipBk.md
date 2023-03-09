@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Morgan Wallen, Kali Uchis, Mimi Webb, 6LACK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,070,233 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,070,731 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

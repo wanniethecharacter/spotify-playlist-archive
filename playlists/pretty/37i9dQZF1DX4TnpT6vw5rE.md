@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,697 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,731 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 88 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 |
 | 89 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 |
 | 90 | [Breathing Space](https://open.spotify.com/track/1jSZD1nuMd0N1UBDwXzj1r) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Breathing Space](https://open.spotify.com/album/4vNAJb2kHQGi8hpYHhAvmG) | 2:33 |
-| 91 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 |
-| 92 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 |
+| 91 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 |
+| 92 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 |
 | 93 | [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 |
 | 94 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 |
 | 95 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 |
 | 120 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 |
 
-Snapshot ID: `MTY3Nzg2NTQ0NiwwMDAwMDAwMDM4NTFiYTQ2YWQxMjRlM2Y4ODM5ZjI5ZjM3ZGI2OTI1`
+Snapshot ID: `MTY3Nzg2NTQ0NiwwMDAwMDAwMDMyNWYwMTU0MDZhNDU2ZTBmNmI4YmIxNjkwMjg1NjM0`

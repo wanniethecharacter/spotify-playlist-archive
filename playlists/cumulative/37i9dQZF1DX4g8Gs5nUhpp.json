@@ -759,6 +759,32 @@
     },
     {
       "album": {
+        "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
+        "url": "https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo"
+      },
+      "artists": [
+        {
+          "name": "Krix",
+          "url": "https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL"
+        },
+        {
+          "name": "Nhi Nhi",
+          "url": "https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt"
+        },
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
+      "url": "https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t V\u1ea1n N\u0103m",
         "url": "https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN"
       },
@@ -1409,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i (Piano Version)",
+        "url": "https://open.spotify.com/album/25aSCmyq0GJvaSUduH72Kj"
+      },
+      "artists": [
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244218,
+      "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
+      "url": "https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE"
+    },
+    {
+      "album": {
         "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
         "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
       },
@@ -1490,7 +1534,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 270000,
       "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
       "url": "https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N"
@@ -1987,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Qua Ng\u00e0y Mai (2018)",
+        "url": "https://open.spotify.com/album/3XI0babfSGTn56c1kedLte"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ean Ti\u00ean",
+          "url": "https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Qua Ng\u00e0y Mai - 2018",
+      "url": "https://open.spotify.com/track/6aCkeFgaHGiIxRAPGEk9P9"
+    },
+    {
+      "album": {
         "name": "Querry",
         "url": "https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw"
       },
@@ -2158,7 +2220,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 185002,
       "name": "See T\u00ecnh",
       "url": "https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF"
@@ -2824,7 +2886,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 265600,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW"

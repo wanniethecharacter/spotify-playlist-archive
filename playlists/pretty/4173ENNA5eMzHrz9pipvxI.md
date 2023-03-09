@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Leftwing Kody x Robot Collective
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,152 likes - 12 songs - 31 min 46 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,156 likes - 12 songs - 31 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 7 | [Let's Go](https://open.spotify.com/track/5CF0J17yCgiOuesCGJU0Jf) | [Bounce Inc.](https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq), [SPLT](https://open.spotify.com/artist/5Ma3LBUnDFkXhILojyeug3) | [Let's Go](https://open.spotify.com/album/0I6BYJN3uWc5cYJ1C5faZM) | 3:23 |
 | 8 | [Drop That Low \(When I Dip\) \[feat\. Kid Ink\] \[GOOD N’ BAD Remix\]](https://open.spotify.com/track/3ngvQArJT8Kd26hZAhvIjo) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [GOOD N’ BAD](https://open.spotify.com/artist/6stxtq6kFlB4ZpYsfXnYUb) | [Drop That Low \(When I Dip\) \[feat\. Kid Ink\] \[GOOD N’ BAD Remix\]](https://open.spotify.com/album/4F1hqOhNHr3o3gjvBvltY6) | 2:19 |
 | 9 | [Midnight Club](https://open.spotify.com/track/0voSkJzkArRukviUK5RjPE) | [509 $icario](https://open.spotify.com/artist/6Wx2VVhGDwD4RTwJ4yyip2) | [Midnight Club](https://open.spotify.com/album/2SpfqvG4YGI2sVk4kglS7k) | 2:48 |
-| 10 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 |
+| 10 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 |
 | 11 | [Somebody To Love \(feat\. LIZOT, Basstrologe\) \[Slowed Version\]](https://open.spotify.com/track/4zVdoOcp0UODLeKr6jwEKP) | [Nightcore Slowed Down Tunes](https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs) | [Somebody To Love \(feat\. LIZOT, Basstrologe\) \[Slowed Version\]](https://open.spotify.com/album/7aoHA9AF12s06S5zSUxeMN) | 2:28 |
 | 12 | [Somebody To Love \(feat\. Basstrologe\) \[Slowed Version\]](https://open.spotify.com/track/4fbQbyieN8SuSkV6Jr0TLk) | [Nightcore Slowed Down Tunes](https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs) | [Somebody To Love \(feat\. Basstrologe\) \[Slowed Version\]](https://open.spotify.com/album/0JR9pZ44wITwUqBPyhu1f1) | 2:41 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1362,
+  "num_followers": 1366,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDIwNWRlMDMwMDQxNGU5MzMwNDE5ZmQ2OWE0OWViZjQ4",
+  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDAxYjhhMDAwNDZhZDhiOTdlMTk5YWMxNzcxYmJkNTFj",
   "tracks": [
     {
       "added_at": "2023-01-20 05:07:11",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
-      "added_at": "2023-03-08 00:13:35",
+      "added_at": "2023-03-09 01:13:09",
       "album": {
         "name": "Tok Tok",
         "url": "https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh"
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2023-02-03 14:21:08",
       "album": {
-        "name": "One Bite",
-        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
         }
       ],
-      "duration_ms": 174315,
-      "name": "One Bite",
-      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -181,20 +181,20 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2023-02-03 14:21:08",
+      "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+        "name": "One Bite",
+        "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
       },
       "artists": [
         {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+      "duration_ms": 174315,
+      "name": "One Bite",
+      "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -309,22 +309,6 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
       "added_at": "2023-02-16 20:59:00",
       "album": {
         "name": "Sikwebela",
@@ -363,6 +347,22 @@
       "duration_ms": 228040,
       "name": "Love Marijuana",
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Kiki Kyogamba",
         "url": "https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kikole",
         "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 209361,
       "name": "Kikole",
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
+        }
+      ],
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2023-02-03 14:21:08",
@@ -659,26 +679,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
-        }
-      ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 188444,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2022-12-16 11:22:34",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kampala",
         "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
@@ -759,38 +759,6 @@
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -811,6 +779,54 @@
     {
       "added_at": "2022-11-17 20:59:00",
       "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
+    },
+    {
+      "added_at": "2023-03-09 01:13:09",
+      "album": {
+        "name": "Glory To The King",
+        "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "duration_ms": 150019,
+      "name": "Glory To The King",
+      "url": "https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
         "name": "Kwetega",
         "url": "https://open.spotify.com/album/77agp9iFzPzhb7ssgWH2Kc"
       },
@@ -823,6 +839,22 @@
       "duration_ms": 216960,
       "name": "Kwetega",
       "url": "https://open.spotify.com/track/4h6XwEp0ElqD5xEYpcKGxr"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -857,52 +889,20 @@
       "url": "https://open.spotify.com/track/2Ro8OuIwKZzAB3K1qxzfnC"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
+      "added_at": "2023-02-03 14:21:08",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+        "name": "MariaRoza (Amapiano Version)",
+        "url": "https://open.spotify.com/album/61YzhxcyHNmFmcpN7KQn3d"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
-      "added_at": "2023-03-08 00:13:35",
-      "album": {
-        "name": "Glory To The King",
-        "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
-      },
-      "artists": [
-        {
-          "name": "JOSHUA LAZER",
-          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
-        }
-      ],
-      "duration_ms": 150019,
-      "name": "Glory To The King",
-      "url": "https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Awo",
-        "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
-      },
-      "artists": [
-        {
-          "name": "ALLAN TONIKS",
-          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "Akahama",
-      "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
+      "duration_ms": 241502,
+      "name": "MariaRoza (Amapiano Version)",
+      "url": "https://open.spotify.com/track/2TBklxiA4ZK8KWuJvhodQJ"
     }
   ],
   "unique_name": "Made In Uganda",

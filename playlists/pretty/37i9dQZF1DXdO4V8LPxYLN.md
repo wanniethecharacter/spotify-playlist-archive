@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 44 | [Ceres](https://open.spotify.com/track/1pD4Z5dIRA7SIyhnPPs8Sg) | [Troy](https://open.spotify.com/artist/3LjP4c5kR69wiWiMJJ76Nt) | [Klockworks 21](https://open.spotify.com/album/6iSxIlI0aEhI8qKQGK3mmk) | 6:42 |
 | 45 | [Tapeworm](https://open.spotify.com/track/3EWMH95wrhmscPMHltsLQx) | [Rethe](https://open.spotify.com/artist/0cJIGBg9q04ypOJlNL0J2O) | [Ataraxia](https://open.spotify.com/album/57PDAJiNcDFmpkoWDat0Rc) | 6:22 |
 | 46 | [Eco](https://open.spotify.com/track/0WZ5a0z3O1x284noYc4rRk) | [Jana Sleep](https://open.spotify.com/artist/1j6asNkDb24x7Fxm8tlukL) | [Eco](https://open.spotify.com/album/6PAie51n2ylq02viVvOv1H) | 6:49 |
-| 47 | [Memories](https://open.spotify.com/track/0IuHmZobH0ypErTIG3f61X) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [Figure Jams 001](https://open.spotify.com/album/2hBVeGziq0XdoneJVUMdqr) | 5:59 |
+| 47 | [Memories](https://open.spotify.com/track/0vp83hvcmTPcjhWM2YzIRA) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [FIGURE JAMS 001](https://open.spotify.com/album/77pre9eDDlOhnxa0TQnzm3) | 5:59 |
 | 48 | [Lower Norfair](https://open.spotify.com/track/0bQPjjWiNrtPBdyt570MRc) | [Uun](https://open.spotify.com/artist/4CZJ0wOrcOkkYwB5rLSgzV) | [Hell Is Empty EP](https://open.spotify.com/album/2Ml00ngoYCkyR5XerBpLFv) | 5:56 |
 | 49 | [Croatian Steel](https://open.spotify.com/track/2jaTSJDlx44kqwBFW8wwGG) | [Volster](https://open.spotify.com/artist/4kQues2Z7iz7pr1cxbjb1I) | [V/A 1.0](https://open.spotify.com/album/6uYEST6aS3QictZAMfyucj) | 5:00 |
 | 50 | [Vertical Ice](https://open.spotify.com/track/3C3gWi1vRZxZRPoNHnVTaU) | [Polar Inertia](https://open.spotify.com/artist/0WStQnW9WLEG01RKPDB0oy) | [Kinematic Optics EP](https://open.spotify.com/album/7ssmG4eEaxOMymsZtA3oI7) | 11:58 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 52 | [Achievement 3](https://open.spotify.com/track/2wiZS58qQCMAtf66IHDrXj) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Compilation One](https://open.spotify.com/album/16tsQvb1JrMpyiLXQMVBqC) | 5:41 |
 | 53 | [Pace Chemistry](https://open.spotify.com/track/33olisitkJSIsGypRWmDVL) | [PVNV](https://open.spotify.com/artist/0bHUeo6y8JR9GwawQRsYMA) | [Various Artists](https://open.spotify.com/album/52gGWRpHNjEuVBwBgcD63s) | 6:45 |
 
-Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMDc3MzBiOTg4YTBhYWZjZjYyZTcyNzZmMDhmYTQ2MTk3`
+Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMDU4YmY2YTY0YTVlZmRmZGRiOTAxNTcwMzYyOTUzNzRk`

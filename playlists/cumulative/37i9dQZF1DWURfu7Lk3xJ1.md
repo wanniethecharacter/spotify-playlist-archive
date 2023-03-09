@@ -4,7 +4,7 @@
 
 > Focus the mind with these calming beats.
 
-336 songs - 12 hr 55 min
+337 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [liaison](https://open.spotify.com/track/7ynqgM0yV20EW4IwZ0Midz) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [liaison](https://open.spotify.com/album/76JTRe7VNwOt4iTYlXVIg3) | 2:23 | 2022-09-09 |  |
 | [Light Years Away](https://open.spotify.com/track/27esLzalhIbSXCNvPlAUfH) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Out Of Orbit](https://open.spotify.com/album/0YjNahI1L5bQdDrl6Fq8TN) | 2:30 | 2023-01-20 |  |
 | [Little Soul](https://open.spotify.com/track/4Ht6KepmTnEG0yymwBZkWS) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Little Soul](https://open.spotify.com/album/0F699U3BSLCfkYqOZFE0Zg) | 2:09 | 2022-09-09 |  |
-| [Location](https://open.spotify.com/track/7vuPTU4p1E7lieUeUkg6YI) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Epona](https://open.spotify.com/artist/4Q4RI9i7blNnSW4QZCMIwL) | [Location](https://open.spotify.com/album/5AycsgymPsaKyMSSyQeluG) | 1:58 | 2022-09-09 |  |
+| [Location](https://open.spotify.com/track/1FQ7g6me63l4uTGnxN00SJ) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Epona](https://open.spotify.com/artist/4Q4RI9i7blNnSW4QZCMIwL) | [Location](https://open.spotify.com/album/5nML8h32o2mWtOnqgYgT5G) | 1:58 | 2023-03-01 |  |
+| [Location](https://open.spotify.com/track/7vuPTU4p1E7lieUeUkg6YI) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Epona](https://open.spotify.com/artist/4Q4RI9i7blNnSW4QZCMIwL) | [Location](https://open.spotify.com/album/5AycsgymPsaKyMSSyQeluG) | 1:58 | 2022-09-09 | 2023-03-09 |
 | [Long Days And Longer Nights](https://open.spotify.com/track/0RaTFbCKKGTpiqqQroXW2d) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Pines](https://open.spotify.com/artist/1ueoZoYkwA7lpzlcc4yhPB) | [Long Days And Longer Nights](https://open.spotify.com/album/3LVvrk7pYV4Af2UUhpZL0w) | 2:08 | 2022-09-09 | 2022-10-14 |
 | [Look](https://open.spotify.com/track/3ySoVXaNrc9vgqonspDsF1) | [Lumini](https://open.spotify.com/artist/2cbLFoYZjIj973sMYSZRpu) | [Look](https://open.spotify.com/album/1tjI8HQ2IFymrd41oRaKjn) | 2:18 | 2022-09-09 |  |
 | [Looking At The Moon](https://open.spotify.com/track/147qSNYggXXwWlWKAI1rj9) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Looking At The Moon](https://open.spotify.com/album/0UP7nR3zxvc5nqzALL1SHo) | 2:19 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: ズーカラデル
 
-243 songs - 15 hr 28 min
+245 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 |  |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-13 | 2023-02-22 |
 | [Hesitate](https://open.spotify.com/track/059gJJ8254eNcPhese0enO) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Hesitate](https://open.spotify.com/album/2a4JxJrhYkacvjOShXbKSX) | 2:55 | 2023-01-17 | 2023-02-02 |
+| [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-07 |  |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-02-15 |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-02-28 |  |
 | [Honey](https://open.spotify.com/track/18DQ9iePAAoZUFjnAaDG88) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 3:02 | 2023-01-13 | 2023-02-19 |
@@ -110,6 +111,7 @@
 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 | 2023-02-21 |  |
 | [Sunshine](https://open.spotify.com/track/7iOawL9cuIdPVzt7vT6QxA) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Sunshine](https://open.spotify.com/album/361LK8wqvhs0Sv6oVPwzMz) | 4:52 | 2023-01-13 | 2023-01-18 |
 | [Symbol 2](https://open.spotify.com/track/6SbB3wddYrGmB6HAbzzqav) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 2:52 | 2023-01-13 | 2023-01-18 |
+| [Taiyo to Ikaros](https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Taiyo to Ikaros](https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx) | 4:30 | 2023-03-07 |  |
 | [Tear](https://open.spotify.com/track/1GWYGK6DLPIFYnmuKaB3fX) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Best Answer / Someday Loser / Look Back / In My Car / Sun Shower / Hangover / Tear](https://open.spotify.com/album/4rJRr3NV4LzV657seWSHUG) | 4:28 | 2023-01-17 | 2023-02-15 |
 | [tear](https://open.spotify.com/track/530bEuZrY26veaXkgjOrWS) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [best answer / サムデイルーザー / ルックバック / 車の中から / サンシャワー / ハングオーバー / tear](https://open.spotify.com/album/2TAM2ItNGcHiSqv8a8Pxdi) | 4:28 | 2023-01-17 | 2023-01-19 |
 | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT) | 3:48 | 2023-01-17 | 2023-03-01 |
@@ -209,7 +211,7 @@
 | [夜間飛行](https://open.spotify.com/track/68YvkhqAt2SVQUCjjIjtyX) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [夜間飛行](https://open.spotify.com/album/1AnR0C9gnRDw8qgV4wdWlU) | 3:00 | 2023-01-13 | 2023-02-17 |
 | [夜顔](https://open.spotify.com/track/4XH4ckpvd4q1MDFKyE4PEQ) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [夜顔](https://open.spotify.com/album/6Z45gYtioGt7lLln8FsP14) | 3:20 | 2023-01-17 | 2023-02-15 |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2023-02-28 |  |
-| [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 |  |
+| [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 | 2023-03-09 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-01-31 | 2023-02-15 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-02-09 |
 | [宿縁](https://open.spotify.com/track/4vEuwSyGXdSBlx3BpeHoUT) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv) | 3:33 | 2023-02-07 |  |
@@ -219,7 +221,7 @@
 | [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 | 2023-02-21 | 2023-02-23 |
 | [愛を信じたいんだ](https://open.spotify.com/track/5vTFsO3TE3yPVoeqUP8N8r) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [愛を信じたいんだ](https://open.spotify.com/album/0UEAPSJcIEyYmAR35FQGQq) | 3:22 | 2023-01-13 | 2023-01-18 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 |  |
-| [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-07 |  |
+| [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-07 | 2023-03-09 |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-01-13 | 2023-02-24 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-15 |
 | [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 |  |

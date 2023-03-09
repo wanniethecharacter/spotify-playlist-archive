@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> Discover something new from local independent artists on the rise\. Cover: IN2STELLA
+> Discover something new from local independent artists on the rise\. Cover: IN2STELLAR
 
 1,796 songs - 4 day 3 hr 25 min
 
@@ -55,7 +55,7 @@
 | [ALL GOOD](https://open.spotify.com/track/2gTMLz2eU8Ae57F2f4RQLK) | [Lux](https://open.spotify.com/artist/0IJKXddxwtlfeyo0IWtCf0) | [ALL GOOD](https://open.spotify.com/album/0GHhXtjUjHmWEfiBeuKOZo) | 3:04 | 2022-06-08 | 2022-06-30 |
 | [All I See Is You](https://open.spotify.com/track/6OOE20Txlvpu1FOF4dxj8I) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Something To Give](https://open.spotify.com/album/2l8TYvZ91Vn9rb2KqtaV4L) | 2:25 | 2022-09-14 | 2022-10-13 |
 | [All I Want](https://open.spotify.com/track/6SaH8aff4xhejjujgoezUQ) | [Adrian Swish](https://open.spotify.com/artist/7BVbyQxv5u5jJ0lYjoElYD) | [All I Want](https://open.spotify.com/album/2qwzZ46e2yTh7JKjFBGujQ) | 3:25 | 2023-01-12 | 2023-01-26 |
-| [All I Want](https://open.spotify.com/track/25MZuhKZszKKqH7HlDShr6) | [Kyden](https://open.spotify.com/artist/3WnlQ3tV3hCz41P3pvg5oz) | [All I Want](https://open.spotify.com/album/2kDI1j9xn59hDSFdOL0Qi6) | 2:47 | 2023-03-08 |  |
+| [All I Want](https://open.spotify.com/track/25MZuhKZszKKqH7HlDShr6) | [Kyden](https://open.spotify.com/artist/3WnlQ3tV3hCz41P3pvg5oz) | [All I Want](https://open.spotify.com/album/2kDI1j9xn59hDSFdOL0Qi6) | 2:47 | 2023-03-08 | 2023-03-09 |
 | [All In Place](https://open.spotify.com/track/0OHNlrrhZmZV0OKXGKCUAN) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place](https://open.spotify.com/album/5Jkcs2WoO1mkEAUFGrQBAN) | 4:03 | 2022-06-15 | 2022-07-14 |
 | [All In Place](https://open.spotify.com/track/3zUs4BlIIozxQVBjGN1D7P) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [All In Place \(feat\. Bearcubs\)](https://open.spotify.com/album/5DPgB65gzwvsaVrGSIErUp) | 4:03 | 2022-11-30 | 2023-01-13 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-28 | 2022-01-13 |

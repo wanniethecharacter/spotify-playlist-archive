@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,319 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,312 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 108 | [Dead Descent](https://open.spotify.com/track/1IWrkumoqevr4EkjsyCe6C) | [Stravy](https://open.spotify.com/artist/0q6LIg3EExctnTreiwrj3T) | [Dead Descent](https://open.spotify.com/album/2hiAaNKcd4BFZZLHIWVs8A) | 1:45 |
 | 109 | [9INE ELEVEN](https://open.spotify.com/track/0zX7yRFJhpc16OOt4UElfS) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [9INE ELEVEN](https://open.spotify.com/album/4NMFumK6dLtjbKFgphPuPE) | 2:15 |
 | 110 | [ANUBIS](https://open.spotify.com/track/4MAchystlBBEC4oRUL0MhH) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [ANUBIS](https://open.spotify.com/album/3N8ejH1nfopZNW9xDihd6Y) | 1:55 |
-| 111 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
+| 111 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
 | 112 | [KNIGHT II](https://open.spotify.com/track/02GhWUHTzx0OfCshU5tXqs) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT II](https://open.spotify.com/album/6vQX5L9FKZZRxBKWKtaxDZ) | 2:06 |
 | 113 | [WARLOCK](https://open.spotify.com/track/1VeU4XBV5KcNZjbvbDyyIC) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARLOCK](https://open.spotify.com/album/2LtIJUsp42hqhXx9Ew9JIA) | 2:19 |
 | 114 | [Я не можу забути тебе \(Ла ла ла\)](https://open.spotify.com/track/5Vwjv29cjGoJBq00UTS9I7) | [United Sexi Boyz](https://open.spotify.com/artist/06lVX5o79O57DxKtScRGnh) | [Я не можу забути тебе \(Ла ла ла\)](https://open.spotify.com/album/4HztPb42EqXKfUiNGW7vrC) | 3:06 |

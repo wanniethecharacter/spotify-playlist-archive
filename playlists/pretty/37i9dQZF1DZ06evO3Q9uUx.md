@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,976 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,995 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 50 | [OMG](https://open.spotify.com/track/0KZgWM9NQnbJYxP31XtL4k) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [OMG](https://open.spotify.com/album/3Sdnzuh874KS2fpvbOKfVh) | 3:01 |
 
-Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDA4NmI4ZDk0MzQwMDg0OTU4OTQ3MDBhZWExMmU3MDFhOQ==`
+Snapshot ID: `Mjc5NzE1NDksMDAwMDAwMDA3MTNjNGNiN2UzOTQwNDY3NjI0N2IxNGJmOGRjMDMyNQ==`

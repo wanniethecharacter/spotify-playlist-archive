@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "City of All",
+        "url": "https://open.spotify.com/album/4SGcWgxpJ0rsBtBXbuQEZg"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Feel the Same - Edit",
+      "url": "https://open.spotify.com/track/0XzOoAXFwlJ9HABK13SvyE"
+    },
+    {
+      "album": {
         "name": "Feel the Same (Edit)",
         "url": "https://open.spotify.com/album/11B1LZprXYVd6DTI60U80H"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 224400,
       "name": "Feel the Same - Edit",
       "url": "https://open.spotify.com/track/64TlZdKnvGP5y7naWW0YQl"
@@ -1387,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Holy Sun",
+        "url": "https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416561,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl"
+    },
+    {
+      "album": {
         "name": "Holy Sun EP",
         "url": "https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi"
       },
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 416561,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK"
@@ -1568,10 +1604,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 219840,
       "name": "More Love - Edit",
       "url": "https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD"
+    },
+    {
+      "album": {
+        "name": "Keep On Swindling Pt. 3",
+        "url": "https://open.spotify.com/album/2JC0aWxKNGe3pNnEWF8S6R"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "More Love - Edit",
+      "url": "https://open.spotify.com/track/587merZ6HZx128D6URmP7h"
     },
     {
       "album": {
@@ -2926,10 +2980,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 238065,
       "name": "You - Edit",
       "url": "https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS"
+    },
+    {
+      "album": {
+        "name": "You (Edit)",
+        "url": "https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238065,
+      "name": "You - Edit",
+      "url": "https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-439 songs - 1 day 2 hr 43 min
+440 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-05-27 |  |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-05-27 | 2022-07-29 |
 | [Arizona](https://open.spotify.com/track/7hGeRC8nVfXI4a9sC8x8N7) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Arizona](https://open.spotify.com/album/4hiNrZKf4GuN3Djx0ngOkd) | 3:19 | 2019-05-26\* | 2022-06-23 |
+| [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 | 2022-10-14 |  |
 | [As We Ran](https://open.spotify.com/track/5ITmuvjtUUdxVQCCsaKBDx) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/2MeNqK7a04QJIiUgrcX97y) | 3:20 | 2019-05-26\* | 2023-03-01 |
 | [Asshole \- Demo](https://open.spotify.com/track/4jEAQtOfv9yfGYefR48wwE) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Asshole \(Demo\)](https://open.spotify.com/album/7tXZuCdegsmWNLROp3OdrT) | 3:12 | 2019-05-26\* | 2020-06-12 |
 | [At the Party](https://open.spotify.com/track/2PdymseMdXz8eqOXxxTaCM) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [At the Party With My Brown Friends](https://open.spotify.com/album/0N14D9LoMALrUCfyFgkMtb) | 3:54 | 2019-10-22 | 2019-10-24 |
@@ -260,7 +261,7 @@
 | [More I See](https://open.spotify.com/track/58iT2lT6yiTwJyN8zlXrKt) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 4:03 | 2019-05-26\* | 2022-07-28 |
 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 | 2022-05-27 |  |
 | [Morning Light](https://open.spotify.com/track/6XOtuSLtsnZKhvcW9DBaUL) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/2Ew28hPUgNR8DSf5rxKqym) | 3:40 | 2019-05-26\* | 2022-07-29 |
-| [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2022-05-27 |  |
+| [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2022-05-27 | 2023-03-09 |
 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 | 2019-05-26\* | 2022-07-29 |
 | [Mountain Song](https://open.spotify.com/track/2gaAfTcqcGe124BpqKeeSg) | [Little Chief](https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB) | [Lion's Den](https://open.spotify.com/album/3wvSASvjWEKua6MSCoMGeR) | 4:56 | 2019-05-26\* | 2022-07-29 |
 | [Mountain Song](https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh) | [Little Chief](https://open.spotify.com/artist/5oYrefc0gr24yRUMCDBZkB) | [Lion's Den](https://open.spotify.com/album/3j3lKIWIoQozFm1UHJ6mUf) | 4:56 | 2022-05-27 |  |

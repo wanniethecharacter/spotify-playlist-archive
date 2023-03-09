@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 488072,
+  "num_followers": 488320,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDA0YzVjYzRjNGEwOTg0ZTA5ZTNhM2RiYmVjYmQwODEx",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGZiNWE5ODQxNGY1ZjMwZWMxYmRiNjY5MGZjYzA1NzM3",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1291,38 +1291,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
-      },
-      "artists": [
-        {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -1355,6 +1323,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 290965,
       "name": "Heavy Low",
       "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2023-02-10 05:00:00",

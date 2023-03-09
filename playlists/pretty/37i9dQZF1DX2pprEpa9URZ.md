@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,037 likes - 60 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,252 likes - 60 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 36 | [State the Obvious](https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Global Entry 2](https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm) | 7:49 |
 | 37 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 |
 | 38 | [Amida](https://open.spotify.com/track/4PixJeTcnC98CsW9oHP1sh) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Amida](https://open.spotify.com/album/1FSEH402VsDPxxkp9el4vD) | 7:28 |
-| 39 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
-| 40 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 |
+| 39 | [Bosque](https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Bosque](https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt) | 6:33 |
+| 40 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
 | 41 | [Sand](https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Sand](https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl) | 3:07 |
 | 42 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
 | 43 | [Worak](https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L) | [Ameli Paul](https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc) | [6 Years of Underyourskin Records](https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ) | 6:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Graceland](https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Graceland](https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV) | 6:45 |
 | 60 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 |
 
-Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMGNmZjIzNmRmOTZjMjgxYTFlN2FjYWViNDE5Yzg5ZjYw`
+Snapshot ID: `MTY3NjY0Nzk5NywwMDAwMDAwMDU2NDk3YWE0ZDViNDYzMmI3YWU2ZDg0MzgyMzM3NzYx`

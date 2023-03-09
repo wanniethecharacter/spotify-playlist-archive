@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: エレファントカシマシ
 
-503 songs - 1 day 9 hr 8 min
+504 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 | 2023-02-04 |
 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 | 2023-02-21 |  |
 | [SUPER SHINING](https://open.spotify.com/track/7wshhBA3bfHSnSHELxoWBD) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [1997](https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb) | 4:38 | 2022-11-29 | 2022-12-07 |
+| [Taiyo to Ikaros](https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Taiyo to Ikaros](https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx) | 4:30 | 2023-03-07 |  |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-05-31 | 2022-06-02 |
 | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/track/6ih5w4QRlo6h75rbfqgBZg) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/album/7HTlTlJ0rWjVvVyR5ExNHh) | 5:31 | 2022-11-10 | 2022-11-23 |
 | [TATSUMAKI](https://open.spotify.com/track/6ecdsPGuG6q1j5JLX9TWsl) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ABANDONSYSTEM\_\_ \(Your Voice Edition\)](https://open.spotify.com/album/3wfb79DFElCAaEztckudhl) | 4:13 | 2022-05-19 | 2022-06-21 |
@@ -430,7 +431,7 @@
 | [大好きだから…](https://open.spotify.com/track/4fEPiXCWScnKv977GEkPZY) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [大好きだから…](https://open.spotify.com/album/4iwyN2f8GMc3WzfUciv63N) | 3:38 | 2022-05-12 | 2022-07-29 |
 | [天地創造](https://open.spotify.com/track/3kh6LMx3DLaMcmcUEJyagL) | [THE ALFEE](https://open.spotify.com/artist/04bitarCLkcC3GVESLDZgY) | [天地創造](https://open.spotify.com/album/3qLCcHe7lTSLlIYTpnbGhn) | 6:17 | 2022-05-22 | 2022-06-03 |
 | [太陽が見ている](https://open.spotify.com/track/2BXR9MebWatB9V19daKFWD) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [太陽が見ている](https://open.spotify.com/album/1lg9HSKbPxeEHOPPfAetpg) | 4:46 | 2022-05-19 | 2022-07-11 |
-| [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 |  |
+| [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 | 2023-03-09 |
 | [女々しくて \- 2022流行語ver.](https://open.spotify.com/track/2Q0JyzagFtM4cxlM0bXblO) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [女々しくて \(2022流行語ver.\)](https://open.spotify.com/album/0oDvDvwS2PnFUZWqIPvgJg) | 2:29 | 2022-12-06 | 2022-12-08 |
 | [妖](https://open.spotify.com/track/5es17R7PLDy4hRq6wEDhcg) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [妖](https://open.spotify.com/album/4zwHtQV5by88tVRwP48PlV) | 4:17 | 2022-12-06 | 2022-12-14 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 594480,
+  "num_followers": 594903,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMDcwYWM5MzBkM2M5N2RhNjEzODBiYzM5YzM0MGU1ZjJi",
+  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMDgyZjI5ODkyNDJjYzAyZDIzOWU3NzkwNzhkNmUwOGFk",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "You're Not Gone, You're Just Dead!",
+        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
+      },
+      "artists": [
+        {
+          "name": "VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 175229,
+      "name": "You're Not Gone, You're Just Dead!",
+      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Paralyzed",
@@ -555,22 +571,6 @@
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "You're Not Gone, You're Just Dead!",
-        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
-      },
-      "artists": [
-        {
-          "name": "VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "You're Not Gone, You're Just Dead!",
-      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2022-11-18 01:31:53",

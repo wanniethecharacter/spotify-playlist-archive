@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 83516,
+  "num_followers": 83534,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGYyNzk2N2I3OTY3YjdmZjRjOTg2OGRkMDkzNzNlZjZi",
+  "snapshot_id": "MTY3ODI4MTE3NSwwMDAwMDAwMGI2NjljZjAyZDM0ZjRjYmI5OThiM2IxMmQ4MmZlZGJj",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1049,6 +1049,22 @@
       "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
     },
     {
+      "added_at": "2023-03-09 01:03:08",
+      "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2"
+    },
+    {
       "added_at": "2023-03-07 15:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -1675,22 +1691,6 @@
       "duration_ms": 204173,
       "name": "True",
       "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3"
     }
   ],
   "unique_name": "Mid Tempo Magic",

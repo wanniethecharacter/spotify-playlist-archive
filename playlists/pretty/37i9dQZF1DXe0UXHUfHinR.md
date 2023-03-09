@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,951 likes - 500 songs - 1 day 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,171 likes - 500 songs - 1 day 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Senor Mouse](https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 6:17 |
 | 500 | [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 |
 
-Snapshot ID: `MTY3NzgyOTc4OSwwMDAwMDAwMGQxNDA1NmVkNWZmMDZlZWZkMzkzM2U1ZWQ1MGJiOWQ2`
+Snapshot ID: `MTY3ODI4MzMxOSwwMDAwMDAwMDRiYjllNTM2YWE5OGMwZGMxYjVjODhhZDliYzZjOTg4`

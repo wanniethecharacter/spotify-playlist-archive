@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: j\-hope
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,610 likes - 92 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,618 likes - 92 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

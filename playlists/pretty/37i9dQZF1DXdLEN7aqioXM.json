@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 905932,
+  "num_followers": 906291,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMDE3MzBmYTg1NmNmZWYxYzkyNTczYjA4N2NkMzAwMjE5",
+  "snapshot_id": "MTY3NTk0NjEwNSwwMDAwMDAwMDY1Mjg3MzgzNzQyZDY5N2JhZDE1YTNiOTgxOWQ3MzQw",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC"
+      },
+      "artists": [
+        {
+          "name": "Adieu Aru",
+          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 235514,
       "name": "Summer Is Over - Fury Weekend Remix",
       "url": "https://open.spotify.com/track/3YN9eeNlFB4zEStaV9RBlo"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/6kbEcZuw1MdH2lnTUXwsuC"
-      },
-      "artists": [
-        {
-          "name": "Adieu Aru",
-          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/2qtOmbVDhvCPyqbGrnuLo6"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "\u00c9ternit\u00e9 pt. 2",
-        "url": "https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "Nightride - Revisited",
-      "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Dark Nation",
         "url": "https://open.spotify.com/album/48SMSCylwABIUqES42tNRO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 307000,
       "name": "Drift",
       "url": "https://open.spotify.com/track/5HL2seL3g380ByRrIGjXC2"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "\u00c9ternit\u00e9 pt. 2",
+        "url": "https://open.spotify.com/album/2JDRsKQx09tzMCEoOtnGlo"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 252121,
+      "name": "Nightride - Revisited",
+      "url": "https://open.spotify.com/track/6RAJmzLTahc9BB7rl4JT7y"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Stasis",
         "url": "https://open.spotify.com/album/5RvcTonOIaS7wqczITqjng"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Flashbacks (Arcade High Remix)",
         "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Light Curve",
+        "url": "https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        },
+        {
+          "name": "Forhill",
+          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
+        }
+      ],
+      "duration_ms": 256842,
+      "name": "Light Curve",
+      "url": "https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Ornaments",
         "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 229333,
       "name": "Assembly Line",
       "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Light Curve",
-        "url": "https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ"
-      },
-      "artists": [
-        {
-          "name": "Krosia",
-          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
-        },
-        {
-          "name": "Forhill",
-          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
-        }
-      ],
-      "duration_ms": 256842,
-      "name": "Light Curve",
-      "url": "https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1979,6 +1979,26 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Soul Survivor (feat. Ollie Wride)",
+        "url": "https://open.spotify.com/album/5WOWb8G56KSeb6qFqIUJbR"
+      },
+      "artists": [
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        },
+        {
+          "name": "Ollie Wride",
+          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+        }
+      ],
+      "duration_ms": 218614,
+      "name": "Soul Survivor (feat. Ollie Wride)",
+      "url": "https://open.spotify.com/track/6LvKahncumcR2KJypCYOkB"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Cosmic Boundaries",
         "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
       },
@@ -2011,22 +2031,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Soul Survivor (feat. Ollie Wride)",
-        "url": "https://open.spotify.com/album/5WOWb8G56KSeb6qFqIUJbR"
+        "name": "Visitors",
+        "url": "https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK"
       },
       "artists": [
         {
-          "name": "Fury Weekend",
-          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
-        },
-        {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
+          "name": "Lazerhawk",
+          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
         }
       ],
-      "duration_ms": 218614,
-      "name": "Soul Survivor (feat. Ollie Wride)",
-      "url": "https://open.spotify.com/track/6LvKahncumcR2KJypCYOkB"
+      "duration_ms": 302707,
+      "name": "Shoulder of Orion",
+      "url": "https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2043,22 +2059,6 @@
       "duration_ms": 214999,
       "name": "Get Better John",
       "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Visitors",
-        "url": "https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK"
-      },
-      "artists": [
-        {
-          "name": "Lazerhawk",
-          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
-        }
-      ],
-      "duration_ms": 302707,
-      "name": "Shoulder of Orion",
-      "url": "https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Solai",
-        "url": "https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf"
-      },
-      "artists": [
-        {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Cosmic Road",
         "url": "https://open.spotify.com/album/4yxP7ZnIgQxWYAGGcq7cqK"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 216470,
       "name": "Cosmic Road",
       "url": "https://open.spotify.com/track/7KSxMGUUjuDT2iwKGE0ETa"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Solai",
+        "url": "https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf"
+      },
+      "artists": [
+        {
+          "name": "PYLOT",
+          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
-      },
-      "artists": [
-        {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu"
       },
@@ -2351,6 +2335,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Tsukuyomi",
         "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
       },
@@ -2363,6 +2363,22 @@
       "duration_ms": 270317,
       "name": "Tsukuyomi",
       "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2399,38 +2415,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 197606,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 182954,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
     },
     {
       "added_at": "2023-01-13 05:01:00",

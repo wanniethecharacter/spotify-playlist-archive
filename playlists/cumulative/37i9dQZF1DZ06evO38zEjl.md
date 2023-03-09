@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-107 songs - 10 hr 13 min
+108 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cool Down Coda](https://open.spotify.com/track/37hDxJi6gOtqqqAKmrrxUL) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 1:45 | 2022-05-29 | 2023-02-15 |
 | [Cool Down Coda](https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 1:45 | 2023-02-14 |  |
 | [Courtrais \- Live](https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 5:44 | 2022-06-01 | 2022-10-30 |
-| [Cuba Libre](https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:28 | 2023-03-04 |  |
+| [Cuba Libre](https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:28 | 2023-03-04 | 2023-03-09 |
 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 | 2022-05-29 | 2023-02-01 |
 | [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 | 2023-01-04 |
 | [Darbari Extension II](https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:23 | 2022-09-11 | 2022-09-15 |
@@ -105,6 +105,7 @@
 | [Unknown Wish](https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 2:57 | 2023-02-12 |  |
 | [Unknown Wish](https://open.spotify.com/track/6LjICn4qIqegu9oHm7yqvg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 2:57 | 2022-06-02 | 2023-02-13 |
 | [Vernal Equinox](https://open.spotify.com/track/3EIv3TZlRfeTpmXS7uoRFq) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 21:54 | 2022-05-29 | 2023-01-27 |
+| [Vernal Equinox](https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 21:54 | 2023-03-08 |  |
 | [Viva Shona](https://open.spotify.com/track/2R1yNQay5uRyZsoOFB8vx5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 7:05 | 2022-05-29 | 2023-02-14 |
 | [Viva Shona](https://open.spotify.com/track/6eVb6kUeuLlYfliUnX3fgU) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 7:05 | 2023-02-13 |  |
 | [Voiceprint \(Blind From The Facts\)](https://open.spotify.com/track/3iuDuxuhuNUzCfS7YXydTO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [City: Works Of Fiction](https://open.spotify.com/album/5UpDvjDr7JKJIKcMLQjMfV) | 5:48 | 2022-06-11 | 2022-08-12 |

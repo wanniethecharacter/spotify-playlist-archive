@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 822860,
+  "num_followers": 822972,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDY1MzQyZDMwYjA2N2Q3OTMxMGY5MTcwNWM5MDAxODRh",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDNkMTQzYTFjMWRiNTYwNjJlZjA0NWMxMjVmY2ZmODAw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "LLNM2",
         "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 190287,
       "name": "Ay Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3DN6Gss0WIEMXc1AvnrAA5"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Dispuesto (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Mi Error",
         "url": "https://open.spotify.com/album/0cm5gt3aGLZooZ6r2jm5gN"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 215133,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/7ch7IMYm9DaujSfI1ToSzu"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Dispuesto (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
     },
     {
       "added_at": "2023-02-24 05:00:00",

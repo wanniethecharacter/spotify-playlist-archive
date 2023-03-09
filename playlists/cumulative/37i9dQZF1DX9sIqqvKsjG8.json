@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Amalgam",
+        "url": "https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k"
+      },
+      "artists": [
+        {
+          "name": "Maru Gomes",
+          "url": "https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "Amalgam",
+      "url": "https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP"
+    },
+    {
+      "album": {
         "name": "Amaprinces Bend",
         "url": "https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 190723,
       "name": "Amihan",
       "url": "https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa"
@@ -1572,6 +1590,24 @@
       "duration_ms": 135271,
       "name": "Between the Heaves",
       "url": "https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN"
+    },
+    {
+      "album": {
+        "name": "Between The lines",
+        "url": "https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR"
+      },
+      "artists": [
+        {
+          "name": "Michel Haspeslagh",
+          "url": "https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155324,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d"
     },
     {
       "album": {
@@ -2630,7 +2666,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 226868,
       "name": "Distances",
       "url": "https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z"
@@ -3066,7 +3102,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 163500,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/6E3tlk1QjAUzbgguYtVXeM"
@@ -3218,7 +3254,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 141333,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT"
@@ -4375,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185512,
+      "name": "Heugstatt",
+      "url": "https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa"
+    },
+    {
+      "album": {
         "name": "Bathtub Chill",
         "url": "https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ"
       },
@@ -4512,7 +4566,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 133636,
       "name": "Hoffnungen",
       "url": "https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG"
@@ -4890,7 +4944,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 164093,
       "name": "In the Company of My Solitude",
       "url": "https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW"
@@ -5304,7 +5358,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 124139,
       "name": "Keep You Safe",
       "url": "https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC"
@@ -5466,7 +5520,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
@@ -6024,7 +6078,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 155685,
       "name": "Little While",
       "url": "https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh"
@@ -6312,7 +6366,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 141376,
       "name": "L\u00e9ana",
       "url": "https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf"
@@ -7903,6 +7957,24 @@
     },
     {
       "album": {
+        "name": "Previous",
+        "url": "https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123375,
+      "name": "Previous",
+      "url": "https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk"
+    },
+    {
+      "album": {
         "name": "primeiro ver\u00e3o",
         "url": "https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L"
       },
@@ -8371,6 +8443,24 @@
     },
     {
       "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125577,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW"
+    },
+    {
+      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU"
       },
@@ -8526,7 +8616,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 136591,
       "name": "Rianmarsi",
       "url": "https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn"
@@ -8940,7 +9030,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 127125,
       "name": "Seeds Of Life",
       "url": "https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB"
@@ -10936,7 +11026,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 213828,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f"

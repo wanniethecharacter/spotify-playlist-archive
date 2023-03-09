@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with ROSSY & Pauline Herr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,265 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,373 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,10 +106,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 96 | [Skanka \(VIP\)](https://open.spotify.com/track/0MJPT4ZJjpYnauApAVypF6) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka \(VIP\)](https://open.spotify.com/album/2XEKyZZ1afhTJzpv7NcKgo) | 3:48 |
 | 97 | [Prisoner](https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9) | [Prisoner](https://open.spotify.com/album/0DU6isn220KiymRiShdyfm) | 4:07 |
 | 98 | [Meditate](https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Meditate](https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1) | 5:59 |
-| 99 | [Symptoms](https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Symptoms](https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7) | 2:28 |
-| 100 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 |
+| 99 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 |
+| 100 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 |
 | 101 | [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 |
-| 102 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 |
+| 102 | [Symptoms](https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Symptoms](https://open.spotify.com/album/1v3mYCjOi9vVeu5gl1Ygs7) | 2:28 |
 | 103 | [Reason For Fighting \(feat\. ERV ELLO\)](https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [ERV ELLO](https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn) | [Reason For Fighting \(feat\. ERV ELLO\)](https://open.spotify.com/album/1Cauh0pJOIIMFZU7eCOALc) | 3:58 |
 | 104 | [Eternity](https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Eternity](https://open.spotify.com/album/2Bqy3jSg9uQRY0BQwomJto) | 3:05 |
 | 105 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 |
 | 150 | [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 |
 
-Snapshot ID: `MTY3Nzg3ODE0OSwwMDAwMDAwMDhmNDIzNDc3ZmI3ZTkyODczNmJiMWY3ODg3MjY0MDBm`
+Snapshot ID: `MTY3Nzg3ODE0OSwwMDAwMDAwMGQ5ZjA2NGZjYTY0ZWI1ZGJiNzEwYmNhNzFhMjhlOTQz`

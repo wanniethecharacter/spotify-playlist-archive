@@ -9580,7 +9580,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
@@ -10374,6 +10374,24 @@
       "duration_ms": 182946,
       "name": "hate to be you",
       "url": "https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU"
+    },
+    {
+      "album": {
+        "name": "HATELOVE",
+        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171925,
+      "name": "HATELOVE",
+      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     },
     {
       "album": {

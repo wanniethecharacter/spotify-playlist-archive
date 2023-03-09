@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,239 likes - 85 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,392 likes - 85 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 5 | [Eu Permiti o Vento](https://open.spotify.com/track/6oJc0Rbi2CosPI7uklUoV4) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Eu Permiti o Vento](https://open.spotify.com/album/6XaDKEzmAipRBCbXyCGEzn) | 6:13 |
 | 6 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
 | 7 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 |
-| 8 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 |
+| 8 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
 | 9 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 |
 | 10 | [Está Tudo Bem](https://open.spotify.com/track/4Ey5FMSIs45TMBtW83U4DF) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Está Tudo Bem](https://open.spotify.com/album/7uIOAgQhpckyMK79LJGf9d) | 5:52 |
-| 11 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
-| 12 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
+| 11 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 |
+| 12 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 |
 | 13 | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 14 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 |
 | 15 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 56 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 57 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 |
 | 58 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 |
-| 59 | [Prepare o Culto](https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Prepare o Culto](https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN) | 6:00 |
-| 60 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
+| 59 | [Eu Te Toquei \- Ao Vivo](https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Eu Te Toquei \(Ao Vivo\)](https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn) | 5:19 |
+| 60 | [Prepare o Culto](https://open.spotify.com/track/0KJHv0DwTV3gtU5VDj0BlG) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Prepare o Culto](https://open.spotify.com/album/12C4OeuJKGdvKWCpvSMOHN) | 6:00 |
 | 61 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 |
 | 62 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
 | 63 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Fábio Paixão](https://open.spotify.com/artist/0ZCCRYuNWy7ySsQyVDnTKr) | [O Grande É Ele \(Ao Vivo\)](https://open.spotify.com/album/0bp3bCvhkPodACynHgxQoq) | 4:16 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MTY3Nzg4NDg3NiwwMDAwMDAwMDU3MzUwMzczOTYzMmE0YTFhZGY5OTBlZjgzZDFlNDEz`
+Snapshot ID: `MTY3Nzg4NDg3NiwwMDAwMDAwMDNkZDM0OGQ2YjJjZmY1NTUwNDkzN2Q5Mjk5NmZjZTgx`

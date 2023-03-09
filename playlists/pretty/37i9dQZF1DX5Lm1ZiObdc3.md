@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 
 > Classical tunes to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,241 likes - 45 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,334 likes - 45 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
+| 1 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 2 | [The Nutcracker, Op\. 71, TH.14 / Act 2: No\. 12e Dance of the Reed Pipes](https://open.spotify.com/track/7Btod71e87vQVXjGi6yUbU) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Mariinsky Orchestra](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6), [Valery Gergiev](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) | [Tchaikovsky: The Nutcracker](https://open.spotify.com/album/67F6hVa1GWOqQrLCE5sFWR) | 2:13 |
 | 3 | [Petite suite de concert, Op\. 77: III\. Un sonnet d'amour](https://open.spotify.com/track/0c9YITBx27aVPVC7baiOmB) | [Samuel Coleridge\-Taylor](https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR), [Chicago Sinfonietta](https://open.spotify.com/artist/0nJUvfl1KRRYUc3ZcQqvXM), [Paul Freeman](https://open.spotify.com/artist/6KIWAOKwNIWHHDFcwbTa3p) | [African Heritage Symphonic Series, Vol\. 1](https://open.spotify.com/album/2uWmtnkepfi7rZLijWYDhU) | 3:05 |
 | 4 | [Copland: Appalachian Spring: VII\. Doppio movimento \(Variations on a Shaker Hymn \- Simple Gifts\)](https://open.spotify.com/track/19SN5mb0gs0ze9PYBIVANZ) | [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Road Trip](https://open.spotify.com/album/4dswqusUs6cjDW8TFkg2xz) | 3:01 |

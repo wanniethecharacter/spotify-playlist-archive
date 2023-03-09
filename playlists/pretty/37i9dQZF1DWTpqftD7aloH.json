@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 249007,
+  "num_followers": 249418,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NDkwNSwwMDAwMDAwMDk1ZmRlOTM0MzBmM2VjYmU4YzUyMDk5MTY4YzZkY2Uw",
+  "snapshot_id": "MTY3Nzg4NDkwNSwwMDAwMDAwMDBlZGVkNTM3YzUyOTYyNzIzMjM1MGY3MGJlM2Q5MjA3",
   "tracks": [
     {
       "added_at": "2023-03-03 23:08:25",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-03-03 23:08:25",
       "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 562388,
+      "name": "A Casa \u00c9 Sua",
+      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
+    },
+    {
+      "added_at": "2023-03-03 23:08:25",
+      "album": {
         "name": "Zion (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
-    },
-    {
-      "added_at": "2023-03-03 23:08:25",
-      "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 562388,
-      "name": "A Casa \u00c9 Sua",
-      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
     },
     {
       "added_at": "2023-03-03 23:08:25",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-03 23:08:25",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2023-03-03 23:08:25",
-      "album": {
         "name": "Porque Ele Vive (Ao Vivo)",
         "url": "https://open.spotify.com/album/3X085WzabzRlHOkk66f3vX"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2023-03-03 23:08:25",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2023-03-03 23:08:25",
@@ -1715,6 +1715,42 @@
     {
       "added_at": "2023-03-03 23:08:25",
       "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+    },
+    {
+      "added_at": "2023-03-03 23:08:25",
+      "album": {
+        "name": "Grande \u00c9 O Meu Deus",
+        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 325533,
+      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
+      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
+    },
+    {
+      "added_at": "2023-03-03 23:08:25",
+      "album": {
         "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
@@ -1751,42 +1787,6 @@
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
-    },
-    {
-      "added_at": "2023-03-03 23:08:25",
-      "album": {
-        "name": "Grande \u00c9 O Meu Deus",
-        "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
-      },
-      "artists": [
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 325533,
-      "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
-      "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
-    },
-    {
-      "added_at": "2023-03-03 23:08:25",
-      "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-262 songs - 13 hr 48 min
+263 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 | 2022-02-18 | 2022-10-13 |
 | [Pandemia](https://open.spotify.com/track/77OgpTPbyPxU4eu0IHX0Iv) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Circmvnt](https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs) | 1:49 | 2022-05-13 | 2022-11-11 |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2022-02-18 | 2023-01-19 |
+| [pawnshop](https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [pawnshop](https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb) | 2:38 | 2023-03-08 |  |
 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2022-05-13 | 2023-02-11 |
 | [Perfect Wife](https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Perfect Wife](https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz) | 3:38 | 2022-02-18 | 2022-07-29 |
 | [pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2022-02-18 | 2022-06-19 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMDM0M2EyYTFkYmE3ZWQxY2NmZWNlMGU0MjQ3MWYzMzEz",
+  "snapshot_id": "MTY3NzU4MzI3OSwwMDAwMDAwMGNhZTA2ZDJkZjE0MWMwYzFkYjE4YjNhYjFiMzQyY2Qz",
   "tracks": [
     {
       "added_at": "2023-02-21 12:17:01",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
         "name": "Leyla",
         "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 151156,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
-      "added_at": "2023-03-08 00:50:01",
+      "added_at": "2023-03-09 00:50:57",
       "album": {
         "name": "Mil Laberintos",
         "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
     },
     {
-      "added_at": "2023-03-08 00:50:01",
+      "added_at": "2023-03-09 00:50:57",
       "album": {
         "name": "Tiro Al Aire",
         "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
     },
     {
-      "added_at": "2023-03-08 00:50:01",
+      "added_at": "2023-03-09 00:50:57",
       "album": {
         "name": "Porque t\u00fa lo sabr\u00edas",
         "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
@@ -301,7 +301,23 @@
       "url": "https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5"
     },
     {
-      "added_at": "2023-03-08 00:50:01",
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+    },
+    {
+      "added_at": "2023-03-09 00:50:57",
       "album": {
         "name": "C\u00e1psula Espacial",
         "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
@@ -339,22 +355,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -459,6 +463,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
         "name": "Indie esperanzador",
         "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 170285,
       "name": "Indie esperanzador",
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
-        }
-      ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
     },
     {
-      "added_at": "2023-03-08 00:50:01",
-      "album": {
-        "name": "Muchas gracias por venir",
-        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 202156,
-      "name": "Muchas gracias por venir",
-      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
-    },
-    {
       "added_at": "2023-02-21 12:17:01",
       "album": {
         "name": "Del cielo",
@@ -559,6 +543,22 @@
       "duration_ms": 190344,
       "name": "Del cielo",
       "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
+    },
+    {
+      "added_at": "2023-03-09 00:50:57",
+      "album": {
+        "name": "Muchas gracias por venir",
+        "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 202156,
+      "name": "Muchas gracias por venir",
+      "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
     },
     {
       "added_at": "2023-02-21 12:17:01",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-21 12:17:01",
       "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2023-02-21 12:17:01",
+      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 173200,
       "name": "La Broma De Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
-    },
-    {
-      "added_at": "2023-02-21 12:17:01",
-      "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-02-21 12:17:01",

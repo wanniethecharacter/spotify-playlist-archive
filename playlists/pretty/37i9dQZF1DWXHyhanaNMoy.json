@@ -1,12 +1,12 @@
 {
   "description": "Alleen maar motion en good vibes. Cover: DJ DYLVN",
-  "num_followers": 310142,
+  "num_followers": 310170,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEwNjY1NCwwMDAwMDAwMGY2MTg0OGYzNGFmOGNmZWRlMzAxOTBiNGQ4MGFhZTY1",
+  "snapshot_id": "MTY3ODMwOTU5NCwwMDAwMDAwMGQwYWE3ZTJmNTdhZGMxYmMzN2QyY2E1ZTMyOTQ3ZGQw",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -171,6 +171,26 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Qui sait ? (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Verstoppertje",
         "url": "https://open.spotify.com/album/2sg26L0cngTtN5yVcSnOPy"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 101818,
       "name": "Fiets",
       "url": "https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "R\u00e9silience",
-        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Roi 2 c\u0153ur (feat. Indila)",
-      "url": "https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -519,26 +519,6 @@
       "duration_ms": 217254,
       "name": "LA HORA Y EL D\u00cdA",
       "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Qui sait ? (feat. ElGrandeToto)",
-        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Qui sait ? (feat. ElGrandeToto)",
-      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
       "added_at": "2023-03-02 23:00:00",

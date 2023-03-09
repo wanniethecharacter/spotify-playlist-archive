@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Ridi, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Cinnamon Cigars, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1114,6 +1114,24 @@
       "duration_ms": 247801,
       "name": "Badariya",
       "url": "https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO"
+    },
+    {
+      "album": {
+        "name": "Bairagi",
+        "url": "https://open.spotify.com/album/4JcawIAmMgqdkLTDl94sHy"
+      },
+      "artists": [
+        {
+          "name": "Mayank Maurya (Maadhyam)",
+          "url": "https://open.spotify.com/artist/1FUnLCGy5ilhIFXqZinTdU"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Bairagi",
+      "url": "https://open.spotify.com/track/35kI7c8aUgLiGZlsiyduDW"
     },
     {
       "album": {
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 250130,
       "name": "Courtyards",
       "url": "https://open.spotify.com/track/5LGs8mMpSyzQqgaWWEOJMV"
@@ -2654,7 +2672,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 216923,
       "name": "Diary",
       "url": "https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 196363,
       "name": "Dil Khuda Tu",
       "url": "https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 146285,
       "name": "Distance (feat. Rizzy Rico)",
       "url": "https://open.spotify.com/track/3YbzKn0NmOwVSKx82BbTnb"
@@ -4466,6 +4484,24 @@
       "duration_ms": 242103,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/1sLNFiBDPcjjykYgeLRnZ1"
+    },
+    {
+      "album": {
+        "name": "I Can't Find Myself",
+        "url": "https://open.spotify.com/album/50LzagZpAgf7G1DT6ye2OX"
+      },
+      "artists": [
+        {
+          "name": "Aishu Rittika",
+          "url": "https://open.spotify.com/artist/6SCNcYxmoMtoZwlwl2rmWq"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145344,
+      "name": "I Can't Find Myself",
+      "url": "https://open.spotify.com/track/1R3LOBi9EUDaKEguImGzKw"
     },
     {
       "album": {
@@ -7054,7 +7090,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 215001,
       "name": "Let's",
       "url": "https://open.spotify.com/track/2I1ooQMtNkx8nRKrXTQzhK"
@@ -8850,7 +8886,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 226000,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/04VqbdxsWY4lgPwX8Tphqu"
@@ -9348,6 +9384,24 @@
       "duration_ms": 132833,
       "name": "Pedh Tum Darzi",
       "url": "https://open.spotify.com/track/5egECSQez9LtESVAe7lsE3"
+    },
+    {
+      "album": {
+        "name": "Pehla Pehla Pyar",
+        "url": "https://open.spotify.com/album/6qocHVaUP3KfHzRKM1stIi"
+      },
+      "artists": [
+        {
+          "name": "Manasi Ghosh",
+          "url": "https://open.spotify.com/artist/1IFeFnEdb38sSk5CY4iRFU"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264458,
+      "name": "Pehla Pehla Pyar",
+      "url": "https://open.spotify.com/track/2VbvessVJQYSM4Uvt9BkAL"
     },
     {
       "album": {
@@ -10124,7 +10178,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 400000,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/5dphlVATEmV9JMVAviFRux"
@@ -10310,6 +10364,24 @@
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
+        "name": "Saanson Ki Baatein",
+        "url": "https://open.spotify.com/album/41ah06Q7eu9sequA1ZaNLu"
+      },
+      "artists": [
+        {
+          "name": "Gamak",
+          "url": "https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323863,
+      "name": "Saanson Ki Baatein",
+      "url": "https://open.spotify.com/track/4lDdywqvrKQ7SVt1TLmyDn"
     },
     {
       "album": {
@@ -11445,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6D9yr0xY8GnM7L2aDDmy0Y"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Cigars",
+          "url": "https://open.spotify.com/artist/6GwJ3ZmZtspuQoytbgtUfE"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256823,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4wjmpT55HGFwiGM3CTzz8K"
+    },
+    {
+      "album": {
         "name": "Stuck In The Past",
         "url": "https://open.spotify.com/album/1utqntrEuaKNtIcJ6HskZJ"
       },
@@ -11965,6 +12055,24 @@
     },
     {
       "album": {
+        "name": "Tere Liye",
+        "url": "https://open.spotify.com/album/1E1T4fz6rtaeAhw4BnpdG2"
+      },
+      "artists": [
+        {
+          "name": "Shivam Grover",
+          "url": "https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/2CIoyocoRVqRKUZE8DZABT"
+    },
+    {
+      "album": {
         "name": "Tere Sheher",
         "url": "https://open.spotify.com/album/3I1uYjS4qjsWhCldoDWwNL"
       },
@@ -12218,7 +12326,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 179774,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/7bFxi7WlwVVfCJfRY9Nfns"
@@ -13364,6 +13472,32 @@
       "duration_ms": 261278,
       "name": "What We Could Be",
       "url": "https://open.spotify.com/track/2kHywBZMthtZVmqSSuNzSS"
+    },
+    {
+      "album": {
+        "name": "Game Of Fools",
+        "url": "https://open.spotify.com/album/4CFi4G5SRyoJcyThWELHmm"
+      },
+      "artists": [
+        {
+          "name": "Nishant Ramteke",
+          "url": "https://open.spotify.com/artist/6JDuKkXmRF3Kuju55MKvfE"
+        },
+        {
+          "name": "Kaysee",
+          "url": "https://open.spotify.com/artist/4x9fuObP8xtuW0MOCfHdB6"
+        },
+        {
+          "name": "Minimi",
+          "url": "https://open.spotify.com/artist/1mewM1rln8qApKxDoN2Zlh"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/1mShGkH7OoUItg4xl9MlvB"
     },
     {
       "album": {

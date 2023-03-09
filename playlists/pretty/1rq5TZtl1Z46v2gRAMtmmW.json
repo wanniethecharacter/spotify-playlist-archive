@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 27465,
+  "num_followers": 27470,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzI2MywyZmNkNWIwOWMyOTM2ODAwMDUxN2Y4ODk3NDk5OGU4ZmYwZjQ0Mjhl",
+  "snapshot_id": "MzI2NSxlOTFjZDdlNjcxZDFjNGM4YTQ0NDVjNDlhZDI1OWQ5NDI0MmM2ZGY0",
   "tracks": [
+    {
+      "added_at": "2023-03-08 12:17:10",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
     {
       "added_at": "2023-03-01 15:36:40",
       "album": {
@@ -663,22 +683,6 @@
       "duration_ms": 804133,
       "name": "Basketball Shoes - Live from the Queen Elizabeth Hall",
       "url": "https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:16",
-      "album": {
-        "name": "Lost Island",
-        "url": "https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 273844,
-      "name": "Lost Island",
-      "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

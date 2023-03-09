@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 12 hr 45 min
+136 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Flying Lotus](https://open.spotify.com/track/0cqqhqdw63jNi3zojIFd18) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Secret of a Pimp \- EP](https://open.spotify.com/album/3eRV31igOYuPmWE71yfJx7) | 6:06 | 2022-09-14 |  |
 | [Gonna Be Alright \(feat\. Jamie 3:26 & Annette Bowen\)](https://open.spotify.com/track/0rrME3TAcXsJAcf0bMrykt) | [Melvo Baptiste](https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6), [Jamie 3:26](https://open.spotify.com/artist/2i3sHUKH86iD6khkNR1Fxi), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6) | [Gonna Be Alright \(feat\. Jamie 3:26 & Annette Bowen\)](https://open.spotify.com/album/6x5nDg4SQtBZuGUt7Gv97I) | 3:54 | 2022-10-14 |  |
 | [Gonna Take My Time](https://open.spotify.com/track/79Fpv3pwLG6fM6N53ncl3m) | [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V) | [Take My Time EP](https://open.spotify.com/album/0LYuKO41Ow3YNdHAadX8W1) | 5:56 | 2022-07-29 |  |
-| [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-10-14 |  |
+| [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2022-12-16 |  |
+| [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-10-14 | 2023-03-09 |
 | [Got a Love for You \- Hurley's House Mix](https://open.spotify.com/track/6p8i9A3hkXzgk5DMcJyEWg) | [Jomanda](https://open.spotify.com/artist/09xC3MewWz48F1OpYckXTZ) | [Someone To Love Me](https://open.spotify.com/album/6GAuT526r9aGcGyk5AA38T) | 7:34 | 2022-07-29 |  |
 | [Gotta Get Up](https://open.spotify.com/track/1AYORYRA0YWllNtvHS77IM) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [The Master](https://open.spotify.com/album/5wUX4RN9vc8rwFjuFNZBuH) | 7:01 | 2022-01-21 | 2022-07-30 |
 | [Grand Blvd.](https://open.spotify.com/track/44XfJsyur26ZktVU1PWmHg) | [Reggie Dokes](https://open.spotify.com/artist/3Tlb20Fc21tarAIsgPR7PH) | [Electronic Dreams](https://open.spotify.com/album/4dJEvYCwVYpdcAwE5JpVbg) | 7:49 | 2022-04-15 | 2022-05-19 |

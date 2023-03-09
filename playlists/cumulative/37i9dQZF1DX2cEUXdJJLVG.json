@@ -1742,6 +1742,28 @@
     {
       "album": {
         "name": "Holy Sun",
+        "url": "https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "AVA LAV\u00c1",
+          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263576,
+      "name": "Holy Sun",
+      "url": "https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp"
+    },
+    {
+      "album": {
+        "name": "Holy Sun",
         "url": "https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM"
       },
       "artists": [
@@ -1756,7 +1778,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 263576,
       "name": "Holy Sun",
       "url": "https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW"
@@ -2820,10 +2842,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 217601,
       "name": "Not So Different - Edit",
       "url": "https://open.spotify.com/track/09cZTC0Tb07Cdzn7fxGG97"
+    },
+    {
+      "album": {
+        "name": "City of All",
+        "url": "https://open.spotify.com/album/4SGcWgxpJ0rsBtBXbuQEZg"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217601,
+      "name": "Not so Different - Edit",
+      "url": "https://open.spotify.com/track/6UPJtnnTuJz8MJyZTL32xs"
     },
     {
       "album": {
@@ -4184,6 +4228,28 @@
     {
       "album": {
         "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0"
+    },
+    {
+      "album": {
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
         "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
       },
       "artists": [
@@ -4198,7 +4264,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 287767,
       "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
       "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"

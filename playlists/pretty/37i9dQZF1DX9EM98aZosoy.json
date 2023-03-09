@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1250358,
+  "num_followers": 1250395,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MzA4MCwwMDAwMDAwMDFjYWYzYmRjOWM0ZGVkNDI0YzMyN2ZjNzJhYmY4Mjcz",
+  "snapshot_id": "MTY3NzI1MzA4MCwwMDAwMDAwMDhlYTM4ZDRlZjNlYWU0NWFlZjJhMjRkYzRkZThkNGJl",
   "tracks": [
     {
       "added_at": "2023-02-24 15:38:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-24 15:38:00",
       "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
-      },
-      "artists": [
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        }
-      ],
-      "duration_ms": 145676,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
-    },
-    {
-      "added_at": "2023-02-24 15:38:00",
-      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-02-24 15:38:00",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
     },
     {
       "added_at": "2023-02-24 15:38:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-24 15:38:00",
       "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
-    },
-    {
-      "added_at": "2023-02-24 15:38:00",
-      "album": {
         "name": "Herz an Herz",
         "url": "https://open.spotify.com/album/2ErXScnw552ExYN83eloZw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 143347,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG"
+    },
+    {
+      "added_at": "2023-02-24 15:38:00",
+      "album": {
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
     },
     {
       "added_at": "2023-02-24 15:38:00",

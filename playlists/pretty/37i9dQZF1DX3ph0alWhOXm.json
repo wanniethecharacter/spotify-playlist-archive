@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 142727,
+  "num_followers": 142802,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMGNiNjEzOTUwMzQwM2U5YzFhYjcxMGYxNjllNWU2YWM1",
+  "snapshot_id": "MTY3NDA3ODk0MywwMDAwMDAwMDNhMjcxYjZiNjMxMTU0YmNkMWVmM2NiZmRlMDJlMjU3",
   "tracks": [
     {
       "added_at": "2023-01-18 21:55:43",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Aw Naw",
+      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Aw Naw",
-      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 224813,
       "name": "Drink to That All Night",
       "url": "https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+      },
+      "artists": [
+        {
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-01-18 21:55:43",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-18 21:55:43",
       "album": {
-        "name": "Daryle Singletary",
-        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
-      },
-      "artists": [
-        {
-          "name": "Daryle Singletary",
-          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Too Much Fun",
-      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
-    },
-    {
-      "added_at": "2023-01-18 21:55:43",
-      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165493,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
+    },
+    {
+      "added_at": "2023-01-18 21:55:43",
+      "album": {
+        "name": "Daryle Singletary",
+        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
+      },
+      "artists": [
+        {
+          "name": "Daryle Singletary",
+          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
     },
     {
       "added_at": "2023-01-18 21:55:43",

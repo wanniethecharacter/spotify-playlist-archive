@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Molchat Doma on cover.",
-  "num_followers": 113227,
+  "num_followers": 113645,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE1OTU5NywwMDAwMDAwMGIyYmJlNDk3M2NiMDYzM2EwMmVhM2MwNmQ2NDc4NWNk",
+  "snapshot_id": "MTY3ODE1OTU5NywwMDAwMDAwMDFlNzhkMmRiN2I3MTMwODY1MTcwNjc2Y2ViMWNhZDY1",
   "tracks": [
     {
       "added_at": "2020-12-21 19:35:50",
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS"
     },
     {
-      "added_at": "2023-03-08 00:40:36",
+      "added_at": "2023-03-09 01:06:08",
       "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/6e1FsnxiW7AuqxhzrV5jM4"
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Judas Effect",
-      "url": "https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "VESSEL",
         "url": "https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 209332,
       "name": "Anvil",
       "url": "https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Judas Effect",
+      "url": "https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
     },
     {
-      "added_at": "2023-03-08 00:40:36",
+      "added_at": "2023-03-09 01:06:08",
       "album": {
         "name": "After The Show",
         "url": "https://open.spotify.com/album/4RYqUH75rF5jNWYWKztoAv"
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/2BZYVqGyL1L1adBbq2ClVv"
     },
     {
-      "added_at": "2023-02-09 20:06:41",
-      "album": {
-        "name": "Butcher's Coin",
-        "url": "https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf"
-      },
-      "artists": [
-        {
-          "name": "Traitrs",
-          "url": "https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Thin Flesh",
-      "url": "https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4"
-    },
-    {
       "added_at": "2020-12-21 19:35:50",
       "album": {
         "name": "Dangerous Days",
@@ -631,6 +615,22 @@
       "duration_ms": 209002,
       "name": "Heavy Wave",
       "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
+    },
+    {
+      "added_at": "2023-02-09 20:06:41",
+      "album": {
+        "name": "Butcher's Coin",
+        "url": "https://open.spotify.com/album/5zif8VwNMkLGO0lUvnBHFf"
+      },
+      "artists": [
+        {
+          "name": "Traitrs",
+          "url": "https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Thin Flesh",
+      "url": "https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Audiotool Day 2016",
-        "url": "https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA"
-      },
-      "artists": [
-        {
-          "name": "Xtract",
-          "url": "https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re"
-        }
-      ],
-      "duration_ms": 237575,
-      "name": "Audiotool Day 2016",
-      "url": "https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 206000,
       "name": "Aether",
       "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Audiotool Day 2016",
+        "url": "https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA"
+      },
+      "artists": [
+        {
+          "name": "Xtract",
+          "url": "https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re"
+        }
+      ],
+      "duration_ms": 237575,
+      "name": "Audiotool Day 2016",
+      "url": "https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2"
     },
     {
       "added_at": "2023-01-24 20:52:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "World Class",
-        "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
-      },
-      "artists": [
-        {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "S.W.A.K.",
-      "url": "https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "505 (Deluxe)",
         "url": "https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 167000,
       "name": "\u0410\u043b\u043a\u043e\u0433\u043e\u043b\u044c \u043c\u043e\u0439 \u0432\u0440\u0430\u0433",
       "url": "https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "World Class",
+        "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
+      },
+      "artists": [
+        {
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
+        }
+      ],
+      "duration_ms": 234004,
+      "name": "S.W.A.K.",
+      "url": "https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA"
     },
     {
-      "added_at": "2023-02-09 20:06:41",
-      "album": {
-        "name": "Belirdi Gece",
-        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
-      },
-      "artists": [
-        {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
-        }
-      ],
-      "duration_ms": 296060,
-      "name": "Rituel",
-      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
-    },
-    {
       "added_at": "2020-12-21 19:35:50",
       "album": {
         "name": "Elements",
@@ -1235,6 +1219,22 @@
       "duration_ms": 292312,
       "name": "Elements",
       "url": "https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd"
+    },
+    {
+      "added_at": "2023-02-09 20:06:41",
+      "album": {
+        "name": "Belirdi Gece",
+        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "duration_ms": 296060,
+      "name": "Rituel",
+      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Quo vadis?",
-        "url": "https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc"
-      },
-      "artists": [
-        {
-          "name": "Electroforez",
-          "url": "https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430",
-      "url": "https://open.spotify.com/track/5bPpzYuIwSXJr1D2vDd6q3"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "66 MHz",
         "url": "https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 234066,
       "name": "66 MHz",
       "url": "https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Quo vadis?",
+        "url": "https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc"
+      },
+      "artists": [
+        {
+          "name": "Electroforez",
+          "url": "https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430",
+      "url": "https://open.spotify.com/track/5bPpzYuIwSXJr1D2vDd6q3"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa"
     },
     {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j"
+      },
+      "artists": [
+        {
+          "name": "Margarita Quebrada",
+          "url": "https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa"
+    },
+    {
       "added_at": "2023-02-09 20:06:41",
       "album": {
         "name": "All Is Fair in Love and War",
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/095CLldKK6xtvgrVsjXB7j"
+        "name": "II",
+        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
       },
       "artists": [
         {
-          "name": "Margarita Quebrada",
-          "url": "https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi"
+          "name": "L.A. Takedown",
+          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4bgPDf0OLHytRSicJ8y9pa"
+      "duration_ms": 170511,
+      "name": "Bad Night at Black's Beach",
+      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Dead City",
-        "url": "https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd"
-      },
-      "artists": [
-        {
-          "name": "Donbor",
-          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
-        }
-      ],
-      "duration_ms": 296727,
-      "name": "Against the Law",
-      "url": "https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "Odyssey Point",
         "url": "https://open.spotify.com/album/5IVdG5UgyB1oXQGrMa8F56"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Dead City",
+        "url": "https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd"
+      },
+      "artists": [
+        {
+          "name": "Donbor",
+          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
+        }
+      ],
+      "duration_ms": 296727,
+      "name": "Against the Law",
+      "url": "https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS"
     },
     {
       "added_at": "2023-01-06 06:19:29",
@@ -1587,22 +1603,6 @@
       "duration_ms": 212500,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
-      },
-      "artists": [
-        {
-          "name": "L.A. Takedown",
-          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
-        }
-      ],
-      "duration_ms": 170511,
-      "name": "Bad Night at Black's Beach",
-      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
     },
     {
       "added_at": "2023-02-09 20:06:41",

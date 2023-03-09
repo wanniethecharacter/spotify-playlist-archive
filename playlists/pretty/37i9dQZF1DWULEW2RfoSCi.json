@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1382291,
+  "num_followers": 1382794,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGVkNGRhNDk4YjdiYmYzYzJhZTJmODc5Mjc3NWVkNDYw",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMDgxYzQ0M2I3MWZhNGFiZDFlOWUzMTVjNTg1OWE1YjE3",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 186093,
       "name": "Back Stabbers",
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "The Payback",
+        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+      "duration_ms": 459893,
+      "name": "The Payback",
+      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Payback",
-        "url": "https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl"
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 459893,
-      "name": "The Payback",
-      "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Use ta Be My Girl - Single Version",
-      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 334386,
       "name": "That Lady, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Use ta Be My Girl - Single Version",
+      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
     },
     {
       "added_at": "2022-02-04 15:57:42",

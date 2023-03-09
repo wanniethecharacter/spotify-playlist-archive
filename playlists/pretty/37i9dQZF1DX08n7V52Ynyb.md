@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,740 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,801 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 77 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 |
 | 78 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 |
 | 79 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 |
-| 80 | [The Masquerade Is Over](https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:24 |
-| 81 | [My Mood Is You](https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE) | [Freddy Cole](https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK) | [My Mood Is You](https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY) | 5:45 |
+| 80 | [My Mood Is You](https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE) | [Freddy Cole](https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK) | [My Mood Is You](https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY) | 5:45 |
+| 81 | [The Masquerade Is Over](https://open.spotify.com/track/7A826LB6RXDtLE6a5IXMck) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:24 |
 | 82 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 |
 | 83 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 |
-| 84 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 |
-| 85 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 |
+| 84 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 |
+| 85 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 |
 | 86 | [Lush Life](https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:45 |
 | 87 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 |
 | 88 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 |
 | 100 | ['Round Midnight](https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | ['Round Midnight](https://open.spotify.com/album/1EQmKx9SFKyMyFhTLchdEZ) | 5:46 |
 
-Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDU2YWNiYTgyOWI3MDE2ZWEwYjc3ZGE3NjI2ZThjYTdh`
+Snapshot ID: `MTY3Nzc5ODAwMCwwMDAwMDAwMDcyZTg0NGI2NGZhNTAzYzkxODYzZDIzODkyYjVjOTUw`

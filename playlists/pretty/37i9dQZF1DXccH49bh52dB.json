@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 413197,
+  "num_followers": 413552,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGVkYTFmMTA5OTg1YmMzOGFlZjY5OWUwZjQ2MGRkMzQz",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGRlMmRkY2ExMmViODdhNTAxY2JiYjVkODViYTQ4ZDA4",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 313084,
-      "name": "Facing the Sun",
-      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Strawtown",
         "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 188846,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 313084,
+      "name": "Facing the Sun",
+      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
     },
     {
       "added_at": "2022-01-18 14:54:04",

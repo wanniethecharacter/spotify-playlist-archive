@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-656 songs - 1 day 13 hr 34 min
+659 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,9 @@
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-07-28 |  |
 | [hazama \- 新東京 Rearrange](https://open.spotify.com/track/4m4SjSDEpv7CcUvnpsjtLo) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [hazama \(新東京 Rearrange\)](https://open.spotify.com/album/4VfhXfCeToVA9gio1L4oCh) | 3:07 | 2022-08-16 | 2022-08-26 |
 | [Heartache Machine Guns](https://open.spotify.com/track/46kyed97kxAjRLy3iFfvva) | [seeeeecun](https://open.spotify.com/artist/6fUe2NjfQbI4yxIFBwYFg8) | [Cry For Your Noble Heart](https://open.spotify.com/album/2w5Ryftkg3USzsuqPY7QV5) | 2:28 | 2022-09-14 | 2022-09-21 |
-| [Hex](https://open.spotify.com/track/6eIOTgdN2xHDkPgTr1LOyt) | [ユトレヒト](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Hex](https://open.spotify.com/album/24bCkzGthetSLGCeiT37YK) | 4:07 | 2023-03-08 |  |
+| [Hex](https://open.spotify.com/track/7xaNU7mo5bEULPKg7vdxel) | [Utrecht](https://open.spotify.com/artist/5ygyzQomCHzWhbzPlI5TY0) | [Hex](https://open.spotify.com/album/2Mxu38mOSq5rknEr8xzw4e) | 4:07 | 2023-03-09 |  |
+| [Hex](https://open.spotify.com/track/6eIOTgdN2xHDkPgTr1LOyt) | [ユトレヒト](https://open.spotify.com/artist/0y3zz3pSjcGLwxaQvsd7uZ) | [Hex](https://open.spotify.com/album/24bCkzGthetSLGCeiT37YK) | 4:07 | 2023-03-08 | 2023-03-09 |
+| [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-09 |  |
 | [Hollow](https://open.spotify.com/track/4GfyY2ClRNnkI2PGsEFKFY) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Hollow](https://open.spotify.com/album/1O0CAfNoYe79Xns7QEjajv) | 3:27 | 2022-12-27 | 2023-01-11 |
 | [Honjitsu no Shotai](https://open.spotify.com/track/01ZBfQ4OjFODqWfvkgKn7y) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Honjitsu no Shotai](https://open.spotify.com/album/1dXMQs6RfDHv6lgAPA1yxq) | 3:25 | 2022-09-27 | 2023-01-18 |
 | [hubble](https://open.spotify.com/track/5uWfOaIdE46AFbS5DEjgPo) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg), [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [hubble](https://open.spotify.com/album/3AhCTrJKiuphbfVwdUZoBi) | 2:35 | 2022-06-13 | 2022-07-27 |
@@ -160,6 +162,7 @@
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
 | [Penguin's Detour](https://open.spotify.com/track/0HrRw92cShhABjnqNWOi19) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Penguin's Detour](https://open.spotify.com/album/0PGYyFLnGsl3LguARVroW5) | 3:35 | 2022-06-09 | 2022-07-29 |
 | [PLAYer](https://open.spotify.com/track/77bzrrMdwLa7CDKu62l7jT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [黎\-ray\-](https://open.spotify.com/album/3ODHhgn1GAznuAHw4Mcdea) | 4:20 | 2022-07-12 | 2022-07-14 |
+| [ponpon princess feat\. sakana](https://open.spotify.com/track/7cjJIpMrVa8T0J1ynjkWlC) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [ponpon princess feat\. sakana](https://open.spotify.com/album/2Idc44WfNuUsxUQpna6CGt) | 2:03 | 2023-03-09 |  |
 | [position talk](https://open.spotify.com/track/4FkSBeVGH6BsXrctM08JGe) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [position talk](https://open.spotify.com/album/6kacmngtser9bpPL1oDODu) | 3:01 | 2022-09-06 | 2022-09-15 |
 | [Prima Stella](https://open.spotify.com/track/44ViFRPJfJTmJNEHQaKCBn) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [Prima Stella](https://open.spotify.com/album/7FrPYrqz1pL0ZvWCpneyuK) | 3:14 | 2023-01-19 | 2023-02-01 |
 | [Rain, Rain Go Away!](https://open.spotify.com/track/6hKiBHq1LdeGrUkmarAXX4) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Rain, Rain Go Away!](https://open.spotify.com/album/7jtiQrVrHeXNE2n6qzBeXg) | 4:14 | 2022-10-20 | 2023-01-18 |
@@ -265,7 +268,7 @@
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-28 | 2022-07-27 |
 | [ひとくねり](https://open.spotify.com/track/7sFrA0Y0ODokSpOeDq08bH) | [Rey Fallet](https://open.spotify.com/artist/48nqBlzRSh8i6RyQ2lqePe) | [ひとくねり](https://open.spotify.com/album/4ZFPmZnDKTvaq40Gd5gGCP) | 4:01 | 2022-06-21 | 2022-06-23 |
 | [ほっといて。](https://open.spotify.com/track/2trYnDbQVkQBW2X8Gk84vc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [ほっといて。](https://open.spotify.com/album/5bld1SyxazffSqRWXqvZCM) | 2:57 | 2022-07-05 | 2022-07-27 |
-| [ぽんぽんプリンセス feat\. さかな](https://open.spotify.com/track/1Ca8SOjTHXSSWKOuZOTAl3) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [ぽんぽんプリンセス feat\. さかな](https://open.spotify.com/album/6YT4riuL3btWZCMtXxvNDi) | 2:03 | 2023-03-08 |  |
+| [ぽんぽんプリンセス feat\. さかな](https://open.spotify.com/track/1Ca8SOjTHXSSWKOuZOTAl3) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [ぽんぽんプリンセス feat\. さかな](https://open.spotify.com/album/6YT4riuL3btWZCMtXxvNDi) | 2:03 | 2023-03-08 | 2023-03-09 |
 | [まいほろう](https://open.spotify.com/track/0C62SapmW8r7KaN36RE9uu) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK) | [まいほろう](https://open.spotify.com/album/1rQBAoiwwvPNTXkan2hlrw) | 2:40 | 2022-06-09 | 2022-07-27 |
 | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/track/4cbnqWCOWxkZa5zHDuMqSA) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [まだ浅はか \(feat\. 和ぬか\)](https://open.spotify.com/album/4H767ooBx651dGXNBGlHal) | 3:42 | 2022-06-23 | 2022-07-27 |
 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 | 2023-02-02 |  |
@@ -523,7 +526,7 @@
 | [断面](https://open.spotify.com/track/0SqLPtsp3Bn47nTJks4r3y) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [断面](https://open.spotify.com/album/36ppsIpfU3lPxCsaYpjgJo) | 3:01 | 2022-07-07 | 2022-07-29 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-13 |  |
 | [旅人の森](https://open.spotify.com/track/6sKWnOIrkz6jCBBZEF1yKw) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [旅人の森](https://open.spotify.com/album/5tDVANPhUrxeg16FOGA3Im) | 4:07 | 2022-06-21 | 2022-07-28 |
-| [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-08 |  |
+| [日々爛々。](https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [日々爛々。](https://open.spotify.com/album/4XGM0saDHTseNTx5BP7WBF) | 3:04 | 2023-03-08 | 2023-03-09 |
 | [日進月光](https://open.spotify.com/track/2PA1iWAJEt4zIw0wPKYKAo) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [日進月光](https://open.spotify.com/album/1zqnDGi6DUlszkJP4Helq8) | 3:20 | 2022-07-24 | 2022-07-27 |
 | [春とレム](https://open.spotify.com/track/7KaOma99geyFVlWkzFoXxi) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [春とレム](https://open.spotify.com/album/4NNwImwuKgKXvInVlQqNQL) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2022-06-13 | 2022-06-22 |

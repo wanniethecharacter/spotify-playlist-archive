@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,729,783 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,731,900 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 93 | [Jenny From The Block](https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Jenny From The Block](https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt) | 2:00 |
 | 94 | [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 |
 | 95 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 |
-| 96 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 |
-| 97 | [Coca\-Cola](https://open.spotify.com/track/5SBFE8l79rSAcFLyqtZW1X) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Coca\-Cola](https://open.spotify.com/album/0m3Db6w6S8bxZFtsppsziM) | 2:14 |
+| 96 | [Coca\-Cola](https://open.spotify.com/track/5SBFE8l79rSAcFLyqtZW1X) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Coca\-Cola](https://open.spotify.com/album/0m3Db6w6S8bxZFtsppsziM) | 2:14 |
+| 97 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 |
 | 98 | [Motive \(feat\. Ben Samama\)](https://open.spotify.com/track/5WzpwgEBTNbF4OXbHkFBDD) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Goldfingers](https://open.spotify.com/artist/7LV1GFyy93NOwrWSbdSxeq), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Motive \(feat\. Ben Samama\)](https://open.spotify.com/album/2Zc2KyEwuCe2qelexvw8b0) | 2:21 |
-| 99 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
-| 100 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 |
+| 99 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 |
+| 100 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 |
 
-Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMDUyNzliNzI4NDgwZTFlZWVhMWEyOTk0M2ZlMThiZDgw`
+Snapshot ID: `MTY3Nzc5ODA2MCwwMDAwMDAwMGU5YzMyODNmODA4MTM3MjQ1Nzc4Zjc4ODIyOTNhMzRk`

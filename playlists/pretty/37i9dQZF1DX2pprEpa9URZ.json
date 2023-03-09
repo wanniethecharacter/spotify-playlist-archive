@@ -1,15 +1,15 @@
 {
   "description": "A deep sound, combining electronic elements and organic instrumentation stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 693037,
+  "num_followers": 693252,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMGNmZjIzNmRmOTZjMjgxYTFlN2FjYWViNDE5Yzg5ZjYw",
+  "snapshot_id": "MTY3NjY0Nzk5NywwMDAwMDAwMDU2NDk3YWE0ZDViNDYzMmI3YWU2ZDg0MzgyMzM3NzYx",
   "tracks": [
     {
-      "added_at": "2023-03-08 01:02:57",
+      "added_at": "2023-03-09 01:02:12",
       "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
     },
     {
-      "added_at": "2023-03-08 01:02:57",
+      "added_at": "2023-03-09 01:02:12",
       "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-30 10:45:45",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2023-01-30 10:45:45",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -745,7 +729,23 @@
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
-      "added_at": "2023-03-08 01:02:57",
+      "added_at": "2023-01-30 10:45:45",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2023-03-09 01:02:12",
       "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"

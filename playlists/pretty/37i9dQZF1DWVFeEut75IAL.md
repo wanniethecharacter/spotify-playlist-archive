@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,626 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,214 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 14 | [Losar](https://open.spotify.com/track/0bCSGdS5SRvzoz4IBTD55W) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Losar](https://open.spotify.com/album/6Fearn2XRW9LK2WNX22FUN) | 3:41 |
 | 15 | [By the Still Waters, Op\. 114](https://open.spotify.com/track/3qLZnIVAiGexuNuG8Aptrq) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Beach: By the Still Waters, Op\. 114](https://open.spotify.com/album/52E1rqtwQBOPBGIq07YTHn) | 3:07 |
 | 16 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
-| 17 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
+| 17 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 18 | [2 Aquarelles: Lento, ma non troppo](https://open.spotify.com/track/5TtmI9sfXw4VXco0PE21mV) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [David Lloyd\-Jones](https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4) | [ENGLISH STRING MINIATURES, Vol\. 4](https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ) | 2:12 |
 | 19 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
 | 20 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [wind whispers, Op\. 85/II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |

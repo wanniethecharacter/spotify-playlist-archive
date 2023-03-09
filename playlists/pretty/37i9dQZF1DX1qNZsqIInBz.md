@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,543 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,902 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 57 | [Rainy Night Drive](https://open.spotify.com/track/5gbzQN044AiB69UiVuc6qZ) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw), [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6) | [Rainy Night Drive](https://open.spotify.com/album/2VTQ3wglK5i3Lm6TK0ns6J) | 2:39 |
 | 58 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 |
 | 59 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 |
-| 60 | [Going Deep](https://open.spotify.com/track/1BiXcHaaa4A8KYqA3bD0Oi) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/5xiRFjvRCLO0adzicqhZOs) | 3:32 |
+| 60 | [Going Deep](https://open.spotify.com/track/2jlWbXGnQ8RXK7k6n6EnFv) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [sulky](https://open.spotify.com/artist/3uYWZ9Qeoh79NShyWiKrqZ) | [Going Deep](https://open.spotify.com/album/4YsTdmaFIjhxkjF6KVCjEu) | 3:32 |
 | 61 | [Butterfly](https://open.spotify.com/track/58oi0OWV0fHLsnJWFv5VQe) | [Jidanofu](https://open.spotify.com/artist/6JwHgPzxWOKHVH6aWoHuxm) | [Butterfly](https://open.spotify.com/album/1Agg5sCbo8mvH4GBDjTpb7) | 2:19 |
 | 62 | [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 |
 | 63 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MTY3NzI2MTYxNCwwMDAwMDAwMDU3ZWRiOGNkMjMwYjMyZjQ5NGU1YTgwNWMyYzYzMGM2`
+Snapshot ID: `MTY3NzI2MTYxNCwwMDAwMDAwMDkwMDgzNzc0ZTk0OWIzODRjNTc1ZDYyNGNhMmQzMjQ1`

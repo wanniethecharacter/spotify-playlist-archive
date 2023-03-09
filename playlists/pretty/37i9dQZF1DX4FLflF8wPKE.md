@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,388 likes - 76 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,457 likes - 76 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 20 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 21 | [Golden Domes](https://open.spotify.com/track/0e9iDBDEWeZmHuBgcyUXCa) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Volodymyr Solianyk](https://open.spotify.com/artist/6vXZQuM7n344ninIG3uJLZ) | [Golden Domes](https://open.spotify.com/album/4oJcNkkt8j9lo5ZNQ0GSdN) | 5:20 |
 | 22 | [Memories of a Promenade II](https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Flying Steps](https://open.spotify.com/artist/1Oi59eHWhHIuwnVaFd3M60) | [Melody](https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq) | 3:26 |
-| 23 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
+| 23 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 24 | [2 Aquarelles: Lento, ma non troppo](https://open.spotify.com/track/5TtmI9sfXw4VXco0PE21mV) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [David Lloyd\-Jones](https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4) | [ENGLISH STRING MINIATURES, Vol\. 4](https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ) | 2:12 |
 | 25 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Bruce Levingston](https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU) | [Citizen](https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE) | 4:53 |
 | 26 | [A Reflection of You](https://open.spotify.com/track/4X1mRlaOkp52lLBBBBhi1Z) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [A Reflection of You](https://open.spotify.com/album/0gXru6qZ2BtTF5riYDOPi0) | 2:25 |

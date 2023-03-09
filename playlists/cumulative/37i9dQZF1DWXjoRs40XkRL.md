@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-143 songs - 12 hr 50 min
+144 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 | 2023-03-03 |
 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 | 2022-12-07 |  |
 | [Har Ek Baat](https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/1nixMaLzd7QMvQPfsgqPZF) | 4:00 | 2022-12-07 | 2022-12-09 |
+| [Holi Re](https://open.spotify.com/track/5w75ZsIlgwwsOiDckZVJa2) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Chayan Adhikari](https://open.spotify.com/artist/4TGWcaZcHkvodbXwKqH8eC) | [Holi Re](https://open.spotify.com/album/3QHXgWseRwVd2vYT8bPB2d) | 4:48 | 2023-03-08 |  |
 | [Homelands](https://open.spotify.com/track/5FqlDVyNf0FuHKAPS8a6K4) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 6:02 | 2022-05-17 | 2022-12-20 |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-05-17 | 2023-03-04 |
 | [Humri Ateriya](https://open.spotify.com/track/4QLgVKSIe3OkXRNu5zJSJu) | [Smita Rao Bellur](https://open.spotify.com/artist/0Dje5wyfIRWD7Ks4k2gH0e) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 3:31 | 2022-05-17 |  |
@@ -85,7 +86,7 @@
 | [Miliha](https://open.spotify.com/track/5VOCIsiHepzYDaE5V1Qv6H) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes Vol\. 2](https://open.spotify.com/album/4atesUt90zJdViXSVetFda) | 1:01 | 2022-05-17 |  |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
 | [More Piya](https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Aanandi Joshi](https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [More Piya](https://open.spotify.com/album/5mILpkQZVdrUhtLFFj6gsU) | 4:18 | 2022-05-17 |  |
-| [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 |  |
+| [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 | 2023-03-09 |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |
 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 | 2022-05-17 |  |
 | [Naino Ke Ishaare](https://open.spotify.com/track/64lm0UUw3NLTWUBYogM27P) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr) | [Naino Ke Ishaare](https://open.spotify.com/album/418atTbf5RwSqpLNpMVTBB) | 4:37 | 2022-05-17 |  |

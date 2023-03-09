@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=Jxo12rkVRJmeBp\-BEV8i6g">Bongeziwe Mabandla</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=BcTJRgxUQo2W4ppUnunhSg">Lwah Ndlunkulu</a>
 
 340 songs - 1 day 0 hr 19 min
 

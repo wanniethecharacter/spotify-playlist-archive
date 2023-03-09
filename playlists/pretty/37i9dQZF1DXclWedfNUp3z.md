@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,453 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,559 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 42 | [Marginalia \#48](https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM) | 3:53 |
 | 43 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 |
 | 44 | [The Sounds of Nature](https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [The Sounds of Nature](https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp) | 3:04 |
-| 45 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
-| 46 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
-| 47 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
+| 45 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
+| 46 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 47 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 |
 | 48 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
 | 49 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN), [OPUS](https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 |
 | 50 | [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 |
 | 51 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 |
 | 52 | [Rothko Chapel 5](https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf) | [Morton Feldman](https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM) | [Rothko Chapel](https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO) | 2:52 |
-| 53 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 |
-| 54 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 |
+| 53 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 |
+| 54 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 |
 | 55 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 56 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 |
 | 57 | [Wenn der südwind weht](https://open.spotify.com/track/4DHqYa5X2Qokx9E5YKE6qk) | [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Clarinet & Piano: Selected Works, Vol\. 1](https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM) | 4:24 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 73 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 74 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 |
 | 75 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 |
-| 76 | [Swashers](https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Spaces](https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L) | 5:38 |
+| 76 | [Seals](https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A) | 2:18 |
 | 77 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
-| 78 | [Seals](https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Galápagos \(Original Series Soundtrack\)](https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A) | 2:18 |
+| 78 | [Swashers](https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Spaces](https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L) | 5:38 |
 | 79 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 |
 | 80 | [Ultra Marine](https://open.spotify.com/track/6G9LFyviMIEEXwRKTeAD1s) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ultra Marine](https://open.spotify.com/album/1mDDSvhlqghu08AS5u8e35) | 3:58 |
 | 81 | [Kalimba Heart](https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
 | 100 | [Nevada](https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed, Volume 1](https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd) | 4:19 |
 
-Snapshot ID: `MTY3NzgxODEwOSwwMDAwMDAwMGRjYWU4YTdlMGJkZTljYjNlY2UzMDU0ZmYyNzMxNDll`
+Snapshot ID: `MTY3NzgxODEwOSwwMDAwMDAwMDlhMDM1N2Y4YzBmNGU3ODQ1MjhjZjdhNTRkOWRlNjIy`

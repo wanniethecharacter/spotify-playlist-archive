@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-207 songs - 12 hr 16 min
+208 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Clean Getaway](https://open.spotify.com/track/4aPkrXsRnoF7fgpt4va3ur) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Clean Getaway](https://open.spotify.com/album/3hLWNMK8P5d6wJkRWWFmEE) | 3:47 | 2022-03-23 | 2022-04-21 |
 | [Concrete Jungle \- Acoustic](https://open.spotify.com/track/4yxL6eoSsZ04lN0VezKgcr) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Concrete Jungle \(Acoustic\)](https://open.spotify.com/album/5O0s7Us9XA7lre1xURGve0) | 2:40 | 2022-03-23 | 2022-07-19 |
 | [Concrete Jungle \- Acoustic](https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Concrete Jungle \(Acoustic\)](https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q) | 2:40 | 2022-03-23 |  |
-| [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2022-03-23 |  |
+| [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2022-03-23 | 2023-03-09 |
 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 | 2022-03-23 | 2022-04-21 |
 | [Don't Let Me Get Me](https://open.spotify.com/track/2ZYVlxenokw8vF5Mnf4B7K) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Don't Let Me Get Me](https://open.spotify.com/album/2SMwfICFrkBcqcwZZTwUsi) | 3:20 | 2022-03-23 | 2022-04-19 |
 | [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/1Z5onEoRrlZuj53i7F6klF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Don't Matter Now \(Acoustic Version\)](https://open.spotify.com/album/4R4UPnVma96OwnKBqGDwXu) | 2:47 | 2022-03-23 | 2022-07-22 |
@@ -182,6 +182,7 @@
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2022-03-23 |  |
 | [Steady as She Goes](https://open.spotify.com/track/61ica0lRQhMSkv2vsZf80Y) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Steady as She Goes](https://open.spotify.com/album/61ofcYpVWJ0Ec8nOCQuJs9) | 4:00 | 2022-03-23 | 2022-07-11 |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-03-23 |  |
+| [Sunscreen](https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 2:58 | 2023-01-20 |  |
 | [Sunscreen](https://open.spotify.com/track/2mBP9IsENazdoJ9ep5iR8i) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 2:58 | 2022-03-23 | 2023-02-28 |
 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 | 2022-03-23 |  |
 | [Supernova](https://open.spotify.com/track/23A4WepE6mwaOXFyxWhQpk) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/7FJy9YzzkILLRvi5gYr0gb) | 3:55 | 2022-03-23 | 2022-04-19 |

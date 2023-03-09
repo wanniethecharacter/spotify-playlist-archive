@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133,435 likes - 200 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,133,662 likes - 200 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 34 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 |
 | 35 | [Alright](https://open.spotify.com/track/3yHH3LPyinYelEnaj15yKb) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy) | [Alright](https://open.spotify.com/album/3pMDOq9JAUCSTBbCm2wNLM) | 2:29 |
 | 36 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 |
-| 37 | [Run & Fall](https://open.spotify.com/track/3IVviFeW5KHZAf18TtxhnT) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Run & Fall](https://open.spotify.com/album/1YdrXAyNfq88WY3NEcnQiD) | 2:25 |
-| 38 | [Malibu](https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Malibu](https://open.spotify.com/album/27kBIneDwz5OgFKNkv0HKG) | 2:27 |
-| 39 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 |
+| 37 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 |
+| 38 | [Run & Fall](https://open.spotify.com/track/3IVviFeW5KHZAf18TtxhnT) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Run & Fall](https://open.spotify.com/album/1YdrXAyNfq88WY3NEcnQiD) | 2:25 |
+| 39 | [Malibu](https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Malibu](https://open.spotify.com/album/27kBIneDwz5OgFKNkv0HKG) | 2:27 |
 | 40 | [Nalu](https://open.spotify.com/track/2oUSxhTzXlYyM7D31ohQok) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Nalu](https://open.spotify.com/album/093knXiKztuaCLp6QL9H96) | 2:29 |
 | 41 | [Young Folks](https://open.spotify.com/track/1ZbnlbHcFW9UQLOEsem7cW) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N) | [Young Folks](https://open.spotify.com/album/2Bkg3j2UVTek8CephLWRfL) | 2:41 |
 | 42 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 199 | [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 |
 | 200 | [Walk Thru Fire](https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Walk Thru Fire](https://open.spotify.com/album/1vxKYH1I4z8hqWOwRMC8Qr) | 3:21 |
 
-Snapshot ID: `MTY3Nzg1MzY1NSwwMDAwMDAwMGIyODVhY2ZlNzc1NTM1NmE4NWU2NmQwZGE2MmI3MjBm`
+Snapshot ID: `MTY3Nzg1MzY1NSwwMDAwMDAwMDA3NDU4YTcyYzU4ZjM5NzE3ZThiODhhNDBlYmZlZWVh`

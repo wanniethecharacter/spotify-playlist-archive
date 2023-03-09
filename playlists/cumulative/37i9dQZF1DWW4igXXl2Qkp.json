@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: BreezyLYN",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: SheedTs",
   "name": "Fresh Finds: Hip-Hop",
   "tracks": [
     {
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 126720,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN"
@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Bleeda Story",
+        "url": "https://open.spotify.com/album/3coKnhp9KOQ4YL9mE075iN"
+      },
+      "artists": [
+        {
+          "name": "Realbleeda",
+          "url": "https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208758,
+      "name": "Bleeda Story",
+      "url": "https://open.spotify.com/track/2MybTFEA2hpIpPwvOQZgeg"
+    },
+    {
+      "album": {
         "name": "blessings & curses",
         "url": "https://open.spotify.com/album/0muRadh3yV9mTLXOqKNEZO"
       },
@@ -2116,6 +2134,24 @@
       "duration_ms": 178416,
       "name": "BRAND NEW BIH",
       "url": "https://open.spotify.com/track/4Mhem52bN7GWew2SPEmQ6A"
+    },
+    {
+      "album": {
+        "name": "BRENTWOOD",
+        "url": "https://open.spotify.com/album/3OLeMcoAWBMycwRJo0DZ1n"
+      },
+      "artists": [
+        {
+          "name": "Thunderous Knight",
+          "url": "https://open.spotify.com/artist/7MBXDzzZnuxjMMDOTrObsp"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153155,
+      "name": "BRENTWOOD",
+      "url": "https://open.spotify.com/track/25fmkoTuBXsegcr2GftcmE"
     },
     {
       "album": {
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 93800,
       "name": "Danger - Jersey Club - Remix",
       "url": "https://open.spotify.com/track/6CnPjdQqENmUlgDSbOuqeZ"
@@ -3629,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "ELEGANT",
+        "url": "https://open.spotify.com/album/5tkDAf8KqAe23FWIOCH1HN"
+      },
+      "artists": [
+        {
+          "name": "RENACIDO",
+          "url": "https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129780,
+      "name": "ELEGANT",
+      "url": "https://open.spotify.com/track/4ldrsvOaR5xm52qYbza3OS"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO"
       },
@@ -3876,6 +3930,24 @@
       "duration_ms": 221562,
       "name": "Failure",
       "url": "https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u"
+    },
+    {
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/5yCEsfRuV8t3iMYZnq6rHn"
+      },
+      "artists": [
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/5gZu9qcaqBPwyDljjMFLS6"
     },
     {
       "album": {
@@ -4270,7 +4342,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 131052,
       "name": "Full Grind",
       "url": "https://open.spotify.com/track/4SJ5lS4IvapFTGfJqHu4al"
@@ -4986,6 +5058,28 @@
       "duration_ms": 89289,
       "name": "Heart Of Gold",
       "url": "https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/02FoSzcOuebI50hMoSzrrK"
+      },
+      "artists": [
+        {
+          "name": "Lil Goat",
+          "url": "https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV"
+        },
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162353,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/2cdoLBywWSteVmmWYzERWQ"
     },
     {
       "album": {
@@ -9883,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Shoot This Bitch Up",
+        "url": "https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL"
+      },
+      "artists": [
+        {
+          "name": "GMO Stax",
+          "url": "https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94720,
+      "name": "Shoot This Bitch Up",
+      "url": "https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ"
+    },
+    {
+      "album": {
         "name": "SIDEWAYS",
         "url": "https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas"
       },
@@ -10733,6 +10845,32 @@
     },
     {
       "album": {
+        "name": "Painting Houses",
+        "url": "https://open.spotify.com/album/2evvbqY2GnpwoAhdPDpCF9"
+      },
+      "artists": [
+        {
+          "name": "Ufo Fev",
+          "url": "https://open.spotify.com/artist/1m4NqUSiXZj5qY83vwvoMA"
+        },
+        {
+          "name": "Spanish Ran",
+          "url": "https://open.spotify.com/artist/0yhUp9ffopvPldcfxtqanA"
+        },
+        {
+          "name": "Tree Mason",
+          "url": "https://open.spotify.com/artist/66j5pKh7GqRm23WoULBfZu"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Tahoe",
+      "url": "https://open.spotify.com/track/117I9bICU6PXKaUzAOO34I"
+    },
+    {
+      "album": {
         "name": "TAKE R U OK",
         "url": "https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh"
       },
@@ -10986,7 +11124,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 135881,
       "name": "This Is Why You Shouldn't Do Drugs",
       "url": "https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd"
@@ -11412,7 +11550,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 139946,
       "name": "Trippin For No Reason",
       "url": "https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA"
@@ -11448,7 +11586,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 101621,
       "name": "Trust Fund",
       "url": "https://open.spotify.com/track/5qUHj7OWz9kkViP6DaELEc"
@@ -11628,7 +11766,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 230333,
       "name": "UnderWater",
       "url": "https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk"

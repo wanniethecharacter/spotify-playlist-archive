@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Latinover Pounds</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Loatinover Pounds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,976 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,061 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 49 | [Changed](https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9) | [Ray Chillz](https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2), [Naardie](https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61) | [Changed](https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9) | 3:06 |
 | 50 | [Blue Shell](https://open.spotify.com/track/6sCljP7sOQfhphYlyol5KP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 2:06 |
 
-Snapshot ID: `MTY3ODA5OTA0NiwwMDAwMDAwMGEwODViODk4NjBiNzcxNjk1YjMwMDU1YTg2Y2QzZDc2`
+Snapshot ID: `MTY3ODI2NDE3MSwwMDAwMDAwMDVhYmY1MGU0YWNhMWNiZTNlYjkxZTVjZWUzZDY4ZDVk`

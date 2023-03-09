@@ -4,7 +4,7 @@
 
 > drip down
 
-365 songs - 19 hr 46 min
+366 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2023-03-03 |  |
 | [Ur\_Room](https://open.spotify.com/track/2pACOpgaJOULkKFatoEbAR) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [ULTRAMARINE](https://open.spotify.com/album/5JSpqzetDwOZJIQRkABWHW) | 2:24 | 2022-10-07 | 2022-12-17 |
 | [Vans](https://open.spotify.com/track/5pdUVaAfEOGSdc4GAuQgEp) | [The Pack](https://open.spotify.com/artist/5M6GE2n46o0qBIyGXtzdQz) | [Vans \(Main Version\)](https://open.spotify.com/album/6C9esmNqsyo6pgXxKYDKL0) | 4:15 | 2022-04-15 | 2022-05-04 |
-| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-16 |  |
+| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-12-16 | 2023-03-09 |
+| [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-03 |  |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-02-11 | 2022-09-15 |
 | [Visions](https://open.spotify.com/track/1rcxltU3Mzn8gN6Z8ly9Zh) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [If I Am Only My Thoughts](https://open.spotify.com/album/6v3mBUMjarq34pFwlXUKrl) | 3:53 | 2022-11-17 | 2022-12-17 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2021-08-05 | 2022-08-27 |

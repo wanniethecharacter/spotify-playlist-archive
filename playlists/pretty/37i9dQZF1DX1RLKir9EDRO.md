@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Efza  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,443 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,449 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 8 | [yeşil ormanlar](https://open.spotify.com/track/5ZTQX0Svabd6DtVu4Kr5yA) | [PAZ](https://open.spotify.com/artist/6LHspjQI5piBTulbMKodbF), [Seda Türkmen](https://open.spotify.com/artist/6GA6VYWQbXkI0LVOXTcbby) | [yeşil ormanlar](https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu) | 2:46 |
 | 9 | [Koca koca çocuklar](https://open.spotify.com/track/0RFjRtxXpD6ITwcTfuRuMJ) | [Ferdinand](https://open.spotify.com/artist/5RkqmSvDQo2hqtBDZhLbwC) | [Koca koca çocuklar](https://open.spotify.com/album/1hIHzAFrsJ7DBgXOeIzCmm) | 3:42 |
 | 10 | [Bi' Dinlesen](https://open.spotify.com/track/58qQ0CcU9r4hXp8QHCT04i) | [yağmur](https://open.spotify.com/artist/2v9dJfcr4BCUzkgScNaTtR) | [Bi' Dinlesen](https://open.spotify.com/album/3pduep6fI3Scgmvwokq1cD) | 3:12 |
-| 11 | [Kırılgan](https://open.spotify.com/track/5RrtxRpVSi8ZM3dbrpPB79) | [YaDa](https://open.spotify.com/artist/1nK7QIlWRKhFTid6OJEIAK) | [YaDa \(Akustikhane Sessions\)](https://open.spotify.com/album/6mgXeckoqAMnE5M03mXGuf) | 3:23 |
+| 11 | [Kırılgan \- Live at Akustikhane](https://open.spotify.com/track/5RrtxRpVSi8ZM3dbrpPB79) | [YaDa](https://open.spotify.com/artist/1nK7QIlWRKhFTid6OJEIAK) | [YaDa \(Akustikhane Sessions\)](https://open.spotify.com/album/6mgXeckoqAMnE5M03mXGuf) | 3:23 |
 | 12 | [Sözler Yalan](https://open.spotify.com/track/6VtMwOuGr8H21i8tOGs4qD) | [Kaan Çelik Metin](https://open.spotify.com/artist/0UpAvZ6nJyJ6cTXfln5Uvs) | [Sözler Yalan](https://open.spotify.com/album/453eBU29pSBBafv2sv4t2N) | 3:57 |
 | 13 | [Kayıp](https://open.spotify.com/track/783fTyBGbozulQvBxR4pCt) | [Modern Primat](https://open.spotify.com/artist/0h2QUgEmSPNZveJfDC7gHF) | [Kayıp](https://open.spotify.com/album/1bfWawJMOtRFu6LMv2ubKN) | 4:42 |
 | 14 | [Denedim Hep](https://open.spotify.com/track/3Oh7KcwsQqscaxMbC2TFrM) | [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO) | [Denedim Hep](https://open.spotify.com/album/19AeQA1q0eBVDwvsKCPtG7) | 3:08 |

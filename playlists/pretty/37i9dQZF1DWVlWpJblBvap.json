@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 473244,
+  "num_followers": 473670,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MTUxMiwwMDAwMDAwMDVjZmM1YzYwNWM0NThhNzliMzZjNDdkYTM0YjMxMDk1",
+  "snapshot_id": "MTY3NjY5MTUxMiwwMDAwMDAwMDU3NTM3ODYyZGY2MGQ1YzJjNmQxNDkxZDFlZjQ2NDI5",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 265518,
-      "name": "Another In The Fire - Studio",
-      "url": "https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "Fill This Place (Live)",
         "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 248854,
       "name": "I'm Listening - Radio Version",
       "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "You Are the Avalanche",
+        "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Sarah McMillan",
+          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
+        }
+      ],
+      "duration_ms": 295720,
+      "name": "King of My Heart",
+      "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 216400,
       "name": "King Of The World",
       "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "You Are the Avalanche",
-        "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        },
-        {
-          "name": "Sarah McMillan",
-          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
-        }
-      ],
-      "duration_ms": 295720,
-      "name": "King of My Heart",
-      "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
     },
     {
       "added_at": "2021-01-15 06:25:35",

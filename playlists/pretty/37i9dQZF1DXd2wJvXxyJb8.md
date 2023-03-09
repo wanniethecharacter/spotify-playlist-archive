@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > procuro novos amigos....requisito: casa com piscina...manda dm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,564 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,199 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 27 | [Brotou no Baile](https://open.spotify.com/track/3F83yryYWw4Qs0sVRpoMF3) | [Mc Agabê](https://open.spotify.com/artist/79KRb6pfmG8T3Biypzm8sk), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Dj Terrorista](https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Brotou no Baile](https://open.spotify.com/album/6zVLn50KohcFWYI7FNKket) | 2:01 |
 | 28 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
 | 29 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 |
-| 30 | [Desce Talarica](https://open.spotify.com/track/194Zxp5dpD84BhytBqoTIK) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/0V3qBGRWeu1lpqGdKIk5M1) | 1:49 |
+| 30 | [Desce Talarica](https://open.spotify.com/track/5rm0I5FjhroFxGXgLvQS5R) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/5QvJ9V1Zt3SAFBsSF8Homx) | 1:49 |
 | 31 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 32 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 |
 | 33 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 74 | [O Poder Dessa Garota](https://open.spotify.com/track/4aoZBldNDVYmTwmeoI49ud) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/3EBubCq7RZgQSzr5LiDaDP) | 2:16 |
 | 75 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MTY3ODIxOTQxNywwMDAwMDAwMDA3OTc3YWQwMzc3YzBkNDViZmIyYzcxN2FjOTRmMTFl`
+Snapshot ID: `MTY3ODIxOTQxNywwMDAwMDAwMDdjMjkzZTFhODFkYjA0MDFkNDc4NzY4MjljZTRhNjBh`

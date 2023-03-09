@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: quinnie
 
-2,094 songs - 4 day 16 hr 16 min
+2,095 songs - 4 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -976,6 +976,7 @@
 | [Is It Worth It Now?](https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Is It Worth It Now?](https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV) | 3:24 | 2022-09-09 | 2022-11-17 |
 | [iScream](https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [iScream](https://open.spotify.com/album/1cB1LeV8nA8EZgxVUenuVV) | 3:23 | 2022-04-12 | 2022-05-28 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-09 | 2022-04-09 |
+| [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 | 2023-03-08 |  |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-14 | 2022-04-09 |
 | [It's Good To Be In Love](https://open.spotify.com/track/7tOLOdepEnR3yZidN6tdnT) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:39 | 2022-02-28 | 2022-04-09 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2022-09-13 | 2022-11-23 |
@@ -1427,7 +1428,7 @@
 | [PISS DRUNK KIDS](https://open.spotify.com/track/1wBxYccgkPj12wcFIg9Nov) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [Puppies Forever](https://open.spotify.com/album/0FeDdcXNlLIjVtrZ8SkDwq) | 3:28 | 2021-10-16 | 2021-11-13 |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2021-03-14 | 2021-06-05 |
 | [Pity Party](https://open.spotify.com/track/1y6TgrTu3KuIgBQtuvEBf2) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Pity Party](https://open.spotify.com/album/65tgtb3bmFjIhWgDY0W6PN) | 1:31 | 2021-04-28 | 2021-07-31 |
-| [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 |  |
+| [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-03-09 |
 | [Plans](https://open.spotify.com/track/21gFBttZdo6RJySWtwPbf5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Plans](https://open.spotify.com/album/4899tf9GNQcdopoBMs4RsW) | 3:11 | 2019-10-10 | 2020-01-17 |
 | [Plans](https://open.spotify.com/track/7JLWTXue6w1uDMMP4VOwGi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Starsick EP](https://open.spotify.com/album/4FnuxJYVZgYBwPMgxgwDJN) | 3:11 | 2021-02-06 | 2021-02-13 |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2021-12-03 | 2022-01-08 |

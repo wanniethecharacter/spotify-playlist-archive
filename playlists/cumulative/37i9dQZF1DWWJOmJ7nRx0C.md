@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Dorothy
 
-669 songs - 1 day 16 hr 3 min
+670 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Boys Will Be Girls](https://open.spotify.com/track/4udlUigO56yYlO51LJkDAO) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Boys Will Be Girls](https://open.spotify.com/album/4bLAqfPxO7yt5S2xEJ2tdZ) | 3:07 | 2021-11-12 | 2022-02-26 |
 | [Break \(feat\. Atreyu\)](https://open.spotify.com/track/1sdXpltuAciWckk0uRo0Jb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Break \(feat\. Atreyu\)](https://open.spotify.com/album/1eTo6j9TnscQfp0bUUl9dL) | 2:49 | 2022-06-03 | 2022-11-12 |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-03 | 2022-12-03 |
-| [Break the Mold](https://open.spotify.com/track/5hjvbLXLfNgRmylohmmSy7) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 2:59 | 2022-11-18 |  |
+| [Break the Mold](https://open.spotify.com/track/5hjvbLXLfNgRmylohmmSy7) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 2:59 | 2022-11-18 | 2023-03-09 |
 | [Bring Me Back](https://open.spotify.com/track/0YDpzgzZ7yYvsyeV8HmOep) | [Etched in Embers](https://open.spotify.com/artist/18oTfMeqSFKTJgT3ad055a) | [Bring Me Back](https://open.spotify.com/album/71cr9xL00MCJxkGpfbxXdK) | 3:55 | 2021-08-20 | 2022-03-18 |
 | [Broken](https://open.spotify.com/track/3XofThdII94fVjvIj2QUci) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Broken](https://open.spotify.com/album/1bQ2X4FqjxcFwGUwyeQTu7) | 3:48 | 2022-09-16 |  |
 | [Brother the Cloud](https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:22 | 2022-03-04 | 2022-04-23 |
@@ -165,6 +165,7 @@
 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 | 2023-02-03 |  |
 | [Depression Season](https://open.spotify.com/track/0d2yuOqkP2rtimQ7OHJBex) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Depression Season](https://open.spotify.com/album/7DuxU5W6e3w5wCBsD3pKZr) | 2:55 | 2022-12-09 | 2023-01-28 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-11-26 | 2022-07-02 |
+| [Devastate](https://open.spotify.com/track/5DK1PzaTVvPtINfiywGg9H) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Extrovert](https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy) | 3:32 | 2023-03-08 |  |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-10-21 | 2022-12-17 |
 | [Devil That You Know](https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7) | [NHC](https://open.spotify.com/artist/5NkZhEvaFqUeNVwXseoeS3) | [Devil That You Know / Lazy Eyes](https://open.spotify.com/album/6cpjKpQiWtvoDV4gWqARFb) | 3:15 | 2021-11-12 | 2022-01-22 |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-07-29 | 2023-01-21 |

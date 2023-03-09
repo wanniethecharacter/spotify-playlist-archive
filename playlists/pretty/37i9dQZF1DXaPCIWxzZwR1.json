@@ -1,12 +1,12 @@
 {
   "description": "next gen pop cover: Ruel",
-  "num_followers": 1235916,
+  "num_followers": 1236145,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIzMTg3OSwwMDAwMDAwMGQxMDg0MWFmNzAwYWUxNzJlMTE3N2IyZmZmNjdiMzEx",
+  "snapshot_id": "MTY3ODI4ODgyOSwwMDAwMDAwMGJlMDk0OTFhZjNlM2QzZDNkOTkxMjhjZGVjYmIyZmU3",
   "tracks": [
     {
       "added_at": "2023-03-07 23:31:19",
@@ -111,6 +111,38 @@
     {
       "added_at": "2023-03-07 23:31:19",
       "album": {
+        "name": "Sugar Sweet",
+        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 169839,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+    },
+    {
+      "added_at": "2023-03-07 23:31:19",
+      "album": {
+        "name": "VICIOUS",
+        "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "VICIOUS",
+      "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
+    },
+    {
+      "added_at": "2023-03-07 23:31:19",
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
       },
@@ -207,38 +239,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
-    },
-    {
-      "added_at": "2023-03-07 23:31:19",
-      "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
-    },
-    {
-      "added_at": "2023-03-07 23:31:19",
-      "album": {
-        "name": "VICIOUS",
-        "url": "https://open.spotify.com/album/76dCPKcj2NCRFaLQ9AlLtv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 132793,
-      "name": "VICIOUS",
-      "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
     },
     {
       "added_at": "2023-03-07 23:31:19",

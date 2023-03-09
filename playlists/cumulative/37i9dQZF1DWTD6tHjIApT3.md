@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-1,172 songs - 3 day 4 hr 40 min
+1,174 songs - 3 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-06-07 | 2022-07-11 |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 | 2022-10-19 |
 | [Aquarium Summer](https://open.spotify.com/track/5A4zrqYxmkTCHR4rVecd4w) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ヨシカワミノリ](https://open.spotify.com/artist/5JnrRCxGkwDPN8LKxVfn4e) | [Summer Deja Vu](https://open.spotify.com/album/4Vk77i4FhPszz6f2Pf52zq) | 3:16 | 2022-08-02 | 2022-08-10 |
-| [Arigatou](https://open.spotify.com/track/13yN6yw29zRuWeXWSc511R) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Arigatou](https://open.spotify.com/album/5q9pbzLLsfeOVHuf2188uL) | 3:31 | 2023-03-07 |  |
+| [Arigatou](https://open.spotify.com/track/13yN6yw29zRuWeXWSc511R) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Arigatou](https://open.spotify.com/album/5q9pbzLLsfeOVHuf2188uL) | 3:31 | 2023-03-07 | 2023-03-09 |
+| [Arigatou](https://open.spotify.com/track/1BqO13qjFNkQXvcBUQJx3d) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Arigatou](https://open.spotify.com/album/26faPbLsIjkVUCFm7lmodo) | 3:31 | 2023-03-07 |  |
 | [AURA](https://open.spotify.com/track/7jfxJTtptYMBatNETSJatd) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Elemental pop](https://open.spotify.com/album/1nJ7NkYmrale7NpIHP3xtB) | 2:48 | 2022-05-29 | 2022-06-12 |
 | [AWA](https://open.spotify.com/track/4u8LAnCBeDzSOA2OwDg1Pt) | [Solmana](https://open.spotify.com/artist/5oLObsPPjMqrx9fv3assle), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [AWA](https://open.spotify.com/album/7gGnFEXWEJBuS05MeUq44H) | 4:54 | 2022-05-31 | 2022-06-25 |
 | [AWAKE](https://open.spotify.com/track/0lOPDqavtEWpK9UboRlqZb) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [AWAKE](https://open.spotify.com/album/2WpgZRtJa8DwLesBsf9HSR) | 3:19 | 2022-07-28 | 2022-08-03 |
@@ -435,6 +436,7 @@
 | [Overeffective](https://open.spotify.com/track/0sGMXpI3SqATkRTgVd0Ahg) | [yuka\_miii](https://open.spotify.com/artist/2YFLt7kDjLAZ271BrVoOUP) | [Overeffective](https://open.spotify.com/album/7LvPVH9tA4wWjNjycsfHn8) | 4:55 | 2022-07-12 | 2022-07-27 |
 | [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
 | [Pain](https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3) | 3:52 | 2022-09-27 | 2022-10-26 |
+| [Painting in the Dusk](https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Painting in the Dusk](https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v) | 4:18 | 2023-03-07 |  |
 | [palette](https://open.spotify.com/track/4JkcfPD2fir5ApJGEjXDZ5) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [PALETTE](https://open.spotify.com/album/1sOmwSreycIb0KTHyxAQUQ) | 3:11 | 2022-05-29 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/33cUp6VQizzgemlLBjWFId) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Silver Lining](https://open.spotify.com/album/4KmgLmnmFmrfXdInAOEe1f) | 3:05 | 2022-06-02 | 2022-07-10 |
 | [Paradise](https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Paradise](https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve) | 3:27 | 2023-03-02 |  |
@@ -953,7 +955,7 @@
 | [夏枯れ](https://open.spotify.com/track/7Lm9ji00foCFC68YxVhw9E) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [夏枯れ](https://open.spotify.com/album/79pypbVZnHtiORB1FlGQFn) | 3:56 | 2022-09-15 |  |
 | [夏端月の青さだけ](https://open.spotify.com/track/0eegDMhk0eorSNTCdLgzH3) | [青い子](https://open.spotify.com/artist/7kpL1G3ZiRLBZz5nUZBnnp) | [夏端月の青さだけ](https://open.spotify.com/album/0vGgd0VdO83JYoDmfP2vbZ) | 3:29 | 2023-01-03 | 2023-01-25 |
 | [夕暮れのチャイム](https://open.spotify.com/track/1IXanpr0QZ3XtDYBRIOdX7) | [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc) | [FAMILY INNOVATION](https://open.spotify.com/album/0JeYhVej0OWQBLwwFchXTU) | 3:47 | 2022-09-29 | 2022-10-05 |
-| [夕闇絵画](https://open.spotify.com/track/0ksFAnBdIzALeaRom5np1p) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [夕闇絵画](https://open.spotify.com/album/4vAvVRdiDtVumHBOVZAlZH) | 4:18 | 2023-03-07 |  |
+| [夕闇絵画](https://open.spotify.com/track/0ksFAnBdIzALeaRom5np1p) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [夕闇絵画](https://open.spotify.com/album/4vAvVRdiDtVumHBOVZAlZH) | 4:18 | 2023-03-07 | 2023-03-09 |
 | [夕陽に溶け出して](https://open.spotify.com/track/0IdmCrZUxqcV9ahyCAL6xr) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [夕陽に溶け出して](https://open.spotify.com/album/0R2ohF66vX2pKgpgnutT13) | 4:45 | 2022-07-05 | 2022-07-13 |
 | [夜だか](https://open.spotify.com/track/6hrxktxWGDcj1QreCqJqy9) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [夜だか](https://open.spotify.com/album/5KWP5z5Y4liqRfz3VdcO21) | 3:16 | 2022-08-23 | 2022-08-31 |
 | [夜になって](https://open.spotify.com/track/3ohNS5Eax4EhZAhLougF08) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜になって](https://open.spotify.com/album/566G21112Ia3rfedoo4hSk) | 4:08 | 2022-05-29 | 2022-07-05 |

@@ -4,7 +4,7 @@
 
 > Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-86 songs - 4 hr 16 min
+89 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I'm On](https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 4:10 | 2022-08-31 |  |
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-08-31 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-08-31 |  |
+| [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-03-08 |  |
 | [Male](https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Male](https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO) | 2:33 | 2022-11-07 |  |
 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2022-11-24 |  |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 |  |
@@ -61,6 +62,7 @@
 | [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 | 2022-12-09 |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 |  |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-08-31 |  |
+| [Ogni Minuto](https://open.spotify.com/track/5muyR3scZrOQDW1sHDraGq) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ogni Minuto](https://open.spotify.com/album/0CntyxOD6yvCreqPWDTyQz) | 2:35 | 2023-03-08 |  |
 | [On Time For Her](https://open.spotify.com/track/497mQQdUubKJdTqYUg0D2d) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3jH2bcVzgYzznFCliV5EdI) | 3:38 | 2022-11-07 | 2022-11-13 |
 | [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2022-08-31 | 2022-10-17 |
 | [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 | 2022-08-31 |  |
@@ -75,6 +77,7 @@
 | [Ponza](https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Ponza](https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO) | 2:45 | 2022-08-31 |  |
 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 | 2022-08-31 |  |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-08-31 |  |
+| [Ricordi \(feat\. Ernia\)](https://open.spotify.com/track/7n8AUlwA0Fu3ryGYDYnIxd) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/album/1UIV43DxOINFzn0C3AYtNU) | 2:35 | 2023-03-08 |  |
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 |  |
 | [Sbronza](https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:53 | 2022-08-31 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-08-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: biskuwi, Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,808 likes - 81 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,947 likes - 81 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

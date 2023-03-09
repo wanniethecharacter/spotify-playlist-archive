@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 39322,
+  "num_followers": 39774,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzOTk0NiwwMDAwMDAwMDYzMTQ2YTNjZWRhMGU1ZWU3NWI5NGVjNmE1ZWRlN2E3",
+  "snapshot_id": "MTY3NzUzOTk0NiwwMDAwMDAwMDJjNjY0ZDdiZmZhMjkxYjMyOGIzZWRkNzVlMzdiN2Fk",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
-        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
-          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
-        }
-      ],
-      "duration_ms": 187326,
-      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
-      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
-    },
-    {
       "added_at": "2023-02-27 23:19:06",
       "album": {
         "name": "Love Song",
@@ -199,6 +183,22 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "\u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044f",
+        "url": "https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u0432\u0442\u043e\u0441\u043f\u043e\u0440\u0442",
+          "url": "https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE"
+        }
+      ],
+      "duration_ms": 187326,
+      "name": "\u041f\u0435\u0441\u043d\u044f \u043e \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438",
+      "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ"
     },
     {
       "added_at": "2022-09-29 00:07:21",
@@ -507,8 +507,8 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -619,8 +619,8 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 204975,
-      "name": "Vertigo Flowers",
-      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -841,24 +841,20 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2022-12-12 18:23:41",
       "album": {
-        "name": "Clinging to the Ground",
-        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
+        "name": "Heaven Inches Away",
+        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
       },
       "artists": [
         {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        },
-        {
-          "name": "Rew",
-          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
+          "name": "Soft Blue Shimmer",
+          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Clinging to the Ground",
-      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
+      "duration_ms": 240500,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -875,22 +871,6 @@
       "duration_ms": 204202,
       "name": "Blaster",
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2022-12-12 18:23:41",
-      "album": {
-        "name": "Heaven Inches Away",
-        "url": "https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ"
-      },
-      "artists": [
-        {
-          "name": "Soft Blue Shimmer",
-          "url": "https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -927,6 +907,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Dance on the Blacktop",
         "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
@@ -941,20 +937,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2021-12-08 15:59:07",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Holy Fawn",
+          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
         }
       ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+      "duration_ms": 387065,
+      "name": "Drag Me into the Woods",
+      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -973,20 +969,24 @@
       "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
     },
     {
-      "added_at": "2021-12-08 15:59:07",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Death Spells",
-        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
+        "name": "Clinging to the Ground",
+        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
       },
       "artists": [
         {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        },
+        {
+          "name": "Rew",
+          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
         }
       ],
-      "duration_ms": 387065,
-      "name": "Drag Me into the Woods",
-      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+      "duration_ms": 239500,
+      "name": "Clinging to the Ground",
+      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 112400,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Lesser Matters",
@@ -1173,20 +1157,20 @@
       "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0"
       },
       "artists": [
         {
-          "name": "Pasteboard",
-          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Breakbeats",
-      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
+      "duration_ms": 112400,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1203,6 +1187,22 @@
       "duration_ms": 234706,
       "name": "In Your Way",
       "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS"
+      },
+      "artists": [
+        {
+          "name": "Pasteboard",
+          "url": "https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Breakbeats",
+      "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
       "added_at": "2022-12-15 18:01:43",

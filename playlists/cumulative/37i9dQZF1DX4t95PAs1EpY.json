@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "first 6 hours",
+        "url": "https://open.spotify.com/album/5iCQSYf8iGVrFxqsqVM0ZG"
+      },
+      "artists": [
+        {
+          "name": "Genser 55",
+          "url": "https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151848,
+      "name": "first 6 hours",
+      "url": "https://open.spotify.com/track/7Kws9dCwpYnypN3Uv2Vq19"
+    },
+    {
+      "album": {
         "name": "Flight 747",
         "url": "https://open.spotify.com/album/3Ht7ZdQHo9KnY55GKP0ddh"
       },
@@ -3283,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Key Features",
+        "url": "https://open.spotify.com/album/2aDMGZrIDTT0uAE4CJlGPt"
+      },
+      "artists": [
+        {
+          "name": "Javalina",
+          "url": "https://open.spotify.com/artist/5k49TaZNWpkOHN3Ufx4Jka"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Key Features",
+      "url": "https://open.spotify.com/track/6SdHmmMI9OrvQ49trhv8s1"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/54DDVudEhLEg1Si60x3Sh9"
       },
@@ -3360,10 +3396,32 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 182000,
       "name": "koi pond",
       "url": "https://open.spotify.com/track/6dSZwsuFjOyY6F9Ny6lPjo"
+    },
+    {
+      "album": {
+        "name": "Earth Day",
+        "url": "https://open.spotify.com/album/2ZDz4ybO7FKre5flc9aWfg"
+      },
+      "artists": [
+        {
+          "name": "Arden Records",
+          "url": "https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r"
+        },
+        {
+          "name": "clay house",
+          "url": "https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "koi pond",
+      "url": "https://open.spotify.com/track/7v2WyuCp45BVlOhluOrvGL"
     },
     {
       "album": {
@@ -4499,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Muddy",
+        "url": "https://open.spotify.com/album/6RXOUVWckGhNU2X4D69Xip"
+      },
+      "artists": [
+        {
+          "name": "Ritsou Lalai",
+          "url": "https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Muddy",
+      "url": "https://open.spotify.com/track/506Z7ZBQuue7pbeBv3a0OM"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -5042,6 +5118,24 @@
       "duration_ms": 124054,
       "name": "park walk",
       "url": "https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye"
+    },
+    {
+      "album": {
+        "name": "parking lot",
+        "url": "https://open.spotify.com/album/4fROUMc91P2AGZRlsKpOkC"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "parking lot",
+      "url": "https://open.spotify.com/track/53vEyz7nn9Br7g4yR6uouX"
     },
     {
       "album": {
@@ -6025,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Sleeping with Eyes Wide Shut",
+        "url": "https://open.spotify.com/album/4zYvzmjD0UbHEeblfjIZHZ"
+      },
+      "artists": [
+        {
+          "name": "PI\u00d1A PINK",
+          "url": "https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Sleeping with Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7DjkIRwon0JiCoaGWwJYqm"
+    },
+    {
+      "album": {
         "name": "smet",
         "url": "https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb"
       },
@@ -6389,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Suburra",
+        "url": "https://open.spotify.com/album/6vcf0kIpP602iYTHp6kzts"
+      },
+      "artists": [
+        {
+          "name": "Prima Volta",
+          "url": "https://open.spotify.com/artist/1s38eSWM02uekxwdJt3wd0"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Suburra",
+      "url": "https://open.spotify.com/track/6op8cMcdA6Rn64jkUjaJRj"
+    },
+    {
+      "album": {
         "name": "Summery",
         "url": "https://open.spotify.com/album/4suaMj8EOFYW2vGIYfCq6W"
       },
@@ -6444,6 +6574,24 @@
       "duration_ms": 115200,
       "name": "Sunday aftglow",
       "url": "https://open.spotify.com/track/7BlmX3LupPb0caWn7bxfWC"
+    },
+    {
+      "album": {
+        "name": "Sunflares and blackbirds",
+        "url": "https://open.spotify.com/album/5R6j2YEbnG6VG5uc77ZFpA"
+      },
+      "artists": [
+        {
+          "name": "jomc",
+          "url": "https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Sunflares and blackbirds",
+      "url": "https://open.spotify.com/track/6TRMssKmBCbpGqqA1sTm6v"
     },
     {
       "album": {
@@ -6606,6 +6754,24 @@
       "duration_ms": 126153,
       "name": "The Shore",
       "url": "https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz"
+    },
+    {
+      "album": {
+        "name": "The Time I Looked into the Sun",
+        "url": "https://open.spotify.com/album/27SWCLPFYAmuaUH5aNRKEz"
+      },
+      "artists": [
+        {
+          "name": "C. H. Alice",
+          "url": "https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205588,
+      "name": "The Time I Looked into the Sun",
+      "url": "https://open.spotify.com/track/01AWFRAE691sMg8QwiZIPO"
     },
     {
       "album": {
@@ -6984,6 +7150,32 @@
       "duration_ms": 140571,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/35Vjv7cTC2h6IbbSXwKgIa"
+    },
+    {
+      "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/0Z5um8LaKLQhyNC4vm4tCi"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/5VtrHdoHKKwiZs1YMMBDGV"
     },
     {
       "album": {

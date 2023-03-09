@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,707 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,718 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Microdosing \- Mixed](https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing \(Mixed\)](https://open.spotify.com/album/3v8HcN24urZPBDqLrCkPMg) | 2:38 |
 | 2 | [Ah Bah, Pt\. 2](https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr) | [Ah Bah, Pt\. 2](https://open.spotify.com/album/2hY16oXVooiBh1D646rlao) | 1:39 |
 | 3 | [GO AWFF](https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1) | [GO AWFF](https://open.spotify.com/album/69qJrlH9dK4UC1rATaULAW) | 2:51 |
-| 4 | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/track/7JKxy5aQ7Qi2YpmQbM6Nqe) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [For The Night \[Baltimore Club Mix\]](https://open.spotify.com/album/7xzo3XciHyJa9EPgIrSPMw) | 2:04 |
+| 4 | [For The Night \- Baltimore Club Mix](https://open.spotify.com/track/51R4WX6DStgRHLbUAolVbC) | [Bandingo YGNE](https://open.spotify.com/artist/4WChwgMrLJSFKqAbfYA4Es) | [For The Night \(Baltimore Club Mix\)](https://open.spotify.com/album/2ovGhu12Tw1KGGKmu8p1ee) | 2:04 |
 | 5 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 | 6 | [AH BAH](https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv) | [AH BAH](https://open.spotify.com/album/5uCZUkhtQ8r0s3L6ZeNP0c) | 1:02 |
 | 7 | [Off The Chain Dj Slugo Remix](https://open.spotify.com/track/0uuIGg17cKJ6HXkFku3wav) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Off The Chain Dj Slugo Remix](https://open.spotify.com/album/5sB4QoZLW8kojpRy6Iuxu8) | 4:10 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 67 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 68 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MTY3MjQyODcyOSwwMDAwMDAwMGEzMmU3ZDMxYWNjMjllYjczNTJhYjc2M2JiYjZhOWZj`
+Snapshot ID: `MTY3MjQyODcyOSwwMDAwMDAwMDUzNGY2MTJkNTg0NDFjYjUzMmM2M2ZkYWQ3YjU0NmJi`

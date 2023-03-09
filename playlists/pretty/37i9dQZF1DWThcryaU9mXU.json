@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 36242,
+  "num_followers": 36290,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEzNCwwMDAwMDAwMDY3MzA4YzJkMjFkZWVkNWIzZWY1NDY1ZDhkZmFlMjY0",
+  "snapshot_id": "MTY3Nzg2NzEzNCwwMDAwMDAwMGZhYjdiM2M4MDg5Yzg3NjhiOTk5NjUwNzA5YjY3NTNh",
   "tracks": [
     {
       "added_at": "2023-02-24 17:28:02",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 536533,
-      "name": "Gonna Leave You",
-      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -361,7 +345,23 @@
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
     },
     {
-      "added_at": "2023-03-08 00:08:51",
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 536533,
+      "name": "Gonna Leave You",
+      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
+    },
+    {
+      "added_at": "2023-03-09 00:55:50",
       "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
+        "name": "The Chicago Way",
+        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "When Will You Tell Him About Me?",
+      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 140960,
       "name": "Sufferin' With The Blues",
       "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
-        "name": "The Chicago Way",
-        "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "When Will You Tell Him About Me?",
-      "url": "https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "Memphis Moonlight",
-        "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
       },
       "artists": [
         {
-          "name": "Deb Ryder",
-          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 288856,
-      "name": "Love Is Gone",
-      "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
+      "duration_ms": 257826,
+      "name": "I've Lost My Baby",
+      "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
-        "name": "Mr. Wonderful (Deluxe)",
-        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+        "name": "Memphis Moonlight",
+        "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Deb Ryder",
+          "url": "https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3"
         }
       ],
-      "duration_ms": 257826,
-      "name": "I've Lost My Baby",
-      "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
+      "duration_ms": 288856,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
     },
     {
       "added_at": "2023-02-24 17:28:02",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-02-24 17:28:02",
       "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-02-24 17:28:02",
+      "album": {
         "name": "Slow Burning Love",
         "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
-    },
-    {
-      "added_at": "2023-02-24 17:28:02",
-      "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     }
   ],
   "unique_name": "Just Me and the Blues",

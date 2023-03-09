@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 155560,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3"
@@ -1580,6 +1580,24 @@
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142840,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2"
     },
     {
       "album": {

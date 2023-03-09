@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Vaathi
 
-116 songs - 7 hr 50 min
+117 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/track/4vweFWzWXPxQDgjs9j47Zu) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Kankoththi Paravaye \(From "Vattam"\)](https://open.spotify.com/album/0QEPSYBGO2izXOh7M6ciCi) | 4:50 | 2022-07-14 | 2022-11-15 |
 | [Kannaatti \- From "Nooru Kodi Vaanavil"](https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kannaatti \(From "Nooru Kodi Vaanavil"\)](https://open.spotify.com/album/3nqzwf8h7PsjuurResxVIp) | 3:21 | 2022-03-11 |  |
 | [Keechan \(Original Soundtrack From "Om Vellimalai"\)](https://open.spotify.com/track/6BCDQfMf1SBC60hWuyUo3l) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Vikram Selva](https://open.spotify.com/artist/2QLSjaF1YQa9QitncrYmwT), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Om Vellimalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/27ZuVYS9xFWleNT0e861eR) | 4:26 | 2023-01-09 | 2023-02-16 |
+| [Klesa Kadhala](https://open.spotify.com/track/7n1UVJ0H504ylTJ65msRuz) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Janani](https://open.spotify.com/artist/074dvQc2KICo1VlD9mhKvb), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Kalyan Manjunath](https://open.spotify.com/artist/5jllvafTSRj0UrwMaCjkRX) | [DADA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs) | 3:50 | 2023-03-08 |  |
 | [Kone Komaane](https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 5:35 | 2022-05-31 | 2022-08-08 |
 | [Kurumugil \(From "Sita Ramam \(Tamil\)"\)](https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Kurumugil \[From "Sita Ramam \(Tamil\)"\]](https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7) | 3:38 | 2022-09-12 |  |
 | [Kutty Pattas](https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kutty Pattas](https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs) | 3:59 | 2021-11-29 | 2022-10-19 |

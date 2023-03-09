@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,458 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,462 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 27 | [Do Yourself](https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 4:02 |
 | 28 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 |
 | 29 | [Easy As Life](https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 5:12 |
-| 30 | [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 |
+| 30 | [Djin Djin](https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:18 |
 | 31 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 |
-| 32 | [Djin Djin](https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:18 |
+| 32 | [Iemanja](https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:26 |
 | 33 | [Blewu](https://open.spotify.com/track/5KV7qHIhx8nmuOiqvqti0Z) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Notes for the Future](https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5) | 2:51 |
 | 34 | [Batonga](https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:36 |
 | 35 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUSS8.md) - [plain]
 | 49 | [Bala Bala](https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oyaya !](https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8) | 3:42 |
 | 50 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 |
 
-Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDA5Y2ZiMThlMGM2NzMwNTBlODgzZGQ0NGJlZTQ2NTQ1YQ==`
+Snapshot ID: `Mjc5NzE1NDgsMDAwMDAwMDA1OTk5MWE2MDhmYmI1OTlkOGU2NjhmMmY1MzYwODQyOQ==`

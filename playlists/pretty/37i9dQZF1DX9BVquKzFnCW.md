@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,283 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,326 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 43 | [Stompin' At The Savoy](https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 5:04 |
 | 44 | [If I Were A Bell](https://open.spotify.com/track/5lGq5kSDArh2UVqXAbHVng) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 6:38 |
 | 45 | [Dancing In The Dark](https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:35 |
-| 46 | [Easy Does It](https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50](https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA) | 5:25 |
+| 46 | [Easy Does It](https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50: Sonny Stitt](https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA) | 5:25 |
 | 47 | [Everybody Gets the Blues](https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 3:49 |
 | 48 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 |
 | 49 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5697\)
+## Playlists \(5701\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -389,6 +389,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [All About That Brass](/playlists/pretty/37i9dQZF1DWXMEbgClM8hw.md)
 - [All Funked Up](/playlists/pretty/37i9dQZF1DX4WgZiuR77Ef.md)
 - [All New All Now](/playlists/pretty/37i9dQZF1DX8vwRmUsEIMT.md)
+- [All New Hip\-Hop](/playlists/pretty/37i9dQZF1DWV1aMSQY91oR.md)
 - [All New Indie](/playlists/pretty/37i9dQZF1DXdbXrPNafg9d.md)
 - [All New Jazz](/playlists/pretty/37i9dQZF1DWW2c0C8Vb2IR.md)
 - [All New Metal](/playlists/pretty/37i9dQZF1DX5J7FIl4q56G.md)
@@ -463,6 +464,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Ambiente x Kaitlyn Aurelia Smith](/playlists/pretty/37i9dQZF1DX6BZXL2Ayjmp.md)
 - [Ambiente x Max Richter](/playlists/pretty/37i9dQZF1DX24ftkC3R4l9.md)
 - [Ambiente x Plastikman & Chilly Gonzales](/playlists/pretty/37i9dQZF1DXb9GYWsyFlWx.md)
+- [Ambiente x Rival Consoles](/playlists/pretty/37i9dQZF1DWZm3R48QXZjZ.md)
 - [Ambyar](/playlists/pretty/37i9dQZF1DX4V6WLWzdIgr.md)
 - [Amelie Lens' track IDs](/playlists/pretty/37i9dQZF1DWSnqDRRcBlDX.md)
 - [American Made](/playlists/pretty/37i9dQZF1DWSttCmn8GHUg.md)
@@ -1108,6 +1110,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Conducta's track IDs](/playlists/pretty/37i9dQZF1DWW6qlCsFHzs7.md)
 - [Confidence Boost](/playlists/pretty/37i9dQZF1DX4fpCWaHOned.md)
 - [Congratulations, Sofia and Daniel](/playlists/pretty/2vfyCK7WsXnVeItNwuiFFR.md)
+- [Connexion Rap](/playlists/pretty/37i9dQZF1DWXVOrABrZKBq.md)
 - [Contemporary Blend](/playlists/pretty/37i9dQZF1DWViBxWcYEI1b.md)
 - [Contemporary Chinese Classical](/playlists/pretty/37i9dQZF1DX5AviTMPF0km.md)
 - [Contemporary Christian Christmas](/playlists/pretty/37i9dQZF1DX2sJGkrvCPgm.md)
@@ -2034,6 +2037,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hip\-Hop Drive](/playlists/pretty/37i9dQZF1DWUFmyho2wkQU.md)
 - [Hip\-Hop Favourites](/playlists/pretty/37i9dQZF1DX48TTZL62Yht.md)
 - [Hip\-Hop MX 24k](/playlists/pretty/37i9dQZF1DWTe5ECpTKzMo.md)
+- [Hip\-Hop Rewind](/playlists/pretty/37i9dQZF1DXb9tg3GqJkNv.md)
 - [Hip\-Hop Yoga](/playlists/pretty/37i9dQZF1DX4FJyIpen2Yf.md)
 - [Hip\-Hopscotch & Reggae Recess](/playlists/pretty/37i9dQZF1DWX16Q183eyvd.md)
 - [Hip\-Life Hits](/playlists/pretty/37i9dQZF1DX9Y4P09E4dNP.md)

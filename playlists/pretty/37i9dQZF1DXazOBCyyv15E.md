@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,519 likes - 101 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,545 likes - 101 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

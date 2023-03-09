@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 382045,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"

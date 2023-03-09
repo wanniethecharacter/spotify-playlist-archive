@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 35675,
+  "num_followers": 36587,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDk0NjQxYjZlY2JjZmYyMTU0OWY4ZmIwMzc0MDgyNjli",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMGFjMDU1M2E2MGNlMTgzNTRkMTFlNDI3ZTYzY2UwZTc1",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7oJgZifNccA7SvtjD4hGeA"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2fdd8W8eTym1gWO1dl1nxo"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "LP Giobbi x Insomniac Records Presents Femme House",
         "url": "https://open.spotify.com/album/2PPOz5uvKbjugSgFZHTMNi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 220952,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/7biflzjN8c8v5mPuh71lXB"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7oJgZifNccA7SvtjD4hGeA"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2fdd8W8eTym1gWO1dl1nxo"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 174933,
       "name": "Redesigning Women",
       "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2023-03-01 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
-        "name": "Anarchist Gospel",
-        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
         "name": "squirrel song",
         "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 108794,
       "name": "squirrel song",
       "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
     },
     {
       "added_at": "2023-03-01 05:00:00",

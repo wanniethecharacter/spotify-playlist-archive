@@ -7970,7 +7970,7 @@
     {
       "album": {
         "name": "S u r r e a l i t y",
-        "url": "https://open.spotify.com/album/4nYWRtJNNlAzvZy0rSkskd"
+        "url": "https://open.spotify.com/album/6I1A5vMcQ0oBMc2xUxfviY"
       },
       "artists": [
         {
@@ -7981,6 +7981,24 @@
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 122666,
+      "name": "S u r r e a l i t y",
+      "url": "https://open.spotify.com/track/1YCSXPHGGLtBT3pLHuoWKv"
+    },
+    {
+      "album": {
+        "name": "S u r r e a l i t y",
+        "url": "https://open.spotify.com/album/4nYWRtJNNlAzvZy0rSkskd"
+      },
+      "artists": [
+        {
+          "name": "TOKYOPILL",
+          "url": "https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
       "duration_ms": 122666,
       "name": "S u r r e a l i t y",
       "url": "https://open.spotify.com/track/7JY2ymSdaR0fRTz07exUHo"

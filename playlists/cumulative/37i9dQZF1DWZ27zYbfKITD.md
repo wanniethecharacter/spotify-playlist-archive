@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-80 songs - 3 hr 56 min
+81 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 | 2022-08-05 |  |
 | [Someone Loves Us](https://open.spotify.com/track/0owIthsU5nNNPLK6MjdVOe) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Everest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QjHgymCkjqHShm0iSyrEP) | 1:56 | 2022-11-08 |  |
 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 | 2022-08-05 |  |
+| [Song Of Storms \- from "The Legend of Zelda: Ocarina of Time"](https://open.spotify.com/track/0YUqfdeg63NalF0VdUlpQp) | [Gentle Game Lullabies](https://open.spotify.com/artist/4aPCPBj93DhSbX1JD6xtk1), [Andrea Vanzo](https://open.spotify.com/artist/4KiO59dzeB8dACXmrrwkKe) | [Gentle Gaming: Zelda for Piano](https://open.spotify.com/album/4RXqj63pRuWLAcAWL3DaPx) | 2:43 | 2023-03-08 |  |
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |
 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 | 2022-08-05 | 2022-11-09 |
 | [Sweden](https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 3:35 | 2022-08-05 |  |

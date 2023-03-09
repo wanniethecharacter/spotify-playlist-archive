@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-187 songs - 12 hr 1 min
+188 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Breeze](https://open.spotify.com/track/1ITkbRFUUIg09wWxUGWxZ1) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Trouvaille](https://open.spotify.com/album/6F2fZ3MwKPvmP9lcY5Sqtj) | 2:36 | 2021-12-13 | 2022-05-18 |
 | [Built That Way](https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:19 | 2022-07-05 | 2022-10-31 |
 | [Built That Way](https://open.spotify.com/track/5qe9D2JqiNkhHksPhkVl0y) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Built That Way](https://open.spotify.com/album/3LjVKxTn9xZHIaHASidqyU) | 3:19 | 2021-12-13 | 2022-07-29 |
-| [Call of the Wild](https://open.spotify.com/track/6ocXgZkJXgd1VnWRbSFGLS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/6JMceOsAz0CRAfAnUaWgmo) | 8:52 | 2022-12-05 |  |
+| [Call of the Wild](https://open.spotify.com/track/4RrwcHywcLq3qVY7IVGxOL) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/1YyEmLaSiDhwTXnHPHcvQR) | 8:52 | 2023-02-17 |  |
+| [Call of the Wild](https://open.spotify.com/track/6ocXgZkJXgd1VnWRbSFGLS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/6JMceOsAz0CRAfAnUaWgmo) | 8:52 | 2022-12-05 | 2023-03-09 |
 | [Can I Get a Witness](https://open.spotify.com/track/0enKYk1ZUqInfYMLVhA4Wq) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 1:27 | 2022-10-30 |  |
 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 | 2022-12-05 |  |
 | [Come In My Kitchen](https://open.spotify.com/track/2Vr3sHONmr4oBHkim59hAw) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 3:24 | 2021-12-13 | 2022-04-29 |

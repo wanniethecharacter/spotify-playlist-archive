@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,139 likes - 180 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,159 likes - 180 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 146 | [Mad Love \- Acoustic](https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love \(Acoustic\)](https://open.spotify.com/album/4W9fu5glvw78YxZ6ZQUbCr) | 2:53 |
 | 147 | [As Long As I Break Your Heart](https://open.spotify.com/track/4frOdq5O12jE2YUh4XF4pJ) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [As Long As I Break Your Heart](https://open.spotify.com/album/0aWXwKyqK5cD54s0UoGPar) | 2:48 |
 | 148 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
-| 149 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 |
+| 149 | [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 |
 | 150 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 |
 | 151 | [Girl I Wish I Didn't Know \- Acoustic](https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Strangers EP Unplugged](https://open.spotify.com/album/139IHc8keqLycMck1EvMTz) | 4:02 |
 | 152 | [Before You Go \- Acoustic](https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn) | 3:33 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 179 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 |
 | 180 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 |
 
-Snapshot ID: `MTY3NjYyOTE5NCwwMDAwMDAwMDRkZmVmODBhZjQ2ZWNlMGFlMTk3NDdmMGY1ZGVmYzNl`
+Snapshot ID: `MTY3NjYyOTE5NCwwMDAwMDAwMGZhMDQ2MjlmZmI5NzM0YWEyZGJmODMzOWY2MjE0MmFi`

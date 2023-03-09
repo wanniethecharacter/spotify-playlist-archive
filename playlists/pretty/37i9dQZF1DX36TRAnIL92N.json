@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 111887,
+  "num_followers": 112404,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMGM0ZjMzZDgwNWZmNzcxMzA3NmQ4YWM1YWYzMWZhYmVh",
+  "snapshot_id": "MTY3NjAzODU5MywwMDAwMDAwMGEwZDJiOTBjNzNjYWI3ODE3ZThkMjk2MGUxM2M5Nzhj",
   "tracks": [
     {
       "added_at": "2023-02-10 14:16:33",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-10 14:16:33",
       "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
+        "name": "Colonia EP",
+        "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
       },
       "artists": [
         {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 382045,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
+      "duration_ms": 234546,
+      "name": "Colonia",
+      "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
     }
   ],
   "unique_name": "Techno Workout",

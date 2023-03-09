@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,221 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,276 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 25 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:30 |
 | 26 | [HEAVY METAL](https://open.spotify.com/track/7cf8xNXwU9K0BuHjyIvxLE) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HEAVY METAL](https://open.spotify.com/album/2fXn6a7SYYnSNyuWj0CvnX) | 2:51 |
 | 27 | [100 or Nun \(feat\. Tony Shhnow\)](https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [3](https://open.spotify.com/album/1t2lMi1AXxPMo8bbCjaa3g) | 3:19 |
-| 28 | [Trappin n Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
+| 28 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
 | 29 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 |
 | 30 | [Roll A opp](https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wrong Turn](https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ) | 3:18 |
 | 31 | [I Don't](https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Bank Appointment](https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t) | 2:59 |

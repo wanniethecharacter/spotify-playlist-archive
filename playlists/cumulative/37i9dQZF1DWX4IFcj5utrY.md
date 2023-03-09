@@ -2,7 +2,7 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=Cj1uJgn0RxqmSp7PPC\_9YA">Dwson</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X?si=uZKKyAbDSiC1pHr\_B26FZA">Lizwi</a>
 
 746 songs - 2 day 22 hr 14 min
 

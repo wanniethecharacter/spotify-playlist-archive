@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,410 likes - 238 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,554 likes - 238 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 74 | [crescent moon](https://open.spotify.com/track/68Qo325WI09Qzs2UURmvAW) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [overthemoon](https://open.spotify.com/artist/3wvbWEn9z1AcCS2sGF5fgz) | [crescent moon](https://open.spotify.com/album/4gyyMixuCeXLjiIEiMa2Xm) | 2:37 |
 | 75 | [Soaring](https://open.spotify.com/track/7pNnfBL6CY8tsbU9aLLgS9) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Upper Regions](https://open.spotify.com/album/15XiHptrGsvTb1qYlm9SFd) | 2:40 |
 | 76 | [Homecoming](https://open.spotify.com/track/6tM654EInJ5XGUpG3y0dz3) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Homecoming](https://open.spotify.com/album/5Pts60Xd2JiyN5DAb9fa2A) | 2:09 |
-| 77 | [Location](https://open.spotify.com/track/7vuPTU4p1E7lieUeUkg6YI) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Epona](https://open.spotify.com/artist/4Q4RI9i7blNnSW4QZCMIwL) | [Location](https://open.spotify.com/album/5AycsgymPsaKyMSSyQeluG) | 1:58 |
+| 77 | [Location](https://open.spotify.com/track/1FQ7g6me63l4uTGnxN00SJ) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Epona](https://open.spotify.com/artist/4Q4RI9i7blNnSW4QZCMIwL) | [Location](https://open.spotify.com/album/5nML8h32o2mWtOnqgYgT5G) | 1:58 |
 | 78 | [Stay](https://open.spotify.com/track/6OXnSAGscUaX1hXjfv8MQN) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Stay](https://open.spotify.com/album/21pkrudWLCFV0u3lLTfa08) | 1:23 |
 | 79 | [Arctic Tundra](https://open.spotify.com/track/6muvuOIHhSe0hfxlnbA3SH) | [Dj Screech](https://open.spotify.com/artist/3JFTmv6ilkFBBwgCYBXxlI) | [Arctic Tundra](https://open.spotify.com/album/2qddX8I6KxRnlUFITUgESS) | 2:21 |
 | 80 | [Last Night Of July](https://open.spotify.com/track/47rPULD5SSeFN5EmmwLpOE) | [Yampb](https://open.spotify.com/artist/7wRmia5KvfYF78xUv7sApg) | [Last Night Of July](https://open.spotify.com/album/0ua5t4vGaxXOSj7RD1HdIs) | 2:13 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 237 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 238 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY3NzY2ODAyMSwwMDAwMDAwMDk2ZjNkZjIxMzE4MDIwYmJiMzEwZjIyZjg5ZmE4NjRi`
+Snapshot ID: `MTY3NzY2ODAyMSwwMDAwMDAwMGVkMDkyOGU0Njg3YWNkMWUwOTk2N2NjMmQxZTE2NWVl`

@@ -4,7 +4,7 @@
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-49 songs - 2 hr 57 min
+50 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 | 2022-05-06 |  |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-05-06 |  |
 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 | 2022-05-06 |  |
-| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-05-06 |  |
+| [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-05-06 | 2023-03-09 |
+| [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2022-11-14 |  |
 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 | 2022-05-06 |  |
 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 | 2022-05-06 |  |
 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 | 2022-05-06 |  |

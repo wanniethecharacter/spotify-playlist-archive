@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Grandmas House
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,776 likes - 126 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,829 likes - 126 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

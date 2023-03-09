@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: \u30a8\u30ec\u30d5\u30a1\u30f3\u30c8\u30ab\u30b7\u30de\u30b7",
-  "num_followers": 251691,
+  "num_followers": 251784,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDIzOTZlNTI5ZGZmMTE2MWQzNWRlNzBmYTNlZGU2Mzcy",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDIzZDU0Yzk0MmFiMjRhOTlmNDRmZjAzZWY3MzgxZGEy",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "\u592a\u967d\u3068\u30a4\u30ab\u30ed\u30b9",
-        "url": "https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP"
+        "name": "Taiyo to Ikaros",
+        "url": "https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx"
       },
       "artists": [
         {
@@ -53,8 +53,8 @@
         }
       ],
       "duration_ms": 270666,
-      "name": "\u592a\u967d\u3068\u30a4\u30ab\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8"
+      "name": "Taiyo to Ikaros",
+      "url": "https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L"
     },
     {
       "added_at": "2023-03-07 15:00:00",

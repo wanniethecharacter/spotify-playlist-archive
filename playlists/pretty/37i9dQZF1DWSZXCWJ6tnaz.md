@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,123 likes - 38 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 38 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 18 | [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 |
 | 19 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 |
 | 20 | [Darkwood 1](https://open.spotify.com/track/3Yd9BawtErogF5B2p6e3MV) | [David Darling](https://open.spotify.com/artist/5qQyBIUGDM3QvXlTIo7puq) | [Cello](https://open.spotify.com/album/6dk74Wt3hzq5LC3T6V7Kms) | 2:23 |
-| 21 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
+| 21 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 |
 | 22 | [Worlds Collide](https://open.spotify.com/track/47CBgP1kMvdXGhZ5jNLJlF) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 3:25 |
 | 23 | [Love & Keep](https://open.spotify.com/track/1M9v3gKjpvpxmWnAKdi40z) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 6:05 |
 | 24 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 37 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
 | 38 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 |
 
-Snapshot ID: `MTY2ODQzMjMxNiwwMDAwMDAwMDVlYjNmNDg5MmEyZWU2NDI0MjMxNWEyYzM5ZDU3YjE3`
+Snapshot ID: `MTY2ODQzMjMxNiwwMDAwMDAwMDRkMmY5OWNlNGU3NWEzZDM2ODQwNGE1MThkYmM3NWEy`

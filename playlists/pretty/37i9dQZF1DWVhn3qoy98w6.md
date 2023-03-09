@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Sabela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,736 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 50 | [Klk quieren las chicas](https://open.spotify.com/track/2vdgRXi7MKivSrreFwfF5x) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [Klk quieren las chicas](https://open.spotify.com/album/19sH0y9O4u06r0i08g28pD) | 2:33 |
 | 51 | [Ojitos de Amor](https://open.spotify.com/track/6f67VNkbxAZIOgxuuLENAO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [Ojitos de Amor](https://open.spotify.com/album/2z07dTf04En6iHa0jKg1oo) | 3:05 |
 
-Snapshot ID: `MTY3ODIzMDAwMCwwMDAwMDAwMGJjMGI1NDc4OGRiZGMyMzk3MGU3Zjk3NzIxYjc2YjE5`
+Snapshot ID: `MTY3ODI2NTQ4MiwwMDAwMDAwMGQzMTFkOTQwMzgzNzgzZTY3YTUyNTU5ZTIwOTA0MzM2`

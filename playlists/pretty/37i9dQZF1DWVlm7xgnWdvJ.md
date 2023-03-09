@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,766 likes - 86 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,789 likes - 86 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 26 | [Cadenza](https://open.spotify.com/track/4gNxJbUfTJcARZieWGqkQE) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cadenza](https://open.spotify.com/album/4SDT1aWAajt4ICuwa1sfiN) | 6:23 |
 | 27 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 28 | [Beam Me Up \- Prins Thomas Diskomiks \- Single Edit](https://open.spotify.com/track/63o8AFj8EjvyUvR8Ez01C5) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Beam Me Up \(Prins Thomas Diskomiks \- Single Edit\)](https://open.spotify.com/album/49dNYLSLbFUnguSK2XVqfl) | 5:00 |
-| 29 | [Epsilon Girls](https://open.spotify.com/track/1omHCWuWEH9TV0SmZiiLev) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La Même Pour Moi EP](https://open.spotify.com/album/1VtcPA51S0pM1TVHwokT7q) | 5:49 |
+| 29 | [Epsilon Girls](https://open.spotify.com/track/3mLDrrAL7v2xLZj6PZENL2) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La même pour moi](https://open.spotify.com/album/4ys2MudpQ7sR8El8JEQ9hu) | 5:49 |
 | 30 | [Only You \- Frankie Francis Disco Jam Edit](https://open.spotify.com/track/6WKfJyXx0DdOrO570el4nF) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [Frankie Francis](https://open.spotify.com/artist/4v7upfGmNDHTJUgdwbvxDS) | [Steve Monite / Tabu Ley Rochereau Edits](https://open.spotify.com/album/43UiM7bG005PvwsnwpEvGw) | 7:50 |
 | 31 | [Étranges nuages \- Yuksek Remix](https://open.spotify.com/track/4m3054ktKm6xGGyNjj8krw) | [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Variations](https://open.spotify.com/album/1LngjPijbdwepfSW3hY0Nj) | 5:09 |
 | 32 | [Never Going Home \- Domenico Torti Remix](https://open.spotify.com/track/1tyYyBx8vCmejG0mOARIKL) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Domenico Torti](https://open.spotify.com/artist/1FeMiF3aRrgJz69y01jiwt) | [Never Going Home \(Domenico Torti Remix\)](https://open.spotify.com/album/2ukNeGLr9CC4WNFNPaUGuQ) | 4:13 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 85 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 |
 | 86 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 
-Snapshot ID: `MTY3ODIwNDgwMCwwMDAwMDAwMGNjNTg4ZWQwMDVlMzVhODIxNDNhYmVkZjBkMmNlZDg4`
+Snapshot ID: `MTY3ODIwNDgwMCwwMDAwMDAwMDI0NzYyMmEwNGY2OWFjYWVhMTYyNGQzYTRmNjQzODMy`

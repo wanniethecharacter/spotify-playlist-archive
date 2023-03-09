@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-722 songs - 1 day 15 hr 13 min
+723 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Nawa Nawa Dil Tuteya](https://open.spotify.com/track/0ZFsqEVqApPnuIGuQJIscw) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Nawa Nawa Dil Tuteya](https://open.spotify.com/album/45Mgbj1LeFXPnnktnpvsiD) | 3:39 | 2022-03-18 | 2022-04-06 |
 | [Nawa Nawa Pyaar](https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Tanu Grewal](https://open.spotify.com/artist/1eineiKpO6pp1nt22iwu47) | [Nawa Nawa Pyaar \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/2UbFUgSQy4u09v1jzah7qy) | 2:19 | 2022-08-19 |  |
 | [Nede Nede](https://open.spotify.com/track/4WcaWNHa7BoPvQ0tfe0jAo) | [Parry Mounn](https://open.spotify.com/artist/5wa8fZAQdhMMvKBu1iKGKM), [Ruhani Sharma](https://open.spotify.com/artist/2qREfft7wnYiWRLk8y6EDg) | [Nede Nede](https://open.spotify.com/album/6IKMeqAZrVaRM3jUk8YmfN) | 3:07 | 2022-02-15 | 2022-03-11 |
+| [NEED YA](https://open.spotify.com/track/4XHd1IEB9waIcG2NOAzYQU) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [RHYMEDY](https://open.spotify.com/album/6s4xBpX7RxzGvZYVn7bZCX) | 2:02 | 2023-03-08 |  |
 | [Never Leave Me](https://open.spotify.com/track/3ADSlfZRKzY1C9mXue8YiD) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hop & Folk](https://open.spotify.com/album/1Lvs59XUDFgvbeSAXMwtBs) | 4:04 | 2022-01-28 | 2022-02-01 |
 | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 | 2022-07-06 |
 | [Nightmare](https://open.spotify.com/track/7sFt5UeLc4xw9YjLMdW7dn) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [BROKEN](https://open.spotify.com/album/63pEe3Fik9BG9eQrbVrLWd) | 4:02 | 2023-01-12 | 2023-02-04 |

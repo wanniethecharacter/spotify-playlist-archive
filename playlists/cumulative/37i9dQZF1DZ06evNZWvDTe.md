@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-129 songs - 7 hr 53 min
+130 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 | 2022-02-09 | 2022-10-17 |
 | [Saara](https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Saara](https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9) | 3:19 | 2021-12-28 | 2022-04-18 |
 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 | 2022-04-17 |  |
-| [Shake Body](https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU) | [Masta Groove](https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY) | 3:09 | 2022-09-10 |  |
+| [Shake Body](https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU) | [Masta Groove](https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY) | 3:09 | 2022-09-10 | 2023-03-09 |
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-20 |  |
 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 | 2022-04-28 |  |
 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 | 2022-04-18 | 2022-10-13 |
@@ -134,6 +134,7 @@
 | [Where Did I Go Wrong \(feat\. Efya\)](https://open.spotify.com/track/7odv9xmbrBNXzyavIHw5uV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:28 | 2021-12-28 | 2022-10-13 |
 | [Which One \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6xv8qSkPrksoO40Jz4p45Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:20 | 2022-01-20 | 2022-10-07 |
 | [Whipped \(feat\. DarkoVibes\)](https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:26 | 2021-12-28 |  |
+| [Who Da Man](https://open.spotify.com/track/397tmDWdvcdlAL1UaaJpi3) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Who Da Man](https://open.spotify.com/album/1ls27oDCfeUr4wIS4rupur) | 2:58 | 2023-03-08 |  |
 | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo) | 3:02 | 2021-12-28 | 2022-11-13 |
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |
 | [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 | 2023-03-05 |

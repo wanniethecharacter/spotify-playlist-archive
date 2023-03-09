@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-73 songs - 4 hr 45 min
+74 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 | 2021-03-18 |  |
 | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/track/5oS0VZUU9W2P4XjQfWhRM3) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Daria van den Bercken](https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9) | [Handel: Suites for Keyboard](https://open.spotify.com/album/1G20CpIz40I0ZzXDH4EIcy) | 3:47 | 2021-03-18 |  |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/3LArRyjSFrKpn36eKMiTeh) | [George Nascimento](https://open.spotify.com/artist/2hfcG7JOmq4zs2rkrM5L7u) | [Relaxing Classical Piano](https://open.spotify.com/album/0c9Gu8sIJ3EHmXRuKKUfD1) | 3:15 | 2021-03-18 |  |
-| [Too Soon](https://open.spotify.com/track/4tHgc1wzy1DovlUbgyb0kt) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/0AxbzEy4aIzEiY7zaUbMhb) | 4:03 | 2021-03-18 |  |
+| [Too Soon](https://open.spotify.com/track/1hlehqO6Po7esrHu0vi9Di) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/300dan74UOvzoVEVeS6iNW) | 4:03 | 2022-09-09 |  |
+| [Too Soon](https://open.spotify.com/track/4tHgc1wzy1DovlUbgyb0kt) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/0AxbzEy4aIzEiY7zaUbMhb) | 4:03 | 2021-03-18 | 2023-03-09 |
 | [Too Soon](https://open.spotify.com/track/1nqFHztC0sDmMVqxksjNVL) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow) | 4:03 | 2021-03-18 | 2022-07-29 |
 | [Tramlines](https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tramlines](https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r) | 3:46 | 2021-03-18 |  |
 | [Tune from the Film by Lana Gogoberidze: When Almonds Blossomed](https://open.spotify.com/track/0vqNv43ZdOMGwq6ZZiRBEH) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 2:08 | 2021-03-18 | 2022-07-28 |

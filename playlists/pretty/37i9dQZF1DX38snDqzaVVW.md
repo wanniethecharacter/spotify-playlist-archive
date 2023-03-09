@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Amani; founder of MuslimGirl.com takes over Salam this week for Women's History Month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,093 likes - 21 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,141 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 9 | [FLEX](https://open.spotify.com/track/6k9BR15JeFUibQu9AuNnru) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [FLEX](https://open.spotify.com/album/4ln810G6ehfnPXkVGCEcfe) | 2:05 |
 | 10 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 11 | [Sokkar](https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Sokkar](https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd) | 3:01 |
-| 12 | [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 |
+| 12 | [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 |
 | 13 | [Twelve](https://open.spotify.com/track/3fr2NOC3yBbxVM4KcqJBcK) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/1AFZIJkmFj6Di2wYT8hThy) | 2:48 |
 | 14 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
 | 15 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 20 | [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 |
 | 21 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 |
 
-Snapshot ID: `MTY3ODA3ODgwMCwwMDAwMDAwMDM0ZjA2OGE5NDFkMDIxMzc1ZTJlZDMzYzUxOGJmNzYy`
+Snapshot ID: `MTY3ODA3ODgwMCwwMDAwMDAwMDU0NjI5YWYxZWNhOWY1Zjk5ZTYwMzg0YWI0MDJjOTg0`

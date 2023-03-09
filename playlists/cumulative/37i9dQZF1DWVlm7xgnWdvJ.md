@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-88 songs - 8 hr 26 min
+89 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Don't U Ever Change](https://open.spotify.com/track/1eXxOVrE84C4NNT1lkeqNu) | [Danilo & Pablo](https://open.spotify.com/artist/78XlyXdHJ4WHvXAjI6hKAO), [Ahmad Larnes](https://open.spotify.com/artist/13lG8fghcfmDvJ3uZYemc8) | [Mcde Recordings Best of \(2008\-2018\)](https://open.spotify.com/album/1mTypifXwQWC97TULc7smR) | 8:08 | 2022-12-20 |  |
 | [Doudou \- Edit](https://open.spotify.com/track/5njtAeRrYhEVvl9ZzXpqjY) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Doudou \(Edit\)](https://open.spotify.com/album/3X8cilpO1M2PFGWGfr2kYG) | 5:32 | 2022-12-20 |  |
 | [Ecuador](https://open.spotify.com/track/7ByHMIhpm6bqT3ir9GpLpW) | [Get A Room!](https://open.spotify.com/artist/5kcakT7YURc2bDqMnDn7zY) | [Ecuador / The Reef](https://open.spotify.com/album/6yqfsVsXWzIapBZ9Ssb5Jp) | 6:20 | 2022-12-20 |  |
-| [Epsilon Girls](https://open.spotify.com/track/1omHCWuWEH9TV0SmZiiLev) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La Même Pour Moi EP](https://open.spotify.com/album/1VtcPA51S0pM1TVHwokT7q) | 5:49 | 2022-12-20 |  |
+| [Epsilon Girls](https://open.spotify.com/track/1omHCWuWEH9TV0SmZiiLev) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La Même Pour Moi EP](https://open.spotify.com/album/1VtcPA51S0pM1TVHwokT7q) | 5:49 | 2022-12-20 | 2023-03-09 |
+| [Epsilon Girls](https://open.spotify.com/track/3mLDrrAL7v2xLZj6PZENL2) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La même pour moi](https://open.spotify.com/album/4ys2MudpQ7sR8El8JEQ9hu) | 5:49 | 2023-03-07 |  |
 | [Fade Out](https://open.spotify.com/track/5GLF6LLyaK95ydOjStPYiL) | [Adesse Versions](https://open.spotify.com/artist/2UMMVkgNVl50GCP1goIBRe) | [Pulp Fusion](https://open.spotify.com/album/4utfB7Ld6WCZFW0WeEZ3r6) | 5:49 | 2022-12-20 |  |
 | [Fearless](https://open.spotify.com/track/3gL037sZHSKeajA3RhWGUx) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fearless](https://open.spotify.com/album/39NFDVNfQuYcgcpXVYkvH0) | 5:23 | 2022-12-20 |  |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2022-12-20 |  |

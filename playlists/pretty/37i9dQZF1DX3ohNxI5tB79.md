@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,895 likes - 94 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,087 likes - 94 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 72 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 |
 | 73 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 74 | [Blended Family \(What You Do For Love\)](https://open.spotify.com/track/5urU79wSXrxVUhQAYYNWnF) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HERE](https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz) | 3:31 |
-| 75 | [Call of the Wild](https://open.spotify.com/track/6ocXgZkJXgd1VnWRbSFGLS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/6JMceOsAz0CRAfAnUaWgmo) | 8:52 |
+| 75 | [Call of the Wild](https://open.spotify.com/track/4RrwcHywcLq3qVY7IVGxOL) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [High Life](https://open.spotify.com/album/1YyEmLaSiDhwTXnHPHcvQR) | 8:52 |
 | 76 | [Grace](https://open.spotify.com/track/5RNALwTBXcWvRek9SFDsWM) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Grace](https://open.spotify.com/album/65zVSQMZx5QUNzKtjhevRX) | 3:25 |
 | 77 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 |
 | 78 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 93 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 94 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MTY3NjYzNzEzMSwwMDAwMDAwMDAzY2VmMDhjM2IwYTQ2NDdkNGNhMDc1Y2FiZDFkMWYz`
+Snapshot ID: `MTY3NjYzNzEzMSwwMDAwMDAwMDdhYWEyMDM0MGZiNjI0YzUwYWYzY2E4YzM3Y2VhZWJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,657 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,658 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 2 | [Lady Of The Lake](https://open.spotify.com/track/6yd4ITFNoDmZlwLVn6Z9TF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Lady Of The Lake](https://open.spotify.com/album/3tsFExvmbleMDeTBvYrT46) | 5:06 |
 | 3 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 |
 | 4 | [Trouble Found Me](https://open.spotify.com/track/0SBn12c077mPjplOyBcGK6) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Trouble Found Me](https://open.spotify.com/album/603STn9jyMs4UDW87CgKvQ) | 3:03 |
-| 5 | [Punkstar](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
+| 5 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
 | 6 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 |
 | 7 | [Evil Lies](https://open.spotify.com/track/0Am5y6HAFWve4lLv1SeJrJ) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [In Our Blood](https://open.spotify.com/album/7oZbYefTwTCK3LlU6K6sMM) | 3:22 |
 | 8 | [CHOKER](https://open.spotify.com/track/4BhDkugxAaXgS0k6fxa6jW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [CHOKER](https://open.spotify.com/album/3uAsQcyJAS9hAfZKrNYBvL) | 3:20 |

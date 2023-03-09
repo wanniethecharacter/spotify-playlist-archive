@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101425,
+  "num_followers": 101421,
   "original_name": "Barack Obama\u2019s Summer Playlist 2022",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDI2NSw0YjVlYmE0ZDRhNjJiYmRlNjNiNzQ5OTgyN2ZhNjdkOGI4YTc3YjU2",
+  "snapshot_id": "NDI2OCwwYmI2MDUzZmRkY2FjOGQyZjYzNTkwMjhlZGZlMDljNTA2YzYyOWVm",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -23,6 +23,42 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "added_at": "2023-03-09 00:13:43",
+      "album": {
+        "name": "Moves Like Shakira",
+        "url": "https://open.spotify.com/album/3UEe3zFWlPWCtmuUziEk2c"
+      },
+      "artists": [
+        {
+          "name": "Mersed",
+          "url": "https://open.spotify.com/artist/5WiBH8FG5kcrfAvmW9znYQ"
+        },
+        {
+          "name": "Lardi B",
+          "url": "https://open.spotify.com/artist/6KP5Ws86YSPOxpbsmmwYHc"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Moves Like Shakira",
+      "url": "https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC"
+    },
+    {
+      "added_at": "2023-03-09 00:12:10",
+      "album": {
+        "name": "What if",
+        "url": "https://open.spotify.com/album/04gFOCcTs3WAVOwbJuvEu4"
+      },
+      "artists": [
+        {
+          "name": "Isa Bellido",
+          "url": "https://open.spotify.com/artist/0X87molz4985PMgGOcEVN3"
+        }
+      ],
+      "duration_ms": 160515,
+      "name": "What if",
+      "url": "https://open.spotify.com/track/5PDtoSXgJfq8QMavmoNsvn"
     },
     {
       "added_at": "2022-07-26 20:08:16",
@@ -2219,26 +2255,6 @@
       "duration_ms": 316659,
       "name": "Desert Psalm",
       "url": "https://open.spotify.com/track/33WihwgoE6i8nZcNhSFBtn"
-    },
-    {
-      "added_at": "2023-02-05 23:42:24",
-      "album": {
-        "name": "S\u00f3 Pra Dizer",
-        "url": "https://open.spotify.com/album/0dje5oJErhHLE3hoRxryVd"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        },
-        {
-          "name": "T\u00e9ka Penteriche",
-          "url": "https://open.spotify.com/artist/0pOsCjNjgezuvqdvPGapuZ"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "S\u00f3 Pra Dizer",
-      "url": "https://open.spotify.com/track/4tBTV37b72pBYMYUuZctat"
     },
     {
       "added_at": "2023-02-10 18:02:23",

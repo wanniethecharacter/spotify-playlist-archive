@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,692 likes - 90 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,010 likes - 90 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

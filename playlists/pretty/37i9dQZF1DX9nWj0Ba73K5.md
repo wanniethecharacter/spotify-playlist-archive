@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> In loving memory of songwriter Kyle Jacobs.
+> In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1EFIdYyRJP5AlN?si=69e48d764e2b49d1"> Kyle Jacobs</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,245 likes - 213 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,271 likes - 213 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 212 | [Red Satin Dress](https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Red Satin Dress](https://open.spotify.com/album/0naK2HyiBWs3NUBmtAt69v) | 4:01 |
 | 213 | [Stuck in High School](https://open.spotify.com/track/4SeZDz0nFQZTjjDImDTQhS) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:11 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDk0NTEyYWE3MjBhNmFmMzViYjZjOWM5ZjY3YTExZWE3`
+Snapshot ID: `MTY3ODMwODkwNCwwMDAwMDAwMDY4M2M5ODFjMzdmZjIwM2IyYzdjMjMwZjYwODQ5NzA0`

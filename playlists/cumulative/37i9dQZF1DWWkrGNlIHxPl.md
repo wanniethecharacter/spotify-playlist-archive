@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Zeina
 
-238 songs - 13 hr 37 min
+240 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 |  |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 | 2022-11-20 |
 | [Ezzamer](https://open.spotify.com/track/0Y5e2hA9ZliPQetontXakv) | [Dj Shemsy](https://open.spotify.com/artist/1m22LlL6L3XrF61P080BGP) | [Bébé Allaoui mégamix, Vol\. 2](https://open.spotify.com/album/2agS979pL5P5ZC38GV1AsO) | 6:45 | 2022-06-06 | 2022-06-24 |
-| [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 | 2023-02-14 |  |
+| [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 | 2023-02-14 | 2023-03-09 |
+| [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 | 2023-03-07 |  |
 | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5lRh2i8mOWZs1yg25QII1y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Imen Siar, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/42pqXWrfRgdJ4EILEpmR9r) | 2:38 | 2021-12-16 | 2022-01-25 |
 | [Fayadan](https://open.spotify.com/track/30Avn44lyZjowxu2pBggcJ) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Fayadan](https://open.spotify.com/album/3ZQ8wMsn57IDRjcfd6DRDO) | 2:34 | 2021-12-16 | 2022-11-20 |
 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 | 2023-02-06 |  |
@@ -223,7 +224,8 @@
 | [Twelve](https://open.spotify.com/track/3ncLkot0E2tpDHlSnmbcIV) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/3cbxwt8iEKGzd6IFOh6tTX) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 | 2022-02-25 |  |
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2021-12-16 | 2022-11-20 |
-| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 |  |
+| [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2022-11-19 | 2023-03-09 |
+| [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 | 2023-03-07 |  |
 | [Wahran](https://open.spotify.com/track/7xlrdBdz8TGSo0COvLHymc) | [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Wahran](https://open.spotify.com/album/5d9W3fFbSK65pXg9Bv7VXl) | 3:51 | 2022-06-06 | 2022-06-24 |
 | [wait for you](https://open.spotify.com/track/1akQuVQVB4rPIjL6rs9fGb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2), [Elena Hinnawi](https://open.spotify.com/artist/1ePydjBu3VYrPFNsUtOdoM) | [wait for you](https://open.spotify.com/album/5g079RFaVNf5fN2kn4wh2X) | 3:24 | 2022-10-27 | 2022-12-08 |
 | [Want You Back](https://open.spotify.com/track/5EqLtvftHcTbsmoPW2EmX0) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Want You Back](https://open.spotify.com/album/3KbBdkPsUi15Sp9C929MdP) | 2:15 | 2022-05-26 | 2022-12-08 |

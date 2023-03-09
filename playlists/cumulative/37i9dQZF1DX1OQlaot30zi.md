@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Neima Ezza, Icy Subzero&Tony Effe \(cover\), Bresh e tanti altri!
 
-1,392 songs - 2 day 15 hr 46 min
+1,393 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1108,6 +1108,7 @@
 | [Se me la dai te la do](https://open.spotify.com/track/3vfaKMkM79YtE8iHA7LURH) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Se me la dai te la do](https://open.spotify.com/album/2INlDg0vYtyTn3xQM8qGK1) | 2:59 | 2022-11-10 | 2022-11-30 |
 | [Se Mi Chiedi](https://open.spotify.com/track/15TWKmVkfhkvx9JuYj8J4d) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [WVNNV](https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp) | [Se Mi Chiedi](https://open.spotify.com/album/5v9BWXJPvKHAeRGt5qyKIp) | 2:37 | 2022-08-18 | 2022-09-01 |
 | [SE MI VUOI RISPONDI](https://open.spotify.com/track/4hvFntfCUxVUFXrRjepCHa) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng) | [SANT'EMERENZIANA](https://open.spotify.com/album/1qRqXo0KwYfDxTAnVW9bfU) | 2:55 | 2022-05-10 | 2022-05-23 |
+| [Se ti amo](https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Se ti amo](https://open.spotify.com/album/6KWpVZnQuIcwQYHCDbiPhF) | 2:10 | 2023-03-08 |  |
 | [SECONDI](https://open.spotify.com/track/2F0lfSnO8D3crTWQkeXfCQ) | [fuckpietro](https://open.spotify.com/artist/6cv1Z8SFYYSPpRSm1TOmxB), [shark34](https://open.spotify.com/artist/3zyZvgvM9daKsobrqK0Md4) | [SECONDI / CAMOUFLAGE](https://open.spotify.com/album/5EimBXpohd2DCC2lY7iObx) | 3:00 | 2022-08-18 | 2022-08-26 |
 | [SECONDI](https://open.spotify.com/track/2pdZgznRXDbZTqTGgGeSQQ) | [fuckpietro](https://open.spotify.com/artist/6cv1Z8SFYYSPpRSm1TOmxB), [shark34](https://open.spotify.com/artist/3zyZvgvM9daKsobrqK0Md4) | [OLTREOCEANO](https://open.spotify.com/album/7gAfSaoPaYSb3FAP9aq5iJ) | 3:00 | 2022-08-25 | 2022-09-09 |
 | [Segnali di fumo](https://open.spotify.com/track/0jiy4Q3fQCkAvVPAFGpylh) | [alessioego](https://open.spotify.com/artist/2rFgWypbBE4LzXAGKDwNb6) | [Segnali di fumo](https://open.spotify.com/album/4fmwfuMhCQHB2GUcGkivn1) | 3:06 | 2023-01-12 | 2023-01-27 |

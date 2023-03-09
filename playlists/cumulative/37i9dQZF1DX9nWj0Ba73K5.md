@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> In loving memory of songwriter Kyle Jacobs.
+> In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1EFIdYyRJP5AlN?si=69e48d764e2b49d1"> Kyle Jacobs</a>.
 
 224 songs - 12 hr 59 min
 

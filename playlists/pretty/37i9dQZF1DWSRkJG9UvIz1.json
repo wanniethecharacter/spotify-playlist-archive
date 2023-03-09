@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 122253,
+  "num_followers": 122287,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGZhNTZhMTQ4YWZjMzJlYWYxMWUyNzQxOTVmYjFjOWNj",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDk5MTNhODg0Zjc1YmE4MzJjMDk0ZGRlNTA5ODllZDkw",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "O Velho e a Flor",
-        "url": "https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Colour",
         "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
       },
@@ -743,34 +723,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Ameixa",
-        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "Ameixa",
-      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "TU",
         "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
       },
@@ -827,6 +779,34 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Ameixa",
+        "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "duration_ms": 246177,
+      "name": "Ameixa",
+      "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Maris",
         "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 210866,
       "name": "N\u00f3",
       "url": "https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
     },
     {
       "added_at": "2022-11-25 03:00:00",

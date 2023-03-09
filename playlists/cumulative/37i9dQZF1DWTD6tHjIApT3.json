@@ -1002,10 +1002,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 211448,
       "name": "Arigatou",
       "url": "https://open.spotify.com/track/13yN6yw29zRuWeXWSc511R"
+    },
+    {
+      "album": {
+        "name": "Arigatou",
+        "url": "https://open.spotify.com/album/26faPbLsIjkVUCFm7lmodo"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211448,
+      "name": "Arigatou",
+      "url": "https://open.spotify.com/track/1BqO13qjFNkQXvcBUQJx3d"
     },
     {
       "album": {
@@ -8200,6 +8218,24 @@
       "duration_ms": 232537,
       "name": "Pain",
       "url": "https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt"
+    },
+    {
+      "album": {
+        "name": "Painting in the Dusk",
+        "url": "https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258393,
+      "name": "Painting in the Dusk",
+      "url": "https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN"
     },
     {
       "album": {
@@ -18062,7 +18098,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 258393,
       "name": "\u5915\u95c7\u7d75\u753b",
       "url": "https://open.spotify.com/track/0ksFAnBdIzALeaRom5np1p"

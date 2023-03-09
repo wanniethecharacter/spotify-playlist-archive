@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 704173,
+  "num_followers": 704154,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDIyYjMyNDBmNjFkMGE2NzE3NzUwMjU4OTdhODdmM2Fj",
+  "snapshot_id": "MTY3NzgxMjQ2MCwwMDAwMDAwMDM3NTc5NDRjYjY2OGRhYTFkZDNlMGQ1ZGQ5NTk2YTAy",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "High on Me",
         "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 182526,
       "name": "High on Me",
       "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Requiem Mass (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 240591,
-      "name": "Lost In The Grandeur - Requiem Mass",
-      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Requiem Mass (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 240591,
+      "name": "Lost In The Grandeur - Requiem Mass",
+      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 234687,
       "name": "Heavy Is The Crown",
       "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Walk The Sky",
         "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Taking Me Back",
         "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 245961,
       "name": "Taking Me Back",
       "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -807,18 +823,18 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+        "name": "BURIED ALIVE",
+        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
       },
       "artists": [
         {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
+      "duration_ms": 213774,
+      "name": "BURIED ALIVE",
+      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -839,38 +855,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "BURIED ALIVE",
-        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "BURIED ALIVE",
-      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Cut The Line",
         "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "More Than Machines",
-        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "More Than Machines",
-      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Feast Of Fire",
         "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
       },
@@ -915,6 +883,22 @@
       "duration_ms": 258837,
       "name": "Feast Of Fire",
       "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -951,6 +935,22 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "More Than Machines",
+        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "More Than Machines",
+      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
-      },
-      "artists": [
-        {
-          "name": "Outline In Color",
-          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/5Vm1tsyBk4dH1ZoBE7SeBw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 200228,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3VBUIYlQkfXWIEgmWUkAt0"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI"
+      },
+      "artists": [
+        {
+          "name": "Outline In Color",
+          "url": "https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ"
     },
     {
       "added_at": "2023-03-03 03:01:00",

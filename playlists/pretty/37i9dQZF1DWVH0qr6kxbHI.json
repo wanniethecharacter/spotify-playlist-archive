@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 51263,
+  "num_followers": 51326,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMGNlNmFjMjcyY2E4NmNiYTE5NGQ1ZmY1M2NjOWEzMDE2",
+  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMDJkNGM2NjQzOWY3NDBjZGQxN2M4MjY2ZmNmNWRkY2I1",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+        "name": "Car\u00e1cter Latino 2012",
+        "url": "https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ"
       },
       "artists": [
         {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+          "name": "Pastora Soler",
+          "url": "https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+      "duration_ms": 184013,
+      "name": "Qu\u00e9date conmigo - Eurovisi\u00f3n",
+      "url": "https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Car\u00e1cter Latino 2012",
-        "url": "https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ"
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
       "artists": [
         {
-          "name": "Pastora Soler",
-          "url": "https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM"
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Qu\u00e9date conmigo - Eurovisi\u00f3n",
-      "url": "https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ"
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
-      },
-      "artists": [
-        {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Miguel Poveda",
-          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
-      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Rocio Siempre",
         "url": "https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 455253,
       "name": "Punto De Partida (with Monica Naranjo)",
       "url": "https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Miguel Poveda",
+          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
+      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Canciones De Oro",
+        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Ojos verdes",
+      "url": "https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "De Un Mundo Raro (Cantes Por Chavela)",
         "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Canciones De Oro",
-        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Ojos verdes",
-      "url": "https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Ni\u00f1a de fuego (Standard version)",
         "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 219640,
       "name": "La ni\u00f1a de fuego",
       "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "La Violetera (Remastered)",
-        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "La Violetera - Remastered",
-      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -979,22 +963,34 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "A Bola De Nieve",
-        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 262811,
-      "name": "Alma M\u00eda",
-      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Canciones De Oro",
+        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Canciones De Oro",
-        "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
       "artists": [
         {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1059,22 +1059,6 @@
       "duration_ms": 232000,
       "name": "Que seas feliz",
       "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 192627,
       "name": "Baladilla De Los Tres R\u00edos",
       "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2022-11-03 23:00:00",

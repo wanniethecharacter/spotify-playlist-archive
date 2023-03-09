@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:39i5B6umzWzkfMe12JrMwW">TiaCorine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,742,278 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,742,647 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 22 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 |
 | 23 | [Law & Order pt\. 2](https://open.spotify.com/track/0EhR86E9VVSzG0LdEer4lF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [50jittsteppa](https://open.spotify.com/artist/66SnTS1LSlpzHDr738sLJf) | [Law & Order pt\. 2](https://open.spotify.com/album/4u1rHyPBNxoyvCG93RKJOM) | 3:59 |
 | 24 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 |
-| 25 | [Trappin n Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
+| 25 | [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 |
 | 26 | [Kome On](https://open.spotify.com/track/11NLXN1vcW8CZbrW3hZC8c) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Kome On](https://open.spotify.com/album/1aulOdGQu7QycqVQKOu2Jr) | 2:14 |
 | 27 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
 | 28 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 |

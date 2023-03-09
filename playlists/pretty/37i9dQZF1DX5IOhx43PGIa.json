@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: beabadoobee.",
-  "num_followers": 258833,
+  "num_followers": 258967,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2Nzk2MiwwMDAwMDAwMDRlM2MxYTQwNDRjNjNhZDY3YjJlNzdlNWI0ZTY5OTVh",
+  "snapshot_id": "MTY3Nzg2Nzk2MiwwMDAwMDAwMGIwMjU4NTY3Mjk3NjUwNDhhMmI4Zjc2ZDc3MzA1OTMw",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
     },
     {
-      "added_at": "2023-03-08 00:50:42",
+      "added_at": "2023-03-09 00:50:43",
       "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "i like red",
+        "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
+      },
+      "artists": [
+        {
+          "name": "Charlene Su",
+          "url": "https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "i like red",
+      "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "i like red",
-        "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
-      },
-      "artists": [
-        {
-          "name": "Charlene Su",
-          "url": "https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "i like red",
-      "url": "https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1361,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
     },
     {
-      "added_at": "2023-03-08 00:50:42",
+      "added_at": "2023-03-09 00:50:43",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd"
     },
     {
-      "added_at": "2023-03-08 00:50:42",
-      "album": {
-        "name": "Trust Yourself",
-        "url": "https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "Trust Yourself",
-      "url": "https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "EXPIRED",
@@ -1859,6 +1843,22 @@
       "duration_ms": 146739,
       "name": "EXPIRED",
       "url": "https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu"
+    },
+    {
+      "added_at": "2023-03-09 00:50:43",
+      "album": {
+        "name": "Trust Yourself",
+        "url": "https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Trust Yourself",
+      "url": "https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "see u dance",
-        "url": "https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2"
-      },
-      "artists": [
-        {
-          "name": "Hong Kong Boyfriend",
-          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "see u dance",
-      "url": "https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "The Happy Star",
         "url": "https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 174428,
       "name": "dance dance",
       "url": "https://open.spotify.com/track/1SaUBCZJOk3XCCZd1nFOte"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "see u dance",
+        "url": "https://open.spotify.com/album/04yTErkzsdN2pDr37Nnfq2"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Boyfriend",
+          "url": "https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "see u dance",
+      "url": "https://open.spotify.com/track/5ppUThWn9v9lZyqLRrfb4D"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2181,7 +2181,7 @@
       "url": "https://open.spotify.com/track/5D1D4CHCew0XWorrFv5jSg"
     },
     {
-      "added_at": "2023-03-08 00:50:42",
+      "added_at": "2023-03-09 00:50:43",
       "album": {
         "name": "Firetruck",
         "url": "https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN"
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Dirt Cheap",
+        "url": "https://open.spotify.com/album/0n8A3aH6y13KBdMGSRMaYq"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Dirt Cheap",
+      "url": "https://open.spotify.com/track/6fWAyMm3JXgX9mdgsVVI8r"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -2235,22 +2251,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "MCQUEEN",
-        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MCQUEEN",
-      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "MCQUEEN",
+        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MCQUEEN",
+      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Bla Bli Blu",
         "url": "https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 177757,
       "name": "Bla Bli Blu",
       "url": "https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Dirt Cheap",
-        "url": "https://open.spotify.com/album/0n8A3aH6y13KBdMGSRMaYq"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Dirt Cheap",
-      "url": "https://open.spotify.com/track/6fWAyMm3JXgX9mdgsVVI8r"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2659,18 +2659,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "so wrong but so right.",
-        "url": "https://open.spotify.com/album/2APeiOBwLGStg3JvL8VLmq"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 179571,
-      "name": "so wrong but so right.",
-      "url": "https://open.spotify.com/track/1DeQcRt8U7N6l5cPPYmGYY"
+      "duration_ms": 138000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
     }
   ],
   "unique_name": "Jasmine",

@@ -1,13 +1,77 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: BreezyLYN",
-  "num_followers": 203019,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: SheedTs",
+  "num_followers": 203052,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY5MDAwMCwwMDAwMDAwMDUwZTEwZDU3NDY5NDI5MzcwZjI0MzE5NWRjMDdiY2Y2",
+  "snapshot_id": "MTY3ODI5NDgwMCwwMDAwMDAwMGRiYWVmNTZmZWNkNDE3M2VhNjI1ODRiMGQ1MmM0ODVh",
   "tracks": [
+    {
+      "added_at": "2023-03-08 17:00:00",
+      "album": {
+        "name": "BRENTWOOD",
+        "url": "https://open.spotify.com/album/3OLeMcoAWBMycwRJo0DZ1n"
+      },
+      "artists": [
+        {
+          "name": "Thunderous Knight",
+          "url": "https://open.spotify.com/artist/7MBXDzzZnuxjMMDOTrObsp"
+        }
+      ],
+      "duration_ms": 153155,
+      "name": "BRENTWOOD",
+      "url": "https://open.spotify.com/track/25fmkoTuBXsegcr2GftcmE"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "Rockin' & Rollin",
+        "url": "https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY"
+      },
+      "artists": [
+        {
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Rockin' & Rollin",
+      "url": "https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "the color grey.",
+        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "where's the confetti?",
+      "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+    },
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
@@ -25,20 +89,120 @@
       "url": "https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4"
     },
     {
-      "added_at": "2023-02-22 17:00:00",
+      "added_at": "2023-03-08 17:00:00",
       "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+        "name": "Bleeda Story",
+        "url": "https://open.spotify.com/album/3coKnhp9KOQ4YL9mE075iN"
       },
       "artists": [
         {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+          "name": "Realbleeda",
+          "url": "https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7"
         }
       ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
+      "duration_ms": 208758,
+      "name": "Bleeda Story",
+      "url": "https://open.spotify.com/track/2MybTFEA2hpIpPwvOQZgeg"
+    },
+    {
+      "added_at": "2023-03-08 17:00:00",
+      "album": {
+        "name": "Shoot This Bitch Up",
+        "url": "https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL"
+      },
+      "artists": [
+        {
+          "name": "GMO Stax",
+          "url": "https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK"
+        }
+      ],
+      "duration_ms": 94720,
+      "name": "Shoot This Bitch Up",
+      "url": "https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "before the sunset",
+        "url": "https://open.spotify.com/album/7yBmQJ8URZIoE4Fr1wVdmr"
+      },
+      "artists": [
+        {
+          "name": "Seth Sutch",
+          "url": "https://open.spotify.com/artist/2znMo5vYA8FuOuCZ1V8uXt"
+        }
+      ],
+      "duration_ms": 151543,
+      "name": "before the sunset",
+      "url": "https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy"
+    },
+    {
+      "added_at": "2023-03-08 17:00:00",
+      "album": {
+        "name": "ELEGANT",
+        "url": "https://open.spotify.com/album/5tkDAf8KqAe23FWIOCH1HN"
+      },
+      "artists": [
+        {
+          "name": "RENACIDO",
+          "url": "https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl"
+        }
+      ],
+      "duration_ms": 129780,
+      "name": "ELEGANT",
+      "url": "https://open.spotify.com/track/4ldrsvOaR5xm52qYbza3OS"
+    },
+    {
+      "added_at": "2023-03-08 17:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/02FoSzcOuebI50hMoSzrrK"
+      },
+      "artists": [
+        {
+          "name": "Lil Goat",
+          "url": "https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV"
+        },
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/2cdoLBywWSteVmmWYzERWQ"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL"
+    },
+    {
+      "added_at": "2023-03-01 17:00:00",
+      "album": {
+        "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/3vLCn4H68dyNpLhF3xgIFV"
+      },
+      "artists": [
+        {
+          "name": "Coach Tev",
+          "url": "https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx"
+        }
+      ],
+      "duration_ms": 192116,
+      "name": "Dance On Me",
+      "url": "https://open.spotify.com/track/0lO6UXUZ6yyN9B24B5bbYd"
     },
     {
       "added_at": "2023-03-01 17:00:00",
@@ -61,68 +225,44 @@
       "url": "https://open.spotify.com/track/1IV6iZ3OzhRgcosTrW7uXI"
     },
     {
-      "added_at": "2023-03-01 17:00:00",
+      "added_at": "2023-03-08 17:00:00",
       "album": {
-        "name": "Don Lemon",
-        "url": "https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr"
+        "name": "Painting Houses",
+        "url": "https://open.spotify.com/album/2evvbqY2GnpwoAhdPDpCF9"
       },
       "artists": [
         {
-          "name": "Yoza",
-          "url": "https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT"
+          "name": "Ufo Fev",
+          "url": "https://open.spotify.com/artist/1m4NqUSiXZj5qY83vwvoMA"
+        },
+        {
+          "name": "Spanish Ran",
+          "url": "https://open.spotify.com/artist/0yhUp9ffopvPldcfxtqanA"
+        },
+        {
+          "name": "Tree Mason",
+          "url": "https://open.spotify.com/artist/66j5pKh7GqRm23WoULBfZu"
         }
       ],
-      "duration_ms": 146413,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs"
+      "duration_ms": 207692,
+      "name": "Tahoe",
+      "url": "https://open.spotify.com/track/117I9bICU6PXKaUzAOO34I"
     },
     {
-      "added_at": "2023-02-22 17:00:00",
+      "added_at": "2023-03-08 17:00:00",
       "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn"
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/5yCEsfRuV8t3iMYZnq6rHn"
       },
       "artists": [
         {
-          "name": "ShaqIsDope",
-          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "the color grey.",
-        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "where's the confetti?",
-      "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
-    },
-    {
-      "added_at": "2023-03-01 17:00:00",
-      "album": {
-        "name": "It's Not You, It's Me",
-        "url": "https://open.spotify.com/album/3vLCn4H68dyNpLhF3xgIFV"
-      },
-      "artists": [
-        {
-          "name": "Coach Tev",
-          "url": "https://open.spotify.com/artist/51nmCCHes2y60eOYg1D1Jx"
-        }
-      ],
-      "duration_ms": 192116,
-      "name": "Dance On Me",
-      "url": "https://open.spotify.com/track/0lO6UXUZ6yyN9B24B5bbYd"
+      "duration_ms": 158250,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/5gZu9qcaqBPwyDljjMFLS6"
     },
     {
       "added_at": "2023-02-22 23:07:38",
@@ -143,58 +283,6 @@
       "duration_ms": 195242,
       "name": "Dawson's Creek",
       "url": "https://open.spotify.com/track/4J8kPd5rTr6KpcWhPcj3Ij"
-    },
-    {
-      "added_at": "2023-03-01 17:00:00",
-      "album": {
-        "name": "Rockin' & Rollin",
-        "url": "https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY"
-      },
-      "artists": [
-        {
-          "name": "SheedTs",
-          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Rockin' & Rollin",
-      "url": "https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Mr. Too Sticky",
-        "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
-      },
-      "artists": [
-        {
-          "name": "Wizz Havinn",
-          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
-        }
-      ],
-      "duration_ms": 107329,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Gift Of The Ghetto",
-        "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Chedda Cheese (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -235,6 +323,62 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
+        "name": "Mr. Too Sticky",
+        "url": "https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "duration_ms": 107329,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Pound Town (with Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (with Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Gift Of The Ghetto",
+        "url": "https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Chedda Cheese (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
         "name": "THE BOOK OF ENOCH",
         "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
       },
@@ -247,6 +391,22 @@
       "duration_ms": 149446,
       "name": "THE BOOK OF ENOCH",
       "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "added_at": "2023-02-22 17:00:00",
+      "album": {
+        "name": "Naismith",
+        "url": "https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "duration_ms": 181067,
+      "name": "Naismith",
+      "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
     },
     {
       "added_at": "2023-03-01 17:00:00",
@@ -267,18 +427,18 @@
     {
       "added_at": "2023-03-01 17:00:00",
       "album": {
-        "name": "before the sunset",
-        "url": "https://open.spotify.com/album/7yBmQJ8URZIoE4Fr1wVdmr"
+        "name": "Don Lemon",
+        "url": "https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr"
       },
       "artists": [
         {
-          "name": "Seth Sutch",
-          "url": "https://open.spotify.com/artist/2znMo5vYA8FuOuCZ1V8uXt"
+          "name": "Yoza",
+          "url": "https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT"
         }
       ],
-      "duration_ms": 151543,
-      "name": "before the sunset",
-      "url": "https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy"
+      "duration_ms": 146413,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -419,22 +579,6 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
-        "name": "This Is Why You Shouldn't Do Drugs",
-        "url": "https://open.spotify.com/album/7vqqJ4x520tM6sC1mFD7Ul"
-      },
-      "artists": [
-        {
-          "name": "Cocanina",
-          "url": "https://open.spotify.com/artist/6Jwx0B8JhSuBMy5ZBz7GIk"
-        }
-      ],
-      "duration_ms": 135881,
-      "name": "This Is Why You Shouldn't Do Drugs",
-      "url": "https://open.spotify.com/track/1KAsGLVdOWY6nxL1pNN0Xd"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
         "name": "Scholarships",
         "url": "https://open.spotify.com/album/4OYuyuTU9iD9kUBXmtmVeq"
       },
@@ -517,26 +661,6 @@
       "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
     },
     {
-      "added_at": "2023-03-01 17:00:00",
-      "album": {
-        "name": "Danger - Jersey Club (Remix)",
-        "url": "https://open.spotify.com/album/5miOht0S6eRmvNx5KMXoMi"
-      },
-      "artists": [
-        {
-          "name": "Jourdin Pauline",
-          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
-        },
-        {
-          "name": "DJ SMALLZ 732",
-          "url": "https://open.spotify.com/artist/07Qh4jqt5TL0mWm3tERxDR"
-        }
-      ],
-      "duration_ms": 93800,
-      "name": "Danger - Jersey Club - Remix",
-      "url": "https://open.spotify.com/track/6CnPjdQqENmUlgDSbOuqeZ"
-    },
-    {
       "added_at": "2023-02-22 17:00:00",
       "album": {
         "name": "Did It Again",
@@ -559,22 +683,6 @@
       "duration_ms": 127389,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/5i8smYfbimEPelezyEoeOg"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/0zLRoKXdLm5VzbBy9DdXAF"
-      },
-      "artists": [
-        {
-          "name": "Yus Gz",
-          "url": "https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -691,22 +799,6 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
-        "name": "Naismith",
-        "url": "https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 181067,
-      "name": "Naismith",
-      "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
         "name": "France",
         "url": "https://open.spotify.com/album/6dbddqE1Mc5Mao0hlyUDq9"
       },
@@ -787,58 +879,6 @@
       "duration_ms": 150048,
       "name": "Wild ASF",
       "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Pound Town (with Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town (with Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "SHELLS",
-        "url": "https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41"
-      },
-      "artists": [
-        {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "UnderWater",
-      "url": "https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Full Grind",
-        "url": "https://open.spotify.com/album/1gYKcxF3sgNNUexsoWnR88"
-      },
-      "artists": [
-        {
-          "name": "Baby Jeweler",
-          "url": "https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "Full Grind",
-      "url": "https://open.spotify.com/track/4SJ5lS4IvapFTGfJqHu4al"
     },
     {
       "added_at": "2023-02-22 17:00:00",
@@ -975,22 +1015,6 @@
     {
       "added_at": "2023-02-22 17:00:00",
       "album": {
-        "name": "Trust Fund",
-        "url": "https://open.spotify.com/album/51iB1U1CKjjelyP3ZE8oje"
-      },
-      "artists": [
-        {
-          "name": "Llainwire",
-          "url": "https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA"
-        }
-      ],
-      "duration_ms": 101621,
-      "name": "Trust Fund",
-      "url": "https://open.spotify.com/track/5qUHj7OWz9kkViP6DaELEc"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
         "name": "STAR GIRL",
         "url": "https://open.spotify.com/album/0doSsu5ka585zPrsD7iyTS"
       },
@@ -1067,26 +1091,6 @@
       "duration_ms": 120680,
       "name": "Billy",
       "url": "https://open.spotify.com/track/1HUGH6K8uKM2z8OR92JmAc"
-    },
-    {
-      "added_at": "2023-02-22 17:00:00",
-      "album": {
-        "name": "Trippin For No Reason",
-        "url": "https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT"
-      },
-      "artists": [
-        {
-          "name": "Rallyb",
-          "url": "https://open.spotify.com/artist/5HwdNPbGU9sjjR1Eu9QhJw"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 139946,
-      "name": "Trippin For No Reason",
-      "url": "https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA"
     },
     {
       "added_at": "2023-02-22 17:00:00",

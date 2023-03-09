@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ritter Lean, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: katya., Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 195000,
       "name": "Angst",
       "url": "https://open.spotify.com/track/03Pl0rEvXTzriTn07lykLd"
@@ -670,6 +670,24 @@
       "duration_ms": 167000,
       "name": "Asbest",
       "url": "https://open.spotify.com/track/3CSgwRXolXEDRczbbMxRKn"
+    },
+    {
+      "album": {
+        "name": "Asbest",
+        "url": "https://open.spotify.com/album/2RTWv1eIF6CeXH2H3OEb7H"
+      },
+      "artists": [
+        {
+          "name": "vati",
+          "url": "https://open.spotify.com/artist/6gE9b3YZ4GNRZJG2E1gYF7"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106886,
+      "name": "Asbest",
+      "url": "https://open.spotify.com/track/32tImIyhUuqjnvLD7Fdn0Y"
     },
     {
       "album": {
@@ -778,6 +796,24 @@
       "duration_ms": 163043,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/5qCIiZNPywXtfgw4EQRDPd"
+    },
+    {
+      "album": {
+        "name": "bad news",
+        "url": "https://open.spotify.com/album/3omyQTYldkBSvcmZlleVmq"
+      },
+      "artists": [
+        {
+          "name": "katya.",
+          "url": "https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "bad news",
+      "url": "https://open.spotify.com/track/0XDXLhOaVVzlE3VWaZcKie"
     },
     {
       "album": {
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 200506,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/1m9esVBIT1EMcKF3hRot6I"
@@ -2386,7 +2422,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 220000,
       "name": "Die sch\u00f6nste Misere",
       "url": "https://open.spotify.com/track/4C7Ws7OAAfZq5dYZZ2W9aa"
@@ -2681,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206116,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA"
+    },
+    {
+      "album": {
         "name": "Momoko",
         "url": "https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH"
       },
@@ -2800,7 +2854,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 121166,
       "name": "Egal",
       "url": "https://open.spotify.com/track/7j3TJZmMxQ9BHqRDbmRUbe"
@@ -3610,7 +3664,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 359816,
       "name": "F\u00fcr die Seele feat. Haexxa",
       "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
@@ -4163,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Halbe Liebe",
+        "url": "https://open.spotify.com/album/1Aw1ivHYxiSXnFdNJ09Y4A"
+      },
+      "artists": [
+        {
+          "name": "HILLA",
+          "url": "https://open.spotify.com/artist/2XPKrrCwMa3wB1ML1g5Ywg"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158502,
+      "name": "Halbe Liebe",
+      "url": "https://open.spotify.com/track/76XQG2xw6KCmSlq6rNpabj"
+    },
+    {
+      "album": {
         "name": "Half Hearted Lover",
         "url": "https://open.spotify.com/album/4lXdWRXPhL162ooAn0YycX"
       },
@@ -4434,6 +4506,24 @@
       "duration_ms": 227500,
       "name": "Hi-Res",
       "url": "https://open.spotify.com/track/2kaDDLAjDyxne96vNv1Cbj"
+    },
+    {
+      "album": {
+        "name": "Hide And Seek",
+        "url": "https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn"
+      },
+      "artists": [
+        {
+          "name": "Josh Byrd",
+          "url": "https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208658,
+      "name": "Hide And Seek",
+      "url": "https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe"
     },
     {
       "album": {
@@ -6406,7 +6496,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 141611,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40RUjUCr5WIm3z1U6ARcRC"
@@ -6692,7 +6782,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 260911,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2DBD8h2QL9IwLBvwqKGwsV"
@@ -7178,7 +7268,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 226500,
       "name": "Nur zu weit",
       "url": "https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq"
@@ -7232,7 +7322,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 153613,
       "name": "Oasen aus Beton",
       "url": "https://open.spotify.com/track/4FdBzucjtVBglF8SR6kz7l"
@@ -8794,6 +8884,42 @@
       "duration_ms": 190826,
       "name": "Shyboy",
       "url": "https://open.spotify.com/track/5g7Ee15wMEweVX7vbbakTO"
+    },
+    {
+      "album": {
+        "name": "Sicher nicht",
+        "url": "https://open.spotify.com/album/1k9ze3n8kBIY40nqVZJ6Uo"
+      },
+      "artists": [
+        {
+          "name": "Streichelt",
+          "url": "https://open.spotify.com/artist/7pMN4vp0od5iZvA59GNQ1R"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Sicher nicht",
+      "url": "https://open.spotify.com/track/690HBCkezvvPXWjDkOD0Pr"
+    },
+    {
+      "album": {
+        "name": "sick summer",
+        "url": "https://open.spotify.com/album/7puFaiE2JdbrqsfCWY2F7l"
+      },
+      "artists": [
+        {
+          "name": "muede",
+          "url": "https://open.spotify.com/artist/1SISMoXmT4hgFaEKREut2O"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164230,
+      "name": "sick summer",
+      "url": "https://open.spotify.com/track/0w14fVO1sI0NlU9xXOEIiW"
     },
     {
       "album": {
@@ -10663,6 +10789,24 @@
     },
     {
       "album": {
+        "name": "Verliebt",
+        "url": "https://open.spotify.com/album/4fYJ4EUk44iikUbQFLrFtn"
+      },
+      "artists": [
+        {
+          "name": "PaLe",
+          "url": "https://open.spotify.com/artist/5Wq4nzgvTsSygwNDobgw0t"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Verliebt",
+      "url": "https://open.spotify.com/track/3W7cU8Ncut4H5YiwwpXADz"
+    },
+    {
+      "album": {
         "name": "Verlierer",
         "url": "https://open.spotify.com/album/6dynCf9r1ABitOURv8Abpx"
       },
@@ -10710,7 +10854,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 167671,
       "name": "VERY SAD OPFERTYP",
       "url": "https://open.spotify.com/track/78E7hEa5130fVJMwQYCiO3"
@@ -10883,6 +11027,24 @@
     },
     {
       "album": {
+        "name": "Was Ich mag",
+        "url": "https://open.spotify.com/album/4nEPzFyrJXFlSse67SgNSK"
+      },
+      "artists": [
+        {
+          "name": "OSAYA",
+          "url": "https://open.spotify.com/artist/0yVE7U8fmzPPnmHdb8TMxn"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Was Ich mag",
+      "url": "https://open.spotify.com/track/53kVoU7QjCAkQIt8oVdzbb"
+    },
+    {
+      "album": {
         "name": "We Didn't Fit Together At All",
         "url": "https://open.spotify.com/album/5h0iJ7s2AySm2OuZdBirwV"
       },
@@ -10898,6 +11060,24 @@
       "duration_ms": 179718,
       "name": "We Didn't Fit Together At All",
       "url": "https://open.spotify.com/track/6051tQ7EVkAuRshp4le6Tf"
+    },
+    {
+      "album": {
+        "name": "Bitte Nicht / Weit Weg",
+        "url": "https://open.spotify.com/album/7mt9KpxCtZj3YRNAcEBSJH"
+      },
+      "artists": [
+        {
+          "name": "Haschio",
+          "url": "https://open.spotify.com/artist/1W4OfRVHLJ4HoERvQrUmmM"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Weit Weg",
+      "url": "https://open.spotify.com/track/2le1MBo0VxHCa9kDM8fmrp"
     },
     {
       "album": {

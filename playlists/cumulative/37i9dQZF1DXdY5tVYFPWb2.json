@@ -5036,10 +5036,32 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 215666,
       "name": "Take That ! feat. TENDRE",
       "url": "https://open.spotify.com/track/0v2Kv316ccVrrL3BDDqRHm"
+    },
+    {
+      "album": {
+        "name": "Take That ! feat. TENDRE",
+        "url": "https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Take That ! feat. TENDRE",
+      "url": "https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26"
     },
     {
       "album": {

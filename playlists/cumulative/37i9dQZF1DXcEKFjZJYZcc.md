@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-222 songs - 9 hr 10 min
+224 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-03-01 |  |
 | [Liedchen](https://open.spotify.com/track/5Ly26x1z1XshVyBKos1PXw) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Liedchen](https://open.spotify.com/album/195rTFzMloA4cdl0ncy3cU) | 2:35 | 2023-03-01 |  |
 | [Lilt](https://open.spotify.com/track/2nyu65wNXcu377f7UVDnYa) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Lilt](https://open.spotify.com/album/7hueCmRflhqn17bV20JOz1) | 2:21 | 2022-04-28 |  |
+| [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-03-08 |  |
 | [Little Bird](https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Signs](https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2) | 1:50 | 2022-12-21 |  |
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2021-12-14 |  |
 | [Love Letter](https://open.spotify.com/track/51urgUMQVk7EIRoNshc36C) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Love Letter](https://open.spotify.com/album/0osEXsR2retxEFOQi7kn6S) | 1:41 | 2023-02-03 |  |
@@ -129,7 +130,7 @@
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-14 |  |
 | [One Ordinary Day](https://open.spotify.com/track/6ZSEuCYxwAO7RkL9dLYCA7) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 | 2023-01-09 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-14 |  |
-| [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-27 |  |
+| [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-27 | 2023-03-09 |
 | [Op Reis \(Traveling\)](https://open.spotify.com/track/7s90rbo8Hwm92XghvPxU3e) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Op Reis \(Traveling\)](https://open.spotify.com/album/5x1nANAZwlk8mtOLO8IDXm) | 3:39 | 2022-05-20 |  |
 | [Ottilia](https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Ottilia](https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s) | 2:30 | 2022-12-06 |  |
 | [Page blanche](https://open.spotify.com/track/4ZPF6rVrnczObhVQbYm6bn) | [Leone Frederic](https://open.spotify.com/artist/3eC48oTeRknCk6vkC0TmQh) | [Page blanche](https://open.spotify.com/album/0Cm6KmDBuk2ntLF8Dx4iJx) | 2:30 | 2022-12-21 |  |
@@ -215,6 +216,7 @@
 | [Uitwaaien](https://open.spotify.com/track/6fOFKyLhs5ryi2f8IiWBq8) | [Juultje Berben](https://open.spotify.com/artist/7y7TQWBzst8y1iWH8V4bxM) | [Uitwaaien](https://open.spotify.com/album/3mzvBMtbZl2exRnQdA1sZ6) | 2:08 | 2021-12-14 | 2022-04-05 |
 | [Un Voyage Á Paris](https://open.spotify.com/track/1dKhA9m4PjSLVxDRxWPwm4) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Un Voyage Á Paris](https://open.spotify.com/album/15f6hSSftpB39OEmAZrOLm) | 2:14 | 2022-07-20 |  |
 | [Up and Away](https://open.spotify.com/track/0VwYVeHNJbZFgr1LzE5k40) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Up and Away](https://open.spotify.com/album/5YOtwhelywHTOSmzP9A3Vp) | 2:14 | 2022-04-28 |  |
+| [Up toward the sky](https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Up toward the sky](https://open.spotify.com/album/6VXJvM8qTx0kAZGNNj6KuO) | 2:18 | 2023-03-08 |  |
 | [Valse](https://open.spotify.com/track/3IYzsI7pfsXJYJY41NoVRK) | [Egor Grushin](https://open.spotify.com/artist/75LREKsEbGngALKa5YcwAK) | [Valse](https://open.spotify.com/album/4i4NzFTtaIX9WAcT3tGcaw) | 2:08 | 2022-04-04 |  |
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2021-12-14 | 2022-04-29 |
 | [Vejez](https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/6z16FGd8h6MyiYSJrUhu3l) | 2:18 | 2022-04-28 |  |

@@ -2,14 +2,15 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: CODE KUNST\(코드 쿤스트\)\)
 
-171 songs - 9 hr 46 min
+172 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12:30 AM \(Feat\. CHEEZE\)](https://open.spotify.com/track/68aR2iFKyhVbPzUHeFkXC6) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Open Ending](https://open.spotify.com/album/04kK84kVwcaCsgbWApQq3N) | 3:57 | 2022-05-28 | 2022-06-10 |
 | [4EVeR](https://open.spotify.com/track/4Tiqs5kuuUIh8iJ1cvxwJQ) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 4:02 | 2022-05-28 | 2022-06-10 |
+| [55 \(Feat\. Yerin Baek, WENDY\)](https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:07 | 2023-03-08 |  |
 | [A to Z](https://open.spotify.com/track/3XwXsckFbi3WjsI4SYcOdp) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:50 | 2023-02-14 |  |
 | [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-08 |  |
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-483 songs - 1 day 3 hr 4 min
+484 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Held by You](https://open.spotify.com/track/4MoJcvBgIHunXKDNNR9BQq) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Held by You \(Original\)](https://open.spotify.com/album/5fius8VZJwplAkMqu2L0Ay) | 4:04 | 2020-10-23 | 2021-08-20 |
 | [Helicopter](https://open.spotify.com/track/5TdTYpjLQv25ImZAX6s4Db) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Trying: Season 2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7cN9u8Azjoy5ifAXmW0KCw) | 3:04 | 2021-06-18 | 2021-08-20 |
 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 | 2020-03-27 | 2020-12-11 |
-| [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-08-20 |  |
+| [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-08-20 | 2023-03-09 |
 | [Heroine](https://open.spotify.com/track/59BztobCBPX9vKncmSjgkb) | [Niko Walters](https://open.spotify.com/artist/0iWMmFScSBxj1z3IisnGkB) | [Heroine](https://open.spotify.com/album/7LoTnrh6xxWFJDjNMtumvT) | 3:41 | 2019-09-27 | 2020-05-15 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 |  |
 | [Higher \- The Voice Australia 2021 / Grand Finalist Original](https://open.spotify.com/track/3L5hhI8J6k1SZKbGT0bWJJ) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Bella Taylor Smith: The Complete Collection \(The Voice Australia 2021\)](https://open.spotify.com/album/2223f3QCtkOZfMoWfL4POv) | 3:40 | 2021-09-14 | 2022-04-29 |
@@ -271,7 +271,7 @@
 | [LOVE IN THE DARK](https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [LOVE IN THE DARK](https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0) | 4:00 | 2020-01-24 | 2021-04-24 |
 | [Love is](https://open.spotify.com/track/6gVUVgC2NfhOucSkAEu5MC) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Love is](https://open.spotify.com/album/6KAjESvcnTcu2IGlfAXfj1) | 2:00 | 2022-07-07 |  |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2021-03-06 | 2021-07-23 |
-| [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2021-11-12 |  |
+| [love is just a word](https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [love is just a word](https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg) | 3:46 | 2021-11-12 | 2023-03-09 |
 | [Love Like That](https://open.spotify.com/track/2tSDwInMbSGmUySTeUgO5e) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/4OfYG55yGljjU9HWTk0I7O) | 3:04 | 2020-05-08 | 2021-06-09 |
 | [Love Me First](https://open.spotify.com/track/1M8W8UvbnxZbbvE95EN8mq) | [Stellie](https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH) | [Love Me First](https://open.spotify.com/album/01f9cV4sQ9buprpY9pddeB) | 3:55 | 2019-08-02 | 2019-09-27 |
 | [Love Me Low](https://open.spotify.com/track/0FOogWUS6y2pv3OjAcu6hO) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [Love Me Low](https://open.spotify.com/album/27Ktp6v0yyIyd3fm3Bb7nC) | 2:29 | 2021-01-28 | 2022-05-13 |
@@ -427,6 +427,7 @@
 | [Take Me Back](https://open.spotify.com/track/0r6ccEU9IVpXTUG6CLdDNX) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Take Me Back](https://open.spotify.com/album/0JtLCcaCSa1hdUOq8FUexO) | 3:20 | 2020-06-05 | 2021-04-24 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2023-02-24 |
 | [Tender](https://open.spotify.com/track/304rr8hAtvm1ftlgn4OuXp) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Tender](https://open.spotify.com/album/0jqcvX1CUsGqtrD7NR2IR4) | 3:16 | 2020-01-10 | 2020-06-29 |
+| [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-08 |  |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-08-20 | 2021-09-14 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-09-14 | 2023-02-24 |
 | [The Archer](https://open.spotify.com/track/3Y7MHz19qCg1Pkxridtu1k) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Archer](https://open.spotify.com/album/2mmpvWHLrUjSu5PN763rUu) | 3:31 | 2019-08-02 | 2019-09-27 |

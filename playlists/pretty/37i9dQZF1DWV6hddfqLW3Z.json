@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 734133,
+  "num_followers": 734334,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGQ5YTNiZDViNzgzMjE2OWMwZDhhMzFkMjljMDY5OGQy",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDU0YzA3ZTUwZWIyNmNlMDA5NWEyNDM4NDQ5NWY5Njcw",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Saiba",
-        "url": "https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Gr\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+        "name": "Saiba",
+        "url": "https://open.spotify.com/album/68Yj9neF1g9YG1Joo1noqM"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+      "duration_ms": 185213,
+      "name": "Gr\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/6WuPQbkxEi5xyBtlvvFjQm"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 207933,
       "name": "I Don't Want To Talk About It",
       "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Ciumeira",
+        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "Ciumeira",
+      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Minha Felicidade",
         "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Ciumeira",
-        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "Ciumeira",
-      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
     },
     {
       "added_at": "2023-01-20 03:00:00",

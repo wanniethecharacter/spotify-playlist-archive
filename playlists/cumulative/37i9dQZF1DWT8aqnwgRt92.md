@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-542 songs - 1 day 10 hr 35 min
+543 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Under Sail](https://open.spotify.com/track/2pQneHOpBNuRYwJs83hESi) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [どついたれ本舗 \-No double dipping!\-](https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx) | 3:42 | 2022-09-01 | 2022-09-21 |
 | [UNDER THE TREE](https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [UNDER THE TREE](https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk) | 2:01 | 2023-03-03 | 2023-03-05 |
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-03-03 |  |
-| [uni\-verse](https://open.spotify.com/track/6kmD2DHbBb80dHfIRlhTxx) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ギフト](https://open.spotify.com/album/29KGPVGqmyN095m2VgRACs) | 4:31 | 2023-03-07 |  |
+| [Uni\-Verse](https://open.spotify.com/track/0bJIoYV4eotOGrdKOgjeHj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 4:31 | 2023-03-07 |  |
+| [uni\-verse](https://open.spotify.com/track/6kmD2DHbBb80dHfIRlhTxx) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ギフト](https://open.spotify.com/album/29KGPVGqmyN095m2VgRACs) | 4:31 | 2023-03-07 | 2023-03-09 |
 | [Unite up!](https://open.spotify.com/track/6zsE5fWY4onqiKUvOOSMfj) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [Unite up!](https://open.spotify.com/album/5CHZGDeflVkbgsAAOdp2Nf) | 3:59 | 2023-01-17 | 2023-01-25 |
 | [Usotsuki](https://open.spotify.com/track/2PyYJTYEfA3jVXWNqaex5u) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:37 | 2023-02-16 |  |
 | [Usotsuki](https://open.spotify.com/track/2iK9aKDMWe9xQC8aBQ3y7n) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Usotsuki](https://open.spotify.com/album/0fiGjrYXmgaIfbX1tPRvia) | 3:37 | 2023-01-10 | 2023-02-18 |

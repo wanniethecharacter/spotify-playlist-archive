@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Nehaal Naseem
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,710 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,720 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 29 | [La Makani](https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [La Makani](https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs) | 4:32 |
 | 30 | [Dil Na Lanvee](https://open.spotify.com/track/40Uqtakcro5MbrLBQVwv22) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Dil Na Lanvee](https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh) | 2:32 |
 | 31 | [Terey Liye](https://open.spotify.com/track/1we0JhNfT5u1tjSj8YcxNf) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [Terey Liye](https://open.spotify.com/album/3ruwQc6m8xY9tdI8cIrtHA) | 4:20 |
-| 32 | [Parday!](https://open.spotify.com/track/7Dzi4HBEIT6NQfF2oAnFu1) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday!](https://open.spotify.com/album/5VCewQx3p8nQx7M7b9Dn8E) | 3:20 |
+| 32 | [Parday !](https://open.spotify.com/track/6BHo4ppR8EIAbL4ZEMg3Sv) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday !](https://open.spotify.com/album/3RTbSVCCEM2iOgWRgVIrlJ) | 3:20 |
 | 33 | [Apna Hoon](https://open.spotify.com/track/1OKZYRyj1FrCZUjtqc1nxV) | [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2) | [Apna Hoon](https://open.spotify.com/album/4Rwx8ZN5a2w7NB3pPwP1JG) | 2:42 |
 | 34 | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/track/4AM68wkDAhKK34JwWn9Pwo) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Pyaar Bhi Kya Nasha Hai](https://open.spotify.com/album/6R96po3YMxLrgaErJ4XNpM) | 3:09 |
 | 35 | [Barse](https://open.spotify.com/track/6wV51vPTYtewZNGDpHcwWi) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Barse](https://open.spotify.com/album/6It9s6jgRF07GUUf28VFSK) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 74 | [Hansti Raho](https://open.spotify.com/track/1zYKntcSjfLwu2ADAFlpHe) | [Aqeel Razzak](https://open.spotify.com/artist/30gqbYkpgSTQ079S0mwwVl) | [Hansti Raho](https://open.spotify.com/album/0kjJIFJrctMogu6R2uRpKg) | 2:32 |
 | 75 | [Mehr un Wafa \- Remastered](https://open.spotify.com/track/1juvkpXpGEaMYdIFUTuKgu) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Mehr un Wafa \(Remastered\)](https://open.spotify.com/album/1Bgm5o5r3ILglPtEQmFLDN) | 3:03 |
 
-Snapshot ID: `MTY3Njk2NzA2NywwMDAwMDAwMDM2M2UxNjBiOTY0NjNlYzkzNDgxZGJiMGYxZTg1NjJj`
+Snapshot ID: `MTY3Njk2NzA2NywwMDAwMDAwMDQwYTQ5ODJhZDlmNzFmNjU2ZmMyN2ZlM2QxZWVkN2Y2`

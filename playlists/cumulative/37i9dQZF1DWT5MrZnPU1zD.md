@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-640 songs - 1 day 6 hr 50 min
+641 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [No Debate](https://open.spotify.com/track/3xtG9ZIlwhW9nRuq39z0Iw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:13 | 2022-04-08 | 2022-04-16 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-03 | 2022-11-12 |
 | [No Mind](https://open.spotify.com/track/2g7RAqIAWvejbBMiv0qYHj) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [No Mind](https://open.spotify.com/album/7whE3mVgEdIUitoZZgc7A2) | 2:41 | 2022-09-02 | 2022-09-17 |
-| [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 | 2022-12-16 |  |
+| [No More Friends](https://open.spotify.com/track/2kMuUWfsueRPYWxyaTSHd8) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No More Friends](https://open.spotify.com/album/1SFwQzKhMvB5rPmXpeRvYl) | 2:01 | 2022-12-16 | 2023-03-09 |
 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 | 2022-07-15 | 2023-02-10 |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 |  |
 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 | 2022-09-23 | 2023-01-28 |
@@ -429,6 +429,7 @@
 | [Partments](https://open.spotify.com/track/3f1l4BkvM0HRqnFG9p9FEV) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Partments](https://open.spotify.com/album/3N9fb2RVAyW3O6DggVcKWo) | 2:07 | 2022-03-25 | 2022-04-21 |
 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 | 2023-03-03 |  |
 | [Peppers and Onions](https://open.spotify.com/track/3EXtXbj00nX9aCHDz1yEJF) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Peppers and Onions](https://open.spotify.com/album/5WNRHkelCodRwoo6zo77Ig) | 2:50 | 2022-03-25 | 2022-04-18 |
+| [PERM](https://open.spotify.com/track/61dXty0FR61qyVczdM49F4) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [PERM](https://open.spotify.com/album/43Yx0i7ZGODCJJaJYL3NiB) | 2:10 | 2023-02-24 |  |
 | [Picasso](https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Picasso](https://open.spotify.com/album/1tjG76nlg1AlhGG4O2CGU9) | 1:46 | 2022-04-15 | 2022-04-19 |
 | [Piped Up](https://open.spotify.com/track/5CqbgM6ek83fzvEXzrJgax) | [YKG Hotboy](https://open.spotify.com/artist/4LnUvGfcuGGLUJlbhyGdbT) | [Piped Up](https://open.spotify.com/album/6A5h55koyHURPDUiyKJyjL) | 2:15 | 2022-04-29 | 2022-05-14 |
 | [Pissy Staircase](https://open.spotify.com/track/33Sm6eEycxZFfL28c2ST7G) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Noon Yung](https://open.spotify.com/album/2mkGqQ4l5StfHz9vCV68pI) | 3:18 | 2022-03-25 | 2022-04-20 |
@@ -584,7 +585,7 @@
 | [TO THE MOON \- Gunna Remix](https://open.spotify.com/track/2Ku7Iz5iUtukULZ229KUYx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON \(Gunna Remix\)](https://open.spotify.com/album/22kFib1oYf4AKUVTu3cORk) | 2:46 | 2022-03-25 | 2022-12-13 |
 | [Touchable](https://open.spotify.com/track/52vksmCPJWjIGm0JvB7aed) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Touchable](https://open.spotify.com/album/2AjObzAg4uqTZ4WNEQCHrh) | 2:02 | 2021-09-03 | 2022-03-18 |
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2021-10-18 | 2022-08-13 |
-| [Trappin n Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 |  |
+| [Trappin N Rappin \(feat\. Gucci Mane\)](https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The Secret Weapon](https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA) | 2:57 | 2023-02-17 |  |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-08-26 | 2022-09-17 |
 | [Triple S](https://open.spotify.com/track/6DaqBwun59rgzYEQROTbRv) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Triple S](https://open.spotify.com/album/0KgOD2o4Muqv2rATDeT0GK) | 2:21 | 2021-09-03 | 2022-02-28 |
 | [True Indeed](https://open.spotify.com/track/60VgKrIVA9iyq27h7PQw8H) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God](https://open.spotify.com/album/7IO9UObUD76ZCLVu3ND7tz) | 1:53 | 2022-03-25 | 2022-04-21 |

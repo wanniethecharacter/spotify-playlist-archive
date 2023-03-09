@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Hibiranran.",
+        "url": "https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184895,
+      "name": "Hibiranran.",
+      "url": "https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG"
+    },
+    {
+      "album": {
         "name": "Hikari no Niwa to Sakana no Yume",
         "url": "https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB"
       },
@@ -1898,6 +1916,24 @@
       "duration_ms": 172653,
       "name": "Symbol 2",
       "url": "https://open.spotify.com/track/6SbB3wddYrGmB6HAbzzqav"
+    },
+    {
+      "album": {
+        "name": "Taiyo to Ikaros",
+        "url": "https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx"
+      },
+      "artists": [
+        {
+          "name": "BUCK-TICK",
+          "url": "https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "Taiyo to Ikaros",
+      "url": "https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L"
     },
     {
       "album": {
@@ -3706,7 +3742,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 270666,
       "name": "\u592a\u967d\u3068\u30a4\u30ab\u30ed\u30b9",
       "url": "https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8"
@@ -3886,7 +3922,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 184895,
       "name": "\u65e5\u3005\u721b\u3005\u3002",
       "url": "https://open.spotify.com/track/3yAUqT1kBMLmfIHzKboyb9"

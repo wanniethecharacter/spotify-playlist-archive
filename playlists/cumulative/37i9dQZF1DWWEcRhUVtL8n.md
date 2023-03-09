@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: JAWNY
 
-1,497 songs - 3 day 6 hr 49 min
+1,498 songs - 3 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,7 @@
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-24 | 2022-04-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-02-13 | 2022-08-27 |
 | [Glory Days](https://open.spotify.com/track/0hKA03dkqmFmGCXaFLPHt7) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Glory Days](https://open.spotify.com/album/3LOVCfGdGh57pl2Yu6Aj5Y) | 2:25 | 2021-05-11 | 2021-10-13 |
-| [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 | 2022-12-09 |  |
+| [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 | 2022-12-09 | 2023-03-09 |
 | [Go Home!](https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Go Home!](https://open.spotify.com/album/6JDNtBDAUI8KaWT0TAqetc) | 2:41 | 2022-06-17 | 2022-07-29 |
 | [Go Slow](https://open.spotify.com/track/4h7xAelea5wqZYEmX3VtlG) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Go Slow](https://open.spotify.com/album/5Rx86muWv6pi0jv0skHRwN) | 3:20 | 2022-05-20 | 2022-07-26 |
 | [Go Wrong](https://open.spotify.com/track/75dIKJQLp0iV4q99dxxyVF) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Go Wrong](https://open.spotify.com/album/6p9iOHrUmFLFZgD1yE5EqB) | 2:23 | 2021-02-13 | 2021-06-03 |
@@ -570,6 +570,7 @@
 | [Harmless Fun](https://open.spotify.com/track/5K09SsCBHoecbMq3fUN7BW) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Harmless Fun](https://open.spotify.com/album/7utbZQTQuG0qyPxHloha0L) | 2:12 | 2022-03-04 | 2022-07-28 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-09-17 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-04-21 |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
 | [Haunted](https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Haunted](https://open.spotify.com/album/5tgF2RTf3CbJiU8GSoeUsy) | 2:53 | 2021-06-02 | 2022-04-15 |
 | [have a great day](https://open.spotify.com/track/2TmW432ldVYhIwAdJSlJEG) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [have a great day](https://open.spotify.com/album/0FOFp8kZa4HtV16w2TTqTS) | 3:22 | 2021-06-03 | 2021-10-14 |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-05-05 | 2022-04-03 |

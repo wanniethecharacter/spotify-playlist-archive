@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Hometown Heartbreak",
+        "url": "https://open.spotify.com/album/0Yl5jku0xM4HVpgDUH5zPA"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155206,
+      "name": "Carrying Your Love",
+      "url": "https://open.spotify.com/track/2LgmOV0Stq52Y25zJBhnd9"
+    },
+    {
+      "album": {
         "name": "Carrying Your Love",
         "url": "https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc"
@@ -564,10 +582,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
+    },
+    {
+      "album": {
+        "name": "Dutton Ranch Freestyle",
+        "url": "https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143787,
+      "name": "Dutton Ranch Freestyle",
+      "url": "https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh"
     },
     {
       "album": {

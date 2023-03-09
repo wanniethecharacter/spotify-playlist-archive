@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 
 > Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311 likes - 16 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,312 likes - 16 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 | 7 | [Voices Above \- Mixed](https://open.spotify.com/track/3qPZTEbn9IaGSpkqKnuPSu) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Voices Above \(Mixed\)](https://open.spotify.com/album/4pzNZx9XvntTMd56jw310j) | 2:37 |
 | 8 | [Malawi \- Mixed](https://open.spotify.com/track/1hhFXhovflUlujdSK6gN4P) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi \(Mixed\)](https://open.spotify.com/album/03k7cjCBjZz476WJIj3TCE) | 4:29 |
 | 9 | [Somebody \- Edit \- Mixed](https://open.spotify.com/track/6duhq6hnZ9L4J5p1UdSOWw) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Somebody \- Edit \(Mixed\)](https://open.spotify.com/album/4GY0a4sPN2rcanWnpBhLjy) | 3:42 |
-| 10 | [Imbongi \(feat\. Lizwi\) \- FNX Omar Remix \- Mixed](https://open.spotify.com/track/5sIsDSdlLUohJntW058ySv) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Mr Silk](https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [FNX Omar](https://open.spotify.com/artist/7MCZXlEZfm3kr22Zq6oEMp) | [Imbongi \(feat\. Lizwi\) \- FNX Omar Remix \[Mixed\]](https://open.spotify.com/album/2xKkjK5JfHgvb1Vkw9XCQc) | 6:00 |
+| 10 | [Imbongi \(feat\. Lizwi\) \- FNX Omar Remix \- Mixed](https://open.spotify.com/track/5sIsDSdlLUohJntW058ySv) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Mr Silk](https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Imbongi \(feat\. Lizwi\) \- FNX Omar Remix \[Mixed\]](https://open.spotify.com/album/2xKkjK5JfHgvb1Vkw9XCQc) | 6:00 |
 | 11 | [Another Chance \- Mixed](https://open.spotify.com/track/0M8fBKvIkci1mQuxYT5XL9) | [Kashovski](https://open.spotify.com/artist/3sQmCQTAFYhnhhoBhsv81C), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Another Chance \(Mixed\)](https://open.spotify.com/album/15E0UJiIzVgzfNcD8qwTeW) | 4:52 |
 | 12 | [Besame \- Mixed](https://open.spotify.com/track/3aKDTIMpDxCSYyrVmF0zdJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Besame \(Mixed\)](https://open.spotify.com/album/0FkLqshlspR1ZZ0eGlndLl) | 3:13 |
 | 13 | [Banho de Folhas \- Maz Remix \- Mixed](https://open.spotify.com/track/3t3HOYYUWu5I4F0ojids2U) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Banho de Folhas \- Maz Remix \(Mixed\)](https://open.spotify.com/album/2B9eubnX3Zax8esAKX2DSP) | 4:16 |

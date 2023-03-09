@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 9 hr 35 min
+100 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Big Drift](https://open.spotify.com/track/3Ymm8XLIt8AnlC2Qgzi244) | [Solar Suite](https://open.spotify.com/artist/4LDlJb5cqv2GPu0iHwdGHf) | [Club Unity](https://open.spotify.com/album/3HDugpDjGQeTw7bKzx0jQ2) | 6:11 | 2022-07-23 |  |
 | [BITM](https://open.spotify.com/track/4oHLVQOFGRkkgAgoL5qJ5F) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:09 | 2022-07-23 |  |
 | [Black Crocanti](https://open.spotify.com/track/6DbKyDluM6mT9U49GAMEOu) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Raskayu](https://open.spotify.com/album/4XO7TqzeCoSOf5xyos9xcM) | 6:15 | 2022-11-21 |  |
-| [Body Control \- Edit](https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/06b7L6PMVHt3NH9YC8PeOg) | 3:48 | 2022-07-23 |  |
+| [Body Control \- Edit](https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/06b7L6PMVHt3NH9YC8PeOg) | 3:48 | 2022-07-23 | 2023-03-09 |
+| [Body Control \- Edit](https://open.spotify.com/track/6m3lJuUb3P2JjjUE5Znn7H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/1rHuPlFH9A5f1NPgQc6o3Y) | 3:48 | 2022-11-21 |  |
 | [Bring the Future \- Queer on Acid Remix](https://open.spotify.com/track/6U3Cr5px8IqTm423qST5fO) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx), [Queer On Acid](https://open.spotify.com/artist/0E2WG1TQrgHCbMgTE4Q4oT) | [Bring the Future](https://open.spotify.com/album/6shriieluj4NRgu4IzEMtZ) | 5:01 | 2022-07-23 |  |
 | [Broken](https://open.spotify.com/track/51IwyOTRdP34qG2wdvVlkz) | [G Flame](https://open.spotify.com/artist/0wa29eaYEynKIb1pqqGZ8l) | [I Want You](https://open.spotify.com/album/1luisWuF1Jh9khS9OwcQX6) | 6:21 | 2022-07-23 |  |
 | [Can't Slo Down](https://open.spotify.com/track/1WcEiVGFqKZEf7tCDB6qWp) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [Fancy Feast](https://open.spotify.com/album/5neHT61F0lBmd0OIw4UUlw) | 6:41 | 2022-11-21 |  |

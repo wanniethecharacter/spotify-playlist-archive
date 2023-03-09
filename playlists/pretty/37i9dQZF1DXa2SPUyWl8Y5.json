@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 446550,
+  "num_followers": 446757,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGJiODE2ODgzZjI3MGZkZjI4NTQzNDExYTkwZWViODcy",
+  "snapshot_id": "MTY3NjY0NDIwMCwwMDAwMDAwMGEzZWU5ZjBhYTJhN2M4NWE2MTY3NWEzNDIwYzg5Mjcx",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "We're Back Chilling",
         "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -301,6 +301,26 @@
       "url": "https://open.spotify.com/track/1hchcXyOsDcLOM6AA0nFsx"
     },
     {
+      "added_at": "2023-03-09 00:49:00",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        }
+      ],
+      "duration_ms": 262926,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
+    },
+    {
       "added_at": "2023-01-13 13:30:00",
       "album": {
         "name": "Luna",
@@ -331,26 +351,6 @@
       "duration_ms": 329032,
       "name": "Find You Again",
       "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
-    },
-    {
-      "added_at": "2023-03-08 00:44:19",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        }
-      ],
-      "duration_ms": 262926,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Allegri",
         "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 322640,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm"
     },
     {
-      "added_at": "2023-03-08 00:44:19",
+      "added_at": "2023-03-09 00:49:00",
       "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
     },
     {
-      "added_at": "2023-03-08 00:44:19",
+      "added_at": "2023-03-09 00:49:00",
       "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
@@ -647,6 +647,26 @@
       "duration_ms": 413658,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        },
+        {
+          "name": "Rustboy",
+          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
+        }
+      ],
+      "duration_ms": 364918,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -703,26 +723,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Crescendo",
-        "url": "https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP"
-      },
-      "artists": [
-        {
-          "name": "Soul Button",
-          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
-        },
-        {
-          "name": "Rustboy",
-          "url": "https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu"
-        }
-      ],
-      "duration_ms": 364918,
-      "name": "Crescendo",
-      "url": "https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Owls (Edit)",
         "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 226014,
       "name": "Owls - Edit",
       "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
     },
     {
+      "added_at": "2023-03-09 00:49:00",
+      "album": {
+        "name": "The Selador Showcase - The Seventeenth Instalment",
+        "url": "https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "duration_ms": 433304,
+      "name": "Multiversum",
+      "url": "https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP"
+    },
+    {
       "added_at": "2023-01-13 13:30:00",
       "album": {
         "name": "Traum EP",
@@ -855,22 +871,6 @@
       "duration_ms": 257903,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-03-08 00:44:19",
-      "album": {
-        "name": "The Selador Showcase - The Seventeenth Instalment",
-        "url": "https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW"
-      },
-      "artists": [
-        {
-          "name": "Robert Babicz",
-          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
-        }
-      ],
-      "duration_ms": 433304,
-      "name": "Multiversum",
-      "url": "https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Seige",
         "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 433564,
       "name": "Seige",
       "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+      },
+      "artists": [
+        {
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "10 Years URSL - Reframed Future",
         "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 377919,
       "name": "Prelusion",
       "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
-      },
-      "artists": [
-        {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
-      },
-      "artists": [
-        {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
-        }
-      ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
     }
   ],
   "unique_name": "Beats to think to",

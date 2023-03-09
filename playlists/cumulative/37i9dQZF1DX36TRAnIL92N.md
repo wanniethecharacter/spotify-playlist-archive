@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-140 songs - 13 hr 24 min
+141 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2022-07-05 |  |
 | [Cleaning Pathes \- Original Mix](https://open.spotify.com/track/4D1IE24PxQ5QAzeqCjg3hg) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS) | [Cleaning Pathes](https://open.spotify.com/album/36I7OXm7hoOD2ovRst0GBk) | 3:59 | 2022-07-05 | 2022-07-26 |
 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 | 2022-11-25 | 2023-02-26 |
+| [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 | 2023-02-10 |  |
 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 | 2022-07-05 |  |
 | [Creatures on Acid \- Radio\-Edit](https://open.spotify.com/track/04b2DLz2SSb2VqimLvEfLs) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Creatures on Acid \(Radio\-Edit\)](https://open.spotify.com/album/6lqQURzLflCmVagXWx3Wun) | 4:30 | 2022-07-05 | 2022-07-29 |
 | [Cryptography](https://open.spotify.com/track/7l8T90bx7vHXgReTuCEJwk) | [Shadowmaw](https://open.spotify.com/artist/2r8uP2smU2xmLqLM99hXbv), [Bultech](https://open.spotify.com/artist/4puCZElml9BwUDjZYDMqDr) | [Cryptography](https://open.spotify.com/album/5XiUOiWWlJrK7KqV9oJ0dG) | 6:30 | 2022-07-05 | 2022-07-26 |
@@ -88,7 +89,7 @@
 | [Nebula](https://open.spotify.com/track/1qiwGjqqbZRspdySeVVZhQ) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Nebula](https://open.spotify.com/album/2W8ALGP69QJp6RZ6dG91iF) | 4:44 | 2022-07-05 | 2022-07-24 |
 | [Nothingness \- Original Mix](https://open.spotify.com/track/0pFes2owZmkuuYoUXWQ0pL) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Voices In My Head EP](https://open.spotify.com/album/2sngmJvA4Vz8k4GLtdwyPj) | 6:25 | 2022-07-05 | 2022-07-10 |
 | [Nova](https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Nova](https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA) | 6:16 | 2022-07-11 | 2022-08-16 |
-| [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 | 2022-07-05 |  |
+| [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 | 2022-07-05 | 2023-03-09 |
 | [Omen](https://open.spotify.com/track/4kC2zk1YArAcIq7K68EYok) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/0lStXpuiJROUxFgjRGKZOp) | 5:47 | 2022-08-15 | 2022-09-17 |
 | [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 | 2022-07-05 |  |
 | [Overlord](https://open.spotify.com/track/1EQNQoNTxAhzj62OJ6z4q9) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Overlord](https://open.spotify.com/album/0Hz3KBcbbqPFTTxC5MJRzr) | 4:15 | 2022-07-05 | 2022-07-29 |

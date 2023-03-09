@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,042 likes - 75 songs - 3 hr 30 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,043 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 23 | [Trujillana](https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA) | [Maxx Lyon](https://open.spotify.com/artist/43CU8m11gF8fr4QLTxQdfW), [Andrew Hansel](https://open.spotify.com/artist/71IPHegMvPMkqmJfNs7A4V) | [Trujillana](https://open.spotify.com/album/1wR0T66gmIx2bUtPqGRX66) | 2:00 |
 | 24 | [Cadidonia](https://open.spotify.com/track/7aGhrdyomZhRlwV1lOAs9P) | [Sr\. Funkie](https://open.spotify.com/artist/5eiKMITkmVJ07m1HoKAx3n) | [You Got Soul](https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs) | 4:30 |
 | 25 | [The Drill](https://open.spotify.com/track/0vOOiBEAu9rzPW3xVB5TbN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Drill](https://open.spotify.com/album/5KhyVUhewmJvorDj9znDrY) | 2:19 |
-| 26 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 |
+| 26 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 |
 | 27 | [Home](https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Swatkat](https://open.spotify.com/artist/5RuEvqOyramjOkUG8KwCOs), [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [Home](https://open.spotify.com/album/6zFbUrgpObUlsU9fy6ThX0) | 2:08 |
 | 28 | [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 |
 | 29 | [The Devil](https://open.spotify.com/track/3eGdnsaimgEICRRiuvhPFc) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [The Devil](https://open.spotify.com/album/2H7e6QQZZ49BkJJA8KP0bs) | 2:49 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 72 | [Murder On The Dancefloor \- Rave Edit](https://open.spotify.com/track/1Nl3LaK2B5X2y3tHJThfSA) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Murder On The Dancefloor \(Rave Edit\)](https://open.spotify.com/album/6ypShOKsNsnWNXSLYo0Qnw) | 2:57 |
 | 73 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
 | 74 | [Carol Of The Bells](https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Carol Of The Bells](https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy) | 3:27 |
-| 75 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
+| 75 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 |
 
 Snapshot ID: `MjYyNiwwYTNmYTQyOGZjMmM0NmNlZGM0M2NmMzYzYTRkZTIzYTdkZmMzZDJm`

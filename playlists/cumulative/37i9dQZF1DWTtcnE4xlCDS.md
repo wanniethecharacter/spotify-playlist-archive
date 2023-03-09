@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-113 songs - 7 hr 7 min
+114 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [THE ONE](https://open.spotify.com/track/5G7iWfLidPNFKgnq2M5Klw) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [THE ONE](https://open.spotify.com/album/0Zu5SmlTbjp1pHRbBFkcuu) | 3:33 | 2022-10-13 |  |
 | [Toarutowa](https://open.spotify.com/track/62IiUWRDn9bMQBlOo9isqZ) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0), [東雲和音\(CV:天音みほ\)](https://open.spotify.com/artist/66nXwB0bML5ETI8cGQxoNr) | [Toarutowa](https://open.spotify.com/album/3N860l8PV2gNbQO8xCjptw) | 4:42 | 2022-08-24 |  |
 | [Toarutowa \- YMCK REMIX](https://open.spotify.com/track/7EAnTPaHtQdkghGZYezG0g) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc), [東雲和音 \(CV:天音みほ\)](https://open.spotify.com/artist/0h4HUlj0WCkc6Xn4F73XIt) | [DENONBU \(AKIBA Winter Magic REMIX\)](https://open.spotify.com/album/3rtkHJ7fBqEnvZ4quYZDeB) | 5:17 | 2022-08-24 |  |
+| [Tokyo Bug Night](https://open.spotify.com/track/3AnT0YsWO6argKhlv9hkLy) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Tokyo Bug Night](https://open.spotify.com/album/1jd2RDpoewt0l8Q3YysYMp) | 3:40 | 2023-03-08 |  |
 | [touch me](https://open.spotify.com/track/1SFgbp8eEYFL0qpQQ2Th8s) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [Kakeru](https://open.spotify.com/artist/1YCPuVojgAWxLFNasG0c2T) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:17 | 2022-08-24 |  |
 | [Tsukuyomi no Dance](https://open.spotify.com/track/2dasj4hJ2o2y0yTeKBYRqH) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Tsukuyomi no Dance](https://open.spotify.com/album/1zN8mlWjSWlCJZnO2dfJyD) | 4:05 | 2022-08-24 |  |
 | [twilight](https://open.spotify.com/track/2IKnzlGIQdUShjMK42c3EM) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw), [灰島銀華 \(CV: 澁谷梓希\)](https://open.spotify.com/artist/5B4sSyRcbTVegDTQlj8aX2) | [twilight](https://open.spotify.com/album/1FMBaIsI8fM3CFBq3zjJyr) | 3:44 | 2022-08-24 |  |

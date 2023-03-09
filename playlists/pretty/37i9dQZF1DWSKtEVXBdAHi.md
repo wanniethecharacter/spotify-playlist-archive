@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,071 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,078 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 70 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
 | 71 | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Pretty Sister](https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza) | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ) | 3:15 |
 | 72 | [Teenage Minds](https://open.spotify.com/track/2anII3P3z1liigla0dKqrb) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:07 |
-| 73 | [Sun Is Shining](https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Sun Is Shining](https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ) | 3:09 |
-| 74 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
+| 73 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
+| 74 | [Sun Is Shining](https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Sun Is Shining](https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ) | 3:09 |
 | 75 | [Don't Worry \- Radio Edit](https://open.spotify.com/track/4vxjYgy7DNCWmlyyAmk3m5) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Don't Worry \(Radio Edit\)](https://open.spotify.com/album/5g7buLFGNFz9M249B13Uk5) | 3:10 |
 | 76 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 | 77 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 | 80 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 
-Snapshot ID: `MTY3ODA5NjM3NSwwMDAwMDAwMDA1MjliYjA3MDI2ZjgwMDc2MTBlMTM3MmNmMmZmNzVk`
+Snapshot ID: `MTY3ODA5NjM3NSwwMDAwMDAwMGJkM2M5YTc0NjljNjUyMWZkYTAxNGZjMmExZWVjNzBl`

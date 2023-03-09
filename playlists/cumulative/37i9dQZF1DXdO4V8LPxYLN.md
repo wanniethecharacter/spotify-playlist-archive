@@ -4,7 +4,7 @@
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 5 hr 50 min
+54 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Luciferin \- Chptr Rework](https://open.spotify.com/track/30ce3ZlH7imUmuJEjfeekg) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ), [CHPTR](https://open.spotify.com/artist/5tEKLdMk9RUCx7BfdYGJLu) | [Irradiance Reworked](https://open.spotify.com/album/7f7gr1qD6a7MZ6ZfKCv2zZ) | 7:45 | 2022-07-23 |  |
 | [Lyra II](https://open.spotify.com/track/5D0cYaBH7s9VZWsLOKfq3I) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [LYRA](https://open.spotify.com/album/5LidrbnVxn41aV9CEEtOW9) | 6:09 | 2022-07-23 |  |
 | [Max](https://open.spotify.com/track/7Dnwkdv6iM974DVBpCe7sp) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Arc Angel](https://open.spotify.com/album/2Ip5pSdQF7SGyBIAlGeIp3) | 6:06 | 2022-07-23 |  |
-| [Memories](https://open.spotify.com/track/0IuHmZobH0ypErTIG3f61X) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [Figure Jams 001](https://open.spotify.com/album/2hBVeGziq0XdoneJVUMdqr) | 5:59 | 2022-07-23 |  |
+| [Memories](https://open.spotify.com/track/0IuHmZobH0ypErTIG3f61X) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [Figure Jams 001](https://open.spotify.com/album/2hBVeGziq0XdoneJVUMdqr) | 5:59 | 2022-07-23 | 2023-03-09 |
+| [Memories](https://open.spotify.com/track/0vp83hvcmTPcjhWM2YzIRA) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [FIGURE JAMS 001](https://open.spotify.com/album/77pre9eDDlOhnxa0TQnzm3) | 5:59 | 2022-07-23 |  |
 | [Moral Blinds](https://open.spotify.com/track/1pQbz9fOGYRkCcWmy2F1k0) | [Abdulla Rashim](https://open.spotify.com/artist/4g5SU1fg3hsPo4TYJ3UEl2) | [Unanimity](https://open.spotify.com/album/2ZhR4kN2tKq1m12yK1DMqp) | 7:06 | 2022-07-23 |  |
 | [Nobody Knows The Way](https://open.spotify.com/track/6Sl24dgqGEbntTq1d39jND) | [Ness](https://open.spotify.com/artist/6k7Gdv0KGMT1P4dDUjOVSw) | [Flesh Of The Gods](https://open.spotify.com/album/1AzD2pSjyg7Hbo4QtDukkm) | 6:18 | 2022-07-23 |  |
 | [Osmosis II \- Original mix](https://open.spotify.com/track/1dnuQEAPGR0NtmH0vYoSFh) | [Hydrangea](https://open.spotify.com/artist/7gCpOCx10DYCHm2tvGjw2q) | [Osmosis](https://open.spotify.com/album/0n5eJD3gR7zykvFtjvH62O) | 7:57 | 2022-07-23 |  |

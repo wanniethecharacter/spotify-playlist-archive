@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 277501,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/1euNFApRpCYzoHV847acSa"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -8236,7 +8236,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 239835,
       "name": "I Cant Lose",
       "url": "https://open.spotify.com/track/47NGsHkkd5yiWXGkW7a5VN"
@@ -10578,7 +10578,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
@@ -13007,6 +13007,24 @@
     },
     {
       "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/07ZOStvury9KPY7oP9otNY"
+      },
+      "artists": [
+        {
+          "name": "Cadaver Ghoul",
+          "url": "https://open.spotify.com/artist/5apVcEELJhc2IUYWgklfsx"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113694,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/0qs6D3UvWDiEtkwwQ8KdhK"
+    },
+    {
+      "album": {
         "name": "NO REPLY",
         "url": "https://open.spotify.com/album/7zENMYKSNkmusqIKDblfIj"
       },
@@ -13102,7 +13120,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 69874,
       "name": "Nose Bleeds",
       "url": "https://open.spotify.com/track/3h4QCgFIKGQsjw6Z8nK5Ga"
@@ -17264,7 +17282,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"

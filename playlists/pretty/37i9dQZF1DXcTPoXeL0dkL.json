@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 171239,
+  "num_followers": 171284,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDM3Njc2MGQ5OTc4YmNkMzA1ZTBmY2ZhZDc2ZTVjOGI4",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDM2ZjdiNzUzMzIyMWY3NTc1ZWRjMzg5YjE1OTZiZTgz",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 289724,
-      "name": "Un Osito Dormilon",
-      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
+      "duration_ms": 290733,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -911,18 +911,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
-          "name": "Los Hermanos Zuleta",
-          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 299733,
-      "name": "Mi Hermano Y Yo",
-      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
+      "duration_ms": 321160,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/3dFyFNzHUjgkFf1bzjsCGz"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Los Hermanos Zuleta",
+          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
         }
       ],
-      "duration_ms": 321160,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+      "duration_ms": 299733,
+      "name": "Mi Hermano Y Yo",
+      "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
     },
     {
       "added_at": "2023-02-07 01:31:56",

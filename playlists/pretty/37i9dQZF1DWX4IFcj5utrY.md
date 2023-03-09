@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR?si=Cj1uJgn0RxqmSp7PPC\_9YA">Dwson</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X?si=uZKKyAbDSiC1pHr\_B26FZA">Lizwi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,297 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,324 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Say Yes](https://open.spotify.com/track/4z330NUfUTl4v67WZN1JPx) | [Dave Audinary](https://open.spotify.com/artist/6O7qXYxw1B8belOxZSwaNm), [Lee August](https://open.spotify.com/artist/79gWJQfQqVwM03HjPbY9k3) | [Say Yes](https://open.spotify.com/album/1sg1Rkh2CmNgs341rvKdrw) | 4:36 |
 | 50 | [Bel Mercy \(El Jefe\)](https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Bel Mercy \(El Jefe\)](https://open.spotify.com/album/326nCfRJ9TptcxiBn8cx0q) | 2:50 |
 
-Snapshot ID: `MTY3ODEwODAwNywwMDAwMDAwMDdiNTA5Mzk3NWRlYjhkNjJlNTMxY2YyNzNjYzkwYjNl`
+Snapshot ID: `MTY3ODI2NTgzMywwMDAwMDAwMDcwZGYwOWI3YzI1YWM0ODBhY2ZjNmU5Nzc3OTNmMGNl`

@@ -4,13 +4,14 @@
 
 > open the pit\. cover: DRAIN
 
-76 songs - 3 hr 18 min
+77 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-24 |  |
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-24 |  |
 | [Ambivalence](https://open.spotify.com/track/2qfphPpOAkLAGr5hjBij4y) | [Sonagi](https://open.spotify.com/artist/7LMdXzRix6vqLE1PefCPAg) | [Precedent](https://open.spotify.com/album/6H7jy2vvzT4XPXC9ubX5by) | 2:20 | 2023-02-24 |  |
+| [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 | 2023-03-08 |  |
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-24 |  |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2023-02-24 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 | 2023-02-24 |  |

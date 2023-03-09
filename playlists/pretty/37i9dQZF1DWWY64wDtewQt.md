@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,586,515 likes - 98 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,594,674 likes - 98 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 74 | [Break Off](https://open.spotify.com/track/6XPPKm74soYRwfXT12ne0q) | [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Break Off](https://open.spotify.com/album/1X8zE032NzH07gte7U05Yl) | 2:27 |
 | 75 | [Night Drive](https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet) | [Digma](https://open.spotify.com/artist/4yoc4oFXtddeMUM0IPPr4a), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Night Drive](https://open.spotify.com/album/4KfiISrF4UYPIhPLvJsIjI) | 2:47 |
 | 76 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
-| 77 | [Poltergeist](https://open.spotify.com/track/61gGD55RS6Rje0t4GdaoAg) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw) | [Poltergeist](https://open.spotify.com/album/2gkmRcYE4SnSz2rnSm6eSy) | 2:25 |
+| 77 | [Poltergeist](https://open.spotify.com/track/61gGD55RS6Rje0t4GdaoAg) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Poltergeist](https://open.spotify.com/album/2gkmRcYE4SnSz2rnSm6eSy) | 2:25 |
 | 78 | [ARCHANGEL](https://open.spotify.com/track/2C38tr7Qwrum8WJLnFnGVf) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [ARCHANGEL](https://open.spotify.com/album/4iLY9g8XHuDqIv5DHneCBo) | 2:48 |
 | 79 | [medusa!](https://open.spotify.com/track/0V1nzshK4HW8wSI8q2Nymz) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [medusa!](https://open.spotify.com/album/09HZNB7tcsqtCAJLOjj4yf) | 1:41 |
 | 80 | [Última Oportunidad](https://open.spotify.com/track/7pGYJmXcbTUvi44NfWTHNW) | [2upset2die](https://open.spotify.com/artist/2FKMAqbGxL3ovpvHhV0JSs), [KEMPERMANE](https://open.spotify.com/artist/4WxFcgkVJwMKBZEWUpdTcI) | [Última Oportunidad](https://open.spotify.com/album/47HIa7RkALEnFUGwixQcZz) | 2:08 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 82 | [Twilight](https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/44NnM38oAf0i0gWqkVVA1x) | 1:56 |
 | 83 | [PARANOIA](https://open.spotify.com/track/5L5p2rCrrqXKLdK4mTXpAt) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [PARANOIA](https://open.spotify.com/album/1aktZT8x9yyZ3z8Y3H0gul) | 1:56 |
 | 84 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 |
-| 85 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
+| 85 | [ANUBIS](https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [ANUBIS](https://open.spotify.com/album/32ZaJnILSwK9EKayZbZMmr) | 2:11 |
 | 86 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 |
 | 87 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 |
 | 88 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |

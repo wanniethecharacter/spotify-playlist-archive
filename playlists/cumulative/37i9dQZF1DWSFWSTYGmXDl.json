@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Alone on Christmas Eve",
+        "url": "https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136212,
+      "name": "Alone on Christmas Eve",
+      "url": "https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7"
+    },
+    {
+      "album": {
         "name": "Alone On Christmas Eve",
         "url": "https://open.spotify.com/album/4GqryIZs95P5M0oI2Mg638"
       },
@@ -284,7 +302,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 136212,
       "name": "Alone on Christmas Eve",
       "url": "https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K"

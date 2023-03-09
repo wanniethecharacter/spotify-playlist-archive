@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Whatever The Weather on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,345 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,428 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 76 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Together Is A Beautiful Place To Be \(Nala Sinephro Remix\)](https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr) | 2:27 |
 | 77 | [Europa](https://open.spotify.com/track/5ZIIrT864xaNSNiAlKECIX) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Moons of Jupiter](https://open.spotify.com/album/59KUVS7yqnphA6QLUczhKu) | 4:03 |
 | 78 | [Washed Out](https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 1:47 |
-| 79 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 |
+| 79 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
 | 80 | [Abandoned Ship](https://open.spotify.com/track/7salnhMkybwLKwmyOMnlyD) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft](https://open.spotify.com/album/2IeXuOg0uD7WDR7RsCsMOI) | 3:44 |
-| 81 | [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 |
+| 81 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 |
 | 82 | [Follower](https://open.spotify.com/track/4P6pUEL57ZUJElgzM1EQE2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Follower](https://open.spotify.com/album/0Yz7gx5EnZuO7H3tTX1mya) | 5:03 |
 | 83 | [Of Woods and Seas](https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:25 |
 | 84 | [Myfanwy \- Ambient Mix](https://open.spotify.com/track/0eVZZGq7eM6VlkRJSeSmY5) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Myfanwy \(Ambient Mix\)](https://open.spotify.com/album/4Q0ZB1THID7YteRQSEfH4p) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 |
 | 100 | [Like We Were Dreaming All This Time, Pt\. 1](https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 2:45 |
 
-Snapshot ID: `MTY3NzgxNzc4NiwwMDAwMDAwMDYxMWRjYjU4OGEzZWEyMjAwZTBlYTNjMGZlNmZkNWI0`
+Snapshot ID: `MTY3NzgxNzc4NiwwMDAwMDAwMDhiMWVkMzEzZTQ5NjE0NTA3Njk5ZmRlN2FjMmEwZmQw`

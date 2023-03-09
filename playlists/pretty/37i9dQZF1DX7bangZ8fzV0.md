@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU?si=e8cd7Gk0S7mpByE8y5qgXA">Elizma Theron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,681 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,716 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

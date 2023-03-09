@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Nehaal Naseem
 
-385 songs - 20 hr 57 min
+386 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,8 @@
 | [Paharhon Mein](https://open.spotify.com/track/3NaJ0ZxYCbj5T6mkyJpuAe) | [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Paharhon Mein](https://open.spotify.com/album/22ISgT44pipHPaB5Jece5n) | 4:01 | 2023-01-25 |  |
 | [Pal](https://open.spotify.com/track/3tI0Euz64BIr3kgDog50fD) | [Ushbah](https://open.spotify.com/artist/655QV8PO7Uw4h4a80ILziZ), [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR) | [Pal](https://open.spotify.com/album/2JuLq3eGmmx1C9vW1DWjxY) | 2:52 | 2022-10-26 | 2022-11-18 |
 | [paraya](https://open.spotify.com/track/274zwziudqNmktxN4XidD8) | [Haider Omar](https://open.spotify.com/artist/3IMy2LO7SvsZRz9xwa309o) | [paraya](https://open.spotify.com/album/0QPe9vgRdwCUBUXkLqQwfg) | 3:25 | 2022-11-17 | 2022-12-01 |
-| [Parday!](https://open.spotify.com/track/7Dzi4HBEIT6NQfF2oAnFu1) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday!](https://open.spotify.com/album/5VCewQx3p8nQx7M7b9Dn8E) | 3:20 | 2023-01-10 |  |
+| [Parday !](https://open.spotify.com/track/6BHo4ppR8EIAbL4ZEMg3Sv) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday !](https://open.spotify.com/album/3RTbSVCCEM2iOgWRgVIrlJ) | 3:20 | 2023-02-21 |  |
+| [Parday!](https://open.spotify.com/track/7Dzi4HBEIT6NQfF2oAnFu1) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parday!](https://open.spotify.com/album/5VCewQx3p8nQx7M7b9Dn8E) | 3:20 | 2023-01-10 | 2023-03-09 |
 | [Pari](https://open.spotify.com/track/3iNhwts8LRyjumzGa586T8) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Pari](https://open.spotify.com/album/5ZPVCODvolIQGprQJ2hvn7) | 2:48 | 2023-01-10 | 2023-02-14 |
 | [Parinday](https://open.spotify.com/track/2SpdhtlIioMnIvtB5QHtoC) | [Asad Farooqui](https://open.spotify.com/artist/0OkmwgWURKfXosyChuo9Kj) | [Parinday](https://open.spotify.com/album/2pzGbUC9jJnTKusb2Xmws7) | 2:23 | 2022-10-26 | 2022-11-18 |
 | [Passion](https://open.spotify.com/track/6ZVmg0Nhfziqb5SDpbzlZo) | [Aash Rohan](https://open.spotify.com/artist/51KCTzPrYvC62BSQ8AZEvA) | [Passion](https://open.spotify.com/album/3kFNX5wRXckkjDpBqbHyIf) | 3:28 | 2022-10-26 | 2022-11-18 |

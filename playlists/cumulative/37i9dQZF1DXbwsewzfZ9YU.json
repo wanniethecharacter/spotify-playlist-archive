@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Apology Denied",
+        "url": "https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB"
+      },
+      "artists": [
+        {
+          "name": "Bad Blood",
+          "url": "https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141054,
+      "name": "Apology Denied",
+      "url": "https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ"
+    },
+    {
+      "album": {
         "name": "Attainable",
         "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
       },

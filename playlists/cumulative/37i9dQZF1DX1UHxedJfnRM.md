@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Daniela Darcourt
 
-126 songs - 9 hr 26 min
+127 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/track/28BdtXblzpFirMnFIuMKFC) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/album/3Bz9rTrpsFUF1OcALYiroo) | 5:37 | 2022-05-13 | 2023-02-04 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-13 |  |
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-05-13 |  |
-| [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 | 2022-05-13 |  |
+| [No Sé](https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5) | 4:06 | 2023-03-03 |  |
+| [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 | 2022-05-13 | 2023-03-09 |
 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 | 2022-07-15 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/62vIBUC9hTfE4nlT3x90uH) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/2X1vTnHXphROBoaIxomDL3) | 4:38 | 2022-05-13 | 2022-07-29 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/6pYclaUw0Iy0vjwYPiW5Eu) | 4:32 | 2022-07-15 | 2022-09-21 |

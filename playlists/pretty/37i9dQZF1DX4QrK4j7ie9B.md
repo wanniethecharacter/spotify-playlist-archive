@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,519 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,578 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 41 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 |
 | 42 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:19 |
 | 43 | [Janus](https://open.spotify.com/track/0T6iG7zZ3nkarBYQG1BI7t) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Light Between Oceans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uPAxbU4uJHQpTUJsEiNgr) | 1:48 |
-| 44 | [Too Soon](https://open.spotify.com/track/4tHgc1wzy1DovlUbgyb0kt) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/0AxbzEy4aIzEiY7zaUbMhb) | 4:03 |
+| 44 | [Too Soon](https://open.spotify.com/track/1hlehqO6Po7esrHu0vi9Di) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/300dan74UOvzoVEVeS6iNW) | 4:03 |
 | 45 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/4FLtKRreqGXZNZFs0XKdvH) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/3UWIf4RkDckggS5pkfzmi9) | 1:36 |
 | 46 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
 
-Snapshot ID: `MTY2NDU0NDE5NywwMDAwMDAwMDZjNmI3ZjUwNWFjYWUzMzc5NGQ1YTEyY2JiNjM2MTQ4`
+Snapshot ID: `MTY2NDU0NDE5NywwMDAwMDAwMDg5MGNlYjYxM2JhNjQwMTA3NmU4OGU1OWRmY2E2NmFi`

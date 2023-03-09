@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: RBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,489 likes - 94 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,530 likes - 94 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=sQ87jc2iSR6nDQ6ak2mC9g">Myztro</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g?si=IJIKRp1XRkerHVpl9yUFxQ">TxC</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,211 likes - 50 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,959 likes - 50 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 36 | [Mama](https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Mama](https://open.spotify.com/album/2lc6GfPXhRMVrJsBKq1WjU) | 7:30 |
 | 37 | [Izono](https://open.spotify.com/track/4BIGl9cDzyw1znsjRytGLd) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 9:20 |
 | 38 | [Thula](https://open.spotify.com/track/01OykvFNn1Zya7baEJcu1i) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [KNOWLEY\-D](https://open.spotify.com/artist/4tY3pt1z6b3I5pdcROYVEV) | [Thula](https://open.spotify.com/album/5ZJVCllcKDb3oKvLG9lFUz) | 6:19 |
-| 39 | [Ndoni Ya Manzi](https://open.spotify.com/track/3PYDa2SzYYJLksXParXBYJ) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Nkosazana\_Daughter](https://open.spotify.com/artist/2KFBgdGWpDd7guvNqILGoE), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Marcus MC](https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf) | [Ndoni Ya Manzi](https://open.spotify.com/album/5JFoFsU0YGYP9RxDsCPUxF) | 6:58 |
+| 39 | [Ndoni Ya Manzi](https://open.spotify.com/track/3PYDa2SzYYJLksXParXBYJ) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Marcus MC](https://open.spotify.com/artist/5LeS8sVgl3TCntQM7TVAHf) | [Ndoni Ya Manzi](https://open.spotify.com/album/5JFoFsU0YGYP9RxDsCPUxF) | 6:58 |
 | 40 | [Washaaa](https://open.spotify.com/track/1PN9qUEsfYzf8r9Av4uafK) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [Washaaa](https://open.spotify.com/album/6RJhFR9kHnb8iDHec21Uop) | 6:56 |
 | 41 | [Duck Vibes](https://open.spotify.com/track/2KmV9CPGwUBwGRLSoiI4tX) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/6dyYGodC0Hwf7MXcjengzC) | 6:27 |
 | 42 | [Area 41](https://open.spotify.com/track/4KQkNM66fzKYNKN3Dlp3ri) | [Ice Beats Slide](https://open.spotify.com/artist/7mCHXCZogKSjmhJlX0sls0), [Sbuda Maleather](https://open.spotify.com/artist/7iM2Fx60LL4bRIZ9IqOF7O) | [Area 41](https://open.spotify.com/album/3jzdDsqifVtQ0nmsUrtrBJ) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Krueger 2.0](https://open.spotify.com/track/5WqHutOc180qYRh2J97LB7) | [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Cooper SA](https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [The Other Side Of Me](https://open.spotify.com/album/2GMoEFCKhiTKPhq56QcP5l) | 5:42 |
 | 50 | [Terminator](https://open.spotify.com/track/7mtYB1ZJUfPYryYdNBJx6S) | [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe), [Cloud9ne](https://open.spotify.com/artist/4US1sAYad203m0GNVxgJUi) | [Terminator](https://open.spotify.com/album/6pEtfJgtdASMCGVSiUiLZS) | 6:00 |
 
-Snapshot ID: `MTY3ODA5NTI3NCwwMDAwMDAwMGJkZDk4MzBlMWYyNTllNjkwMTc4NjdhOGIwZWRkMjA3`
+Snapshot ID: `MTY3ODI2NTM2MSwwMDAwMDAwMDM0MzY3MjUwZTk2MzI0OGZkNzEyYWEzYzMyMjM2ZGFl`

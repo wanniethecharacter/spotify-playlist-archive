@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,645 likes - 39 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,653 likes - 39 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 38 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 | 39 | [Patience](https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Unrest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr) | 3:47 |
 
-Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDBjMWI0MDA5ZjRjYTBiZDkzNGM0YTNjYjE5ZjgyZTUwOA==`
+Snapshot ID: `Mjc5NzE1NDksMDAwMDAwMDAxZWIxY2VhN2Y5YjRkYmYyMDkxNjg2NWY0MTNkZjM1Mg==`

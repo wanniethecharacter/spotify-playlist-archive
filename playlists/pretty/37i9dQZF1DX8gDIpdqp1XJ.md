@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,587 likes - 101 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,947 likes - 101 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Waiting](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Waiting](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 |
-| 2 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
-| 3 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
-| 4 | [Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:32 |
-| 5 | [threethou \- latenight](https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Count Draco](https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [threethou \(latenight\)](https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy) | 1:20 |
-| 6 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 |
-| 7 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
-| 8 | [cold](https://open.spotify.com/track/22hZGv1zyCAmO4WJDZPfvm) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:31 |
-| 9 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
-| 10 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 |
+| 1 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
+| 2 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
+| 3 | [Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:32 |
+| 4 | [threethou \- latenight](https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Count Draco](https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [threethou \(latenight\)](https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy) | 1:20 |
+| 5 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 |
+| 6 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 7 | [cold](https://open.spotify.com/track/22hZGv1zyCAmO4WJDZPfvm) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:31 |
+| 8 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
+| 9 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 |
+| 10 | [Waiting](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Waiting](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 |
 | 11 | [Sunshine](https://open.spotify.com/track/6BmOUlxE0nuvMgpizNfehS) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 2:56 |
 | 12 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 |
 | 13 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 100 | [Green Again](https://open.spotify.com/track/2w2iYbQq4HjDw1kraCnDDA) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [Green Again](https://open.spotify.com/album/1djc8byesAMHdmPQnezRjz) | 4:48 |
 | 101 | [Then Leave](https://open.spotify.com/track/4V0N4RO5HampcPLYpUwJK9) | [Jacob Chatelain](https://open.spotify.com/artist/7hqvVXvpltopYfz6SjwPhk) | [Then Leave](https://open.spotify.com/album/3kZNRD0GaK65dYFaZ5bEJ7) | 3:19 |
 
-Snapshot ID: `MTY3ODIwNjM0NCwwMDAwMDAwMDMzNGQ5NTEzOGNiZmIxZGYwMTBlMzA1MjU2ZDA3YjBj`
+Snapshot ID: `MTY3ODI5MzAwMSwwMDAwMDAwMGFkM2Q3MGE5Y2FiZDBhYmM2YzdiYmFjZjRmYTlmMjM5`

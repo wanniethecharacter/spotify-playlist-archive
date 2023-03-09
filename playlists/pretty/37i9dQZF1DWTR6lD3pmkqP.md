@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,359 likes - 250 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,452 likes - 250 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 11 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 |
 | 12 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 |
 | 13 | [I Wanna Ride You](https://open.spotify.com/track/1zJDoUYkc0nEE0uCeWOphX) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Uninvisible](https://open.spotify.com/album/0Vq79tx5GtV8hxrTccSguA) | 3:28 |
-| 14 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
-| 15 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 |
+| 14 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 |
+| 15 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 |
 | 16 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 |
 | 17 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 18 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 37 | [Inner Flight](https://open.spotify.com/track/6rVuKqp5t2mvQl3f8QCUM9) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [Junius Paul](https://open.spotify.com/artist/7uYN2Nicm0iB7fMHiQFS4j), [Tomeka Reid](https://open.spotify.com/artist/5BYb6lSKPnjRSjKUHaMkWS), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Universal Beings](https://open.spotify.com/album/07t71VgFZkSmrSYdUKmuHI) | 3:02 |
 | 38 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 |
 | 39 | [Signal from the Noise](https://open.spotify.com/track/4K6Ns8QEIQJ8UH9QHEoFRS) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 9:02 |
-| 40 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 |
-| 41 | [Run Outs](https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:52 |
-| 42 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 |
+| 40 | [Run Outs](https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:52 |
+| 41 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 |
+| 42 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 |
 | 43 | [And for My Next Trick](https://open.spotify.com/track/4WtfqrfbjKe8A8gEk5IAnY) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Scrambled Eggs 2](https://open.spotify.com/album/4D2wf7o0bHcUWUDqdnkjpr) | 2:43 |
 | 44 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 |
 | 45 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 |
@@ -144,9 +144,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 134 | [The Way Up: Opening & Part One](https://open.spotify.com/track/3qOcCkIbkQdSmgydk3BMH6) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [The Way Up](https://open.spotify.com/album/4QhHJZxGczkO6gRKLyQKB6) | 31:44 |
 | 135 | [Adrian, Ali and Gregory](https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ) | 2:23 |
 | 136 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 |
-| 137 | [When Will I See You Again?](https://open.spotify.com/track/7Aw96tEdt9BhDBU8PFSgXN) | [Idris Ackamoor](https://open.spotify.com/artist/5364PA7k8ziFDp6SME0c4Y), [The Pyramids](https://open.spotify.com/artist/3kCWVwcSSSggzNsjm8a6h2) | [Shaman!](https://open.spotify.com/album/22uzh695wKuAj2UpfnqR5G) | 7:54 |
-| 138 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 |
-| 139 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 |
+| 137 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 |
+| 138 | [Angel Feed](https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO) | [Yard Nule](https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq) | [Angel Feed](https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP) | 4:20 |
+| 139 | [When Will I See You Again?](https://open.spotify.com/track/7Aw96tEdt9BhDBU8PFSgXN) | [Idris Ackamoor](https://open.spotify.com/artist/5364PA7k8ziFDp6SME0c4Y), [The Pyramids](https://open.spotify.com/artist/3kCWVwcSSSggzNsjm8a6h2) | [Shaman!](https://open.spotify.com/album/22uzh695wKuAj2UpfnqR5G) | 7:54 |
 | 140 | [Triceratops / The Caller](https://open.spotify.com/track/1DXrHK5VDk1GPW5j1aQlrP) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/5rAMFNRPhYbuunjpa96flo) | 5:15 |
 | 141 | [Lina](https://open.spotify.com/track/79xcRg7hGlIKAJ3Tk1qiJJ) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Nadi](https://open.spotify.com/album/1mmaYhySbmvhqSbLb1YNEq) | 5:38 |
 | 142 | [Oni](https://open.spotify.com/track/2fU8bwQtPJyAHuw6QpSjPN) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni / Lantern](https://open.spotify.com/album/7GJKVke6czVnfjIee76TYz) | 6:36 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Actual Proof](https://open.spotify.com/track/4Iilbf7sqOuxzAmt08j9Lk) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Actual Proof](https://open.spotify.com/album/1BKVI6Z8oknAjK1gHFUJ7G) | 3:21 |
 | 250 | [Move](https://open.spotify.com/track/3HYCr4XXLZxMBqNQOvFNFR) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Move](https://open.spotify.com/album/0ylSLXxWjDXyvz2ghDuLeA) | 6:42 |
 
-Snapshot ID: `MTY0ODc4NTY2MCwwMDAwMDAwMDRhZGEwY2NkMGNjNDI0Zjg2M2EyYTJiYTFkYzIzNmU1`
+Snapshot ID: `MTY0ODc4NTY2MCwwMDAwMDAwMGU3MzVlZmNiZjEwNzQ2MjI4NmVlNzRhOGJkMDQ0MDdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,127 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,155 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/track/5VXX29Dqo6mw7kVBNnsign) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/album/5sJ2Np67hSxgRHOwvBPB1Z) | 3:48 |
 | 50 | [Disturbance \(feat\. Peruzzi\)](https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:39 |
 
-Snapshot ID: `Mjc5Njk4NzcsMDAwMDAwMDA4NTMxNDY1YmI5YjAwNjI1NTA3YWJjYTYwZTk3NjhlZQ==`
+Snapshot ID: `Mjc5NzE1NDgsMDAwMDAwMDA1ODZiYzc4Y2E5YTQ5MTRjNjE1YTE0NGM1ZTU4OTcxZQ==`

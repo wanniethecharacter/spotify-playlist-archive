@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-151 songs - 14 hr 27 min
+155 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 |  |
 | [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 | 2022-10-15 |
 | [feel it yah](https://open.spotify.com/track/5qc24f2cFSzQybTHdnq6NQ) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/2CzGwKbrawnjD37y7HTrL9) | 4:06 | 2022-10-13 |  |
-| [Feel the Same \- Edit](https://open.spotify.com/track/64TlZdKnvGP5y7naWW0YQl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Feel the Same \(Edit\)](https://open.spotify.com/album/11B1LZprXYVd6DTI60U80H) | 3:44 | 2022-09-15 |  |
+| [Feel the Same \- Edit](https://open.spotify.com/track/0XzOoAXFwlJ9HABK13SvyE) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [City of All](https://open.spotify.com/album/4SGcWgxpJ0rsBtBXbuQEZg) | 3:44 | 2023-02-27 |  |
+| [Feel the Same \- Edit](https://open.spotify.com/track/64TlZdKnvGP5y7naWW0YQl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Feel the Same \(Edit\)](https://open.spotify.com/album/11B1LZprXYVd6DTI60U80H) | 3:44 | 2022-09-15 | 2023-03-09 |
 | [Feel Your Touch \- Jimpster Remix](https://open.spotify.com/track/0Fn9ZM9zL45U8bF1O4pFa9) | [Jon Dixon](https://open.spotify.com/artist/7g9cSQt42L38ryYcG475eq), [L'Renee](https://open.spotify.com/artist/14jYxAg6EAAQjrRX5jcXGo), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Vocal Sessions Vol.1](https://open.spotify.com/album/3z6LcAHxkmf9u84WrQU3vp) | 6:48 | 2022-09-15 |  |
 | [Floating](https://open.spotify.com/track/7bMytRkSbif4ep0bbm2dgA) | [Pitto](https://open.spotify.com/artist/4qGSmvW1ZXE9qeXUdoFuTG) | [The Young Ones EP](https://open.spotify.com/album/5zJbLbWnj2LUvTDvPXVFXD) | 4:39 | 2022-09-15 |  |
 | [For Friends](https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [For Friends](https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS) | 6:36 | 2022-09-15 |  |
@@ -77,7 +78,8 @@
 | [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 | 2022-10-06 |  |
 | [Lecture Day](https://open.spotify.com/track/6sMBkOWMJbDmii1r58P32I) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [Lecture Day EP](https://open.spotify.com/album/07WAV8w7gtmYnvgBobXozj) | 6:34 | 2022-09-15 | 2023-01-13 |
 | [Let Go](https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Let Go](https://open.spotify.com/album/0Z1WHrjtdt8oCjEQrgIf1e) | 3:44 | 2022-10-13 |  |
-| [Lifted](https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun EP](https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi) | 6:56 | 2022-09-15 |  |
+| [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 | 2023-02-27 |  |
+| [Lifted](https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun EP](https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi) | 6:56 | 2022-09-15 | 2023-03-09 |
 | [Like That](https://open.spotify.com/track/0h7sggAJvhPkf7znFFxBF9) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Like That](https://open.spotify.com/album/2JKZyi8XcLI9nftHmicdr3) | 3:35 | 2022-09-15 |  |
 | [Lose Yourself](https://open.spotify.com/track/0MSuNP3R7SziYnf8Ve4Hdl) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Lose Yourself](https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN) | 3:10 | 2022-09-15 |  |
 | [Machali \- Original Mix](https://open.spotify.com/track/6V3OSf0lvxS7eTOt0gNGol) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx) | [Machali](https://open.spotify.com/album/04g6jEQ8uBbyizG5nSRtUj) | 6:32 | 2022-09-15 | 2023-01-13 |
@@ -86,7 +88,8 @@
 | [Mine Today](https://open.spotify.com/track/2kGKIrF61uP16n3GZIxjhg) | [Ant Klent](https://open.spotify.com/artist/0hCde7rh0vBLfMlsehLSGr) | [Mine Today EP](https://open.spotify.com/album/5bY9SLu6llEvhHPCVubMVx) | 6:03 | 2022-09-15 |  |
 | [Missing Chant](https://open.spotify.com/track/4nFjj8udiowsNZdJLt4sy2) | [Wendel Sield](https://open.spotify.com/artist/0wAIGy1x2050z4sUa0nKTe) | [Entity](https://open.spotify.com/album/6uatIrCbBoT6zYBOqJ3HpO) | 7:21 | 2022-09-15 |  |
 | [Monogold](https://open.spotify.com/track/1r64PqxyfuvK3mMW7MYXJ6) | [Stef Rijs](https://open.spotify.com/artist/2ooCA6wOdps3usNlxjFF7E), [Daan Kemp](https://open.spotify.com/artist/6qNGwJaNbeW13ejjKHgNnE) | [Monogold](https://open.spotify.com/album/5Agvj5pxJs37AeaSMPGmmx) | 8:14 | 2022-09-15 |  |
-| [More Love \- Edit](https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/04H1Yn2xEQjaD7sdXJqJlU) | 3:39 | 2022-12-01 |  |
+| [More Love \- Edit](https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/04H1Yn2xEQjaD7sdXJqJlU) | 3:39 | 2022-12-01 | 2023-03-09 |
+| [More Love \- Edit](https://open.spotify.com/track/587merZ6HZx128D6URmP7h) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 3](https://open.spotify.com/album/2JC0aWxKNGe3pNnEWF8S6R) | 3:39 | 2023-02-27 |  |
 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 | 2022-09-15 | 2023-01-13 |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 | 2023-01-13 |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 |  |
@@ -155,7 +158,8 @@
 | [Woza](https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Linos Rosetta](https://open.spotify.com/artist/6xw7X7OPtVBwDZhFSbVMWO) | [Woza](https://open.spotify.com/album/0BKzS7GdsxwJ5m4dLwZMbg) | 4:19 | 2022-09-15 |  |
 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 | 2022-12-15 |  |
 | [Yipalo](https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088) | [Yipalo](https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9) | 5:47 | 2022-09-15 | 2023-01-13 |
-| [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 | 2022-11-10 |  |
+| [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 | 2022-11-10 | 2023-03-09 |
+| [You \- Edit](https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa) | 3:58 | 2023-02-27 |  |
 | [You Know How To Love Me](https://open.spotify.com/track/3MnU5q2VAHABSqXr6MmFjf) | [Rick Marshall](https://open.spotify.com/artist/4kEJvzNOaVpggzwGedAnwd) | [You Know How To Love Me](https://open.spotify.com/album/0KchcWFmDy8e32TQV5PVJO) | 7:10 | 2023-02-21 |  |
 | [You Want That](https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [You Want That](https://open.spotify.com/album/1inngIYvfwsxn2XQHeQf0P) | 5:52 | 2022-09-15 |  |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2022-09-15 |  |

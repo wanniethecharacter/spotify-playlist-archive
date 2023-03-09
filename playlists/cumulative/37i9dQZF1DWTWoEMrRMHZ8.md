@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Julia Mestre
 
-397 songs - 23 hr 58 min
+398 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [Não Identificado](https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf) | [Ayrton Montarroyos](https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h) | [Caetano Veloso Além do "Transa"](https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX) | 3:22 | 2021-12-24 |  |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [O Amor Em Tempos de Cólera](https://open.spotify.com/track/0lza7kmyA644A8tcbL1ZTs) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE), [Virginie Boutaud](https://open.spotify.com/artist/3lWgqQkjOSmD4T0btnkzQj) | [Será Que Você Vai Acreditar?](https://open.spotify.com/album/3CS4E5hgs9Rd1EViJ3yYy5) | 3:48 | 2021-12-24 | 2022-08-12 |
-| [O Caderno](https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [O Caderno](https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH) | 2:42 | 2022-10-14 |  |
+| [O Caderno](https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:42 | 2023-03-03 |  |
+| [O Caderno](https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [O Caderno](https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH) | 2:42 | 2022-10-14 | 2023-03-09 |
 | [O Calor Tá De Matar](https://open.spotify.com/track/0X86qJq8DTShGcsTgUnK5w) | [Bernardo Valença](https://open.spotify.com/artist/2b7OB2l6CqyJtmCmj4FgdC) | [O Calor Tá De Matar](https://open.spotify.com/album/0vsZ9pFRetnUSoOZq5C0lm) | 2:36 | 2022-06-17 | 2022-06-25 |
 | [O futuro é mais bonito](https://open.spotify.com/track/10iqODY9yNkOwwHMhZPLL9) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O futuro é mais bonito](https://open.spotify.com/album/2plCYji1S7EECkKDwlRO8J) | 2:47 | 2023-02-22 | 2023-02-25 |
 | [O futuro é mais bonito](https://open.spotify.com/track/78rQDtMIMwMT9KGxGX4CmS) | [Anna Setton](https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L) | [O Futuro é Mais Bonito](https://open.spotify.com/album/37jrPNa128mZXr7XpnY7Lo) | 2:47 | 2023-02-22 |  |

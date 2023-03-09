@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lvra #IWD2023",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lvra",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 186750,
       "name": "BARFIGHT!",
       "url": "https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 150834,
       "name": "Black Punk",
       "url": "https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 183211,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 191352,
       "name": "Bull",
       "url": "https://open.spotify.com/track/1HdovCicIl6icinsOlrpqz"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 159110,
       "name": "Count of three (You can eat $#@!)",
       "url": "https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 284880,
       "name": "Crossing Guard",
       "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 178730,
       "name": "Cut It",
       "url": "https://open.spotify.com/track/380qafcE09hZXE5g5ubju9"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 167684,
       "name": "DEATHWISH",
       "url": "https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 145655,
       "name": "DEMONWHORES!",
       "url": "https://open.spotify.com/track/6t6pWJtbDZvaHaR6upvZbV"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 173126,
       "name": "DEUX AMANTS MORT",
       "url": "https://open.spotify.com/track/6KoDCpiZlfb4mqCyWBPIkW"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 209811,
       "name": "F**k Em Up",
       "url": "https://open.spotify.com/track/7pY3nKPA7S5U2rNQjQwamU"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 166588,
       "name": "fall out",
       "url": "https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 140146,
       "name": "GHOST*",
       "url": "https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi"
@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 180088,
       "name": "GO!",
       "url": "https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 212706,
       "name": "God Is a Circle",
       "url": "https://open.spotify.com/track/3Ym2LEWrSJyvxjfYTmshCS"
@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Heaven Surrounds Us Like a Hood",
       "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 116000,
       "name": "K.K.O",
       "url": "https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 257125,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 141032,
       "name": "Loathe",
       "url": "https://open.spotify.com/track/06lunGWo5mSF7wdERI8jh4"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 187755,
       "name": "LOTTO BOY",
       "url": "https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i"
@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 87672,
       "name": "M'Lady",
       "url": "https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9"
@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
@@ -5284,7 +5284,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 133548,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w"
@@ -5440,7 +5440,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 105360,
       "name": "My Mother Wants Me Dead",
       "url": "https://open.spotify.com/track/04rzwxnFGsFYeP3rqE1s3U"
@@ -5494,7 +5494,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 150040,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/2Smp3Fk79CMuvll4TBm999"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 168138,
       "name": "nethertoxin",
       "url": "https://open.spotify.com/track/33Wbg8mYMOd5wzWEDwxSrD"
@@ -6630,7 +6630,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 179228,
       "name": "RELOAD! (feat. WHOKILLEDXIX)",
       "url": "https://open.spotify.com/track/10uAw1klN0sgtH8WLoAjHY"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 151250,
       "name": "say what u mean (with Riovaz)",
       "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
@@ -6988,7 +6988,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 178486,
       "name": "Seventy Thorns (feat. Jonathan Davis)",
       "url": "https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1"
@@ -7060,7 +7060,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
@@ -7262,7 +7262,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 237677,
       "name": "SO DUMB",
       "url": "https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG"
@@ -7346,7 +7346,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -7526,7 +7526,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "SuperVillain Origin Story",
       "url": "https://open.spotify.com/track/4BNU2dQZoERjlDiiMNeZhZ"
@@ -7732,7 +7732,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 114461,
       "name": "The Industry (don't care)",
       "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
@@ -7750,7 +7750,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "The Lightless Flame",
       "url": "https://open.spotify.com/track/1QaipVOgrXz7ZSYxQX3HL2"
@@ -8138,7 +8138,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 177800,
       "name": "Unholy (feat. Kim Petras) - Nova Twins Remix",
       "url": "https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX"
@@ -8424,7 +8424,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 160600,
       "name": "Weaponize This",
       "url": "https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk"
@@ -8752,7 +8752,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 114342,
       "name": "You & I",
       "url": "https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83"
@@ -8842,7 +8842,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "yum yum",
       "url": "https://open.spotify.com/track/2SSg7q4KmjPAy3QV50X2Qe"

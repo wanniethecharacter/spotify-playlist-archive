@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: msftz\(미스피츠\)\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: YUJU\(유주\)\)\) \(당신의 감성에 발라드, 려요\)
 
-806 songs - 2 day 4 hr 28 min
+812 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Good Night My Princess](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:52 | 2022-07-12 | 2022-10-15 |
 | [Goodbye](https://open.spotify.com/track/35CDs1dRAQHET3C3L8pC1s) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Goodbye](https://open.spotify.com/album/2yqXymIotLIx9BCuRIAWFU) | 2:56 | 2023-02-24 |  |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-12 | 2022-12-27 |
+| [Goodbye](https://open.spotify.com/track/1OiEPqyXySjkNUI1tJh6Co) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 3](https://open.spotify.com/album/44MwTsm5qtduvhuPc8HfQt) | 3:54 | 2023-03-08 |  |
 | [Goodbye the days I loved](https://open.spotify.com/track/6rYTjMqLaNbAGsXzAF71ZJ) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Bravo, My Life OST Part.13](https://open.spotify.com/album/7bsu6IMlTFbT6jiLejhAz3) | 3:46 | 2022-07-07 | 2022-08-02 |
 | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/track/6qD8OvBNgiIZ7faV9zlgok) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Goodbye To Romance\(MINSEO X Kim Eana Project\)](https://open.spotify.com/album/7rbY1TxXwT3JUEefNPSZS4) | 4:25 | 2022-12-26 | 2023-02-25 |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
@@ -424,6 +425,7 @@
 | [Love is over](https://open.spotify.com/track/2eJC2xIN25ZuitoeyUjvZq) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Love is over](https://open.spotify.com/album/33mp1igqC6BBqyPBmw0utT) | 3:43 | 2023-02-24 |  |
 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 | 2022-08-25 | 2022-12-27 |
 | [Love me](https://open.spotify.com/track/32VayAJzZV1KsZ248nhZPm) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Reborn Rich OST Part\. 7 \(Soundtrack\)](https://open.spotify.com/album/6zIIYOO2PQm4EEs6Z3N99N) | 3:55 | 2023-01-10 | 2023-02-25 |
+| [Love Me Like Before](https://open.spotify.com/track/1nsGjQ2IXxCjqDo4efzlgA) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20) | 3:57 | 2023-03-08 |  |
 | [Love Message](https://open.spotify.com/track/1Y6W3Q07asHeQtXCBDAOrT) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Love Message](https://open.spotify.com/album/5tJH4tWyWLtLEG1X6EVBtU) | 3:53 | 2022-02-10 | 2022-02-24 |
 | [Love poem](https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) | 4:18 | 2021-12-20 | 2022-07-08 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-07-07 | 2022-08-13 |
@@ -611,6 +613,7 @@
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-23 | 2022-07-05 |
 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 | 2023-01-20 |  |
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
+| [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 |  |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
@@ -641,6 +644,7 @@
 | [That's All For Love](https://open.spotify.com/track/6j3BvfzSSUguRSaEQq6DHy) | [Lim So Jeong](https://open.spotify.com/artist/1rKpO5H62bXp1wG1A7BUKx) | [That's All For Love](https://open.spotify.com/album/0QzHFwK9z6VOjYOjtqHPTs) | 4:22 | 2023-02-24 |  |
 | [The 8th Spring](https://open.spotify.com/track/4EIKAOhDOZ1Go8JfsDkxws) | [HONG EUI JIN](https://open.spotify.com/artist/2pNw0mbkjLw3sqYDF2ltlW) | [The 8th Spring](https://open.spotify.com/album/5zJ8nbQg3P0ZLIfyKNJ8sK) | 3:50 | 2022-03-09 | 2022-04-12 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-06 |  |
+| [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 | 2023-03-08 |  |
 | [The day I loved you](https://open.spotify.com/track/6nj36TQtFifSg77vb9jAgP) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [The day I loved you](https://open.spotify.com/album/4aaxwBGN8GDlwEaxC44qzF) | 4:10 | 2021-12-23 | 2022-01-18 |
 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 0:29 | 2022-01-14 | 2022-07-02 |
 | [The Days We Loved](https://open.spotify.com/track/4cP9dl3mgXIMoX7BcXeVUe) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The World of the Married, Pt.6 \(Original Television SoundTrack\)](https://open.spotify.com/album/2CA8HkbB26gmzF1KCr5f70) | 4:01 | 2022-03-29 | 2022-04-17 |
@@ -699,6 +703,7 @@
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2021-12-20 | 2022-07-07 |
 | [U](https://open.spotify.com/track/5GpjDEuBecJskwBdyti6KU) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Songs I'll Never Sing For You Volume.1](https://open.spotify.com/album/69PXgnmyr9q4isx0cKcWBj) | 3:19 | 2022-12-27 | 2023-02-25 |
 | [U Hoo Hoo](https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Dali and Cocky Prince \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/1LRhRZYaIhHtoMOupKaZUP) | 3:20 | 2021-12-20 | 2022-07-08 |
+| [Unable to Say Goodbye](https://open.spotify.com/track/6Py7I15kNGwKA0anOBBusx) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Unable to Say Goodbye](https://open.spotify.com/album/5UiCvPlZOqnsl7hvvzp6RP) | 4:07 | 2023-03-08 |  |
 | [Unbearable Pain](https://open.spotify.com/track/41LundrJaKNT2kLlfG1ufe) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Unbearable Pain](https://open.spotify.com/album/0nBw2E2j7OlAXHh1959DW8) | 4:03 | 2022-10-04 | 2022-10-13 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2022-03-24 | 2022-04-19 |
 | [Unhateable](https://open.spotify.com/track/7oXQfEySOUukDThklMkr76) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Unhateable](https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW) | 4:20 | 2021-12-23 | 2022-04-22 |
@@ -757,6 +762,7 @@
 | [With You](https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Mental Coach Jegal, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5fcdcwpZpn3LBTNHXQcMgh) | 3:09 | 2022-11-01 | 2023-01-21 |
 | [With You](https://open.spotify.com/track/6jqOoYltwMT2gyem0Kr1f0) | [Sung Hoon](https://open.spotify.com/artist/1pkzOJ2c68xoLfWUfMtdMJ) | [Woori The Virgin, Pt\. 6 \(Original Television Soundtrack\) \(Special Track\)](https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw) | 4:19 | 2022-07-07 | 2022-09-06 |
 | [Without Me](https://open.spotify.com/track/54wxCzZOH2Jo1qSdqHUkRH) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Without Me](https://open.spotify.com/album/0ojT7QVxynpUx9QjVPV4hD) | 4:56 | 2023-02-24 |  |
+| [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 | 2023-03-08 |  |
 | [Without you](https://open.spotify.com/track/4F2U7mSwbYkf6jJ0TGnGS1) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Without you](https://open.spotify.com/album/6clWWq80REaFUvZH15r2DS) | 4:30 | 2021-12-23 | 2022-04-18 |
 | [Without You 네가 없는 하루](https://open.spotify.com/track/6SBFKVJwcgI204Yic1yESA) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Without You 네가 없는 하루](https://open.spotify.com/album/3JBG1fn2G6gAqToSJVwjrl) | 3:27 | 2022-03-04 | 2022-04-19 |
 | [Wonder Why](https://open.spotify.com/track/4OLpX8QqAqU3Km2PVUhrEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [The Interest of Love \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/6jJafoL33IKBwTif7ij9vF) | 3:20 | 2023-01-27 |  |

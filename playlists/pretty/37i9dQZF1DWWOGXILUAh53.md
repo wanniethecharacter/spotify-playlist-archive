@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Oliver Tree & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,711 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,774 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

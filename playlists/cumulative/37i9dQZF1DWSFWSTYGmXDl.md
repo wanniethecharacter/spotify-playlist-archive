@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-185 songs - 10 hr 7 min
+186 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [All I Want for Christmas Is You](https://open.spotify.com/album/2KgepIGt89PNbVoGJuEaud) | 3:02 | 2021-12-12 | 2022-11-11 |
 | [All Winter](https://open.spotify.com/track/0dViBPmhtsHClKwnUmmT0R) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [All Winter](https://open.spotify.com/album/5yWpR14XWyp6uFiVvgHjU9) | 3:07 | 2021-12-12 | 2022-07-29 |
 | [All Winter](https://open.spotify.com/track/0mVddpW5sHyGLywyKidIwT) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [All Winter](https://open.spotify.com/album/3JOMCEAzbQdzqkLKdZcDgE) | 3:07 | 2021-12-12 | 2022-11-11 |
+| [Alone on Christmas Eve](https://open.spotify.com/track/3cTrbyOLvrn78iKBKOUlW7) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/1icERFXfL7Hwbl1m16DROb) | 2:16 | 2022-12-09 |  |
 | [Alone On Christmas Eve](https://open.spotify.com/track/4OtGbYRuDtpWRj595G2jmI) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone On Christmas Eve](https://open.spotify.com/album/4GqryIZs95P5M0oI2Mg638) | 2:16 | 2021-12-12 | 2022-07-29 |
-| [Alone on Christmas Eve](https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F) | 2:16 | 2021-12-12 |  |
+| [Alone on Christmas Eve](https://open.spotify.com/track/6wTP8riwGP5HJXvaURft2K) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Alone on Christmas Eve](https://open.spotify.com/album/5DA3yYLX4R3YLRMDyjBV6F) | 2:16 | 2021-12-12 | 2023-03-09 |
 | [Alone On Christmas Eve](https://open.spotify.com/track/7bzSuLGzLwcEhfAi5FjliA) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Alone On Christmas Eve](https://open.spotify.com/album/4CtHrZwvJqIm13Naqpim0S) | 3:45 | 2021-12-12 |  |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-12 |  |
 | [Another Holiday](https://open.spotify.com/track/4QrZBl4Sz76JPTZDbfsxCd) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Soldier On](https://open.spotify.com/album/2bU1n72VyqxwTjEuCqYTYc) | 3:46 | 2021-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 
 > The fastest growing genre in 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,028 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,035 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx2zx49DfKO.md) - [plain]
 | 36 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 | 37 | [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [GTG](https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG) | 1:33 |
 | 38 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 |
-| 39 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 |
+| 39 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 |
 | 40 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 |
 | 41 | [DOWNING ME](https://open.spotify.com/track/3rxBuyFbUbsfslCAliycO7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [DREAM](https://open.spotify.com/album/3Zo5srzZBKt75pN3MhAZ6W) | 2:12 |
 | 42 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |

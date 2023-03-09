@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,376 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,891 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 12 | [First Impressions](https://open.spotify.com/track/09I7DjJtkvTPORULHE7yCY) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Becoming Jane](https://open.spotify.com/album/52sztZMsBAIe2jNcFNpQHk) | 2:25 |
 | 13 | [6.6 Gigue](https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Reinoud Ford](https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO), [Tim Lowe](https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB), [Ben Chappell](https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F), [Katherine Jenkinson](https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6) | [Bach: The Cello Suites \- Recomposed by Peter Gregson](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ) | 2:48 |
 | 14 | [Theme \- From "Emma"](https://open.spotify.com/track/06mi7oiYv5pftvpFU784jc) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Hollywood '96 \(Themes From The Year's Biggest Films\)](https://open.spotify.com/album/0iEDyEwaKcNRLGpHz5vOZH) | 2:59 |
-| 15 | [Dolly, Op\. 56: 1\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
+| 15 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 16 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 |
 | 17 | [David's Writings](https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 2:57 |
 | 18 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |

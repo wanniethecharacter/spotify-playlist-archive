@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,745,224 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,745,538 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 69 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 |
 | 70 | [Shocks of Mighty](https://open.spotify.com/track/00F7KL6HIWNJNfQwszn7uI) | [Dave Barker](https://open.spotify.com/artist/4fDdr1gRqAzOSP8jVR6CEs), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Prisoner of Love \(Bonus Track Edition\)](https://open.spotify.com/album/0i63dNBqSVyqhyPTDum0Rg) | 2:51 |
 | 71 | [Drive Her Home](https://open.spotify.com/track/5Tx4LTzQIYIJFMdzONWjcJ) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:01 |
-| 72 | [Sometimes](https://open.spotify.com/track/0qb0IWHeAUSzAINvtg853t) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [The Best of John Holt](https://open.spotify.com/album/5vMkRku6Vmc04J85j1D2Nl) | 3:18 |
+| 72 | [Sometimes](https://open.spotify.com/track/08MP9fdQzB9ijPQE87Yqbf) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Memories By The Score Vol\. 1](https://open.spotify.com/album/5zURHZf8NNvfj1a4vsribi) | 3:17 |
 | 73 | [Gold and Silver](https://open.spotify.com/track/6qDLGV4JSQ2vwjdBNjxoHX) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [From the Roots](https://open.spotify.com/album/4P97dg5Yaa7ek9tHdBsOaB) | 2:36 |
 | 74 | [First Time for a Long Time](https://open.spotify.com/track/3mX9OqJiqLFTakCk1WrzG2) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [Double Dekker \(Expanded Version\)](https://open.spotify.com/album/7tt21btxenzyLsiI17qivz) | 2:29 |
 | 75 | [Blackman's Word \(Black Man's Pride\)](https://open.spotify.com/track/5KYdwJCvwGsAeTwUJn8ZIe) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1) | 2:49 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDk4ZDAyNTY5MWI1NDg2NDY1YjZiZTRjYWEyMGExYmUy`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDlhYzU3ZjJlYmQ5ZWIwNmNkMzk1NjI4NzFmOTQ3MjIy`

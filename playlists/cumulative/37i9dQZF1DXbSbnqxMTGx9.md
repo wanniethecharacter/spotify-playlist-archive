@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-468 songs - 1 day 2 hr 49 min
+469 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,8 @@
 | [Small Axe](https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 3:54 | 2022-09-22 |  |
 | [Small Axe](https://open.spotify.com/track/1eBIJWWBM7hdJNXytP5use) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:56 | 2022-09-22 | 2022-11-13 |
 | [Snoopy vs\. The Red Baron](https://open.spotify.com/track/7qKTh0SeTxq5GECRoCMQcV) | [The Hot Shots](https://open.spotify.com/artist/6aXiMZrt4avAeA5fO4HDiP) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2022-09-22 |  |
-| [Sometimes](https://open.spotify.com/track/0qb0IWHeAUSzAINvtg853t) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [The Best of John Holt](https://open.spotify.com/album/5vMkRku6Vmc04J85j1D2Nl) | 3:18 | 2022-09-22 |  |
+| [Sometimes](https://open.spotify.com/track/08MP9fdQzB9ijPQE87Yqbf) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Memories By The Score Vol\. 1](https://open.spotify.com/album/5zURHZf8NNvfj1a4vsribi) | 3:17 | 2022-09-22 |  |
+| [Sometimes](https://open.spotify.com/track/0qb0IWHeAUSzAINvtg853t) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [The Best of John Holt](https://open.spotify.com/album/5vMkRku6Vmc04J85j1D2Nl) | 3:18 | 2022-09-22 | 2023-03-09 |
 | [Stalag 17](https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl) | [Ansel Collins](https://open.spotify.com/artist/0IH1Rx8zeWyZLVrBloZp1Q) | [Double Barrel \- The Best of Dave & Ansel Collins](https://open.spotify.com/album/0i2pbEHt0qGGjTCcrJdVXf) | 2:59 | 2021-03-02 |  |
 | [Stay With You](https://open.spotify.com/track/18KzwTjTnbBaspORB0tpzM) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 3:48 | 2022-08-18 | 2022-09-23 |
 | [Stir It Up](https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection](https://open.spotify.com/album/74dSntt5j1iLVDmGguRmwj) | 3:07 | 2021-03-02 |  |

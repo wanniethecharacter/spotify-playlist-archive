@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,462 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,458 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 47 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 48 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
 | 49 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
-| 50 | [Good Vibes \(feat\. Lutan Fyah\)](https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Peace of Mind \(Deluxe\)](https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ) | 3:31 |
-| 51 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
-| 52 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
+| 50 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
+| 51 | [Good Vibes \(feat\. Lutan Fyah\)](https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Peace of Mind \(Deluxe\)](https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ) | 3:31 |
+| 52 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 53 | [Bullet and a Target](https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [The Clarence Greenwood Recordings](https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr) | 4:23 |
 | 54 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 55 | [Here I Am](https://open.spotify.com/track/1YerDWS5vQE35RjTe53CDR) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Born In Babylon](https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl) | 4:48 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 60 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
 | 61 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
 | 62 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 |
-| 63 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
-| 64 | [Wake Up](https://open.spotify.com/track/6UTZE0OPFM4ofNR1IJAAFX) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 4:49 |
+| 63 | [Wake Up](https://open.spotify.com/track/6UTZE0OPFM4ofNR1IJAAFX) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 4:49 |
+| 64 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 65 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 |
 | 66 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
 | 67 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Free Your Mind \(with Surfer Girl\)](https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:09 |
 | 100 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDFlNjY5ZTUzMGRiZGMyYzA3ZjhlNWQwYzE4NGEwZTRi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDliNjYyYTAxZDFkYTQ5M2JiZTFkOGFiYTg0NzFiMTU0`

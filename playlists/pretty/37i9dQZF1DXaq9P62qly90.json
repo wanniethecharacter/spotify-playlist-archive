@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDg1MjczYzE1YTgzZjc2MmRiYjk4YmM2OTU3ZTk3NTFj",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGI2OGRlN2Q5ODIzNWE5ZGJlNjQyOGVkMmM4ODk0ZTcy",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "The Change I'm Seeking",
-        "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 482173,
-      "name": "Permanent Holiday",
-      "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "The Story of You",
         "url": "https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 261560,
       "name": "I Am",
       "url": "https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Change I'm Seeking",
+        "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 482173,
+      "name": "Permanent Holiday",
+      "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
     },
     {
       "added_at": "2023-01-03 17:09:40",

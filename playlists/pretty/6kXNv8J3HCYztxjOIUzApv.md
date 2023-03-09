@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 56,727 likes - 121 songs - 7 hr 43 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 56,725 likes - 121 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 120 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 |
 | 121 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 |
 
-Snapshot ID: `MTkxMSw1NzBhZmYzNTkwZDdiZmY4OTQwODQ1MWE4OTgyZjYxMjFmMzQ4NTgx`
+Snapshot ID: `MTkxMiwzNTNiOGI1ZDBjMTdmZTYyNGFlYjM5NzE0ZWMwY2M3ZWZlYzNmMmMy`

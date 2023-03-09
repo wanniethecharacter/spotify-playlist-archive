@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,914 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,911 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 32 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 |
 | 33 | [Vi ska aldrig gå hem](https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:15 |
 | 34 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
-| 35 | [Cute & Cruel \(feat\. First Aid Kit\)](https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:00 |
-| 36 | [Vi Är På Riktigt](https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Vi Är På Riktigt](https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK) | 3:07 |
+| 35 | [Vi Är På Riktigt](https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Vi Är På Riktigt](https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK) | 3:07 |
+| 36 | [Cute & Cruel \(feat\. First Aid Kit\)](https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:00 |
 | 37 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 |
 | 38 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 |
 | 39 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 73 | [Till slutet av augusti \- Live från Benjamin's](https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti \(Live från Benjamin's\)](https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR) | 4:10 |
 | 74 | [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 |
 | 75 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 |
-| 76 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
-| 77 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
-| 78 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 |
-| 79 | [När jag blundar](https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [När jag blundar](https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj) | 3:34 |
-| 80 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 |
-| 81 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 |
+| 76 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
+| 77 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 78 | [När jag blundar](https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [När jag blundar](https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj) | 3:34 |
+| 79 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 |
+| 80 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 |
+| 81 | [Belly Shots](https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Belly Shots](https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i) | 2:35 |
 | 82 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 |
 | 83 | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/track/3rZtRBAKCHaZVxMQqXLAPu) | [Oskar Häggström](https://open.spotify.com/artist/69ZOZoebEshyscvb3HktEf), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Sommarregn \(feat\. Hanna Ferm\)](https://open.spotify.com/album/12SjrFUpHO06Xm2Co5ookK) | 3:02 |
 | 84 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 |
 | 100 | [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 |
 
-Snapshot ID: `MTY3ODEwMzQ0MSwwMDAwMDAwMDgwYTQ3NGZmNWUyNmY1ODUxY2M3NDJmNWEyMjhjODUw`
+Snapshot ID: `MTY3ODEwMzQ0MSwwMDAwMDAwMDRlNmRlZTFhYjdiMWU3ZjE2NGYwYjQ5MjhkYTBiOTM2`

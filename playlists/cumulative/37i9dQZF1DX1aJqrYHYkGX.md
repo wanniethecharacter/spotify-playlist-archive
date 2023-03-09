@@ -4,7 +4,7 @@
 
 > Gentle, relaxing music from around the globe.
 
-92 songs - 6 hr 18 min
+94 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amarujala](https://open.spotify.com/track/5awpjUOAFfA8BXMB2IaMeg) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Amarujala](https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX) | 2:36 | 2022-08-10 |  |
 | [Ancient Garden](https://open.spotify.com/track/7bkGyNEmJN1oDKe90FeuGt) | [Tom Vode](https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw) | [Ancient Garden](https://open.spotify.com/album/6aZcDITWn4nEmUo5eq5bZ1) | 3:18 | 2022-08-10 |  |
 | [Ancient Voices \(From Call of the Mystic\)](https://open.spotify.com/track/1sraAZl24pk6NLjvRFJTPW) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Call of the Mystic](https://open.spotify.com/album/24JSqs0oPqeZBGcxymhLs6) | 5:20 | 2022-08-10 |  |
-| [Andromeda](https://open.spotify.com/track/43veurxia7KWQs2pbvlNLi) | [Peter Phippen](https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0), [Rahbi Crawford](https://open.spotify.com/artist/4PTJxE0o09JnJAKZKWUs8a), [Ivar Lunde, Jr.](https://open.spotify.com/artist/5UIDOcff4nnkFOXE44ZzwU) | [Galaxies](https://open.spotify.com/album/2SxawX6ongul7s1OQ33nPo) | 9:41 | 2022-08-10 |  |
+| [Andromeda](https://open.spotify.com/track/43veurxia7KWQs2pbvlNLi) | [Peter Phippen](https://open.spotify.com/artist/6m1FJ6QgwWWl11vk6mkEI0), [Rahbi Crawford](https://open.spotify.com/artist/4PTJxE0o09JnJAKZKWUs8a), [Ivar Lunde, Jr.](https://open.spotify.com/artist/5UIDOcff4nnkFOXE44ZzwU) | [Galaxies](https://open.spotify.com/album/2SxawX6ongul7s1OQ33nPo) | 9:41 | 2022-08-10 | 2023-03-09 |
 | [Autumn Moon Lullaby](https://open.spotify.com/track/69lpodHfolka37x6CQpKwC) | [Tri Nguyen](https://open.spotify.com/artist/5svAezhgWghJK0KaFgcf0J) | [Consonnances](https://open.spotify.com/album/0BMAjP8zHnDpxi8xyUkSsZ) | 4:04 | 2022-08-10 |  |
 | [Bhoop](https://open.spotify.com/track/5VUFIDfke3h6uPVCiFKXDW) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 2:33 | 2022-08-10 |  |
 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 | 2022-08-10 |  |
@@ -29,11 +29,13 @@
 | [Dharma](https://open.spotify.com/track/1mmJ23UvtuCs5DYWJNVudJ) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Dharma](https://open.spotify.com/album/25WiKPYtScDlWpE7N8PCze) | 3:30 | 2023-02-10 |  |
 | [Disoriented](https://open.spotify.com/track/0ZnvdrjaPIiN7YeMZ5pDvN) | [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B) | [Disoriented](https://open.spotify.com/album/1VbZoiZjdL53dV8HjpDLic) | 6:06 | 2023-02-10 |  |
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-08-10 |  |
+| [Drishti](https://open.spotify.com/track/7LxccpMcrsicmlY9eyEy15) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Drishti](https://open.spotify.com/album/2W6BPKqrKtMNgHNBegBcqx) | 3:16 | 2023-03-08 |  |
 | [Duga](https://open.spotify.com/track/6tdJU5kgDI9yP4LBdVMh8X) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Heritage](https://open.spotify.com/album/256XbjH0BrerKZyE8bm8Qk) | 2:36 | 2022-08-10 |  |
 | [El Duende](https://open.spotify.com/track/0bfWgeqFYUPerXAavokicr) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Pawel Kobak](https://open.spotify.com/artist/3GsgrKQIEVoGZZxDBKJUsL), [Marco Lucchi](https://open.spotify.com/artist/1TRilVaDaQw0ksGqU5tuCh), [Rocco Saviano](https://open.spotify.com/artist/3pZVKEjTZN9bN3V2ahQK54) | [Venusia](https://open.spotify.com/album/2BoM1MsjqvwUPqlaZW9Zea) | 5:12 | 2023-01-13 |  |
 | [Eranthis Hyemalis II](https://open.spotify.com/track/0gyKC5AWtclO8PrFK2srNS) | [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Pawel Kobak](https://open.spotify.com/artist/3GsgrKQIEVoGZZxDBKJUsL), [Marco Lucchi](https://open.spotify.com/artist/1TRilVaDaQw0ksGqU5tuCh), [Rocco Saviano](https://open.spotify.com/artist/3pZVKEjTZN9bN3V2ahQK54) | [Eranthis Hyemalis II](https://open.spotify.com/album/07YyJynxYEcJePTZGhfFwo) | 2:20 | 2022-08-10 |  |
 | [Flutiscious](https://open.spotify.com/track/1iMs41jYAr8yR8gMJLkuwX) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Flutiscious](https://open.spotify.com/album/4qaqlh2PGTLm932czfyZr4) | 3:20 | 2022-08-10 |  |
 | [Follow The Sun \- Osmosis Version](https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:03 | 2022-08-10 |  |
+| [Garden of Tranquility \- Studio Edit](https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Garden of Tranquility](https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr) | 2:50 | 2023-03-08 |  |
 | [Halvmåne](https://open.spotify.com/track/5YXN6JEpHIGcskwqrDzi9g) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Halvmåne](https://open.spotify.com/album/6de7hTffUyFdSa8fNoZEGQ) | 2:37 | 2022-08-10 |  |
 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 | 2022-08-10 |  |
 | [Happiness](https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-02-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Escucha la selección que Señoras Punk hicieron para Mamá Cool\. 🤘🏼🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,859 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,894 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 49 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
 | 50 | [Fiesta Permanente](https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa) | [Pau y Amigos](https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD) | [El Bar de Peter Pan](https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII) | 4:40 |
 | 51 | [Undertow](https://open.spotify.com/track/2x5c9ApuyqGcJ0ApKukGCl) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool](https://open.spotify.com/album/5ILOMA8LzHfdjR2HZQ2vFN) | 5:53 |
-| 52 | [There Is a Light That Never Goes Out](https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [He Gets Me High](https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5) | 4:15 |
+| 52 | [She's Not Me](https://open.spotify.com/track/388mKnPdjaZ6FCRvmRmGlH) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 4:09 |
 | 53 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
-| 54 | [She's Not Me](https://open.spotify.com/track/388mKnPdjaZ6FCRvmRmGlH) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [The Voyager](https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB) | 4:09 |
+| 54 | [There Is a Light That Never Goes Out](https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [He Gets Me High](https://open.spotify.com/album/58LM8VscXpnW3ChqnrJ1a5) | 4:15 |
 | 55 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 |
 | 56 | [Where Damage Isn't Already Done](https://open.spotify.com/track/7kKJeeBzI8bPJTdiEUy8Ye) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 2:43 |
 | 57 | [Turn Into](https://open.spotify.com/track/63RybHPymD78kESTzetPNP) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:05 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 79 | [El Techo es el Suelo](https://open.spotify.com/track/0FFr4JRBZXgCo0mhQTZ05w) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 3:02 |
 | 80 | [Just To Make Me Feel Good](https://open.spotify.com/track/4Rfa7JwzMp5lnws52ROpDO) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj), [Binki Shapiro](https://open.spotify.com/artist/5ROABVYKJnEJa7ilOwceaq) | [Adam Green & Binki Shapiro](https://open.spotify.com/album/0mnmn4yrOan10MHcm4CJZI) | 3:18 |
 | 81 | [Baby](https://open.spotify.com/track/1qakUMRZyh8Y1IrioSOZbU) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [Pink is the Colour of Unconditional Love](https://open.spotify.com/album/4ugFepbosq35f1RvtOLdjU) | 4:09 |
-| 82 | [La Loose](https://open.spotify.com/track/3Wiat6aC9Ib3LFJnfeQOlt) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Ivy Tripp](https://open.spotify.com/album/5wisI1wvXEUguSBYllgj5f) | 3:13 |
-| 83 | [Charm Attack](https://open.spotify.com/track/7pm41QvCLeF8JzKvz1mv4m) | [Leona Naess](https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY) | [Comatised](https://open.spotify.com/album/0m7GzodmVBjFbLdzgHtBet) | 4:23 |
-| 84 | [un rato](https://open.spotify.com/track/6C2KQRqLrtHrlIEjKdyXVJ) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:45 |
+| 82 | [un rato](https://open.spotify.com/track/6C2KQRqLrtHrlIEjKdyXVJ) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:45 |
+| 83 | [La Loose](https://open.spotify.com/track/3Wiat6aC9Ib3LFJnfeQOlt) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Ivy Tripp](https://open.spotify.com/album/5wisI1wvXEUguSBYllgj5f) | 3:13 |
+| 84 | [Charm Attack](https://open.spotify.com/track/7pm41QvCLeF8JzKvz1mv4m) | [Leona Naess](https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY) | [Comatised](https://open.spotify.com/album/0m7GzodmVBjFbLdzgHtBet) | 4:23 |
 | 85 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
 | 86 | [Abducted](https://open.spotify.com/track/0rq7syFZ8aKxLXkzq5O40T) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Abducted](https://open.spotify.com/album/4kieA2ajJQqq1Dc64rkAv5) | 2:53 |
 | 87 | [This Isn't It](https://open.spotify.com/track/746xGTzt9MwDvn1i7E0lvC) | [Giant Drag](https://open.spotify.com/artist/76KTyb3jlFkOgQAwvAImf6) | [Hearts And Unicorns](https://open.spotify.com/album/3VpuH339xYTQl8XskD4HdP) | 3:03 |
 | 88 | [Worst Curse](https://open.spotify.com/track/0z0byff2bYn4V3ySbBNaKf) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Wild Idea](https://open.spotify.com/album/1ToPusrmJdTth68L0ZRQBU) | 2:45 |
 | 89 | [Melancólica](https://open.spotify.com/track/6PLyKKtmiSNIOtFDKi126j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Me Cansé de Llorar Voy a Vomitar](https://open.spotify.com/album/4tlcBZpe0lg1Yexp2xLZo0) | 2:00 |
-| 90 | [This Is Our Emergency](https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE) | [Pretty Girls Make Graves](https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN) | [The New Romance](https://open.spotify.com/album/0eMdX2PZS5iMStFJuzbdgk) | 3:43 |
-| 91 | [Tell The World](https://open.spotify.com/track/69Sd4fE8pU2R3YyJ5oa7Ny) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 3:36 |
+| 90 | [Tell The World](https://open.spotify.com/track/69Sd4fE8pU2R3YyJ5oa7Ny) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 3:36 |
+| 91 | [This Is Our Emergency](https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE) | [Pretty Girls Make Graves](https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN) | [The New Romance](https://open.spotify.com/album/0eMdX2PZS5iMStFJuzbdgk) | 3:43 |
 | 92 | [Perro Rompebolas](https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Kellies](https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM) | 1:35 |
 | 93 | [Vertiginosamente](https://open.spotify.com/track/2FnuhhGFR1xa2JyHWL4WAs) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Sueño Electrico](https://open.spotify.com/album/398gt7uSHxtdIq9IyYpIGO) | 2:13 |
 | 94 | [Todos Mis Amigos Tienen Covid](https://open.spotify.com/track/67n0eh73NUPu8X3y042g4m) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 2:43 |
 | 95 | [Es Verano Ya](https://open.spotify.com/track/6GpAcQZTJbkJmNU2KJ2NKa) | [AJ Davila](https://open.spotify.com/artist/4Kyd8cFh3zkTvVCyClVoHX), [Lola Pistola](https://open.spotify.com/artist/4MnDeg5EW8NHD0KCWjDkJI), [Selma Oxor](https://open.spotify.com/artist/0w9kNgcz6rpbKc9vTRN7g7) | [Terror Amor](https://open.spotify.com/album/5VZTxfurh70597Vn5PqMR4) | 2:00 |
 | 96 | [Mundo](https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4) | [Jessica Sullivan](https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN) | [Mundo](https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6) | 2:22 |
-| 97 | [Trash](https://open.spotify.com/track/4OKLCt7rTQnpgiOm8HmZ7n) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Feels Like](https://open.spotify.com/album/76CR7xZkAElmSDZF5NF3Bo) | 3:58 |
-| 98 | [Tienes Miedo](https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ) | [Songs for eleonor](https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj) | [Plant a Seed](https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92) | 3:23 |
-| 99 | [Un Día](https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Un Día](https://open.spotify.com/album/5YQxAZ76T248nfmED6QxsE) | 5:35 |
-| 100 | [Falso Verano](https://open.spotify.com/track/7GKmwwvAcOoxZBIAs2KyyP) | [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Sonido Donosti](https://open.spotify.com/album/5pswLcxKjBAaCU7KsDB7eJ) | 3:10 |
+| 97 | [Tienes Miedo](https://open.spotify.com/track/4I9XcQIFaH2kf3ZdS8RjOZ) | [Songs for eleonor](https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj) | [Plant a Seed](https://open.spotify.com/album/27SrdlvYNc69j8IuLXzl92) | 3:23 |
+| 98 | [Trash](https://open.spotify.com/track/4OKLCt7rTQnpgiOm8HmZ7n) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Feels Like](https://open.spotify.com/album/76CR7xZkAElmSDZF5NF3Bo) | 3:58 |
+| 99 | [Falso Verano](https://open.spotify.com/track/7GKmwwvAcOoxZBIAs2KyyP) | [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Sonido Donosti](https://open.spotify.com/album/5pswLcxKjBAaCU7KsDB7eJ) | 3:10 |
+| 100 | [Un Día](https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Un Día](https://open.spotify.com/album/5YQxAZ76T248nfmED6QxsE) | 5:35 |
 
-Snapshot ID: `MTY3NjkxNzA5MiwwMDAwMDAwMGMxOTdmZmYwYWEwMzAyNjc2ODNmMjhmYTU3OTEzMzU1`
+Snapshot ID: `MTY3NjkxNzA5MiwwMDAwMDAwMDcyMzZlYjJkOTAwYzQ3MjVjZTNmOTVjMWM1YjQ3YjBi`

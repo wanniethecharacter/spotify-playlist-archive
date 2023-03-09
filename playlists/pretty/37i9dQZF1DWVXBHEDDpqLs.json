@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 26694,
+  "num_followers": 26721,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGU2YjNiYzBjZGRmMDI0ZDA4MTdkZDM0YWVkMGRhZTc3",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDUwNjcwZmQwMmE3NzRkN2IxNDUyZGEwZjY4NmY2Mjk4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 157870,
       "name": "Nzinga",
       "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Baukey Beats, Vol.1",
+        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+      },
+      "artists": [
+        {
+          "name": "Ben Hauke",
+          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+        }
+      ],
+      "duration_ms": 556363,
+      "name": "Dep First Draft - Extended Mix",
+      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Baukey Beats, Vol.1",
-        "url": "https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4"
+        "name": "Money Mouth",
+        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
       "artists": [
         {
-          "name": "Ben Hauke",
-          "url": "https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 556363,
-      "name": "Dep First Draft - Extended Mix",
-      "url": "https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX"
+      "duration_ms": 129348,
+      "name": "Money Mouth",
+      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1423,26 +1443,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Money Mouth",
-        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 129348,
-      "name": "Money Mouth",
-      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
-      },
-      "artists": [
-        {
-          "name": "Petty Penguin",
-          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
-        },
-        {
-          "name": "DJ Beast Baltimore",
-          "url": "https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS"
-        }
-      ],
-      "duration_ms": 146311,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Sweaty Clothes (feat. Cerrissa Koza)",
         "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 157058,
       "name": "Sweaty Clothes (feat. Cerrissa Koza)",
       "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
+      },
+      "artists": [
+        {
+          "name": "Petty Penguin",
+          "url": "https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0"
+        },
+        {
+          "name": "DJ Beast Baltimore",
+          "url": "https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS"
+        }
+      ],
+      "duration_ms": 146311,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/2UtT9FpmI9msvUab9DQIUg"
-      },
-      "artists": [
-        {
-          "name": "LadyStorm",
-          "url": "https://open.spotify.com/artist/3SowffHci9iQf0ssqOYltv"
-        },
-        {
-          "name": "Beautiful Perfection",
-          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
-        }
-      ],
-      "duration_ms": 184529,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "De Todo Se Aprende (Remix)",
         "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/2UtT9FpmI9msvUab9DQIUg"
+      },
+      "artists": [
+        {
+          "name": "LadyStorm",
+          "url": "https://open.spotify.com/artist/3SowffHci9iQf0ssqOYltv"
+        },
+        {
+          "name": "Beautiful Perfection",
+          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
+        }
+      ],
+      "duration_ms": 184529,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2015,22 +2015,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Jump Out",
-        "url": "https://open.spotify.com/album/6L24he0bjg76mBaETv1zM3"
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/0YMtiw8lS1olUbPwBaGFqX"
       },
       "artists": [
         {
-          "name": "Big Dope P",
-          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Jump Out",
-      "url": "https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf"
+      "duration_ms": 289634,
+      "name": "Are We There Yet?",
+      "url": "https://open.spotify.com/track/1OAdujv6QdbdHH3fQiOXdi"
     }
   ],
   "unique_name": "Global Club Music",

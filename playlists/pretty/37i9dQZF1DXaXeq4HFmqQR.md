@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Subamos el volumen a las mujeres\. Co\-curada por Francisca Valenzuela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,420 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,443 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 20 | [Soltar](https://open.spotify.com/track/0JLCVUGEKXgnOeOAU5V0A0) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Soltar](https://open.spotify.com/album/62wbj4HDQ2G2iNE8ogS4A0) | 3:34 |
 | 21 | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\) \- Tema Central de la Serie "La Jauría"](https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\)](https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1) | 2:53 |
 | 22 | [¿Y Tú Qué Esperas?](https://open.spotify.com/track/3KtD9UUoMQx5K2tLmXnNSQ) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [¿Y Tú Qué Esperas?](https://open.spotify.com/album/75eQDaOHwg0zCmZwN9koDI) | 3:20 |
-| 23 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
-| 24 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
+| 23 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
+| 24 | [SOLO UN FIN](https://open.spotify.com/track/2Nm6gM6WU0WMc5BejJ78Cu) | [anto](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [SOLO UN FIN](https://open.spotify.com/album/64AjH3ht7XeqmgaAV3BLRK) | 2:34 |
 | 25 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 |
 | 26 | [Rara](https://open.spotify.com/track/7F7Bga2mi1fYcuY7gspC2G) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Voz Que Sana](https://open.spotify.com/album/1hdKat0bGuYY7vcPF9ywSp) | 3:32 |
 | 27 | [SALÚ](https://open.spotify.com/track/3n9UWV1Xa23WtOKpEfnbVv) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Vida Tan Bonita](https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Tan en el Aire](https://open.spotify.com/track/3FR4AnFf2zbYaesNbLpSiK) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 3:24 |
 | 50 | [Todo Va a Andar Bien](https://open.spotify.com/track/40gB7Xjf1lU61cxUc3UBCw) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Pa´ Tu Corazón](https://open.spotify.com/album/7JzbpfQPJp43G5DaLS6kvg) | 2:44 |
 
-Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMGU3MmY0ZTg5NDE4ZGJiMTZiYmNjMGNkNjlmNWIwZmJi`
+Snapshot ID: `MTY3NzYzOTYwMCwwMDAwMDAwMDQ4NTBlYWZlYmIzMWU3MDljZDlkYzVlOGZmODZjZTRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Oliver Tree & David Guetta, Sigala, Linkin Park, NiziU and more! Cover: Oliver Tree & David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,169 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,184 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

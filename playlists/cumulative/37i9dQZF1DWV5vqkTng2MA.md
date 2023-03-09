@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-214 songs - 12 hr 46 min
+215 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can’t Let Go](https://open.spotify.com/track/6dQh60A0KlpwPT2p9ptJaY) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 3:41 | 2022-06-01 |  |
 | [Car You Drive](https://open.spotify.com/track/2JKOUxv67D8kJ13XU8jAuE) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Car You Drive](https://open.spotify.com/album/6z0GegQkQN1D65F9AXuJmQ) | 3:16 | 2022-02-11 | 2022-07-29 |
 | [Champagne Corolla](https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:38 | 2021-10-01 |  |
+| [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 | 2023-03-03 |  |
 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 | 2021-10-01 | 2022-11-13 |
 | [Comin' For Ya North Georgia Blues](https://open.spotify.com/track/0vqeMxEGBrbH1VHE88qV3L) | [Eliot Bronson](https://open.spotify.com/artist/404FGezj0LKlz93eSqqKuI) | [Eliot Bronson](https://open.spotify.com/album/6jfNS8a4el9axJwjqq91oQ) | 3:33 | 2021-10-01 | 2022-06-25 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2022-06-01 |  |
@@ -214,7 +215,7 @@
 | [Upside](https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Radius \(Deluxe Edition\)](https://open.spotify.com/album/2sVa8Vc8jNp6vClhgljcrj) | 4:01 | 2022-06-01 | 2022-12-03 |
 | [Wastin' My Mind](https://open.spotify.com/track/0SeboT7teon4VsNRa2vewB) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 2:59 | 2021-10-01 | 2022-07-28 |
 | [Wastin' My Mind](https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 2:59 | 2022-06-01 |  |
-| [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 | 2021-10-01 |  |
+| [We Shouldn't Talk About It \(feat\. Emily Gimble\)](https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25) | [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2), [Emily Gimble](https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK) | [Plus de Sauce](https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ) | 2:26 | 2021-10-01 | 2023-03-09 |
 | [What Does It Mean to Be](https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563) | [American Babies](https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF) | [An Epic Battle Between Light and Dark](https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q) | 3:21 | 2021-10-01 | 2022-07-04 |
 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 | 2021-10-01 | 2022-07-29 |
 | [You Know Better](https://open.spotify.com/track/11CHB0JnkbhkDyMfuqLQdZ) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [You Know Better](https://open.spotify.com/album/6eXQY2OaenRiSlr0dxnGCW) | 3:21 | 2022-02-11 | 2022-06-17 |

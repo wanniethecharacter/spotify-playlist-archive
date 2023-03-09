@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-09",
       "duration_ms": 179688,
       "name": "Break the Mold",
       "url": "https://open.spotify.com/track/5hjvbLXLfNgRmylohmmSy7"
@@ -2952,6 +2952,24 @@
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "album": {
+        "name": "Extrovert",
+        "url": "https://open.spotify.com/album/716AG0CLrpw0sP54u1aWvy"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Devastate",
+      "url": "https://open.spotify.com/track/5DK1PzaTVvPtINfiywGg9H"
     },
     {
       "album": {

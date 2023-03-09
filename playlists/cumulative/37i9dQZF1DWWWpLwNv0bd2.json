@@ -1051,6 +1051,36 @@
     },
     {
       "album": {
+        "name": "DADA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Janani",
+          "url": "https://open.spotify.com/artist/074dvQc2KICo1VlD9mhKvb"
+        },
+        {
+          "name": "Malvi Sundaresan",
+          "url": "https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA"
+        },
+        {
+          "name": "Kalyan Manjunath",
+          "url": "https://open.spotify.com/artist/5jllvafTSRj0UrwMaCjkRX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Klesa Kadhala",
+      "url": "https://open.spotify.com/track/7n1UVJ0H504ylTJ65msRuz"
+    },
+    {
+      "album": {
         "name": "The Legend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
       },

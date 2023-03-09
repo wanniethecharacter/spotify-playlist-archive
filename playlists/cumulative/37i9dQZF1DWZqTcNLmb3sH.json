@@ -2413,6 +2413,44 @@
     },
     {
       "album": {
+        "name": "College Days (From \"Viramadanantara\")",
+        "url": "https://open.spotify.com/album/0NmLDRCXMIeROlYtS3mpYa"
+      },
+      "artists": [
+        {
+          "name": "Swarag Keerthan",
+          "url": "https://open.spotify.com/artist/2P3NSLMgrMvCq0tfxRQUkE"
+        },
+        {
+          "name": "Aditya Bheemathati",
+          "url": "https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws"
+        },
+        {
+          "name": "Venky",
+          "url": "https://open.spotify.com/artist/3YVVBL9uRbcOca1Yj6FrUk"
+        },
+        {
+          "name": "Harsha Prawin",
+          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
+        },
+        {
+          "name": "Sai Naveen",
+          "url": "https://open.spotify.com/artist/2r2zc24wYXzDhmuwy0fBU4"
+        },
+        {
+          "name": "Sandeep Acharya",
+          "url": "https://open.spotify.com/artist/29S6uW6xdnoNayqmsv3K7V"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250823,
+      "name": "College Days (From \"Viramadanantara\")",
+      "url": "https://open.spotify.com/track/2ICvwYEZ91yf4RAKvkV9LX"
+    },
+    {
+      "album": {
         "name": "Confusion Song (From \"Nodi Swamy Ivanu Irode Heege\")",
         "url": "https://open.spotify.com/album/4Fkw1OonmuprIHTDRp81Op"
       },
@@ -3515,7 +3553,7 @@
       "artists": [
         {
           "name": "Akarsh",
-          "url": "https://open.spotify.com/artist/5S1tBFl9bN0sjCIa8ADxjr"
+          "url": "https://open.spotify.com/artist/6ZZfZF9L8XXhgmsITas4fb"
         },
         {
           "name": "Vikas Badisa",
@@ -4690,6 +4728,32 @@
       "duration_ms": 106968,
       "name": "Hoove Haaridanthe",
       "url": "https://open.spotify.com/track/2SxLem0pOHyc4YUIvWZW69"
+    },
+    {
+      "album": {
+        "name": "Hoovina Angi Thottu (From \"Dasara\") (Kannada)",
+        "url": "https://open.spotify.com/album/21kopfgytdqAIxoTsY3d1W"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Hoovina Angi Thottu",
+      "url": "https://open.spotify.com/track/1ui9KfTcWhqejcl6g8dxGj"
     },
     {
       "album": {
@@ -8824,6 +8888,24 @@
       "duration_ms": 321272,
       "name": "Neenena Neenena (From \"Prabhutva\")",
       "url": "https://open.spotify.com/track/6sgFIYRTI3E3Mi5PeJkNd2"
+    },
+    {
+      "album": {
+        "name": "Neenillade (From \"Mandala - The UFO Incident\")",
+        "url": "https://open.spotify.com/album/6MEWfeF4gjqrE8xPKRyBSs"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344491,
+      "name": "Neenillade (From \"Mandala - The UFO Incident\")",
+      "url": "https://open.spotify.com/track/3WFDYO4qmhxnTFmHJlOxe2"
     },
     {
       "album": {

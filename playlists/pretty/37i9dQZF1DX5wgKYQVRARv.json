@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Ne Obliviscaris",
-  "num_followers": 490442,
+  "num_followers": 490585,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGQzODA2NmFlZjkwNzAwOTljZjkxMTUwNTMyMGI0NDMz",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGEwY2FjOGNjMzY5ZWVhYTc1YjVlYzQwMDRhMTU5OGM0",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Early Grave",
-        "url": "https://open.spotify.com/album/3U4Ej58L88Wr8mDjUhHdk1"
-      },
-      "artists": [
-        {
-          "name": "The Contortionist",
-          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Early Grave",
-      "url": "https://open.spotify.com/track/6GouRVZ275NAcveDfHW8Z1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Snowblood",
         "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 253680,
       "name": "Snowblood",
       "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Early Grave",
+        "url": "https://open.spotify.com/album/3U4Ej58L88Wr8mDjUhHdk1"
+      },
+      "artists": [
+        {
+          "name": "The Contortionist",
+          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Early Grave",
+      "url": "https://open.spotify.com/track/6GouRVZ275NAcveDfHW8Z1"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "holywater",
+        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "holywater",
+      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Hello Death",
         "url": "https://open.spotify.com/album/6MFXRy30nk6khmwq6GWuHq"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 294852,
       "name": "Hello Death",
       "url": "https://open.spotify.com/track/2LEXNkVRuDfroBJRQ1zitM"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "holywater",
-        "url": "https://open.spotify.com/album/2rDtya9iHi1StTjrVIiZMt"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "holywater",
-      "url": "https://open.spotify.com/track/1C8xKYntDnAzvzwcSLnU7W"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Stoned Statues",
-        "url": "https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK"
-      },
-      "artists": [
-        {
-          "name": "Stoned Statues",
-          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "This World is Going to Ruin You",
         "url": "https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 152146,
       "name": "The Killing Womb",
       "url": "https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Stoned Statues",
+        "url": "https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Complex",
-        "url": "https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV"
+        "name": "The Lethean",
+        "url": "https://open.spotify.com/album/6huUdAzf941V7em2MyNLsD"
       },
       "artists": [
         {
-          "name": "Threshold",
-          "url": "https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM"
+          "name": "Xaon",
+          "url": "https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz"
         }
       ],
-      "duration_ms": 350693,
-      "name": "Complex",
-      "url": "https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw"
+      "duration_ms": 343560,
+      "name": "In Pyrrhic Seas",
+      "url": "https://open.spotify.com/track/1wz2xKpmkBwlcqCLf7rTwc"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Lethean",
-        "url": "https://open.spotify.com/album/6huUdAzf941V7em2MyNLsD"
+        "name": "Complex",
+        "url": "https://open.spotify.com/album/37YEbW5Pi7qeQKqf4gMIbV"
       },
       "artists": [
         {
-          "name": "Xaon",
-          "url": "https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz"
+          "name": "Threshold",
+          "url": "https://open.spotify.com/artist/7KTRbZ1YTch5oXQOmQTStM"
         }
       ],
-      "duration_ms": 343560,
-      "name": "In Pyrrhic Seas",
-      "url": "https://open.spotify.com/track/1wz2xKpmkBwlcqCLf7rTwc"
+      "duration_ms": 350693,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/3HtmYWiBa8y2CCYFJye6Yw"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Cloudburst",
-        "url": "https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x"
-      },
-      "artists": [
-        {
-          "name": "The Northern",
-          "url": "https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/6vydOYFChvEWsa9SgYdCrU"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 246720,
       "name": "The Modern Rage",
       "url": "https://open.spotify.com/track/7DctyL6bo2ourw7PeAD72S"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Cloudburst",
+        "url": "https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x"
+      },
+      "artists": [
+        {
+          "name": "The Northern",
+          "url": "https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2683,18 +2683,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Katabasis",
-        "url": "https://open.spotify.com/album/703y5eX545v5GdMr0bIK01"
+        "name": "Everything Sucks and I Think I'm a Big Part of It",
+        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
       },
       "artists": [
         {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+          "name": "Destrage",
+          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
         }
       ],
-      "duration_ms": 272360,
-      "name": "Katabasis",
-      "url": "https://open.spotify.com/track/4AQSYo9ooWD3aHWBxAB8Yv"
+      "duration_ms": 258680,
+      "name": "Everything Sucks and I Think I'm a Big Part of It",
+      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2715,18 +2715,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Everything Sucks and I Think I'm a Big Part of It",
-        "url": "https://open.spotify.com/album/4Y3QeJZDThwEXt057VZmqw"
+        "name": "Katabasis",
+        "url": "https://open.spotify.com/album/703y5eX545v5GdMr0bIK01"
       },
       "artists": [
         {
-          "name": "Destrage",
-          "url": "https://open.spotify.com/artist/4aOJwHpU6TcuhC4QKNn8MS"
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
         }
       ],
-      "duration_ms": 258680,
-      "name": "Everything Sucks and I Think I'm a Big Part of It",
-      "url": "https://open.spotify.com/track/4J1AWHqM14RphuStdjljcy"
+      "duration_ms": 272360,
+      "name": "Katabasis",
+      "url": "https://open.spotify.com/track/4AQSYo9ooWD3aHWBxAB8Yv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Demeter",
-        "url": "https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp"
-      },
-      "artists": [
-        {
-          "name": "Indigo Storm",
-          "url": "https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Right In Front of Me",
-      "url": "https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Radiant Bloom",
         "url": "https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 324160,
       "name": "Human",
       "url": "https://open.spotify.com/track/1Oketc8Fgr7OZD8fvOigxC"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Demeter",
+        "url": "https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp"
+      },
+      "artists": [
+        {
+          "name": "Indigo Storm",
+          "url": "https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Right In Front of Me",
+      "url": "https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8"
     },
     {
       "added_at": "2023-02-24 05:00:00",

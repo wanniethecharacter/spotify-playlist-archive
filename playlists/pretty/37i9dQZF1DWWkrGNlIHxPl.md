@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,303 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,370 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 6 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 |
 | 7 | [New Era](https://open.spotify.com/track/0V5wxdRtOGkvTDV8r6aUnq) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [New Era](https://open.spotify.com/album/1KkYvkaccUSlh19UBjfkRJ) | 2:43 |
 | 8 | [Guala](https://open.spotify.com/track/39fLvDcb8APZsxkZB5dttl) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Guala](https://open.spotify.com/album/3wUXt7qj9PDX5PZgkJO4bE) | 2:58 |
-| 9 | [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 |
+| 9 | [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 |
 | 10 | [Hala Walla](https://open.spotify.com/track/4eEFZc50WNQxyrJWY9jCru) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [Hala Walla](https://open.spotify.com/album/04kLge4bJNgLW6Hot5Dik3) | 2:47 |
 | 11 | [I Miss You So](https://open.spotify.com/track/2A9K8umLwHLCo1RKDdEkHG) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [I Miss You So](https://open.spotify.com/album/1xxM6IffyyGSq959QBgleA) | 3:34 |
 | 12 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 16 | [You Make It Okay](https://open.spotify.com/track/4Cip7XIF27YDADmpIUTuVB) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7) | [You Make It Okay](https://open.spotify.com/album/7CpzaD2s0jv6jY1khBb5m7) | 3:24 |
 | 17 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 | 18 | [Streets](https://open.spotify.com/track/0HrYRWreDtgwG420WzvS6w) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Streets](https://open.spotify.com/album/5dffWaAYExvHrnLOAgtDUb) | 3:53 |
-| 19 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 |
+| 19 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 |
 | 20 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 |
 | 21 | [I Guess](https://open.spotify.com/track/1Q8UhAL4Ebspx05qAFGyTn) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [I Guess](https://open.spotify.com/album/1KCGlttwZbhgs9WfNoHitL) | 2:38 |
 | 22 | [Grounding Place](https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l) | [Nora Toutain](https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A) | [Grounding Place](https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP) | 3:46 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 51 | [FUNNY HOW](https://open.spotify.com/track/5ydV3NMWuOV1s4BRg1U9ei) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [FUNNY HOW](https://open.spotify.com/album/6vjuhnkjXZXkxTXBs2pCey) | 2:32 |
 | 52 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
 
-Snapshot ID: `MTY3ODE5NzcwMSwwMDAwMDAwMDMzZGQ1YjYzNmE5OTRkZWQ3ODQxNTgzMjQzOWU0NjQx`
+Snapshot ID: `MTY3ODE5NzcwMSwwMDAwMDAwMGU1YzUyNDM3ZmUxOTQwNjE3NWYwNmI5Yjc3NjY1YWZj`

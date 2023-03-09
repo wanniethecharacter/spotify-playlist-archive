@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SHISHAMO
 
-828 songs - 2 day 4 hr 52 min
+829 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-07 | 2023-01-14 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kiss me before I rise](https://open.spotify.com/track/3Hl6OfLcfnLmAV5hOZd9uA) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/6zxpjA1B7uP84reP3udGXm) | 3:47 | 2022-05-26 | 2022-07-25 |
+| [Kodoku](https://open.spotify.com/track/74dY9HrENvoHvb1xLxyVqo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Now I'm 19](https://open.spotify.com/album/5lDYiJtHTX3jsHR7rMJCpX) | 2:59 | 2023-03-07 |  |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-11-08 | 2022-12-14 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [L.I.B](https://open.spotify.com/track/3bkxrLI6XgEY1HwjM236qN) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 4:03 | 2022-07-14 | 2022-07-27 |
@@ -213,7 +214,7 @@
 | [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2022-12-07 | 2022-12-30 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 | 2023-02-01 |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
-| [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-15 |  |
+| [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-15 |  |
 | [Natural](https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi) | [AQMO](https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy) | [Natural / Sabotage](https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E) | 2:06 | 2023-01-05 | 2023-01-11 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 |  |
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 | 2023-02-01 |
@@ -669,7 +670,7 @@
 | [嫉妬](https://open.spotify.com/track/2ogRJWm2xGV4gr0PrYHrXu) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [嫉妬](https://open.spotify.com/album/6bGhHe6Z6wBRasPrBCS0Wm) | 3:02 | 2022-06-02 | 2022-07-15 |
 | [嫌いになって](https://open.spotify.com/track/7CW05RKbugcKOjS4sfWJdO) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:35 | 2022-06-07 | 2022-06-15 |
 | [季節のはじまり](https://open.spotify.com/track/4Xclo97cFoJaFCq70gVPm0) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [季節のはじまり](https://open.spotify.com/album/66lO0ZZKlECx4OUblrX1n2) | 4:50 | 2022-06-07 | 2022-07-02 |
-| [孤独](https://open.spotify.com/track/6ndWUlXOg6EwE4Pq5LUhIW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [今、私は19歳](https://open.spotify.com/album/3ToNqq3rAeJ3XMHFX9DxqM) | 2:59 | 2023-03-07 |  |
+| [孤独](https://open.spotify.com/track/6ndWUlXOg6EwE4Pq5LUhIW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [今、私は19歳](https://open.spotify.com/album/3ToNqq3rAeJ3XMHFX9DxqM) | 2:59 | 2023-03-07 | 2023-03-09 |
 | [宝物を探して](https://open.spotify.com/track/1iCmaoArriFC1tl6AVWDN2) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [宝物を探して](https://open.spotify.com/album/0QMVdecFQ6xf1HGexKqUzH) | 3:49 | 2022-09-27 | 2022-10-28 |
 | [寿司とTシャツのあたし](https://open.spotify.com/track/6DrKOrOBRwxN8kjd5J8FiQ) | [LYRIC YANKEE](https://open.spotify.com/artist/1wE4TpdVduLdTIGPi2gE0O) | [寿司とTシャツのあたし](https://open.spotify.com/album/6RNRcdTuodO1dZNWk2WcP1) | 3:14 | 2022-06-23 | 2022-07-27 |
 | [少し泣く](https://open.spotify.com/track/3UG4sW8T05V7raSbLA67o8) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [少し泣く](https://open.spotify.com/album/5ybAA6CJFxuDRZLmJEoB5D) | 5:11 | 2022-05-31 | 2022-07-28 |

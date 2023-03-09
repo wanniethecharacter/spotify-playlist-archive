@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Youth Lagoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,129 likes - 174 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,227 likes - 174 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

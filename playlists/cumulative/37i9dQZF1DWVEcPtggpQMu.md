@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Latinover Pounds</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Loatinover Pounds</a>
 
 492 songs - 1 day 2 hr 57 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,758 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,828 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 141 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 |
 | 142 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 | 143 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Into The Purple Valley](https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk) | 3:56 |
-| 144 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
-| 145 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
+| 144 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
+| 145 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
 | 146 | [House of the White Rose Boquet](https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Tell the Devil I'm Gettin' there as Fast as I Can](https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU) | 3:23 |
 | 147 | [Sweet Lucinda](https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2) | 2:45 |
 | 148 | [No Later than Soon](https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA) | 2:56 |
 | 149 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 |
 | 150 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMGVlNjdhMTdiZTY5Yzc5ODY3MWI2YTg2OGUxMDY2ZmRh`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDk3OTg1YzFlY2Y0ZjVmOWFkZWE1NmRkMTYxNDIwYjky`

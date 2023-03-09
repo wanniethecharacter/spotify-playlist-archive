@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: ONEW\(온유\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-4,413 songs - 10 day 16 hr 4 min
+4,414 songs - 10 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [458](https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:14 | 2022-08-22 | 2022-09-03 |
 | [500000km NF SONATA](https://open.spotify.com/track/6te2w854p7KJnwWifSvZdb) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [500000km NF SONATA](https://open.spotify.com/album/5L4NzC1YJgJ6S1kr8VSlLd) | 3:11 | 2022-06-29 | 2022-07-05 |
 | [500억 \(50 Milli\) \(feat\. Don Mills\)](https://open.spotify.com/track/5Z2uo65TBhhrzAFP1Fn9cz) | [44MAGNUMB](https://open.spotify.com/artist/66u2mp8mtMEOUH2TWWr98O), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [500억 \(50 Milli\) \(feat\. Don Mills\)](https://open.spotify.com/album/2zhV1CVKTKbYWrMOsoSEdg) | 2:32 | 2022-10-18 | 2022-11-15 |
+| [55 \(Feat\. Yerin Baek, WENDY\)](https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:07 | 2023-03-08 |  |
 | [7](https://open.spotify.com/track/1veW8BJjIDwb4WDdAvGcHV) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [7](https://open.spotify.com/album/58eqERmaDpAYto7aHFOmw8) | 3:49 | 2022-04-19 | 2022-04-23 |
 | [777](https://open.spotify.com/track/24KjqxHU4SnvCgzfftXarS) | [MUL](https://open.spotify.com/artist/1qcXWnZo8tZaPPhRcaBVPo), [feelDa](https://open.spotify.com/artist/6ztSjX9SryuExgK0SPr5Ps), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [777+52](https://open.spotify.com/album/6q2EAWJkQRNcIHFSZjFQI2) | 3:23 | 2022-04-19 | 2022-05-03 |
 | [8 \(paradise\)](https://open.spotify.com/track/4wdXYw1pchZZ44UkNECyp9) | [Heon](https://open.spotify.com/artist/4AfVKxP48OYzRXuAz2d3XO) | [8 \(paradise\)](https://open.spotify.com/album/2u7HS6tOglmV8zokjJ7hd2) | 3:13 | 2022-07-24 | 2022-08-10 |

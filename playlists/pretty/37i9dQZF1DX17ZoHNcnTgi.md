@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,274 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,286 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 139 | [Los Chiles Verdes](https://open.spotify.com/track/7k3Jl6Rxv66MgtdSP17y7k) | [Abacúm Fernández](https://open.spotify.com/artist/2HFpEwEMENcRWdaXPOBmTf), [Reveriano Soto](https://open.spotify.com/artist/2Opvl9omNVa8ZCOk9RkzkV) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:39 |
 | 140 | [La Juanita](https://open.spotify.com/track/4a6LczdPrida7oqv1X8nBp) | [Los Andariegos](https://open.spotify.com/artist/2VhvpyL5hj1YE4SYvIsUks) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 2:34 |
 | 141 | [La Petenera](https://open.spotify.com/track/4P8TMzodqPySaMcZ2rUzls) | [Los Pergaminos](https://open.spotify.com/artist/4QXL9FM2NnfIl3KzLPXxTV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 5:08 |
-| 142 | [El Cabrito](https://open.spotify.com/track/2J6V2DCT6yQvv8JfQraaTT) | [Los Madrugadores de Chon Larios](https://open.spotify.com/artist/6yzWz2lwJT1OQQ9vra2teR) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:32 |
-| 143 | [La Llorona](https://open.spotify.com/track/0Reqr9CLnQsG9ItvOXa9V3) | [Trio Alma Jarocha](https://open.spotify.com/artist/54msrDkzqhhiUqBXhyHigZ) | [Antología del Son de México, Tixtla](https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ) | 2:09 |
+| 142 | [La Llorona](https://open.spotify.com/track/0Reqr9CLnQsG9ItvOXa9V3) | [Trio Alma Jarocha](https://open.spotify.com/artist/54msrDkzqhhiUqBXhyHigZ) | [Antología del Son de México, Tixtla](https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ) | 2:09 |
+| 143 | [El Cabrito](https://open.spotify.com/track/2J6V2DCT6yQvv8JfQraaTT) | [Los Madrugadores de Chon Larios](https://open.spotify.com/artist/6yzWz2lwJT1OQQ9vra2teR) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:32 |
 | 144 | [La Puerca](https://open.spotify.com/track/2W1TwTLYg8ZwTFjWH1HFpC) | [Son de Tierra Caliente](https://open.spotify.com/artist/0bRKkC305BkUjk4lqEJJYY) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 1:44 |
 | 145 | [La Pasión](https://open.spotify.com/track/0OVLeriUe1AmkZA6toIq1l) | [Trío Los Rancheros del Pánuco](https://open.spotify.com/artist/4hwE6shIeDDlxuWJKI7bok) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:26 |
 | 146 | [La Malagueña Curreña](https://open.spotify.com/track/1px8LD13nAQPLoKcFjGd5w) | [Ismael Añorve](https://open.spotify.com/artist/6WHtEVhtpp7LZHxY5E5T1u) | [Antología del Son de México, Tixtla](https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ) | 3:30 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [Maria](https://open.spotify.com/track/6t0HP22IT4zsv2W5HLWgrT) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:47 |
 | 150 | [El Conejo](https://open.spotify.com/track/3MTHnar4lbXsFVe8mIt9nh) | [Los Tiburones Del Golfo](https://open.spotify.com/artist/5lL5pwG90TaXoBjdM8lFnl) | [Antología del Son de México, Tixtla](https://open.spotify.com/album/06Yjy7xvGE2Zy9MlYqADuJ) | 3:41 |
 
-Snapshot ID: `MTY3NzA4MzU5OSwwMDAwMDAwMGU2YTBkYjY5ZDYxZDE0ZjM2MzI0YjE2Y2Q3YjRiOGFm`
+Snapshot ID: `MTY3NzA4MzU5OSwwMDAwMDAwMDBiNzg1OWNlOGVlYjM1ZTJjMjczODBlZmFlNWM1NDAz`

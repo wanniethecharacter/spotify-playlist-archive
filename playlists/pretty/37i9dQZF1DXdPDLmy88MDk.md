@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,622 likes - 104 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,801 likes - 104 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 85 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 | 86 | [All This Will Happen Again](https://open.spotify.com/track/6u9kkqfjdZPxAxEtHmGl68) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 4:21 |
 | 87 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 |
-| 88 | [Jeux d'enfants, Op\. 22 WD 56: 3\. La poupée](https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Piano Fantasy: Music For Two Pianos](https://open.spotify.com/album/7kpU3pdejLKSjMDaNgJsJv) | 2:21 |
+| 88 | [Jeux d'enfants, Op\. 22: No\. 3, La poupée](https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Piano Fantasy: Music For Two Pianos](https://open.spotify.com/album/7kpU3pdejLKSjMDaNgJsJv) | 2:21 |
 | 89 | [Nostalgie \(Version for Cello & Piano\)](https://open.spotify.com/track/1avrCd0iZnk13X9G2oDuXp) | [Vaja Azarashvili](https://open.spotify.com/artist/0usVJrLFw1xvuSxGjBogO8), [Alexander Suleiman](https://open.spotify.com/artist/51uTGBKyp1ZpDTyqCpHfQN), [Irma Issakadze](https://open.spotify.com/artist/7CzUbHVCshfmBxrsJpG7Zg) | [Vaja Azarashvili: Days Go By](https://open.spotify.com/album/4jJo2t2vf237kyi9fliCzt) | 2:49 |
 | 90 | [Moments musicaux, Op\. 16: No\. 5 in D\-Flat Major\. Adagio sostenuto](https://open.spotify.com/track/0bab37ruzDN54ax5SOFIlH) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Beethoven \- Rachmaninov \- Miyoshi](https://open.spotify.com/album/26Uf3UzOyJWK5Kj9BNb8CQ) | 3:43 |
 | 91 | [perceptions](https://open.spotify.com/track/0ew9S7tvZPx57vVN9Dhz8v) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:38 |

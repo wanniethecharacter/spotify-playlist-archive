@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Sem Aliança no Dedo e os funks mais 🔑 do Brasil\. Foto: MC Xenon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,445,466 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,448,585 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 97 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338 likes - 97 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 68 | [Chucky73 \- Bzrp 43](https://open.spotify.com/track/4jmE3QZLQv9pIA791PGZ05) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Chucky73 \- Bzrp 43](https://open.spotify.com/album/1EjGYxuGr01m4NgsoRs3OI) | 3:14 |
 | 69 | [Metal Glo \- Luca Lozano + Mr\. Ho Remix](https://open.spotify.com/track/1UOm9cnptHHi7YvkSUrpuA) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs), [Luca Lozano](https://open.spotify.com/artist/57YTLw15CKLrwSJKUFN5ep), [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Metal Glo EP](https://open.spotify.com/album/21q5vNpodGHS0OcYHAynw2) | 7:11 |
 | 70 | [Hotplay \- Paramida's Hotpants Remix](https://open.spotify.com/track/5HvVpXrtKBv0EDQFs1FXGF) | [Baldo](https://open.spotify.com/artist/4v335SBw5WxgrqJZCl4VWL), [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Groove Radiance](https://open.spotify.com/album/7lFH3gP2N3LNLNsv3SUmrl) | 6:37 |
-| 71 | [Body Control \- Edit](https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/06b7L6PMVHt3NH9YC8PeOg) | 3:48 |
+| 71 | [Body Control \- Edit](https://open.spotify.com/track/6m3lJuUb3P2JjjUE5Znn7H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/1rHuPlFH9A5f1NPgQc6o3Y) | 3:48 |
 | 72 | [Fly Away](https://open.spotify.com/track/6Ri7neSWe49NFzgxE0YBEj) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [Freaks On Speed](https://open.spotify.com/album/51cwK67Grlro2UjztY34Sl) | 5:47 |
 | 73 | [Automatic Music](https://open.spotify.com/track/0LKucdegFWC5WO1cg7rq0R) | [Antonelli](https://open.spotify.com/artist/5qazRAnTzwWJnCZUsnM8rf) | [Me, The Disco Machine](https://open.spotify.com/album/5oLOz2ByeQuQt46QhpKELL) | 6:36 |
 | 74 | [Soma](https://open.spotify.com/track/0xZwP7WoIovSvnor87NDWT) | [Dylan Forbes](https://open.spotify.com/artist/2Xuub4Skf1kEJZrNo1iML2) | [COY002](https://open.spotify.com/album/12WlxNOmijzBfhxeSh8WHz) | 6:41 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 96 | [To the Right](https://open.spotify.com/track/5khY81g7xPfzj43TzzkfBT) | [Transitive Elements](https://open.spotify.com/artist/04i3qUlQHYQk8jNEaj6Hfb) | [Volume 2](https://open.spotify.com/album/69bEGDBxxbbSjsKE9qk2mB) | 6:20 |
 | 97 | [Dr\. Goodtime](https://open.spotify.com/track/78Cu8xVnleuaPkn0in0aTg) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [Dr\. Goodtime](https://open.spotify.com/album/3M7RHS6g5H4xuysYXOnYox) | 6:23 |
 
-Snapshot ID: `MTY2OTA0NjM4MiwwMDAwMDAwMGVlNjI4OTNhMGIwNjAyZGMyMWZiZjRkZmE5MTQwMDcw`
+Snapshot ID: `MTY2OTA0NjM4MiwwMDAwMDAwMGJlYzcwOTExMTEzMGVlMzdiM2M3NWE3MTU3NjYxMWNk`

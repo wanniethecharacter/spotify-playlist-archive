@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: BE'O\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,847 likes - 106 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,929 likes - 106 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

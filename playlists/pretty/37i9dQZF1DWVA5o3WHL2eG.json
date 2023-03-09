@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24091,
+  "num_followers": 24532,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMGVjZmJlNzMxYmUyZTQ1NmU1ODlhMWM1NWMzNmMwODRk",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDk4ODY4MzExMTAzOGE2MDk3Nzk2NjAxNzdmNmUxYzMx",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Winterherz",
-        "url": "https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR"
-      },
-      "artists": [
-        {
-          "name": "Sira",
-          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
-        }
-      ],
-      "duration_ms": 136588,
-      "name": "Winterherz",
-      "url": "https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "ALL I WANT",
         "url": "https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 233203,
       "name": "ALL I WANT",
       "url": "https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR"
+      },
+      "artists": [
+        {
+          "name": "Sira",
+          "url": "https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs"
+        }
+      ],
+      "duration_ms": 136588,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -427,22 +427,6 @@
       "duration_ms": 176730,
       "name": "Echt",
       "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Running Round",
-        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
-      },
-      "artists": [
-        {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Running Round",
-      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Running Round",
+        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Running Round",
+      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Halluzination",
         "url": "https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Unter Uns",
-        "url": "https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "Unter Uns",
-      "url": "https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "call me cat",
         "url": "https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 140453,
       "name": "call me cat",
       "url": "https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Unter Uns",
+        "url": "https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "Unter Uns",
+      "url": "https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Therapies",
-        "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
-      },
-      "artists": [
-        {
-          "name": "Maria Gold",
-          "url": "https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K"
-        }
-      ],
-      "duration_ms": 189909,
-      "name": "Therapies",
-      "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "magnetic wave",
         "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 224155,
       "name": "magnetic wave",
       "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Therapies",
+        "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
+      },
+      "artists": [
+        {
+          "name": "Maria Gold",
+          "url": "https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K"
+        }
+      ],
+      "duration_ms": 189909,
+      "name": "Therapies",
+      "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "modern disaster",
+        "url": "https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G"
+      },
+      "artists": [
+        {
+          "name": "Eveline",
+          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
+        }
+      ],
+      "duration_ms": 122224,
+      "name": "under pressure",
+      "url": "https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Self Portrait No. 1",
         "url": "https://open.spotify.com/album/5BZHMEPhbU6eRpKLCJboF9"
       },
@@ -671,38 +687,6 @@
       "duration_ms": 230746,
       "name": "Equalista",
       "url": "https://open.spotify.com/track/5N8rlTDQQXuxDfzmKGN3jU"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "modern disaster",
-        "url": "https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G"
-      },
-      "artists": [
-        {
-          "name": "Eveline",
-          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
-        }
-      ],
-      "duration_ms": 122224,
-      "name": "under pressure",
-      "url": "https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Opia EP",
-        "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
-      },
-      "artists": [
-        {
-          "name": "Magdalena",
-          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
-        }
-      ],
-      "duration_ms": 439998,
-      "name": "Opia",
-      "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Opia EP",
+        "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
+      },
+      "artists": [
+        {
+          "name": "Magdalena",
+          "url": "https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc"
+        }
+      ],
+      "duration_ms": 439998,
+      "name": "Opia",
+      "url": "https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Core",
         "url": "https://open.spotify.com/album/7vpe5uEzl2S7n4c6pmiV09"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 122678,
       "name": "Core",
       "url": "https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Velvet Blue",
+        "url": "https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 64410,
+      "name": "Velvet Blue",
+      "url": "https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -771,22 +787,6 @@
       "duration_ms": 185038,
       "name": "Lampenfieber",
       "url": "https://open.spotify.com/track/4N50G190dPvI2S9ISPK6jn"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Velvet Blue",
-        "url": "https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 64410,
-      "name": "Velvet Blue",
-      "url": "https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx"
     },
     {
       "added_at": "2023-03-06 09:38:59",

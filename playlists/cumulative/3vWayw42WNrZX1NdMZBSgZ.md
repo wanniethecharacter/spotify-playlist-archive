@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Marshmello, Manuel Turizo
 
-437 songs - 23 hr 44 min
+438 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Colocao \- Tiny Desk](https://open.spotify.com/track/1sdOQxBSDlGc922jSMhPVy) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nicki Nicole \(Live at NPR's Tiny Desk\)](https://open.spotify.com/album/56vHzz7py4Ki3p901P1Db5) | 3:17 | 2022-06-30 |  |
 | [Como la Primera Vez](https://open.spotify.com/track/569ewIQFBsJwBtuVJMXLrM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Como la Primera Vez](https://open.spotify.com/album/7sQj4Eu9CfDwjSa6zXgjj5) | 3:05 | 2022-05-31 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-02-02 |  |
+| [COMO SABES](https://open.spotify.com/track/1K96L6WO5lkeC13HuJUZ1r) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [ANUBIS](https://open.spotify.com/album/5GTC36BIx9gEA8RTChT8mq) | 3:23 | 2023-03-08 |  |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-02-02 |  |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2022-09-29 |  |
 | [Confieso](https://open.spotify.com/track/2ydzr3NKng0u0JZUm0DpKK) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Catarsis](https://open.spotify.com/album/6aliVhXmEKLUNe6SzwSJac) | 3:31 | 2022-11-04 |  |
