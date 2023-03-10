@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-166 songs - 14 hr 34 min
+167 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [It Might as Well Be Spring](https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Yoav Eshed](https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:14 | 2022-06-02 | 2023-03-01 |
 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 | 2021-12-21 |  |
 | [Jennie](https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Jennie / Gravol](https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ) | 6:04 | 2022-02-10 |  |
+| [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 | 2023-03-07 |  |
 | [Laura](https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r) | [Adam Nussbaum](https://open.spotify.com/artist/1ymZAHNSJ5rvzjW01iwQRi) | [Lead Belly Reimagined](https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R) | 4:47 | 2021-12-21 | 2023-03-08 |
 | [Let Love Be Genuine](https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Let Love Be Genuine](https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi) | 5:18 | 2023-02-07 |  |
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |
@@ -146,7 +147,7 @@
 | [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
-| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-03-10 |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |

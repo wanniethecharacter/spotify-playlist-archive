@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 82451,
+  "num_followers": 82626,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDdhMTY4NDcwY2Q0MzYyZWVmOTE4YjQ0MzczN2ZkNmVh",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDM1MWVlODNhNzkyMGU3Nzg1NzU3Mzk2MmM0NzQzYTVl",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Probl\u00e8mes D'amour (All Versions)",
-        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
-      },
-      "artists": [
-        {
-          "name": "Alexander Robotnick",
-          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
-        }
-      ],
-      "duration_ms": 420653,
-      "name": "Probl\u00e8mes d'Amour - Original",
-      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "stuff i used to do",
         "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 141304,
       "name": "Charlie can't dance",
       "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Probl\u00e8mes D'amour (All Versions)",
+        "url": "https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB"
+      },
+      "artists": [
+        {
+          "name": "Alexander Robotnick",
+          "url": "https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq"
+        }
+      ],
+      "duration_ms": 420653,
+      "name": "Probl\u00e8mes d'Amour - Original",
+      "url": "https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Adventures in Acid Boogie, Vol.2",
         "url": "https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 325862,
       "name": "Afrofunk (Valique Boogie Brother Remix)",
       "url": "https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Acid Tracks",
-        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 739626,
-      "name": "Acid Tracks",
-      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "HAVEL",
         "url": "https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 210449,
       "name": "TAKE YOUR LIFE",
       "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
       "added_at": "2021-10-22 11:07:27",

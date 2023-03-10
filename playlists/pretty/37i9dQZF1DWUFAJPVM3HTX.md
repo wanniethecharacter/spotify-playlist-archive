@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Lojay \. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,232 likes - 140 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,275 likes - 140 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

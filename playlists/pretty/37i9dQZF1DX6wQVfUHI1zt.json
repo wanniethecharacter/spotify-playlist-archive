@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 187188,
+  "num_followers": 187250,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGVhNzQzODY1MWI2YmYwMTMxODhkOGM5YzIxYmVkOTkx",
+  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGJjZGYwNmE0NjQwYmI1OGIxOGRlMzRlMzZjYjMwNmRl",
   "tracks": [
     {
       "added_at": "2023-01-09 06:36:42",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "No Te Olvidare",
-        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 229840,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "No Te Olvidare",
+        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
+      "duration_ms": 229840,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
     },
     {
       "added_at": "2023-01-09 06:36:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-09 06:36:42",
       "album": {
-        "name": "Lo Mejor De\u2026",
-        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 251493,
-      "name": "La Carcacha",
-      "url": "https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq"
-    },
-    {
-      "added_at": "2023-01-09 06:36:42",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 182893,
       "name": "El Poder De Tus Manos",
       "url": "https://open.spotify.com/track/5cK8SOO5rp6FTJEaq6ojzN"
+    },
+    {
+      "added_at": "2023-01-09 06:36:42",
+      "album": {
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 251493,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq"
     },
     {
       "added_at": "2023-01-09 06:36:42",

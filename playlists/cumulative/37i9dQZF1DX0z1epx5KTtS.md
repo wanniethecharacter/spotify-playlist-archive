@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : DOUPI PAPILLON
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-113 songs - 6 hr 45 min
+114 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 |  |
 | [Nanakafra](https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp) | [VDA](https://open.spotify.com/artist/5KFQVUUJceKqUAjdtMD4D0) | [Nanakafra](https://open.spotify.com/album/5MMCy49BKCbOuale1Pc6Cs) | 4:08 | 2022-11-17 | 2023-01-27 |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
-| [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 |  |
+| [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 | 2023-03-10 |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
 | [Piment](https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz) | [GRINTA](https://open.spotify.com/album/1vEPXP3H5oAg8OOYdKF3pX) | 2:44 | 2022-12-15 | 2023-01-27 |
@@ -98,6 +98,7 @@
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 | 2022-09-08 |  |
 | [Retour à l'envoyeur](https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Retour à l'envoyeur](https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl) | 3:53 | 2022-08-25 | 2023-01-27 |
+| [S'envolement](https://open.spotify.com/track/4qTtDG8wnFPBuMT9gX8e2d) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [S'envolement](https://open.spotify.com/album/43kB8Cbtaz8nI0GFOUivXg) | 3:18 | 2023-03-09 |  |
 | [Sac à main](https://open.spotify.com/track/66NOf4gM87dJHggT574dnL) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 4:06 | 2022-09-29 | 2023-01-20 |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 | 2022-10-28 |
 | [Solé Molé](https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Solé Molé](https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF) | 3:36 | 2023-02-02 |  |

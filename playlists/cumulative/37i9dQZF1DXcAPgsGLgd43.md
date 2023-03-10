@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-67 songs - 3 hr 58 min
+68 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Felicidad \- Colombian Mix](https://open.spotify.com/track/3b03vx1pp3mF4VXISZKqgc) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Felicidad](https://open.spotify.com/album/7LBZ3DsoUmKG5rxyO2ttZs) | 5:55 | 2021-10-08 | 2022-07-29 |
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 | 2021-10-08 |  |
+| [La Fiesta](https://open.spotify.com/track/2r9um9Y1MklfVLt6XNylmf) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/3VNhdA2xtNcLopHG9lep3u) | 4:26 | 2021-10-08 |  |
 | [La Fiesta](https://open.spotify.com/track/53xMyPShokgna72KTlwsXO) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy) | 4:26 | 2021-10-08 | 2023-02-26 |
 | [La Pasion](https://open.spotify.com/track/0jqLx0dV6PbjQ4iOsl7uYP) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/0XyRmtkGBQDBBFRtWFkECW) | 3:07 | 2021-10-08 | 2022-07-29 |
 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 | 2021-10-08 |  |
@@ -72,7 +73,7 @@
 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 | 2021-10-08 |  |
 | [Viento](https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl) | 3:48 | 2021-10-08 |  |
 | [Viento](https://open.spotify.com/track/6ldrrA9dkZjIrX4wUOXTz2) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/6PVaNesFRFCpGKUVq0YTNy) | 3:48 | 2021-10-08 | 2022-07-29 |
-| [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 | 2021-10-08 |  |
+| [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 | 2021-10-08 | 2023-03-10 |
 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 | 2021-10-08 |  |
 | [Yabisa \- Radio Mix](https://open.spotify.com/track/7w8gLFcrHRBB6xkkrLcvd6) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Cris Ruiz](https://open.spotify.com/artist/6l5n5zDtpeQ9Xqop5aAFWB) | [Yabisa](https://open.spotify.com/album/4nrc2kGqaLyNyK0Acg6CDF) | 2:56 | 2021-10-08 | 2022-07-28 |
 

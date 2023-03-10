@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Calming Mist",
+        "url": "https://open.spotify.com/album/29OVOlzATI437uWYeKX29c"
+      },
+      "artists": [
+        {
+          "name": "Selma Key",
+          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163789,
+      "name": "Antina",
+      "url": "https://open.spotify.com/track/5GiaKRLBu8vWdY80hHZTdu"
+    },
+    {
+      "album": {
         "name": "As The Journey Begins",
         "url": "https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7"
       },
@@ -2810,6 +2828,24 @@
       "duration_ms": 181623,
       "name": "Pajala Sunrise",
       "url": "https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A"
+    },
+    {
+      "album": {
+        "name": "Paladin",
+        "url": "https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194124,
+      "name": "Paladin",
+      "url": "https://open.spotify.com/track/6Hni6BR0tH2pm5P7T1spJw"
     },
     {
       "album": {

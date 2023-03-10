@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Young Miko & Jovaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,308 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,323 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 37 | [Que Hay](https://open.spotify.com/track/2TK4Oy3iu4AdCaD8HXqBQf) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:15 |
 | 38 | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/track/1aWiVOJDIKVW13w1earaQf) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS DUEÑOS DE LA CALLE](https://open.spotify.com/album/7icb0keRMS05h8wgPN94NG) | 3:44 |
 | 39 | [Los Palos](https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Palos](https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0) | 4:40 |
-| 40 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
-| 41 | [19x](https://open.spotify.com/track/3B1HyarUAuFn0uDpbT9Ivp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [19x](https://open.spotify.com/album/2BwnE3xoDPWnrGIzMTeiNC) | 2:36 |
+| 40 | [19x](https://open.spotify.com/track/3B1HyarUAuFn0uDpbT9Ivp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Yecko](https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU) | [19x](https://open.spotify.com/album/2BwnE3xoDPWnrGIzMTeiNC) | 2:36 |
+| 41 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 42 | [Mention](https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 3:03 |
 | 43 | [X Ley \(feat\. Dei V\) \- Remix](https://open.spotify.com/track/2A6Rt8ePgLDKRZaIrQ2UVh) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [X Ley \(feat\. Dei V\) \[Remix\]](https://open.spotify.com/album/2Ck9KM9NeS7Qx8CpH9ryrt) | 5:01 |
 | 44 | [Baby Schai](https://open.spotify.com/track/1p01JS6Kpbwvizl2VXjkbZ) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby Schai](https://open.spotify.com/album/2Wqz2QJ5XyofmG6xqWHAEa) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Problema](https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Problema](https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR) | 3:45 |
 | 50 | [Yales & Gansters](https://open.spotify.com/track/6aF1hvrbqnGd4fZBNQJLoy) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Yales & Gansters](https://open.spotify.com/album/3QtrfERs6y5QVtGaw2iNVu) | 2:27 |
 
-Snapshot ID: `MTY3NjYyNDUwNCwwMDAwMDAwMDI1N2M3MTAzMGFiYjIwMWYxMTBjN2YxMWJhYzRlOGI0`
+Snapshot ID: `MTY3NjYyNDUwNCwwMDAwMDAwMGM0MTVhOGRiMWU2ZWM3MjlkOGM2NWYxZWQzYzMwMTVl`

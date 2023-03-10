@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-421 songs - 1 day 1 hr 23 min
+422 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bang Bang](https://open.spotify.com/track/0Z2wvNROelCrTqUM28RLYt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Bang Bang](https://open.spotify.com/album/2OtrW7q4kpPy7d3zPDeQqg) | 3:25 | 2020-06-29 | 2022-02-26 |
 | [Bankrupt](https://open.spotify.com/track/0zaiMBgpRkzeskrgDKidDd) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Bankrupt](https://open.spotify.com/album/0wAjbACLoPoKowOiQochJI) | 3:20 | 2022-04-22 | 2022-05-21 |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2022-07-29 |
-| [Before I'm Gone](https://open.spotify.com/track/5YWalilFvg6qdrwOasiL6v) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Before I'm Gone](https://open.spotify.com/album/1Q8YYZImSJVSWDUiUIsM41) | 2:30 | 2023-02-09 |  |
+| [Before I'm Gone](https://open.spotify.com/track/5YWalilFvg6qdrwOasiL6v) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Before I'm Gone](https://open.spotify.com/album/1Q8YYZImSJVSWDUiUIsM41) | 2:30 | 2023-02-09 | 2023-03-10 |
 | [Big Dreams](https://open.spotify.com/track/5vxDVqt3HpvYUshrY21Y2O) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [FITZ](https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB) | [Big Dreams](https://open.spotify.com/album/5nQ2jtEiXFlTyi5nN8NyMT) | 3:05 | 2021-12-10 | 2022-07-27 |
 | [Bipolar Rhapsody](https://open.spotify.com/track/0DUGf2Xn2cmuc4VS8fqY8S) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 4:48 | 2022-04-22 | 2022-05-21 |
 | [Bite Me](https://open.spotify.com/track/3jEqgCYhahj6Ab5o80uhnO) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv) | 2:39 | 2022-02-25 | 2022-05-21 |
@@ -198,6 +198,7 @@
 | [Jenny](https://open.spotify.com/track/1qhcO9Akt1mP0Y54OSTX9w) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Nothing More](https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G) | 3:56 | 2020-06-29 |  |
 | [Johnny Wants To Fight](https://open.spotify.com/track/0AAZGsiOMGkKtkQC32K6yO) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:00 | 2022-04-22 | 2022-05-21 |
 | [Just Like Me](https://open.spotify.com/track/6YHlVMt8HFLBbPfwrnY3Gz) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:03 | 2022-04-22 | 2022-05-21 |
+| [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-10 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-11-29 |  |
 | [Kid Midnight](https://open.spotify.com/track/7FmqchmnWZPhWE7IzBAowz) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Kid Midnight](https://open.spotify.com/album/5WV7yT3UR2eJss5tAVDhId) | 2:45 | 2022-04-22 | 2022-05-21 |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2020-06-29 | 2022-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 137629,
+  "num_followers": 137724,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDFmYWUzNzUwYzczYzE2YWM5NjU5MTJlMTE4Y2Q3OWI2",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDliZTJhMzU2YThjODI5NDVlMmE3YWM3ZjM2NzVmZTA1",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -315,6 +315,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 202283,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 202283,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 196173,
       "name": "Even Then",
       "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 235025,
-      "name": "Hills and Valleys",
-      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211293,
       "name": "Maybe It's Ok",
       "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 235025,
+      "name": "Hills and Valleys",
+      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "What If We",
-        "url": "https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Give Me Your Eyes",
-      "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "What If We",
+        "url": "https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Give Me Your Eyes",
+      "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "That Was Then, This Is Now",
-        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "That Was Then, This Is Now",
-      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "We Won't Be Shaken",
         "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+        "name": "That Was Then, This Is Now",
+        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/4UQA7EZ8gy25ibL2dfMqMG"
+      "duration_ms": 197880,
+      "name": "That Was Then, This Is Now",
+      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1083,6 +1067,22 @@
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/4UQA7EZ8gy25ibL2dfMqMG"
     },
     {
       "added_at": "2020-07-23 14:38:16",

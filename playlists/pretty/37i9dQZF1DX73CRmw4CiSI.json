@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 63126,
+  "num_followers": 63190,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDc2MzU2YjBlZjZkZjdmZTZhNTZmZjRkZDYwZTliOWZi",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGQwY2Q5MmQ4YzJjYTZlY2ViNzZhMWIyYmQyNGVmNzZj",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 249680,
-      "name": "El universo sobre m\u00ed",
-      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Voces de Ultrarumba",
         "url": "https://open.spotify.com/album/44wPRtOt2DMSy8C4ELLuwX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 192386,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 249680,
+      "name": "El universo sobre m\u00ed",
+      "url": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -479,38 +479,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 232640,
       "name": "Desde Brasil",
       "url": "https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -543,6 +527,22 @@
       "duration_ms": 221373,
       "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La taberna del Buda",
         "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Hasta luego",
-        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu"
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -687,6 +671,22 @@
       "duration_ms": 260733,
       "name": "Todo",
       "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Hasta luego",
+        "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Toma Ketama",
-        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
-      },
-      "artists": [
-        {
-          "name": "Ketama",
-          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Agustito",
-      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 282293,
       "name": "Fuera de Mi - Ya No Quiero Tu Querer - Version Remix",
       "url": "https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Toma Ketama",
+        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Agustito",
+      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Doctor Amor",
         "url": "https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 179546,
       "name": "Bonito Es",
       "url": "https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Al Son Del Tambor",
+      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Adelantando",
         "url": "https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 193800,
       "name": "Avisa a tu madre (feat. Tarque)",
       "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Al Son Del Tambor",
-      "url": "https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Dile Al Sol",
-        "url": "https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Que Puedo Pedir",
-      "url": "https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Esencial Rosario",
         "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 200693,
       "name": "Mi Gato",
       "url": "https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Dile Al Sol",
+        "url": "https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Que Puedo Pedir",
+      "url": "https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm"
     },
     {
       "added_at": "2022-01-25 22:47:02",

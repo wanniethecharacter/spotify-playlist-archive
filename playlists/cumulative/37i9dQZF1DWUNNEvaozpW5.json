@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 284034,
       "name": "Deseando ver la luz",
       "url": "https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ"
@@ -4096,6 +4096,24 @@
       "duration_ms": 173293,
       "name": "Todos los Gatos Son Pardos",
       "url": "https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR"
+    },
+    {
+      "album": {
+        "name": "Todos los peligros me conocen",
+        "url": "https://open.spotify.com/album/2B5hmo6tBMdzvHZgwDumfB"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142923,
+      "name": "Todos los peligros me conocen",
+      "url": "https://open.spotify.com/track/4oNQQtQ8NPMaesW2dQiXp8"
     },
     {
       "album": {

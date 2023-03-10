@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Peso Pluma y Nicki Nicole
 
-3,710 songs - 8 day 9 hr 7 min
+3,711 songs - 8 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2058,7 +2058,8 @@
 | [Me Vuelve a Llamar](https://open.spotify.com/track/7t3fumi0DfTZ63Pag2q0n6) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt) | [Me Vuelve a Llamar](https://open.spotify.com/album/6S1NywvVKR97DySgLR5HH8) | 3:03 | 2022-03-25 | 2022-04-02 |
 | [Mea Nota](https://open.spotify.com/track/6qjJ3NK5Et9lN19YUyLa29) | [Son Gotten](https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Bryale](https://open.spotify.com/artist/3PRzhjz9NGbwAMMM66m5bf), [Carlitos Klein](https://open.spotify.com/artist/7yh0vtTE3uSvp5MM3schJ1), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [Anonimus King](https://open.spotify.com/artist/1Q0CpiaVIcEVWy67MF6Nbj), [Benja el Menorcito](https://open.spotify.com/artist/6Dvq4yQMRSNEhwNAhJenII) | [Mea Nota](https://open.spotify.com/album/4vOnKMMPLEdiEQ8zwGM9ju) | 4:52 | 2022-04-22 | 2022-04-29 |
 | [Mecha Corta](https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mecha Corta](https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI) | 3:25 | 2023-02-24 | 2023-03-04 |
-| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 | 2022-08-12 | 2022-08-20 |
 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 | 2022-07-01 | 2022-07-09 |
 | [Meio Mundo de Coração \- Ao Vivo](https://open.spotify.com/track/28mcJq7O8yaWYFSjL93eiX) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo Em Brasília](https://open.spotify.com/album/2XB8wHW1qUIkAUJI9DM4Dl) | 2:55 | 2022-09-16 | 2022-09-24 |

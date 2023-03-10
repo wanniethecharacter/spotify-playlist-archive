@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-176 songs - 17 hr 55 min
+177 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Exoplanet \- Original Mix](https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx) | [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G) | [Exoplanet](https://open.spotify.com/album/0docPqSZtIMdeG1OIVLETs) | 4:39 | 2022-04-13 |  |
 | [Faiyum \- Zuma Dionys Remix](https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Faiyum \(Incl\. Zuma Dionys Remix\)](https://open.spotify.com/album/2bAHNvhIuJjrgkZfE7dcI6) | 7:06 | 2022-04-13 |  |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 |  |
-| [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 |  |
+| [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 | 2023-03-10 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 | 2022-09-09 |
 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 | 2023-01-17 |  |
@@ -105,6 +105,7 @@
 | [Luna \- Omary Remix](https://open.spotify.com/track/6oPYi7nKqZHKpRqjTsXafc) | [Ary Sya](https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs) | [Luna](https://open.spotify.com/album/7s5hHH9wJVZmLzQZt55wgt) | 6:46 | 2023-03-03 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 |  |
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-03-07 |  |
+| [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 | 2023-03-09 |  |
 | [Malayou](https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk) | [Da Mike](https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Malayou](https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy) | 7:21 | 2022-12-12 |  |
 | [Mbodiene](https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn) | [Everything Counts](https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG) | [Mbodiene](https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45) | 8:10 | 2022-12-15 |  |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-04-13 |  |

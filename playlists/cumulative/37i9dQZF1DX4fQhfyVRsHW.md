@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-129 songs - 6 hr 49 min
+131 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2022-05-25 |  |
 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 | 2022-05-25 |  |
 | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/track/4oetcmOX3Se7HSEzFuymZ4) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/album/5DE6bYPWsWnnSYfDRTXIf6) | 3:09 | 2022-05-25 |  |
+| [River Of Life](https://open.spotify.com/track/0hfRvQQIfBwglHpENfYecp) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Infinite](https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1) | 3:07 | 2023-03-10 |  |
 | [Royal Whispers](https://open.spotify.com/track/3n3D4PEIcG5JuLmT094Zt4) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Tales Of Nature](https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu) | 4:15 | 2022-06-24 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-05-25 |  |
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2022-05-25 |  |
@@ -119,6 +120,7 @@
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2022-05-25 |  |
 | [Take Me To The Moon](https://open.spotify.com/track/5drHLBwFielOcquGuNIWgV) | [Kayleigh Nixon](https://open.spotify.com/artist/7BqpJHB5B3DUc9kiIgeoDL) | [Take Me To The Moon](https://open.spotify.com/album/4CAxN5Sxnnajk2aVq2xCI4) | 3:10 | 2022-05-25 |  |
 | [Tantra](https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR) | [Catch Your Dream](https://open.spotify.com/artist/3Vj6U9oLAjY6TVcpxl8DFX) | [Tantra](https://open.spotify.com/album/5xrAysMOBsKJRSZ0h2soYY) | 3:27 | 2022-05-25 |  |
+| [Temptavi](https://open.spotify.com/track/6pAbtZUtsX7jo1QATy9yqK) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Temptavi](https://open.spotify.com/album/42bxu81Q5B6FnuwiwjjFbo) | 2:59 | 2023-03-10 |  |
 | [The Beach](https://open.spotify.com/track/2JvX2In3jjEj6MRcIuFkZC) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/3oQCzDRs74oRgj959XgNVg) | 3:01 | 2022-05-25 | 2022-07-29 |
 | [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 | 2022-07-22 |  |
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-05-25 |  |

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF"
+      },
+      "artists": [
+        {
+          "name": "Lulu Helensworth",
+          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156029,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml"
+    },
+    {
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/7IJ2VDv8IKaL0ilSwI9Syf"
       },
@@ -2170,6 +2188,24 @@
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"
+    },
+    {
+      "album": {
+        "name": "Unistades",
+        "url": "https://open.spotify.com/album/3zzLmx3Gmgis01wXxcMi9H"
+      },
+      "artists": [
+        {
+          "name": "Eyla Calmes",
+          "url": "https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Unistades",
+      "url": "https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM"
     },
     {
       "album": {

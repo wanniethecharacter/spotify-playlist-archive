@@ -1975,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "Sunrise Bang Ur Head Against Tha Wall",
+        "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "No Need 2 Be Sorry, Call Me? (ft. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8"
+    },
+    {
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 181714,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
@@ -2642,6 +2664,24 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "album": {
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/00uIFKhWf9CzKwIEIYBtNr"
+      },
+      "artists": [
+        {
+          "name": "Xela",
+          "url": "https://open.spotify.com/artist/47I0yLO8ngQPM0XDcdX3OB"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193102,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/0cWoDB45Hfbr3YdlBpdpFd"
     },
     {
       "album": {
@@ -3164,7 +3204,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 190469,
       "name": "Way That We Feel",
       "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"

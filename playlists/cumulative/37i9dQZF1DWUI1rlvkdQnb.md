@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-161 songs - 8 hr 35 min
+162 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-10 |  |
 | [Across The Purple Expanse](https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Across The Purple Expanse](https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd) | 2:14 | 2022-01-07 |  |
 | [Alvajaras](https://open.spotify.com/track/2Ehyt6aG3pExeEXHIEFALg) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alvajaras](https://open.spotify.com/album/4CtHVon8wb0urnmTJAa6JF) | 2:52 | 2021-12-10 |  |
+| [Anchor](https://open.spotify.com/track/5PByK88P0mNCJqPnS3Yxml) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Haven](https://open.spotify.com/album/0O6MiQUPJwtZaw9Eaa1oeF) | 2:36 | 2023-03-09 |  |
 | [Aphelion](https://open.spotify.com/track/111z9TkkoGcVODDNHYRLd2) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Aphelion](https://open.spotify.com/album/0KY05X8ajJhuV5dlA3ijRk) | 3:07 | 2021-12-10 |  |
 | [Aurora](https://open.spotify.com/track/4NpJcnYkIb7H8SU0ZX39uZ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Labyrinth](https://open.spotify.com/album/7kDDMsSrGUGfHa5cCx4Oes) | 2:50 | 2021-12-10 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: El Mató a un Policía Motorizado.
 
-155 songs - 9 hr 50 min
+156 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Luna de Miel en la Mano](https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [ADN \(Capítulo A\)](https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs) | 2:48 | 2022-06-24 |  |
 | [Maldito Show](https://open.spotify.com/track/1qCjDUdUvji7I56MLHPKqR) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Maldito Show](https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO) | 4:07 | 2022-06-24 |  |
 | [Mariposa](https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Mariposa](https://open.spotify.com/album/4mbkKo7ctuU3BeRo41P972) | 5:03 | 2022-06-24 |  |
-| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
 | [Miedo](https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Miedo](https://open.spotify.com/album/4ASiIcEpLwd67EyucGsuwY) | 4:18 | 2022-08-05 | 2022-12-03 |
 | [Mirando El Fuego](https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Después de la Tormenta](https://open.spotify.com/album/1I0ZrmnG7sGOAhmyHsvqur) | 3:46 | 2022-06-24 |  |
 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 | 2022-12-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 741513,
+  "num_followers": 741589,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMTk2NiwwMDAwMDAwMGU1MzkzZjUyMDllOWQxYmI3ODM5ZThkMDc5MzZlMjEy",
+  "snapshot_id": "MTY3NzgyMTk2NiwwMDAwMDAwMGYzYmQ4MzZkOGU0MTc0NjI5YmNhMGE0MzE0ZWRmNTdl",
   "tracks": [
     {
       "added_at": "2022-09-09 04:08:19",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
-      "added_at": "2023-03-09 01:07:40",
+      "added_at": "2023-03-10 01:24:00",
       "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
-      "added_at": "2023-03-09 01:07:40",
+      "added_at": "2023-03-10 01:24:00",
       "album": {
         "name": "FORWARD",
         "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Bittersweet (Radio Edit)",
-        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Bittersweet - Radio Edit",
-      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
       "added_at": "2022-09-23 04:06:59",
       "album": {
         "name": "STEREO DRIVER",
@@ -695,6 +679,22 @@
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Bittersweet (Radio Edit)",
+        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Bittersweet - Radio Edit",
+      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -829,6 +829,26 @@
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Watch The Sun (Deluxe)",
@@ -865,26 +885,6 @@
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
-    },
-    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "age/sex/location",
@@ -899,6 +899,22 @@
       "duration_ms": 220611,
       "name": "POF",
       "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -921,36 +937,20 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "Show & Prove",
+        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 325105,
-      "name": "What It Is",
-      "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
+      "duration_ms": 149890,
+      "name": "Show & Prove",
+      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -967,6 +967,22 @@
       "duration_ms": 363240,
       "name": "Everything You Touch Is Gold",
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 325105,
+      "name": "What It Is",
+      "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -989,22 +1005,6 @@
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Show & Prove",
-        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Show & Prove",
-      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Distance",
@@ -1019,38 +1019,6 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Bigger Dreams",
-        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
-      },
-      "artists": [
-        {
-          "name": "Nia Sultana",
-          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
-        }
-      ],
-      "duration_ms": 168038,
-      "name": "Ambience",
-      "url": "https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 243085,
-      "name": "Mean Mug",
-      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1073,20 +1041,36 @@
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+      "duration_ms": 243085,
+      "name": "Mean Mug",
+      "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Bigger Dreams",
+        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
+      },
+      "artists": [
+        {
+          "name": "Nia Sultana",
+          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
+        }
+      ],
+      "duration_ms": 168038,
+      "name": "Ambience",
+      "url": "https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1103,6 +1087,38 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 240048,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 257013,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1233,6 +1217,42 @@
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 244620,
+      "name": "How Deep Is Your Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
+    },
+    {
       "added_at": "2022-09-30 04:06:57",
       "album": {
         "name": "Make Me Say It Again, Girl",
@@ -1257,24 +1277,20 @@
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-10-28 07:50:50",
       "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
+        "name": "LET IT RAIN EP",
+        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
         }
       ],
-      "duration_ms": 244620,
-      "name": "How Deep Is Your Love - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
+      "duration_ms": 203064,
+      "name": "TEARS OF JOY",
+      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1317,36 +1333,24 @@
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
     },
     {
-      "added_at": "2022-10-28 07:50:50",
+      "added_at": "2023-03-10 01:24:00",
       "album": {
-        "name": "LET IT RAIN EP",
-        "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
+        "name": "i remember you my ex",
+        "url": "https://open.spotify.com/album/2uDubx9Dj7Pp2Y7Exa7qDa"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "TEARS OF JOY",
-      "url": "https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
         {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         }
       ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+      "duration_ms": 181773,
+      "name": "i remember you my ex",
+      "url": "https://open.spotify.com/track/4dGH4YFWf1qq4LcwG37yRH"
     }
   ],
   "unique_name": "Soul Coffee",

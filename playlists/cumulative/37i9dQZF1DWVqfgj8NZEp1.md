@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-275 songs - 1 day 1 hr 46 min
+277 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 | 2022-04-07 |  |
 | [La fin justifie les moyens](https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ) | [Joran Cariou Trio](https://open.spotify.com/artist/0EmoB83lbpEcH9Eh77Sp9K), [Damien Varaillon](https://open.spotify.com/artist/0cE8R1W0Cc2wQIDZPdJJ2M), [Stéphane Adsuar](https://open.spotify.com/artist/1r3aAqkG4KRnk2syAoqSd2) | [The Path Up](https://open.spotify.com/album/54mnf1vkHCoNfWDP0Hu3dG) | 7:13 | 2020-10-09 | 2022-04-08 |
 | [La Margaillette](https://open.spotify.com/track/0DqU9yL6tcAKzXnJeP2kUs) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 4:51 | 2023-01-12 |  |
+| [La Mesha](https://open.spotify.com/track/1ZohRhX9Opc6uSMDYFEpFP) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [La Mesha](https://open.spotify.com/album/6rzAc0d1SV18qNonfbHMep) | 5:34 | 2023-03-09 |  |
 | [Lakeside](https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi) | [Enj Society](https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4), [Michael Erian](https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m), [DANIEL NÖSIG](https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh), [Milan Nikolic](https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM), [Howard Curtis](https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL) | [Here And Now](https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp) | 6:08 | 2022-11-24 |  |
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2020-10-09 | 2022-02-18 |
 | [Leave Me Here](https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Hidden Beauty](https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF) | 4:03 | 2020-10-09 |  |
@@ -251,6 +252,7 @@
 | [Theme for Ernie](https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K) | 5:04 | 2022-06-30 | 2023-01-03 |
 | [Theme for Ernie](https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Strings](https://open.spotify.com/album/6oaOeKa70xXJ1QIMBerp3N) | 7:14 | 2021-09-24 | 2022-05-03 |
 | [Theme For Leon](https://open.spotify.com/track/1PdnJncOIXLLHOjWq6zQBE) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Theme for Leon](https://open.spotify.com/album/587RQMxWOa3jkQKFQt9tKw) | 6:08 | 2022-02-24 |  |
+| [There'll Be Other Times](https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 2: His Muse](https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo) | 6:08 | 2023-03-09 |  |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-20 |  |
 | [This Is Our Year](https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc) | [Thomas Sejthen Trio](https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM), [Thomas Sejthen](https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K), [Mads Ole Erhardsen](https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o), [Jesper Bo Knudsen](https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO), [Søren Bigum](https://open.spotify.com/artist/0XKjUjSwm1Am2d3M25U2rl) | [This Is Our Year](https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0) | 6:11 | 2023-01-05 |  |
 | [Through the Rain](https://open.spotify.com/track/0nnEStdwniSSWdLHc6uaWn) | [Eyal Lovett](https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl) | [Through the Rain](https://open.spotify.com/album/6FtYUX8NSsxzxleDwqnQB8) | 7:17 | 2022-06-30 | 2022-08-17 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231647,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo"
+    },
+    {
+      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
+    },
+    {
+      "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "album": {
@@ -272,6 +308,24 @@
       "duration_ms": 243453,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW"
+    },
+    {
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "album": {
@@ -1196,6 +1250,24 @@
       "duration_ms": 213178,
       "name": "Sweet Jane",
       "url": "https://open.spotify.com/track/3AsmFcxnAv5FtTsV9g45bj"
+    },
+    {
+      "album": {
+        "name": "the middle",
+        "url": "https://open.spotify.com/album/4aPHv1yKosqeIAgpbR78Rb"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200700,
+      "name": "the middle",
+      "url": "https://open.spotify.com/track/27v7ld43GiWxEPYph8WiEd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 734334,
+  "num_followers": 734617,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDU0YzA3ZTUwZWIyNmNlMDA5NWEyNDM4NDQ5NWY5Njcw",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDBjMzc5NjU0MjllN2RlNGFhZjYwYjIwMjFiODQyOTlj",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -367,18 +351,34 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Bem Melhor",
-        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Bem Melhor",
-      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Andar com f\u00e9",
+      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+        "name": "Bem Melhor",
+        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Andar com f\u00e9",
-      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
+      "duration_ms": 183050,
+      "name": "Bem Melhor",
+      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 296106,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -519,38 +535,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230786,
       "name": "Me Espera",
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Agridoce",
+        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
+      },
+      "artists": [
+        {
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Dan\u00e7ando",
+      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 166573,
       "name": "O Que Ser\u00e1 (A Flor Da Terra)",
       "url": "https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Agridoce",
-        "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
-      },
-      "artists": [
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Dan\u00e7ando",
-      "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180050,
       "name": "Sede Pra Te Ver - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2023-01-20 03:00:00",

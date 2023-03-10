@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2951,
+  "num_followers": 2961,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMGNkMjM4MmJiYWRlOTBhZTVlNzkzYjdiY2JhNTQ5ZjMx",
+  "snapshot_id": "MTY3NzIyODY5NCwwMDAwMDAwMDcxODU5MjhhMjRiMzViZGNhMzEzZWYxZWI2NDVjM2Nj",
   "tracks": [
     {
       "added_at": "2023-02-14 07:04:41",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
-      "added_at": "2023-03-09 00:55:47",
+      "added_at": "2023-03-10 01:13:28",
       "album": {
         "name": "LALALA Remix",
         "url": "https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3"
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "\u20a9 & ONLY",
+        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 223087,
+      "name": "Simon Dominic",
+      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "\u20a9 & ONLY",
-        "url": "https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 223087,
-      "name": "Simon Dominic",
-      "url": "https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Coming To You Live",
         "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
       },
@@ -311,6 +311,26 @@
       "duration_ms": 204218,
       "name": "Know Me (Feat. DEAN)",
       "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Acceptance Speech (Feat. B.I)",
+      "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -335,26 +355,6 @@
       "duration_ms": 229450,
       "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "Epik High Is Here \u4e0a (Part 1)",
-        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Acceptance Speech (Feat. B.I)",
-      "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -423,38 +439,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "To Life",
-        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191491,
-      "name": "To Life",
-      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 200142,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 200142,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Artist",
-      "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "grayground. 01",
         "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 228097,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Artist",
+      "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
       },
       "artists": [
         {
@@ -800,13 +800,21 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
+      "duration_ms": 221142,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -935,8 +943,8 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
       "artists": [
         {
@@ -944,21 +952,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1107,30 +1131,6 @@
       "duration_ms": 235186,
       "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 231182,
       "name": "COMPASS (Feat. Chin)",
       "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "MEVIUS",
-        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
       "artists": [
         {
-          "name": "J;KEY",
-          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
-        },
-        {
-          "name": "Von Air",
-          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
         }
       ],
-      "duration_ms": 174587,
-      "name": "MEVIUS (Feat. Von Air)",
-      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "MEVIUS",
+        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+      },
+      "artists": [
+        {
+          "name": "J;KEY",
+          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
+        },
+        {
+          "name": "Von Air",
+          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+        }
+      ],
+      "duration_ms": 174587,
+      "name": "MEVIUS (Feat. Von Air)",
+      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "MALIK THE CACTUS FLOWER",
         "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 215546,
       "name": "Infectious (Til Infinity)",
       "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
         "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 187893,
       "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
       "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1723,22 +1723,6 @@
       "duration_ms": 182578,
       "name": "20/22",
       "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1783,6 +1767,22 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "Show Me the Money 9 Episode 2",
         "url": "https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw"
       },
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
-    },
-    {
-      "added_at": "2023-02-14 07:04:41",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 197266,
       "name": "Little Brothers (Feat. LIL GIMCHI)",
       "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
+    },
+    {
+      "added_at": "2023-02-14 07:04:41",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2023-02-14 07:04:41",
@@ -2019,22 +2019,26 @@
     {
       "added_at": "2023-02-14 07:04:41",
       "album": {
-        "name": "BLAZE",
-        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
       },
       "artists": [
         {
-          "name": "DO HAN SE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
         }
       ],
-      "duration_ms": 131493,
-      "name": "SLASH (Feat. BIGONE)",
-      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

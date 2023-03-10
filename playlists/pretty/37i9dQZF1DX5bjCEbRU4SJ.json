@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 563663,
+  "num_followers": 563681,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDViZWVjNjMwMDEwZTUzYjdmOWNjNDQ2MDY5ZTJmNWZm",
+  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMGE0MDdhOTAxOTg2Yzg5MWEwZDI4M2NkMDdjMjdiNGU4",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -583,6 +583,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Magnolia Electric Co. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
+      },
+      "artists": [
+        {
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+        }
+      ],
+      "duration_ms": 442106,
+      "name": "Farewell Transmission",
+      "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Ashes & Fire",
         "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Magnolia Electric Co. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 442106,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -643,34 +643,6 @@
       "duration_ms": 242346,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "A Case of You (Original)",
-        "url": "https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o"
-      },
-      "artists": [
-        {
-          "name": "enessaresmi",
-          "url": "https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD"
-        },
-        {
-          "name": "Neverever",
-          "url": "https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw"
-        },
-        {
-          "name": "Aytow\u00e9n",
-          "url": "https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW"
-        },
-        {
-          "name": "Sava\u015f\u015f",
-          "url": "https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD"
-        }
-      ],
-      "duration_ms": 264437,
-      "name": "A Case of You - Original",
-      "url": "https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -867,18 +839,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "In The Ever",
-        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
+        "name": "Hello Starling",
+        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
       "artists": [
         {
-          "name": "Mason Jennings",
-          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
         }
       ],
-      "duration_ms": 270546,
-      "name": "Something About Your Love",
-      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
+      "duration_ms": 248453,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -899,18 +871,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Hello Starling",
-        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
+        "name": "In The Ever",
+        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
       },
       "artists": [
         {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
+      "duration_ms": 270546,
+      "name": "Something About Your Love",
+      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -947,22 +919,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Oliver James",
-      "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Hot Dreams",
         "url": "https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C"
       },
@@ -975,6 +931,22 @@
       "duration_ms": 293213,
       "name": "Hot Dreams",
       "url": "https://open.spotify.com/track/3kpRgTtMnArQ5Gay0JxElf"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Oliver James",
+      "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1011,22 +983,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 299853,
-      "name": "The Upswing",
-      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Swimming Away",
         "url": "https://open.spotify.com/album/7F5pXAeJQw8wbKow2u9quE"
       },
@@ -1039,6 +995,22 @@
       "duration_ms": 188480,
       "name": "Swimming Away",
       "url": "https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "duration_ms": 299853,
+      "name": "The Upswing",
+      "url": "https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1155,6 +1127,22 @@
       "duration_ms": 252800,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Vestiges & Claws",
+        "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 293880,
+      "name": "Leaf Off / The Cave",
+      "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
     }
   ],
   "unique_name": "Calm Down",

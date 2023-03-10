@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
+    },
+    {
+      "album": {
         "name": "Love Songs - Timeless Classics",
         "url": "https://open.spotify.com/album/76lPKmd1V1x0I3gSx0pmTa"
       },
@@ -1908,24 +1926,6 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/3aqTTareFsrd7gMeV7Qvif"
-    },
-    {
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "date_added": "2022-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241093,
-      "name": "How Deep Is Your Love - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "The best in current indie rock. Cover: Etta Marcus",
-  "num_followers": 110941,
+  "num_followers": 110944,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDY1YjA2OGViYzM3MGRiOTE5YjIzMmQ4ZDFjMDExYjJm",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDYwYTAxMzg1NTE4NzQzOGMwNzEyNWU4ZjYwYjVhODU5",
   "tracks": [
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "Heart-Shaped Bruise",
         "url": "https://open.spotify.com/album/1uzFv8mv9cidZxIztJLBmy"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3poXkdY1Jti4QPmJprD8kG"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "Moths",
         "url": "https://open.spotify.com/album/6ToN4up7FEIeWVChNt8ppv"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "Swampy & Sombre Two",
         "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
@@ -515,6 +515,22 @@
       "duration_ms": 213009,
       "name": "Swampy",
       "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
+    },
+    {
+      "added_at": "2023-03-10 00:35:38",
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -563,6 +579,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2023-03-10 00:35:38",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -631,6 +663,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 242737,
+      "name": "I Was Neon",
+      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "I Wanna Dance With You",
         "url": "https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA"
       },
@@ -643,22 +691,6 @@
       "duration_ms": 174761,
       "name": "I Wanna Dance With You",
       "url": "https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Fingers of Steel",
-        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -679,22 +711,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -707,6 +723,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -743,24 +775,8 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 242737,
-      "name": "I Was Neon",
-      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -789,22 +805,6 @@
       "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
-      "album": {
-        "name": "Sofa King",
-        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
-    },
-    {
       "added_at": "2023-02-10 00:00:00",
       "album": {
         "name": "Skinty Fia",
@@ -819,38 +819,6 @@
       "duration_ms": 268906,
       "name": "Roman Holiday",
       "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
-    },
-    {
-      "added_at": "2023-03-09 01:08:42",
-      "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "My Very Best",
-        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "My Very Best",
-      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -871,18 +839,34 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
       "artists": [
         {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 231600,
       "name": "SCARING ME",
       "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 178212,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Young & Naive",
         "url": "https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 193017,
       "name": "19 in a Week",
       "url": "https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/2bslpjCiGWMgPt2GCdllkH"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 178212,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Makes Me Sick Makes Me Smile",
         "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
+        "name": "Risk to my Reward",
+        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Tycho Jones",
+          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
+      "duration_ms": 171415,
+      "name": "Risk to my Reward",
+      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Risk to my Reward",
-        "url": "https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw"
-      },
-      "artists": [
-        {
-          "name": "Tycho Jones",
-          "url": "https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm"
-        }
-      ],
-      "duration_ms": 171415,
-      "name": "Risk to my Reward",
-      "url": "https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm"
       },
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ"
     },
     {
-      "added_at": "2023-03-09 01:08:42",
+      "added_at": "2023-03-10 00:35:38",
       "album": {
         "name": "What You Did",
         "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "I Shimmer",
         "url": "https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 265278,
       "name": "I Shimmer",
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 143322,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "It's Just A Bit Of Blood",
         "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
       },
       "artists": [
         {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "duration_ms": 143322,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 215929,
       "name": "Monday Morning",
       "url": "https://open.spotify.com/track/17wGCJWUp4XC4kSS1kcoh3"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     }
   ],
   "unique_name": "pulp",

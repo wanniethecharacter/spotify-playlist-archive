@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
-  "num_followers": 135410,
+  "num_followers": 135539,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDNlNzZkNGIzMTIwMDQ4MWQzMWMwNGM3NGUzNWJkNjc0",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDlhNTZjMGI0NTI4MzY0N2M2NzFjZjI5MmMzYThiMjc5",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Grrrl Angst",
         "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
       },
@@ -649,20 +665,36 @@
       "url": "https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R"
     },
     {
-      "added_at": "2022-05-31 23:01:00",
+      "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
       },
       "artists": [
         {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         }
       ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+      "duration_ms": 369213,
+      "name": "Word Salad",
+      "url": "https://open.spotify.com/track/6woLlMQzFg2LcPWqlCh7tq"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Too Young To Be In Love",
+        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+      },
+      "artists": [
+        {
+          "name": "Hunx & His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Lovers Lane",
+      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -683,34 +715,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Too Young To Be In Love",
-        "url": "https://open.spotify.com/album/0PBnBbcUe9KaCmt4x6izYP"
+        "name": "High Risk Homosexual Behavior",
+        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
       },
       "artists": [
         {
-          "name": "Hunx & His Punx",
-          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+          "name": "Dog Park Dissidents",
+          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Lovers Lane",
-      "url": "https://open.spotify.com/track/7sJePyELvhBcR6m8obIvWf"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 369213,
-      "name": "Word Salad",
-      "url": "https://open.spotify.com/track/6woLlMQzFg2LcPWqlCh7tq"
+      "duration_ms": 139000,
+      "name": "Rev Your Motor",
+      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 274340,
       "name": "Y'know",
       "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "High Risk Homosexual Behavior",
-        "url": "https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C"
-      },
-      "artists": [
-        {
-          "name": "Dog Park Dissidents",
-          "url": "https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Rev Your Motor",
-      "url": "https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
     },
     {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "Bird in Space",
+      "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
+    },
+    {
       "added_at": "2022-05-31 23:01:00",
       "album": {
         "name": "Fuck Danny Denial",
@@ -857,22 +873,6 @@
       "url": "https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp"
     },
     {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Bird in Space",
-      "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
-    },
-    {
       "added_at": "2022-05-31 23:01:00",
       "album": {
         "name": "Stoned Butch Blues",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Zombie Terrorist",
-        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Trophy Wifey",
-      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Model Citizen",
         "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Snarkism",
-        "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
+        "name": "Zombie Terrorist",
+        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
       },
       "artists": [
         {
-          "name": "Tribe 8",
-          "url": "https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn"
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Wrong Bathroom",
-      "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
+      "duration_ms": 127773,
+      "name": "Trophy Wifey",
+      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -967,6 +951,22 @@
       "duration_ms": 191009,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Snarkism",
+        "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
+      },
+      "artists": [
+        {
+          "name": "Tribe 8",
+          "url": "https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Wrong Bathroom",
+      "url": "https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Friends. Lovers. Favorites",
-        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
-      },
-      "artists": [
-        {
-          "name": "The Hirs Collective",
-          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "It's Ok to Be Sick",
-      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Friends. Lovers. Favorites",
+        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        }
+      ],
+      "duration_ms": 63466,
+      "name": "It's Ok to Be Sick",
+      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "The Seduction of Kansas",
         "url": "https://open.spotify.com/album/7LFNJk5W0KLjtdgo9W4WmQ"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 167276,
       "name": "Good Time Charlie",
       "url": "https://open.spotify.com/track/3m8UItuMK5t0VXmTOztjDQ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Try to Be Hopeful",
+        "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
+      },
+      "artists": [
+        {
+          "name": "The Spook School",
+          "url": "https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Binary",
+      "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 240866,
       "name": "Miranda",
       "url": "https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Try to Be Hopeful",
-        "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
-      },
-      "artists": [
-        {
-          "name": "The Spook School",
-          "url": "https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Binary",
-      "url": "https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu"
     },
     {
       "added_at": "2022-05-31 23:01:00",

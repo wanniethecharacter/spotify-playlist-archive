@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 488320,
+  "num_followers": 488526,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGZiNWE5ODQxNGY1ZjMwZWMxYmRiNjY5MGZjYzA1NzM3",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDkxNzE3ODUyODNkYTY2ZWVkODdhNjJjOWQyZjgzMTlm",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Dig. Sow. Love. Grow.",
-        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Killers",
-          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Dig. Sow. Love. Grow.",
+        "url": "https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Killers",
+          "url": "https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Jalamanta",
-        "url": "https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu"
-      },
-      "artists": [
-        {
-          "name": "Brant Bjork",
-          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
-        }
-      ],
-      "duration_ms": 415466,
-      "name": "Automatic Fantastic",
-      "url": "https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 524293,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/1G7rpMjaBTqczxxzJdHToF"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Jalamanta",
+        "url": "https://open.spotify.com/album/1ryZqUZiY09DvOO7Fht9Lu"
+      },
+      "artists": [
+        {
+          "name": "Brant Bjork",
+          "url": "https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS"
+        }
+      ],
+      "duration_ms": 415466,
+      "name": "Automatic Fantastic",
+      "url": "https://open.spotify.com/track/3CNVaHOEJiktEnC3POAVN8"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+        "name": "Luciferian Towers",
+        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
       },
       "artists": [
         {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
+      "duration_ms": 279840,
+      "name": "Bosses Hang, Pt. I",
+      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -939,18 +939,34 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Luciferian Towers",
-        "url": "https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH"
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
       "artists": [
         {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Bosses Hang, Pt. I",
-      "url": "https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2"
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 636226,
+      "name": "Dopethrone",
+      "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -971,18 +987,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
       "artists": [
         {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
         }
       ],
-      "duration_ms": 636226,
-      "name": "Dopethrone",
-      "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
+      "duration_ms": 252693,
+      "name": "Please Don't",
+      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Please Don't",
-      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Son of Earth and Sky",
         "url": "https://open.spotify.com/album/3Rt1KIZ02Onot7N0JZatFu"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO"
       },
       "artists": [
         {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
         }
       ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Trance States in Tongues",
         "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "All You Can Eat!!",
-        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Putain!",
-      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 508293,
       "name": "Big Sky Theory",
       "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "All You Can Eat!!",
+        "url": "https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Putain!",
+      "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Vols. 11 & 12",
-        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
-      },
-      "artists": [
-        {
-          "name": "Desert Sessions",
-          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
-        }
-      ],
-      "duration_ms": 333859,
-      "name": "Noses in Roses, Forever",
-      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Vols. 11 & 12",
+        "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
+      },
+      "artists": [
+        {
+          "name": "Desert Sessions",
+          "url": "https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT"
+        }
+      ],
+      "duration_ms": 333859,
+      "name": "Noses in Roses, Forever",
+      "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
-      },
-      "artists": [
-        {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 274453,
       "name": "Woodland Rites",
       "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Psych Aux Tropiques",
+        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
+      },
+      "artists": [
+        {
+          "name": "Kamggarn",
+          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "Cranberry Kiss",
+      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Feberdr\u00f6m",
         "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 349026,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Psych Aux Tropiques",
-        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "Cranberry Kiss",
-      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Sagor",
-        "url": "https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp"
+        "name": "Trails & Passes",
+        "url": "https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr"
       },
       "artists": [
         {
-          "name": "Skraeckoedlan",
-          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
         }
       ],
-      "duration_ms": 393040,
-      "name": "El Monstro",
-      "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
+      "duration_ms": 194866,
+      "name": "Our Mother Ash",
+      "url": "https://open.spotify.com/track/06X9h0zkeEncfohssytDp8"
     }
   ],
   "unique_name": "Stoner Rock",

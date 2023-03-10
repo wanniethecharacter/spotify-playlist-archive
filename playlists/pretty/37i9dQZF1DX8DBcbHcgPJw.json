@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Luck Ra + La T y la M + Rusherking",
-  "num_followers": 1176764,
+  "num_followers": 1176896,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3NDIxNSwwMDAwMDAwMDY3MDgzMGNjNDc5MzMzMWJiMGZkNTA1MGQwYzM0ODU4",
+  "snapshot_id": "MTY3Nzg3NDIxNSwwMDAwMDAwMDRmZWY4YzIxZGMzNjYzMTE3ODVmZWZmNWYwOGM3NTQx",
   "tracks": [
     {
       "added_at": "2023-02-27 19:18:04",
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
-      "added_at": "2023-03-09 00:39:59",
+      "added_at": "2023-03-10 00:40:14",
       "album": {
         "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
         "url": "https://open.spotify.com/album/3Du6tfNXrSoamWDmsQ58Zr"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
-      "added_at": "2023-03-09 00:39:59",
+      "added_at": "2023-03-10 00:40:14",
       "album": {
         "name": "Ya no vuelvas",
         "url": "https://open.spotify.com/album/1neUuj2OkhOvvsE8jz7gfg"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
-      "added_at": "2023-03-09 00:39:59",
+      "added_at": "2023-03-10 00:40:14",
       "album": {
         "name": "Tr\u00e1tame Suavemente",
         "url": "https://open.spotify.com/album/1VNBVLeGu6cYMuJk4FqXdx"
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 362946,
-      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
+        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 362946,
+      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 187959,
       "name": "La Sensaci\u00f3n del Bloque",
       "url": "https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
+        "name": "Se Pic\u00f3",
+        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 139430,
+      "name": "Se Pic\u00f3",
+      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
         "name": "Te Mentir\u00eda",
         "url": "https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF"
       },
@@ -1375,22 +1399,18 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Lo Intentamos (feat. Grupo Play)",
-        "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
       "artists": [
         {
-          "name": "Los Bonnitos",
-          "url": "https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH"
-        },
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lo Intentamos (feat. Grupo Play)",
-      "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -1419,42 +1439,22 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+        "name": "Lo Intentamos (feat. Grupo Play)",
+        "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
-        "name": "Se Pic\u00f3",
-        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+          "name": "Los Bonnitos",
+          "url": "https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH"
         },
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 139430,
-      "name": "Se Pic\u00f3",
-      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
+      "duration_ms": 192000,
+      "name": "Lo Intentamos (feat. Grupo Play)",
+      "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
     },
     {
       "added_at": "2023-02-27 19:18:04",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-02-27 19:18:04",
       "album": {
-        "name": "Donde Estas",
-        "url": "https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 154315,
-      "name": "Donde Estas",
-      "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
-    },
-    {
-      "added_at": "2023-02-27 19:18:04",
-      "album": {
         "name": "El Show (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/6ixStXWEa5EK8ZLJF5dOM2"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 164671,
       "name": "El Show - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/28Ec7cItD1pr4346e4kB5Y"
+    },
+    {
+      "added_at": "2023-02-27 19:18:04",
+      "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 154315,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
     },
     {
       "added_at": "2023-02-27 19:18:04",

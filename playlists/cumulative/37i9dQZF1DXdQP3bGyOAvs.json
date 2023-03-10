@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Bistro",
+        "url": "https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3"
+      },
+      "artists": [
+        {
+          "name": "Teide Garcia",
+          "url": "https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182678,
+      "name": "Bistro",
+      "url": "https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA"
+    },
+    {
+      "album": {
         "name": "Blend",
         "url": "https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ"
       },
@@ -3916,6 +3934,24 @@
       "duration_ms": 147000,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm"
+    },
+    {
+      "album": {
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/3BsEoqw6j1PZzMfwNRQVXk"
+      },
+      "artists": [
+        {
+          "name": "Flamentone",
+          "url": "https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/7MuWJI0X0XZAirfPZtRaSY"
     },
     {
       "album": {

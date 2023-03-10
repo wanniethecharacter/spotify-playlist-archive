@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 296886,
+  "num_followers": 296958,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDc1NTAwNDBkMTQ1MzU2Y2ZhNjI5MTIzZTA5ZGZlYjFk",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDhkZjliNGI3MDNmNzRkYWJmNzI0ZjViYmQ2ZGY1MTgx",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Not Today Mate",
-        "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Not Today Mate",
-      "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+        "name": "Not Today Mate",
+        "url": "https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ"
       },
       "artists": [
         {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+      "duration_ms": 217093,
+      "name": "Not Today Mate",
+      "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -643,6 +623,26 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "La Linda",
-        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Even If It Hurts",
-      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -831,6 +811,46 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Even If It Hurts",
+      "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -851,18 +871,46 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
         }
       ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Believe (feat. Fredwave & Jeshi)",
+        "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Fredwave",
+          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 208439,
+      "name": "Believe (feat. Fredwave & Jeshi)",
+      "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -903,66 +951,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Believe (feat. Fredwave & Jeshi)",
-        "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Fredwave",
-          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
-        },
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 208439,
-      "name": "Believe (feat. Fredwave & Jeshi)",
-      "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        },
-        {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
-        }
-      ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
       },
       "artists": [
         {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Pleasure (Now & Forever)",
-        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
       "artists": [
         {
-          "name": "Buddy Love",
-          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Boy Blue",
-      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
-      },
-      "artists": [
-        {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 174065,
       "name": "People",
       "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+      },
+      "artists": [
+        {
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",

@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-97 songs - 7 hr 44 min
+98 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Dance baby oh](https://open.spotify.com/track/27hxOtUPvhetUhiHMXCoEQ) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh) | [Dance baby oh / Ko sar ra di ep](https://open.spotify.com/album/6FYjgDCCqAk8ANMfEUUX4E) | 6:47 | 2021-07-24 |  |
 | [Desire](https://open.spotify.com/track/3Gn4tklv1fPb6UpCPivw60) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Desire](https://open.spotify.com/album/6ZeIMMCUmFekpbfVlvHpXz) | 3:50 | 2021-07-24 |  |
 | [Desire](https://open.spotify.com/track/0WdiVvjH6uajYCcxPTmsy9) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/36BKV0HxVYyJldaw98fFOK) | 5:54 | 2021-07-24 | 2022-07-29 |
-| [Desire](https://open.spotify.com/track/1TVjAEwztobbrKRaPwEt03) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/41UkL0rtNODHGrWz95wHWd) | 5:54 | 2022-06-20 |  |
+| [Desire](https://open.spotify.com/track/1TVjAEwztobbrKRaPwEt03) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/41UkL0rtNODHGrWz95wHWd) | 5:54 | 2022-06-20 | 2023-03-10 |
+| [Desire](https://open.spotify.com/track/4tVrOiaZJK20ZfjWqHRPAt) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/6kcUuZbp0Txa5dm9JAmNm9) | 5:54 | 2022-06-20 |  |
 | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/track/2vHpvjpGvISOnDrhls2wd4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/album/3xdYgfhCPGNKdEihLuEOiB) | 3:59 | 2021-07-24 | 2022-06-21 |
 | [Domino](https://open.spotify.com/track/4VaMlcKj3wWdFhOeyYCDgM) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Domino](https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK) | 4:31 | 2021-07-24 |  |
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 |  |

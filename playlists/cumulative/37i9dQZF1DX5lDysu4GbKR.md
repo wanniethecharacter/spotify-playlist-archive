@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-173 songs - 10 hr 30 min
+175 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Listen \- Acoustic Version](https://open.spotify.com/track/0T1G4VdmWe9rX37ekFNFJi) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/3YEOY0jQ0vjWKbMQ0vVJ1f) | 4:08 | 2021-12-09 | 2022-10-14 |
 | [Listen \- Acoustic Version](https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA) | 4:08 | 2022-09-29 |  |
 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 | 2021-12-09 |  |
+| [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 | 2023-03-09 |  |
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-27 |  |
 | [Love No Limit \(For Lisa\)](https://open.spotify.com/track/3cHaDV8U7srUIF4MeBubXf) | [Ernie Halter](https://open.spotify.com/artist/5B8M0EkuUFr6fGN66BO8H8) | [Acoustic Throwback \- Nineties Rhythm and Blues](https://open.spotify.com/album/1fvArybR5Lu1ShVdZKq3VX) | 3:05 | 2021-12-09 | 2022-01-26 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-12-09 |  |
@@ -152,6 +153,7 @@
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw) | 3:18 | 2022-12-15 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 | 2022-12-25 |
+| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-09 |  |
 | [Stronger Than](https://open.spotify.com/track/5BhEJz8HuJttbVbKNJ3NFO) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [One](https://open.spotify.com/album/4Jf5anF31w9IHg9EUa6FSQ) | 4:26 | 2021-12-09 | 2022-09-15 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-06-16 |  |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |

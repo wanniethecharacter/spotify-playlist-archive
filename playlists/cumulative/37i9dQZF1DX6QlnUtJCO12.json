@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Calypso - Best of Trinidad",
+        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
+      },
+      "artists": [
+        {
+          "name": "Lord Pretender",
+          "url": "https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ"
+    },
+    {
+      "album": {
         "name": "The Magic of Trinidad Sounds 1930-39",
         "url": "https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 146416,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0"
@@ -545,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Calypso - Best of Trinidad",
+        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
+      },
+      "artists": [
+        {
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Mathilda",
+      "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
+    },
+    {
+      "album": {
         "name": "The Magic of Trinidad Sounds 1930-39",
         "url": "https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK"
       },
@@ -592,7 +628,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 165040,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6"

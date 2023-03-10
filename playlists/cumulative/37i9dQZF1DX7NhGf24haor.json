@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Addicted To You",
+        "url": "https://open.spotify.com/album/7v0ttic1w2UYSTrpDxRJlw"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Addicted To You",
+      "url": "https://open.spotify.com/track/05iLI2wzA2HzSKl1OnYqom"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -178,6 +196,32 @@
       "duration_ms": 193000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
+    },
+    {
+      "album": {
+        "name": "ARCEUS",
+        "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
+      },
+      "artists": [
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        },
+        {
+          "name": "Overdrive",
+          "url": "https://open.spotify.com/artist/1i5glvnPWpWv56szVy4emC"
+        },
+        {
+          "name": "Und3rsound",
+          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "ARCEUS",
+      "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
     },
     {
       "album": {
@@ -323,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
+    },
+    {
+      "album": {
         "name": "Born To Be King (feat. MC D)",
         "url": "https://open.spotify.com/album/785TGg7CGwdV8sksTdtpHn"
       },
@@ -356,7 +426,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 127503,
       "name": "Bounce B#tch",
       "url": "https://open.spotify.com/track/0tzNc4vPi7YujhPEl0lVCO"
@@ -1094,7 +1164,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 118125,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/64tneFBKCANLgkyno7T0TO"
@@ -1246,7 +1316,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 201230,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv"
@@ -1312,6 +1382,32 @@
       "duration_ms": 175741,
       "name": "From Star To Stardust",
       "url": "https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p"
+    },
+    {
+      "album": {
+        "name": "Gates To Kingdom",
+        "url": "https://open.spotify.com/album/1iUdLVGkaL34i2oFamQfwt"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "XCEPTION",
+          "url": "https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265673,
+      "name": "Gates To Kingdom",
+      "url": "https://open.spotify.com/track/4ULxFof2axxEJyJ4QBHsVw"
     },
     {
       "album": {
@@ -1466,6 +1562,24 @@
       "duration_ms": 171692,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/69fl0kuVe8DgY1cmEizlOQ"
+    },
+    {
+      "album": {
+        "name": "Heart On Fire",
+        "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
+      },
+      "artists": [
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
     },
     {
       "album": {
@@ -1903,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
+    },
+    {
+      "album": {
         "name": "Impossible (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/4h5oicpFQZ7nipgbVoTOiF"
       },
@@ -2270,7 +2402,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 216771,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/5ouMOJteIfXL10TlfXHeWw"
@@ -2350,7 +2482,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 173684,
       "name": "Love Is Gone - Exhale Remix",
       "url": "https://open.spotify.com/track/5FWyfbOZ25bSOLBImIXumb"
@@ -2442,7 +2574,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 247600,
       "name": "Mad Sound Killer",
       "url": "https://open.spotify.com/track/65cIgWbipE1sK87SlRfcMU"
@@ -2530,7 +2662,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 189868,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/4IS0ROMGe8EmlKRaIfxsOm"
@@ -2592,7 +2724,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 180187,
       "name": "MEMO",
       "url": "https://open.spotify.com/track/4UNwjOyMcuzcHScV9VKZ8B"
@@ -2789,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208451,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"
+    },
+    {
+      "album": {
         "name": "No Resistance",
         "url": "https://open.spotify.com/album/64YdKvElIkpCQ2GAcDNZwv"
       },
@@ -2982,7 +3136,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 234330,
       "name": "Orkaan",
       "url": "https://open.spotify.com/track/5vkpDNHxBCfczedfVx3g0t"
@@ -3008,6 +3162,28 @@
       "duration_ms": 190451,
       "name": "Out Of My Mind - Firelite Remix",
       "url": "https://open.spotify.com/track/3JHovHnnsfABjDje2COLe9"
+    },
+    {
+      "album": {
+        "name": "Out Of The Frame",
+        "url": "https://open.spotify.com/album/4j7BWorgsb8kd6OumLsm0Z"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208101,
+      "name": "Out Of The Frame",
+      "url": "https://open.spotify.com/track/1gXIL1SScEEYv9MxlRN9hj"
     },
     {
       "album": {
@@ -3268,7 +3444,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 162725,
       "name": "Reversed Reality",
       "url": "https://open.spotify.com/track/1KZ6aenxv7P5BKtVu2PMkg"
@@ -3356,6 +3532,24 @@
       "duration_ms": 171428,
       "name": "Rock Tha Party",
       "url": "https://open.spotify.com/track/2y4MGW3z5eMAZTXm7Q0T7V"
+    },
+    {
+      "album": {
+        "name": "Rock To This",
+        "url": "https://open.spotify.com/album/2ISsGwMwmCptd61688kNma"
+      },
+      "artists": [
+        {
+          "name": "High Level",
+          "url": "https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Rock To This - Radio Edit",
+      "url": "https://open.spotify.com/track/0zTwNhoPQjXVs1x5Cb80hJ"
     },
     {
       "album": {
@@ -3550,7 +3744,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
@@ -3814,7 +4008,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 214200,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4OSJ9LrhlX3V2n3sYf4Vbk"
@@ -4040,7 +4234,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 218500,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/39e20oP8OPOvU5c9vpHgDH"
@@ -4219,6 +4413,32 @@
     },
     {
       "album": {
+        "name": "The Sinner",
+        "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Raakmo",
+          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
+    },
+    {
+      "album": {
         "name": "The World Is Yours",
         "url": "https://open.spotify.com/album/6dMYkQVJniC1DHCZoQPA3d"
       },
@@ -4300,7 +4520,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 197199,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/7277PblCcj63DLEWVooyAI"
@@ -4344,7 +4564,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 274968,
       "name": "TOO HAPPY",
       "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
@@ -4578,7 +4798,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 177000,
       "name": "Undefeatable",
       "url": "https://open.spotify.com/track/6ib2JAMQv9rqCKXFWL04hj"
@@ -4636,7 +4856,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 202124,
       "name": "Unleash The Night",
       "url": "https://open.spotify.com/track/53KVgenTd2gRIS6cAkYXaL"
@@ -4856,7 +5076,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 192741,
       "name": "We're Alive",
       "url": "https://open.spotify.com/track/0p1Yq8Y84qdZwr1A90p3a4"

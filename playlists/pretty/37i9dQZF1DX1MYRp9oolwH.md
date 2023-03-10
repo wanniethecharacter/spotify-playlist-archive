@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,004 likes - 69 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,099 likes - 69 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
-| 2 | [Chamkeela Angeelesi](https://open.spotify.com/track/3GCwsB2loRGeUL8oq2Y4TW) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Chamkeela Angeelesi \(From "Dasara"\) \(Telugu\)](https://open.spotify.com/album/4pLn59pEKTs9K3pywf2AYU) | 3:23 |
+| 2 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 | 3 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 4 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [M\. M\. Sreelekha](https://open.spotify.com/artist/6CuXzjuJB23gdGN8IsA5yS), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
 | 5 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 68 | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\)](https://open.spotify.com/track/681ukTk7c3tJSQNJNYJNtn) | [Dhanunjay](https://open.spotify.com/artist/1hvdjqrFHZHjvOyfhJbDlA) | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5ykWon1Do8KXWSza1ANaFL) | 4:52 |
 | 69 | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/track/6ijwldopdkwAHwVg2dB5z0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikar Velamuri](https://open.spotify.com/artist/3QuHNeC4BclLeAelyZO4MO) | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/album/6uHpm30bYnsn9YL4JzVQrR) | 3:16 |
 
-Snapshot ID: `MTY3ODI5MTkwNiwwMDAwMDAwMDlhODZhYWJkZTQ2ZmMyOTRhZWM2MWQwYmQyNzZkMzg0`
+Snapshot ID: `MTY3ODI5MTkwNiwwMDAwMDAwMGJjZWM1NzI4ZThlMDg1MWY2YWVkYzBjNTA1MTkzZDc3`

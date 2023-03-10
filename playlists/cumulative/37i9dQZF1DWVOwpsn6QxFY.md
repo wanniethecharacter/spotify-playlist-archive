@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-233 songs - 14 hr 12 min
+234 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Follow](https://open.spotify.com/track/461I2ITjo0XHrl8EqlJdW2) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Follow](https://open.spotify.com/album/2ysWIAs3sTVNhX6PNrHxUb) | 4:26 | 2021-11-12 | 2022-06-26 |
 | [Folly](https://open.spotify.com/track/2WdbrlcvB1KEX2DALxiKOE) | [Sea Power](https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL) | [Folly](https://open.spotify.com/album/5meHvL7ffsywZ5AF9K0ala) | 4:16 | 2022-03-31 | 2022-04-21 |
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-08 |  |
-| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 |  |
+| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 | 2023-03-10 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 | 2021-11-12 |  |
@@ -107,6 +107,7 @@
 | [Hollow](https://open.spotify.com/track/21gawnch3zw2cpWyHGTT9h) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Hollow](https://open.spotify.com/album/6d2yzyxps7g1RDp2j0DTko) | 3:04 | 2021-11-12 | 2022-04-25 |
 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 | 2021-11-12 |  |
 | [How Can You Tell If You Love Her?](https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp) | [John Myrtle](https://open.spotify.com/artist/42p6gXpB3btdFQWyjY5F6h) | [How Can You Tell If You Love Her?](https://open.spotify.com/album/6GKsF5OAwaMwoheiUxxbsW) | 1:54 | 2021-11-12 | 2022-07-26 |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 |  |
 | [I Found Out When the Day Had Come](https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [I Found Out When the Day Had Come](https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc) | 2:44 | 2021-11-12 |  |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 |  |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-22 | 2022-06-24 |
@@ -206,7 +207,7 @@
 | [Southwark](https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4) | 3:22 | 2022-12-28 |  |
 | [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-02-04 | 2022-08-13 |
 | [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 | 2022-08-12 |  |
-| [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-04-08 | 2022-04-20 |
+| [Spinning Heart](https://open.spotify.com/track/6BoegZTAMosVzlM6I64K5M) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Spinning Heart](https://open.spotify.com/album/62oaynhj9YYhW6D6BuNjrv) | 5:14 | 2022-04-08 |  |
 | [Spring Song](https://open.spotify.com/track/0OdnqTeiqN9eRs22OSf5n2) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Spring Song](https://open.spotify.com/album/4a0TAPZGnCsgk0RMiEVfU7) | 3:41 | 2022-03-31 | 2022-04-19 |
 | [Stacking Chairs](https://open.spotify.com/track/7355r4wB8D6crALDxPZ8KR) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/70VPEuD4jUU7uPjBmP0D2o) | 3:08 | 2021-11-12 | 2022-07-29 |
 | [Sugar](https://open.spotify.com/track/33pJUhmDYLfmGnpAwnKu2i) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sugar](https://open.spotify.com/album/69KXYbtGSjqKjQ7aBBZbGw) | 2:56 | 2022-03-31 | 2022-04-17 |
@@ -220,7 +221,7 @@
 | [The Ballad Of Joyce Vincent](https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [The Ballad of Joyce Vincent](https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-05-18 |
 | [The Desperate Kingdom of Love](https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [The Desperate Kingdom of Love](https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z) | 2:52 | 2021-11-12 | 2022-04-26 |
-| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 |  |
+| [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-06-06 | 2023-03-10 |
 | [The Man I Admire](https://open.spotify.com/track/2c0zQJJo3IFUxMjNZqspyw) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Man I Admire](https://open.spotify.com/album/0HwQQtPpXIDEah8U8udW0T) | 2:12 | 2021-11-12 | 2022-07-14 |
 | [The Mersey Line](https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/0Gbwl02JtqoiyxHZtcYZYe) | 2:14 | 2021-11-12 | 2022-07-27 |
 | [The Sun Won't Shine On Me](https://open.spotify.com/track/6PWC4ts0y5kxqLQz4V74hz) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [The Sun Won't Shine On Me](https://open.spotify.com/album/63r5VfmmPeBi4xadvCO5Ke) | 2:39 | 2021-11-12 | 2022-06-05 |

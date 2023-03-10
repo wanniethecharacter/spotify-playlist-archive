@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Peso Pluma y Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,345 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,412 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 39 | [Contento](https://open.spotify.com/track/3I8miP1KCLqZl0d9kRXNb8) | [El Tapo](https://open.spotify.com/artist/5nqXrg6Fav69rWS5zVfoB1), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb), [New York el Artista](https://open.spotify.com/artist/0FcrFfw7jT8e0FVuwLvSvj) | [Contento](https://open.spotify.com/album/2hT7r4QAlOX5UFg2RmdkrN) | 3:25 |
 | 40 | [La Para Remix](https://open.spotify.com/track/7uZLmQ7EKeUCLUuBz36U47) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Slowlismar](https://open.spotify.com/artist/6g1zX3gqHZrFRJNMkKoUPp), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [La Para Remix](https://open.spotify.com/album/6mJoPrkmIScSRv3Vimuyef) | 3:44 |
 | 41 | [AHORA ESTOY MEJOR](https://open.spotify.com/track/4RujMgs5YhqtRFrnCto6xv) | [Flow Mafia](https://open.spotify.com/artist/0pxWSJ3TbIRuGPJnmxCfBe), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [AHORA ESTOY MEJOR](https://open.spotify.com/album/5BI5gx4tOO6NoAfhBaezoV) | 3:00 |
-| 42 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 |
+| 42 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
 | 43 | [Bellakería](https://open.spotify.com/track/5W8Bl46FPBi9r1fKf3iArD) | [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Bellakería](https://open.spotify.com/album/7bm8HklkmN2f9ygwLymSTR) | 3:33 |
 | 44 | [Puesto Pal Dinero](https://open.spotify.com/track/0FkcLTWfpP6eysfrQW9Phr) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Puesto Pal Dinero](https://open.spotify.com/album/5ruz6YmD8UIQaph4FA9U91) | 2:42 |
 | 45 | [Amor X Interés](https://open.spotify.com/track/5CJLsNeEUKhFsJ7r553pfk) | [Pipe Calderón](https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Back 2 The Game](https://open.spotify.com/album/4CBOR7qfPX2b2eqXXgb8LF) | 3:36 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 75 | [Amargo](https://open.spotify.com/track/3gvfEvfSVFXWCL7NpPj0N1) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Amargo](https://open.spotify.com/album/0e7TO0L0WpChjnnzfFXoV8) | 3:49 |
 | 76 | [Pódio](https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Pódio](https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T) | 4:52 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGM3ZDM0ODJkYzMyZTVjNjAzOGM2NTRmOTkwMzU2YTE1`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMDU0OTQ5NmI1MTE5ODk4NDg4MTM3ODUzMWNlYjQzZjI4`

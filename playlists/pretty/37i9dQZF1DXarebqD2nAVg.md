@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,783 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,948 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 25 | [Why](https://open.spotify.com/track/49mcwkJTu9JNHTSPdxFbv6) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Forget About Her](https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD) | 1:14 |
 | 26 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 |
 | 27 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
-| 28 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
-| 29 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
-| 30 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
-| 31 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
-| 32 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
-| 33 | [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 |
+| 28 | [Safe \(feat\. Shiloh\)](https://open.spotify.com/track/0TMez4fjyOAciXn4VefMNU) | [Bra Dy](https://open.spotify.com/artist/6tTaHSgwQ4Ld5lBKAc93Bd), [Shiloh](https://open.spotify.com/artist/2hkB8tem6WtX6015adeOXU) | [Safe \(feat\. Shiloh\)](https://open.spotify.com/album/6r33t1qiEt1UfJrByhcdn9) | 3:05 |
+| 29 | [$orries](https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [$orries](https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of) | 3:34 |
+| 30 | [Was I Not Good Enough?](https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely EP](https://open.spotify.com/album/1dXhepwQGzqvbFBylgMbZF) | 2:25 |
+| 31 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
+| 32 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
+| 33 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
 | 34 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
 | 35 | [making her smile](https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882) | [Equity Slate](https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q), [soojeong](https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO) | [Apart](https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If) | 1:12 |
 | 36 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 47 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
 | 48 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 |
 | 49 | [same stars](https://open.spotify.com/track/0XFp0z42T0x3s3qxidqvTE) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js) | [if you're reading this ily](https://open.spotify.com/album/5WZFEyUjIgJL8iV04b9pwp) | 1:56 |
-| 50 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
+| 50 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
 
-Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDJkMTQzZjJiYzI5YWY1Y2VlMDkwMTM5MTBkNzU4MTcx`
+Snapshot ID: `MTY3NjU4NzgwNywwMDAwMDAwMDVlOGMyMjNkZGY2Y2JlMDc4MDkxODQ4ZjgwMzA4OTI3`

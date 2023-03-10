@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/4jG5JzLSGLGiKlRcm9QmoA"
+      },
+      "artists": [
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141375,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/3ujwumwYnR962f26zBQw1H"
+    },
+    {
+      "album": {
         "name": "Electric (jeonghyeon Remix)",
         "url": "https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8"
       },

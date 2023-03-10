@@ -4,7 +4,7 @@
 
 > 
 
-339 songs - 18 hr 42 min
+340 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2022-03-18 | 2022-05-03 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-08 | 2023-03-06 |
 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 | 2022-01-14 |  |
-| [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 |  |
+| [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 | 2023-03-10 |
 | [Cinco A Cero](https://open.spotify.com/track/1ZULiEu2jHLr65ChXaF2Mo) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Cinco A Cero](https://open.spotify.com/album/2oY4Hw8IXeAGiZ772nSa2L) | 2:30 | 2022-03-04 | 2022-06-10 |
 | [Cita](https://open.spotify.com/track/00dlNWEiPTtm1ldy6zOUlz) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Cita](https://open.spotify.com/album/701SovA1xH6bKc98mQJ3HI) | 3:36 | 2022-04-01 | 2022-04-15 |
 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 | 2022-01-14 | 2022-07-29 |
@@ -179,6 +179,7 @@
 | [La Oficial](https://open.spotify.com/track/3o0Ue4lVZ549Ro12URAJfX) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [La Oficial](https://open.spotify.com/album/51o5zawdmlLczaOTVDFWzy) | 3:08 | 2022-01-14 | 2022-07-22 |
 | [La Pasamos CXBRXN](https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 3:48 | 2022-12-02 |  |
 | [La Realidad](https://open.spotify.com/track/2pRSItqwAyyQhqsdTQZ1Om) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:35 | 2022-10-04 | 2022-10-29 |
+| [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-10 |  |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2022-01-14 |  |
 | [La Última Canción](https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:04 | 2023-01-30 |  |
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2022-01-14 | 2022-07-29 |

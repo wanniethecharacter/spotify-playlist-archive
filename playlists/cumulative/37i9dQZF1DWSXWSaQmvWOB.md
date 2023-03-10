@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-628 songs - 1 day 14 hr 34 min
+629 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-28 |  |
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-10-02 | 2021-01-09 |
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-05-21 | 2021-12-01 |
-| [Horsepower For The Streets](https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO) | 2:23 | 2022-05-19 |  |
+| [Horsepower For The Streets](https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO) | 2:23 | 2022-05-19 | 2023-03-10 |
 | [How Can I Move On](https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 2:58 | 2022-07-07 | 2022-11-01 |
 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-02 |  |
 | [How Long?](https://open.spotify.com/track/5yhPtPo3ZWW7T5iCJ5CNjk) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/2oEnK6S1wlfIq1CECB9qL4) | 4:16 | 2020-05-15 | 2020-06-05 |
@@ -389,6 +389,7 @@
 | [Nowhere](https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Nowhere](https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc) | 3:48 | 2020-03-25\* | 2020-04-24 |
 | [Oceans Of Emotions](https://open.spotify.com/track/4h9K8ufTOzHaEclmep5Cd4) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq) | 3:53 | 2023-02-17 |  |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/69wwaC0Vfbhl3MeKp4Py0s) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [OCT 33 \(Live In Studio\)](https://open.spotify.com/album/6BFRRFR2abLgMbhNB3D5ZV) | 5:44 | 2020-08-25 | 2021-02-28 |
+| [Offering \- A COLORS SHOW](https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Offering \- A COLORS SHOW](https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a) | 3:08 | 2023-03-09 |  |
 | [Oh Honey](https://open.spotify.com/track/2BFZeaXr1mWCQkC4I3ZKvc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:05 | 2021-12-16 | 2022-09-20 |
 | [Old Fashioned](https://open.spotify.com/track/4mxXRjQGi8BPRlsjHyWmw4) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Old Fashioned](https://open.spotify.com/album/2LOPInFEsUMJjs6Rev8zOP) | 3:20 | 2020-04-24 | 2020-10-09 |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2021-01-09 | 2021-04-23 |
@@ -491,7 +492,7 @@
 | [Someone To Love](https://open.spotify.com/track/4fQ1RRzL8SntodxIHCeDqh) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Someone To Love](https://open.spotify.com/album/53ql8KYecZgqOmKpb9cQWY) | 3:27 | 2020-07-11 | 2021-01-09 |
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2020-07-03 | 2021-06-11 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-06-03 | 2022-07-27 |
-| [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-11-03 | 2022-12-03 |
+| [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-11-03 |  |
 | [Sometimes](https://open.spotify.com/track/2m0pzukUN2eFutFjnXNFXF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Sometimes](https://open.spotify.com/album/2iF0e8WtqcNWDgmo7mDz0m) | 4:33 | 2020-03-25\* | 2020-04-24 |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2022-10-28 |  |
 | [Sorrow, Tears And Blood](https://open.spotify.com/track/7yVtVUO4I1eXL4KIJB5bLd) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Stand Up](https://open.spotify.com/album/0qsh1whWV3FcVaM6A8vLN9) | 3:58 | 2020-12-18 | 2021-02-28 |
@@ -527,7 +528,7 @@
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 | 2023-02-18 |
 | [Teenage Love](https://open.spotify.com/track/1qcsKjpHJGoaaD9sUqpxKJ) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Teenage Love](https://open.spotify.com/album/5D0H5G4gCjZgslzLOE6MQv) | 3:18 | 2020-11-13 | 2021-02-28 |
 | [Tell Me](https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Tell Me](https://open.spotify.com/album/6cMt0oDOEOmr5Th6atET25) | 4:16 | 2021-04-17 | 2021-12-01 |
-| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-06-30 |  |
+| [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-06-30 | 2023-03-10 |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-07-28 | 2022-09-23 |
 | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/track/7v3F2unkzBsPQVgTcChkM1) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/album/2zKqFkItWJB90sn1EKhNgu) | 3:08 | 2021-05-07 | 2022-07-29 |
 | [Testify](https://open.spotify.com/track/3uzf4CQ26jvTFDZpZtcKe5) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Testify](https://open.spotify.com/album/6i6e3wzE4eStKKY5tta3DE) | 3:06 | 2020-07-03 | 2021-04-17 |

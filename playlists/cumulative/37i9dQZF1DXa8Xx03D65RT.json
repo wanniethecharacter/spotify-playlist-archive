@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 187187,
       "name": "Legendary Love",
       "url": "https://open.spotify.com/track/3JXtJtFkP8gVIl3BM2ajr5"
@@ -4784,7 +4784,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 120458,
       "name": "Meditation: I. Promise",
       "url": "https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc"
@@ -5678,6 +5678,24 @@
       "duration_ms": 166541,
       "name": "Needle and Thread",
       "url": "https://open.spotify.com/track/2jUd0hF3zy4FNsO2ODt3hq"
+    },
+    {
+      "album": {
+        "name": "Never Before",
+        "url": "https://open.spotify.com/album/028oKGjHiCdAn9xk8aUebZ"
+      },
+      "artists": [
+        {
+          "name": "Herbert Campas",
+          "url": "https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119522,
+      "name": "Never Before",
+      "url": "https://open.spotify.com/track/0MDFVZGO3we7Usiy2YrB41"
     },
     {
       "album": {

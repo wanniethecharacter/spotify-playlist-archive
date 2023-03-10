@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X?si=uZKKyAbDSiC1pHr_B26FZA\">Lizwi</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc?si=fXic9FuYS9ChRvUkbQuCZw\">Lazarusman</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
+    },
+    {
+      "album": {
         "name": "All of This Remixes, Vol. 2",
         "url": "https://open.spotify.com/album/4kMV75bbEkiTRDne9xbqa8"
       },
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 322400,
       "name": "Asanda",
       "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 170078,
       "name": "Bel Mercy (El Jefe)",
       "url": "https://open.spotify.com/track/1U5vRpy8n7K1rq2e3HOBA0"
@@ -2385,6 +2403,28 @@
     },
     {
       "album": {
+        "name": "Body On Me",
+        "url": "https://open.spotify.com/album/4ZvaDnE4nmwhqCupdFMGRi"
+      },
+      "artists": [
+        {
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "Luc Rushmere",
+          "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130645,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/48nh41WsO4b9uhZOSldMYV"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp"
       },
@@ -2532,7 +2572,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3421,6 +3461,32 @@
     },
     {
       "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/31Yt1xfmym4kGoWsq8537D"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
+    },
+    {
+      "album": {
         "name": "Dark Nights",
         "url": "https://open.spotify.com/album/7oefeNYoUaoZtUd0QKVPZU"
       },
@@ -3502,7 +3568,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 434076,
       "name": "Decisions (Original Mix)",
       "url": "https://open.spotify.com/track/5iAA9Z3JbGWEwh3A1py5LB"
@@ -4722,7 +4788,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 190609,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
@@ -6595,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/0cGjXdx4NxDuGSwRmrhkwf"
       },
@@ -7202,7 +7286,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
@@ -9070,6 +9154,28 @@
       "duration_ms": 241983,
       "name": "Memeza - Radio Edit",
       "url": "https://open.spotify.com/track/1Z53ugoPTZOlgLHDHS1BK7"
+    },
+    {
+      "album": {
+        "name": "Mend It / Your Eyes",
+        "url": "https://open.spotify.com/album/6IdfSqD7Abe9eHSzNT54x5"
+      },
+      "artists": [
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389106,
+      "name": "Mend It",
+      "url": "https://open.spotify.com/track/50IH6OIRU7sKMwGIOex1xM"
     },
     {
       "album": {
@@ -11604,6 +11710,28 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
+    },
+    {
+      "album": {
+        "name": "Run Till Dark (with Now United)",
+        "url": "https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Now United",
+          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139874,
+      "name": "Run Till Dark (with Now United)",
+      "url": "https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw"
     },
     {
       "album": {
@@ -15273,6 +15401,28 @@
     },
     {
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL"
+    },
+    {
+      "album": {
         "name": "Vumani",
         "url": "https://open.spotify.com/album/6ebtxzQZG0o22JkfFY8t1B"
       },
@@ -15988,7 +16138,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 197630,
       "name": "Work With My Love - Mark Knight Remix",
       "url": "https://open.spotify.com/track/7yQ8jRAYwfODVbAfX4cVY7"

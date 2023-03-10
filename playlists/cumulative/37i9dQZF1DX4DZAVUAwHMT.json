@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Cassyette ",
+  "description": "The UK's biggest rock playlist. Cover: The Hunna",
   "name": "The Rock List",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 159836,
       "name": "abcdefu (angrier)",
       "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "album": {
+        "name": "Ache",
+        "url": "https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100377,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
     },
     {
       "album": {
@@ -304,7 +326,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 202907,
       "name": "Bring Us Down",
       "url": "https://open.spotify.com/track/2Vlcv2ABEQ21nTcYJWLktM"
@@ -643,6 +665,24 @@
     },
     {
       "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq"
       },
@@ -820,7 +860,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 100467,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S"
@@ -838,7 +878,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 193120,
       "name": "Give It Up To Love",
       "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
@@ -1145,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Untouched Hearts - EP",
+        "url": "https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO"
+      },
+      "artists": [
+        {
+          "name": "The Hunna",
+          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+        },
+        {
+          "name": "Kelsey Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/6LQggZd9VkeNQiXdLChrDc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112117,
+      "name": "I Don't Like You..OK",
+      "url": "https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb"
+    },
+    {
+      "album": {
         "name": "I Don't Want It",
         "url": "https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm"
       },
@@ -1214,6 +1276,28 @@
       "duration_ms": 266818,
       "name": "If You\u2019re Gonna Break My Heart",
       "url": "https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
     },
     {
       "album": {
@@ -1340,7 +1424,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 131181,
       "name": "Kool",
       "url": "https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H"
@@ -1906,7 +1990,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
@@ -2054,6 +2138,24 @@
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "album": {
@@ -2216,10 +2318,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 237336,
       "name": "Things Ain't Always What They Seem",
       "url": "https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu"
+    },
+    {
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Tightrope (Walking on a Wire)",
+      "url": "https://open.spotify.com/track/49LcaMiwb4jRwkhLjsxcgD"
     },
     {
       "album": {

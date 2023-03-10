@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: IN2STELLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,098 likes - 93 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,111 likes - 93 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

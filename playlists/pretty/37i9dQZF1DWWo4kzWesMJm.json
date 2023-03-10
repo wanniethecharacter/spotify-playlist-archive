@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 65212,
+  "num_followers": 65306,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGIwZGFlZjIyZGRhMDg1MDA3ODViYzE0ZGM3OTRmZDhk",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMDU0YmIyMjY2Y2RjOGQ0N2RmMDBjOTI2ZDFhNmYzYzEx",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "De l'autre c\u00f4t\u00e9 de mon r\u00eave (Remasteris\u00e9 en 2008)",
         "url": "https://open.spotify.com/album/0Q9C21oNmR48rRuFKf5t4b"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161080,
       "name": "Chanson sur ma dr\u00f4le de vie - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/4lJKn6cDD3vpZrcg6oVTr1"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Le chanteur (Remastered)",
         "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 234112,
       "name": "Le chanteur",
       "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
       },
       "artists": [
         {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -707,6 +707,38 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -735,38 +767,6 @@
       "duration_ms": 209000,
       "name": "Belle demoiselle",
       "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Ailleurs Land",
-        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Ma libert\u00e9 de penser",
-      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 225640,
       "name": "Coco C\u00e2line",
       "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 221600,
       "name": "Amoureuse - Remasteris\u00e9 en 2008",
       "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 166493,
       "name": "Non non non (Ecouter Barbara)",
       "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Meilleurs souvenirs - Best Of",
-        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
-      },
-      "artists": [
-        {
-          "name": "Les Innocents",
-          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "L'autre finist\u00e8re",
-      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+      },
+      "artists": [
+        {
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Coup de soleil",
-        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
-      },
-      "artists": [
-        {
-          "name": "ELISA ERKA",
-          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Coup de soleil",
-      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Dimanche",
-        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
+        "name": "Coup de soleil",
+        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
       },
       "artists": [
         {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Le temps passe",
-      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
+      "duration_ms": 162980,
+      "name": "Coup de soleil",
+      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 229053,
       "name": "Serre-moi",
       "url": "https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Dimanche",
+        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/4DDG0gVgUTgGRZBxQ6zscl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222453,
       "name": "On",
       "url": "https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     },
     {
       "added_at": "2023-01-12 23:00:00",

@@ -4,11 +4,12 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-62 songs - 3 hr 28 min
+64 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 | 2021-04-23 |  |
+| [Adeline](https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:26 | 2021-04-23 |  |
+| [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 | 2021-04-23 | 2023-03-10 |
 | [Adeline](https://open.spotify.com/track/2TSoYOzG3aew7VK6V7VD9L) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:27 | 2021-04-23 | 2022-07-29 |
 | [Adeline](https://open.spotify.com/track/11Tto8GHaHNBajC7WE4BeA) | [The Pretender](https://open.spotify.com/artist/44VY7clFU7rboPEHsJs06Z) | [Calypso Ladies \- Early Calypso from Trinidad](https://open.spotify.com/album/7kmh9L0FAKM1sSOOtwLKfB) | 2:28 | 2021-04-23 | 2022-11-14 |
 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 | 2021-04-23 |  |
@@ -38,9 +39,10 @@
 | [Man Smart Woman Smarter](https://open.spotify.com/track/3MWSJVLc5BLOpFW9tb6wac) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:05 | 2021-04-23 | 2022-07-29 |
 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 | 2021-04-23 |  |
 | [Man Smart, Woman Smarter](https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Man Smart, Woman Smarter \(Remastered\)](https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs) | 2:34 | 2021-04-23 |  |
+| [Mathilda](https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX) | [King Radio](https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:41 | 2021-04-23 |  |
 | [Mathilda](https://open.spotify.com/track/2VFAiRdEOTyF48kDImiFWN) | [King Radio](https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:41 | 2021-04-23 | 2022-11-13 |
 | [Mathilda](https://open.spotify.com/track/1kP9Mmmcl0tGpqKeOBHZ0b) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Rough Guide To Calypso Gold](https://open.spotify.com/album/5VIf7qataA0OtBKwbJLN1x) | 2:42 | 2021-04-23 | 2022-07-29 |
-| [Mathilda](https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 2:45 | 2021-04-23 |  |
+| [Mathilda](https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 2:45 | 2021-04-23 | 2023-03-10 |
 | [Me Ting Is Mine](https://open.spotify.com/track/1OVkqIMN1QkVbSDpSOU0yt) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Atrocities](https://open.spotify.com/album/4wxZvFup77TmfeOsY0spI2) | 3:07 | 2021-04-23 |  |
 | [Meshuggener](https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN) | [John L\. Nichols](https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 3:25 | 2021-04-23 |  |
 | [Mister Give Me de Rent](https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD) | [Mighty Panther](https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG) | [Calypso Legends \- Mighty Panther / Macbeth the Great \(1953 \- 1956\)](https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC) | 2:29 | 2021-04-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,048 likes - 98 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,098 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 3 | [Anda](https://open.spotify.com/track/2oNh69Ej2GKrk489PDNruu) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Anda](https://open.spotify.com/album/7qXpkrsHSzR5R2SMYkl2v8) | 2:46 |
 | 4 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 |
 | 5 | [Polaris](https://open.spotify.com/track/3u4oNZRvrA7pXN90HaGWkE) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Polaris](https://open.spotify.com/album/2Mx0KP6jL0AmsMuZsCjAft) | 1:55 |
-| 6 | [Pace Of Nature](https://open.spotify.com/track/1sB226w76E26PZRxcSA8Uq) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Pace Of Nature](https://open.spotify.com/album/6NJjyT1Kr57k811DYQ7WEA) | 3:06 |
-| 7 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 |
-| 8 | [Mílon](https://open.spotify.com/track/2Dv1DUFmC8ElSUSTy7s9Ma) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 4:24 |
-| 9 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
-| 10 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 |
-| 11 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 |
+| 6 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 |
+| 7 | [Mílon](https://open.spotify.com/track/2Dv1DUFmC8ElSUSTy7s9Ma) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 4:24 |
+| 8 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
+| 9 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 |
+| 10 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 |
+| 11 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 |
 | 12 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
 | 13 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
 | 14 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 97 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 98 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MTY3MDU5OTIwMCwwMDAwMDAwMDcxZDc2MmEzMjZlN2ZhZTJhZTFhNjAxNWE5MjUyNjIw`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDcyOWFhY2VmOTZiNTU2YjAwMGNjMmI1MTQ5MTA1YmVh`

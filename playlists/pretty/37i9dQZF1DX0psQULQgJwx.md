@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,273 likes - 106 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,450 likes - 106 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 9 | [Spirit](https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw) | [Healing Tribe](https://open.spotify.com/artist/7yncP87ljuQ8stIRLOy5qT) | [Spirit](https://open.spotify.com/album/6wRqHghJKaIDUAbF3BLXiD) | 3:28 |
 | 10 | [Path of life](https://open.spotify.com/track/1sRgY8mQe8aoejLNhSRXmw) | [Lakota Dreams](https://open.spotify.com/artist/5D7WonwqI2sqcL76AozN29) | [Path of life](https://open.spotify.com/album/3ZzzjAbmvZZClVOjjd78e8) | 4:28 |
 | 11 | [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 |
-| 12 | [Kali Yerg](https://open.spotify.com/track/5dC2dX17foqN5IjdFtOaGU) | [Voice of Apricot](https://open.spotify.com/artist/77QzOw4j6oaucAF3XLwUKr) | [Kali Yerg](https://open.spotify.com/album/6GlO6diN2U587KHDUpMbBf) | 3:04 |
+| 12 | [Lightness](https://open.spotify.com/track/4H2G70RcWqs2flfAAHzaZT) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Lightness](https://open.spotify.com/album/3aSBJNmy9uKEisAza3qOkQ) | 4:04 |
 | 13 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 |
 | 14 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 |
 | 15 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 105 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
 | 106 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 |
 
-Snapshot ID: `MTY3NzI2MjExMSwwMDAwMDAwMDMxNjYwN2U0MmFjN2RiYTkxODEyZjgzZjc0MzIzYWQz`
+Snapshot ID: `MTY3ODQwNjQ2MCwwMDAwMDAwMDRmNDEyODE2ODA3Y2E4YmFhNmRjNmU0ZmZlZmFiODMw`

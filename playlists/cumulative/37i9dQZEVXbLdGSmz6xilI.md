@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-699 songs - 1 day 17 hr 2 min
+700 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 | 2022-07-16 | 2022-07-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-25 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-01-30 |
-| [Suit & Tie](https://open.spotify.com/track/38MI5LpTajiO3A0DQGcCmu) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:58 | 2023-03-04 |  |
+| [Suit & Tie](https://open.spotify.com/track/38MI5LpTajiO3A0DQGcCmu) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:58 | 2023-03-04 | 2023-03-10 |
 | [Super Tuna](https://open.spotify.com/track/5EaVikAxSRponyifRP6Fhp) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7vreT3Vciy3cTiidhsw9Y2) | 1:08 | 2022-10-29 | 2022-11-10 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-12-28 | 2023-01-02 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |
@@ -677,6 +677,7 @@
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-05-08 |
 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-08-01 | 2022-11-22 |
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-03 | 2022-12-13 |
+| [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 | 2023-03-09 |  |
 | [Yêu Một Người Có Lẽ](https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Yêu Một Người Có Lẽ](https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb) | 4:13 | 2022-05-18 | 2023-01-13 |
 | [Yêu một người có lẽ](https://open.spotify.com/track/6eB2sy8qqovVEuSS6cGRb7) | [Trần Quang Ngọc](https://open.spotify.com/artist/7z7klQ25fMHE7bzum1FUj6) | [Tha Thứ](https://open.spotify.com/album/78lyVQwepXvsjb4ZDzwkAc) | 4:13 | 2022-12-02 | 2022-12-06 |
 | [Yêu Người Có Ước Mơ](https://open.spotify.com/track/2VHXCihhlSC2lUFoCaemRN) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 6\)](https://open.spotify.com/album/21hdhN4ANjq7TpqIr4UZmw) | 4:43 | 2022-11-14 | 2022-12-25 |

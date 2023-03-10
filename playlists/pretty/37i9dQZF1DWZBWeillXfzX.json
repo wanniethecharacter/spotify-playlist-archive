@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 16854,
+  "num_followers": 16878,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDBlM2NjYjM0NjEwM2IzMWJhMDVjM2Q0ODM5OWNkNDNi",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDRjNzlhZWRkNTk4ZWM3Yjc5Mjc1Njk5ZmFhNWM4YzFl",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Royal Tea",
         "url": "https://open.spotify.com/album/6FsaAloD9oGRXjRKIriR9i"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 268733,
       "name": "Royal Tea",
       "url": "https://open.spotify.com/track/503MGoC5sPfTvL3cbJsg7P"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 216552,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 168293,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 216552,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
     }
   ],
   "unique_name": "Modern Blues Guitar",

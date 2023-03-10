@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: BE'O)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: OG BOBBY)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1801,6 +1801,36 @@
     },
     {
       "album": {
+        "name": "ASOBI EP",
+        "url": "https://open.spotify.com/album/6LQInJXZ1LVDQsWjgTFPjQ"
+      },
+      "artists": [
+        {
+          "name": "YUTO",
+          "url": "https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA"
+        },
+        {
+          "name": "DopeOnigiri",
+          "url": "https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "Playsson",
+          "url": "https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195211,
+      "name": "ASOBI (feat. Candee & Playsson)",
+      "url": "https://open.spotify.com/track/6xZ7eA7V00CcomVai11MRV"
+    },
+    {
+      "album": {
         "name": "Aston Martin Truck",
         "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
       },
@@ -3218,6 +3248,28 @@
       "duration_ms": 201460,
       "name": "BOK KALO",
       "url": "https://open.spotify.com/track/7KqaFrqyJVwt4seJ0z9n52"
+    },
+    {
+      "album": {
+        "name": "BONG",
+        "url": "https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        },
+        {
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241179,
+      "name": "BONG",
+      "url": "https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr"
     },
     {
       "album": {
@@ -4691,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Come 2 Brazil",
+        "url": "https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134397,
+      "name": "Come 2 Brazil",
+      "url": "https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F"
+    },
+    {
+      "album": {
         "name": "Come My Way (feat. Krayzie Bone)",
         "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
       },
@@ -5208,6 +5278,32 @@
       "duration_ms": 160948,
       "name": "Crypto (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
+    },
+    {
+      "album": {
+        "name": "KING BORN",
+        "url": "https://open.spotify.com/album/35JgVJMfFUrahzO02mnMbW"
+      },
+      "artists": [
+        {
+          "name": "Eric.B.Jr",
+          "url": "https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0"
+        },
+        {
+          "name": "ANARCHY",
+          "url": "https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI"
+        },
+        {
+          "name": "T-Pablow",
+          "url": "https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173554,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/1vFQ7C18cRyj6CVdwPc43r"
     },
     {
       "album": {

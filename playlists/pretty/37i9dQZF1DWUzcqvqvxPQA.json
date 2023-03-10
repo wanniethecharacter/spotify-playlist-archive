@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24935,
+  "num_followers": 24937,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGYxYmU2Yzk5MTE0OTVmYWJjNGFmMDg3M2UzM2I4YjM3",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDQ2YTJlZDc3MDNmMDhmY2I4ZDc0OGIzNDQ0NDNmM2I4",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "The Answer",
-        "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Word Of Life",
-      "url": "https://open.spotify.com/track/4evZUjbXPrzooKfpEBYWnw"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+      "duration_ms": 189200,
+      "name": "Word Of Life",
+      "url": "https://open.spotify.com/track/4evZUjbXPrzooKfpEBYWnw"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -291,6 +275,22 @@
       "duration_ms": 255173,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "RICHLIN",
         "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
       },
@@ -379,6 +399,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -395,26 +431,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 200330,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
         "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 246933,
       "name": "WALKING ON WATER",
       "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "EVERYTHING EVERYTHING",
-        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200079,
-      "name": "EVERYTHING EVERYTHING",
-      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "So Alive",
         "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 178619,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
-      },
-      "artists": [
-        {
-          "name": "Shonlock",
-          "url": "https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt"
-        }
-      ],
-      "duration_ms": 228564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "I'm Up",
         "url": "https://open.spotify.com/album/2b2JwJcO7m5Xk047jIu9jW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 177220,
       "name": "I'm Up",
       "url": "https://open.spotify.com/track/777iKLDmmPiMAAB7OUW8bf"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
+      },
+      "artists": [
+        {
+          "name": "Shonlock",
+          "url": "https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt"
+        }
+      ],
+      "duration_ms": 228564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 311466,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Let It Be Love",
         "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 177566,
       "name": "Let It Be Love",
       "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 311466,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj"
     },
     {
       "added_at": "2020-08-13 14:39:00",

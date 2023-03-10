@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : MadeInParis",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1033,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Dancehall Need Mi",
+        "url": "https://open.spotify.com/album/5FEuBK4x9fChECilvRHeq7"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "Dancehall Need Mi",
+      "url": "https://open.spotify.com/track/3BmircqF5zplm6dGNjGP0e"
+    },
+    {
+      "album": {
         "name": "Dancehall Wine",
         "url": "https://open.spotify.com/album/5aolARGoUHmdVDWuOQxIjb"
       },
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 142009,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/0BEJH3Z1ssdYqAQmWttViM"
@@ -2479,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/6SFZo6O91BsK4kA63i5WUp"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "MikesPro",
+          "url": "https://open.spotify.com/artist/6bncQtn8GaM6zWVmtZ9vTl"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161752,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/3AqrxZJ6zRldssOKt3FF93"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/2otvEt7cIxwIuCTDEb0qAU"
       },
@@ -3038,7 +3082,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 147936,
       "name": "No Matta",
       "url": "https://open.spotify.com/track/3IuC01T7uEnCxPnGMg41Hv"
@@ -3126,7 +3170,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 178134,
       "name": "Oway",
       "url": "https://open.spotify.com/track/1hKajaBCCsFShcm22FpFnu"
@@ -3456,6 +3500,28 @@
       "duration_ms": 175333,
       "name": "P\u00e9tard",
       "url": "https://open.spotify.com/track/5BdYCKJnrPu5sWoarvOAuQ"
+    },
+    {
+      "album": {
+        "name": "Rasta",
+        "url": "https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Rasta",
+      "url": "https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0"
     },
     {
       "album": {

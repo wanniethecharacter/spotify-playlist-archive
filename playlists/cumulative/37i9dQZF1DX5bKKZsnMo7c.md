@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-213 songs - 11 hr 46 min
+214 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Love of My Life](https://open.spotify.com/track/1NqfSrgNQxrsSVjza5vO9a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/1WaRQUZdZNe5BYyOxLFenk) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [Love of My Life](https://open.spotify.com/track/7c8wJ1DIFvM9e7bHIpgP7a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/12yCH8wFhPPW0cUCFpC8DQ) | 2:55 | 2023-01-27 |  |
 | [Loveology](https://open.spotify.com/track/3hhU5HJkLOTSTdEWkXMvYS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Loveology](https://open.spotify.com/album/0Y3VeIqUxmsZ5Tr5mwawTa) | 5:16 | 2022-06-10 | 2022-06-25 |
-| [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/0jG7SgyIpQa0ZFBjB8fFDh) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/659uFsMnMpBCnAqiGre77y) | 2:01 | 2023-03-07 |  |
+| [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/0jG7SgyIpQa0ZFBjB8fFDh) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/659uFsMnMpBCnAqiGre77y) | 2:01 | 2023-03-07 | 2023-03-10 |
+| [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-03-07 |  |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-28 |
 | [Mawce](https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc) | 3:02 | 2022-05-17 | 2022-07-29 |
 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 | 2022-06-07 | 2022-12-10 |

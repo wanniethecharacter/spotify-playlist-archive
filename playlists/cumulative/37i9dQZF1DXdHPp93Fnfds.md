@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-473 songs - 1 day 3 hr 12 min
+474 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [La Fuerza](https://open.spotify.com/track/0qXY8iTm0AHAR52dr0PaLn) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:53 | 2022-01-21 | 2022-07-24 |
 | [La Lluvia de Estrellas](https://open.spotify.com/track/4RlCIhIaKnSjKsmdniPM1b) | [María Fernanda Aldana](https://open.spotify.com/artist/01zNB3m5VtB1vpQllADiLY) | [Resonancia](https://open.spotify.com/album/0BwRaT6ZgLQcJOr9LWpvhF) | 2:49 | 2022-04-01 | 2022-04-17 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-01-21 | 2022-07-27 |
-| [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 |  |
+| [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 | 2023-03-10 |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 | 2022-09-05 |
 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2022-01-14 | 2022-07-23 |
 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 | 2022-01-21 | 2022-07-06 |
@@ -404,6 +404,7 @@
 | [Sonamos \- Remastered](https://open.spotify.com/track/4zQAZ2WBHI3sL3LFrSwuhH) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Segundo \(Remastered\)](https://open.spotify.com/album/4q59Ff2Rzka8bkw4OVFTfV) | 9:03 | 2022-01-21 | 2022-07-29 |
 | [Sorpresa](https://open.spotify.com/track/2yBn8MjgLvN40FWEbLbQSN) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Sorpresa](https://open.spotify.com/album/6OHgDRAc50CzuRHxvLSBAl) | 2:53 | 2022-01-21 | 2022-06-18 |
 | [Space Keik](https://open.spotify.com/track/4kUzH6QOMTHI7oGMa8XlsE) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Space Keik](https://open.spotify.com/album/25FUIlRxOm5cYrbVHV4mm2) | 2:45 | 2022-01-21 | 2022-07-20 |
+| [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 | 2023-03-03 |  |
 | [SUBCONSCIENTE](https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 2](https://open.spotify.com/album/3TTRrj2mJcy3okuQi7OVSv) | 2:38 | 2022-11-28 | 2023-02-27 |
 | [Subtítulo: Te Amo](https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Subtítulo: Te Amo](https://open.spotify.com/album/6bW9BQdiMATcuQLXRYn8VF) | 3:29 | 2022-01-21 | 2022-07-23 |
 | [Sueño Raro](https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Sueño Raro](https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT) | 3:37 | 2022-01-14 | 2022-07-26 |

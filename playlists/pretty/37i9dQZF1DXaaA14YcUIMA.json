@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 311357,
+  "num_followers": 311583,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDYzZjUzM2Y3N2ViNmEyZWY2MTk1MTg0NWUyZWMzMDRh",
+  "snapshot_id": "MTY0NzQ3NjM4NywwMDAwMDAwMDg0ZjcwZDZmMjkwY2NmZjAzN2E2MDE4Y2EyOTM4NjM0",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+      "duration_ms": 193880,
+      "name": "Amor Sin Palabras",
+      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Los Sonidos De Su Esp\u00edritu",
         "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 226386,
       "name": "Contra El Drag\u00f3n",
       "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Amor Sin Palabras",
-      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 210976,
       "name": "A Mentir A La Calle",
       "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
+      },
+      "artists": [
+        {
+          "name": "Los Rodarte",
+          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Y Me Dijo Eres Tu",
+      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
       "artists": [
         {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 189213,
-      "name": "C\u00f3mo Me Duele Amor",
-      "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
+      "duration_ms": 205400,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -975,34 +991,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/3iUfFo7KFlu647f3PL6Jdc"
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
       "artists": [
         {
-          "name": "Los Rodarte",
-          "url": "https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj"
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Y Me Dijo Eres Tu",
-      "url": "https://open.spotify.com/track/1iTBq0Ux2qwvZKshWnXHyt"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Me Est\u00e1 Doliendo Dejarte",
-      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
+      "duration_ms": 189213,
+      "name": "C\u00f3mo Me Duele Amor",
+      "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
@@ -1123,38 +1143,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+        "name": "Quier\u00e9me M\u00e1s",
+        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
-        {
-          "name": "Ricardo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
+          "name": "Grupo Modelo",
+          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Dulce Veneno",
-        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
-      },
-      "artists": [
-        {
-          "name": "Los Due\u00f1os Del Sol",
-          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
+      "duration_ms": 238493,
+      "name": "Qui\u00e9reme M\u00e1s",
+      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Quier\u00e9me M\u00e1s",
-        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
+        "name": "Dulce Veneno",
+        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
       },
       "artists": [
         {
-          "name": "Grupo Modelo",
-          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
+          "name": "Los Due\u00f1os Del Sol",
+          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Qui\u00e9reme M\u00e1s",
-      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
+      "duration_ms": 200620,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Mi Peque\u00f1o Amor",
+      "url": "https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 160546,
       "name": "Si Estuvieras Conmigo - Dueto Con Grupo Bryndis",
       "url": "https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Mi Peque\u00f1o Amor",
-      "url": "https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1"
     },
     {
       "added_at": "2022-03-17 00:19:47",

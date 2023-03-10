@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Marea.
 
-229 songs - 15 hr 15 min
+230 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Cuéntame Otra Vez](https://open.spotify.com/track/1b6WPcxprk5UnOQMjG53VU) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Cuéntame Otra Vez](https://open.spotify.com/album/6imnCRWhFPjlYtMOifh0a6) | 3:16 | 2022-11-24 | 2022-12-09 |
 | [Cuéntame Otra Vez](https://open.spotify.com/track/577HROYvw3EjGwsXMvyw4H) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Cuéntame Otra Vez](https://open.spotify.com/album/6g7yZxF3Z0Zla2tyQyLCSP) | 3:16 | 2022-11-24 | 2022-11-26 |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
-| [Deseando ver la luz](https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [Deseando ver la luz](https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx) | 4:44 | 2023-02-23 |  |
+| [Deseando ver la luz](https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [Deseando ver la luz](https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx) | 4:44 | 2023-02-23 | 2023-03-10 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 |  |
 | [Devil Came To Me \- 2007 Remastered Version](https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [2](https://open.spotify.com/album/1wDgA9FEC7ITE6OTbt6KOC) | 4:36 | 2022-05-26 | 2022-07-27 |
 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 | 2022-09-01 |  |
@@ -221,6 +221,7 @@
 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 | 2022-05-19 | 2022-09-03 |
 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 | 2022-07-21 |  |
 | [Todos los Gatos Son Pardos](https://open.spotify.com/track/5hzeePzx39dRlrIeOpRCXR) | [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ) | [Todos los Gatos Son Pardos](https://open.spotify.com/album/6ALMyNUewyCdW4QgrlTLmZ) | 2:53 | 2022-06-09 | 2022-08-24 |
+| [Todos los peligros me conocen](https://open.spotify.com/track/4oNQQtQ8NPMaesW2dQiXp8) | [Ilegales](https://open.spotify.com/artist/2laDE3zsNJYoX7n8nF3YPJ) | [Todos los peligros me conocen](https://open.spotify.com/album/2B5hmo6tBMdzvHZgwDumfB) | 2:22 | 2023-03-09 |  |
 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 | 2022-05-19 | 2022-07-28 |
 | [Trocito de Cielo](https://open.spotify.com/track/4Cr2O3m84McsJNOT1IRclx) | [Dixon](https://open.spotify.com/artist/3ZqivrF6irzebjksomnUyG) | [Trocito de Cielo](https://open.spotify.com/album/2udJeg45L07aNpV1YGBOns) | 3:02 | 2022-09-22 | 2022-10-07 |
 | [Tú ya lo sabes](https://open.spotify.com/track/40u2FUHUMV8oX1lifP6w49) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Tú ya lo sabes](https://open.spotify.com/album/5bWkiHpl38kYEn2a3r1peb) | 4:30 | 2022-09-08 | 2022-09-23 |

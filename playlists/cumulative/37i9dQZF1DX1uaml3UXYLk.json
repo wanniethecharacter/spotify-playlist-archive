@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "fondue",
+        "url": "https://open.spotify.com/album/5uCQFE8xF2IlhwOEK6zu9F"
+      },
+      "artists": [
+        {
+          "name": "Gravitat",
+          "url": "https://open.spotify.com/artist/71yk2Qb0fOJL0q8EgfVz0y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "fondue",
+      "url": "https://open.spotify.com/track/25E7Gm5ydvtJGOh0Ts6h6r"
+    },
+    {
+      "album": {
         "name": "For The First Time",
         "url": "https://open.spotify.com/album/4c35XVvKPCr4X0DrRScKQ4"
       },
@@ -4734,6 +4752,24 @@
       "duration_ms": 530357,
       "name": "Love And Bass - Art Alfie Remix",
       "url": "https://open.spotify.com/track/0oodhkRajpYiV6fwDU4jJS"
+    },
+    {
+      "album": {
+        "name": "Love funk",
+        "url": "https://open.spotify.com/album/3ZEKvm1gd0UrBq6lyuRSTD"
+      },
+      "artists": [
+        {
+          "name": "Ixxx",
+          "url": "https://open.spotify.com/artist/5xqKcWEO2z2WdF6CXAsm4Y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Love funk",
+      "url": "https://open.spotify.com/track/73t9mulHQgjAKRccY2qVTf"
     },
     {
       "album": {

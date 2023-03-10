@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,902 songs - 5 day 7 hr 56 min
+1,903 songs - 5 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,7 +899,8 @@
 | [Jolie nana](https://open.spotify.com/track/6uWNwpLZEN5J9hVqTWlltP) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Joseph Kabasele and the Creation of Modern Congolese Music, Vol\. 2 \(Le Grand Kallé: His Life, His Music\)](https://open.spotify.com/album/0uUjbit5N7oX4dbVf6Lt0S) | 5:01 | 2022-07-12 | 2022-07-29 |
 | [Jolie nana](https://open.spotify.com/track/2FPrCUgBDbHHzlwgakBlmn) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 2](https://open.spotify.com/album/0USABstcNpMUld5X4hZ5xL) | 5:00 | 2022-07-27 |  |
 | [Jolie Nana](https://open.spotify.com/track/7ec9WAyNd4bfWlRiVvqLl9) | [Grand Kalle Et l'African Jazz](https://open.spotify.com/artist/5bvkfK1Oa7nVfxnjac7Qmd) | [Jolie Nana](https://open.spotify.com/album/6ss149QvtXMaEA9mxWIX0s) | 5:00 | 2022-10-31 | 2022-11-13 |
-| [Jouvert Barrio](https://open.spotify.com/track/1e9jZFNmzdHXoOUejYMa8Q) | [The Roaring Lion](https://open.spotify.com/artist/0X6z1iGQlC2n3hnAHBrQwN) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:55 | 2022-07-27 |  |
+| [Jouvert Barrio](https://open.spotify.com/track/0TptVx34mCh71utmgZRJt7) | [The Roaring Lion](https://open.spotify.com/artist/73YUC41IsxZqJMQeMxrXM9) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 | 2023-02-27 |  |
+| [Jouvert Barrio](https://open.spotify.com/track/1e9jZFNmzdHXoOUejYMa8Q) | [The Roaring Lion](https://open.spotify.com/artist/0X6z1iGQlC2n3hnAHBrQwN) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:55 | 2022-07-27 | 2023-03-10 |
 | [Joy \- Quantic Edit](https://open.spotify.com/track/1a6YB3EAR3UcEUsJIF4vkN) | [The Cranes](https://open.spotify.com/artist/5KU2lTVjRMQqfJ9k6vjoxY) | [Ahyewa](https://open.spotify.com/album/4U3xFp2cvUbf79kZhZ2noh) | 3:02 | 2022-06-09 | 2022-07-29 |
 | [Joy \- Quantic Edit](https://open.spotify.com/track/27GyJdh5Uf8BP4lYLJRbzC) | [The Cranes](https://open.spotify.com/artist/5KU2lTVjRMQqfJ9k6vjoxY), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Ahyewa](https://open.spotify.com/album/5B69sPK2ONHZLRpRalB1Us) | 3:02 | 2022-07-27 |  |
 | [Joy in the Morning](https://open.spotify.com/track/6tHoWTBzBWNCPYdvU4S8Yt) | [The Gaylads](https://open.spotify.com/artist/1muKxK8kVO8ZKi8i3ymcpd) | [Studio One Rocksteady](https://open.spotify.com/album/00i0Cpk6Pn8aLi8ngVay2w) | 3:08 | 2022-06-09 | 2022-07-29 |

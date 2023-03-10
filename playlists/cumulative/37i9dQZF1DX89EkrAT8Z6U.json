@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 116323,
       "name": "I'm Toxic",
       "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 140877,
       "name": "RED EYES BLACK DRAGON (feat. 1nonly)",
       "url": "https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH"
@@ -2664,6 +2664,28 @@
       "duration_ms": 175774,
       "name": "Slide Den",
       "url": "https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR"
+    },
+    {
+      "album": {
+        "name": "Slump",
+        "url": "https://open.spotify.com/album/1uv38vrwfRawvt1fB77Azo"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97188,
+      "name": "Slump",
+      "url": "https://open.spotify.com/track/7c3WeEXTZly72n38QzZdKL"
     },
     {
       "album": {
@@ -3364,7 +3386,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 209057,
       "name": "Young Kid",
       "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"

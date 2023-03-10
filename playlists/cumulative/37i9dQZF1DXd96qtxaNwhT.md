@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-484 songs - 1 day 3 hr 8 min
+485 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Loving Me](https://open.spotify.com/track/7ekfbblskjox5cC4jKVw47) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Loving Me](https://open.spotify.com/album/6jbLAuax1kADoBgc7of7Vi) | 3:51 | 2021-02-19 | 2021-10-27 |
 | [Low Brow](https://open.spotify.com/track/2W1V1nmgQ8JowFI5j8Rztr) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Low Brow](https://open.spotify.com/album/2uLuGv11dOYYwFJgKpiOZp) | 3:56 | 2019-07-29\* | 2019-08-02 |
 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 | 2019-08-02 | 2019-08-16 |
+| [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 | 2023-03-08 |  |
 | [Madly In Love](https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy) | [Tobias Floor](https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB) | [Madly In Love](https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3) | 3:43 | 2022-09-28 |  |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-06-18 | 2022-09-29 |
 | [Magic](https://open.spotify.com/track/0IvNejD2G2H2pCKQ7l7Itd) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Magic](https://open.spotify.com/album/38VKdIA2ZAd8zgJMWQWfEQ) | 4:05 | 2019-12-13 | 2020-05-29 |

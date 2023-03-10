@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 26448,
+  "num_followers": 26471,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MTEyNSwwMDAwMDAwMDdjZWJhYjQ1OGY4NmJmZjk4ZWFhY2NjYzdlNmJhOTli",
+  "snapshot_id": "MTY3Nzg1MTEyNSwwMDAwMDAwMGYwZTJhMjg4OWYyY2U5NmJkMDJiZmI0N2ZhZDQwZWZi",
   "tracks": [
     {
       "added_at": "2023-03-03 03:01:00",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
     },
     {
-      "added_at": "2023-03-09 01:07:30",
+      "added_at": "2023-03-10 01:07:10",
       "album": {
         "name": "Querem Saber de Mim",
         "url": "https://open.spotify.com/album/0fGzocRdD41ZB7R2CZzcly"
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        }
-      ],
-      "duration_ms": 187972,
-      "name": "Pop Smoke Freestyle",
-      "url": "https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -399,18 +379,22 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+      "duration_ms": 187972,
+      "name": "Pop Smoke Freestyle",
+      "url": "https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -447,6 +431,22 @@
       "duration_ms": 192223,
       "name": "Diz Quem Ta na Pista",
       "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -511,30 +511,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -559,6 +535,30 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Roteiro pra A\u00efnouz (Vol. 2)",
         "url": "https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 267017,
       "name": "auri sacra fames",
       "url": "https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Rumo ao Estrelato",
-        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        }
-      ],
-      "duration_ms": 169859,
-      "name": "Rumo ao Estrelato",
-      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -619,6 +603,22 @@
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Rumo ao Estrelato",
+        "url": "https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "duration_ms": 169859,
+      "name": "Rumo ao Estrelato",
+      "url": "https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -679,66 +679,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "Fura Bilion\u00e1rios",
-        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Ghetto ZN",
-          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Fura Bilion\u00e1rios",
-      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Clone",
-        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 198051,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Rock Danger Worldwide/Chile",
         "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
@@ -775,6 +715,42 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Fura Bilion\u00e1rios",
+        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ghetto ZN",
+          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Fura Bilion\u00e1rios",
+      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
       },
@@ -791,6 +767,58 @@
       "duration_ms": 125793,
       "name": "9mm",
       "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "Armamento do Ir\u00e3",
+        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "D r o p e",
+          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Olympio",
+          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
+        }
+      ],
+      "duration_ms": 259754,
+      "name": "Armamento do Ir\u00e3",
+      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -827,34 +855,6 @@
       "duration_ms": 186000,
       "name": "Infravermelho",
       "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Armamento do Ir\u00e3",
-        "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
-      },
-      "artists": [
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "D r o p e",
-          "url": "https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Olympio",
-          "url": "https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72"
-        }
-      ],
-      "duration_ms": 259754,
-      "name": "Armamento do Ir\u00e3",
-      "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -927,26 +927,6 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
     },
     {
       "added_at": "2023-03-03 03:01:00",
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
         "name": "Mente Livre 2.0",
         "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-03 03:01:00",
       "album": {
-        "name": "BlackNoir",
-        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 164623,
-      "name": "BlackNoir",
-      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
-    },
-    {
-      "added_at": "2023-03-03 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2023-03-03 03:01:00",
+      "album": {
+        "name": "BlackNoir",
+        "url": "https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "BlackNoir",
+      "url": "https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp"
     },
     {
       "added_at": "2023-03-03 03:01:00",

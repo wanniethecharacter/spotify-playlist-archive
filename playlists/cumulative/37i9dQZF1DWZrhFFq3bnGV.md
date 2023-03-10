@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri.
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover:
 
-117 songs - 8 hr 23 min
+120 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 | 2022-09-02 |  |
 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
+| [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-09 |  |
 | [ATARAXIA](https://open.spotify.com/track/0DP0HQi7iQza3HlVaWcgCV) | [Andre Dinuth](https://open.spotify.com/artist/3n0drwInUQS6Heg7kGKIXP) | [ATARAXIA](https://open.spotify.com/album/5IlMOPDrwjL0JvRwrbcvbN) | 4:43 | 2022-11-24 |  |
 | [Autumn](https://open.spotify.com/track/0iua6kaiZlwKQsQ0CQaLkg) | [Erikson Jayanto](https://open.spotify.com/artist/3q1blSi57degdJeXeay4SM) | [Slice of life \(人生のひとこま\)](https://open.spotify.com/album/3Doufqp570uF1ekOaAoPrR) | 3:17 | 2022-09-02 |  |
 | [Begini Cinta](https://open.spotify.com/track/7vCBnI93aQCdPJMqx5z6EU) | [Kaloka](https://open.spotify.com/artist/6nHMb25O7yt2syNMxygMTK) | [Begini Cinta](https://open.spotify.com/album/18KtHSEUWRj9q1NrAPr2G1) | 4:35 | 2022-09-02 | 2023-03-04 |
@@ -42,6 +43,7 @@
 | [Dipeluk Rasa](https://open.spotify.com/track/2qfKATrggobqUEzUsJT6Fk) | [Olive Latuputty](https://open.spotify.com/artist/2HOZOl4TWiPhYN6M0MYA4l) | [Dipeluk Rasa](https://open.spotify.com/album/5QiqjdwcfEatDZv0hjb4m0) | 3:50 | 2023-03-03 |  |
 | [Don't Start Now](https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Don't Start Now](https://open.spotify.com/album/447GoOsDCUjZFN8Tvotgtf) | 3:20 | 2022-09-02 | 2022-11-25 |
 | [Don't You Worry](https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN) | [Reggie Pryor](https://open.spotify.com/artist/6Qyyfa0rATJXEpCQcfDosZ), [Jeremy Monteiro](https://open.spotify.com/artist/6k5z740XzUQCbtToofslkV) | [Don't You Worry](https://open.spotify.com/album/1aWfATwUsPr6m9QWpvHtc0) | 2:57 | 2022-09-02 |  |
+| [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 |  |
 | [Euphoria](https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [EUPHORIA](https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X) | 4:02 | 2022-09-02 |  |
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 |  |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2022-09-02 | 2023-01-27 |
@@ -104,6 +106,7 @@
 | [Selangkah Lagi](https://open.spotify.com/track/044pFmYIZBYKUWNVbhQJ8e) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [Old Fashioned Way](https://open.spotify.com/album/0z8ipHoQLEcx1nTUAJitTh) | 2:57 | 2022-09-02 | 2023-03-04 |
 | [Senandung Saja](https://open.spotify.com/track/2yWtnT8eqlv7O6UU1P3xeR) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Senandung Saja](https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh) | 3:50 | 2022-12-22 |  |
 | [Sendiri](https://open.spotify.com/track/2EpLkn1XKYL29Yf3WFs0ld) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Sendiri](https://open.spotify.com/album/2SW0gDq418CMUn9J6LYTY8) | 2:15 | 2023-03-03 |  |
+| [SESAL KEKAL](https://open.spotify.com/track/27YcoSUtKAtJThNR6293UB) | [Bintang Indrianto](https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC), [Freza Anhar](https://open.spotify.com/artist/0yaCjTavcpUhb2TRDXMt8r) | [SESAL KEKAL](https://open.spotify.com/album/0NskzXx22J1gjpfRVxZXIp) | 2:48 | 2023-03-09 |  |
 | [Seumpama](https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI) | [Kenneth Mariw](https://open.spotify.com/artist/4Wr5Lu1ieLsS0VrDzad4rs) | [Seumpama](https://open.spotify.com/album/1sJ2WPxYHIVL08WDhAN8Ww) | 3:54 | 2022-09-02 |  |
 | [Simfoni Terindah](https://open.spotify.com/track/3uEyCGXO7k8pOa03MN5EOI) | [R.I.M.A](https://open.spotify.com/artist/5J3sqHpT5WhczXbUp3EJbv), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Ivan Saba](https://open.spotify.com/artist/072CgAk1HmFGMjDXD9W8XH), [Ryan V](https://open.spotify.com/artist/6ANuxxQyRWG4GvsxBQJvDD), [DJ Faith](https://open.spotify.com/artist/55JM0kFrnN2lsNWhhdv1JG) | [Simfoni Terindah](https://open.spotify.com/album/2wFyzSPeGj9eTzTuCyTuZ8) | 3:20 | 2022-09-02 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 |  |

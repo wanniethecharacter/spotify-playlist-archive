@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: King Isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,834 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,905 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [pawnshop](https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [pawnshop](https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb) | 2:38 |
-| 2 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 |
-| 3 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
+| 1 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 |
+| 2 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
+| 3 | [It'll Be \(Video Game Song\)](https://open.spotify.com/track/0sf3xGYw4tYQAWJpfPALJH) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [It'll Be \(Video Game Song\)](https://open.spotify.com/album/7BeEHdYtewit660EQqHkoX) | 2:43 |
 | 4 | [Nobody's Perfect](https://open.spotify.com/track/69nO19GZ58i8mpC1YGKnUu) | [ZEV](https://open.spotify.com/artist/66Nj7lUkbFw7ICIamxWvTY), [Modern Love Child](https://open.spotify.com/artist/5Re1DTCxspDf57qk07YOAP) | [Nobody's Perfect](https://open.spotify.com/album/2XzfgpDpycb4Kp57KJXfyg) | 2:36 |
-| 5 | [It'll Be \(Video Game Song\)](https://open.spotify.com/track/0sf3xGYw4tYQAWJpfPALJH) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [It'll Be \(Video Game Song\)](https://open.spotify.com/album/7BeEHdYtewit660EQqHkoX) | 2:43 |
-| 6 | [Are You Okay?](https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Are You Okay?](https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ) | 2:44 |
-| 7 | [virgo sun](https://open.spotify.com/track/6uuHSq183n5Z3HVHbAYSQa) | [Faerie](https://open.spotify.com/artist/4kGFQZ0RuDoBFSBYzF0qJl) | [dizzy spells](https://open.spotify.com/album/1Q4XLN5joAXawqozQDaBae) | 3:14 |
-| 8 | [night at the bar](https://open.spotify.com/track/4X9IBwnP5PPLGM1iUATF5t) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [night at the bar](https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr) | 2:18 |
-| 9 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 |
+| 5 | [pawnshop](https://open.spotify.com/track/3twrw5DVZcnfQb1jtEF4ca) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [pawnshop](https://open.spotify.com/album/1ucS4Cudh8WLQDIi7KZTDb) | 2:38 |
+| 6 | [virgo sun](https://open.spotify.com/track/6uuHSq183n5Z3HVHbAYSQa) | [Faerie](https://open.spotify.com/artist/4kGFQZ0RuDoBFSBYzF0qJl) | [dizzy spells](https://open.spotify.com/album/1Q4XLN5joAXawqozQDaBae) | 3:14 |
+| 7 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 |
+| 8 | [Are You Okay?](https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Are You Okay?](https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ) | 2:44 |
+| 9 | [night at the bar](https://open.spotify.com/track/4X9IBwnP5PPLGM1iUATF5t) | [Love Seats](https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6) | [night at the bar](https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr) | 2:18 |
 | 10 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |
 | 11 | [Wait for Love](https://open.spotify.com/track/6eIuJCPDemkr7PDPxvp7Kc) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [You Look Beautiful in This Light](https://open.spotify.com/album/46AO3bwNVfjkeSWZDVaZ6P) | 4:23 |
 | 12 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Bloody Kisses](https://open.spotify.com/track/3UmoLlwTRXFBXogohJo2zC) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [Bloody Kisses](https://open.spotify.com/album/6OyKWoGWjIPSxYppTYzuEO) | 2:32 |
 | 100 | [Bloom](https://open.spotify.com/track/2VMhrbfj7f1lbJWOXrDaW9) | [BUNGALOW](https://open.spotify.com/artist/4df15LQWBysxTPYxoa9l6G) | [Bloom](https://open.spotify.com/album/4A0ZxURvsgkqHmL6CEatzi) | 3:45 |
 
-Snapshot ID: `MTY3ODI5MTM2MiwwMDAwMDAwMDIzYzA4YWRlMGY1MjY2NzFhM2M0ZThlNWE1M2JlNjVl`
+Snapshot ID: `MTY3ODQwODAzOSwwMDAwMDAwMGQyOTlkNTExMzAzOTU2NjljNTIxMTg4ZGI3YjQ1ODRi`

@@ -4,11 +4,11 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-215 songs - 12 hr 10 min
+216 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 | 2023-03-06 |
+| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 |  |
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-07-08 |  |
 | [20MIN](https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 2:56 | 2022-05-11 | 2022-06-19 |
 | [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-08-08 | 2022-08-14 |
@@ -18,6 +18,7 @@
 | [After Tonight](https://open.spotify.com/track/1gvwigq4WUiVIusjtj69PE) | [Joy o'clock](https://open.spotify.com/artist/60oTGYNSgRlDlYqsNUtDKf) | [After Tonight](https://open.spotify.com/album/15ujTiasrrYEQoNZ1bt7ez) | 3:48 | 2022-05-11 | 2022-06-13 |
 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-09 |  |
+| [Alone](https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1) | 3:03 | 2023-02-24 |  |
 | [Alone](https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ) | 3:03 | 2022-05-11 | 2022-12-30 |
 | [Angae](https://open.spotify.com/track/50kyft8lFid4ol27SQwIJQ) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:36 | 2022-05-11 | 2022-07-14 |
 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 | 2022-07-08 |  |
@@ -31,7 +32,7 @@
 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2022-05-11 |  |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-26 |  |
 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 | 2022-05-11 |  |
-| [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 |  |
+| [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 | 2023-03-10 |
 | [Book](https://open.spotify.com/track/2nCJFTqCDjEYLJR151Fd5B) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:11 | 2022-05-11 | 2022-07-28 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-10-04 |  |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-25 |  |
@@ -71,7 +72,7 @@
 | [GIRL \(Feat\. Yonko\)](https://open.spotify.com/track/4dQMFWBISNYeLstXIZqfdn) | [KROM](https://open.spotify.com/artist/1nxLEnV5LWQdyno65PHCYT), [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED) | [GIRL](https://open.spotify.com/album/3n138B1zCEMn6gX1s850f6) | 3:40 | 2022-12-26 | 2023-01-13 |
 | [Go Back 집에](https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:47 | 2023-02-09 |  |
 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 | 2022-06-20 | 2022-08-30 |
-| [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [popeye](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 | 2023-02-14 |  |
+| [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [popeye](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 | 2023-02-14 | 2023-03-10 |
 | [goodbye](https://open.spotify.com/track/7yZbJNDEqvxvCzpl1JeWgh) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [goodbye](https://open.spotify.com/album/6nQkkGEfNQHwuRiB765rlt) | 2:44 | 2023-01-25 | 2023-02-19 |
 | [Haebing](https://open.spotify.com/track/1xLNIO5zOTTT5PVp2hxrka) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 3:47 | 2022-05-11 | 2022-07-18 |
 | [happen](https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F) | [more](https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM) | [Island Island!](https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD) | 2:55 | 2022-07-08 | 2022-08-22 |

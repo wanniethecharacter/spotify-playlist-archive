@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Ingrid Andress, Morgan Wallen, Tyler Braden and more.
 
-2,951 songs - 6 day 17 hr 19 min
+2,952 songs - 6 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1497,6 +1497,7 @@
 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 | 2023-02-17 | 2023-02-25 |
 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 | 2022-08-20 |
 | [Lately](https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Lately](https://open.spotify.com/album/1VegrzMvhwSOTupozMQnkj) | 3:27 | 2023-01-20 | 2023-01-28 |
+| [Lawless](https://open.spotify.com/track/2RXouVEma48BcryWt5yJue) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Lawless](https://open.spotify.com/album/3o3XLq8R6AbnGNc11BjFIP) | 3:46 | 2023-03-03 |  |
 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Lay It On Me](https://open.spotify.com/track/450OVGmNOVCUmkbmHVKJCi) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Home To Stay](https://open.spotify.com/album/5Tx9eLvXNLWdryEvhU60gA) | 4:32 | 2022-07-01 | 2022-07-16 |
 | [Lay It On Me](https://open.spotify.com/track/4YS7vuSkw5PB0kk2qLIwQT) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Lay It On Me](https://open.spotify.com/album/54mD2g9nhdMiHHlRCC22yS) | 4:34 | 2022-10-28 | 2022-11-05 |

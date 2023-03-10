@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535 likes - 82 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 536 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 31 | [Death Valley](https://open.spotify.com/track/7lKCiqJLakjQuPZ7ZvpmPc) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 2:52 |
 | 32 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 |
 | 33 | [You Want It All](https://open.spotify.com/track/2JlCN8HWtmvbSaLPSZ9f0L) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:11 |
-| 34 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
-| 35 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 34 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 35 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
 | 36 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 |
 | 37 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 |
 | 38 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 |
@@ -80,15 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 70 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
 | 71 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
 | 72 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
-| 73 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
-| 74 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 |
-| 75 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
-| 76 | [Nothing To Lose](https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE) | [Nick Fradiani](https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut) | [Hurricane](https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k) | 3:22 |
-| 77 | [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 |
-| 78 | [Open Arms](https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM) | [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love, Audra Mae](https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR) | 4:27 |
-| 79 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 |
-| 80 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
-| 81 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
-| 82 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
+| 73 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious Vol\. 5](https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5) | 3:58 |
+| 74 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
+| 75 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 |
+| 76 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
+| 77 | [Nothing To Lose](https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE) | [Nick Fradiani](https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut) | [Hurricane](https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k) | 3:22 |
+| 78 | [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 |
+| 79 | [Open Arms](https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM) | [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love, Audra Mae](https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR) | 4:27 |
+| 80 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 |
+| 81 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
+| 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
+| 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc5NzIwMDEsMDAwMDAwMDBlM2UxZDUxMTg4ZTlkMDc0MjcxNzRjZDE3NzA0YzZlYQ==`
+Snapshot ID: `Mjc5NzM0NDEsMDAwMDAwMDAzY2UzNWJlYmMxNGRkZmY4NGEwMmY1NjFjMjIwYjQ2OA==`

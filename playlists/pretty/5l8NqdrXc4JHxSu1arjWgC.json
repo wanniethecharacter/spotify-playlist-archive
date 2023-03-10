@@ -6,7 +6,7 @@
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY5Myw2YjlhOTA5YTU2MmI5YjNiYTg1MTg2NDU0NWYyMjRiZTZiMDc0ZThj",
+  "snapshot_id": "MTY5NCw4NTIxNTQ0ZThhMTdiNjkwY2M5NmQyYWMyN2ZlY2E3MmUzZDk2MWYx",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -10863,6 +10863,22 @@
       "duration_ms": 246106,
       "name": "How Many Friends",
       "url": "https://open.spotify.com/track/0ri3I02OBYDfXHnVOBSJSy"
+    },
+    {
+      "added_at": "2023-03-09 03:46:14",
+      "album": {
+        "name": "Windowsill",
+        "url": "https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP"
+      },
+      "artists": [
+        {
+          "name": "Mcbaise",
+          "url": "https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO"
+        }
+      ],
+      "duration_ms": 207678,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

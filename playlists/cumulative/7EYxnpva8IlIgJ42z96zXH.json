@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 226206,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7w8hOUvR20U6pdNa2dziHv"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 146900,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
@@ -4184,6 +4184,24 @@
       "duration_ms": 177637,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+    },
+    {
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/43dqt4CkdD0lwMhomDPGZd"
+      },
+      "artists": [
+        {
+          "name": "Audent",
+          "url": "https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249374,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/4AZsQDtCj4FwH0gaCMcBxk"
     },
     {
       "album": {
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 140852,
       "name": "Ki-Ki",
       "url": "https://open.spotify.com/track/35REVjW2vGqWclKAtI1PqD"
@@ -7385,6 +7403,28 @@
     },
     {
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
         "name": "Miracle Maker (feat. Clementine Douglas) [Airwolf Paradise Remix]",
         "url": "https://open.spotify.com/album/4WJ5NSIEsEN4R6wbdDyWMz"
       },
@@ -7484,7 +7524,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 145666,
       "name": "MONEY ON THE DASH",
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
@@ -7710,6 +7750,28 @@
       "duration_ms": 170680,
       "name": "Never Gonna Get It",
       "url": "https://open.spotify.com/track/0QEbtIIK5pwcZZYuzjTOZB"
+    },
+    {
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "album": {
@@ -9337,6 +9399,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl"
       },
@@ -10343,6 +10423,28 @@
     },
     {
       "album": {
+        "name": "Spinning Around (Dr Packer Remix)",
+        "url": "https://open.spotify.com/album/5o9zHqnGpQ1MOPuK09PkeT"
+      },
+      "artists": [
+        {
+          "name": "Jolyon Petch",
+          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
+        },
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246562,
+      "name": "Spinning Around - Dr Packer Remix",
+      "url": "https://open.spotify.com/track/0dF7Ej3huSIcxHGMDm6sPN"
+    },
+    {
+      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/6hRsRlRcF2Rk8mkDBmCYz4"
       },
@@ -11227,6 +11329,28 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz"
+    },
+    {
+      "album": {
         "name": "The Other Side (from Trolls World Tour) [Oliver Heldens Remix]",
         "url": "https://open.spotify.com/album/2Pmbbx6FMe27iG2ReNrTyz"
       },
@@ -11534,7 +11658,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 181594,
       "name": "Tiger Stripes",
       "url": "https://open.spotify.com/track/1TolDuZPDraC3L9pEIAPdx"

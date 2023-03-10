@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6f9MaHlw1oJ0aTQFTHIRyH"
+      },
+      "artists": [
+        {
+          "name": "Gr8 beats",
+          "url": "https://open.spotify.com/artist/0nbx3ygkskJ93VdTji8LFN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Eternal Youth",
+      "url": "https://open.spotify.com/track/6nX9K5ssifEIVNjMqj21jS"
+    },
+    {
+      "album": {
         "name": "Fact (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
       },
@@ -734,7 +752,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 392213,
       "name": "Going Down - Live",
       "url": "https://open.spotify.com/track/6lh4FKmXrRgxHloSdBduCc"
@@ -826,6 +844,24 @@
       "duration_ms": 171188,
       "name": "Hooked (Hot Stuff)",
       "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
+    },
+    {
+      "album": {
+        "name": "Hotel Window",
+        "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123454,
+      "name": "Hotel Window",
+      "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
     },
     {
       "album": {
@@ -1334,7 +1370,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 309506,
       "name": "Porgy",
       "url": "https://open.spotify.com/track/5SZWtUJum37Vv6gJiIcXb7"
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 270053,
       "name": "Powermovesceo",
       "url": "https://open.spotify.com/track/5gXM79V8wrjO5YC5nN4tZu"
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 264161,
       "name": "Song 02 (Paralyzed) - Demo 2018",
       "url": "https://open.spotify.com/track/1AOqt8dL9UqsipSOHAZdV2"
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 244524,
       "name": "Song 03 (Out of Reach) - Demo 2018",
       "url": "https://open.spotify.com/track/25ghCUrrSN01d0ztw7A4M9"
@@ -1630,6 +1666,24 @@
       "duration_ms": 137214,
       "name": "Study Time",
       "url": "https://open.spotify.com/track/3S9qaRhCJdc17PjsNo3Vzg"
+    },
+    {
+      "album": {
+        "name": "GRRR Live!",
+        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424920,
+      "name": "Sympathy For The Devil - Live",
+      "url": "https://open.spotify.com/track/09mQI8YU9zBNneF8nhzOxD"
     },
     {
       "album": {

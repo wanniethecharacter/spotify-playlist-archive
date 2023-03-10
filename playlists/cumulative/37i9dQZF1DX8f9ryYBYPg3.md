@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-183 songs - 1 day 14 hr 0 min
+184 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [ヨコハマ・ディビジョン MAD TRIGGER CREW Drama Track1](https://open.spotify.com/track/4mMaQ2GhlGEnRZwEJOoocK) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [BAYSIDE M.T.C](https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ) | 13:41 | 2022-06-09 |  |
 | [ヨコハマ・ディビジョン MAD TRIGGER CREW Drama Track2](https://open.spotify.com/track/305ZzFODZus8vODIsMgWuh) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [BAYSIDE M.T.C](https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ) | 5:03 | 2022-06-09 |  |
 | [レクイエム](https://open.spotify.com/track/2NZe5OoZYvvevvwCc04G8T) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田三郎\)](https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 3:27 | 2022-06-09 |  |
+| [三心同体](https://open.spotify.com/track/0VpyPE07F6Q57U8ZH0EPZS) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(F.P VS M.T.C All Cast\)](https://open.spotify.com/artist/5BNMlRpW3Ks5wiVJgNWv2c) | [三心同体](https://open.spotify.com/album/7fLYkmmzJgXkGenQ5rJvD0) | 6:05 | 2023-03-09 |  |
 | [俺が一郎](https://open.spotify.com/track/0XfGe25IjXcZLFkdsZl1ag) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [Buster Bros!!! Generation](https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra) | 4:45 | 2022-06-09 |  |
 | [君あり故に我あり](https://open.spotify.com/track/1MvyiLN8ufPiALVZBFTaOQ) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ), [ヒプノシスマイク \-D.R.B\- \(神宮寺寂雷\)](https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg) | [麻天狼 \-Before The 2nd D.R.B\-](https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd) | 3:57 | 2022-06-09 |  |
 | [月光陰 \-Moonlight Shadow\-](https://open.spotify.com/track/5MKOwGFsUcF1HwyUiDlzGf) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(四十物 十四\)](https://open.spotify.com/artist/0T5lSNqv0Utp1JPA21CWDw) | [ヒプノシスマイク ナゴヤ・ディビジョン 「Bad Ass Temple Funky Sounds」](https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt) | 3:45 | 2022-06-09 |  |

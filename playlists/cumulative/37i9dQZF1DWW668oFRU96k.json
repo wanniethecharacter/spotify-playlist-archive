@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x Galantis x Hayley Kiyoko",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris x Ellie Goulding",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -178,10 +178,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 187619,
       "name": "All In One Night",
       "url": "https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe"
+    },
+    {
+      "album": {
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
     },
     {
       "album": {
@@ -398,7 +416,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 148460,
       "name": "Chasing (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE"
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 181430,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 124921,
       "name": "Down",
       "url": "https://open.spotify.com/track/7I3MxDKyVKi5H8wV689a5V"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 142439,
       "name": "Dr. Frank",
       "url": "https://open.spotify.com/track/0REiCHsHHEz4RZSDIVgruq"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 353057,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/2BgckrzJ7MZeGUGLgbcV4T"
@@ -891,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Fool Me",
+        "url": "https://open.spotify.com/album/3MKJoSKe2eNN8o7bepluyh"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/6fviOwXHvwwN7GdAuVaH5v"
+    },
+    {
+      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
@@ -906,6 +942,46 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5QYjjjGP0pPDKrIsx2qLvZ"
+      },
+      "artists": [
+        {
+          "name": "Ardiyan",
+          "url": "https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3yJFPMWSYXqbGW9BfKqGsr"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
     },
     {
       "album": {
@@ -1148,7 +1224,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 198491,
       "name": "Highway Ride",
       "url": "https://open.spotify.com/track/70XTs7L1GH4x3Mov3fvFcO"
@@ -1280,7 +1356,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 146756,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
@@ -1350,7 +1426,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 194271,
       "name": "If Only",
       "url": "https://open.spotify.com/track/7LKe6KhOcnHkjTdjQsdbIC"
@@ -1457,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "Live for Me",
+        "url": "https://open.spotify.com/album/0EALQtkrQGC0ct58R0MydI"
+      },
+      "artists": [
+        {
+          "name": "Triangle Alliance",
+          "url": "https://open.spotify.com/artist/6za8fx80ZKndyEOEiiHIds"
+        },
+        {
+          "name": "Ball VRP",
+          "url": "https://open.spotify.com/artist/5bhcUn72Wh3nbjtvXJvu8f"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215629,
+      "name": "Live for Me",
+      "url": "https://open.spotify.com/track/4F0c3aLVk6Xt0tO2HrwBje"
+    },
+    {
+      "album": {
         "name": "Living For Love",
         "url": "https://open.spotify.com/album/0dOdtCTbMPftykOIPwWo9W"
       },
@@ -1546,6 +1644,24 @@
       "duration_ms": 157241,
       "name": "Loveline",
       "url": "https://open.spotify.com/track/1srU3olawRkqWsazU5neT0"
+    },
+    {
+      "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/6KZkiVwe0aEu3ypYWNyO6R"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215609,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1"
     },
     {
       "album": {
@@ -1672,6 +1788,28 @@
       "duration_ms": 150967,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4AYOwTesTIWGTsKrsxVYGd"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "album": {
@@ -2291,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "Run Till Dark (with Now United)",
+        "url": "https://open.spotify.com/album/0hxfJ0C3ggfGV0OmszUMOV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Now United",
+          "url": "https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139874,
+      "name": "Run Till Dark (with Now United)",
+      "url": "https://open.spotify.com/track/0HJ4Tedj2QSKLQJWRH30Aw"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5ogHbUtEyDf81Fv9poLseR"
       },
@@ -2306,7 +2466,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 126772,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5w0kehGd5oKFs4eR5kA9Wi"
@@ -2520,7 +2680,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
@@ -2623,6 +2783,32 @@
     },
     {
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/1rHEs07qBoO8xkbFRNRKJ8"
+      },
+      "artists": [
+        {
+          "name": "RBLZ",
+          "url": "https://open.spotify.com/artist/6eVy18b6wmuPCWnhwXg7RY"
+        },
+        {
+          "name": "Then Kenny",
+          "url": "https://open.spotify.com/artist/3Wsd0iR1JPVWD2PlhH2WWR"
+        },
+        {
+          "name": "Outertone",
+          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232503,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5p22eIQw5CjxXLdZc7znkw"
+    },
+    {
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/31hnvDgjFArB8Xbntl48ou"
       },
@@ -2656,7 +2842,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 157619,
       "name": "Sweet Goodbye",
       "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
@@ -2756,7 +2942,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 192103,
       "name": "The Same",
       "url": "https://open.spotify.com/track/1ARqBQUCeoAmDXljJlUzP1"
@@ -2832,6 +3018,28 @@
       "duration_ms": 227777,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/0kY3ZIOomJdziCeOYjuq6o"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL"
     },
     {
       "album": {

@@ -2351,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4aLW5xX8O4tuPi5E7T4494"
+      },
+      "artists": [
+        {
+          "name": "Fatboy",
+          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139233,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/10dIfQHkyn2SuJ6rtD7qrh"
+    },
+    {
+      "album": {
         "name": "Elvis",
         "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
       },

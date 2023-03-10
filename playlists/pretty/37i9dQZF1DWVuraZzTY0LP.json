@@ -1,12 +1,12 @@
 {
   "description": "Escucha la selecci\u00f3n que Se\u00f1oras Punk hicieron para Mam\u00e1 Cool. \ud83e\udd18\ud83c\udffc\ud83d\udda4",
-  "num_followers": 312894,
+  "num_followers": 312931,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMDcyMzZlYjJkOTAwYzQ3MjVjZTNmOTVjMWM1YjQ3YjBi",
+  "snapshot_id": "MTY3NjkxNzA5MiwwMDAwMDAwMGNmNWQ0NWJjZjdhNTk2Yjg4ZTUwNTdjM2EwYmI3MzM3",
   "tracks": [
     {
       "added_at": "2023-02-20 18:18:12",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -183,6 +183,34 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "$20",
+      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -211,34 +239,6 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "$20",
-      "url": "https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 212297,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+      "duration_ms": 225632,
+      "name": "Before You Gotta Go",
+      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
         }
       ],
-      "duration_ms": 225632,
-      "name": "Before You Gotta Go",
-      "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Lotta Sea Lice",
+        "url": "https://open.spotify.com/album/6Va3brVieuLkZIjJYf3orN"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        },
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 379853,
+      "name": "Over Everything",
+      "url": "https://open.spotify.com/track/72EIWFWM88oEnIgxQEoqQz"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 196213,
       "name": "Never Said - Remastered",
       "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Lotta Sea Lice",
-        "url": "https://open.spotify.com/album/6Va3brVieuLkZIjJYf3orN"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        },
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 379853,
-      "name": "Over Everything",
-      "url": "https://open.spotify.com/track/72EIWFWM88oEnIgxQEoqQz"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "\u00bfY C\u00f3mo?",
-        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+        "name": "Cerca",
+        "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
         }
       ],
-      "duration_ms": 212693,
-      "name": "\u00bfY C\u00f3mo?",
-      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
+      "duration_ms": 283963,
+      "name": "Cerca",
+      "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -915,22 +911,6 @@
       "duration_ms": 255826,
       "name": "There Is a Light That Never Goes Out",
       "url": "https://open.spotify.com/track/7pz7gsTrhqHnYMJHhTUaqf"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Cerca",
-        "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
-      },
-      "artists": [
-        {
-          "name": "Silver Rose",
-          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
-        }
-      ],
-      "duration_ms": 283963,
-      "name": "Cerca",
-      "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -967,6 +947,42 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "\u00bfY C\u00f3mo?",
+      "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Gato",
+        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Wasn't Tomorrow Wonderful?",
         "url": "https://open.spotify.com/album/2XnwrrG4CXQ0RFJtVG0wyC"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 207533,
       "name": "Ladyfingers",
       "url": "https://open.spotify.com/track/52bIOSnll3kxeSySSDrqT3"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Gato",
-        "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Gato",
-      "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Midnight Boom",
-        "url": "https://open.spotify.com/album/7ihDlf5F2mikKEskXxgj3z"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "Black Balloon",
-      "url": "https://open.spotify.com/track/1HZhNw2xntRsrTuhxyBIve"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "M\u00fasica, Gram\u00e1tica, Gimnasia",
         "url": "https://open.spotify.com/album/2i5sH8Y51ytTCkQxyboz9u"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 258320,
       "name": "Monitor - Acoustic",
       "url": "https://open.spotify.com/track/6FmiOrorVIYLMOur2j1KeZ"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/7ihDlf5F2mikKEskXxgj3z"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Black Balloon",
+      "url": "https://open.spotify.com/track/1HZhNw2xntRsrTuhxyBIve"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Little Joy",
-        "url": "https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs"
-      },
-      "artists": [
-        {
-          "name": "Little Joy",
-          "url": "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
-        }
-      ],
-      "duration_ms": 144546,
-      "name": "Keep Me in Mind",
-      "url": "https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
         "name": "Electric Version",
         "url": "https://open.spotify.com/album/1OS4Dzrs6o778JUf8tnlCz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 206760,
       "name": "The Laws Have Changed",
       "url": "https://open.spotify.com/track/0mgAzpg1dOmr2meovmlBwp"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
+        "name": "Little Joy",
+        "url": "https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs"
+      },
+      "artists": [
+        {
+          "name": "Little Joy",
+          "url": "https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX"
+        }
+      ],
+      "duration_ms": 144546,
+      "name": "Keep Me in Mind",
+      "url": "https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 165369,
+      "name": "un rato",
+      "url": "https://open.spotify.com/track/6C2KQRqLrtHrlIEjKdyXVJ"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Pink is the Colour of Unconditional Love",
         "url": "https://open.spotify.com/album/4ugFepbosq35f1RvtOLdjU"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
         }
       ],
-      "duration_ms": 165369,
-      "name": "un rato",
-      "url": "https://open.spotify.com/track/6C2KQRqLrtHrlIEjKdyXVJ"
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 263600,
       "name": "Charm Attack",
       "url": "https://open.spotify.com/track/7pm41QvCLeF8JzKvz1mv4m"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Kellies",
+        "url": "https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM"
+      },
+      "artists": [
+        {
+          "name": "Las Kellies",
+          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
+        }
+      ],
+      "duration_ms": 95239,
+      "name": "Perro Rompebolas",
+      "url": "https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Vivian Girls",
         "url": "https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 223960,
       "name": "This Is Our Emergency",
       "url": "https://open.spotify.com/track/0A3lCPgHitALWZwYx85ZvE"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Kellies",
-        "url": "https://open.spotify.com/album/1C56hWgDvSDHO7xhXEZsSM"
-      },
-      "artists": [
-        {
-          "name": "Las Kellies",
-          "url": "https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze"
-        }
-      ],
-      "duration_ms": 95239,
-      "name": "Perro Rompebolas",
-      "url": "https://open.spotify.com/track/5qm2LtAOHkPXXdvV6t5WIe"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sullivan",
+          "url": "https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN"
+        }
+      ],
+      "duration_ms": 142575,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4"
+    },
+    {
+      "added_at": "2023-02-20 18:18:12",
+      "album": {
         "name": "Terror Amor",
         "url": "https://open.spotify.com/album/5VZTxfurh70597Vn5PqMR4"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 120551,
       "name": "Es Verano Ya",
       "url": "https://open.spotify.com/track/6GpAcQZTJbkJmNU2KJ2NKa"
-    },
-    {
-      "added_at": "2023-02-20 18:18:12",
-      "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/6reYPvLvPmNnj7kIDtJHK6"
-      },
-      "artists": [
-        {
-          "name": "Jessica Sullivan",
-          "url": "https://open.spotify.com/artist/6bHHORSow00HqMs6aGSuGN"
-        }
-      ],
-      "duration_ms": 142575,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4gkAuy4pP0TQcVdR2V3ff4"
     },
     {
       "added_at": "2023-02-20 18:18:12",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-02-20 18:18:12",
       "album": {
-        "name": "Un D\u00eda",
-        "url": "https://open.spotify.com/album/5YQxAZ76T248nfmED6QxsE"
+        "name": "Reacciones",
+        "url": "https://open.spotify.com/album/1R8Fe88PTRGvUoYNCvOsAz"
       },
       "artists": [
         {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+          "name": "A Veces Amanda",
+          "url": "https://open.spotify.com/artist/2BSwfWyZyJpTNsXnfLpgRQ"
         }
       ],
-      "duration_ms": 335240,
-      "name": "Un D\u00eda",
-      "url": "https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF"
+      "duration_ms": 263188,
+      "name": "Me Pregunto",
+      "url": "https://open.spotify.com/track/0dxUCvJwEvGb59Uy76hYW2"
     }
   ],
   "unique_name": "mam\u00e1 cool",

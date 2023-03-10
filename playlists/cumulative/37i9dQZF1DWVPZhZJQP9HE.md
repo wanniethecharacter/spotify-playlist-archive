@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-363 songs - 21 hr 38 min
+365 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Naakula Mookula](https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:22 | 2022-07-27 | 2022-08-12 |
 | [Naan Inge](https://open.spotify.com/track/1pUi2naafAtQL42XgBGXYi) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Naan Inge](https://open.spotify.com/album/4u5OjrVdl0qbsJGumezCIh) | 3:12 | 2021-12-15 | 2022-07-16 |
 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 | 2021-12-01 | 2023-02-07 |
+| [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-03-09 |  |
 | [Naanum Rowdy Dhan](https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:05 | 2022-07-27 | 2022-08-12 |
 | [Nagaraathey](https://open.spotify.com/track/2mIMdEqNmZJdoa4MmZMMzz) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Swagatha S\. Krishnan](https://open.spotify.com/artist/7KICJe6VYOCvc44P4XmymX), [Ashwin Raj](https://open.spotify.com/artist/6YhvlmqtSQdFHB2Pjtdsaz) | [Nagaraathey](https://open.spotify.com/album/2MlL9FlrbvDqQwr0Uu7cZc) | 4:08 | 2022-06-24 | 2022-07-16 |
 | [Namma Stories](https://open.spotify.com/track/3RcS3P11j5PL7ttgEG5viZ) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Namma Stories](https://open.spotify.com/album/4QDOVhXnmdyTc2xWynuCq3) | 3:48 | 2021-12-01 | 2023-01-11 |
@@ -268,6 +269,7 @@
 | [Payanam](https://open.spotify.com/track/1x9o5hD4CKb4xfnWoSnUAU) | [Page 27](https://open.spotify.com/artist/2SZtjnp7b3VPrwihoyBRnt), [Arvind Kywalya](https://open.spotify.com/artist/7sL6bcKlCeWPZW9OXgKbsB) | [Payanam](https://open.spotify.com/album/5on1Cxh6N38M3zOYjNvG01) | 4:00 | 2022-01-12 | 2022-08-10 |
 | [Peekaboo Icecream](https://open.spotify.com/track/6ZrPtBgS6uLRdKLUEFtTdY) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Abhijith Ramaswami](https://open.spotify.com/artist/71Rq1l3001C96Z3xNwKChs) | [Peekaboo Icecream](https://open.spotify.com/album/69zE6o2BBgDUkUT6rpUssI) | 3:04 | 2022-11-11 | 2023-02-22 |
 | [Pengal Enna Choppa Choppa](https://open.spotify.com/track/5V6bMrPoYSfxQnItOFhTzZ) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 4:24 | 2022-07-27 | 2022-08-10 |
+| [Penne Penne](https://open.spotify.com/track/7wktPi8l3bXAhvOiWqKllr) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Sneha](https://open.spotify.com/artist/4sGKWGGLqfIOZL8tezvVQC), [Vaimu](https://open.spotify.com/artist/39gh6G2if8vM0DKvE9OnbY) | [Penne Penne](https://open.spotify.com/album/6XWoExiZ3TpM0jH3ukBaNU) | 2:57 | 2023-03-09 |  |
 | [PENNE UN KANNAALA](https://open.spotify.com/track/5kVhEgkDxpTTAnAUqPaZKh) | [Praveen Gunendran](https://open.spotify.com/artist/1AXchzqueZFYKft4uSMMzC), [Praveen Ram](https://open.spotify.com/artist/6HyAuuOnTQuz48aHvCAAa7), [Guillermo de la Torre](https://open.spotify.com/artist/4U0LK6SVIw6sW4qOmVnTlO) | [PENNE UN KANNAALA](https://open.spotify.com/album/5GgMbPhVrH0r7eBV18zQf6) | 3:15 | 2022-07-14 | 2023-02-07 |
 | [Perth \- Tamil Cover](https://open.spotify.com/track/4ZQ0GVESzV875sbZljIsYK) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Perth \(Tamil Cover\)](https://open.spotify.com/album/1VABy76095kihwbKcxQi4b) | 4:29 | 2022-09-23 | 2022-10-11 |
 | [Pesa Mozhi](https://open.spotify.com/track/38vVQIfbAAQkJ6HCGcnm6E) | [Prem](https://open.spotify.com/artist/4P2AbJbFAKIeG0q7stoJWh), [Khaviya](https://open.spotify.com/artist/0NSP91t444XUV1NSQX6cRQ) | [Pesa Mozhi](https://open.spotify.com/album/0M9e18gom99wQ7Q3NoXtYI) | 4:48 | 2022-07-15 | 2022-08-10 |

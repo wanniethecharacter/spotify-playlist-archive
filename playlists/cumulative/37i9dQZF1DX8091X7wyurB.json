@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Afurum Gi Nanya",
+        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Tryphena",
+          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139320,
+      "name": "Afurum Gi Nanya",
+      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
+    },
+    {
+      "album": {
         "name": "All That I Need",
         "url": "https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O"
       },
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 117333,
       "name": "Lehin Jesu ko Se Nikan O - Special Version",
       "url": "https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH"

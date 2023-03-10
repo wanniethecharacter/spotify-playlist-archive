@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Delta Dreams 3Hz",
+        "url": "https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH"
+      },
+      "artists": [
+        {
+          "name": "Mantramind",
+          "url": "https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Delta eighteen",
+      "url": "https://open.spotify.com/track/4yb6tuuebir6C8ws94X2PK"
+    },
+    {
+      "album": {
         "name": "Binaural Equinox",
         "url": "https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 223000,
       "name": "Delta Pattern 85.0 Hz - 89.0 Hz & Pad",
       "url": "https://open.spotify.com/track/0d1ishUCiPFsdMNar5yJd5"
+    },
+    {
+      "album": {
+        "name": "Delta Dreams 3Hz",
+        "url": "https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH"
+      },
+      "artists": [
+        {
+          "name": "Mantramind",
+          "url": "https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Delta seventeen",
+      "url": "https://open.spotify.com/track/1dEwBndA1qUaH8C7M3Rb4y"
     },
     {
       "album": {
@@ -884,6 +920,60 @@
       "duration_ms": 202000,
       "name": "Delta Sleep 1.2Hz Binaural 79.5Hz - 80.7Hz",
       "url": "https://open.spotify.com/track/0upYBpSKHQWFVNNLZRWaL7"
+    },
+    {
+      "album": {
+        "name": "Binaural Flow",
+        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
+      },
+      "artists": [
+        {
+          "name": "Sleeposines",
+          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Delta Sleep Binaural 80Hz - 81.2Hz",
+      "url": "https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf"
+    },
+    {
+      "album": {
+        "name": "Binaural Flow",
+        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
+      },
+      "artists": [
+        {
+          "name": "Sleeposines",
+          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Delta Sleep Binaural 82.7Hz - 84Hz",
+      "url": "https://open.spotify.com/track/7FXq4DGcyddOyOy3zj8iJF"
+    },
+    {
+      "album": {
+        "name": "Binaural Flow",
+        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
+      },
+      "artists": [
+        {
+          "name": "Sleeposines",
+          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Delta Sleep Binaural 84Hz - 85.4Hz",
+      "url": "https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E"
     },
     {
       "album": {

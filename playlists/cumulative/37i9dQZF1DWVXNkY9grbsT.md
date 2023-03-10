@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-299 songs - 1 day 1 hr 26 min
+300 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Chapter 7](https://open.spotify.com/track/1hXkvSqFLOBkpWTwO3bvbk) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chapter 7](https://open.spotify.com/album/3zipBnqqinWy5szfmoFaCV) | 6:04 | 2021-12-26 |  |
 | [CHIAROSCURO](https://open.spotify.com/track/6v5vNUiUrdFWvOkq6ViJE1) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VERDE](https://open.spotify.com/album/5q7wnQwXduhyYg9XZ6RSNS) | 7:56 | 2021-12-26 | 2022-07-27 |
 | [Choisis Ton Arme \- Pal Parallax Remix](https://open.spotify.com/track/1WW45Hqf4fwb0gQbWB0xob) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND), [Pal Parallax](https://open.spotify.com/artist/6slcGVBtWnlN3Pvo9XGAA4) | [Choisis Ton Arme \(Pal Parallax Remix\)](https://open.spotify.com/album/6TVTi9KVolcp4uvzbPUvNy) | 2:21 | 2021-12-26 | 2022-01-28 |
-| [Chrome Dreams](https://open.spotify.com/track/2EpCRT1cRcG72NeSI5dYYV) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna) | 6:16 | 2022-12-30 |  |
+| [Chrome Dreams](https://open.spotify.com/track/2EpCRT1cRcG72NeSI5dYYV) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna) | 6:16 | 2022-12-30 | 2023-03-10 |
 | [Chrome Dreams](https://open.spotify.com/track/6Z4YT5Qz3FAjURIhAlacsF) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/6UV2yKGCSjwpoBHra6IaRc) | 6:16 | 2021-12-26 | 2022-07-29 |
 | [Circle 19](https://open.spotify.com/track/3idz0NhLw93H5optXL4v2K) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 3:00 | 2021-12-26 |  |
 | [Commend, NYC Peace 4](https://open.spotify.com/track/3traRRbfAZ7WV7b8ZZBB7Q) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Surya Botofasina](https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F), [Will Logan](https://open.spotify.com/artist/555q32x3h8JLpbsE7Fr3EW), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Live at Commend, NYC](https://open.spotify.com/album/3wMBXeUregYVyNQoIvCDBd) | 9:24 | 2022-11-22 |  |
@@ -94,6 +94,7 @@
 | [Don't Worry \- Child Mix](https://open.spotify.com/track/0j9Waqd2mmYCStV7YiLgxQ) | [DJ Lostboi](https://open.spotify.com/artist/4hM2xGRI8JsgyLX9OBfeli) | [The Flash](https://open.spotify.com/album/6ZMQKff7TtJQraOaXwVI9h) | 5:37 | 2021-12-26 |  |
 | [Dream World](https://open.spotify.com/track/4HwvMpiBQtLdmPDEskAp2P) | [Mayk'l](https://open.spotify.com/artist/3zIB464sWOBFwqHeppzfkt) | [Ambitsound](https://open.spotify.com/album/7nXqROD0bpRtgbeewrfj8D) | 3:07 | 2022-03-04 | 2022-07-29 |
 | [Dreamers \(Part I\)](https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx) | [Interstellar Funk](https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf) | [Into The Echo](https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f) | 7:01 | 2022-04-01 |  |
+| [Drive West On Sunset \- Ambient](https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Being There \(Ambient\)](https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR) | 5:03 | 2023-03-10 |  |
 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 | 2022-04-01 |  |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 |  |
 | [Emanation](https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6) | [SaffronKeira](https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW), [Siavash Amini](https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo) | [Emanation](https://open.spotify.com/album/0qwJUyjwJhWKujcFPNFjMk) | 3:02 | 2021-12-26 |  |

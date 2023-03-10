@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,012 likes - 216 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,049 likes - 216 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 39 | [Into the Dark](https://open.spotify.com/track/1AIlPogcpB2XdSk9DdtPnn) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Into the Dark](https://open.spotify.com/album/3UMEUeoWsQn6DYTDIRCTSj) | 3:28 |
 | 40 | [Ce Qui Est Fait, Est Fait](https://open.spotify.com/track/4ipUy1xohhoPajBFRQyPoT) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Ce Qui Est Fait, Est Fait](https://open.spotify.com/album/4ef3Dcy5kkBykytirIsNDQ) | 2:56 |
 | 41 | [Sanctum Sonar](https://open.spotify.com/track/3uxgJoFbUUUPEVnq00Jw8X) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Sanctum Sonar](https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1) | 2:38 |
-| 42 | [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 |
+| 42 | [Only If You Stay](https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Here By The Sea](https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ) | 2:34 |
 | 43 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
 | 44 | [L'âme rêvée](https://open.spotify.com/track/5ehQEnyRaMM9qmFtIpCJlW) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [L'âme rêvée](https://open.spotify.com/album/4975TNrfqVqaxdVmWtKVR8) | 1:47 |
 | 45 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 215 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 |
 | 216 | [Un sogno tutto mio](https://open.spotify.com/track/09MOGGltE3OpP7e5V0XLej) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Un sogno tutto mio](https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb) | 2:40 |
 
-Snapshot ID: `MTY3ODIwNjQ4OSwwMDAwMDAwMGMzODliMmVjN2VhMmJiOWUyYWZjZGUyMWIwYzhhZjVl`
+Snapshot ID: `MTY3ODIwNjQ4OSwwMDAwMDAwMGQ4MmQ4NmMxNTU5M2EzNGQyMGI3ODg3OWU1ZmM2Y2Ni`

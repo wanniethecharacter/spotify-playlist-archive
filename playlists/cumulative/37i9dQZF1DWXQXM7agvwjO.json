@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: KIKI (Thailand)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Reality Club (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 209189,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9"
@@ -800,6 +800,24 @@
       "duration_ms": 173631,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
+    },
+    {
+      "album": {
+        "name": "BAHASA BARU",
+        "url": "https://open.spotify.com/album/0PnkH2LvSSZwXCtoRJdfEg"
+      },
+      "artists": [
+        {
+          "name": "Melati ESP",
+          "url": "https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250792,
+      "name": "BAHASA BARU",
+      "url": "https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN"
     },
     {
       "album": {
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 259819,
       "name": "Burn Book",
       "url": "https://open.spotify.com/track/1aDVkbFZ9qrv4drQUr5D4Y"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 245280,
       "name": "Conformance",
       "url": "https://open.spotify.com/track/2JP2UUDmqxhXJ4BHJJhQP5"
@@ -2502,6 +2520,24 @@
       "duration_ms": 164000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc"
     },
     {
       "album": {
@@ -3004,6 +3040,28 @@
       "duration_ms": 247000,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/3yIw4wffZn9hwPUKLUh25l"
+    },
+    {
+      "album": {
+        "name": "extra ordinary",
+        "url": "https://open.spotify.com/album/4zsv8pDsiu804DKBb5DO2f"
+      },
+      "artists": [
+        {
+          "name": "Group2",
+          "url": "https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp"
+        },
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "extra ordinary",
+      "url": "https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5"
     },
     {
       "album": {
@@ -3895,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "grandma's song",
+        "url": "https://open.spotify.com/album/2xTM1Jy7mLkAy5n5nqPWIQ"
+      },
+      "artists": [
+        {
+          "name": "blackvelvetz",
+          "url": "https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "grandma's song",
+      "url": "https://open.spotify.com/track/7p73xPXGoroEEVSL6HxK0s"
+    },
+    {
+      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -4204,10 +4280,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 152265,
       "name": "Hey Molly",
       "url": "https://open.spotify.com/track/54IE9zQKLBvlwCWEN6AThL"
+    },
+    {
+      "album": {
+        "name": "Hey Nina",
+        "url": "https://open.spotify.com/album/47E2z4EcJRLDrHRP49EjVv"
+      },
+      "artists": [
+        {
+          "name": "Haliya",
+          "url": "https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223169,
+      "name": "Hey Nina",
+      "url": "https://open.spotify.com/track/0TjGz2TBgKmmoBXs48qy3b"
     },
     {
       "album": {
@@ -5354,7 +5448,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 170734,
       "name": "just like you",
       "url": "https://open.spotify.com/track/41Rk18JqD8CbBcWM8VH0kk"
@@ -5394,6 +5488,24 @@
       "duration_ms": 215113,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx"
+    },
+    {
+      "album": {
+        "name": "Kahlua",
+        "url": "https://open.spotify.com/album/5PgfK9TLOnxbfpVUNtBsR3"
+      },
+      "artists": [
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Kahlua",
+      "url": "https://open.spotify.com/track/5N02Th5pGOdtkxkJCjiNM4"
     },
     {
       "album": {
@@ -5752,7 +5864,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 250818,
       "name": "Life of the Lovers",
       "url": "https://open.spotify.com/track/6MhzQJruXlaJA1b9KO188o"
@@ -5998,7 +6110,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 230181,
       "name": "love in balcony",
       "url": "https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre"
@@ -6788,7 +6900,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 201642,
       "name": "Nadia",
       "url": "https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9"
@@ -7364,6 +7476,28 @@
       "duration_ms": 167771,
       "name": "Over the Hill",
       "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/549aG93aYXXywD71wj36Sw"
+      },
+      "artists": [
+        {
+          "name": "Merakki",
+          "url": "https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl"
+        },
+        {
+          "name": "Joshua Wong",
+          "url": "https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt"
     },
     {
       "album": {
@@ -8080,6 +8214,24 @@
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
+    },
+    {
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe"
+      },
+      "artists": [
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147100,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ"
     },
     {
       "album": {
@@ -8892,7 +9044,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 201920,
       "name": "Strawberry Icecream",
       "url": "https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8"
@@ -11116,7 +11268,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 288250,
       "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
       "url": "https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw"
@@ -11192,6 +11344,24 @@
       "duration_ms": 229966,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49...\u0e01\u0e47\u0e41\u0e1e\u0e49 (Runner-Up)",
       "url": "https://open.spotify.com/track/3BmrklQXiokfMUSYVpoDTe"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245853,
+      "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
     },
     {
       "album": {
@@ -11998,6 +12168,24 @@
       "duration_ms": 215181,
       "name": "\u9999\u6e2f\u5730pt.2",
       "url": "https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx"
+    },
+    {
+      "album": {
+        "name": "\uc0b0 San",
+        "url": "https://open.spotify.com/album/4mPkd6zLJ6QitSM5KWZnfB"
+      },
+      "artists": [
+        {
+          "name": "Precocious Neophyte",
+          "url": "https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253521,
+      "name": "\uc0b0 San",
+      "url": "https://open.spotify.com/track/3ZhOznaV0kxWuDAtjlyNpX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33961,
+  "num_followers": 33960,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMGIxNDI4NGU0YWI1MjE5ZmJhOTYyZWNhMGRmMTdlY2E4",
+  "snapshot_id": "MTY1NTQzODUyMCwwMDAwMDAwMGE3YWYwMzllNDUwMzA5ZDM1MjNkMTgwNWQ1Yzg2ZWU3",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Mermaid Avenue",
         "url": "https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Penny, Heads Up",
-      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 187053,
       "name": "The General Specific",
       "url": "https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Penny, Heads Up",
+      "url": "https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "Why Do You Let Me Stay Here?",
-      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196163,
       "name": "Rambling Man",
       "url": "https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Why Do You Let Me Stay Here?",
+      "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
     },
     {
       "added_at": "2022-06-17 04:02:00",

@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "MY DEAR",
+        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k"
       },
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 425018,
       "name": "Protection - Hold Me Rework",
       "url": "https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ"
@@ -4584,6 +4602,24 @@
       "duration_ms": 231250,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7IEC04BdY0OOxc9BsIDgxk"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/5DKBr9vESCkzrYczL36MnL"
     },
     {
       "album": {
@@ -6576,7 +6612,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 321266,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO"

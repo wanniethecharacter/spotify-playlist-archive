@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 463678,
+  "num_followers": 463795,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkwMTAzMSwwMDAwMDAwMDNiMDJjYTJjMjAxY2EwODFmZmVmMTdkMjVjZDFmMDY4",
+  "snapshot_id": "MTY3NTkwMTAzMSwwMDAwMDAwMGMxYmNiMDg2ZGU3ZDNkYzYyNWJlNTAzZTUyOWFiNjAx",
   "tracks": [
     {
       "added_at": "2023-02-09 00:03:51",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
+      "duration_ms": 187331,
+      "name": "FEEL ME??",
+      "url": "https://open.spotify.com/track/3qukYaYSxIUBcq5UIUIsPf"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 187331,
-      "name": "FEEL ME??",
-      "url": "https://open.spotify.com/track/3qukYaYSxIUBcq5UIUIsPf"
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "No Me Pregunten",
-        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 250285,
-      "name": "No Me Pregunten",
-      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+      "duration_ms": 151750,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+        "name": "No Me Pregunten",
+        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 151750,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT"
+      "duration_ms": 250285,
+      "name": "No Me Pregunten",
+      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Chambean",
-        "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Chambean",
-      "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "La Mini",
         "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Chambean",
+        "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Chambean",
+      "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1251,38 +1267,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "Kachipun",
         "url": "https://open.spotify.com/album/55vu9TYS7vUdgBOp2Zo2CW"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "FASHION DILLER",
         "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 194484,
       "name": "TODO AUTOMATICO",
       "url": "https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "On The Road (feat. Elpatron970, Felp 22)",
         "url": "https://open.spotify.com/album/2YSdNZSMUEkwSp0vWkuSYh"
       },
@@ -1831,18 +1811,22 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "No Creyeron",
-        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/68gNfeJwYo79JVUlDXj7v8"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 150422,
-      "name": "No Creyeron",
-      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
+      "duration_ms": 207800,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/5AxYNbBJFPUQyANSrSyL0I"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1875,26 +1859,18 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
+        "name": "No Creyeron",
+        "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
       "artists": [
         {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 167565,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
+      "duration_ms": 150422,
+      "name": "No Creyeron",
+      "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -1919,6 +1895,30 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 167565,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Cuando Toca Toca",
-        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 184720,
-      "name": "Cuando Toca Toca",
-      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
         "name": "Qlq",
         "url": "https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 218526,
       "name": "Cash Cash",
       "url": "https://open.spotify.com/track/7qr3etn8d1pzbHcL8MewPy"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
+        "name": "Cuando Toca Toca",
+        "url": "https://open.spotify.com/album/7K6ttsCBYeEeG5ShXpVxAj"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 184720,
+      "name": "Cuando Toca Toca",
+      "url": "https://open.spotify.com/track/77RTlDGWdgIlbsceY70W28"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2239,22 +2239,22 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
-        "name": "Rolex",
-        "url": "https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt"
+        "name": "So\u00f1ando en PR",
+        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
       },
       "artists": [
         {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
         },
         {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 238094,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0"
+      "duration_ms": 158896,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
     },
     {
       "added_at": "2023-02-09 00:03:51",
@@ -2275,6 +2275,26 @@
     {
       "added_at": "2023-02-09 00:03:51",
       "album": {
+        "name": "Rolex",
+        "url": "https://open.spotify.com/album/1LEWufsU7xMe9G83r5DGTt"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "duration_ms": 238094,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/3ngemaN0E275eFYjHdrmw0"
+    },
+    {
+      "added_at": "2023-02-09 00:03:51",
+      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
       },
@@ -2287,26 +2307,6 @@
       "duration_ms": 201000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
-    },
-    {
-      "added_at": "2023-02-09 00:03:51",
-      "album": {
-        "name": "So\u00f1ando en PR",
-        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
     },
     {
       "added_at": "2023-02-09 00:03:51",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. ",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -262,6 +262,32 @@
       "duration_ms": 192000,
       "name": "Ah Pusing!",
       "url": "https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih"
+    },
+    {
+      "album": {
+        "name": "Scars Souvenir",
+        "url": "https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Leca Percussion",
+          "url": "https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q"
+        },
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179827,
+      "name": "As We Talk",
+      "url": "https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m"
     },
     {
       "album": {
@@ -698,6 +724,24 @@
       "duration_ms": 177658,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN"
+    },
+    {
+      "album": {
+        "name": "Sisi Lain",
+        "url": "https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R"
+      },
+      "artists": [
+        {
+          "name": "Sisasa",
+          "url": "https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276052,
+      "name": "Entah",
+      "url": "https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj"
     },
     {
       "album": {
@@ -1914,6 +1958,28 @@
       "duration_ms": 135428,
       "name": "Sendiri",
       "url": "https://open.spotify.com/track/2EpLkn1XKYL29Yf3WFs0ld"
+    },
+    {
+      "album": {
+        "name": "SESAL KEKAL",
+        "url": "https://open.spotify.com/album/0NskzXx22J1gjpfRVxZXIp"
+      },
+      "artists": [
+        {
+          "name": "Bintang Indrianto",
+          "url": "https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC"
+        },
+        {
+          "name": "Freza Anhar",
+          "url": "https://open.spotify.com/artist/0yaCjTavcpUhb2TRDXMt8r"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168294,
+      "name": "SESAL KEKAL",
+      "url": "https://open.spotify.com/track/27YcoSUtKAtJThNR6293UB"
     },
     {
       "album": {

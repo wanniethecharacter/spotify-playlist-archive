@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディーシーン最先端を特集。Cover: YAJICO GIRL
 
-232 songs - 15 hr 1 min
+234 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [ears](https://open.spotify.com/track/64iwMa5Iq6343hvufPTCOZ) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [ears](https://open.spotify.com/album/7bzaC6fiUvH3XWd0azxDyf) | 3:43 | 2023-02-21 |  |
 | [Every Breath](https://open.spotify.com/track/2XzlXqeqHeRRfPKKWyhUra) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [Odorata](https://open.spotify.com/album/4Uro4jb3EOXAOe12k8aEPD) | 1:49 | 2023-02-14 |  |
 | [everywhere](https://open.spotify.com/track/0qxFXsxsoUHHhvpKe6ZItr) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [everywhere](https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK) | 5:22 | 2023-02-07 |  |
+| [extra ordinary](https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [extra ordinary](https://open.spotify.com/album/4zsv8pDsiu804DKBb5DO2f) | 3:36 | 2023-03-09 |  |
 | [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 | 2023-03-07 |  |
 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 | 2023-02-28 |  |
 | [Far Dreams \- feat\. Misi Ke](https://open.spotify.com/track/3ArK2i4nAkdyZbWNUSe1O0) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Far Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/5y651XrkWm9tVLTgbWazi4) | 2:54 | 2023-01-31 | 2023-02-15 |
@@ -139,7 +140,7 @@
 | [Stand by Me](https://open.spotify.com/track/0OoQhyGwEwOGKk96J6nJ3R) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Stand by Me](https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs) | 3:28 | 2023-01-12 | 2023-01-18 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-01-12 | 2023-01-18 |
-| [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 | 2023-01-24 |  |
+| [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 | 2023-01-24 | 2023-03-10 |
 | [SUI SUI](https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv) | 4:03 | 2023-01-12 | 2023-02-08 |
 | [Summer Lost 2023 \- ft\. butaji](https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [Summer Lost 2023 \(ft\. butaji\)](https://open.spotify.com/album/1M4kqTNWIdKFIOUvh173uy) | 5:31 | 2023-01-12 | 2023-02-01 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-19 | 2023-02-24 |
@@ -226,13 +227,14 @@
 | [月と花との追分で](https://open.spotify.com/track/7aoYaQXqW9ERTPPgxFP7f0) | [onomatopel](https://open.spotify.com/artist/4mTAV6xPaB8DNaArTH3VUw) | [月と花との追分で](https://open.spotify.com/album/2y6d7u8c2AJE0WckQqhpSF) | 4:16 | 2023-01-17 | 2023-01-25 |
 | [母船](https://open.spotify.com/track/3ZATN9nilk2MxQXkl2B7AL) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [卵](https://open.spotify.com/album/4qe0XanRyN4rIkJxjdSoh6) | 4:01 | 2023-01-12 | 2023-01-25 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2023-01-12 | 2023-02-01 |
-| [気持ちいい言葉](https://open.spotify.com/track/3uMUjKOwR7xWFluaESRzxe) | [はいから東京](https://open.spotify.com/artist/1zf5JQjekWY6zGOwWz2oyv) | [Farewell Seasons](https://open.spotify.com/album/39FUV4hWBpjtmVe9gEwRjQ) | 3:48 | 2023-02-28 |  |
+| [気持ちいい言葉](https://open.spotify.com/track/3uMUjKOwR7xWFluaESRzxe) | [はいから東京](https://open.spotify.com/artist/1zf5JQjekWY6zGOwWz2oyv) | [Farewell Seasons](https://open.spotify.com/album/39FUV4hWBpjtmVe9gEwRjQ) | 3:48 | 2023-02-28 | 2023-03-10 |
 | [永久彗星短歌水](https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [.jp](https://open.spotify.com/album/2f4dNQKKphfenMl0Ll3MTJ) | 6:12 | 2023-01-12 | 2023-01-20 |
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-01 |
 | [海がきこえる](https://open.spotify.com/track/6SDLJ9Rv5EF91UogxwRvRj) | [THE TREES](https://open.spotify.com/artist/3T2vPCbSCuXduryVIIi2GY) | [海がきこえる](https://open.spotify.com/album/2N7nCxZj9sNB8eTo5ZOj31) | 4:16 | 2023-01-31 | 2023-02-15 |
 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 | 2023-03-07 |  |
 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:36 | 2023-02-21 |  |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-02-01 |
+| [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 |  |
 | [装置](https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 6:52 | 2023-01-17 | 2023-02-01 |
 | [遠ざかる犬](https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [遠ざかる犬](https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd) | 4:19 | 2023-01-26 |  |
 | [都合](https://open.spotify.com/track/1pRvrpVo5ZBvgJ1zyEYkf3) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 4:29 | 2023-01-31 |  |

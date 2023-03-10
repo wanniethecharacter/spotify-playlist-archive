@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-591 songs - 1 day 11 hr 57 min
+592 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2022-10-07 |  |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2020-11-17 | 2022-10-13 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2021-05-13 | 2022-04-27 |
+| [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2023-02-23 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-03-07 | 2022-07-29 |
 | [Cigarettes and Chocolate](https://open.spotify.com/track/0z2F4jpUIGDTnjuDrrcQ4r) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Thinking in textures](https://open.spotify.com/album/1zW59tdlltJgHOlqLbR1lN) | 5:16 | 2020-10-16 | 2022-04-12 |
 | [Circles](https://open.spotify.com/track/204swkv9veaNPFDuX3Qkyn) | [Steve Benjamins](https://open.spotify.com/artist/5nHEPNlQQ68cmxxvvF1CVl) | [Circles](https://open.spotify.com/album/18tT4pMkJ5PP5bheISmj2n) | 4:00 | 2020-10-05\* | 2020-10-06 |
@@ -525,7 +526,7 @@
 | [This Universe](https://open.spotify.com/track/2BCBJzP7PQ3QlI1lrPdOVX) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Interlude](https://open.spotify.com/album/0VF7coFlhDZnrmu7TYbDhO) | 3:08 | 2021-03-15 | 2022-04-19 |
 | [Ti\-de](https://open.spotify.com/track/679DH2dDS6VPrVzJKS6obT) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 6:12 | 2020-12-31 | 2022-04-21 |
 | [Time](https://open.spotify.com/track/1cEHGBID7A9CTLUKOWVk5h) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Time](https://open.spotify.com/album/0CDeIgzn8DcJVpFQ55FMbj) | 3:56 | 2020-10-16 | 2022-04-21 |
-| [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 | 2022-07-25 |  |
+| [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 | 2022-07-25 | 2023-03-10 |
 | [Time \(You and I\)](https://open.spotify.com/track/4fMIe4htuvA8RoygYDFqO5) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk) | 5:42 | 2020-10-16 | 2022-07-28 |
 | [Time Rider](https://open.spotify.com/track/063P9fza0DJ5V4odLnVUcv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Time Rider](https://open.spotify.com/album/1lige5FVk5RvkVHZsuJ1eI) | 4:43 | 2020-10-05\* | 2022-04-15 |
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-11-19 | 2023-02-24 |

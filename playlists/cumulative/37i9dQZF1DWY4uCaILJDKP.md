@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-125 songs - 8 hr 30 min
+126 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [帆を上げろ!](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 | 2022-03-08 |  |
 | [星より先に見つけてあげる](https://open.spotify.com/track/4JfFC0KteCysB94ooYSbli) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [蒼い生命](https://open.spotify.com/album/3NHgyxIWN5N5xA42fxTG2F) | 3:52 | 2022-03-08 |  |
 | [最後の恋](https://open.spotify.com/track/3ppA5RIUkVK29mPa5T9erB) | [Keiko Masuda](https://open.spotify.com/artist/7Er8Al0qkSET67raBdRo9Y) | [最後の恋 / 富士山だ](https://open.spotify.com/album/29pgOADoOPzU5Mj52M3JkI) | 3:37 | 2022-03-08 |  |
+| [桜、いってきます](https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [桜、いってきます](https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI) | 4:34 | 2023-03-09 |  |
 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 | 2022-03-08 |  |
 | [樹愛羅、助けに来たぞ](https://open.spotify.com/track/0a9703vA2qok2MbpWU46M0) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [手遅れcaution](https://open.spotify.com/album/1ANjYhJNnkIbdYwg9ruRzo) | 4:09 | 2022-03-08 |  |
 | [無限∞ブランノワール](https://open.spotify.com/track/2Cb0EoNLoOtJTM07zbzTVW) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [無限∞ブランノワール](https://open.spotify.com/album/6qZqP0bchSwhrmL3d5zkF2) | 4:36 | 2022-03-08 |  |

@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "BLEU",
+        "url": "https://open.spotify.com/album/58DA8gJ84X9aNARatE28DM"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146976,
+      "name": "BLEU",
+      "url": "https://open.spotify.com/track/4nIpx5FodqLx2fDjHQEeLU"
+    },
+    {
+      "album": {
         "name": "Boulevard des Belges",
         "url": "https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM"
       },
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 195230,
       "name": "PUZZLE",
       "url": "https://open.spotify.com/track/0yEnRdHmfVURCjohBb7WT3"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 177225,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/33piDi5whXV52HXML5th6A"
@@ -2874,6 +2892,24 @@
       "duration_ms": 237783,
       "name": "Temp\u00eate",
       "url": "https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa"
+    },
+    {
+      "album": {
+        "name": "Triste mais elle aime \u00e7a (Affam\u00e9 #16)",
+        "url": "https://open.spotify.com/album/6yLW4TV9WqAu0k04EPPubz"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Triste mais elle aime \u00e7a (Affam\u00e9 #16)",
+      "url": "https://open.spotify.com/track/4AGxTigtrKhNFIK1ZEdhNm"
     },
     {
       "album": {

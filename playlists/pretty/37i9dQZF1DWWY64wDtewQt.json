@@ -1,6 +1,6 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 4594674,
+  "num_followers": 4605115,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
@@ -151,7 +151,7 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
+        "name": "WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
@@ -1388,12 +1388,12 @@
       },
       "artists": [
         {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
           "name": "RAIZHELL",
           "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
         }
       ],
       "duration_ms": 145500,

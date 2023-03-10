@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Aureole",
+        "url": "https://open.spotify.com/album/4svAUDu4JDOidd18XZVfIL"
+      },
+      "artists": [
+        {
+          "name": "Parker Woods",
+          "url": "https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Aureole",
+      "url": "https://open.spotify.com/track/4T3JcVdMphiLK94BsbLr1s"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 120000,
       "name": "Breath in the wild",
       "url": "https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB"
@@ -1954,6 +1972,24 @@
       "duration_ms": 202500,
       "name": "Calming Coral",
       "url": "https://open.spotify.com/track/1wGBlnU35r8mR5jJovQJVv"
+    },
+    {
+      "album": {
+        "name": "Calming Quality",
+        "url": "https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2"
+      },
+      "artists": [
+        {
+          "name": "Auxelia",
+          "url": "https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198214,
+      "name": "Calming Quality",
+      "url": "https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9"
     },
     {
       "album": {
@@ -2188,6 +2224,24 @@
       "duration_ms": 176500,
       "name": "Changing Places",
       "url": "https://open.spotify.com/track/5WmNIkqdsm7rQeFowj0lSX"
+    },
+    {
+      "album": {
+        "name": "The Sudden Change",
+        "url": "https://open.spotify.com/album/4zd9ex795plyotGggtA8w3"
+      },
+      "artists": [
+        {
+          "name": "Marcus Rivero",
+          "url": "https://open.spotify.com/artist/29vNrxA7CEM2eKlANyo9Yy"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Chia",
+      "url": "https://open.spotify.com/track/7kW7FXKmMzmbGvhe0FECQl"
     },
     {
       "album": {
@@ -2440,6 +2494,24 @@
       "duration_ms": 156793,
       "name": "Cloud Dance",
       "url": "https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4"
+    },
+    {
+      "album": {
+        "name": "Floating Free",
+        "url": "https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Clouds",
+          "url": "https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167947,
+      "name": "Cloud Gazing",
+      "url": "https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC"
     },
     {
       "album": {
@@ -4010,7 +4082,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 172090,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt"
@@ -5000,7 +5072,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 157714,
       "name": "Four Months",
       "url": "https://open.spotify.com/track/7mKa4BPGbRgRt9OQq8NNtY"
@@ -5702,7 +5774,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 186500,
       "name": "I et andet liv",
       "url": "https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ"
@@ -8633,6 +8705,24 @@
     },
     {
       "album": {
+        "name": "Oroitzapenak",
+        "url": "https://open.spotify.com/album/4b7lNPhmqIrFALnjCjn78z"
+      },
+      "artists": [
+        {
+          "name": "Leona Montoya",
+          "url": "https://open.spotify.com/artist/5SoFygSAB3x2wUQbgqku06"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Oroitzapenak",
+      "url": "https://open.spotify.com/track/6yr16gxxdy0JLUx0dxx4DI"
+    },
+    {
+      "album": {
         "name": "Over skyerne",
         "url": "https://open.spotify.com/album/0ezMCGxdXrQbfDQDxjhaoL"
       },
@@ -9076,7 +9166,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 178782,
       "name": "Placid Dream",
       "url": "https://open.spotify.com/track/6xTOkkjXpxhmUbC4bHwj42"
@@ -11326,7 +11416,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 211000,
       "name": "Squama",
       "url": "https://open.spotify.com/track/3uqxytqtmoZuxyn3ISYT2e"
@@ -11596,7 +11686,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 185697,
       "name": "Stream Of Somnolence",
       "url": "https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh"
@@ -11722,7 +11812,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 146374,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/44CGw5yimT0uwQnurWo2gz"
@@ -12784,7 +12874,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"
@@ -12806,6 +12896,24 @@
       "duration_ms": 160881,
       "name": "Unfolded",
       "url": "https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y"
+    },
+    {
+      "album": {
+        "name": "Unistades",
+        "url": "https://open.spotify.com/album/3zzLmx3Gmgis01wXxcMi9H"
+      },
+      "artists": [
+        {
+          "name": "Eyla Calmes",
+          "url": "https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Unistades",
+      "url": "https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM"
     },
     {
       "album": {

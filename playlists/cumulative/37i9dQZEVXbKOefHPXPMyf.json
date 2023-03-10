@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 168000,
       "name": "Beautiful Day (Thank You for Sunshine)",
       "url": "https://open.spotify.com/track/1z5r6Rpcc1BreRtYALBncX"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
@@ -4366,7 +4366,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 212141,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/3U6VKHRO50KSiDk8DNWbAH"
@@ -6504,7 +6504,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 281835,
       "name": "Esclava",
       "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
@@ -9776,7 +9776,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
@@ -12442,7 +12442,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 130629,
       "name": "Morocha",
       "url": "https://open.spotify.com/track/5nv4ffgl1eVW7MvnEuEf31"
@@ -15534,6 +15534,24 @@
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
+    },
+    {
+      "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/304IVBSzDUlxO71PlPdwNm"
+      },
+      "artists": [
+        {
+          "name": "Janaimar",
+          "url": "https://open.spotify.com/artist/1PT2963OdpSx6ijMtPG6qV"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252093,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/6PPpY9V45uggKf6iL2OZl4"
     },
     {
       "album": {
@@ -18830,7 +18848,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 157261,
       "name": "Tinnitus (Wanna be a rock)",
       "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"

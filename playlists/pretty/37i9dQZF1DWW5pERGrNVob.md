@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,095 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,125 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 67 | [Décalcomanie](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MEMORY](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) | 3:35 |
 | 68 | [Diamond](https://open.spotify.com/track/5jJceu1XzlE3bPQhQTZ2Ul) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 2:40 |
 | 69 | [Good Night](https://open.spotify.com/track/3KAfLV5JH4K0uMYBG5T1oK) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 4:08 |
-| 70 | [Starry Night](https://open.spotify.com/track/5MaDeMdqsPsZTxNWdEZPVH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) | 3:31 |
+| 70 | [Starry Night](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) | 3:31 |
 | 71 | [Shine On You](https://open.spotify.com/track/4oI4cFG1H57TEWRbjVqOD0) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 |
 | 72 | [Wind flower](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [BLUE;S](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) | 3:56 |
 | 73 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 104 | [Hello Mama](https://open.spotify.com/track/5lUj2BXXpZnA3tXRVxCY7n) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:39 |
 | 105 | [Ten Nights](https://open.spotify.com/track/6zbHcliUyMYCI0NUUXcEEb) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:37 |
 
-Snapshot ID: `MTY3NzA0ODQyMywwMDAwMDAwMDk1MjAxZTBkY2M1MzMxZWQ3YjFhZmJiNjlmNjYwNzdm`
+Snapshot ID: `MTY3NzA0ODQyMywwMDAwMDAwMDI4N2Y4MmViZDZmN2E3Zjk3MDkyY2M1N2Q2ZGQzMjE4`

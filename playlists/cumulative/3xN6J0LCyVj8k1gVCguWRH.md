@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,061 songs - 4 day 22 hr 36 min
+2,062 songs - 4 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1570,6 +1570,7 @@
 | [Sever, Pt\. I](https://open.spotify.com/track/05geDVgQVEzh5v6NqG5Vz1) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [Sever, Pt\. I](https://open.spotify.com/album/0JKPliWrAWf60VRk2U0ZI6) | 5:43 | 2022-08-12 | 2022-08-28 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-09-29\* | 2021-11-19 |
 | [Shades of Red](https://open.spotify.com/track/32gfcttbZKV36VW3SKw7fG) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [My Name Is Not Kaiser](https://open.spotify.com/album/4HVdgHNTCh47P0UAen7MwU) | 3:35 | 2020-09-05 | 2020-09-16 |
+| [Shadows and Illusions](https://open.spotify.com/track/2PS8qQwAfL7xt3LWsQ13cy) | [Farah Camille](https://open.spotify.com/artist/2oGN4zBzijzBIYvcTNTMZ2) | [Shadows and Illusions](https://open.spotify.com/album/2Uq1c6OE441UdGGafFBUKD) | 3:50 | 2023-03-09 |  |
 | [Shake Me](https://open.spotify.com/track/5DVptkujQ0eKD1nyTQbIMV) | [The Wonderlands](https://open.spotify.com/artist/5d9MnG7M9Kj02Aa8XQ06mA) | [Shake Me](https://open.spotify.com/album/22E36tAop2YOoHehVdp7dG) | 4:11 | 2023-02-24 |  |
 | [Shake What Your Mama](https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [I'll Be Fine](https://open.spotify.com/album/1MPItEak5Jl1DOupPmKsjj) | 2:47 | 2021-08-31 | 2021-09-16 |
 | [Shakedown](https://open.spotify.com/track/1wViRHIhsserH8zdNqhZtb) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Shakedown](https://open.spotify.com/album/2xiLegcNVLVPL8u1LtzN65) | 3:26 | 2021-03-27 | 2021-04-17 |

@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-244 songs - 15 hr 26 min
+245 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Moonlite](https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:53 | 2022-02-17 | 2022-11-20 |
 | [My Favorite Things](https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Manhattan Special](https://open.spotify.com/album/5WAIQrdBswl6U8nFlAw6US) | 5:01 | 2022-02-17 | 2022-04-22 |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2022-11-17 |
-| [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 | 2022-02-17 |  |
+| [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 | 2022-02-17 | 2023-03-10 |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2022-06-02 |  |
 | [New Kid \- Jon Charleston Rework](https://open.spotify.com/track/627hQRtHxWnu3z9CghsL3m) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2), [Jon Charleston](https://open.spotify.com/artist/6zlEatETWX5iVk6CLYw1ek) | [New Kid \(Jon Charleston Rework\)](https://open.spotify.com/album/4uOmKEjmSHCN5J9rfh4wJm) | 2:25 | 2022-02-17 |  |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2022-06-02 | 2022-09-29 |
@@ -203,6 +203,7 @@
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2022-06-02 | 2022-09-01 |
 | [Synchronized Swigging](https://open.spotify.com/track/3akI3Xo8cyRrPbKAALJENF) | [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor) | [Synchronized Swigging](https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7) | 3:51 | 2022-02-17 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2022-06-02 |  |
+| [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-03-09 |  |
 | [That Roy](https://open.spotify.com/track/7G035a84qdhNfjm2pV29Zx) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Justin Brown](https://open.spotify.com/artist/4YzUifC19loaHMPE0MdGNv) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 2:16 | 2022-03-31 | 2022-10-27 |
 | [The American Negro](https://open.spotify.com/track/4zmcdNHswlPehBWqsMEijS) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/7hfUy5lE0q1Zh7YBgNKGto) | 4:36 | 2022-02-17 | 2022-04-21 |
 | [The Carpenter](https://open.spotify.com/track/0GAST4Af46rS4MNGKlwTeu) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [We're Not in Kansas Anymore](https://open.spotify.com/album/7GQp63TXeYGVI6JuUapIGM) | 3:40 | 2022-12-22 | 2023-03-02 |

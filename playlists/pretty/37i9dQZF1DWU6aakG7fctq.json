@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Diamante El\u00e9ctrico",
-  "num_followers": 508587,
+  "num_followers": 508601,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMjE4NSwwMDAwMDAwMDk3ZDJkMzdiYTZlOTNiNGIwNmRhMDQxZmY3MGRkOGI0",
+  "snapshot_id": "MTY3ODEyMjE4NSwwMDAwMDAwMGRhZmNlNGYyNWQwNmQwYjAxNTNhOTBhOWY4MzI1Mzhh",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "capturas de pantalla",
+        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "capturas de pantalla",
+      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "capturas de pantalla",
-        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "capturas de pantalla",
-      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Dibujos De Mi Alma",
-        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
       "artists": [
         {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
+      "duration_ms": 141818,
+      "name": "Enculado - feat. Nsqk",
+      "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
       },
       "artists": [
         {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Enculado - feat. Nsqk",
-      "url": "https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e"
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/12kWRxspXnd2ISMbXPMPcp"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 166189,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3YLIRe9P2UreZ3XKv8DJKm"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -655,18 +635,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bamb\u00fa",
-        "url": "https://open.spotify.com/album/13P2vro0zuzYaa2riIdvx3"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/12kWRxspXnd2ISMbXPMPcp"
       },
       "artists": [
         {
-          "name": "Varry Brava",
-          "url": "https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 199090,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/501IpqWgmxPZFS3V42cPQn"
+      "duration_ms": 166189,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3YLIRe9P2UreZ3XKv8DJKm"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -707,8 +691,24 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+        "name": "Bamb\u00fa",
+        "url": "https://open.spotify.com/album/13P2vro0zuzYaa2riIdvx3"
+      },
+      "artists": [
+        {
+          "name": "Varry Brava",
+          "url": "https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/501IpqWgmxPZFS3V42cPQn"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -739,34 +739,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+        "name": "Un D\u00eda",
+        "url": "https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 227320,
-      "name": "Turistas",
-      "url": "https://open.spotify.com/track/63FbeYkl2RYS4t3NlstoDR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Hacedora",
-        "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 127153,
-      "name": "Hacedora",
-      "url": "https://open.spotify.com/track/3CaqjyISMBli311fJtv44h"
+      "duration_ms": 164444,
+      "name": "Un D\u00eda",
+      "url": "https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -803,6 +787,38 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Turistas",
+      "url": "https://open.spotify.com/track/63FbeYkl2RYS4t3NlstoDR"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hacedora",
+        "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 127153,
+      "name": "Hacedora",
+      "url": "https://open.spotify.com/track/3CaqjyISMBli311fJtv44h"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "LA RUTA NATURAL",
         "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
       },
@@ -823,6 +839,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "\u00bfQUI\u00c9N TE MANDA?",
         "url": "https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 218733,
       "name": "\u00bfQUI\u00c9N TE MANDA?",
       "url": "https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "444/Ms. Moon",
-        "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 153593,
-      "name": "Ms. Moon",
-      "url": "https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa"
     }
   ],
   "unique_name": "el nuevo indie",

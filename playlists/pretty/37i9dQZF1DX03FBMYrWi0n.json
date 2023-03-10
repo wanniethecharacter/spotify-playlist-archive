@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle - avec Le Couleur, Gab Bouchard, blesse et bien plus.",
-  "num_followers": 772,
+  "num_followers": 787,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwNTA0NywwMDAwMDAwMDliNGRkZTEyMjkwZGEwNWEyYjIxZjkzY2EwMjEzNTJi",
+  "snapshot_id": "MTY3ODIwNTA0NywwMDAwMDAwMDA2ZWU1OWM0Njk1MTg1ZDcyMTU0NjQ5Njc3NWFlZDk2",
   "tracks": [
     {
       "added_at": "2023-03-07 16:04:07",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Choses Sauvages",
-        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
       },
       "artists": [
         {
-          "name": "Choses Sauvages",
-          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+          "name": "Plants and Animals",
+          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
         }
       ],
-      "duration_ms": 157827,
-      "name": "La valse des trottoirs",
-      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
+      "duration_ms": 343160,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx"
+        "name": "Choses Sauvages",
+        "url": "https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp"
       },
       "artists": [
         {
-          "name": "Plants and Animals",
-          "url": "https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c"
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
         }
       ],
-      "duration_ms": 343160,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r"
+      "duration_ms": 157827,
+      "name": "La valse des trottoirs",
+      "url": "https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
+        "name": "\u200emile \u200eend",
+        "url": "https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u200emile \u200eend",
+      "url": "https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
-        "name": "\u200emile \u200eend",
-        "url": "https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u200emile \u200eend",
-      "url": "https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 239951,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
       },
       "artists": [
         {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
         }
       ],
-      "duration_ms": 145936,
-      "name": "Ton h\u00f4tel",
-      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+      "duration_ms": 239951,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -591,6 +575,22 @@
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Ton h\u00f4tel",
+      "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Piscine hors terre",
-        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
-      },
-      "artists": [
-        {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
-        }
-      ],
-      "duration_ms": 211570,
-      "name": "Piscine hors terre",
-      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
         "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
         "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 156933,
       "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
       "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
+        "name": "Piscine hors terre",
+        "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "duration_ms": 211570,
+      "name": "Piscine hors terre",
+      "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
         "name": "Nimueshtaten nete",
         "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Liszt-o-mania",
-        "url": "https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x"
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
       "artists": [
         {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
         }
       ],
-      "duration_ms": 232315,
-      "name": "Liszt-o-mania",
-      "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 268426,
       "name": "Ma\u00efa",
       "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
+        "name": "Liszt-o-mania",
+        "url": "https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 232315,
+      "name": "Liszt-o-mania",
+      "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
         "name": "Rencontrer Looloo",
         "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 171321,
       "name": "Lighter Fluid",
       "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2023-03-07 16:04:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-07 16:04:07",
       "album": {
-        "name": "Snake eyes",
-        "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
-      },
-      "artists": [
-        {
-          "name": "Lucill",
-          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "D\u00e9tours",
-      "url": "https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy"
-    },
-    {
-      "added_at": "2023-03-07 16:04:07",
-      "album": {
         "name": "PISSENLIT",
         "url": "https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 119706,
       "name": "Maladresses",
       "url": "https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h"
+    },
+    {
+      "added_at": "2023-03-07 16:04:07",
+      "album": {
+        "name": "Snake eyes",
+        "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
+      },
+      "artists": [
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "D\u00e9tours",
+      "url": "https://open.spotify.com/track/5wEDlWLX0Gl0Wi6fHDNTsy"
     }
   ],
   "unique_name": "ALT_QC",

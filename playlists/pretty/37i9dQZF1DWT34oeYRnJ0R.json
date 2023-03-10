@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695915,
+  "num_followers": 695894,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMDY3ZTVjOTVmMmJiNmMxNmEwNGQ4Mjc4YTA1NThkNGE3",
+  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMGEwYTI0NjRmNGY3YWNmNDZjNzUzOTM5ODFkMDBmNTBl",
   "tracks": [
     {
       "added_at": "2023-02-24 17:35:38",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "Lo Tengo",
-        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167442,
-      "name": "LO TENGO",
-      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "Lo Tengo",
+        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 167442,
+      "name": "LO TENGO",
+      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "Sue\u00f1os de Dal\u00ed",
         "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "Sr. Santos",
-        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Entonces",
-      "url": "https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -591,22 +591,22 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+        "name": "Sr. Santos",
+        "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+      "duration_ms": 189000,
+      "name": "Entonces",
+      "url": "https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
       },
       "artists": [
         {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
         }
       ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -987,54 +983,22 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
       },
       "artists": [
         {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "NOTEVI",
-        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
         },
         {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
         }
       ],
-      "duration_ms": 260786,
-      "name": "NOTEVI",
-      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "noches largas, faldas cortas",
-      "url": "https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L"
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -1063,6 +1027,42 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "noches largas, faldas cortas",
+      "url": "https://open.spotify.com/track/0HZanBVjCHvVOSsrMvS08L"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "NOTEVI",
+        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jimmix",
+          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "NOTEVI",
+      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "lyu2 (with marcos g)",
         "url": "https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3"
       },
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "NINF\u00d3MANA",
-        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Dalyan",
-          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "NINF\u00d3MANA",
-      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "Just Fine (feat. Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 171428,
       "name": "Just Fine (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "NINF\u00d3MANA",
+        "url": "https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Dalyan",
+          "url": "https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "NINF\u00d3MANA",
+      "url": "https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "XLEY",
         "url": "https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 194000,
       "name": "XLEY",
       "url": "https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "No Me Llames",
+      "url": "https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "En La Disco Revela",
         "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "No Me Llames",
-      "url": "https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "VAYU",
         "url": "https://open.spotify.com/album/0rHCpDokbS3UGKGB64mOhY"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 156903,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1XlcDTgLG4B7IZU9UFmvRB"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
-        "name": "if you let me",
-        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "if you let me",
-      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
         "name": "Qu\u00edtame",
         "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "do you come here often?",
-        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 154415,
-      "name": "do you come here often?",
-      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "Nothing Much Has Changed, I Don't Feel The Same",
         "url": "https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 124842,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "do you come here often?",
+        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 154415,
+      "name": "do you come here often?",
+      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
     },
     {
       "added_at": "2023-02-24 17:35:38",

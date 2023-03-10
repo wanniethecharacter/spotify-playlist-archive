@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 107708,
       "name": "ALICE P\u00c5 EFTERFEST",
       "url": "https://open.spotify.com/track/0x5yiFvnq40yzSsyau58an"
@@ -641,6 +641,36 @@
     },
     {
       "album": {
+        "name": "Bed\u00f6vning",
+        "url": "https://open.spotify.com/album/3N1qyCDTxELbWTDCam77Qo"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6DERNA",
+          "url": "https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT"
+        },
+        {
+          "name": "Lirare",
+          "url": "https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh"
+        },
+        {
+          "name": "Svardh",
+          "url": "https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157571,
+      "name": "Bed\u00f6vning",
+      "url": "https://open.spotify.com/track/6p2u5DXlH5n075PYM2V0XX"
+    },
+    {
+      "album": {
         "name": "BEESINESS",
         "url": "https://open.spotify.com/album/5w2XaTFDytJMhq1rmvFt59"
       },
@@ -792,7 +822,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 141881,
       "name": "BLINKAR INTE N\u00c4R JAG BYTER FIL",
       "url": "https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs"
@@ -1614,6 +1644,28 @@
       "duration_ms": 134339,
       "name": "Dang",
       "url": "https://open.spotify.com/track/1rKkBzE7wsvBk5apt7YESJ"
+    },
+    {
+      "album": {
+        "name": "DANS",
+        "url": "https://open.spotify.com/album/6k6upK8VE1Cf3NdIzn7Qbd"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142376,
+      "name": "DANS",
+      "url": "https://open.spotify.com/track/7eFhEOgNajLPQKlKW4SDep"
     },
     {
       "album": {
@@ -3387,6 +3439,32 @@
     },
     {
       "album": {
+        "name": "FUCKED UP (Remix)",
+        "url": "https://open.spotify.com/album/0xwBFDFUfkdzKQjgeSoGN4"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "JENTAN",
+          "url": "https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135096,
+      "name": "FUCKED UP - Remix",
+      "url": "https://open.spotify.com/track/2DiLLlSfdPUiCgYktreYYf"
+    },
+    {
+      "album": {
         "name": "Full blast",
         "url": "https://open.spotify.com/album/4Qn12IcG7Cu6TehwoDehIn"
       },
@@ -3857,6 +3935,28 @@
     },
     {
       "album": {
+        "name": "GL\u00d6MMA DIG",
+        "url": "https://open.spotify.com/album/0zN8o0YU7dYgDobuNNDAer"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122237,
+      "name": "GL\u00d6MMA DIG",
+      "url": "https://open.spotify.com/track/3mc5sxAO4WoH8Vk5AdCWam"
+    },
+    {
+      "album": {
         "name": "God Jul",
         "url": "https://open.spotify.com/album/1vNWT0XCXNKatDfCPBItXw"
       },
@@ -4076,7 +4176,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 153698,
       "name": "G\u00e5 Til Stan",
       "url": "https://open.spotify.com/track/7hWnnSsTONAPDSNubnWZP4"
@@ -4112,7 +4212,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 139197,
       "name": "HALSA HELA FLASKAN",
       "url": "https://open.spotify.com/track/6OzTVuvzUMvSL5vp4ZQJhi"
@@ -5313,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "J\u00e4ttekul",
+        "url": "https://open.spotify.com/album/4P2kJ1jSXn5jZSVso4OHuD"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150582,
+      "name": "J\u00e4ttekul",
+      "url": "https://open.spotify.com/track/5UKtxcgPUJfcSYKrh1VpSx"
+    },
+    {
+      "album": {
         "name": "Kan Inte G\u00e5",
         "url": "https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g"
       },
@@ -5566,7 +5684,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 126895,
       "name": "Kommer Inte In (T&B Remix)",
       "url": "https://open.spotify.com/track/3Rsc9NvYg3I5hiOpD7O6o7"
@@ -6020,7 +6138,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 141000,
       "name": "LIGGA MED DIN V\u00c4N",
       "url": "https://open.spotify.com/track/2JWEEb30sSanIS6thpBpYF"
@@ -6410,7 +6528,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 203076,
       "name": "MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6"
@@ -7769,6 +7887,24 @@
     },
     {
       "album": {
+        "name": "RAGGA EPA",
+        "url": "https://open.spotify.com/album/4Px7lDXPVLzCkZwrY5EYXg"
+      },
+      "artists": [
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151669,
+      "name": "RAGGA EPA",
+      "url": "https://open.spotify.com/track/1eEzi2mZnhWpSivFAyXH9s"
+    },
+    {
+      "album": {
         "name": "Ragga runt (EPA Remix)",
         "url": "https://open.spotify.com/album/0mktOSV7ZQ9pxPebTuz8f0"
       },
@@ -7861,6 +7997,46 @@
     },
     {
       "album": {
+        "name": "RAGGARBIL",
+        "url": "https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124950,
+      "name": "RAGGARBIL",
+      "url": "https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW"
+    },
+    {
+      "album": {
+        "name": "Raggarbruden",
+        "url": "https://open.spotify.com/album/1bb7qNLMTdsbZFL1qAk0kw"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160174,
+      "name": "Raggarbruden",
+      "url": "https://open.spotify.com/track/4BD1UNL0sJSOVCTz17I8sZ"
+    },
+    {
+      "album": {
         "name": "RAGGARHIMLEN",
         "url": "https://open.spotify.com/album/2YQ2wXQ9xvjCyn62zhA5Zy"
       },
@@ -7876,7 +8052,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 155632,
       "name": "RAGGARHIMLEN",
       "url": "https://open.spotify.com/track/1gbty36aDBvrkV4Ux8Y20r"
@@ -7902,6 +8078,32 @@
       "duration_ms": 165700,
       "name": "Raggarkung - EPA Remix - Dansbandsrave",
       "url": "https://open.spotify.com/track/3vAtzHQ37XAG434Us7d1Vp"
+    },
+    {
+      "album": {
+        "name": "RAGGEN GENOM STAN",
+        "url": "https://open.spotify.com/album/6uv1Zxr9FRlQbis6SX9kyG"
+      },
+      "artists": [
+        {
+          "name": "ShotLine",
+          "url": "https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn"
+        },
+        {
+          "name": "Skurk3n",
+          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+        },
+        {
+          "name": "DJ Hellan",
+          "url": "https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "RAGGEN GENOM STAN",
+      "url": "https://open.spotify.com/track/4YjgQ9VaPlI0RgZtnEeTX9"
     },
     {
       "album": {
@@ -10820,7 +11022,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 156001,
       "name": "Valentin",
       "url": "https://open.spotify.com/track/35smGGBL1lAAtNtYsLIjNC"

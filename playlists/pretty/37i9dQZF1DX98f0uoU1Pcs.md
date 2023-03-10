@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,676 likes - 127 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,847 likes - 127 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 81 | [Cool, Nice.](https://open.spotify.com/track/77amPvUIO231fwujMSAVXb) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Cool, Nice.](https://open.spotify.com/album/3A53U7KZ3BDrE861A7tEQk) | 2:55 |
 | 82 | [Post Ryan \- Edit](https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Post Ryan](https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW) | 4:16 |
 | 83 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
-| 84 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 |
+| 84 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:09 |
 | 85 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 | 86 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 |
 | 87 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 |

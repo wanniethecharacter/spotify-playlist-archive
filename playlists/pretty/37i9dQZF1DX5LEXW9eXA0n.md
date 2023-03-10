@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YUJU\(유주\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,296 likes - 115 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,355 likes - 115 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 3 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 |
 | 4 | [Unable to Say Goodbye](https://open.spotify.com/track/6Py7I15kNGwKA0anOBBusx) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Unable to Say Goodbye](https://open.spotify.com/album/5UiCvPlZOqnsl7hvvzp6RP) | 4:07 |
 | 5 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
-| 6 | [Love Me Like Before](https://open.spotify.com/track/1nsGjQ2IXxCjqDo4efzlgA) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20) | 3:57 |
+| 6 | [Love Me Like Before](https://open.spotify.com/track/4mbrA8XuDtp0Hy1W9G6hkT) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/4nV4ku3xK6GxeLefccBL3y) | 3:57 |
 | 7 | [Goodbye](https://open.spotify.com/track/1OiEPqyXySjkNUI1tJh6Co) | [Lee Doona](https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n) | [Lee Doona Project Part 3](https://open.spotify.com/album/44MwTsm5qtduvhuPc8HfQt) | 3:54 |
 | 8 | [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 |
 | 9 | [Floral Sense](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Floral Sense \- The 1st Album \(Special Version\)](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) | 3:48 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 114 | [When I walk \(feat\. Park Raejun\)](https://open.spotify.com/track/0eI9KWNQRPy1R1tPa17tJx) | [Peppermint](https://open.spotify.com/artist/1cj9Ls0VaVBl17PJNe4RLZ), [Park Raejun](https://open.spotify.com/artist/5w7EWyqhONHPfYAhWK6cOz) | [When I walk](https://open.spotify.com/album/0qjHGRWoEOulQ0y2ZelFTF) | 3:51 |
 | 115 | [Wish](https://open.spotify.com/track/0omiswhwT71hQ8vM9jrrAJ) | [TAESEOK](https://open.spotify.com/artist/28Gt2fkGTjayT0qe1hxGMI) | [Wish](https://open.spotify.com/album/6w7WIJqxrATxF5hiII7k3I) | 3:26 |
 
-Snapshot ID: `MTY3ODI2NDc0OSwwMDAwMDAwMDFmYWVjMGMwZWJmNzU0ZDI5MDc3ODA2NGI2NDI0MWU2`
+Snapshot ID: `MTY3ODI2NDc0OSwwMDAwMDAwMGYxYzhmMTI2ODQ2NDU2MDY5ZGRhMmIwNjZkZjc5ZTk3`

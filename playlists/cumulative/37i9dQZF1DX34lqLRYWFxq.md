@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: grandson
 
-147 songs - 8 hr 14 min
+148 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Makeshift Paradise](https://open.spotify.com/track/1S8oQurfhmDFyzmWODOF1d) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Makeshift Paradise](https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A) | 3:15 | 2023-02-10 |  |
 | [Manitou](https://open.spotify.com/track/1yTZaMReA9t5YS2D4JSbGF) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Manitou](https://open.spotify.com/album/5hvDXq0Wf01voMjnzieGZh) | 3:57 | 2023-02-24 |  |
 | [Maple Sugar](https://open.spotify.com/track/7eeAv01c74I3zXj30kaxNj) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s) | [Shockwave](https://open.spotify.com/album/2ZhGbMA4w3mCamgFzKGokR) | 3:25 | 2023-02-10 | 2023-03-04 |
-| [Massif Central](https://open.spotify.com/track/4exGmZI0X6XaBaEIJJ68vz) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Massif Central](https://open.spotify.com/album/2dVYodzgAmNCC7OrW4vktU) | 3:06 | 2023-02-10 |  |
+| [Massif Central](https://open.spotify.com/track/057wVpkAoz9DtXLLTI28wg) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 3:06 | 2023-03-03 |  |
+| [Massif Central](https://open.spotify.com/track/4exGmZI0X6XaBaEIJJ68vz) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Massif Central](https://open.spotify.com/album/2dVYodzgAmNCC7OrW4vktU) | 3:06 | 2023-02-10 | 2023-03-10 |
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 |  |
 | [Mercury In Retrograde](https://open.spotify.com/track/5myAAZYPPELEl2aiGoW0sx) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 2:09 | 2023-02-10 |  |
 | [Microwave Food](https://open.spotify.com/track/2ZdLL9ok9kpiE4t0R9sOqv) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Microwave Food](https://open.spotify.com/album/6DJcpUuwjIRMXrrRHLaBa7) | 2:08 | 2023-02-10 |  |

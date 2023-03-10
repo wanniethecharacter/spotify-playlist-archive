@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-700 songs - 1 day 16 hr 21 min
+702 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Afternoon in Stereo](https://open.spotify.com/track/0cqWk8s2KJglPnuojyhYCQ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Afternoon in Stereo](https://open.spotify.com/album/4H25UhNaAxBmNdSmfxJSXa) | 3:04 | 2020-04-03\* | 2020-10-27 |
 | [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2021-11-08 |  |
+| [Ai Ga Nokotte Imasu](https://open.spotify.com/track/23Tg3Hl1NWIqeykbRBEqBE) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Ai Ga Nokotte Imasu](https://open.spotify.com/album/6vKSH2ZCfRxR8tLWgbA7vJ) | 2:51 | 2023-03-10 |  |
 | [Ai Shiteru](https://open.spotify.com/track/0LyQVn9FoBHCJBfB83wJrq) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Ai Shiteru](https://open.spotify.com/album/0LecoFiRVdQoqUapmPvAkh) | 4:40 | 2021-06-16 | 2021-07-08 |
 | [Air Zones](https://open.spotify.com/track/6QwkdlobqveOUlXfddLJGK) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Air Zones](https://open.spotify.com/album/2hjZkraFr9q2gmMZwRSXD6) | 3:22 | 2021-09-09 | 2022-07-29 |
 | [Airglow](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Airglow](https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa) | 2:10 | 2023-01-06 |  |
@@ -97,6 +98,7 @@
 | [Brigante \- Nhar Remix](https://open.spotify.com/track/2ff87EDRvp1GIY60XVLxwp) | [Ercos Blanka](https://open.spotify.com/artist/0Vox2K7dpTsHq004KMQiuJ), [Nhar](https://open.spotify.com/artist/3jBKevKXny3azNKbbYH5Wx) | [Classic Trick Remixes](https://open.spotify.com/album/3dt8hfbp81UuduKrLSKGCA) | 6:00 | 2020-04-03\* | 2021-03-06 |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-20 |  |
 | [bubbly fun](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bubbly fun](https://open.spotify.com/album/4cN9GCj0Q9bohgKoXWQhjO) | 2:48 | 2022-08-19 |  |
+| [Bubbly Vibes](https://open.spotify.com/track/1cvX6BDM6QiuPfOFeXXRuM) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Bubbly Vibes](https://open.spotify.com/album/6e2RkxY6bYkhuT0tmsGKod) | 3:03 | 2023-03-10 |  |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2020-04-03\* | 2020-11-27 |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2021-11-08 |  |
 | [Cactus](https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Sycamore](https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid) | 4:58 | 2020-04-29 | 2021-02-24 |

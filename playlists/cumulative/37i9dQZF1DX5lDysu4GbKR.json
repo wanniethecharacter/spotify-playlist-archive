@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Lonely Love Song",
+        "url": "https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Lonely Love Song",
+      "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
+    },
+    {
+      "album": {
         "name": "Love Is A Losing Game (Live at Stebbing Studio)",
         "url": "https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O"
       },
@@ -2746,6 +2764,24 @@
       "duration_ms": 198000,
       "name": "Still - Mahogany Sessions",
       "url": "https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl"
+    },
+    {
+      "album": {
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "album": {

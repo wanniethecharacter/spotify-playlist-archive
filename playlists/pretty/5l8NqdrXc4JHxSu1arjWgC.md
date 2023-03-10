@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,990 likes - 670 songs - 1 day 21 hr 12 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,990 likes - 671 songs - 1 day 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -678,5 +678,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 668 | [Sunrise \- 2022 Digital Master](https://open.spotify.com/track/0KBzF1rgXLj3LrHGDoGcFr) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 6:00 |
 | 669 | [Elegia \- 2022 Digital Master](https://open.spotify.com/track/7JT81f9I7Jh3FcqnNLQ9xJ) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 4:56 |
 | 670 | [How Many Friends](https://open.spotify.com/track/0ri3I02OBYDfXHnVOBSJSy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:06 |
+| 671 | [Le jardin](https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu) | [Mcbaise](https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO) | [Windowsill](https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP) | 3:27 |
 
-Snapshot ID: `MTY5Myw2YjlhOTA5YTU2MmI5YjNiYTg1MTg2NDU0NWYyMjRiZTZiMDc0ZThj`
+Snapshot ID: `MTY5NCw4NTIxNTQ0ZThhMTdiNjkwY2M5NmQyYWMyN2ZlY2E3MmUzZDk2MWYx`

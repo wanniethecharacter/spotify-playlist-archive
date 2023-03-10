@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Procaffeinating",
+        "url": "https://open.spotify.com/album/7dY8QqqHBdiq98Zq2BjPnB"
+      },
+      "artists": [
+        {
+          "name": "The Weather Company",
+          "url": "https://open.spotify.com/artist/2ZrgWpi8ujislf7Zg2OeD2"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Chill At The Caf\u00e9",
+      "url": "https://open.spotify.com/track/6lmyKhNG7y3LT8nIoJaUtU"
+    },
+    {
+      "album": {
         "name": "City Rain Dining",
         "url": "https://open.spotify.com/album/7fA9NWDSk3mM8wHv7ZnolH"
       },
@@ -473,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Cozy Coffee Shop",
+        "url": "https://open.spotify.com/album/6HX36d4H9sLAYAjEVHZPe6"
+      },
+      "artists": [
+        {
+          "name": "Drizzly Bear",
+          "url": "https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cozy Coffee Shop",
+      "url": "https://open.spotify.com/track/0gWYPHdmnQ0saKQjkJ1Yi2"
+    },
+    {
+      "album": {
         "name": "Rainy Diners And Coffee Shops",
         "url": "https://open.spotify.com/album/2Rcn0iwdfAQUqHMqDRIEpg"
       },
@@ -596,6 +632,24 @@
       "duration_ms": 103973,
       "name": "I'll Wait At The Cafe",
       "url": "https://open.spotify.com/track/7K0umM6p5s0NLHN87VxaML"
+    },
+    {
+      "album": {
+        "name": "Getting Grounded",
+        "url": "https://open.spotify.com/album/1619NnsqsbF0byUXEvI8Pu"
+      },
+      "artists": [
+        {
+          "name": "Van Hailin'",
+          "url": "https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Inside A Rainy Coffee Shop",
+      "url": "https://open.spotify.com/track/5Rg26OkdilnyXUsjL9yyNB"
     },
     {
       "album": {
@@ -848,6 +902,24 @@
       "duration_ms": 172000,
       "name": "Rainy Evening At Italian Restaurant",
       "url": "https://open.spotify.com/track/1lZVSESMiJc33K3GgRPy4b"
+    },
+    {
+      "album": {
+        "name": "Getting Grounded",
+        "url": "https://open.spotify.com/album/1619NnsqsbF0byUXEvI8Pu"
+      },
+      "artists": [
+        {
+          "name": "Van Hailin'",
+          "url": "https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Rainy Night Caf\u00e9",
+      "url": "https://open.spotify.com/track/4alMTEWVMeaKjTapObWVz7"
     },
     {
       "album": {

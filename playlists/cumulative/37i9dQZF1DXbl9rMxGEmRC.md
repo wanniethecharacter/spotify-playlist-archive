@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-350 songs - 1 day 6 hr 26 min
+351 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 | 2022-07-28 |
 | [Calendula](https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw) | [Elcrost](https://open.spotify.com/artist/6QA513IBQrcc4PXZWwri64) | [Calendula](https://open.spotify.com/album/3kZc7YfVWkEf1WwD5K5M6g) | 5:24 | 2021-12-17 | 2022-04-09 |
 | [Call from the Grave](https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Under the Sign of the Black Mark](https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN) | 4:54 | 2022-07-13 |  |
-| [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 | 2022-10-21 |  |
+| [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 | 2022-10-21 | 2023-03-10 |
 | [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 | 2022-04-15 |
 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 | 2022-07-29 |
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
@@ -330,6 +330,7 @@
 | [Under A Funeral Moon](https://open.spotify.com/track/4kGQ1zZbbVeZVftLCgufsb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under a Funeral Moon](https://open.spotify.com/album/6mFiCalfpMfPPfmXnqlQNV) | 4:57 | 2022-07-13 | 2022-07-28 |
 | [Under a Funeral Moon \- Studio](https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under A Funeral Moon](https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj) | 5:06 | 2022-07-13 | 2023-02-16 |
 | [Unsilent Storms In The North Abyss](https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Pure Holocaust](https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ) | 3:14 | 2022-07-13 |  |
+| [Unstern](https://open.spotify.com/track/309A8NlAFgdMAWo2qeMFIG) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Unstern](https://open.spotify.com/album/1jb95cQtwpDGUCuyra2FLO) | 6:10 | 2023-03-03 |  |
 | [Urkraft](https://open.spotify.com/track/4bRajxPpQhnHYrNFFyHkyw) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Urkraft](https://open.spotify.com/album/5sf63KzWDQWmHYt8uulINM) | 7:35 | 2022-04-01 | 2022-07-25 |
 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 | 2022-04-09 |
 | [Vargtimman](https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK) | 5:07 | 2021-12-17 | 2022-05-14 |

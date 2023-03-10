@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Zöelle en portada.
 
-181 songs - 9 hr 42 min
+182 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 | 2021-12-13 |  |
 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 | 2021-12-13 | 2023-01-27 |
 | [city girls](https://open.spotify.com/track/6ogHlZQd9M2Y8SwltuDQdN) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 2:55 | 2021-12-13 | 2023-01-27 |
-| [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 | 2022-11-24 |  |
+| [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 | 2022-11-24 | 2023-03-10 |
 | [Corre Que Se Quema](https://open.spotify.com/track/36aP83QLSwTi1yqDZouAbb) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Corre Que Se Quema](https://open.spotify.com/album/5d3vxGM2GMWOYaWXz3IQVd) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Cuando Te Veo](https://open.spotify.com/track/5JWob8X9N857wBlpwZlsDy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Cuando Te Veo](https://open.spotify.com/album/1iUGjo0OBL0XMjjwiR0S2o) | 2:40 | 2021-12-13 | 2022-03-12 |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 |  |
@@ -70,6 +70,7 @@
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-07 | 2022-10-17 |
 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2022-09-23 | 2022-11-25 |
 | [Espacios](https://open.spotify.com/track/2mBV1l2SU4FUHYIJqMKALN) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Espacios](https://open.spotify.com/album/0w7ryRYrkIftHlvNLBQoDR) | 3:20 | 2021-12-13 | 2023-01-27 |
+| [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-03-09 |  |
 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 | 2021-12-13 |  |
 | [Faro de Luz](https://open.spotify.com/track/6G02m7plB1AyAxsDvaKadP) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Faro de Luz](https://open.spotify.com/album/6IC1Xq0b040La0dgcK71LF) | 3:12 | 2021-12-13 | 2023-01-27 |
 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 | 2021-12-13 | 2022-03-12 |

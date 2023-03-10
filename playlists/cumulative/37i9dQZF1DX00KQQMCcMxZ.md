@@ -4,7 +4,7 @@
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-41 songs - 1 hr 44 min
+42 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Birds and Increasing Wind](https://open.spotify.com/track/1YBs0EOOgWqCw58d9gxWlB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Spring Birds in the Forest](https://open.spotify.com/album/0BhDcOpk8LFSJkGLeREQUN) | 1:52 | 2022-10-28 | 2023-03-08 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2022-10-28 |  |
 | [Birds In The Woods](https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Early Summer Birds Vol\. 1](https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A) | 1:41 | 2022-10-28 |  |
-| [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 |  |
+| [Birds Of Yosemite In The Morning](https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2) | [Feathered Tranquility](https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC) | [Birds Of Yosemite](https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu) | 2:50 | 2022-10-28 | 2023-03-10 |
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-10-28 |  |
 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-10-28 |  |
 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 | 2022-10-28 |  |
@@ -45,6 +45,7 @@
 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 | 2022-10-28 |  |
 | [Raindrops In The Forest \- Seamless](https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9) | [The Sleepy Forest](https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN) | [Timber Slumber](https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg) | 3:02 | 2022-10-28 |  |
 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 | 2022-10-28 |  |
+| [Spring Approaches](https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Warmer Seasons](https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv) | 1:44 | 2023-03-03 |  |
 | [Spring Birds In The Forest](https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw) | [Birds 3AM](https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq) | [Calming Bird Sounds](https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ) | 3:00 | 2022-10-28 |  |
 | [Summer Breeze Bird](https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y) | [Dominica del Foresta](https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ) | [Summer Breeze Bird](https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA) | 2:20 | 2022-10-28 |  |
 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 | 2022-10-28 |  |

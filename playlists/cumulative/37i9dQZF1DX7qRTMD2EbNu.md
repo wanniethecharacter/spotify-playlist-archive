@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=UGie09nDRpuCxr7RKmgPRw"> Kwesi Arthur </a>
 
-167 songs - 8 hr 30 min
+168 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-30 | 2022-12-10 |
 | [Balance](https://open.spotify.com/track/27mYifEdhLkO5QyHf9JDnt) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs), [Nshonamuzik](https://open.spotify.com/artist/0zDpGURU8mb72FtaiBRvzt) | [Balance](https://open.spotify.com/album/19gg9ixf4D6gMikR6hAhnx) | 2:48 | 2022-06-24 |  |
 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 | 2022-06-24 |  |
+| [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 | 2023-03-02 |  |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-24 |  |
 | [Blackstars \(World Cup Anthem\)](https://open.spotify.com/track/3AfKnXYQhFqKC4oV6oyhIO) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [Blackstars \(World Cup Anthem\)](https://open.spotify.com/album/41MXQiT6zTFcOC2QoB8G66) | 3:21 | 2022-10-13 | 2022-12-25 |
 | [Blackstars \(World Cup Anthem\)](https://open.spotify.com/track/6x6YAtFD7KTWnf0vRGfEYI) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [Blackstars \(World Cup Anthem\)](https://open.spotify.com/album/2WuBx7vOReTrTjHQuHmNqf) | 3:21 | 2022-10-13 | 2023-01-14 |

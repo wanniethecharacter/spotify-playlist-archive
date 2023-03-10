@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YUJU\(유주\)\)\) \(당신의 감성에 발라드, 려요\)
 
-812 songs - 2 day 4 hr 51 min
+813 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Love is over](https://open.spotify.com/track/2eJC2xIN25ZuitoeyUjvZq) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Love is over](https://open.spotify.com/album/33mp1igqC6BBqyPBmw0utT) | 3:43 | 2023-02-24 |  |
 | [Love Lost](https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Love Lost](https://open.spotify.com/album/73GcOMMjtWU30MrV9NblhT) | 3:50 | 2022-08-25 | 2022-12-27 |
 | [Love me](https://open.spotify.com/track/32VayAJzZV1KsZ248nhZPm) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Reborn Rich OST Part\. 7 \(Soundtrack\)](https://open.spotify.com/album/6zIIYOO2PQm4EEs6Z3N99N) | 3:55 | 2023-01-10 | 2023-02-25 |
-| [Love Me Like Before](https://open.spotify.com/track/1nsGjQ2IXxCjqDo4efzlgA) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20) | 3:57 | 2023-03-08 |  |
+| [Love Me Like Before](https://open.spotify.com/track/1nsGjQ2IXxCjqDo4efzlgA) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/1JeLGbU1RBPvQWO3BjHP20) | 3:57 | 2023-03-08 | 2023-03-10 |
+| [Love Me Like Before](https://open.spotify.com/track/4mbrA8XuDtp0Hy1W9G6hkT) | [Piano Man](https://open.spotify.com/artist/7CgzOFc16IchGg5hxByL1g) | [Love Me Like Before](https://open.spotify.com/album/4nV4ku3xK6GxeLefccBL3y) | 3:57 | 2023-03-08 |  |
 | [Love Message](https://open.spotify.com/track/1Y6W3Q07asHeQtXCBDAOrT) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Love Message](https://open.spotify.com/album/5tJH4tWyWLtLEG1X6EVBtU) | 3:53 | 2022-02-10 | 2022-02-24 |
 | [Love poem](https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo) | 4:18 | 2021-12-20 | 2022-07-08 |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-07-07 | 2022-08-13 |

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bruses en portada.
 
-900 songs - 2 day 5 hr 49 min
+901 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,8 @@
 | [Me Lía](https://open.spotify.com/track/2OXNx6DFEiOu9lAfuP1M2H) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Vuélame el Corazón](https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j) | 2:49 | 2022-11-04 | 2022-11-19 |
 | [Me Malviaje con las Ganlletas \- Remastered](https://open.spotify.com/track/2Si12IVf40gTEVwy4ELD6F) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron Vol\. 1 \(Remastered\)](https://open.spotify.com/album/45gifksBr9kseTXcxZ9Goh) | 6:03 | 2022-08-26 | 2022-09-10 |
 | [Me Siento Bien](https://open.spotify.com/track/7HLEkBC9QJEvDoU4gMqVEB) | [Amore Aurora](https://open.spotify.com/artist/5V28ksYNCFEBMnsFAt4yOr) | [Me Siento Bien](https://open.spotify.com/album/1WD4Wj3vDnNavjcijGguIp) | 3:08 | 2023-02-10 | 2023-02-25 |
-| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
 | [Melodramática](https://open.spotify.com/track/4e1OGHYFnVowWFkooMEITy) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Melodramática](https://open.spotify.com/album/6z8ejwfGzRxuDNCBdMSPiV) | 4:30 | 2022-11-04 | 2022-11-19 |
 | [Menina](https://open.spotify.com/track/1VqAPmUsHak84stDesP7Ql) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Compadres Deluxe](https://open.spotify.com/album/1f0OXNqNYchFRXtsEJI3cn) | 3:06 | 2022-10-21 | 2022-11-05 |
 | [MENSAJE DE VOZ](https://open.spotify.com/track/6FZOY8gjEJW5VRPpUqYXkR) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [MENSAJE DE VOZ](https://open.spotify.com/album/0IXzZy7CSNEMgD5m4QADat) | 3:01 | 2022-11-04 | 2022-11-12 |

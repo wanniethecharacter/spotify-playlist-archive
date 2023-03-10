@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 19 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 |
 | 20 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4Wt7ZGzelNDUZCCZxgLsuK) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [SOURCE ⧺ WE MOVE](https://open.spotify.com/album/7p1KmTe3TtMb7ojCYNmvpc) | 2:27 |
 | 21 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
-| 22 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 |
+| 22 | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 |
 | 23 | [figure profane](https://open.spotify.com/track/3CmF9a64mHs8YI16JUdLro) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Zach Frampton](https://open.spotify.com/artist/7FpvWkmacEAy2mmeCA0yLr) | [bt002 : self hypnosis tape](https://open.spotify.com/album/48NmaNltuqYFPoTDmBNG7L) | 4:23 |
 | 24 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 25 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 99 | [ever, after](https://open.spotify.com/track/1bIZWsVJatlo8hBzn0IEdI) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 3:03 |
 | 100 | [All The Light They Cannot See](https://open.spotify.com/track/27iGKkcGPY4pGcOW7hr5em) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:32 |
 
-Snapshot ID: `MTY3MjUzMTIwMCwwMDAwMDAwMDgwMDkzYTAwN2RiNjBhMmIxOWRjZmU4ZTVmNjM1Mzkw`
+Snapshot ID: `MTY3MjUzMTIwMCwwMDAwMDAwMDQzY2JjMTdhYjRkYjBmNGRmNDViODM4Njg4ZmZlNzli`

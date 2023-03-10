@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,707 likes - 225 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,933 likes - 225 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 38 | [Aşk Mühürü \(Mira & Yaman\)](https://open.spotify.com/track/0Y6qIIK11T451NjsjvMSYJ) | [Toygar Işıklı](https://open.spotify.com/artist/2l0Ol9ASKE7E196nHpblB7) | [Med Cezir \(Original Tv Series Soundtrack\)](https://open.spotify.com/album/4g4jsUq6IsRUQM6kPBjucu) | 1:59 |
 | 39 | [Fifth](https://open.spotify.com/track/42cd6z8jhsKWx5So4pKJ7k) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Fifth](https://open.spotify.com/album/4RodR70upWkY1uDVnTmq8s) | 1:58 |
 | 40 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 |
-| 41 | [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 |
+| 41 | [Only If You Stay](https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Here By The Sea](https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ) | 2:34 |
 | 42 | [Anda](https://open.spotify.com/track/6OOCHxYAV8SpXTiY6SzThW) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Ros](https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k) | 1:59 |
 | 43 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 |
 | 44 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 224 | [Downstreams](https://open.spotify.com/track/0PfQd8JoZTLC7QmuSALrnH) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Downstreams](https://open.spotify.com/album/3BGgZ0ogCdoaejPURuwfbP) | 2:18 |
 | 225 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 |
 
-Snapshot ID: `MTY3ODIwMjcyNSwwMDAwMDAwMGRjZTMwNTFiM2FkOGYzYjk1MGQxMWFkYjIyYWNlMDEz`
+Snapshot ID: `MTY3ODIwMjcyNSwwMDAwMDAwMDU5NWY5NjY1MzMwN2RhMzAzMDVjMGViYmZjM2Q4Y2Ri`

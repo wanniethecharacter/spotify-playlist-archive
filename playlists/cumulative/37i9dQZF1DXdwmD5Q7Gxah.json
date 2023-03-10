@@ -10872,7 +10872,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 224347,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN"
@@ -15284,7 +15284,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -19368,7 +19368,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 175824,
       "name": "LaLaLa",
       "url": "https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d"
@@ -30233,6 +30233,24 @@
     },
     {
       "album": {
+        "name": "Smog",
+        "url": "https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194451,
+      "name": "Smog",
+      "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
+    },
+    {
+      "album": {
         "name": "Now and Then",
         "url": "https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM"
       },
@@ -35378,7 +35396,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 252631,
       "name": "Today (can't help but cry)",
       "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
@@ -37238,7 +37256,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 283893,
       "name": "What It Feels Like for a Girl",
       "url": "https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6"
@@ -38206,6 +38224,24 @@
       "duration_ms": 194173,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em"
+    },
+    {
+      "album": {
+        "name": "Worthless",
+        "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
     },
     {
       "album": {

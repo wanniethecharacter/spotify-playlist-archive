@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-283 songs - 15 hr 7 min
+284 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Keeping](https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Keeping](https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4) | 2:58 | 2022-07-08 |  |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 | 2023-02-10 |
+| [Leaving Lunar](https://open.spotify.com/track/79KsCHxDvK6ZSd17fJoqMU) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Goodbye Earth](https://open.spotify.com/album/1cJHB1ed0mwUMTbthrNsih) | 3:51 | 2023-03-10 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |
 | [Let Me Levitate](https://open.spotify.com/track/7CzNk9SBj1IFssmyFJxNpD) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Let Me Levitate](https://open.spotify.com/album/0nWhjwu0bGFv0FY9QRg26b) | 3:51 | 2022-10-28 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 | 2022-10-08 |
@@ -186,7 +187,7 @@
 | [offshore](https://open.spotify.com/track/625WCk8lpyxdQgyN8aJu3d) | [TECHO](https://open.spotify.com/artist/7cLuZ2xmHW5Znuu4jXNpPl) | [offshore](https://open.spotify.com/album/6BfvXlKoifT1TKN3HbeTys) | 3:52 | 2022-09-23 |  |
 | [Offshores](https://open.spotify.com/track/5Qc6qa8gECNH4D8PjrMdYX) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Offshores](https://open.spotify.com/album/4sE90DBI0n7P4Avhm65OIP) | 4:22 | 2022-08-19 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-15 | 2022-10-14 |
-| [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 |  |
+| [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 | 2023-03-10 |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 | 2022-09-23 |
 | [Open Fields](https://open.spotify.com/track/6PsPRjRVQpuxltouIiGJfu) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Open Fields](https://open.spotify.com/album/2fgoswYqbGfQDGQOoS3oWO) | 4:21 | 2022-10-07 | 2023-01-07 |
 | [Open Mind](https://open.spotify.com/track/3uWz3YOFSLri0qCmiWCmzY) | [Sonopad](https://open.spotify.com/artist/6a3JGgQNJ6ugMYY9CgzltE) | [Open Mind](https://open.spotify.com/album/1Mo4q3DGFgrawdBCa179Rf) | 3:30 | 2023-02-17 |  |

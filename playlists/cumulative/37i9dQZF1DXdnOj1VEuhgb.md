@@ -2,12 +2,13 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Batuflex
+> Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-71 songs - 3 hr 5 min
+75 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-09 |  |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2023-01-10 |  |
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2023-01-10 |  |
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-12 |  |
@@ -32,6 +33,7 @@
 | [Gözyaşı Rapsodi 1](https://open.spotify.com/track/3bf4olLr7rKiudtlMya9us) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Gözyaşı Rapsodi 1](https://open.spotify.com/album/5OIipA5N24pUrk9iRbN8eN) | 3:03 | 2023-01-19 | 2023-02-01 |
 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 | 2023-01-10 | 2023-01-20 |
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
+| [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 | 2023-03-09 |  |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-26 |  |
 | [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2023-01-10 |  |
 | [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2023-01-10 |  |
@@ -48,17 +50,18 @@
 | [Kuğulu Park](https://open.spotify.com/track/4BeGu2WQNlpiREpmWGHD8U) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kuğulu Park](https://open.spotify.com/album/49AzrOfIeUI1fFQsqAiHPt) | 3:31 | 2023-01-26 |  |
 | [MARS](https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [MARS](https://open.spotify.com/album/4zdB94jhyyJoaG1iyylZvq) | 2:12 | 2023-01-26 | 2023-02-24 |
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
-| [NEY LAN](https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [NEY LAN](https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc) | 2:10 | 2023-02-23 |  |
+| [NEY LAN](https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [NEY LAN](https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc) | 2:10 | 2023-02-23 | 2023-03-10 |
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2023-01-10 |  |
 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 | 2023-01-10 |  |
 | [O Yeterdi Aslında](https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [O Yeterdi Aslında](https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF) | 3:07 | 2023-02-02 |  |
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2023-01-10 |  |
-| [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2023-01-10 |  |
+| [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2023-01-10 | 2023-03-10 |
 | [Onlarla konusuyorum](https://open.spotify.com/track/6upGqMDMW3mn1qFV5rcvkF) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onlarla konusuyorum](https://open.spotify.com/album/04nTrqYcj0eYVpr6R2CTEC) | 3:31 | 2023-01-10 | 2023-01-13 |
 | [OnlyFans](https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [OnlyFans](https://open.spotify.com/album/3h57TeSLK4QUzobHYeewag) | 2:25 | 2023-01-10 | 2023-01-27 |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2023-01-10 |  |
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
-| [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 |  |
+| [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 | 2023-03-10 |
+| [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 |  |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 |  |
 | [SENIN UGRUNA](https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:02 | 2023-01-10 |  |
 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 | 2023-01-10 |  |
@@ -69,6 +72,7 @@
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 |  |
+| [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 |  |
 | [Vicdanım Kayıp](https://open.spotify.com/track/0957zCB7svwHxXufWRs6so) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Vicdanım Kayıp](https://open.spotify.com/album/2z45zKQlrUE2tmlYEa1IaH) | 2:40 | 2023-01-10 | 2023-03-03 |
 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 | 2023-01-10 |  |
 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 | 2023-01-10 |  |
@@ -78,6 +82,6 @@
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 | 2023-03-03 |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2023-01-10 |  |
 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-31 |  |
-| [Şimdi Değilse Ne Zaman?](https://open.spotify.com/track/4ImVHwW75uD99O4UHVdYTW) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Şimdi Değilse Ne Zaman?](https://open.spotify.com/album/3xt3Wi2E4WwCZIJtp0VIHl) | 2:57 | 2023-02-23 |  |
+| [Şimdi Değilse Ne Zaman?](https://open.spotify.com/track/4ImVHwW75uD99O4UHVdYTW) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Şimdi Değilse Ne Zaman?](https://open.spotify.com/album/3xt3Wi2E4WwCZIJtp0VIHl) | 2:57 | 2023-02-23 | 2023-03-10 |
 
 \*This playlist was first scraped on 2023-01-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,658 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,661 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 73 | [Congratulations On Your Breakup](https://open.spotify.com/track/6bELAHSqUKcVER7yMAyylW) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Congratulations On Your Breakup](https://open.spotify.com/album/1jkwK0FOwc3453D5qJIvPO) | 2:47 |
 | 74 | [A Song For Ya](https://open.spotify.com/track/68zrgVzaX5jgzy3D3ahHD5) | [Royal Oak](https://open.spotify.com/artist/1BUiRfYYpTt8Y7dv9gGN7B) | [A Song For Ya](https://open.spotify.com/album/5k6atP9bToH8DdzO5bmI5U) | 3:13 |
 | 75 | [Diphylla](https://open.spotify.com/track/1jNId5sHvZtFLtcPEgrKkN) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [Riley Nuala](https://open.spotify.com/artist/2jrvAHUR5iHtkAD0YSuByG) | [Diphylla](https://open.spotify.com/album/5Axz1hJ1I2590HaQzc6IhB) | 3:33 |
-| 76 | [Massif Central](https://open.spotify.com/track/4exGmZI0X6XaBaEIJJ68vz) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Massif Central](https://open.spotify.com/album/2dVYodzgAmNCC7OrW4vktU) | 3:06 |
+| 76 | [Massif Central](https://open.spotify.com/track/057wVpkAoz9DtXLLTI28wg) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 3:06 |
 | 77 | [Outta Love](https://open.spotify.com/track/2mgxfEz7wo9TiwBjCr4GMH) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [Outta Love](https://open.spotify.com/album/26FExqNSZPG4lOGm8ccGZt) | 4:18 |
 | 78 | [The Hanging Man](https://open.spotify.com/track/6m1LNQH0LpkDRetOPzWue8) | [Dead Quiet](https://open.spotify.com/artist/5zNDL3ziMKzDJ73D5jZYXS) | [The Hanging Man](https://open.spotify.com/album/3Li5rfmoEs7wU4mn59RkeD) | 5:45 |
 | 79 | [Falling](https://open.spotify.com/track/4cHdpfPHJVnNyE7NJTVYlp) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Falling](https://open.spotify.com/album/3HOvDwGzzHWKlvGpPimp9z) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 100 | [Moon Rock Shawty](https://open.spotify.com/track/5QIhnElSIr6PY6bslsFDjf) | [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Moon Rock Shawty](https://open.spotify.com/album/5jupYgTQVBZFFx2UVUUs0Q) | 2:40 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGVlNmQ3Nzc0Mjk4YzdhNmNkOWU3YWMzZDA1Y2Y2Y2Zh`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGFiYTU4ZDg5MWViNjdiMjA0MGY0ZGRhYjc5ODU1OTNm`

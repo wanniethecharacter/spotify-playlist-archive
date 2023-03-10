@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-198 songs - 15 hr 46 min
+199 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [For Our Ancestors](https://open.spotify.com/track/1t07mMBwMUfHSKhIwcTK3o) | [Dexter Story](https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Feel Recordings Volume 1](https://open.spotify.com/album/713ZvmWzCEOXvSjl44NPhd) | 5:02 | 2022-05-06 | 2022-07-29 |
 | [Forgotten Field](https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6) | [Forgotten Field](https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv) | 2:58 | 2022-10-14 |  |
 | [Fractural](https://open.spotify.com/track/0vIk5Z6dAqWeOQoE76NUTv) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [朝](https://open.spotify.com/album/0Ky0C7LcSJ2HwsamzMuYKC) | 11:52 | 2022-03-17 | 2023-01-07 |
+| [From Darkness to Light \(Ambient Cello Loops\), Pt\. 3](https://open.spotify.com/track/1rHQUBlbNIPvSZTX5VjGMJ) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [From Darkness to Light \(Ambient Cello Loops\)](https://open.spotify.com/album/1vPAKdej68HxCa4wizIjfi) | 5:23 | 2023-03-10 |  |
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
 | [Grat](https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso) | [Daniel O'Rhys](https://open.spotify.com/artist/4eb20k06iiAcR95q6sp8RD) | [The Winterstein Suite](https://open.spotify.com/album/6npZLJ2zQD5TnSRRdimKFN) | 4:39 | 2022-03-17 | 2023-03-02 |
@@ -84,7 +85,7 @@
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2022-03-17 | 2023-02-18 |
 | [Iris \- Single Version](https://open.spotify.com/track/0soNRvT5MhKnVGkwyDCqZ8) | [Billow Observatory](https://open.spotify.com/artist/2LylAbvBw2df3S9oO62du5) | [Iris](https://open.spotify.com/album/3UHUdqGQmAZR88r3FqeWRs) | 3:50 | 2022-09-20 |  |
 | [Kin](https://open.spotify.com/track/4bZrS7VPjRUU2yNEQH7d7Z) | [Twinsleep](https://open.spotify.com/artist/2aazoAGOaOkD1grRMVYVBh), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Kin](https://open.spotify.com/album/6E8E0zZwCssyoFKMaA84Hn) | 5:25 | 2023-01-06 |  |
-| [Klass \- Robot Koch Rework](https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Klass \(Robot Koch Rework\)](https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD) | 6:08 | 2022-03-17 |  |
+| [Klass \- Robot Koch Rework](https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Klass \(Robot Koch Rework\)](https://open.spotify.com/album/5NGRqqdsVWcFGZq4GqWytD) | 6:08 | 2022-03-17 | 2023-03-10 |
 | [Knowledge](https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sphere](https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM) | 4:54 | 2022-05-18 |  |
 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 | 2023-01-06 |  |
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |

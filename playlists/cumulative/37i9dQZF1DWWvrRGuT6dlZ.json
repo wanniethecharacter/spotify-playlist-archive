@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: hongjoin. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Josh Makazo. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 234343,
       "name": "2020",
       "url": "https://open.spotify.com/track/13pFyKbT1u9gVUhNuODeO5"
@@ -258,6 +258,32 @@
       "duration_ms": 181714,
       "name": "alone < /3",
       "url": "https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r"
+    },
+    {
+      "album": {
+        "name": "ALONE TOGETHER",
+        "url": "https://open.spotify.com/album/16FyV3LsShp44hfdFe9jTk"
+      },
+      "artists": [
+        {
+          "name": "UTCPLUS8",
+          "url": "https://open.spotify.com/artist/368mLOChWZCXPkEfIRx3or"
+        },
+        {
+          "name": "jimmy_thegoat",
+          "url": "https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p"
+        },
+        {
+          "name": "Dave Anonuevo",
+          "url": "https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "ALONE TOGETHER",
+      "url": "https://open.spotify.com/track/53fjWjjGJDqm1M79W7fHT3"
     },
     {
       "album": {
@@ -562,7 +588,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 236000,
       "name": "Bellboy - with Fauxe",
       "url": "https://open.spotify.com/track/6u01Bh43XgjL4XT1EinLtM"
@@ -660,7 +686,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 189428,
       "name": "BLAZE",
       "url": "https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3"
@@ -682,6 +708,24 @@
       "duration_ms": 185196,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/4F2Hm9Iu84ribXJf0ZUDpl"
+    },
+    {
+      "album": {
+        "name": "Born to Lose",
+        "url": "https://open.spotify.com/album/6XLhTlx7lrGgH5s5xAuojs"
+      },
+      "artists": [
+        {
+          "name": "Boycaught",
+          "url": "https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/5Ztgeay2dTHRcqxSRRsPJ1"
     },
     {
       "album": {
@@ -1195,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "dance",
+        "url": "https://open.spotify.com/album/4xApFzYPLxIqildPk6RtDu"
+      },
+      "artists": [
+        {
+          "name": "Jean Tan",
+          "url": "https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188056,
+      "name": "dance",
+      "url": "https://open.spotify.com/track/5LydD1if5g27ED6dbzWl7w"
+    },
+    {
+      "album": {
         "name": "I miss u",
         "url": "https://open.spotify.com/album/47vRSoeI7cYt5pIK7XpYEp"
       },
@@ -1540,7 +1602,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 165000,
       "name": "Do For You",
       "url": "https://open.spotify.com/track/7uBD4lEWmmWGUNscoRqF5I"
@@ -1710,6 +1772,24 @@
       "duration_ms": 225124,
       "name": "Edge Of The World",
       "url": "https://open.spotify.com/track/7rPcWcfXJET5aQXYF2XLbo"
+    },
+    {
+      "album": {
+        "name": "Empty Seat",
+        "url": "https://open.spotify.com/album/4HC5Ve57Sbp0axTYnhxhYh"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Empty Seat",
+      "url": "https://open.spotify.com/track/0rrMyO2ZHLhxGTLgAEVWIJ"
     },
     {
       "album": {
@@ -2176,7 +2256,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 197686,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0YArqIQ6Hcdcomz0lobOCJ"
@@ -2444,6 +2524,24 @@
       "duration_ms": 162474,
       "name": "HICCUP",
       "url": "https://open.spotify.com/track/5Os4PkEIabbek8GjbUKnIn"
+    },
+    {
+      "album": {
+        "name": "high school boy",
+        "url": "https://open.spotify.com/album/3NvyLUu2BDDi5KWA3WqiCP"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/2ytvzrBgcha4GxJVtuCcIy"
     },
     {
       "album": {
@@ -2892,7 +2990,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 112279,
       "name": "ICE-LEMON",
       "url": "https://open.spotify.com/track/027rTH7gb5WmEI1z67mL7t"
@@ -3246,7 +3344,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 186638,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/6Y39zm7oEs5xcJlli8Z7td"
@@ -4380,7 +4478,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 172799,
       "name": "Now",
       "url": "https://open.spotify.com/track/5Yw87BrKuMvoborbwxAagF"
@@ -4607,6 +4705,28 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/549aG93aYXXywD71wj36Sw"
+      },
+      "artists": [
+        {
+          "name": "Merakki",
+          "url": "https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl"
+        },
+        {
+          "name": "Joshua Wong",
+          "url": "https://open.spotify.com/artist/2IW3TsYtBaWuk15kyAIRdK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2rPcyAVICh3MyhKrMLbeVt"
+    },
+    {
+      "album": {
         "name": "party",
         "url": "https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW"
       },
@@ -4684,7 +4804,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 166706,
       "name": "Physical",
       "url": "https://open.spotify.com/track/2jZiBBDtv6PxKgpnoKujkM"
@@ -5295,6 +5415,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/3t2RK2tnCtEJko9uFoosoe"
+      },
+      "artists": [
+        {
+          "name": "Joel See",
+          "url": "https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188943,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/66mal665w2u16G8A5nKhk1"
+    },
+    {
+      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/6Axm0VoAPHjQUe8KvVidDh"
       },
@@ -5889,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "terminal 8",
+        "url": "https://open.spotify.com/album/0ZwwXJOcvLmq09SvHqWDNJ"
+      },
+      "artists": [
+        {
+          "name": "lauren matienzo",
+          "url": "https://open.spotify.com/artist/4B49XZW38ZLZKGRIZ3OTuN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "terminal 8",
+      "url": "https://open.spotify.com/track/6IWP1R1MyXt6FXahUlSQtp"
+    },
+    {
+      "album": {
         "name": "The Distance Between Us",
         "url": "https://open.spotify.com/album/1H82wXDtLH3Q3W69MX7g5W"
       },
@@ -6174,7 +6330,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 194124,
       "name": "Toothache",
       "url": "https://open.spotify.com/track/4HJLDZMn3d30ORp8Xc6lbF"
@@ -6606,7 +6762,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 235668,
       "name": "we don't have to be alone",
       "url": "https://open.spotify.com/track/5FpTK4Z1piJvDuuq3vmtxA"

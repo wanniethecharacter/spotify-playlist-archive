@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,086 likes - 57 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,120 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 54 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
 | 55 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 56 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
-| 57 | [Radioactive](https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9) | [The Michigan G\-Men](https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7) | [The GP](https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO) | 3:04 |
+| 57 | [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 |
 
-Snapshot ID: `MTY3ODI4NDYxNSwwMDAwMDAwMGNkNmJmYmVhOWYzYjg3YTVmZWNjNDBjYTYzZGRmMTZl`
+Snapshot ID: `MTY3ODI4NDYxNSwwMDAwMDAwMDc2MGVhM2JlY2FhN2RhZTg4OTE2YjRmZGViOWE0NjE1`

@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-1,131 songs - 2 day 12 hr 32 min
+1,132 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Last October](https://open.spotify.com/track/61SsbXaDhlbbL72PgZB4Nc) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Last October](https://open.spotify.com/album/1zPSvfkC4qt8PBaVq1hBvQ) | 2:09 | 2021-12-31 | 2022-01-22 |
 | [Last Place I Want To Be](https://open.spotify.com/track/3ujflVU6iW4uA8dXCDC0DQ) | [Jody Chappell](https://open.spotify.com/artist/7C3byYIVDoWA1JExCcwQMK) | [Last Place I Want To Be](https://open.spotify.com/album/3RYYiRLySMiNcYVGtUNt9a) | 3:52 | 2022-02-11 | 2022-04-09 |
 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 | 2022-12-03 |
+| [Lawless](https://open.spotify.com/track/2RXouVEma48BcryWt5yJue) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Lawless](https://open.spotify.com/album/3o3XLq8R6AbnGNc11BjFIP) | 3:46 | 2023-03-03 |  |
 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Leave Her Alone](https://open.spotify.com/track/5SIUzPiJGiWVkbMNR5Hiym) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 3:17 | 2022-08-05 | 2022-11-12 |
 | [Leave Me A Memory](https://open.spotify.com/track/1uI55wshoj1yOMFfomeYcP) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Leave Me A Memory](https://open.spotify.com/album/1dtjsp5CC1enY0dCKET5Z0) | 2:56 | 2022-03-11 | 2022-03-18 |

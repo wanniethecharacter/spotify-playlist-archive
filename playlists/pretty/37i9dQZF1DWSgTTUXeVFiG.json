@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 14271,
+  "num_followers": 14299,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGZlNGMzZTE0ODhjYTYzMWU3ZWY1MjZjYTZmZjU1ODU1",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDY5NWZhYTY3OTBlZTJkZjc3ZGU1ODdkMTk1N2EzZmFk",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Lo Mejor de Alberto Barros, Vol. 2",
+        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Aguanile - Live Version",
-      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
+      "duration_ms": 294130,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Mejor de Alberto Barros, Vol. 2",
-        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Alberto Barros",
-          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 294130,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
+      "duration_ms": 388360,
+      "name": "Aguanile - Live Version",
+      "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 522960,
+      "name": "Juanito Alima\u00f1a - Live",
+      "url": "https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 442960,
       "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
       "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 522960,
-      "name": "Juanito Alima\u00f1a - Live",
-      "url": "https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 321200,
-      "name": "Tu Amor Me Hace Bien - Live Version",
-      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
+      "duration_ms": 483480,
+      "name": "Peri\u00f3dico De Ayer - Live",
+      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Alberto Barros Y Los Titanez De La Salsa",
+          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
         }
       ],
-      "duration_ms": 483480,
-      "name": "Peri\u00f3dico De Ayer - Live",
-      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
+      "duration_ms": 280493,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Alberto Barros Y Los Titanez De La Salsa",
-          "url": "https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 280493,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR"
+      "duration_ms": 321200,
+      "name": "Tu Amor Me Hace Bien - Live Version",
+      "url": "https://open.spotify.com/track/6mMZl9sPeoTM79XaIaPg9J"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -779,6 +779,22 @@
       "duration_ms": 278866,
       "name": "Tu Loco, Loco, Y Yo Tranquilo",
       "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 401466,
       "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
       "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "El Cantante - Live",
-      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
     },
     {
       "added_at": "2022-03-18 05:00:00",

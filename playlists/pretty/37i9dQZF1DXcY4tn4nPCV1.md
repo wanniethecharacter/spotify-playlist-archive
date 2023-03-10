@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain](/playlists/plain/37i9dQZF1DXcY4tn4nPCV1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcY4tn4nPCV1)
 
-### [Read & Unwind](https://open.spotify.com/playlist/37i9dQZF1DXcY4tn4nPCV1)
+### [Read and Unwind](https://open.spotify.com/playlist/37i9dQZF1DXcY4tn4nPCV1)
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,911 likes - 241 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,950 likes - 241 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 240 | [Seeking The Autumn Wind](https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE) | [Brian Busch](https://open.spotify.com/artist/6aRyxVvym2hAGccdLKcUB1) | [Brief Respite](https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6) | 2:59 |
 | 241 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 |
 
-Snapshot ID: `MTY3ODIwNDc4MCwwMDAwMDAwMGY2ZjYwZTkzYTI5MTIzM2ZiYjZlYWIzZTdmZjg5MTYz`
+Snapshot ID: `MTY3ODM4MTA0MiwwMDAwMDAwMDI2YjVlZGJhMzVhMjJkY2E4ZWZkYzViOGFiYjlkOGY2`

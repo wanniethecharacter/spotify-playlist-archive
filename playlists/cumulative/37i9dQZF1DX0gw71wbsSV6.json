@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 176153,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 109997,
       "name": "luv revolution",
       "url": "https://open.spotify.com/track/4Av0MO1nASa9YWo4J3GNzj"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 203846,
       "name": "Neon wo Keshite",
       "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/3Cfg3146LWDhdWMX3YpKo1"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ"
+    },
+    {
+      "album": {
         "name": "Sashiiro",
         "url": "https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI"
       },
@@ -1606,6 +1624,24 @@
       "duration_ms": 241750,
       "name": "See You In Life",
       "url": "https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC"
+    },
+    {
+      "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
     },
     {
       "album": {
@@ -2402,6 +2438,24 @@
       "duration_ms": 251865,
       "name": "\u767d\u306b\u6d88\u3048\u308b",
       "url": "https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy"
+    },
+    {
+      "album": {
+        "name": "\u8857\u306e\u7d42\u308f\u308a",
+        "url": "https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT"
+      },
+      "artists": [
+        {
+          "name": "Nag Ar Juna",
+          "url": "https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262783,
+      "name": "\u8857\u306e\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS"
     },
     {
       "album": {

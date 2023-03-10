@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-75 songs - 3 hr 37 min
+76 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 1:45 | 2022-10-28 |  |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-10-28 |  |
 | [Storm From The North](https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:44 | 2022-10-28 |  |
-| [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 |  |
+| [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 | 2023-03-10 |
 | [Storms Out](https://open.spotify.com/track/3eRC23AjDFRiojUhdbrkDM) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Storms Out](https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c) | 2:54 | 2023-02-18 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 | 2022-12-29 |
@@ -72,6 +72,7 @@
 | [Thunder In The Night](https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:38 | 2022-10-28 |  |
 | [Thunder Meditation](https://open.spotify.com/track/3SeR8lSXT7oZ6MB7YLZqnr) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Wandering Storm](https://open.spotify.com/album/0raeXON0wVFrZAe4mQn1sm) | 3:28 | 2022-10-28 |  |
 | [Thunder Nap](https://open.spotify.com/track/5QTEWgziJG1uV32tAgYjv7) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:41 | 2022-10-28 |  |
+| [Thunder On The Mountain](https://open.spotify.com/track/1Lb0zH7GmFN9mTXL6vX2UH) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:46 | 2023-01-13 |  |
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2022-10-28 |  |
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 | 2023-02-20 |

@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-265 songs - 15 hr 50 min
+266 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-03-06 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-06 |  |
 | [jordan](https://open.spotify.com/track/3tQm2Uoq0IkIMBZswennUI) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/28THK80bii2jtI49t6oDSP) | 4:01 | 2022-08-01 | 2022-11-13 |
-| [Laramee](https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7) | 4:01 | 2022-12-14 |  |
+| [Laramee](https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7) | 4:01 | 2022-12-14 | 2023-03-10 |
+| [Laramee](https://open.spotify.com/track/2ZTehU7cgpjz3euyQoNzdh) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Laramee](https://open.spotify.com/album/2f2dHhOUOppGeWGzcLBlCj) | 4:01 | 2023-02-28 |  |
 | [Let It Breathe](https://open.spotify.com/track/52uKQxYJKHpYz0DEwKLltI) | [Water Liars](https://open.spotify.com/artist/6k3UpifDbb2ox25edM5j3P) | [Water Liars](https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58) | 2:39 | 2019-09-29\* |  |
 | [Life Is Confusing](https://open.spotify.com/track/16lPj311efhVdbwPrTgTHl) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Life Is Confusing EP](https://open.spotify.com/album/3lqou5SWx4juGcSJJD45FY) | 2:51 | 2019-09-29\* | 2020-07-10 |
 | [Lifeline](https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Sad Songs In A Hotel Room](https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss) | 3:49 | 2023-02-14 | 2023-03-01 |

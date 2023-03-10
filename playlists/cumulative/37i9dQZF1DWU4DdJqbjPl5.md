@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=F0w9zkHnQsC\-tHlHpk3voA" >Lojay </a>
 
-197 songs - 10 hr 30 min
+199 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 | 2022-02-03 | 2022-04-15 |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-15 |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 | 2022-03-04 |
+| [All I Want](https://open.spotify.com/track/3hMLmlpwXV9XVXDjXytmqV) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [All I Want](https://open.spotify.com/album/1wGs4jO79okKdhjsRTIalS) | 3:37 | 2023-03-10 |  |
 | [ALL OF ME](https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [ALL OF ME](https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5) | 3:28 | 2022-04-14 |  |
 | [Already Won](https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2), [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Already Won](https://open.spotify.com/album/1BypTkXe5D3rNWZVwGzHDx) | 2:50 | 2022-05-19 | 2022-06-09 |
 | [Amina](https://open.spotify.com/track/3wIkraTZGQtljsayKCj1oS) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina](https://open.spotify.com/album/4xFICOtw9q9WFUqXwouoLG) | 2:37 | 2022-11-18 | 2022-11-26 |
@@ -61,7 +62,7 @@
 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 | 2022-07-22 |  |
 | [Do You Care ?](https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Do You Care ?](https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9) | 3:23 | 2021-12-22 | 2022-04-22 |
 | [Doorstep](https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Doorstep](https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4) | 3:54 | 2022-04-21 | 2022-07-08 |
-| [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 |  |
+| [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 | 2023-03-10 |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-05-21 | 2023-01-20 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
 | [emiliana](https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Pop Hits Now](https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf) | 2:44 | 2022-06-08 | 2022-11-13 |
@@ -141,6 +142,7 @@
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 |  |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-01-20 |  |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-02-17 | 2023-02-04 |
+| [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-10 |  |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-07-07 | 2022-07-23 |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 |  |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 | 2022-03-18 |

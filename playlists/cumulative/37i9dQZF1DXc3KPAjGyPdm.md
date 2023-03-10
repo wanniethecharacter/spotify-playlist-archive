@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-251 songs - 15 hr 47 min
+252 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [What Did You Do To Him?](https://open.spotify.com/track/7H5z5uEyt29WklcDNL4Sr5) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:07 | 2019-07-10 |  |
 | [What's the Internet?](https://open.spotify.com/track/7xMIdaVtT9ElM0IOgmbRVZ) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 4 \(Original Score From The Netflix Series\)](https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp) | 2:47 | 2022-07-01 |  |
 | [When It's Cold I'd Like To Die](https://open.spotify.com/track/2RhBtpsSB5QwzGu0fVZ4PA) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 4:12 | 2022-07-01 |  |
-| [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2017-12-20 |  |
+| [When It's Cold I'd Like to Die](https://open.spotify.com/track/0Pz9uepsUEc6aAaocXz4ha) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 4:14 | 2023-02-27 |  |
+| [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2017-12-20 | 2023-03-10 |
 | [When You See Me](https://open.spotify.com/track/1Nn0Y61cnAfKbgbqjj4CU2) | [Hurricane Express](https://open.spotify.com/artist/2eGMneOiHwgOVEWuBaSTUW) | [Early Warning](https://open.spotify.com/album/3otfSF83qivpgcDQIGjOdt) | 6:59 | 2019-07-10 |  |
 | [Whip It](https://open.spotify.com/track/0huuauOiQw0rEpnbDI1aTJ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [The Underground Sound \- Punk & New Wave](https://open.spotify.com/album/4U2JM5yWvqgyKkdht1uaaj) | 2:38 | 2017-12-20 | 2022-11-13 |
 | [Whip It](https://open.spotify.com/track/2FZzcWnzSyUvFbu7xNLepv) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 2:38 | 2017-12-20 | 2022-07-29 |

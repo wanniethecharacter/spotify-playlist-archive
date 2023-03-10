@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172729,
+      "name": "Before You go",
+      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
+    },
+    {
+      "album": {
         "name": "Slow and Steady",
         "url": "https://open.spotify.com/album/4XR97V50Bxe2kJ6zMK7jKz"
       },
@@ -1717,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Demelza",
+        "url": "https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205817,
+      "name": "Demelza",
+      "url": "https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW"
+    },
+    {
+      "album": {
         "name": "colored ocean",
         "url": "https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX"
       },
@@ -2567,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Gelassenheit",
+        "url": "https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa"
+      },
+      "artists": [
+        {
+          "name": "William Lynn",
+          "url": "https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136904,
+      "name": "Gelassenheit",
+      "url": "https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q"
+    },
+    {
+      "album": {
         "name": "Giardino del respiro",
         "url": "https://open.spotify.com/album/10a1HPIygy93hpQc3r5pgZ"
       },
@@ -2686,7 +2740,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 155067,
       "name": "Guachinango",
       "url": "https://open.spotify.com/track/2UMCVuUjTYG2ZJf9Dqdmuq"
@@ -2801,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Hearst Castle",
+        "url": "https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Hearst Castle",
+      "url": "https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk"
+    },
+    {
+      "album": {
         "name": "Heat Waves (Guitar)",
         "url": "https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS"
       },
@@ -2812,7 +2884,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 248000,
       "name": "Heat Waves - Guitar",
       "url": "https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh"
@@ -2848,7 +2920,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 172374,
       "name": "Hemma \u00e4r vid havet",
       "url": "https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC"
@@ -2924,6 +2996,24 @@
       "duration_ms": 202500,
       "name": "High Hill",
       "url": "https://open.spotify.com/track/6iLc1q7vKnSzYLkVvIvfrN"
+    },
+    {
+      "album": {
+        "name": "Highway 62",
+        "url": "https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161074,
+      "name": "Highway 62",
+      "url": "https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G"
     },
     {
       "album": {
@@ -3003,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Lake Varna",
+        "url": "https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112897,
+      "name": "How Far Have We Come",
+      "url": "https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6"
+    },
+    {
+      "album": {
         "name": "Humble Stream",
         "url": "https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1"
       },
@@ -3032,7 +3140,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 171846,
       "name": "I Can Hear the Waves",
       "url": "https://open.spotify.com/track/2O6rsiVB48wg5tGfeD3dyV"
@@ -3950,10 +4058,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 152230,
       "name": "Lonely River",
       "url": "https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm"
+    },
+    {
+      "album": {
+        "name": "Long Story",
+        "url": "https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Femi",
+          "url": "https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125095,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON"
     },
     {
       "album": {
@@ -4624,7 +4750,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 137184,
       "name": "Motion",
       "url": "https://open.spotify.com/track/0SGiGg1Tu6nQRBESwodZIH"
@@ -4912,7 +5038,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 171238,
       "name": "Nuvens e o mar",
       "url": "https://open.spotify.com/track/30ysQXKf4nbCOsXMpg4v7Y"
@@ -5020,7 +5146,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 169354,
       "name": "on this journey together",
       "url": "https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj"
@@ -5560,7 +5686,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 190789,
       "name": "Quietus",
       "url": "https://open.spotify.com/track/17HzV5DJPNNDMeQXEjBbT6"
@@ -6197,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
+    },
+    {
+      "album": {
         "name": "Sleepover",
         "url": "https://open.spotify.com/album/78ncS8rEV6irr9m1Nhtro1"
       },
@@ -6352,7 +6496,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154464,
       "name": "Someday",
       "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
@@ -6424,7 +6568,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 112791,
       "name": "Song thrush",
       "url": "https://open.spotify.com/track/79OuL8BStm7FJJpYS5vulH"
@@ -6784,7 +6928,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 243192,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/4rzjaiJ7GXegXPyi6XKiSJ"
@@ -6874,7 +7018,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 147705,
       "name": "Symphony Road",
       "url": "https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY"
@@ -6950,6 +7094,24 @@
       "duration_ms": 126151,
       "name": "Tall Flowers",
       "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
+    },
+    {
+      "album": {
+        "name": "The Airport",
+        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150404,
+      "name": "The Airport",
+      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
     },
     {
       "album": {
@@ -7144,7 +7306,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 179101,
       "name": "Top Gun Anthem",
       "url": "https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp"
@@ -7342,7 +7504,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 183348,
       "name": "Ven aqu\u00ed peque\u00f1o",
       "url": "https://open.spotify.com/track/5lgywSbwoZeYa3ALM3dc8S"
@@ -7911,6 +8073,24 @@
     },
     {
       "album": {
+        "name": "Winter is coming",
+        "url": "https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw"
+      },
+      "artists": [
+        {
+          "name": "Moody Me",
+          "url": "https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152359,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP"
+    },
+    {
+      "album": {
         "name": "Karwendel",
         "url": "https://open.spotify.com/album/3yYhCewxc24oSmkYmzVjIw"
       },
@@ -8048,7 +8228,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 240781,
       "name": "You\u00b4ll Be In My heart",
       "url": "https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5"

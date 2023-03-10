@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LUDMILLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,302 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,362 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 51 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 |
 | 52 | [K1EN](https://open.spotify.com/track/3n2KGtnCjT6ttucbyXnt9q) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:14 |
 | 53 | [Snow](https://open.spotify.com/track/1dhVkXyqcuTqhTv3PnkK8K) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Snow](https://open.spotify.com/album/4AYqaMj8j8DEMViUZYzx3w) | 2:52 |
-| 54 | [De Nacht](https://open.spotify.com/track/5yPCi5PpDO9vbc6CVWfgDK) | [LUCAS](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Lichaam](https://open.spotify.com/album/36G6GJ8nqlF6jdTQEmQoEJ) | 3:34 |
+| 54 | [De Nacht](https://open.spotify.com/track/5yPCi5PpDO9vbc6CVWfgDK) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Lichaam](https://open.spotify.com/album/36G6GJ8nqlF6jdTQEmQoEJ) | 3:34 |
 | 55 | [Dime Store](https://open.spotify.com/track/2B9VZHQPfFYauqTK8OQgLq) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Dime Store](https://open.spotify.com/album/6evUY5bQw2c7HkptPzwex0) | 2:58 |
 | 56 | [everywhere](https://open.spotify.com/track/0qxFXsxsoUHHhvpKe6ZItr) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [everywhere](https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK) | 5:22 |
 | 57 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 |

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-358 songs - 18 hr 20 min
+360 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 | 2022-04-05 | 2022-05-20 |
 | [Tracer Arcs](https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Tracer Arcs](https://open.spotify.com/album/2NuBMVkXAAMI9Yi2duG8Ek) | 3:18 | 2022-09-02 |  |
 | [Train of Thought](https://open.spotify.com/track/3Uflrmt2A0RFUNS42zasqE) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Slightly Spinning](https://open.spotify.com/album/75Swu0xsGLyKZDmE0TACOF) | 4:06 | 2022-04-05 | 2022-05-11 |
+| [Travolta](https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Travolta](https://open.spotify.com/album/4MDDzBeqGKO1SSWjVvpQMU) | 3:35 | 2023-03-10 |  |
 | [Tryin' \- Chill House](https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC) | [Mosebe](https://open.spotify.com/artist/6lj1J9zFm8AJ2Vu4cZOF8g) | [Tryin' \- Chill House](https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff) | 3:22 | 2022-04-05 |  |
 | [Two Nights](https://open.spotify.com/track/2h9uDnr4y7MKa2EDlCtNJ9) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Two Nights](https://open.spotify.com/album/61EzzLg6qT1vLCNMpMh4T7) | 3:25 | 2022-04-05 | 2022-07-29 |
 | [U Know](https://open.spotify.com/track/2qogVA8zkwNRF5KGWMfA8C) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [U Know](https://open.spotify.com/album/4F1YjPcqriL9pIYYeYPDr6) | 2:14 | 2022-05-10 | 2022-07-01 |
@@ -359,6 +360,7 @@
 | [What Tomorrow Brings](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [What Tomorrow Brings](https://open.spotify.com/album/73ICYc63au29eIOddxyus7) | 2:51 | 2022-07-08 |  |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2022-04-05 | 2022-05-20 |
 | [White Island Dreams](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [White Island Dreams](https://open.spotify.com/album/3O9jUdv6lXjPNiabvGE3wT) | 3:01 | 2022-11-25 |  |
+| [Why So Gloomy](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Why So Gloomy](https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA) | 2:29 | 2023-03-10 |  |
 | [wicked play](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [wicked play](https://open.spotify.com/album/31L7sJ9kqF3tFueTDTIJ0n) | 3:32 | 2023-02-17 |  |
 | [With My Whole Heart](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [With My Whole Heart](https://open.spotify.com/album/1IowasV6lzpLW6kGZm1dNJ) | 2:32 | 2022-09-16 |  |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Fooligan Kevs",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Shadow",
   "name": "Local Hype",
   "tracks": [
     {
@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6G74ts9KsuaW073koTQmWm"
+      },
+      "artists": [
+        {
+          "name": "FERBY",
+          "url": "https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140354,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/622de8teHH3niOkTxInOzR"
+    },
+    {
+      "album": {
         "name": "ANGEL EYES",
         "url": "https://open.spotify.com/album/7tf6sADlCZxD5z1AbrgrHu"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 126413,
       "name": "Baby & Baby",
       "url": "https://open.spotify.com/track/1lNvWNg8GGbhEcPMRWrIBO"
@@ -638,7 +656,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 138750,
       "name": "BENDER",
       "url": "https://open.spotify.com/track/3ZizKwJA2tqX7Y292iFpad"
@@ -1327,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "COFFIN (with YNG Martyr) - Phonk Version",
+        "url": "https://open.spotify.com/album/3A7jrP3tkxalJNVG60Z91E"
+      },
+      "artists": [
+        {
+          "name": "PLVTINUM",
+          "url": "https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn"
+        },
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112834,
+      "name": "COFFIN (with YNG Martyr) - Phonk Version",
+      "url": "https://open.spotify.com/track/5slI2d4hCkBJdB5Ocai4xa"
+    },
+    {
+      "album": {
         "name": "COLD BLOOD",
         "url": "https://open.spotify.com/album/6dYhxyHSvfiwMRGkccHAt1"
       },
@@ -1484,7 +1524,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 131351,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6XQHvN0W6OZnKB1b1wNnge"
@@ -1784,7 +1824,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 208000,
       "name": "Djabuganydji Bama - NERVE REMIX",
       "url": "https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9"
@@ -1828,7 +1868,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 167406,
       "name": "Don't Trip (feat. Say True God? & Shely210)",
       "url": "https://open.spotify.com/track/15J6D8yjrxlifw4Yi2jTsV"
@@ -1940,7 +1980,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 176690,
       "name": "DRIV\u00cb B\u0178",
       "url": "https://open.spotify.com/track/0YwyBP0N3alt3wEQbbxVHx"
@@ -2074,10 +2114,32 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 138947,
       "name": "E.4.E",
       "url": "https://open.spotify.com/track/4i30ZS3T8Caihy5hpqOUyJ"
+    },
+    {
+      "album": {
+        "name": "E.4.E",
+        "url": "https://open.spotify.com/album/3tFP4ozzmywRqiPGoWgoX5"
+      },
+      "artists": [
+        {
+          "name": "LELI SK",
+          "url": "https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl"
+        },
+        {
+          "name": "Sydney Yungins",
+          "url": "https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "E.4.E",
+      "url": "https://open.spotify.com/track/6JJBQ0Bykub8GGhgiotIKS"
     },
     {
       "album": {
@@ -2608,7 +2670,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 152880,
       "name": "Go Gettaz",
       "url": "https://open.spotify.com/track/34Kt6A0kctf8J65iOwJbZs"
@@ -2790,7 +2852,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 182791,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/6fwQkSQnIuM6ihR1CH6rm7"
@@ -4266,7 +4328,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 138857,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/1ArxdrtfnJF0TmX1nKYLo1"
@@ -4678,7 +4740,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 133400,
       "name": "NO BONNIE N CLYDE",
       "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
@@ -4750,7 +4812,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 165521,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/6evG9IJ0ewjyHtRyWSCm4r"
@@ -4794,7 +4856,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 131830,
       "name": "NO TELLIN",
       "url": "https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs"
@@ -5260,7 +5322,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 193000,
       "name": "Paper Chase",
       "url": "https://open.spotify.com/track/7tWINV0VCungur5pL27b3R"
@@ -5704,7 +5766,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 194396,
       "name": "RIDING",
       "url": "https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD"
@@ -5730,7 +5792,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 209708,
       "name": "Roll Like That",
       "url": "https://open.spotify.com/track/0Euv783XiK456k18nqtsan"
@@ -5836,6 +5898,24 @@
       "duration_ms": 151048,
       "name": "Rude",
       "url": "https://open.spotify.com/track/4tLcwWpyDUkEIY0f5DfFQ7"
+    },
+    {
+      "album": {
+        "name": "RUMOURS",
+        "url": "https://open.spotify.com/album/12YejSJSWzgDpld4GVpKZi"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203125,
+      "name": "RUMOURS",
+      "url": "https://open.spotify.com/track/7nMKFLHD6PrCFkOzz2uaxv"
     },
     {
       "album": {
@@ -6634,7 +6714,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 177634,
       "name": "Telem How",
       "url": "https://open.spotify.com/track/1LvdK1HBtxQ4R5AgNYXL76"
@@ -7218,7 +7298,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 165760,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/5IqvWuThZk3OZHeo7FJfnw"
@@ -7312,7 +7392,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 129119,
       "name": "U Want More Sir?",
       "url": "https://open.spotify.com/track/3wUvWuxos3hdBZJWXmnY4e"
@@ -7444,6 +7524,28 @@
       "duration_ms": 166382,
       "name": "Volume",
       "url": "https://open.spotify.com/track/3VS0zLSoa2ucmYCeIsA7kj"
+    },
+    {
+      "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/6FtcifEcQr5sImoXIqrXPx"
+      },
+      "artists": [
+        {
+          "name": "Byg Boy Jay",
+          "url": "https://open.spotify.com/artist/2NNRUiHQLFMOMSpFV320oa"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/6YYtiUjLHe6lh8GaEg9Za4"
     },
     {
       "album": {
@@ -7845,6 +7947,28 @@
     },
     {
       "album": {
+        "name": "Y.F.S",
+        "url": "https://open.spotify.com/album/17cLV6EqgL993Ywe6BHgG7"
+      },
+      "artists": [
+        {
+          "name": "Saph",
+          "url": "https://open.spotify.com/artist/4Nd10hN4v1KNKpCj8vHpOd"
+        },
+        {
+          "name": "Raggadat Cris",
+          "url": "https://open.spotify.com/artist/6i4nnmw5KnkFqmLEH7QkJJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148497,
+      "name": "Y.F.S",
+      "url": "https://open.spotify.com/track/29Q12mmRY6wLCIn3NfKv2I"
+    },
+    {
+      "album": {
         "name": "Ya Rab",
         "url": "https://open.spotify.com/album/5IqvVDo3c4nupExAKBcri4"
       },
@@ -7892,7 +8016,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 125142,
       "name": "Yankees",
       "url": "https://open.spotify.com/track/6ZhHwo6QoIuXpAuXhHxUnM"

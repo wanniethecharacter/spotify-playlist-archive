@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-534 songs - 2 day 2 hr 14 min
+537 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A Journey To Reedham \- 7am Mix](https://open.spotify.com/track/5XslkyGArAf9RQorFIC7M0) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Big Loada](https://open.spotify.com/album/27mYcqBm2VpBorjYaXKshh) | 6:35 | 2022-04-13 | 2023-02-03 |
 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 | 2022-04-13 |  |
 | [A Touch Of The Night](https://open.spotify.com/track/5OYWhhpcBLVB0hSyEBXL87) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo III](https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew) | 5:02 | 2022-04-13 | 2022-07-28 |
-| [A Touch Of The Night](https://open.spotify.com/track/3nSxFWML4jKvC6E35XLkcZ) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 5:02 | 2022-04-13 |  |
+| [A Touch Of The Night](https://open.spotify.com/track/3nSxFWML4jKvC6E35XLkcZ) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 5:02 | 2022-04-13 | 2023-03-10 |
 | [Abdon](https://open.spotify.com/track/3a8cOqJzSgkNbJ556opmZv) | [F.X\. Randomiz](https://open.spotify.com/artist/2jm769wifVItyqZyOXH7mP) | [Goflex](https://open.spotify.com/album/2cxULZwMNhuz3YvsVPqMce) | 3:35 | 2022-04-13 | 2022-07-29 |
 | [Accent](https://open.spotify.com/track/10vbaNdPMRVmHZvRIAGen0) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Valis](https://open.spotify.com/album/4eXbpc1durSnCg1GFV9tKh) | 4:04 | 2022-04-13 | 2022-07-29 |
 | [Acrid Avid Jam Shred](https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 7:39 | 2022-04-13 | 2022-07-29 |
@@ -32,6 +32,7 @@
 | [Afraid Of Monsters](https://open.spotify.com/track/4PbMuyuUAJPhBdsW3vf2Fs) | [Xela](https://open.spotify.com/artist/1DpTCZ0h0a2IDmLiKJtDN5) | [For Frosty Mornings And Summer Nights](https://open.spotify.com/album/6aRdKJaXUBi23MPtwUMTb7) | 5:03 | 2022-04-13 | 2023-02-10 |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2022-04-13 |  |
 | [Agen](https://open.spotify.com/track/10p90NN7hFkhJEN0QfLhhG) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [ESTOILE NAIANT](https://open.spotify.com/album/6AD69WciPpBEpTFv1tyx90) | 4:27 | 2022-04-13 | 2022-07-28 |
+| [Akwalek](https://open.spotify.com/track/2L2yPzvZQBuhYE91h1NIqD) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc) | 4:36 | 2022-04-13 |  |
 | [Akwalek](https://open.spotify.com/track/7EreKvVhlqWi5wTyVfLawL) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 4:36 | 2022-04-13 | 2023-02-03 |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2022-04-13 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-04-13 |  |
@@ -103,7 +104,7 @@
 | [Crisps](https://open.spotify.com/track/2svAObqaVuiiAFhkLhK28n) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW) | [Wishmountain Is Dead](https://open.spotify.com/album/3ur1k6eVDcfVFPmCRk99Sg) | 3:42 | 2022-04-13 | 2022-07-28 |
 | [Crisps](https://open.spotify.com/track/2gw8zczXVPoJcaod6jtEEH) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Wishmountain Is Dead](https://open.spotify.com/album/6hfzDAdNLZ24QE3xDi9FM1) | 3:42 | 2022-04-13 | 2022-11-09 |
 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 | 2022-04-13 | 2023-02-02 |
-| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 |  |
+| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 | 2023-03-10 |
 | [Cyclic Sun](https://open.spotify.com/track/3SuQSBZYRzwzmKJgP3bUK1) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/2eU2JKfw6eLmOuClVCpTe5) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |
@@ -192,7 +193,7 @@
 | [Geometry](https://open.spotify.com/track/6zaj8ZG3JGllbAVelAbntN) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Geometry](https://open.spotify.com/album/2TBR0T2zZlXqnjzwnL4RvJ) | 4:35 | 2022-04-13 |  |
 | [Giant Sunflowers Swaying In The Wind](https://open.spotify.com/track/0bYYiVfOeqjiN4nN6T6on8) | [Metamatics](https://open.spotify.com/artist/0MWaIWO3tQOJccGmcL8TP8) | [From Death To Passwords](https://open.spotify.com/album/1ZEhN7VpfuuWvchfTjSPY6) | 6:18 | 2022-04-13 |  |
 | [GM Memory](https://open.spotify.com/track/102zS5JmV0pGRdMXZZ3K4r) | [Opiate](https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O) | [Hobby Industries Split EP 3](https://open.spotify.com/album/5evflGXiNO7a6pGkkhOnVW) | 4:37 | 2022-04-13 | 2022-07-29 |
-| [Go](https://open.spotify.com/track/6iWKZaCPmISyRfJlovBQRC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like To Score](https://open.spotify.com/album/2KdsBwZ4QSPcG81egRQcxw) | 3:59 | 2022-04-13 |  |
+| [Go](https://open.spotify.com/track/6iWKZaCPmISyRfJlovBQRC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like To Score](https://open.spotify.com/album/2KdsBwZ4QSPcG81egRQcxw) | 3:59 | 2022-04-13 | 2023-03-10 |
 | [Gringatcho Demento](https://open.spotify.com/track/6zkzdSPN5q5XHHlHfxu9EN) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Best Of Strange Cargo](https://open.spotify.com/album/05o8RGynCcMIhKqWfl2mS9) | 6:35 | 2022-04-13 |  |
 | [Grrl Trrbl](https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe) | [Phoenecia](https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj) | [Brownout](https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav) | 5:24 | 2022-04-13 |  |
 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 | 2022-04-13 | 2022-07-27 |
@@ -288,6 +289,7 @@
 | [Midpoint](https://open.spotify.com/track/4fSTLYHl8xdUNfsrC7f1RX) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Birmingham Frequencies](https://open.spotify.com/album/62jTVUXeMPKyAxVhwcM2Ow) | 11:21 | 2022-04-13 | 2022-07-28 |
 | [minipops 67 \[120.2\]\[source field mix\]](https://open.spotify.com/track/6kzLbNxsJidjc80Nw3uZVg) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:47 | 2022-04-13 | 2022-08-04 |
 | [Moiré \- Piano & Organ](https://open.spotify.com/track/0R6sHxjN04nAgEW0jgqLbU) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 6:54 | 2022-04-13 |  |
+| [Moistly](https://open.spotify.com/track/1nT9z4Ch2TWeCFH3dTtKz3) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Sheath](https://open.spotify.com/album/5t84u3lUjMhZdfEboYhw7d) | 4:12 | 2022-04-13 |  |
 | [Moistly](https://open.spotify.com/track/3E3HVtHe6scrGYyq43CCjl) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Sheath](https://open.spotify.com/album/2OK2OR6zHt01GBJrzjmOsl) | 4:12 | 2022-04-13 | 2023-02-02 |
 | [Monday \- Paracetamol \- 2019 remaster](https://open.spotify.com/track/6feRtddM3R0G4ylyRl5LPw) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 8:00 | 2022-04-13 |  |
 | [Montreal](https://open.spotify.com/track/0Og7Doec2OJfj6B4YHHReJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 7:15 | 2022-04-13 |  |
@@ -402,6 +404,7 @@
 | [Shell of Light](https://open.spotify.com/track/1WFGJPHAxb64hHsscftYOg) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 4:40 | 2022-04-13 |  |
 | [Shell of Light](https://open.spotify.com/track/29Gr10bFvvbsIrLRg7Yibi) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1rsbnhLppI7cibuDHEVurM) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/3WuM7HpTwBFvzzNydSHiaP) | 5:16 | 2022-04-13 | 2023-03-02 |
+| [Shimmer](https://open.spotify.com/track/3HfFFgqFtUBFDFQ5EJILUQ) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/31jaEe1GGy7q1EfC9tJ2oe) | 5:16 | 2022-04-13 |  |
 | [Shimmer](https://open.spotify.com/track/3weZimmbHwkD1lGZTpEKkC) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Beat Excursions \#5](https://open.spotify.com/album/1b6j9rzmDYA26k8rrtNbD5) | 5:16 | 2022-04-13 | 2022-07-27 |
 | [Shove Piggy Shove](https://open.spotify.com/track/6cgZ2KVDd4PIv9sf9J46Ud) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Advance](https://open.spotify.com/album/1UNThIdbVUt5DJAA4marps) | 4:19 | 2022-04-13 |  |
 | [Shove Piggy Shove](https://open.spotify.com/track/01jvJsXAHxhJqAIMAEIkxa) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Advance](https://open.spotify.com/album/08B5J90mQplQjkjNWAgdjb) | 4:19 | 2022-04-13 | 2023-02-02 |

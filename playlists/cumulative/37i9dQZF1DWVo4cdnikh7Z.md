@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Maaveeran
 
-535 songs - 1 day 9 hr 24 min
+536 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Madhayaanai Kootam \(From "Parundhaaguthu Oor Kuruvi"\)](https://open.spotify.com/track/31lHRZafWHDazAbKFx4JEC) | [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Madhayaanai Kootam \(From "Parundhaaguthu Oor Kuruvi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/54i9kRnSLIbomdo5WK0lmY) | 4:00 | 2023-02-20 |  |
 | [Madura Veeran](https://open.spotify.com/track/3eFoAIpRrhGCEISQxnoNFI) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Viruman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Rwd1j6rdOs7M9PLCkqcOi) | 3:49 | 2022-08-03 | 2023-01-25 |
 | [Main Ki Karaan? \(From "Laal Singh Chaddha"\) \[TAMIL\]](https://open.spotify.com/track/2weaV3qkAf3HYlUpitHaui) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Main Ki Karaan? \(From "Laal Singh Chaddha"\) \[TAMIL\]](https://open.spotify.com/album/16PJnqnewTHObgAnAJJ84W) | 4:15 | 2022-08-05 | 2022-08-18 |
+| [Mainaru Vetti Katti](https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Mainaru Vetti Katti \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV) | 3:23 | 2023-03-09 |  |
 | [Maiyaale](https://open.spotify.com/track/6BG8oxu3nx7fv29pXv2Hry) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Praniti](https://open.spotify.com/artist/2SrfI49UJd2PEkseov5GSF) | [Ayali](https://open.spotify.com/album/1Rzs6i5Lg4RFRGfeBzYVno) | 2:22 | 2023-01-25 | 2023-02-11 |
 | [Makka Makka \(From "OH MY GHOST"\)](https://open.spotify.com/track/0QZoBCxQ1Et33qSYRoPWUb) | [Javed Riaz](https://open.spotify.com/artist/6gBk6dlLqEGNtU0gMh9WrS), [Prasanna Adhisesha](https://open.spotify.com/artist/2RI0JvkmtOl5Se3SVrWYfn) | [Makka Makka \(From "OH MY GHOST"\)](https://open.spotify.com/album/5uiSmycz7vXkrDOvjZysBi) | 3:26 | 2022-11-02 | 2022-11-10 |
 | [Malligaa Malligaa \(From “Shaakuntalam”\)](https://open.spotify.com/track/2olwioZhJKOU98dERb9HtM) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Malligaa Malligaa \(From “Shaakuntalam”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3LlHDMpMtjWssPuK302RsY) | 5:09 | 2023-01-18 | 2023-02-07 |

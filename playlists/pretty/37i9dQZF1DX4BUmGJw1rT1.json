@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 46617,
+  "num_followers": 46712,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzE2MywwMDAwMDAwMGVmMWIwNTA1ZGU2MDU5NTM1YTE5MDgyMWRhNTJiODFm",
+  "snapshot_id": "MTY3Nzg2NzE2MywwMDAwMDAwMDkzYWJhZDYyYzRkOTE4ZGUzYmI0ZDY0OTExMDUzMzM4",
   "tracks": [
     {
       "added_at": "2023-02-24 17:27:42",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "In The Basement: The Chess Recordings",
-        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pie DeSanto",
-          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Slip-In Mules",
-      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Carolina Confessions",
         "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 384373,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Slip-In Mules",
+      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "G. Love And Special Sauce",
-        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Blues Music",
-      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
+        "name": "G. Love And Special Sauce",
+        "url": "https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek"
       },
       "artists": [
         {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
         }
       ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
+      "duration_ms": 255426,
+      "name": "Blues Music",
+      "url": "https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -699,6 +683,22 @@
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 368186,
+      "name": "In From The Cold",
+      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Dry Run",
+      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 349066,
       "name": "Stormy Monday",
       "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Dry Run",
-      "url": "https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "Other Side of Goodbye",
         "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -999,18 +1015,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
       },
       "artists": [
         {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        },
+        {
+          "name": "The Blue Flames",
+          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
         }
       ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1035,42 +1055,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "On Every Street (Remaster)",
-        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "You and Your Friend",
-      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Mystery Train / Love My Baby",
-        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        },
-        {
-          "name": "The Blue Flames",
-          "url": "https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A"
-        }
-      ],
-      "duration_ms": 144400,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "On Every Street (Remaster)",
+        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "You and Your Friend",
+      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1155,66 +1139,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
         {
-          "name": "Soulmate",
-          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
         }
       ],
-      "duration_ms": 295346,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
-      },
-      "artists": [
-        {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "A Quitter Never Wins",
-      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 177329,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1235,18 +1171,82 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "John Lyons Band",
-        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
       "artists": [
         {
-          "name": "John Lyons",
-          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
         }
       ],
-      "duration_ms": 438204,
-      "name": "Lonely Fool",
-      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+      },
+      "artists": [
+        {
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "A Quitter Never Wins",
+      "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 177329,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "John Lyons Band",
+        "url": "https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh"
+      },
+      "artists": [
+        {
+          "name": "John Lyons",
+          "url": "https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2"
+        }
+      ],
+      "duration_ms": 438204,
+      "name": "Lonely Fool",
+      "url": "https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -1279,22 +1311,6 @@
       "duration_ms": 303600,
       "name": "Falling",
       "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1315,6 +1331,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -1331,22 +1363,6 @@
       "duration_ms": 289266,
       "name": "I Don't Know What You've Got",
       "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1379,22 +1395,6 @@
       "duration_ms": 227274,
       "name": "Nibbadip",
       "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
+        "name": "Rise to the Grind",
+        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+      },
+      "artists": [
+        {
+          "name": "Garrett Lebeau",
+          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
         "name": "What Happens Next",
         "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Rise to the Grind",
-        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+        "name": "Jigsaw Heart",
+        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
       "artists": [
         {
-          "name": "Garrett Lebeau",
-          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+      "duration_ms": 250946,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Jigsaw Heart",
-        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Better This Way",
-      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Dinah Washington Sings Bessie Smith",
         "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 218866,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 208167,
+      "name": "Does Anybody Know",
+      "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1611,38 +1627,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 208167,
-      "name": "Does Anybody Know",
-      "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/49xNJS9z0ssQFNPi2oXxXC"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
     },
     {
       "added_at": "2023-02-24 17:27:42",

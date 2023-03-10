@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 122287,
+  "num_followers": 122314,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMDk5MTNhODg0Zjc1YmE4MzJjMDk0ZGRlNTA5ODllZDkw",
+  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGExOTc4ZDE1MTQ0NDlhNDM0ZDFjMWQxMGY3MmYwZmMy",
   "tracks": [
     {
       "added_at": "2022-11-25 03:00:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
         "name": "Quando Eu Te Vi / Sorriso (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "Para\u00edso da Miragem",
         "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 128438,
       "name": "Areia",
       "url": "https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "3 Na Massa",
-        "url": "https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8"
-      },
-      "artists": [
-        {
-          "name": "3 Na Massa",
-          "url": "https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Morada Boa Featuring Nina Miranda",
-      "url": "https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo)",
       "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "3 Na Massa",
+        "url": "https://open.spotify.com/album/5scnXOM54hVJw0mkDgBGs8"
+      },
+      "artists": [
+        {
+          "name": "3 Na Massa",
+          "url": "https://open.spotify.com/artist/1swmzlKgFluITKhxSV9ixX"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Morada Boa Featuring Nina Miranda",
+      "url": "https://open.spotify.com/track/5x4KSfOm9Bc1ugelLYe4AG"
     },
     {
       "added_at": "2022-11-25 03:00:00",

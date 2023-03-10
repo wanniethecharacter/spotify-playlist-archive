@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-652 songs - 1 day 10 hr 34 min
+653 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Like I Don't Try](https://open.spotify.com/track/6TCRZsQg1e8rapnYdwM5CG) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Like I Don't Try](https://open.spotify.com/album/4RN22mc0Qts84kwfk4nsbW) | 2:35 | 2022-05-05 | 2022-07-25 |
 | [Liten&Lost](https://open.spotify.com/track/2K1p3thq7V9KerKSuOHAdI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Liten&Lost](https://open.spotify.com/album/7hyYLHFyCVJrkLx8113hWo) | 3:37 | 2021-12-16 | 2022-03-11 |
 | [Little Brother](https://open.spotify.com/track/6Il1nJedTQoCPleS3hHRHQ) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Little Brother](https://open.spotify.com/album/5NDsuJO5IKsAeHEsAGxAfE) | 2:16 | 2022-05-26 | 2022-07-28 |
+| [Little Overdue](https://open.spotify.com/track/3Tfu8xQVJH4bJyMcLB7HXY) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Enough To Get Away](https://open.spotify.com/album/0mvrLSxv6K43Y4uOJshl9k) | 3:21 | 2023-03-09 |  |
 | [Liv](https://open.spotify.com/track/5HYGRzjxe11pkXMk84f4Mo) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Liv](https://open.spotify.com/album/1Zants8XFd71jUzdEWTkfb) | 3:17 | 2021-12-16 | 2022-03-11 |
 | [Live and Let Live](https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Live and Let Live](https://open.spotify.com/album/4rNhhdwFHL6qahcOqVY948) | 3:14 | 2022-02-26 | 2022-05-12 |
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-03-11 |
@@ -460,7 +461,7 @@
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
-| [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 |  |
+| [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-03-10 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 |  |

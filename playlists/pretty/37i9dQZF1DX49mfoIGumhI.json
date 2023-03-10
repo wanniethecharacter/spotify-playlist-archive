@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 146259,
+  "num_followers": 146362,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMGY4YzYwMGYwZmQ0MTQ0ZmRhZDljNzZjYTkyNjY0YzFi",
+  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMDk2YWVmMDNkZDJmMTY5ZWUxZmUyMDcxY2RiOGRmNmRi",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Solo Salsa",
         "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 290742,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 266893,
       "name": "T\u00fa No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Exitos Bailables",
-        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
-      },
-      "artists": [
-        {
-          "name": "German Carre\u00f1o Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Vestida De Blanco",
-      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 291663,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Exitos Bailables",
+        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
+      },
+      "artists": [
+        {
+          "name": "German Carre\u00f1o Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Vestida De Blanco",
+      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 286413,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "El Sonero Del Pueblo",
         "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 254360,
       "name": "El Hombre Increible",
       "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 286413,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
     },
     {
       "added_at": "2022-12-30 20:18:36",

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-169 songs - 10 hr 0 min
+170 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-24 | 2022-11-27 |
 | [Prayers For This World](https://open.spotify.com/track/0np4wrLitfNjaqqkYsPt79) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Prayers For This World](https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb) | 3:42 | 2022-11-26 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-24 |  |
-| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 |  |
+| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 | 2023-03-10 |
+| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6t3jMxR1TXxuVs9ShdIbVV) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:20 | 2022-12-11 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-24 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-24 |  |
 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2022-12-11 |  |

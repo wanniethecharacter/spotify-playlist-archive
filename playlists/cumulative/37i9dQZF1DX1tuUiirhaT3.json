@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "417 Hz Soundscapes for Relaxation and Meditation with Nature Sounds",
+        "url": "https://open.spotify.com/album/0luGXVbbrR8hDxjDl3Rx68"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Dreams",
+          "url": "https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "417 Hz Calma (Nature)",
+      "url": "https://open.spotify.com/track/5RpPrA45N1wKZRUjVR2NJk"
+    },
+    {
+      "album": {
         "name": "432hz Healing Breath",
         "url": "https://open.spotify.com/album/0hRwcHs2JKtcirMyoPGbz8"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 234097,
       "name": "432hz Sea of Fog",
       "url": "https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 185700,
       "name": "Colors Of The Wind",
       "url": "https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 182812,
       "name": "Forest Symphony",
       "url": "https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK"
@@ -3781,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "Restfulness",
+        "url": "https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto"
+      },
+      "artists": [
+        {
+          "name": "Helios Relaxing Space",
+          "url": "https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226704,
+      "name": "Starry Night - With sounds of nature",
+      "url": "https://open.spotify.com/track/7KjpmZmgh4GWoNC6O6ieq6"
+    },
+    {
+      "album": {
         "name": "111 Tracks: Tranquil Water Songs with Nature Sounds: Healing Meditations, Music for Yoga, Reiki, Spa, Massage, New Age - Serenity Instrumental Music",
         "url": "https://open.spotify.com/album/00QiJ4aHSYpH48ELep8quF"
       },
@@ -3814,6 +3850,24 @@
       "duration_ms": 190400,
       "name": "String of Raindrops",
       "url": "https://open.spotify.com/track/5vosryofCmhWtisU0mLzy2"
+    },
+    {
+      "album": {
+        "name": "Sub Nubibus",
+        "url": "https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147957,
+      "name": "Sub Nubibus",
+      "url": "https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n"
     },
     {
       "album": {

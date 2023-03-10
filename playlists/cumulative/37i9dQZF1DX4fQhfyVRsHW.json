@@ -1661,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1"
+      },
+      "artists": [
+        {
+          "name": "Lucien M\u00f8rk",
+          "url": "https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187541,
+      "name": "River Of Life",
+      "url": "https://open.spotify.com/track/0hfRvQQIfBwglHpENfYecp"
+    },
+    {
+      "album": {
         "name": "Tales Of Nature",
         "url": "https://open.spotify.com/album/1eQ34ctlOThK1SBmdavTNu"
       },
@@ -2000,6 +2018,24 @@
       "duration_ms": 207361,
       "name": "Tantra",
       "url": "https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR"
+    },
+    {
+      "album": {
+        "name": "Temptavi",
+        "url": "https://open.spotify.com/album/42bxu81Q5B6FnuwiwjjFbo"
+      },
+      "artists": [
+        {
+          "name": "Recov",
+          "url": "https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179127,
+      "name": "Temptavi",
+      "url": "https://open.spotify.com/track/6pAbtZUtsX7jo1QATy9yqK"
     },
     {
       "album": {

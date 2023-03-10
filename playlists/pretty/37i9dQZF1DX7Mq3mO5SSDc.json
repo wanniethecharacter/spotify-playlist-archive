@@ -1,12 +1,12 @@
 {
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
-  "num_followers": 274187,
+  "num_followers": 274272,
   "original_name": "Hip-Hop Anthems: Def Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDIwNTBjOGZkNmRmYzI1Y2M1NGYwZTQwYmM3NGQ2ZWRk",
+  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDNjYTI3MDBlZmU0YzNjMmIxZDFhOTg5MmNmMjFlNjUz",
   "tracks": [
     {
       "added_at": "2020-03-04 09:06:11",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Ain't A Damn Thing Changed",
         "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 209160,
       "name": "Hip Hop Junkies",
       "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Return Of The Product",
-        "url": "https://open.spotify.com/album/1GKpLQWG6h6r7CyYtEQ0N6"
-      },
-      "artists": [
-        {
-          "name": "MC Serch",
-          "url": "https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u"
-        }
-      ],
-      "duration_ms": 303266,
-      "name": "Back To The Grill",
-      "url": "https://open.spotify.com/track/7rxeH2yGlCeDKEkNNTpY29"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Return Of The Product",
+        "url": "https://open.spotify.com/album/1GKpLQWG6h6r7CyYtEQ0N6"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "MC Serch",
+          "url": "https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u"
         }
       ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+      "duration_ms": 303266,
+      "name": "Back To The Grill",
+      "url": "https://open.spotify.com/track/7rxeH2yGlCeDKEkNNTpY29"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -679,6 +679,22 @@
       "duration_ms": 281240,
       "name": "Excuse Me Miss",
       "url": "https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -735,22 +751,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It's Yours",
-        "url": "https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm"
-      },
-      "artists": [
-        {
-          "name": "T La Rock",
-          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
-        }
-      ],
-      "duration_ms": 261794,
-      "name": "It's Yours (Radio Mix)",
-      "url": "https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
       },
@@ -800,25 +800,25 @@
           "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Daddy's Little Girl",
-        "url": "https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG"
+        "name": "It's Yours",
+        "url": "https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm"
       },
       "artists": [
         {
-          "name": "Nikki D",
-          "url": "https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb"
+          "name": "T La Rock",
+          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
         }
       ],
-      "duration_ms": 268426,
-      "name": "Daddy's Little Girl",
-      "url": "https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8"
+      "duration_ms": 261794,
+      "name": "It's Yours (Radio Mix)",
+      "url": "https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -843,18 +843,18 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Daddy's Little Girl",
+        "url": "https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Nikki D",
+          "url": "https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 268426,
+      "name": "Daddy's Little Girl",
+      "url": "https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8"
     }
   ],
   "unique_name": "Hip-Hop Anthems: Def Jam",

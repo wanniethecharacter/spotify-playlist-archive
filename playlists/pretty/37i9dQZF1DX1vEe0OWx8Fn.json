@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 65318,
+  "num_followers": 65338,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDU5NjFiNWI1Zjc3NzU1Y2VmNDc2Nzc0MDgwZWFiYjc4",
+  "snapshot_id": "MTY3MDUwNDQwOSwwMDAwMDAwMDU1ZDM0MmU3NWI3ZDQzNzA1MDdkNTAxMGQwN2Q2Y2Ez",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -543,30 +543,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Teenage Heartbreak",
-        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Tyson Ritter",
-          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
-      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -603,18 +591,30 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "Teenage Heartbreak",
+        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Tyson Ritter",
+          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 128983,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
+      "duration_ms": 156000,
+      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
+      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
     },
     {
       "added_at": "2022-08-16 22:06:35",

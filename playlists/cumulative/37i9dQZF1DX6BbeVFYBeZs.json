@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124087,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9"
+    },
+    {
+      "album": {
         "name": "Adriana",
         "url": "https://open.spotify.com/album/2T7bga5l6cwbRvFRZbqP28"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 166074,
       "name": "Andromeda Shimmer",
       "url": "https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 191108,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP"
@@ -940,6 +958,24 @@
       "duration_ms": 141973,
       "name": "Delicate Love",
       "url": "https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v"
+    },
+    {
+      "album": {
+        "name": "Demelza",
+        "url": "https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205817,
+      "name": "Demelza",
+      "url": "https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW"
     },
     {
       "album": {
@@ -1509,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Gelassenheit",
+        "url": "https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa"
+      },
+      "artists": [
+        {
+          "name": "William Lynn",
+          "url": "https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136904,
+      "name": "Gelassenheit",
+      "url": "https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q"
+    },
+    {
+      "album": {
         "name": "Gentle Touch Of Spring",
         "url": "https://open.spotify.com/album/7EdkaBsPKGAGuXX1hJAfqr"
       },
@@ -1564,6 +1618,24 @@
       "duration_ms": 144000,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
+    },
+    {
+      "album": {
+        "name": "Lake Varna",
+        "url": "https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112897,
+      "name": "How Far Have We Come",
+      "url": "https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6"
     },
     {
       "album": {
@@ -1823,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Laguna Blanca",
+        "url": "https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl"
+      },
+      "artists": [
+        {
+          "name": "Diego de Frigiliana",
+          "url": "https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "Laguna Blanca",
+      "url": "https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh"
+    },
+    {
+      "album": {
         "name": "Lara",
         "url": "https://open.spotify.com/album/0OR0UbW0bvsxvpB7GAN8lo"
       },
@@ -1856,6 +1946,24 @@
       "duration_ms": 133000,
       "name": "Las Lagrimas De Lucia",
       "url": "https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g"
+    },
+    {
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB"
+      },
+      "artists": [
+        {
+          "name": "LarryLand",
+          "url": "https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161233,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf"
     },
     {
       "album": {
@@ -1928,7 +2036,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154817,
       "name": "Lisboa Antigua",
       "url": "https://open.spotify.com/track/59Ao0LOrkaAehxm4ytrXfp"
@@ -1950,6 +2058,24 @@
       "duration_ms": 137856,
       "name": "Lleva Mi Amor",
       "url": "https://open.spotify.com/track/1kPMYjXR6g36hSb1bxF55e"
+    },
+    {
+      "album": {
+        "name": "Long Story",
+        "url": "https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Femi",
+          "url": "https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125095,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON"
     },
     {
       "album": {
@@ -2218,6 +2344,24 @@
       "duration_ms": 129453,
       "name": "Mist",
       "url": "https://open.spotify.com/track/4H9EiDGFwfih6XnnSaObLo"
+    },
+    {
+      "album": {
+        "name": "Mollification",
+        "url": "https://open.spotify.com/album/40o4fe8ElKwZf0MZEsJYQr"
+      },
+      "artists": [
+        {
+          "name": "Kel Giamo",
+          "url": "https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143845,
+      "name": "Mollification",
+      "url": "https://open.spotify.com/track/7lPmCMnHc9EqaI6J824B9J"
     },
     {
       "album": {
@@ -2849,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5By790hqqqzvik0TeG3ZIV"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150764,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4UfLroIAb8MPuegv6iORJv"
+    },
+    {
+      "album": {
         "name": "Viol\u00e3o Brasileiro (20th Century Brazilian Music for Guitar)",
         "url": "https://open.spotify.com/album/0XE7HgG4OgGYUCqc6PLZPZ"
       },
@@ -3210,7 +3372,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 245999,
       "name": "Sweetest Taste",
       "url": "https://open.spotify.com/track/2qWK9B6pNDJ4faJrowzhi3"
@@ -3806,6 +3968,24 @@
       "duration_ms": 110875,
       "name": "Whispers At Dawn",
       "url": "https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra"
+    },
+    {
+      "album": {
+        "name": "Winter is coming",
+        "url": "https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw"
+      },
+      "artists": [
+        {
+          "name": "Moody Me",
+          "url": "https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152359,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP"
     },
     {
       "album": {

@@ -4737,6 +4737,28 @@
     },
     {
       "album": {
+        "name": "The Upper Cuts Singles (2023 Edition)",
+        "url": "https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu"
+      },
+      "artists": [
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Annie",
+          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203940,
+      "name": "Never Coming Back",
+      "url": "https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG"
+    },
+    {
+      "album": {
         "name": "Night Crawling",
         "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },

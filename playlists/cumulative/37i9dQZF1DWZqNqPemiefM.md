@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-455 songs - 1 day 12 hr 17 min
+456 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 | 2022-03-31 |  |
 | [Asa No Umibe](https://open.spotify.com/track/0iVjGcJ2oxHM1Pksx7EDT5) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Mizugiwa](https://open.spotify.com/album/240VvlzQLu4rQ0aqjA4e4O) | 3:48 | 2022-03-31 | 2022-06-16 |
 | [Ayumi](https://open.spotify.com/track/2pTQSF8fuugBtEonD88W5B) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [BEEN](https://open.spotify.com/album/7HLgtaJQEgJfNnYmzNOigz) | 2:09 | 2022-03-31 | 2022-04-04 |
-| [Ayumi](https://open.spotify.com/track/7ns4h1iypgWbWs2yN2IEbx) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Been](https://open.spotify.com/album/2JdQuuqYePeZzZnPaPiPyI) | 2:09 | 2023-01-05 |  |
+| [Ayumi](https://open.spotify.com/track/7ns4h1iypgWbWs2yN2IEbx) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Been](https://open.spotify.com/album/2JdQuuqYePeZzZnPaPiPyI) | 2:09 | 2023-01-05 | 2023-03-10 |
 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 | 2022-07-28 |  |
 | [AZUKIIRO NO KAORI](https://open.spotify.com/track/7LUWWBGTZehD2ia4ngdjR2) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2sQFwzJRuivAKswSg6J3DD) | 2:39 | 2022-03-30 | 2022-04-19 |
 | [Back To Nature](https://open.spotify.com/track/3g49cIRPJLGe2oeQZGUmeJ) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 9:14 | 2022-03-30 | 2022-04-15 |
@@ -217,6 +217,7 @@
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 | 2022-11-04 |
 | [looped labyrinth, decayed voice](https://open.spotify.com/track/0s7xkkUwTu77Hffwnxesky) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/0Of3uyJzRu8UZV8l3iN3k2) | 9:36 | 2022-04-16 | 2022-04-18 |
 | [Loran](https://open.spotify.com/track/7sn2MBviZ595Rrf2pghrPt) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:44 | 2022-03-31 | 2022-04-13 |
+| [Loss](https://open.spotify.com/track/0bmMVu560qMkZEovy1OZR2) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Loss](https://open.spotify.com/album/2oT5ES6bJ6ES4Us6RNu5Gr) | 4:45 | 2023-03-09 |  |
 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 | 2022-03-31 |  |
 | [Lovers](https://open.spotify.com/track/5M4D3PJGNNfVpHiYr8gvpN) | [Hiroto Kudo](https://open.spotify.com/artist/4HoS8lqkRngSNsSBn4mCvx) | [Interior](https://open.spotify.com/album/6I55s6CLXbibFM576Va21j) | 2:53 | 2022-03-30 | 2022-07-13 |
 | [Lucent](https://open.spotify.com/track/0grXriSrpdF2p51rIkNdpQ) | [Ametsub](https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz) | [All is Silence](https://open.spotify.com/album/0QdoBe57VqkP84gNDiQjaZ) | 2:44 | 2022-03-31 | 2022-04-21 |

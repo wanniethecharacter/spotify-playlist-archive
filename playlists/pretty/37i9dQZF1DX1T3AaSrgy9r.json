@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 86603,
+  "num_followers": 86715,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMGEzMTRiMjQyMGRlOWVmY2RmY2RhOGUxOGExZDQzNTVl",
+  "snapshot_id": "MTY1MDkxNjc2OCwwMDAwMDAwMDA4YWI0NjBmZGRkYWExNTFjMDUyMzEwY2FmZjgzNTUz",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Gettin' High On Your Own Supply",
-        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
-      },
-      "artists": [
-        {
-          "name": "Apollo 440",
-          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Stop the Rock",
-      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Red Alert",
         "url": "https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+        "name": "Gettin' High On Your Own Supply",
+        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Apollo 440",
+          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Army of Me",
-      "url": "https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm"
+      "duration_ms": 212400,
+      "name": "Stop the Rock",
+      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -591,6 +575,22 @@
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Army of Me",
+      "url": "https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Battleflag",
-        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
-      },
-      "artists": [
-        {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Battleflag",
-      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 239760,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Battleflag",
+        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+      },
+      "artists": [
+        {
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Battleflag",
+      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
     },
     {
       "added_at": "2021-07-14 17:36:34",

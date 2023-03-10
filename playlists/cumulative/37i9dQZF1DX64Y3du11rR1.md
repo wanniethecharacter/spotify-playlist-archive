@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-168 songs - 9 hr 33 min
+169 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 | 2022-12-16 |  |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2021-12-22 |  |
 | [Apologize](https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Apologize](https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna) | 3:01 | 2021-12-22 |  |
+| [apologize](https://open.spotify.com/track/2UQJXhcg7d7pY80VMknAUs) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [apologize](https://open.spotify.com/album/5nuhZCXLzUKCcknWkmsFS7) | 2:58 | 2023-03-09 |  |
 | [As It Was](https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x) | [Killian Turner](https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5) | [As It Was](https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB) | 3:46 | 2023-01-20 |  |
 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-18 |  |
 | [Attention](https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Attention](https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk) | 4:04 | 2021-12-22 |  |
@@ -67,7 +68,7 @@
 | [Heartbeats](https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer) | 2:42 | 2022-07-26 | 2023-02-15 |
 | [Heartbreak Hotel](https://open.spotify.com/track/44SOTtRERrHbs8wNv8oudO) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX), [Ryan James Tillema](https://open.spotify.com/artist/3IynIgLNoj6nup0mywwOh8), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Heartbreak Hotel](https://open.spotify.com/album/2v6njIow9pvj0b0JSl8p0m) | 3:04 | 2022-09-05 | 2022-11-19 |
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2022-01-12 | 2023-02-18 |
-| [Hero \- Acoustic](https://open.spotify.com/track/57QIbBSc8Nps1mCsFoj2qI) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Hero \(Acoustic\)](https://open.spotify.com/album/4599YqrC5uiNbqYZ2JsPVs) | 2:44 | 2022-09-05 |  |
+| [Hero \- Acoustic](https://open.spotify.com/track/57QIbBSc8Nps1mCsFoj2qI) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Hero \(Acoustic\)](https://open.spotify.com/album/4599YqrC5uiNbqYZ2JsPVs) | 2:44 | 2022-09-05 | 2023-03-10 |
 | [Hold My Girl \- Piano Acoustic](https://open.spotify.com/track/3qxPacNEgVBtaOCp0v8zJw) | [Keywest](https://open.spotify.com/artist/5n9E5vGRtLsPzqk39eA29T) | [Hold My Girl \(Piano Acoustic\)](https://open.spotify.com/album/0n439gzksPiEis9mHmZY0z) | 3:45 | 2021-12-22 | 2022-11-19 |
 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 | 2022-02-02 |  |
 | [Hollywood's Bleeding](https://open.spotify.com/track/56twDecxsQon61crfEXrA5) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Hollywood's Bleeding](https://open.spotify.com/album/4O15gCnDaJvYAmG5q7nO1U) | 3:37 | 2021-12-22 | 2023-02-18 |

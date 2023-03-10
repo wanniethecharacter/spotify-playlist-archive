@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-112 songs - 7 hr 23 min
+113 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 | 2022-02-04 |  |
 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 | 2022-02-04 |  |
 | [Amor Verdadero \(feat\. Raices de Jauja\)](https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7) | [Damaris](https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j), [Raices de Jauja](https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP) | [Tu Puedes Volar](https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF) | 4:10 | 2022-02-04 | 2022-07-29 |
-| [Amor, amor](https://open.spotify.com/track/244Edh9MqjjJya4xkSJEUT) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 4:31 | 2022-02-04 |  |
+| [Amor, amor](https://open.spotify.com/track/244Edh9MqjjJya4xkSJEUT) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 4:31 | 2022-02-04 | 2023-03-10 |
 | [Amor, amor](https://open.spotify.com/track/2fXjZzZbrKwwyV5cY9wOOv) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/5b6k6R3gxsko8WDODQlHIL) | 4:31 | 2022-02-04 | 2022-07-29 |
 | [Amor, Amor](https://open.spotify.com/track/59t1ift5NKs25qhh9nycJk) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 4:31 | 2022-02-04 | 2022-11-05 |
+| [Amor, amor](https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh) | 4:31 | 2022-02-04 |  |
 | [AY CORAZÓN](https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [LO MEJOR DE LO ANTERIOR](https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW) | 4:37 | 2022-02-04 |  |
 | [Ay Corazón](https://open.spotify.com/track/1cjnsRW2d8Fy2gk3M8uIpA) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Edición de Coleccion](https://open.spotify.com/album/4UXEtKzIdri2r9YxbFK3Oo) | 4:37 | 2022-02-04 | 2023-02-18 |
 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 | 2022-02-04 | 2023-02-10 |
@@ -70,7 +71,7 @@
 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 | 2022-02-04 |  |
 | [La Cornuda](https://open.spotify.com/track/3avbUG70o1fNOtNZmsOUH8) | [Pumita Cazador](https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb) | [El Nuevo Líder del Requinto](https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB) | 5:40 | 2022-02-04 | 2022-07-28 |
 | [La Orquesta](https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:23 | 2022-02-04 |  |
-| [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 | 2022-02-04 | 2022-07-24 |
+| [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 | 2022-02-04 |  |
 | [Llanto por Llanto](https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 2:41 | 2022-02-04 |  |
 | [Mala Conciencia](https://open.spotify.com/track/7KoOzMXequfGIrZFU3Tyyf) | [María Jesús Rodríguez La Miski](https://open.spotify.com/artist/5pN0gsM5BbogZK9sowAj5q) | [La Miski](https://open.spotify.com/album/0SuLz8YOEvDPA0tppv2sPN) | 3:48 | 2022-02-04 | 2022-07-28 |
 | [Mauka Zapato](https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f) | [Alicia Maguiña](https://open.spotify.com/artist/1OJ21FFw1XbFVGx4SN13Fv) | [La Santa Tierra](https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC) | 3:28 | 2022-02-04 | 2022-07-11 |
@@ -85,7 +86,7 @@
 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 | 2022-02-04 |  |
 | [Olvidame](https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:30 | 2022-02-04 |  |
 | [Olvidame](https://open.spotify.com/track/5FEBTnlzOP6jQxrp2SMKQE) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvídame](https://open.spotify.com/album/0i9FcKBWpzLO6HoST7sY1O) | 4:34 | 2022-02-04 | 2022-07-29 |
-| [Otra vez me equivoqué](https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 3:17 | 2022-02-04 |  |
+| [Otra vez me equivoqué](https://open.spotify.com/track/6WATTVi4gRkxzavGw2YZtq) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 3:17 | 2022-02-04 | 2023-03-10 |
 | [Otra Vez me Equivoqué](https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 3:17 | 2022-02-04 | 2022-11-06 |
 | [Para ti Pucarinita](https://open.spotify.com/track/4aoxRYIWNE4uLg5VKa23I8) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:47 | 2022-02-04 | 2022-07-28 |
 | [Perlas Challay](https://open.spotify.com/track/38O5w9pEdK5M9XvzoXbl0I) | [Perlas Challay](https://open.spotify.com/artist/0ywTegGl7uyQqwqstYeDzx) | [Huayno Music Of Peru \- Vol\. 1](https://open.spotify.com/album/291aNknbKbMh1TREXcWCEJ) | 3:26 | 2022-02-04 | 2022-07-29 |

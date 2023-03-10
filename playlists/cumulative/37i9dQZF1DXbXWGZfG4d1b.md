@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-417 songs - 1 day 0 hr 50 min
+418 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2022-07-15 |  |
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 |  |
-| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 |  |
+| [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
+| [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 |  |
 | [Medalla de Oro](https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU) | 5:40 | 2023-03-03 | 2023-03-04 |
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 |  |
 | [Melodia de extrañar](https://open.spotify.com/track/2LLqpGXCDOaCFq6kGxqdD7) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El bosque del recuerdo](https://open.spotify.com/album/4sSVCsRnVyx0m5hkBzIy1Q) | 2:46 | 2022-07-15 |  |
@@ -352,7 +353,7 @@
 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 | 2022-06-03 | 2023-01-24 |
 | [Semillas de Luz](https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8) | 4:11 | 2023-01-20 |  |
 | [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 |  |
-| [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 |  |
+| [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 | 2023-03-10 |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-06-03 |  |
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-06-03 | 2022-07-24 |
@@ -423,7 +424,7 @@
 | [Yod](https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj) | 3:41 | 2022-07-01 | 2022-07-24 |
 | [¿Qué Clase de Ciudad Es Esta?](https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Mora Sánchez Viamonte](https://open.spotify.com/artist/1l9x6IMkgfguzM1fFP9IXt), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:45 | 2022-06-03 |  |
 | [¿Todas las Guitarras?](https://open.spotify.com/track/1eJAPC8sQFugPucAA91zeq) | [Formica](https://open.spotify.com/artist/2DMEr3Upo24FzFIk3dVk17) | [¿Todas las Guitarras?](https://open.spotify.com/album/1qpK9ltZ9aFhPfgwjwV64l) | 3:27 | 2022-07-15 | 2022-07-24 |
-| [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 | 2023-03-03 | 2023-03-07 |
+| [Árboles y Pasarelas](https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Árboles y Pasarelas](https://open.spotify.com/album/42v671Ws24mgeGvj298gQB) | 5:35 | 2023-03-03 |  |
 | [Última fuerza](https://open.spotify.com/track/3cbjpIGLyADDB0GYF3Ru41) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Última fuerza](https://open.spotify.com/album/7kEcwjomzNk2XFK8jFmKkR) | 4:04 | 2022-07-15 | 2022-07-19 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

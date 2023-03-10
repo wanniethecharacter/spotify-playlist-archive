@@ -1,35 +1,15 @@
 {
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Yunes LaGrintaa e Zeta Cooper in cover.",
-  "num_followers": 217633,
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Fata in cover.",
+  "num_followers": 217658,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI2NzYyOSwwMDAwMDAwMGI0YmM4ZGFiZThjYjhhMDM0MDc4ZmM5YWQzZmU1YjBh",
+  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMDIzNzQyM2RkZTQwZDBmOGMxYTgxNzQzNDVjMGVjNjQ0",
   "tracks": [
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
-        "url": "https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD"
-      },
-      "artists": [
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        },
-        {
-          "name": "Zeta Cooper",
-          "url": "https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
-      "url": "https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Yamamay",
         "url": "https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB"
@@ -45,7 +25,23 @@
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Notte in Caserma",
+        "url": "https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "duration_ms": 162318,
+      "name": "Notte in Caserma",
+      "url": "https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "TEN TEN",
         "url": "https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp"
@@ -65,7 +61,7 @@
       "url": "https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "20 ALBANESI",
         "url": "https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q"
@@ -81,7 +77,43 @@
       "url": "https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "D\u00c9SOL\u00c9",
+        "url": "https://open.spotify.com/album/2dBduepbYIm9uQlADmUvdd"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        }
+      ],
+      "duration_ms": 146728,
+      "name": "D\u00c9SOL\u00c9",
+      "url": "https://open.spotify.com/track/4xrBfdXHqenjwuCRvnlqRM"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
+        "url": "https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Zeta Cooper",
+          "url": "https://open.spotify.com/artist/6YiWOx2th8mcrKHgZhfkIs"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
+      "url": "https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Se ti amo",
         "url": "https://open.spotify.com/album/6KWpVZnQuIcwQYHCDbiPhF"
@@ -90,6 +122,10 @@
         {
           "name": "Mikush",
           "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
         }
       ],
       "duration_ms": 130212,
@@ -97,7 +133,23 @@
       "url": "https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Minaccia",
         "url": "https://open.spotify.com/album/0jBPzPKM05G6OyULtiaq9p"
@@ -113,7 +165,27 @@
       "url": "https://open.spotify.com/track/0RbhNJIb0vOtLbFlcBN3lx"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Sere Nere",
+        "url": "https://open.spotify.com/album/4VE7KgxqtyIwmH7IiwF4pQ"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        },
+        {
+          "name": "47Milano",
+          "url": "https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1"
+        }
+      ],
+      "duration_ms": 135771,
+      "name": "Sere Nere",
+      "url": "https://open.spotify.com/track/2WHiSpzu5j3pBNextnnZwV"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "BULLS",
         "url": "https://open.spotify.com/album/5uCB7ufT1yu047ld0EY1a0"
@@ -133,7 +205,7 @@
       "url": "https://open.spotify.com/track/02ziGICyxDi5VHvKkQBkUB"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Pararara",
         "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
@@ -149,23 +221,7 @@
       "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Viral",
-        "url": "https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy"
-      },
-      "artists": [
-        {
-          "name": "Delaru\u00e0",
-          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Viral",
-      "url": "https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Fumo Con Lei",
         "url": "https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe"
@@ -181,7 +237,7 @@
       "url": "https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9"
@@ -197,7 +253,27 @@
       "url": "https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "049",
+        "url": "https://open.spotify.com/album/3L3WQ16h0XZx4OW0DCvEl0"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "049",
+      "url": "https://open.spotify.com/track/2ctb12A2f1xM2mMaO29naD"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "NASTY",
         "url": "https://open.spotify.com/album/03x49jYtwYvQuvAsiOdcm2"
@@ -213,43 +289,7 @@
       "url": "https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "TCHOP",
-        "url": "https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW"
-      },
-      "artists": [
-        {
-          "name": "SPOOKYPBL",
-          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "TCHOP",
-      "url": "https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "No Gangsta (feat. Diss Gacha)",
-        "url": "https://open.spotify.com/album/1FCvC9JiVSiFYxyguzXb4B"
-      },
-      "artists": [
-        {
-          "name": "Yamba",
-          "url": "https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T"
-        },
-        {
-          "name": "Diss Gacha",
-          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
-        }
-      ],
-      "duration_ms": 151690,
-      "name": "No Gangsta (feat. Diss Gacha)",
-      "url": "https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Demod\u00e8",
         "url": "https://open.spotify.com/album/2YHTY2F7c4vy4tGX5uCuud"
@@ -273,7 +313,127 @@
       "url": "https://open.spotify.com/track/59XPghPNocTlJlp6mKnjCh"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "TCHOP",
+        "url": "https://open.spotify.com/album/1EJI81qJI6iM98gmbmzATW"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "TCHOP",
+      "url": "https://open.spotify.com/track/7bn2VpaP4jMnaqZMWwuFxf"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Ogni 2 Minuti",
+        "url": "https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 155256,
+      "name": "Ogni 2 Minuti",
+      "url": "https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Uno9999",
+        "url": "https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 207603,
+      "name": "Uno9999",
+      "url": "https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Pietre Roventi",
+        "url": "https://open.spotify.com/album/1Pmk7Yl7ZxCgfBrPbxQsVi"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "duration_ms": 133184,
+      "name": "Pietre Roventi",
+      "url": "https://open.spotify.com/track/3lk5nbbxln0M5MsbzboGR6"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "No Gangsta (feat. Diss Gacha)",
+        "url": "https://open.spotify.com/album/1FCvC9JiVSiFYxyguzXb4B"
+      },
+      "artists": [
+        {
+          "name": "Yamba",
+          "url": "https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T"
+        },
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        }
+      ],
+      "duration_ms": 151690,
+      "name": "No Gangsta (feat. Diss Gacha)",
+      "url": "https://open.spotify.com/track/7jchp8dvNtPolD0UJHjDLs"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Con Te",
+        "url": "https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "Con Te",
+      "url": "https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Non \u00e8 un gioco",
+        "url": "https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        }
+      ],
+      "duration_ms": 132311,
+      "name": "Non \u00e8 un gioco",
+      "url": "https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Bussola",
         "url": "https://open.spotify.com/album/7AzZyWqZpsUP8HwwvL9CTZ"
@@ -293,71 +453,7 @@
       "url": "https://open.spotify.com/track/2kNF8cF9KQhmGxNrVm8PAi"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Ogni 2 Minuti",
-        "url": "https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA"
-      },
-      "artists": [
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 155256,
-      "name": "Ogni 2 Minuti",
-      "url": "https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Non \u00e8 un gioco",
-        "url": "https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM"
-      },
-      "artists": [
-        {
-          "name": "Philip",
-          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
-        }
-      ],
-      "duration_ms": 132311,
-      "name": "Non \u00e8 un gioco",
-      "url": "https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Uno9999",
-        "url": "https://open.spotify.com/album/028OsY71ny6lzw0Tuq8ILS"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 207603,
-      "name": "Uno9999",
-      "url": "https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Con Te",
-        "url": "https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i"
-      },
-      "artists": [
-        {
-          "name": "Mikush",
-          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "Con Te",
-      "url": "https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
@@ -381,27 +477,7 @@
       "url": "https://open.spotify.com/track/7KTseTI8UdMT4WUIOmjTQC"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "DIARIO DI UN PUSHER",
-        "url": "https://open.spotify.com/album/4tbTUVR5AXMjxp5unYO9a0"
-      },
-      "artists": [
-        {
-          "name": "Pablo CT1",
-          "url": "https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe"
-        },
-        {
-          "name": "Sapobully",
-          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "DRUG DEALERS (feat. Sapobully)",
-      "url": "https://open.spotify.com/track/65cwJw7TQRRPUgPgdVHftV"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Big VROOM Big Ah Ah",
         "url": "https://open.spotify.com/album/5uqthSZzxmDYVXErwPgkUG"
@@ -421,7 +497,7 @@
       "url": "https://open.spotify.com/track/0GXP7aq6Ec8b4tx1w8VNcu"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/4WwPRLJRXXlWDLEXVVXoik"
@@ -441,7 +517,7 @@
       "url": "https://open.spotify.com/track/3ShpGGdrnqUwnh920D70MD"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Hobby",
         "url": "https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP"
@@ -461,7 +537,23 @@
       "url": "https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Clap!",
+        "url": "https://open.spotify.com/album/4fVNLP5qzaB5Uu7hp5Fxzk"
+      },
+      "artists": [
+        {
+          "name": "INCE",
+          "url": "https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw"
+        }
+      ],
+      "duration_ms": 127022,
+      "name": "Clap!",
+      "url": "https://open.spotify.com/track/5C4Yoj7SqI8Saw4mGwMsHf"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ"
@@ -481,23 +573,43 @@
       "url": "https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Sergio Tacchini",
-        "url": "https://open.spotify.com/album/0VDRRP3JEfLmP2icsms24z"
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/5vF1oUEwXJeNn7TqpXGG8N"
       },
       "artists": [
         {
-          "name": "Harmann",
-          "url": "https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 193043,
-      "name": "Sergio Tacchini",
-      "url": "https://open.spotify.com/track/0YPRUXY8E083xNY75J3ZSq"
+      "duration_ms": 146776,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6VEEoOaX6CXy8eejTQw40J"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "DIARIO DI UN PUSHER",
+        "url": "https://open.spotify.com/album/4tbTUVR5AXMjxp5unYO9a0"
+      },
+      "artists": [
+        {
+          "name": "Pablo CT1",
+          "url": "https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe"
+        },
+        {
+          "name": "Sapobully",
+          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "DRUG DEALERS (feat. Sapobully)",
+      "url": "https://open.spotify.com/track/65cwJw7TQRRPUgPgdVHftV"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "GROTTO INFERNO",
         "url": "https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb"
@@ -521,7 +633,43 @@
       "url": "https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Oh M\u00e0",
+        "url": "https://open.spotify.com/album/0CS2ggLHqLMTbotnb1Hney"
+      },
+      "artists": [
+        {
+          "name": "Kalash247",
+          "url": "https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Oh M\u00e0",
+      "url": "https://open.spotify.com/track/5x629g2VVGrBWUR2DSRVhg"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "PRESS ME",
+        "url": "https://open.spotify.com/album/1D8EHHBtSg7O9sYFEZIue6"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Mothz",
+          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "PRESS ME",
+      "url": "https://open.spotify.com/track/6P4uMmWwSVQKlhxaRRRkN7"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
@@ -537,7 +685,7 @@
       "url": "https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "COLLANE",
         "url": "https://open.spotify.com/album/1P8Xp6rAlMzJGYGhdNKzjl"
@@ -553,7 +701,7 @@
       "url": "https://open.spotify.com/track/0fSpIhDmGgXIWYkaaNsw0t"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "BLED",
         "url": "https://open.spotify.com/album/1S8kI7xZRJUrfBjNpOFqoV"
@@ -573,7 +721,7 @@
       "url": "https://open.spotify.com/track/5Yv4lgEsLZzOg0JPIuTytj"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "BIG N\u2019 BABY",
         "url": "https://open.spotify.com/album/3kMqQswGZbRBFw28XZVc5Q"
@@ -593,7 +741,23 @@
       "url": "https://open.spotify.com/track/3LxBLcewFoznQcFef8spcV"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Sergio Tacchini",
+        "url": "https://open.spotify.com/album/0VDRRP3JEfLmP2icsms24z"
+      },
+      "artists": [
+        {
+          "name": "Harmann",
+          "url": "https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Sergio Tacchini",
+      "url": "https://open.spotify.com/track/0YPRUXY8E083xNY75J3ZSq"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Ma che Hit",
         "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
@@ -609,7 +773,27 @@
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1YZCRc6HysR5iXWXPBUM9O"
+      },
+      "artists": [
+        {
+          "name": "LIUK",
+          "url": "https://open.spotify.com/artist/6xfeQJvxB1JE91mbYegsni"
+        },
+        {
+          "name": "LLADE",
+          "url": "https://open.spotify.com/artist/07O2VDRdhylixj9TZzXSbI"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Money Up!",
+      "url": "https://open.spotify.com/track/2KzcgMKFe948PbcbSmoDWj"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
@@ -633,39 +817,7 @@
       "url": "https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "RWINA",
-        "url": "https://open.spotify.com/album/1P2BmgspAw3IvwEpaDBBnc"
-      },
-      "artists": [
-        {
-          "name": "Pikasso",
-          "url": "https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "RWINA",
-      "url": "https://open.spotify.com/track/6ue77ihbiiOZch5DQfd1TL"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Oh M\u00e0",
-        "url": "https://open.spotify.com/album/0CS2ggLHqLMTbotnb1Hney"
-      },
-      "artists": [
-        {
-          "name": "Kalash247",
-          "url": "https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Oh M\u00e0",
-      "url": "https://open.spotify.com/track/5x629g2VVGrBWUR2DSRVhg"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Tookie Williams (3/3)",
         "url": "https://open.spotify.com/album/7ehWKXdXES5KOnM5sSCOjE"
@@ -681,7 +833,7 @@
       "url": "https://open.spotify.com/track/0byOney03xKL4Ze0RR18nJ"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Impliqu\u00e9",
         "url": "https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC"
@@ -697,23 +849,23 @@
       "url": "https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/5vF1oUEwXJeNn7TqpXGG8N"
+        "name": "From Sant'",
+        "url": "https://open.spotify.com/album/6QLXoiRRzLoWjwUyT1J6an"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/2quVb29xnOv7eESFZnLY8B"
         }
       ],
-      "duration_ms": 146776,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6VEEoOaX6CXy8eejTQw40J"
+      "duration_ms": 167700,
+      "name": "From Sant'",
+      "url": "https://open.spotify.com/track/2SyEPyC2ug8JqJFHPOZubr"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Still Runnin...",
         "url": "https://open.spotify.com/album/7G9gUgVYytx10YQ47oo8Wr"
@@ -733,7 +885,7 @@
       "url": "https://open.spotify.com/track/5Zl6mXtuM8xbcDtiEh5GN8"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -757,7 +909,7 @@
       "url": "https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Panama",
         "url": "https://open.spotify.com/album/3iUGHThARKVQzRTwajJ7RC"
@@ -781,7 +933,7 @@
       "url": "https://open.spotify.com/track/2NaDjUskdeJyn8tG0f9NzU"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "YOUSSEF",
         "url": "https://open.spotify.com/album/7Ie4u4mtk1TxS01II2aj7p"
@@ -797,7 +949,23 @@
       "url": "https://open.spotify.com/track/0R6KCfzkmpudxNXKfp0QrC"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "BEEF",
+        "url": "https://open.spotify.com/album/033RtlmFySG0CiwdtUlyVy"
+      },
+      "artists": [
+        {
+          "name": "Cimo",
+          "url": "https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "BEEF",
+      "url": "https://open.spotify.com/track/3HC0jFOHZ6LUDTloTBqAwC"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "2 Minuti",
         "url": "https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF"
@@ -813,7 +981,7 @@
       "url": "https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Radici",
         "url": "https://open.spotify.com/album/2n5GxzWWDD1WWysgJCKIxr"
@@ -833,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2DO1FtemtQJHMeIF98Zfi8"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Strade",
         "url": "https://open.spotify.com/album/4FZq38mnAgnwYhNouzOuoG"
@@ -857,27 +1025,7 @@
       "url": "https://open.spotify.com/track/27zqJfsRqMNZJdI13EnDGF"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "PRESS ME",
-        "url": "https://open.spotify.com/album/1D8EHHBtSg7O9sYFEZIue6"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Mothz",
-          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "PRESS ME",
-      "url": "https://open.spotify.com/track/6P4uMmWwSVQKlhxaRRRkN7"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MI CHIAMO GABRI",
         "url": "https://open.spotify.com/album/6mAqgaiYs09591irEhS61R"
@@ -893,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4YwAD8Tr0wID3Se1agEqX6"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Equipe 3",
         "url": "https://open.spotify.com/album/54WM2s5FvWMjuVNUQamUqE"
@@ -909,23 +1057,7 @@
       "url": "https://open.spotify.com/track/4i0LOQjyzfAXDFvVbXPrEd"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "1,2,3",
-        "url": "https://open.spotify.com/album/6q7HxiYYLkLejDKyB0sDXW"
-      },
-      "artists": [
-        {
-          "name": "Lil Manzi",
-          "url": "https://open.spotify.com/artist/0c3nNEzSsJIRjBsLhujxaH"
-        }
-      ],
-      "duration_ms": 147291,
-      "name": "1,2,3",
-      "url": "https://open.spotify.com/track/1QdUnydw1bWYTRalqe0LDe"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/3WNeAHKEEoPP4CA1haOXV0"
@@ -945,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0hgxvzi32U5hEDY9bgo4KA"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Capotavolo",
         "url": "https://open.spotify.com/album/6e78WCwUIiJqp4oMkUiBz2"
@@ -965,23 +1097,7 @@
       "url": "https://open.spotify.com/track/3zSA43fLbKDNjRhgBgRKPA"
     },
     {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Serpe",
-        "url": "https://open.spotify.com/album/6D65Nbkff5aYAdreoi6c4C"
-      },
-      "artists": [
-        {
-          "name": "Silnyya",
-          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Serpe",
-      "url": "https://open.spotify.com/track/0EAEh6gBDnRlpbwVzZrH2d"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/27pQVLpSz8kAFBwnTc1ZZM"
@@ -1003,22 +1119,6 @@
       "duration_ms": 168199,
       "name": "UFC",
       "url": "https://open.spotify.com/track/3T1KXh21ieREyl1TIdxzdb"
-    },
-    {
-      "added_at": "2023-03-08 09:27:09",
-      "album": {
-        "name": "Killshot",
-        "url": "https://open.spotify.com/album/4oLnUt41zlJjNA3wRJzX8n"
-      },
-      "artists": [
-        {
-          "name": "Noemi Coozy",
-          "url": "https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx"
-        }
-      ],
-      "duration_ms": 125769,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/7MvItCGlJ217NPmGUZv0Yd"
     }
   ],
   "unique_name": "Raptopia",

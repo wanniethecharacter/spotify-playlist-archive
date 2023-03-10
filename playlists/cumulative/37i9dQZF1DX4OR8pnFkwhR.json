@@ -8759,6 +8759,24 @@
     },
     {
       "album": {
+        "name": "\u3075\u308a\u3060\u3057",
+        "url": "https://open.spotify.com/album/5kRfjdpnQwvgn25RrUofl6"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215882,
+      "name": "\u3075\u308a\u3060\u3057",
+      "url": "https://open.spotify.com/track/56wpNTB0ormf1aja4r2OFX"
+    },
+    {
+      "album": {
         "name": "\u307c\u304f",
         "url": "https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4"
       },

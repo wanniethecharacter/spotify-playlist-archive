@@ -5126,10 +5126,36 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 157440,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4t1dIV3GBZj9PRQovD8ypt"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/5Kz63YySC7KgnFe32HvvSu"
+      },
+      "artists": [
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "2Crimes",
+          "url": "https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/6gJfFDLXgOHdxZR3eNaA4K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-109 songs - 5 hr 31 min
+113 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Late Night Sketch](https://open.spotify.com/track/1sydW6HsMZkaTayu8ZOplv) | [Kyradeen](https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo) | [Late Night Sketch](https://open.spotify.com/album/0jhAlda3sHD23TSqEXNOz8) | 6:40 | 2022-07-18 |  |
 | [Late Night Sketch](https://open.spotify.com/track/64APCNQMUudINeHwjcKR0j) | [Kyradeen](https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo) | [Late Night Sketch](https://open.spotify.com/album/13eXz4mO3b4AH2w9YGKJiv) | 6:40 | 2022-05-11 | 2022-07-29 |
 | [Le Lac](https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V) | [Dharma Gaia](https://open.spotify.com/artist/4zS7xfa3yRhsGysVOA8wHp) | [Le Lac](https://open.spotify.com/album/32oA5PrMStagwn9406moMO) | 2:53 | 2023-01-05 |  |
+| [Leaf Fairies](https://open.spotify.com/track/2Dnm4G6oTucFajlFBwzLzw) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Fairies](https://open.spotify.com/album/7xEvSGUpZOHKk5lAr7dUwv) | 3:36 | 2023-03-09 |  |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/19ECnW3LhP8fMx35Wqzauw) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories \- Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/album/51C9ZkqBv58DZdxNJwqUm9) | 4:27 | 2022-05-11 | 2022-07-29 |
 | [Lenaerts: Fantaisie sur la Bohème de Puccini, Pt\. 1](https://open.spotify.com/track/3j9dQrn1E6TWojRj1BEWxx) | [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 4:27 | 2022-07-18 |  |
 | [Limerick is Beautiful \- Kilcash](https://open.spotify.com/track/71T51fQHRA9XY7uvkaOyK2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:56 | 2022-07-18 |  |
@@ -79,6 +80,7 @@
 | [Pondering Soul](https://open.spotify.com/track/2JSQpRxp3Nj813yDwdXP5T) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Pondering Soul](https://open.spotify.com/album/486YRktaHQPELAWuaIOEjy) | 2:41 | 2022-05-11 |  |
 | [Prelude in C](https://open.spotify.com/track/5dfyZGnyhJnD0OP9i7Rxo4) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 2:22 | 2022-05-11 |  |
 | [Prism Clouds](https://open.spotify.com/track/76aTMdvmwpYNQPhThp4jyq) | [Jessica Gallo](https://open.spotify.com/artist/0AUXT7h44snL3V6J0jBame) | [Walk to the Sun](https://open.spotify.com/album/5ekA0XP5beaOWZVPbiAq6K) | 2:44 | 2022-05-11 |  |
+| [Pure Compassion](https://open.spotify.com/track/2lfF19uOXezWdCisdAtQJh) | [Trancistique](https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I) | [Pure Compassion](https://open.spotify.com/album/3PATLSMzIxGyO16NM4X44Y) | 2:44 | 2023-03-09 |  |
 | [Quantum Energy](https://open.spotify.com/track/5xJOr6LpapHIKGNxhhZR1s) | [Mandharu](https://open.spotify.com/artist/0JJagT7DJXc9QrG0cdtTzC) | [Universal Knowledge](https://open.spotify.com/album/3sVfZcAxl53dNB1hHRh1IU) | 6:59 | 2022-05-11 |  |
 | [Raindrops on the Dunes](https://open.spotify.com/track/1sMlNsgaJqL4Sy1HcFxl2U) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Raindrops on the Dunes](https://open.spotify.com/album/4s4KCcfkb6nbu4Tj9LiNeS) | 3:15 | 2022-05-11 |  |
 | [Recollections](https://open.spotify.com/track/5J37Sj59LiFeqNfXauiYvO) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Harp for Study and Reading](https://open.spotify.com/album/1vzFDG7BzzFQNOlkDi7AD7) | 3:33 | 2022-05-11 |  |
@@ -92,6 +94,7 @@
 | [Saman](https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD) | 2:26 | 2022-05-11 |  |
 | [Scale of Dreams](https://open.spotify.com/track/57q0DJRzvwzW7zjpqi5E0w) | [Jep Ellery](https://open.spotify.com/artist/3XcuCasoz9LagVgPQTWHOh) | [Scale of Dreams](https://open.spotify.com/album/4Fk46UnHpg1qSJMdY7MSZK) | 1:11 | 2022-05-11 |  |
 | [Seaside Harp](https://open.spotify.com/track/7m6htVSjQvUmUmax8fnQ0q) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Elegant Harps](https://open.spotify.com/album/75dmBNnTf360cAXEvJDXUW) | 3:36 | 2022-05-11 |  |
+| [Silk](https://open.spotify.com/track/6o5egkOuik33HkMyLg7vW8) | [Wings Of Silk](https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny) | [Search For The Light](https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7) | 2:54 | 2023-03-09 |  |
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2022-05-11 |  |
 | [Sir Arthur Shaen](https://open.spotify.com/track/3mrhQayC2vDbqp1ArINfFT) | [Gráinne Hambly](https://open.spotify.com/artist/17VnlCfMAbmvz2gr6fPidR) | [The Thorn Tree](https://open.spotify.com/album/5ix33voKR6WFRXSg7VNQiQ) | 3:25 | 2022-05-11 |  |
 | [Smile](https://open.spotify.com/track/2LJ5PtEVQjbsEVn90QLMbE) | [Evelyn Huber](https://open.spotify.com/artist/6KXQXgnyqN0bOU5BQdi6aj) | [Calm](https://open.spotify.com/album/6ueA37irOWZwjnRkalkTX9) | 3:45 | 2022-05-11 | 2022-07-29 |
@@ -100,6 +103,7 @@
 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 | 2022-05-11 |  |
 | [Soft Touch](https://open.spotify.com/track/6ZEiwmGp8BInwOrn5jwRD6) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 2:37 | 2022-05-11 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-05-11 |  |
+| [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-03-09 |  |
 | [Síocháin](https://open.spotify.com/track/6FUMrOxk7rMqh9aIaWfuWc) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Síocháin](https://open.spotify.com/album/5NQTTuuPJjCXIHrS3Jjgkv) | 1:43 | 2022-05-11 |  |
 | [Tears in Heaven](https://open.spotify.com/track/1UURN4ELzsR583TwuuZ91E) | [Angeline Delaunay](https://open.spotify.com/artist/4v4KtI8f8puIEpQ4SoW270) | [Tears in Heaven](https://open.spotify.com/album/2d3yriMKyBneHm7hoqXY1n) | 1:40 | 2022-05-11 |  |
 | [The Brave Hearted](https://open.spotify.com/track/2Ju28ECq7fOas1vnjAlieD) | [Carla McVeigh](https://open.spotify.com/artist/7BmbWFyLHih6McFgWHjdKT) | [The Brave Hearted](https://open.spotify.com/album/7n2zVISJbZFdgd32UaVKAJ) | 2:55 | 2022-08-10 |  |

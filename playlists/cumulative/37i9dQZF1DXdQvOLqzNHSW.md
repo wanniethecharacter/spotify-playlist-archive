@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-445 songs - 1 day 3 hr 38 min
+447 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 | 2022-05-06 | 2022-07-09 |
 | [Je t'aime encore](https://open.spotify.com/track/0vQH42DnQe4F0i7uxlcY0t) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [L'Ère du Verseau](https://open.spotify.com/album/5iCfp2KefljOSPdRqpAvyW) | 3:34 | 2020-12-21 | 2022-04-19 |
 | [Jerusalem, New York, Berlin](https://open.spotify.com/track/7lQgoAWAFAo0XW7dW2TL1y) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:54 | 2020-12-21 | 2022-04-08 |
+| [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 | 2022-10-28 |  |
 | [K.](https://open.spotify.com/track/36Zs84njjWZD3TGYE77WPC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [K.](https://open.spotify.com/album/33qYH2dRlz8DSCWFYZB1Fc) | 5:19 | 2020-12-21 | 2022-07-21 |
 | [Kill Our Way to Heaven](https://open.spotify.com/track/65FY2nfsexBwSIYVzEZCKS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [La Belle Musique, Episode One](https://open.spotify.com/album/3RTds8OVU8t5X93B00EtCe) | 3:56 | 2020-12-21 | 2022-04-17 |
 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 | 2022-07-22 |  |
@@ -235,7 +236,7 @@
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-08-12 | 2023-02-28 |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2020-12-21 | 2022-08-17 |
 | [Little Bit \(feat\. Lykke Li\)](https://open.spotify.com/track/524wvipGqxPKYWxkjf9y46) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:50 | 2022-05-06 | 2022-07-09 |
-| [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 |  |
+| [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2020-12-21 | 2023-03-10 |
 | [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 | 2020-12-21 |  |
 | [look at me](https://open.spotify.com/track/3ol0443PaVEBdnDATmEFkX) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:54 | 2020-12-21 | 2022-07-21 |
 | [Looking for Knives](https://open.spotify.com/track/1kJYmG59kwtbs2rvkqpzB6) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 6:13 | 2020-12-21 | 2022-04-20 |
@@ -386,6 +387,7 @@
 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 | 2020-12-21 | 2022-04-20 |
 | [Take Ur Time](https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 4:00 | 2022-09-19 | 2022-10-08 |
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2020-12-21 | 2022-04-21 |
+| [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 | 2023-03-10 |  |
 | [Taurus](https://open.spotify.com/track/14wQpAIGrStYHrS9iEsdcJ) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Taurus](https://open.spotify.com/album/2DNMMdW5WunIvIUHDIOxZr) | 4:06 | 2022-07-08 | 2022-10-08 |
 | [Teen Sex](https://open.spotify.com/track/3egoenea3zQ21VwqcUzH3A) | [infinite bisous](https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff) | [W/ Love](https://open.spotify.com/album/2J9ruxYbxkeJNclf018WmL) | 3:57 | 2020-12-21 | 2022-04-18 |
 | [temporary nothing](https://open.spotify.com/track/0Szyn0SgWSx5z1tw87zbOv) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1KHgVqga6vV89zAQ2X9MMg) | 3:07 | 2020-12-21 | 2022-04-14 |
@@ -421,7 +423,7 @@
 | [UFOF](https://open.spotify.com/track/0DZfBeJhOPyjhqoaTkE3kZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [UFOF](https://open.spotify.com/album/13arYJWgDb5xGDHU49Nlj9) | 3:08 | 2020-12-21 | 2022-04-21 |
 | [Under The Moon](https://open.spotify.com/track/2IN5IspnDC534fzg16WtWF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:27 | 2020-12-21 | 2022-04-19 |
 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 | 2022-07-22 |  |
-| [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-12-09 |  |
+| [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-12-09 | 2023-03-10 |
 | [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Apricot Princess](https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH) | 2:15 | 2020-12-21 | 2022-04-17 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-22 | 2022-10-13 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-13 |  |
@@ -435,7 +437,7 @@
 | [We're All Gonna Die](https://open.spotify.com/track/4ZfPkAW0O7h1sj7Akt18DU) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die \- Single](https://open.spotify.com/album/5rUTt2ROxXzfgmMsEs8GOF) | 5:04 | 2020-12-21 | 2022-04-15 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-17 |  |
 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 | 2022-07-22 | 2022-08-27 |
-| [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 | 2023-03-08 |  |
+| [What You Wanna Try](https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 2:39 | 2023-03-07 |  |
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2020-12-21 | 2022-04-20 |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2020-12-21 | 2022-07-20 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-17 |  |

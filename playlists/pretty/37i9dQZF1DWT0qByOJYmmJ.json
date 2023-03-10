@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 600385,
+  "num_followers": 600612,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMDk4ZTEzZWMxYjIzNGJlMGMxMmVhMDExMDg2MWU5ODU4",
+  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMGJjMDZiNTgzYTBhYzk2ZjJjOWVmNDU0MjJjYjE5ZTlh",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "H\u00e1blame de T\u00fa",
         "url": "https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 238480,
       "name": "Combusti\u00f3n",
       "url": "https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -919,18 +919,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+        "name": "Ponte en Mi Lugar",
+        "url": "https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK"
       },
       "artists": [
         {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 179071,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+      "duration_ms": 192250,
+      "name": "Ponte en Mi Lugar",
+      "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -971,6 +975,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 179071,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "L\u00e1grimas De Miel",
         "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Ponte en Mi Lugar",
-        "url": "https://open.spotify.com/album/1eZJVi0cCd63BeI4cXlWxK"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Ponte en Mi Lugar",
-      "url": "https://open.spotify.com/track/55iIqtFbxy8mJEZC08B1wl"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Elefante Rosado",
-        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 214865,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Elefante Rosado",
+        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Lo Que Sol\u00edamos Ser",
-        "url": "https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
       },
       "artists": [
         {
-          "name": "L\u00daA",
-          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 183282,
-      "name": "Lo Que Sol\u00edamos Ser",
-      "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

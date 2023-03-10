@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-416 songs - 18 hr 41 min
+418 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Coloring Book](https://open.spotify.com/track/0V820qf0s6EES7VDxR3vi7) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Coloring Book](https://open.spotify.com/album/5iWXKx09E9WAsRiGUBULCL) | 2:51 | 2022-12-16 |  |
 | [Como Un Oceano](https://open.spotify.com/track/6xuakrOBMFZcPf3z6jnox0) | [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT) | [Todo Es Lo Que Parece](https://open.spotify.com/album/4MlUv21lIHvgXzpg5vPNNz) | 4:05 | 2021-11-10 | 2022-05-20 |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-10 | 2023-02-10 |
+| [Cool Off](https://open.spotify.com/track/1sSSsT7lQwcEy5SB6YL38F) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [After Hours](https://open.spotify.com/album/0XB3NHgiMkwcnGBq6tDaLQ) | 1:03 | 2023-03-10 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-10 | 2022-02-11 |
 | [Cosmic Trip](https://open.spotify.com/track/5vvKcQkqVa10CxOzOylWWv) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Cosmic Trip](https://open.spotify.com/album/5cGfxg4XucEAk4yYy5PYg2) | 2:00 | 2022-04-15 |  |
 | [Couple Lattes](https://open.spotify.com/track/01RxJZ9GhysTABL6fB5KpC) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Bodies of Water](https://open.spotify.com/album/5mu4aOQFavVQ1gfbZGepkt) | 2:40 | 2021-11-10 | 2022-09-24 |
@@ -103,6 +104,7 @@
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
 | [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-10 |  |
+| [Element & Moderate](https://open.spotify.com/track/6XvAXhla70yN7tJzKeAFiT) | [Feverkin](https://open.spotify.com/artist/2AY0TMFBRlygIiGsk2kiOP) | [Element & Moderate](https://open.spotify.com/album/3VuaP4rvbmO53ebGi00Vmo) | 3:32 | 2023-03-10 |  |
 | [Elements](https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Elements](https://open.spotify.com/album/5OXc7jNILuDvrrt5JrNgLH) | 3:12 | 2021-11-10 | 2022-09-17 |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2021-11-10 |  |
 | [Embedded](https://open.spotify.com/track/6kpr58zL1OMSikCZgSZ9mz) | [Axshaft](https://open.spotify.com/artist/1cD64izGulnGEe2zy4ViMU) | [Embedded](https://open.spotify.com/album/6fm0NkBIcrmzDTOPBDsfzJ) | 3:44 | 2021-11-10 | 2022-06-10 |

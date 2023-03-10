@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Dream Told Me It's Time",
+        "url": "https://open.spotify.com/album/4Gf9hVEVk47INwB8Yp1sSH"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180739,
+      "name": "A Dream Told Me It's Time",
+      "url": "https://open.spotify.com/track/71XCoL2dNlYWDV3GAYl8a3"
+    },
+    {
+      "album": {
         "name": "A Few Reasons",
         "url": "https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 136500,
       "name": "Above",
       "url": "https://open.spotify.com/track/43QbJt2flQ8GsrX3q6Hroq"
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124087,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9"
+    },
+    {
+      "album": {
         "name": "Adjacent",
         "url": "https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ"
       },
@@ -214,7 +250,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 166186,
       "name": "Aeonian",
       "url": "https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ"
@@ -441,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172729,
+      "name": "Before You go",
+      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
+    },
+    {
+      "album": {
         "name": "Behind The Shade",
         "url": "https://open.spotify.com/album/6ml0ggFel4JLtFyrcDn1KS"
       },
@@ -600,7 +654,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 155840,
       "name": "Catarsis",
       "url": "https://open.spotify.com/track/6iCbVQ9zdBVnqcTwzKoPKJ"
@@ -1567,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Gelassenheit",
+        "url": "https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa"
+      },
+      "artists": [
+        {
+          "name": "William Lynn",
+          "url": "https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136904,
+      "name": "Gelassenheit",
+      "url": "https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q"
+    },
+    {
+      "album": {
         "name": "Girasoles para ti",
         "url": "https://open.spotify.com/album/2TPRbJWMg8uFe6X46w7R9D"
       },
@@ -1765,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Hearst Castle",
+        "url": "https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Hearst Castle",
+      "url": "https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk"
+    },
+    {
+      "album": {
         "name": "Here On My Own Again",
         "url": "https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn"
       },
@@ -1794,7 +1884,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 183306,
       "name": "Hommage a JT",
       "url": "https://open.spotify.com/track/4sPj6HtAEj7j2W302sUmgz"
@@ -1816,6 +1906,24 @@
       "duration_ms": 130830,
       "name": "Hou Van Me",
       "url": "https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0"
+    },
+    {
+      "album": {
+        "name": "Lake Varna",
+        "url": "https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112897,
+      "name": "How Far Have We Come",
+      "url": "https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6"
     },
     {
       "album": {
@@ -3130,7 +3238,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 156456,
       "name": "Orchard",
       "url": "https://open.spotify.com/track/3udeKOIb6qvbKSYY9bH3Bs"
@@ -4006,6 +4114,24 @@
       "duration_ms": 100073,
       "name": "Silver Rain",
       "url": "https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT"
+    },
+    {
+      "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
     },
     {
       "album": {
@@ -4968,6 +5094,24 @@
       "duration_ms": 264103,
       "name": "Wilderness Exit",
       "url": "https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e"
+    },
+    {
+      "album": {
+        "name": "Winter is coming",
+        "url": "https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw"
+      },
+      "artists": [
+        {
+          "name": "Moody Me",
+          "url": "https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152359,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP"
     },
     {
       "album": {

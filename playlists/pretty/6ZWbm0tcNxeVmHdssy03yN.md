@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,538 likes - 105 songs - 5 hr 27 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,546 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 27 | [Tu luna](https://open.spotify.com/track/6tvraiUy02qmpj2KLd5Va9) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Tu luna](https://open.spotify.com/album/01Kbp2N7PI4dTGbvyCtApY) | 2:44 |
 | 28 | [Escápate](https://open.spotify.com/track/7GxX9zEhhkMgu1JOVziaAO) | [Zalama Crew](https://open.spotify.com/artist/7u7QF5UODXg2mYJqymE570), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Escápate](https://open.spotify.com/album/6kPiqJ0kTGlqKqqzwCi2pJ) | 3:25 |
 | 29 | [Para Caminar](https://open.spotify.com/track/761V27Op9TJz4nKvd1SmvY) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Para Caminar](https://open.spotify.com/album/4CX0UOnGj3xPCDE58vSYno) | 2:52 |
-| 30 | [Naughty](https://open.spotify.com/track/7j6TtdYo5XiUW3REcolj7M) | [Nicoletta de Lira](https://open.spotify.com/artist/1TgmTG3L0Yga4SXddc95fI), [Lony](https://open.spotify.com/artist/5NlK4Q3IoHTmRdRL2ooUrc) | [Naughty](https://open.spotify.com/album/0snMFzNxtc6dAowXQxCzAM) | 3:03 |
+| 30 | [Naughty](https://open.spotify.com/track/7j6TtdYo5XiUW3REcolj7M) | [Nicoletta de Lira](https://open.spotify.com/artist/1TgmTG3L0Yga4SXddc95fI), [Lony](https://open.spotify.com/artist/3IUc0aaa85iPknGUiSlSzF) | [Naughty](https://open.spotify.com/album/0snMFzNxtc6dAowXQxCzAM) | 3:03 |
 | 31 | [EXIT](https://open.spotify.com/track/0mp3et9FYwPgShtpIFhVcs) | [Pink Trash Project](https://open.spotify.com/artist/4YmeeA5wy3hUMdN2bA1pVf) | [EXIT](https://open.spotify.com/album/64Byx233u7ky6GbMswZzbB) | 3:28 |
 | 32 | [Bella](https://open.spotify.com/track/3iSgrKma1x5hoMrY3HL4bY) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Bella](https://open.spotify.com/album/1Mvex53YBzYORFFs8dCF6N) | 1:44 |
 | 33 | [The Weekend](https://open.spotify.com/track/0FqkrBEcZaKDOtYjd5iMz7) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [The Weekend](https://open.spotify.com/album/6rU9sjJKP9Cz3S3pcQDGrA) | 2:55 |

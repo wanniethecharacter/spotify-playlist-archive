@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-99 songs - 6 hr 53 min
+100 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,12 +89,13 @@
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2022-05-26 | 2022-07-29 |
 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-05-26 | 2023-02-03 |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-26 |  |
-| [Wakai Koro](https://open.spotify.com/track/0diQ8YqtdoCaxy2xovKsMi) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Wakai Koro](https://open.spotify.com/album/63teHEBVLWZYKuQtUDIjtL) | 4:39 | 2023-02-16 |  |
+| [Wakai Koro](https://open.spotify.com/track/0diQ8YqtdoCaxy2xovKsMi) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Wakai Koro](https://open.spotify.com/album/63teHEBVLWZYKuQtUDIjtL) | 4:39 | 2023-02-16 | 2023-03-10 |
 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 | 2022-05-26 |  |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-05-26 | 2022-07-29 |
 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 | 2023-02-02 |  |
 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2022-05-26 | 2023-02-03 |
 | [Yth: NAIF](https://open.spotify.com/track/0YuZ7HexTHIw6Dm2n9ZDab) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KawaNAIF](https://open.spotify.com/artist/3VRqVXKE255LdwstWIkl0W) | [Yth: NAIF](https://open.spotify.com/album/4nANc60JTeBPqn2j2ZvJZl) | 4:55 | 2022-05-26 |  |
+| [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-03-09 |  |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BLISS](https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa) | 4:14 | 2022-05-26 | 2022-11-17 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/3Qoq9Wi8SYn5gnBSn0FPku) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Bliss](https://open.spotify.com/album/2KIuhe1oMCte5xpN9bmDrS) | 4:14 | 2022-05-26 | 2022-07-29 |
 | [เพื่อนไม่จริง](https://open.spotify.com/track/05WHgjtWx32x40VmFkLnOd) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 4:34 | 2022-05-26 |  |

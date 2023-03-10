@@ -1,67 +1,15 @@
 {
   "description": "Taking it way back! Cover: De La Soul",
-  "num_followers": 3310489,
+  "num_followers": 3313264,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI0ODE1NSwwMDAwMDAwMGRlNjk5OGY2YmEzNTNjNDRlYTg3ZTZiNjAwNjJhMmY4",
+  "snapshot_id": "MTY3ODM4OTA4NCwwMDAwMDAwMGRmM2M1NjdlYmNmNDJiMzllNWY1MWY3NjNjMjUyZGNk",
   "tracks": [
     {
-      "added_at": "2023-03-08 04:02:35",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-    },
-    {
-      "added_at": "2023-03-08 04:02:35",
-      "album": {
-        "name": "The Predator",
-        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
-    },
-    {
-      "added_at": "2023-03-08 04:02:35",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
-    },
-    {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -81,7 +29,59 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
+    },
+    {
+      "added_at": "2023-03-09 19:11:24",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
+      "added_at": "2023-03-09 19:11:24",
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Art Official Intelligence: Mosaic Thump",
         "url": "https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/0m1EDSjYlgZ3OQteqhP0XR"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Stakes Is High",
         "url": "https://open.spotify.com/album/0jIXYQfUtkvn1BYYUOBEmE"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/135z3i5CjKr3H4BCT4lGPg"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Diplomatic Immunity",
         "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Rich Boy",
         "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "American Gangster",
         "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/4oEr4dm7WLOTsl1mHBJm4M"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Enquiring Minds",
         "url": "https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Back For The First Time",
         "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Terrorist Threats",
         "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Life Story",
         "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
@@ -621,31 +637,7 @@
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
-      "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 297520,
-      "name": "Crack A Bottle",
-      "url": "https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT"
-    },
-    {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
@@ -661,7 +653,7 @@
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -681,7 +673,7 @@
       "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
@@ -701,7 +693,7 @@
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
@@ -717,7 +709,7 @@
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
@@ -733,7 +725,7 @@
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -753,7 +745,7 @@
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
@@ -773,7 +765,7 @@
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
@@ -789,7 +781,7 @@
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Who Is Mike Jones?",
         "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"
@@ -813,7 +805,7 @@
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
@@ -829,7 +821,7 @@
       "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Hood Rich",
         "url": "https://open.spotify.com/album/3qcWuKB3pGWcB07FWksnWr"
@@ -845,7 +837,7 @@
       "url": "https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
@@ -865,7 +857,7 @@
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
@@ -885,7 +877,7 @@
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Still Writing In My Diary: 2nd Entry",
         "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
     },
     {
-      "added_at": "2023-03-08 04:02:35",
+      "added_at": "2023-03-09 19:11:24",
       "album": {
         "name": "Tha Carter III (MTV Bonus Version)",
         "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"

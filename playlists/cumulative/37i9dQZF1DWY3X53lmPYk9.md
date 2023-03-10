@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-255 songs - 14 hr 25 min
+257 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2021-12-14 | 2023-02-24 |
 | [Almost Like Being In Love](https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Almost Like Being In Love](https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb) | 2:38 | 2022-09-08 |  |
 | [Angel Eyes](https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:49 | 2022-03-10 | 2022-04-27 |
-| [Angel Eyes](https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F) | [Grace Wither](https://open.spotify.com/artist/2vGiqF0un3L1GYZZcu1Fs3) | [Angel Eyes](https://open.spotify.com/album/3VDsMjedDDreoeWb4THND9) | 2:32 | 2023-01-05 |  |
+| [Angel Eyes](https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F) | [Grace Wither](https://open.spotify.com/artist/2vGiqF0un3L1GYZZcu1Fs3) | [Angel Eyes](https://open.spotify.com/album/3VDsMjedDDreoeWb4THND9) | 2:32 | 2023-01-05 | 2023-03-10 |
 | [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 | 2022-08-18 |
 | [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 | 2022-10-13 |  |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-14 |  |
@@ -74,6 +74,7 @@
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-02-16 |  |
 | [Elise](https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Elise](https://open.spotify.com/album/08S5BBeRD6SNzKATObz1Hm) | 2:49 | 2022-10-27 |  |
 | [Embraceable You](https://open.spotify.com/track/6U8ptAVrs4QsCxORfUlRZc) | [Simon Schott](https://open.spotify.com/artist/4aj82EQm1aU8rsxLYtB91d) | [Bar Piano:Plays Your Favorite Evergreens, Vol.1](https://open.spotify.com/album/5vmr4xkrAQOdQzHw5gIn2l) | 1:04 | 2021-12-14 |  |
+| [Emily](https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc) | [Roland Wilder](https://open.spotify.com/artist/3XykqWLIs9eIOqNFP25GgL) | [Emily](https://open.spotify.com/album/33gP7iGrdPMvuZGkWeZPzR) | 3:46 | 2023-03-09 |  |
 | [Estrellita](https://open.spotify.com/track/6WTafHZBYg3EdnYUq4K8ob) | [Julia Quincy](https://open.spotify.com/artist/4wmfIOZiwqduNeeo9lv3AS) | [Estrellita](https://open.spotify.com/album/3xHGD5TzQHhL1VA0fMWGZs) | 3:19 | 2023-01-19 |  |
 | [Evening Silence](https://open.spotify.com/track/0Rf7mzOsDoMDVVGOeLIr9r) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Pretty Are Your Eyes](https://open.spotify.com/album/6oTeiJZ9MS3xbvul8mW3NE) | 4:04 | 2022-08-11 |  |
 | [Everlasting Road](https://open.spotify.com/track/1dsECyS1CcES7lUyEsb5vm) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Everlasting Road](https://open.spotify.com/album/6tHUGPe4CbFQQMAtEi9Nuy) | 3:37 | 2022-08-11 |  |
@@ -138,6 +139,7 @@
 | [Like Someone In Love](https://open.spotify.com/track/1DfNHZVzrwezNXui3BKlYR) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Like Someone In Love](https://open.spotify.com/album/2RP5lMF8K8wxguYeLoAWrJ) | 4:08 | 2021-12-14 |  |
 | [Lola and Kirby](https://open.spotify.com/track/4GyAzGvtspTgBsenXna9Ik) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:19 | 2022-08-11 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Look For The Silver Lining](https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy) | 3:26 | 2023-01-26 |  |
+| [Looking Glass](https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Looking Glass](https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH) | 2:24 | 2023-03-09 |  |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2022-10-06 |  |
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-11 |  |
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |

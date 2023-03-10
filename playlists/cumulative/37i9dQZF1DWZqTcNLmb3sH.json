@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Arre Idu Yentha Bhavane (from \"Hoysala\")",
+        "url": "https://open.spotify.com/album/1RKgabovE3NDyWohDOxNeQ"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185001,
+      "name": "Arre Idu Yentha Bhavane (from \"Hoysala\")",
+      "url": "https://open.spotify.com/track/01B4hOPRd4OwoYp7DanGS0"
+    },
+    {
+      "album": {
         "name": "Dr.56 Kannada",
         "url": "https://open.spotify.com/album/61yCrjQgLJvrRZi5Fu6098"
       },
@@ -4750,10 +4768,40 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 203052,
       "name": "Hoovina Angi Thottu",
       "url": "https://open.spotify.com/track/1ui9KfTcWhqejcl6g8dxGj"
+    },
+    {
+      "album": {
+        "name": "Hoovina Angi Thottu (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/1H3MQSOiL6feU7On6gBV5U"
+      },
+      "artists": [
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Hoovina Angi Thottu (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/5Cfhh3d6hVl9rX6VEQUXEZ"
     },
     {
       "album": {
@@ -5558,6 +5606,36 @@
       "duration_ms": 301090,
       "name": "Kaama Krodha Lobhake",
       "url": "https://open.spotify.com/track/0rjE5v9fgdDS5JYwILdnMD"
+    },
+    {
+      "album": {
+        "name": "Kaamanabillu (From \"Pentagon\")",
+        "url": "https://open.spotify.com/album/15BpVzvY6jlQhCZ40rCrbd"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venki",
+          "url": "https://open.spotify.com/artist/25CC77LOgi5bBoOlCaNIp9"
+        },
+        {
+          "name": "Inchara Rao",
+          "url": "https://open.spotify.com/artist/1LCraNlWbg00PkooBcsLZ4"
+        },
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210991,
+      "name": "Kaamanabillu (From \"Pentagon\")",
+      "url": "https://open.spotify.com/track/7xMzjFAmTpAARCWlTzojef"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: NF
 
-465 songs - 21 hr 33 min
+466 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-25 | 2022-04-29 |
 | [lost my boat](https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [lost my boat](https://open.spotify.com/album/0VuHQGgJuOFPKvFeXSP4AE) | 3:22 | 2022-06-17 | 2022-07-07 |
 | [Love Feels](https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6) | [The Grouch & Eligh](https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ) | [What Would Love Do](https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U) | 3:44 | 2022-04-19 | 2022-05-20 |
-| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 |  |
+| [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 | 2023-03-10 |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 | 2022-03-05 |
 | [Loved Me Back to Life](https://open.spotify.com/track/3u4QSVHHj9HJ1gjty8QSuS) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Loved Me Back to Life](https://open.spotify.com/album/2JVBPSq27UJhCgPmiY49bH) | 3:12 | 2021-11-16 | 2022-02-19 |
 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 | 2022-07-11 | 2022-10-13 |
@@ -279,6 +279,7 @@
 | [Moonrock](https://open.spotify.com/track/79dt40lQLm46E1WPVYLvTO) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Moonrock](https://open.spotify.com/album/49J53goWppUwvbTn8Gcej5) | 3:00 | 2022-08-19 |  |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2021-12-17 | 2022-03-05 |
 | [morning](https://open.spotify.com/track/0MWeEap0R36Qauy3G7vd7y) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [morning](https://open.spotify.com/album/4pJTYvnrV8guZmGlioUtgd) | 2:42 | 2022-06-10 | 2022-07-23 |
+| [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-09 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 |  |
 | [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 | 2022-11-11 |  |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 | 2022-10-01 |

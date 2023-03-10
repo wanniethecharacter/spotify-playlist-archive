@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-154 songs - 10 hr 20 min
+155 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-08-18 |  |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-08-18 |  |
 | [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 | 2022-08-18 | 2022-10-14 |
+| [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 | 2023-03-09 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-08-18 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-08-18 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-08-18 |  |

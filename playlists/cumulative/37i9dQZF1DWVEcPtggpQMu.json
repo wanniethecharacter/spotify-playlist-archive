@@ -1675,6 +1675,32 @@
     },
     {
       "album": {
+        "name": "Suffer For Beauty",
+        "url": "https://open.spotify.com/album/6KHJY7nfgchDTdcPNDF6gj"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Shaney Jay",
+          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
+        },
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Catchy",
+      "url": "https://open.spotify.com/track/3npcOa13gwr54V0alfcNip"
+    },
+    {
+      "album": {
         "name": "uShukela eTiyeni",
         "url": "https://open.spotify.com/album/0KhIspDpJ86o85vMvoMwfT"
       },
@@ -2394,7 +2420,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 208378,
       "name": "Dunno",
       "url": "https://open.spotify.com/track/2LutWBnF40x8T7vD4GzVpc"
@@ -2530,6 +2556,32 @@
       "duration_ms": 248347,
       "name": "Energy (feat. Gemini Major)",
       "url": "https://open.spotify.com/track/2QrlkQMvreMboLQNGG2uMH"
+    },
+    {
+      "album": {
+        "name": "ENJOYMENT",
+        "url": "https://open.spotify.com/album/1Z5OX3sifIolduEZTlDPaO"
+      },
+      "artists": [
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217716,
+      "name": "ENJOYMENT",
+      "url": "https://open.spotify.com/track/20cgOCnPDRb3LIU1DHvJED"
     },
     {
       "album": {
@@ -7696,7 +7748,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 285022,
       "name": "Sekele",
       "url": "https://open.spotify.com/track/6N6jTSrcWRWkvKNvkx0HIU"
@@ -9257,6 +9309,28 @@
     },
     {
       "album": {
+        "name": "Thiba",
+        "url": "https://open.spotify.com/album/70nd6iud0crrILpXjx6NBx"
+      },
+      "artists": [
+        {
+          "name": "Profound",
+          "url": "https://open.spotify.com/artist/2bSVTbL5gcDIXvrsoUB1wY"
+        },
+        {
+          "name": "Tswako",
+          "url": "https://open.spotify.com/artist/4vqG2gie1TpjmX8ZfSyzZ6"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211762,
+      "name": "Thiba",
+      "url": "https://open.spotify.com/track/0hu7GcuM613Ez6y0JvGmPV"
+    },
+    {
+      "album": {
         "name": "IYEZA",
         "url": "https://open.spotify.com/album/26HWm58LKz5RAWOtwbzGXU"
       },
@@ -9758,7 +9832,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 242727,
       "name": "UNGAZINCISHI (feat. Focalistic & Tyler ICU)",
       "url": "https://open.spotify.com/track/4WCMChQUxMOZBiYZThe2BD"
@@ -10305,6 +10379,28 @@
     },
     {
       "album": {
+        "name": "Window (feat. Moniqu\u00e9 Lawz)",
+        "url": "https://open.spotify.com/album/55DjT38wAN05lrLYXhozkV"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Moniqu\u00e9 Lawz",
+          "url": "https://open.spotify.com/artist/5b71oYiMStAi1tQjY008ab"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98195,
+      "name": "Window (feat. Moniqu\u00e9 Lawz)",
+      "url": "https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn"
+    },
+    {
+      "album": {
         "name": "With Us",
         "url": "https://open.spotify.com/album/48oG73dLtqm9gKzeFfu4gH"
       },
@@ -10416,7 +10512,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 165451,
       "name": "Ye x4",
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"

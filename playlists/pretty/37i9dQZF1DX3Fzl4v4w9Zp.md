@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Brit Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,877 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,940 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 8 | [Through the Dark](https://open.spotify.com/track/45S2pGg2kr8ezWQZcfHZfr) | [Slaid Cleaves](https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn) | [Through the Dark](https://open.spotify.com/album/7IKwphVoCQ3ULBkEEU4omX) | 3:03 |
 | 9 | [Every Light](https://open.spotify.com/track/4i8j6kulj1ipa8srEE4LZT) | [Radio Company](https://open.spotify.com/artist/3qBdT7NKSOBogHhGiUVLiV) | [Keep On Ramblin'](https://open.spotify.com/album/2A2aFLVWZKdon9eXdcJu6x) | 4:15 |
 | 10 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
-| 11 | [Paint the Town](https://open.spotify.com/track/3G1VzspiXFL8Y3cppYWxfN) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paint the Town](https://open.spotify.com/album/6vk8gQ9wQdZsQxgz9kFc4u) | 3:26 |
+| 11 | [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 |
 | 12 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 13 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 |
 | 14 | [Back to You](https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:17 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Old Gods](https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 3:46 |
 | 150 | [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDEzY2M2ZDc0NWQzMWIwMDQ3ZjhjZGZmOWFmNDU3NDYy`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDFjYjQ2MDRkNjViZGJhMmUxNGI4MzhjMzBiYmI3NDQ0`

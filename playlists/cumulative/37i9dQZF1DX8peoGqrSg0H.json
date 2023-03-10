@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BRIGHT",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Billkin",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 223278,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4"
+    },
+    {
+      "album": {
+        "name": "CATCH THE NIGHT",
+        "url": "https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188769,
+      "name": "CATCH THE NIGHT",
+      "url": "https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ"
     },
     {
       "album": {
@@ -976,7 +994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 168000,
       "name": "SPIDERMAN",
       "url": "https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 200259,
       "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 (No One Else Like Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
       "url": "https://open.spotify.com/track/6zonXTdfQREJpP8ZdBrRhg"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 209230,
       "name": "\u0e1e\u0e39\u0e14\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Let Me Tell You) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
       "url": "https://open.spotify.com/track/3RBEKEeZWt3iCsuh4bvZpl"
@@ -3150,6 +3168,24 @@
       "duration_ms": 250206,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285584,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
     },
     {
       "album": {
@@ -3898,6 +3934,24 @@
       "duration_ms": 130909,
       "name": "\u0e2a\u0e48\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e21\u0e32\u0e1a\u0e2d\u0e01\u0e1d\u0e31\u0e19\u0e14\u0e35 - See You In My Dreams",
       "url": "https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e22\u0e14\u0e19\u0e49\u0e33\u0e15\u0e32 (Tears)",
+        "url": "https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u0e2b\u0e22\u0e14\u0e19\u0e49\u0e33\u0e15\u0e32 (Tears)",
+      "url": "https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1"
     },
     {
       "album": {

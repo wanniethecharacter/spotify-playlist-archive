@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-344 songs - 20 hr 6 min
+345 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Remember](https://open.spotify.com/track/4T9Dv3ax2ccJ1VEejTNQ75) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Remember](https://open.spotify.com/album/3RMda0UfpzxcaoSQLYP1Yr) | 3:25 | 2022-05-11 | 2022-07-26 |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-07-04 |  |
 | [Reset \(Feat\. Gaeko, Kid Milli\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:17 | 2022-05-11 |  |
+| [RESPECT \(Feat\. GRAY, DJ Pumkin\)](https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DJ Pumkin](https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0) | [RESPECT](https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv) | 3:04 | 2023-02-14 |  |
 | [RESPECT \(feat.GRAY & DJ Pumkin\)](https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DJ Pumkin](https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [RESPECT](https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT) | 3:04 | 2022-05-11 | 2023-02-09 |
 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 | 2022-06-20 | 2023-02-25 |
 | [Rewind \(Feat\. SUMIN\)](https://open.spotify.com/track/30oZ161npcglwox5PhHiys) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 4:18 | 2022-06-03 | 2022-09-03 |
@@ -259,7 +260,7 @@
 | [Simon Dominic](https://open.spotify.com/track/5MQqzMHkLwQQltVSE6ImXm) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [₩ & ONLY](https://open.spotify.com/album/5Ww23BxeG1dY6W9XoNLHem) | 3:43 | 2022-05-11 | 2023-02-09 |
 | [Siren](https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Ghetto Kids](https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf) | 3:20 | 2022-07-22 |  |
 | [Siren Remix \(Feat\. UNEDUCATED KID, Paul Blanco\)](https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Siren Remix](https://open.spotify.com/album/5c84PfOOqKLuE8WTtsgqbn) | 3:17 | 2022-05-11 |  |
-| [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 | 2022-05-11 |  |
+| [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 | 2022-05-11 | 2023-03-10 |
 | [Smile Now Cry Later](https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SKANDALOUZ](https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn) | 3:00 | 2022-05-11 |  |
 | [Snow\-white \(Prod\. The Quiett\)](https://open.spotify.com/track/1H6fOj8dsnHIqYSqKVy9mT) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 3:00 | 2022-05-11 | 2022-07-28 |
 | [So What](https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9) | [전현재](https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv) | [Beautiful Struggles](https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg) | 3:08 | 2023-01-05 | 2023-02-01 |

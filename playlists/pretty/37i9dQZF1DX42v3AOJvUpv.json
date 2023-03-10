@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 33171,
+  "num_followers": 33182,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDM3NTE2MiwwMDAwMDAwMDNjODFlYjU5ZGM5OTgzODFiM2VlYjY3MjQyMDljYzc3",
+  "snapshot_id": "MTU4NDM3NTE2MiwwMDAwMDAwMDRmYTY5YWEyMGFiMTdlOWFkZjNhODk4NGI4ZTVlMTMx",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 168344,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 161440,
       "name": "La Muralla Verde",
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -287,18 +287,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
+        "name": "Rata Blanca",
+        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
       },
       "artists": [
         {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+      "duration_ms": 432866,
+      "name": "El Sue\u00f1oDe La Gitana",
+      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -319,18 +319,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Rata Blanca",
-        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
+        "name": "Don Cornelio y La Zona",
+        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Don Cornelio Y La Zona",
+          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
         }
       ],
-      "duration_ms": 432866,
-      "name": "El Sue\u00f1oDe La Gitana",
-      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
+      "duration_ms": 251173,
+      "name": "Ella Vendr\u00e1 - Remastered",
+      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Cataratas Musicales",
-        "url": "https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Ricardo Ruben",
-      "url": "https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 151493,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Cataratas Musicales",
+        "url": "https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Ricardo Ruben",
+      "url": "https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS"
     },
     {
       "added_at": "2020-03-16 16:12:42",

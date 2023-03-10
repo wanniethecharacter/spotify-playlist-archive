@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-285 songs - 14 hr 28 min
+287 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-05-20 |  |
 | [Bermuda](https://open.spotify.com/track/0g41bwAXfDCDbo0h0syFs9) | [Lenny Braam](https://open.spotify.com/artist/2gU6uUfseONHGxhEUmemej) | [Bermuda](https://open.spotify.com/album/6wQiu3oJP4kVoWoBNh3lK0) | 3:48 | 2022-05-20 | 2022-07-01 |
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2022-05-20 | 2023-01-07 |
+| [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 | 2023-03-10 |  |
 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 | 2022-12-09 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2022-05-20 | 2022-09-09 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-05-20 |  |
@@ -225,6 +226,7 @@
 | [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-05-20 | 2022-09-17 |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-05-20 |  |
 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 | 2022-05-20 |  |
+| [Salty](https://open.spotify.com/track/7MuWJI0X0XZAirfPZtRaSY) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Salty](https://open.spotify.com/album/3BsEoqw6j1PZzMfwNRQVXk) | 2:30 | 2023-03-10 |  |
 | [Saudade Tropical](https://open.spotify.com/track/1bpkuAmt6pHXBMFMPOnkPX) | [Aristo Jazz](https://open.spotify.com/artist/6goQroMbD9fZKxMewqgseO) | [Saudade Tropical](https://open.spotify.com/album/1oppe5zZJqwXACTIlDYuZT) | 3:34 | 2022-05-20 |  |
 | [scent of you](https://open.spotify.com/track/3KOkrFg9xm462HinmQ94N0) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [scent of you](https://open.spotify.com/album/31BhSIIoSeqb1ZdRpdlYVX) | 2:59 | 2022-07-29 | 2022-09-17 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-05-20 | 2022-06-10 |

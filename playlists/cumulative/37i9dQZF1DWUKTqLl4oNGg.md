@@ -4,7 +4,7 @@
 
 > A few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-77 songs - 4 hr 27 min
+80 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Kite Woman](https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:06 | 2019-12-05 |  |
 | [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 | 2019-12-05 | 2022-09-03 |
 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 | 2019-12-05 | 2023-02-08 |
+| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-09 |  |
 | [Love Street](https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:49 | 2019-12-05 |  |
 | [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 | 2019-12-05 |  |
 | [Mama Told Me Not to Come](https://open.spotify.com/track/6uYrDQX0lNmeM9di1B5rAI) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [12 Songs](https://open.spotify.com/album/3HhJGNadZnFCkAYrPgSuVR) | 2:10 | 2019-12-05 | 2023-02-08 |
@@ -65,8 +66,10 @@
 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 | 2019-12-05 |  |
 | [Peaches En Regalia](https://open.spotify.com/track/6pgg1PiWcNaBPQt1iiEVrQ) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0HAdB95fMVAojYTtQ74JDc) | 3:38 | 2019-12-05 | 2022-07-29 |
 | [Questions](https://open.spotify.com/track/7w1OJlqxiRxnC4ct8yNN1n) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Last Time Around](https://open.spotify.com/album/00MudAJNGTxCUkQrtRz2hY) | 2:57 | 2019-12-05 |  |
+| [Regret Me](https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:16 | 2023-03-09 |  |
 | [She](https://open.spotify.com/track/33gpH6M10smcgSDUYescVD) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Best of The Monkees](https://open.spotify.com/album/338yWfNJWW2SXxVfIdczUD) | 2:37 | 2019-12-05 | 2023-02-08 |
 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 | 2019-12-05 |  |
+| [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 | 2023-03-09 |  |
 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 | 2019-12-05 |  |
 | [Sweet Baby James](https://open.spotify.com/track/0prWSuAoWYurPMH6v0SAJe) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Summer BBQ](https://open.spotify.com/album/4dPMpSyZfWwCvCQaJyrZpj) | 2:51 | 2019-12-05 | 2022-11-14 |
 | [Sweet Baby James](https://open.spotify.com/track/47cdhtxTfp7WvUbDpDeYa2) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 2:51 | 2019-12-05 | 2022-07-29 |

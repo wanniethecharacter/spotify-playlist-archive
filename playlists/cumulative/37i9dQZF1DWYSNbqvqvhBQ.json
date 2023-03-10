@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: The Teskey Brothers\n",
+  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Duncan Laurence\n",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 199356,
       "name": "90s Kid",
       "url": "https://open.spotify.com/track/3JgcOUpDmbU5lguxvxKfKG"
@@ -438,6 +438,24 @@
       "duration_ms": 174236,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/7cnPWKugkvngck0zKReuW8"
+    },
+    {
+      "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE"
     },
     {
       "album": {
@@ -961,6 +979,24 @@
     },
     {
       "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc"
       },
@@ -1062,7 +1098,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 108949,
       "name": "listen up - Radio Edit",
       "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
@@ -1246,7 +1282,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 189371,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/0oUzePLoZXd2cPAgccuz4F"
@@ -1415,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234892,
+      "name": "Running Backwards Into The Future",
+      "url": "https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F"
+    },
+    {
+      "album": {
         "name": "See, I'm Sorry",
         "url": "https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9"
       },
@@ -1474,6 +1528,24 @@
       "duration_ms": 165722,
       "name": "Simple Step",
       "url": "https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5"
+    },
+    {
+      "album": {
+        "name": "Skyboy",
+        "url": "https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211613,
+      "name": "Skyboy",
+      "url": "https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE"
     },
     {
       "album": {
@@ -1590,6 +1662,24 @@
       "duration_ms": 203866,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5KwNUpElQKHRdWdeevn9ed"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Stronger (Grey's Anatomy Version)",
+      "url": "https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E"
     },
     {
       "album": {
@@ -1854,7 +1944,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 182093,
       "name": "Weak In The Knees",
       "url": "https://open.spotify.com/track/7zTQERSGQl9Xnh58ocvOQa"
@@ -1908,7 +1998,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 215913,
       "name": "Wiser",
       "url": "https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S"

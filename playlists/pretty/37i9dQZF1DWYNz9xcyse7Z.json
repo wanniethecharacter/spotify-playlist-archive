@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 41969,
+  "num_followers": 42034,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMGVkMzEyMGU5NGQzOGZmYTQ5NDkyNWRhNjQ1MGJhNTRl",
+  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMGEzNzgzMjJhMzMxNzc0OTdiNjY2MDgyNzRmZDc2NDIw",
   "tracks": [
     {
       "added_at": "2023-02-03 00:16:49",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+        "name": "Mirandote En Las Estrellas",
+        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
       },
       "artists": [
         {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+          "name": "Los Nietos",
+          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
         }
       ],
-      "duration_ms": 133722,
-      "name": "El Frijolito",
-      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
+      "duration_ms": 205280,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -831,18 +827,22 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Mirandote En Las Estrellas",
-        "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
       "artists": [
         {
-          "name": "Los Nietos",
-          "url": "https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv"
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps"
+      "duration_ms": 133722,
+      "name": "El Frijolito",
+      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
+        "name": "Los Dos De La Sierra",
+        "url": "https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos De La Sierra",
+          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
+        }
+      ],
+      "duration_ms": 201549,
+      "name": "Los Barandales Del Puente",
+      "url": "https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 156942,
       "name": "Rama Verde",
       "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
-        "name": "Los Dos De La Sierra",
-        "url": "https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos De La Sierra",
-          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
-        }
-      ],
-      "duration_ms": 201549,
-      "name": "Los Barandales Del Puente",
-      "url": "https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1"
     },
     {
       "added_at": "2023-02-03 00:16:49",

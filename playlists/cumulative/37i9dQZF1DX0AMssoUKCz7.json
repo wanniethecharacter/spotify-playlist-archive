@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 155555,
       "name": "60s Ghost",
       "url": "https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N"
@@ -10139,6 +10139,28 @@
     },
     {
       "album": {
+        "name": "Stop Us Now",
+        "url": "https://open.spotify.com/album/6QiaLv2HcP28eMM5lkmfyg"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        },
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133794,
+      "name": "Stop Us Now",
+      "url": "https://open.spotify.com/track/407OgfKRnLOrbepgBqwlRO"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj"
       },
@@ -11578,7 +11600,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 201250,
       "name": "Walk Thru Fire",
       "url": "https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE"
@@ -12160,6 +12182,24 @@
       "duration_ms": 163105,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4vN3YZKWDARkYVRjXaY4cx"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0e6bVPjT166kgo3NWfDOmv"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187023,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1tnfPfTc733IBccOamdcjM"
     },
     {
       "album": {

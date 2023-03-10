@@ -3049,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "My My",
+        "url": "https://open.spotify.com/album/57XuVQ9SLM3DOSBTA8wOAq"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102886,
+      "name": "My My",
+      "url": "https://open.spotify.com/track/6o96AEsHYibjCQSjzhguAm"
+    },
+    {
+      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: أصالة نصري
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,521 likes - 53 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,580 likes - 53 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

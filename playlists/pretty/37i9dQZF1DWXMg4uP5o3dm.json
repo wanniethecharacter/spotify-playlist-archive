@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Grabbitz",
-  "num_followers": 444429,
+  "num_followers": 444476,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTYxNTA5MiwwMDAwMDAwMGM1MjkwYzJhZDQ2YjNjODRmMzYwMTAwODU3N2RhNzUz",
+  "snapshot_id": "MTY3NTYxNTA5MiwwMDAwMDAwMDRjMmY4YTQ3OTI3NGQ5NjZmZmQyNGU1ZWE5OTJmMmNk",
   "tracks": [
     {
       "added_at": "2023-01-25 01:27:39",
@@ -415,7 +415,7 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "PATCHWERK (with Two Feet)",
+        "name": "PATCHWERK",
         "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
       },
       "artists": [
@@ -429,7 +429,7 @@
         }
       ],
       "duration_ms": 141591,
-      "name": "PATCHWERK (with Two Feet)",
+      "name": "PATCHWERK",
       "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
     },
     {
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "Mx. Sinister",
+        "url": "https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC"
+      },
+      "artists": [
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 179956,
+      "name": "Mx. Sinister",
+      "url": "https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "GAY 4 ME (feat. Lauren Sanderson)",
         "url": "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Mx. Sinister",
-        "url": "https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        }
-      ],
-      "duration_ms": 179956,
-      "name": "Mx. Sinister",
-      "url": "https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM"
     },
     {
       "added_at": "2022-11-30 17:04:55",
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
     },
     {
-      "added_at": "2023-03-09 01:02:11",
+      "added_at": "2023-03-10 01:13:04",
       "album": {
         "name": "deadly ever after",
         "url": "https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi"
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
+        "name": "The Atlas Underground Fire",
+        "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Hold The Line (feat. grandson)",
+      "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "The Atlas Underground Fire",
-        "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Hold The Line (feat. grandson)",
-      "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Drinking with Cupid",
-        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Drinking with Cupid",
-      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "HOUNDIN PT. II",
         "url": "https://open.spotify.com/album/5fhi8FFl90FTxFJVfdY7pf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194887,
       "name": "HOUNDIN PT. II",
       "url": "https://open.spotify.com/track/1tBTGM9KtbCZvt6EPXWGrP"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Drinking with Cupid",
+        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Drinking with Cupid",
+      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 183127,
       "name": "Feel Real Pretty",
       "url": "https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "I Like to Party",
+      "url": "https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 213995,
       "name": "Oh No!!! (from The Suicide Squad)",
       "url": "https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "I Like to Party",
-      "url": "https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "NAILS (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "NAILS (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "NAILS (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "NAILS (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
         "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 171587,
       "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
       "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Heaven Angel",
         "url": "https://open.spotify.com/album/5ePCOPPdPHI3cka5oXzoDh"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Back In My Head Again",
-        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
-      },
-      "artists": [
-        {
-          "name": "Levi Evans",
-          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Back In My Head Again",
-      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 131440,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Back In My Head Again",
+        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
+      },
+      "artists": [
+        {
+          "name": "Levi Evans",
+          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Back In My Head Again",
+      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
     },
     {
       "added_at": "2022-11-25 05:00:00",

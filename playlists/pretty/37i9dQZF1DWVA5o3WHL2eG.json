@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24532,
+  "num_followers": 24692,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDk4ODY4MzExMTAzOGE2MDk3Nzk2NjAxNzdmNmUxYzMx",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDI2NzhkNjNjOThhOTZiYzA4NzJhNzdmNTQwYTgzY2Rm",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "SOUL TO KEEP",
-        "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 420408,
-      "name": "SOUL TO KEEP",
-      "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 185951,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "SOUL TO KEEP",
+        "url": "https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 420408,
+      "name": "SOUL TO KEEP",
+      "url": "https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Echt",
-        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
-      },
-      "artists": [
-        {
-          "name": "Phela",
-          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "Echt",
-      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Echt",
+        "url": "https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde"
+      },
+      "artists": [
+        {
+          "name": "Phela",
+          "url": "https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "Echt",
+      "url": "https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Running Round",
         "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 211034,
       "name": "Running Round",
       "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Halluzination",
-        "url": "https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO"
-      },
-      "artists": [
-        {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
-        }
-      ],
-      "duration_ms": 370750,
-      "name": "Halluzination",
-      "url": "https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Halluzination",
+        "url": "https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        }
+      ],
+      "duration_ms": 370750,
+      "name": "Halluzination",
+      "url": "https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Oceanflower",
         "url": "https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Sophie Lindinger",
-        "url": "https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Lindinger",
-          "url": "https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g"
-        }
-      ],
-      "duration_ms": 246469,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "magnetic wave",
         "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
       },
@@ -591,54 +575,6 @@
       "duration_ms": 224155,
       "name": "magnetic wave",
       "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Therapies",
-        "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
-      },
-      "artists": [
-        {
-          "name": "Maria Gold",
-          "url": "https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K"
-        }
-      ],
-      "duration_ms": 189909,
-      "name": "Therapies",
-      "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "AN DEN ALPTRAUM",
-        "url": "https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Brandi",
-          "url": "https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "DIE LETZTE BR\u00dcCKE",
-      "url": "https://open.spotify.com/track/79K4Ca69oIZpWlRjpr28Xc"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00ebl",
-          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -659,18 +595,82 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Self Portrait No. 1",
-        "url": "https://open.spotify.com/album/5BZHMEPhbU6eRpKLCJboF9"
+        "name": "Sophie Lindinger",
+        "url": "https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G"
       },
       "artists": [
         {
-          "name": "ANIKA",
-          "url": "https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg"
+          "name": "Sophie Lindinger",
+          "url": "https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g"
         }
       ],
-      "duration_ms": 183673,
-      "name": "Blick",
-      "url": "https://open.spotify.com/track/4ezrW9t7zRdIPPmlcIvKyj"
+      "duration_ms": 246469,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "AN DEN ALPTRAUM",
+        "url": "https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Brandi",
+          "url": "https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "DIE LETZTE BR\u00dcCKE",
+      "url": "https://open.spotify.com/track/79K4Ca69oIZpWlRjpr28Xc"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Therapies",
+        "url": "https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5"
+      },
+      "artists": [
+        {
+          "name": "Maria Gold",
+          "url": "https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K"
+        }
+      ],
+      "duration_ms": 189909,
+      "name": "Therapies",
+      "url": "https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00ebl",
+          "url": "https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "FUTURE KID",
+        "url": "https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA"
+      },
+      "artists": [
+        {
+          "name": "UMME BLOCK",
+          "url": "https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "FUTURE KID",
+      "url": "https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "FUTURE KID",
-        "url": "https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA"
+        "name": "Self Portrait No. 1",
+        "url": "https://open.spotify.com/album/5BZHMEPhbU6eRpKLCJboF9"
       },
       "artists": [
         {
-          "name": "UMME BLOCK",
-          "url": "https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk"
+          "name": "ANIKA",
+          "url": "https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg"
         }
       ],
-      "duration_ms": 219293,
-      "name": "FUTURE KID",
-      "url": "https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun"
+      "duration_ms": 183673,
+      "name": "Blick",
+      "url": "https://open.spotify.com/track/4ezrW9t7zRdIPPmlcIvKyj"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
+      },
+      "artists": [
+        {
+          "name": "AINIE",
+          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Velvet Blue",
         "url": "https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 185038,
       "name": "Lampenfieber",
       "url": "https://open.spotify.com/track/4N50G190dPvI2S9ISPK6jn"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
-      },
-      "artists": [
-        {
-          "name": "AINIE",
-          "url": "https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
     },
     {
       "added_at": "2023-03-06 09:38:59",

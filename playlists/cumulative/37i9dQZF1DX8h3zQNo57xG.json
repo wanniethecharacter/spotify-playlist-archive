@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Delta Dreams 3Hz",
+        "url": "https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH"
+      },
+      "artists": [
+        {
+          "name": "Mantramind",
+          "url": "https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Delta eight",
+      "url": "https://open.spotify.com/track/6XoysFzMzqAo4q6biLmkHu"
+    },
+    {
+      "album": {
         "name": "Binaural Equinox",
         "url": "https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o"
       },
@@ -1121,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Binaural Flow",
+        "url": "https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz"
+      },
+      "artists": [
+        {
+          "name": "Sleeposines",
+          "url": "https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Delta Sleep Binaural 80Hz - 81.2Hz",
+      "url": "https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf"
+    },
+    {
+      "album": {
         "name": "Textures",
         "url": "https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk"
       },
@@ -1136,6 +1172,24 @@
       "duration_ms": 207600,
       "name": "Delta Texture",
       "url": "https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn"
+    },
+    {
+      "album": {
+        "name": "Delta Dreams 3Hz",
+        "url": "https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH"
+      },
+      "artists": [
+        {
+          "name": "Mantramind",
+          "url": "https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Delta thirteen",
+      "url": "https://open.spotify.com/track/2vjmwTBYmFcTCiJdH337nV"
     },
     {
       "album": {

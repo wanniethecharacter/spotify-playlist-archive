@@ -4,7 +4,7 @@
 
 > The Most Popular Ambient Tracks in 2022\. Kaitlyn Aurelia Smith on cover.
 
-101 songs - 8 hr 51 min
+102 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Heart Cave \- Extended Version](https://open.spotify.com/track/1HE4xVPnzWKc5r08wQjUeR) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Heart Cave \(Extended Version\)](https://open.spotify.com/album/3WKv3GqU0DUJ0neKe5Os7S) | 11:12 | 2023-01-01 |  |
 | [I Remember You Like the Best Song](https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7) | [Anenon](https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI) | [I Remember You Like the Best Song](https://open.spotify.com/album/3eWjndQQuRh7iRJpPPqifL) | 17:57 | 2023-01-01 |  |
 | [Intorno allo schermo](https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Fermarsi](https://open.spotify.com/album/0NH403g4GLkOnVeLf3yorf) | 20:54 | 2023-01-01 |  |
-| [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2023-01-01 |  |
+| [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [k o : d a](https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2) | 3:58 | 2023-01-01 |  |
+| [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2023-01-01 | 2023-03-10 |
 | [Knot of Spirit \- Synth Version](https://open.spotify.com/track/3oJPt3XTWFAfISXhJlSI7H) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 10:19 | 2023-01-01 |  |
 | [Lago Escondido](https://open.spotify.com/track/3fRWrocjpBF5PjXnn7n25g) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Música para los Jameos del Agua \(Edición Especial 25 Años\)](https://open.spotify.com/album/5hs9v4U6FglqYof3zd0zQK) | 3:56 | 2023-01-01 |  |
 | [light—the lightworker’s lament](https://open.spotify.com/track/2eIfwGaVlemywEmFrGdgpd) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [the storm before the calm](https://open.spotify.com/album/5mXNbzv8w9yL7yT4fcls2r) | 5:28 | 2023-01-01 |  |

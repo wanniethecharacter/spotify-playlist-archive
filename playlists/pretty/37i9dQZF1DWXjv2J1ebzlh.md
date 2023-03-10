@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,168 likes - 1,176 songs - 3 day 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,228 likes - 1,176 songs - 3 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -380,7 +380,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 370 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 |
 | 371 | [Inssegh Inssegh](https://open.spotify.com/track/5fEjp2F0Sqr9fMuLSaDqz0) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:48 |
 | 372 | [Chant To Mother Earth](https://open.spotify.com/track/1Ncq5yn2zyL6Nflua7JtTj) | [BLO](https://open.spotify.com/artist/6Occ6ZTaLDgVUjzpQMkTTq) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:06 |
-| 373 | [Jouvert Barrio](https://open.spotify.com/track/1e9jZFNmzdHXoOUejYMa8Q) | [The Roaring Lion](https://open.spotify.com/artist/0X6z1iGQlC2n3hnAHBrQwN) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:55 |
+| 373 | [Jouvert Barrio](https://open.spotify.com/track/0TptVx34mCh71utmgZRJt7) | [The Roaring Lion](https://open.spotify.com/artist/73YUC41IsxZqJMQeMxrXM9) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 374 | [Alborada Guajira](https://open.spotify.com/track/1bYSzNVXK2iZoSbw64xIyh) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:45 |
 | 375 | [Quimey Neuquen](https://open.spotify.com/track/3oRaLG3ZDqXNN4BXhBClrY) | [Jose Larralde](https://open.spotify.com/artist/7va6FT607YxAj4HtoXVEIh) | [Herencia: Canta Jose Larralde](https://open.spotify.com/album/4xMYMRC4GNp6pWsRjeoAyD) | 2:53 |
 | 376 | [Rats in the Ghetto](https://open.spotify.com/track/0aBhELAhGfn4enNP5AEUCJ) | [Boris Gardiner](https://open.spotify.com/artist/2fV23bDf2vC1f49t5j6wtW) | [Every Nigger is a Star](https://open.spotify.com/album/69tXZGhSCMvibm1QmGenRR) | 3:09 |
@@ -1185,4 +1185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1175 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1176 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMGZlZDM4NmQ4M2Q4NmIxMmI5MjA4OGZhNjIyZDA3NTI5`
+Snapshot ID: `MTY3NzQ4NjYwMCwwMDAwMDAwMGY4ZmYxMjdjNWZhMDAzNWFiYjI3YjU2NjFmYzE3ZWNh`

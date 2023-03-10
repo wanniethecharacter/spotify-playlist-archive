@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 36303,
+  "num_followers": 36345,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMGQ4NDY0MDFiY2ZjOThjZjFhMTc3YjU0NzliMDllMWVj",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDRhMzY0OTc1MTY1ZGM4NWY0YWFjZTE3ZThlOTNlMmNj",
   "tracks": [
     {
       "added_at": "2023-02-03 05:01:00",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Flowerbed",
+        "url": "https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1"
+      },
+      "artists": [
+        {
+          "name": "Waldo's Gift",
+          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
+        }
+      ],
+      "duration_ms": 266535,
+      "name": "Flowerbed",
+      "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Extraction",
@@ -213,22 +229,6 @@
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Sinopsis",
-        "url": "https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld"
-      },
-      "artists": [
-        {
-          "name": "Arthur Liory",
-          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
-        }
-      ],
-      "duration_ms": 132864,
-      "name": "Sinopsis",
-      "url": "https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "Apostrophe(')",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Flowerbed",
-        "url": "https://open.spotify.com/album/3DsReWnVOFEXkLNmAlHJr1"
+        "name": "Sinopsis",
+        "url": "https://open.spotify.com/album/2DOhAf4SNJeVCQgohwiJld"
       },
       "artists": [
         {
-          "name": "Waldo's Gift",
-          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
+          "name": "Arthur Liory",
+          "url": "https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK"
         }
       ],
-      "duration_ms": 266535,
-      "name": "Flowerbed",
-      "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
+      "duration_ms": 132864,
+      "name": "Sinopsis",
+      "url": "https://open.spotify.com/track/5kGY5RULvvBHr2Y1PpATa7"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -451,26 +451,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Love Devotion Surrender",
-        "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 568893,
-      "name": "The Life Divine",
-      "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "The Inner Mounting Flame",
         "url": "https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 375600,
       "name": "Vital Transformation (with John McLaughlin) - Remastered",
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Love Devotion Surrender",
+        "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 568893,
+      "name": "The Life Divine",
+      "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Ultima",
@@ -615,6 +599,22 @@
       "duration_ms": 269920,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
+      "added_at": "2021-04-16 05:00:00",
+      "album": {
+        "name": "Meteor Stream",
+        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 345281,
+      "name": "Meteor Stream",
+      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
+    },
+    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Melodic Trance",
@@ -703,22 +719,6 @@
       "duration_ms": 295658,
       "name": "Mezza Luna",
       "url": "https://open.spotify.com/track/4rHvDCZqfrm3yMMOKMwXft"
-    },
-    {
-      "added_at": "2021-04-16 05:00:00",
-      "album": {
-        "name": "Meteor Stream",
-        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 345281,
-      "name": "Meteor Stream",
-      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/2I1wX2G3joWUVYoOvB6MN9"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
-      },
-      "artists": [
-        {
-          "name": "Kneebody",
-          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
-        }
-      ],
-      "duration_ms": 280666,
-      "name": "Lowell",
-      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Caliber",
@@ -797,6 +781,22 @@
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 280666,
+      "name": "Lowell",
+      "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
+    },
+    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Rubicon",
@@ -811,6 +811,22 @@
       "duration_ms": 181708,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
+      },
+      "artists": [
+        {
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -831,38 +847,6 @@
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Lingua Franca",
-        "url": "https://open.spotify.com/album/5wbHJdvTGYZDKSiGa21kzK"
-      },
-      "artists": [
-        {
-          "name": "T.R.A.M",
-          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "Consider Yourself Judged",
-      "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -891,6 +875,22 @@
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 47414,
+  "num_followers": 47522,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMGVlMjE2YzIwNTgwMGVhMzExNzMwNDQ4ZDA3YWIwYmIy",
+  "snapshot_id": "MTY3NzA5MzQ4MiwwMDAwMDAwMGIwMmY1YzUxZGE2ZGQ5ZDJhYjU2ZDA4YTljMzQyOTEy",
   "tracks": [
     {
       "added_at": "2023-02-22 19:18:02",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
-        "name": "Horsey",
-        "url": "https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B"
-      },
-      "artists": [
-        {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 137206,
-      "name": "Horsey",
-      "url": "https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 178666,
       "name": "FMU (feat. Rico Nasty & Boys Noize)",
       "url": "https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
+        "name": "Horsey",
+        "url": "https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 137206,
+      "name": "Horsey",
+      "url": "https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf"
     },
     {
       "added_at": "2023-02-22 19:18:02",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
-        "name": "Level up My Skills",
-        "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
-      },
-      "artists": [
-        {
-          "name": "Kiddy.Wav",
-          "url": "https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW"
-        },
-        {
-          "name": "YTP",
-          "url": "https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S"
-        }
-      ],
-      "duration_ms": 269793,
-      "name": "Grab Dat Ass All Night",
-      "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
         "name": "Let It All Out EP",
         "url": "https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 143833,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
+        "name": "Level up My Skills",
+        "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
+      },
+      "artists": [
+        {
+          "name": "Kiddy.Wav",
+          "url": "https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW"
+        },
+        {
+          "name": "YTP",
+          "url": "https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S"
+        }
+      ],
+      "duration_ms": 269793,
+      "name": "Grab Dat Ass All Night",
+      "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
     },
     {
       "added_at": "2023-02-22 19:18:02",
@@ -867,30 +867,6 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
-        "name": "What's the Word (Wax Wings Remix)",
-        "url": "https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO"
-      },
-      "artists": [
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "Proper Villains",
-          "url": "https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S"
-        },
-        {
-          "name": "Wax Wings",
-          "url": "https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3"
-        }
-      ],
-      "duration_ms": 209872,
-      "name": "What's the Word - Wax Wings Remix",
-      "url": "https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 234245,
       "name": "Hummer",
       "url": "https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
+        "name": "What's the Word (Wax Wings Remix)",
+        "url": "https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Proper Villains",
+          "url": "https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S"
+        },
+        {
+          "name": "Wax Wings",
+          "url": "https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3"
+        }
+      ],
+      "duration_ms": 209872,
+      "name": "What's the Word - Wax Wings Remix",
+      "url": "https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut"
     },
     {
       "added_at": "2023-02-22 19:18:02",

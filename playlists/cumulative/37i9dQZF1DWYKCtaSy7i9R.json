@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 250000,
       "name": "A Chit-Chat With Nature",
       "url": "https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY"
@@ -650,6 +650,24 @@
       "duration_ms": 188731,
       "name": "Soothing Morning Birds",
       "url": "https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x"
+    },
+    {
+      "album": {
+        "name": "Warmer Seasons",
+        "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
+      },
+      "artists": [
+        {
+          "name": "Herbird",
+          "url": "https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104389,
+      "name": "Spring Approaches",
+      "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
     },
     {
       "album": {

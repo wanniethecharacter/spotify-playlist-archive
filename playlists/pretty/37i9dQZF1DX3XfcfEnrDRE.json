@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 224175,
+  "num_followers": 224226,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDQ5NzNiZWVhMWUwNDhiMmRmODY1YjU4NjIzNmU5MGE3",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMGI5Y2M5Y2E1OGE3YzBlNjRiZDU2ZDQwNWE0MmNjYTAy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni"
-      },
-      "artists": [
-        {
-          "name": "JUDAH.",
-          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
-        },
-        {
-          "name": "Aodhan King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 325333,
-      "name": "Remember What It Cost",
-      "url": "https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/2g1SAILgSY5GB70zgYarni"
+      },
+      "artists": [
+        {
+          "name": "JUDAH.",
+          "url": "https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 325333,
+      "name": "Remember What It Cost",
+      "url": "https://open.spotify.com/track/6uamWfgHsS72Axi8Gpb95p"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
         }
       ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -815,18 +831,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -843,22 +859,6 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Stages Of A Breakdown",
-        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Raise Up",
-      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 205377,
       "name": "Future",
       "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Stages Of A Breakdown",
+        "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Raise Up",
+      "url": "https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202386,
       "name": "OLDER",
       "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Not So Sure",
-        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "We Won't Bow",
         "url": "https://open.spotify.com/album/536bwdqrKaKDLKH0LZgSfE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 172552,
       "name": "We Won't Bow",
       "url": "https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Not So Sure",
+        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Natural Killer",
-        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
-      },
-      "artists": [
-        {
-          "name": "Truslow",
-          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Fall On The Nation",
         "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+        "name": "Natural Killer",
+        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
       "artists": [
         {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+          "name": "Truslow",
+          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
         }
       ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+      "duration_ms": 224181,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1367,6 +1351,38 @@
       "duration_ms": 249495,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 110413,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Can't Stop My Heart From Singing",
+        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        },
+        {
+          "name": "Beau and Mercy Perkins",
+          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
+        }
+      ],
+      "duration_ms": 234925,
+      "name": "Can't Stop My Heart From Singing",
+      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Can't Stop My Heart From Singing",
-        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
-      },
-      "artists": [
-        {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
-        },
-        {
-          "name": "Beau and Mercy Perkins",
-          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
-        }
-      ],
-      "duration_ms": 234925,
-      "name": "Can't Stop My Heart From Singing",
-      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "How Much More",
+        "url": "https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "duration_ms": 212343,
+      "name": "How Much More",
+      "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Somebody You Knew",
         "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "How Much More",
-        "url": "https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET"
+        "name": "W O U N D E D H E A R T",
+        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
       },
       "artists": [
         {
-          "name": "Nick Herbert",
-          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
         }
       ],
-      "duration_ms": 212343,
-      "name": "How Much More",
-      "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
+      "duration_ms": 166186,
+      "name": "W O U N D E D H E A R T",
+      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 222922,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "W O U N D E D H E A R T",
-        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "W O U N D E D H E A R T",
-      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 412095,
+  "num_followers": 412674,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExODAyMSwwMDAwMDAwMGNlOTM3NWQ2ZDY3NGU5YzljMmM3NTZlOWRjNjAxMjAz",
+  "snapshot_id": "MTY3ODExODAyMSwwMDAwMDAwMGYxZTM3NGE3NmQ5OTIxMGFjYTA1NzdmNWNjNjk3NDhm",
   "tracks": [
     {
       "added_at": "2023-03-06 15:53:41",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
-        "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
-        "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
-    },
-    {
-      "added_at": "2023-03-06 15:53:41",
-      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 250973,
       "name": "Kyouran Hey Kids!!",
       "url": "https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm"
+    },
+    {
+      "added_at": "2023-03-06 15:53:41",
+      "album": {
+        "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
+        "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18"
     },
     {
       "added_at": "2023-03-06 15:53:41",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
-        "name": "\u9320\u5264",
-        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
-      },
-      "artists": [
-        {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "\u9320\u5264",
-      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
-    },
-    {
-      "added_at": "2023-03-06 15:53:41",
-      "album": {
         "name": "\u88f8\u306e\u52c7\u8005",
         "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
+        "name": "\u9320\u5264",
+        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "\u9320\u5264",
+      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
+    },
+    {
+      "added_at": "2023-03-06 15:53:41",
+      "album": {
         "name": "BLOODY STREAM",
         "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 261920,
       "name": "BLOODY STREAM",
       "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+    },
+    {
+      "added_at": "2023-03-06 15:53:41",
+      "album": {
+        "name": "Boku no Sensou",
+        "url": "https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Boku no Sensou",
+      "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
     },
     {
       "added_at": "2023-03-06 15:53:41",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
-        "name": "Boku no Sensou",
-        "url": "https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH"
-      },
-      "artists": [
-        {
-          "name": "Shinsei Kamattechan",
-          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
-        }
-      ],
-      "duration_ms": 280466,
-      "name": "Boku no Sensou",
-      "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
-    },
-    {
-      "added_at": "2023-03-06 15:53:41",
-      "album": {
         "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
         "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
       },
@@ -727,6 +727,26 @@
       "duration_ms": 295575,
       "name": "il vento d'oro",
       "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
+    },
+    {
+      "added_at": "2023-03-06 15:53:41",
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2023-03-06 15:53:41",
@@ -763,26 +783,6 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
-        "name": "Suzume (Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
-    },
-    {
-      "added_at": "2023-03-06 15:53:41",
-      "album": {
         "name": "MUKANJYO",
         "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-03-06 15:53:41",
       "album": {
-        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
-        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
       },
       "artists": [
         {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 89563,
-      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
-      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     }
   ],
   "unique_name": "Anime On Replay",

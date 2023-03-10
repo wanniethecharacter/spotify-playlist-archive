@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "\ud83c\udfb8 canzoni da gridare e in cover nessa barrett \ud83c\udfb8 ",
+  "description": "\ud83c\udfb8 canzoni da gridare e in cover gayle! \ud83c\udfb8 ",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "E Tutto Il Mondo Fuori",
+        "url": "https://open.spotify.com/album/4lbUGFuBRU8bERpmAtBBfB"
+      },
+      "artists": [
+        {
+          "name": "Aiza e Mati",
+          "url": "https://open.spotify.com/artist/55gLQek3jQJDfijp4Qi2m7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "CHE BELLA MUSICA",
+      "url": "https://open.spotify.com/track/6BTpzrfQKyU43oaHMKGdkJ"
+    },
+    {
+      "album": {
         "name": "Che ce ne fotte",
         "url": "https://open.spotify.com/album/513N1be9b9WpVgTT9crAet"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 124896,
       "name": "Cresci bambino",
       "url": "https://open.spotify.com/track/6IEdKp6RuYTMFp78XrbKUG"
@@ -2001,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "DORMI",
+        "url": "https://open.spotify.com/album/1zXkcyapz8q9tJlChXsRrW"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        },
+        {
+          "name": "Cripo",
+          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "DORMI",
+      "url": "https://open.spotify.com/track/4C86xN7IPzill0pZAmyQjB"
+    },
+    {
+      "album": {
         "name": "Dove Ci Siamo Lasciati",
         "url": "https://open.spotify.com/album/2xGo26gPbswyPOYdNTuw5P"
       },
@@ -2179,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
         "name": "EVIDENTE",
         "url": "https://open.spotify.com/album/2jqvnsKvQq5jcheP8NVsSp"
       },
@@ -2288,7 +2346,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 163894,
       "name": "Figli dei fiori",
       "url": "https://open.spotify.com/track/6ajwCssUxPBAZzRAgdtpPf"
@@ -4377,6 +4435,42 @@
     },
     {
       "album": {
+        "name": "MI SENTO MALE",
+        "url": "https://open.spotify.com/album/1HLpNPvn8mjlCAOT2xaZub"
+      },
+      "artists": [
+        {
+          "name": "Jayred",
+          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "MI SENTO MALE",
+      "url": "https://open.spotify.com/track/3QKPIpTCyOR0ruOt8HHu9j"
+    },
+    {
+      "album": {
+        "name": "SHOEFITI 2",
+        "url": "https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0ZNVOeu0n0XPdSkqRCfk6w"
       },
@@ -5989,6 +6083,28 @@
     },
     {
       "album": {
+        "name": "SANGUE! (feat. Decrow)",
+        "url": "https://open.spotify.com/album/7wNlijjkbSf8wDvdmtmT27"
+      },
+      "artists": [
+        {
+          "name": "Frasca",
+          "url": "https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ"
+        },
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "SANGUE! (feat. Decrow)",
+      "url": "https://open.spotify.com/track/76vRLaJDfLGmb4INhYsZSO"
+    },
+    {
+      "album": {
         "name": "WORDS OF DOGTOWN (Deluxe)",
         "url": "https://open.spotify.com/album/1Xsz3QEUeU5lnpyUZZnK0P"
       },
@@ -7344,7 +7460,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 187696,
       "name": "The News",
       "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
@@ -7766,7 +7882,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 147279,
       "name": "Un Bacio",
       "url": "https://open.spotify.com/track/0aKVAk3tDuvtENyQJJTIcm"
@@ -7948,6 +8064,24 @@
       "duration_ms": 190093,
       "name": "Vaffanculo",
       "url": "https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS"
+    },
+    {
+      "album": {
+        "name": "VANS",
+        "url": "https://open.spotify.com/album/4veFEgSefqEiXmoDlMjDbg"
+      },
+      "artists": [
+        {
+          "name": "KENAI",
+          "url": "https://open.spotify.com/artist/2000Bt7BSRLXTB6RN3kmcZ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153548,
+      "name": "VANS",
+      "url": "https://open.spotify.com/track/3FHWUwkxy8LRo4BAdNRgPP"
     },
     {
       "album": {

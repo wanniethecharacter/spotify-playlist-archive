@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph?si=RA0yX1ZOSaunDLHgzBtmeg\">Tanaka",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt?si=BSTQeJSaTQWex9OZy0yrCg\">Majozi",
   "name": "SAlt",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 77991,
       "name": "All I ask for",
       "url": "https://open.spotify.com/track/7cnK5RmaVkizAJZiJ772T4"
+    },
+    {
+      "album": {
+        "name": "ALL I GOT",
+        "url": "https://open.spotify.com/album/2kPLJYUX6MoKvRLXhNTue2"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194167,
+      "name": "ALL I GOT",
+      "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
     },
     {
       "album": {
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 191560,
       "name": "Can I Go Away",
       "url": "https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB"
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Face to Face",
+        "url": "https://open.spotify.com/album/4ObIsa7jUljBKrKJj4unwQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Mack",
+          "url": "https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/4j30TGyE29sSpR1KVAqbCt"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR"
       },
@@ -1104,6 +1140,24 @@
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "album": {
+        "name": "Finding Paradise",
+        "url": "https://open.spotify.com/album/3vjQseBx4vWN7iHLRHHOtg"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215722,
+      "name": "Finding Paradise",
+      "url": "https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB"
     },
     {
       "album": {
@@ -1262,7 +1316,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 215171,
       "name": "Happier - Radio Remix",
       "url": "https://open.spotify.com/track/2dM434jTJ5oC51IFViMvv5"
@@ -1446,7 +1500,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 169306,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
@@ -1584,7 +1638,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 196522,
       "name": "I Don't Miss You (Except For When I Do)",
       "url": "https://open.spotify.com/track/0t0iEf8iXrg0OQeqO2jm9C"
@@ -1858,7 +1912,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 273075,
       "name": "Leave the City",
       "url": "https://open.spotify.com/track/5SZDK5alQmVWzWgvLVoy8u"
@@ -1952,6 +2006,24 @@
       "duration_ms": 73112,
       "name": "Lift Me Higher",
       "url": "https://open.spotify.com/track/3wSENVw8rn7X9nIJ7AzwKp"
+    },
+    {
+      "album": {
+        "name": "Like a Brother",
+        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Like a Brother",
+      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
     },
     {
       "album": {
@@ -2101,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Meet Me There",
+        "url": "https://open.spotify.com/album/50dJxbTYQX7VCUBMEsrlrE"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125187,
+      "name": "Meet Me There",
+      "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "album": {
         "name": "Million Miles",
         "url": "https://open.spotify.com/album/4gcpeWIcQDeumEz2pskRpA"
       },
@@ -2242,7 +2332,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 210720,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC"
@@ -2705,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Run Run Run",
+        "url": "https://open.spotify.com/album/3e8bVEmirbDxQyjFwnRL7t"
+      },
+      "artists": [
+        {
+          "name": "Jamie-Lee Sexton",
+          "url": "https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/73Qj3FlA796dDuekSjPu1V"
+    },
+    {
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -2716,10 +2824,46 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
+    },
+    {
+      "album": {
+        "name": "Safe In The Sound",
+        "url": "https://open.spotify.com/album/3JqGxFavm15jJRLmePzGve"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Safe In The Sound",
+      "url": "https://open.spotify.com/track/5o7Kgx1yYAV5mVTAlKToCS"
+    },
+    {
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo"
+      },
+      "artists": [
+        {
+          "name": "gigi",
+          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273935,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
     },
     {
       "album": {
@@ -2777,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
+    },
+    {
+      "album": {
         "name": "Shooting Stars",
         "url": "https://open.spotify.com/album/6aT6t9qHQEJirp6hlWnDlQ"
       },
@@ -2828,7 +2990,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
@@ -2926,10 +3088,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 173853,
       "name": "Somewhere In The Hills",
       "url": "https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t"
+    },
+    {
+      "album": {
+        "name": "Standing In Our Way (Edit)",
+        "url": "https://open.spotify.com/album/4B7BKQ4tJ04f8avFQqek4A"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205847,
+      "name": "Standing In Our Way - Edit",
+      "url": "https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ"
     },
     {
       "album": {
@@ -2948,6 +3128,28 @@
       "duration_ms": 126005,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"
+    },
+    {
+      "album": {
+        "name": "Synthetic Hearts",
+        "url": "https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Stay as You Are",
+      "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
     },
     {
       "album": {
@@ -3666,7 +3868,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 186456,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/1XTdnp2dFXtqZsVcCvR4vU"
@@ -3800,7 +4002,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 184746,
       "name": "Zibonakalise - Radio Edit",
       "url": "https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA"

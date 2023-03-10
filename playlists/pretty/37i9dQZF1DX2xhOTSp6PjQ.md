@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9?si=i7uGfhIiQqSACQVc0TcL0w">Imithente</a>
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=6XQ\_wVMCQxO0POZXQzHvXQ">Nomfondo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,871 likes - 65 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,923 likes - 59 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 2 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 |
 | 3 | [Asifani siyafanelana](https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:20 |
 | 4 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 |
-| 5 | [Akabuye](https://open.spotify.com/track/6eAvjdlcZ6t5K9lvslRv1D) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 5:28 |
-| 6 | [Ithuba](https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Ithuba](https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ) | 4:23 |
-| 7 | [Bafuna Sihlukane](https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [S'qhuba Izinkomo](https://open.spotify.com/album/3ivjLXlzcdqXFspHzhyCm2) | 4:26 |
-| 8 | [BayangiSabawela](https://open.spotify.com/track/3quA7mtdIg05CfJ4f3beww) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Incane Lembobo](https://open.spotify.com/album/0BDVeJR2FEfPjJLpgg5nbP) | 4:14 |
+| 5 | [Ithuba](https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Ithuba](https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ) | 4:23 |
+| 6 | [Bafuna Sihlukane](https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [S'qhuba Izinkomo](https://open.spotify.com/album/3ivjLXlzcdqXFspHzhyCm2) | 4:26 |
+| 7 | [BayangiSabawela](https://open.spotify.com/track/3quA7mtdIg05CfJ4f3beww) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Incane Lembobo](https://open.spotify.com/album/0BDVeJR2FEfPjJLpgg5nbP) | 4:14 |
+| 8 | [Mntanomuntu](https://open.spotify.com/track/2UMJhyDNyBn9rJc2fgw6GJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Awuyi Lapho](https://open.spotify.com/album/5xiLbMeDPMlvXSZKhVSfEh) | 4:54 |
 | 9 | [Sanibonani](https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Phendula](https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2) | 4:21 |
-| 10 | [Mntanomuntu](https://open.spotify.com/track/2UMJhyDNyBn9rJc2fgw6GJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Awuyi Lapho](https://open.spotify.com/album/5xiLbMeDPMlvXSZKhVSfEh) | 4:54 |
+| 10 | [Akabuye](https://open.spotify.com/track/6eAvjdlcZ6t5K9lvslRv1D) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 5:28 |
 | 11 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 | 12 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 |
 | 13 | [Wawuthembeni](https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Uboya Enkomeni](https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh) | 5:07 |
@@ -62,16 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 52 | [Masiyembo](https://open.spotify.com/track/0G4iC2UTqq0dE65KRqqhC9) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U), [Sihle Kona](https://open.spotify.com/artist/0UJaLaZkvRM9B91fxW4GDa) | [Kuyabongwa](https://open.spotify.com/album/5ZEowNb3KsMZfmMCnOW8b8) | 3:10 |
 | 53 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 |
 | 54 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 |
-| 55 | [Imbizo](https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce) | 3:58 |
-| 56 | [Usale Kanjani](https://open.spotify.com/track/1Na1tKjOtgF6Wzu1JlFSgj) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Inganekwane](https://open.spotify.com/album/4dgnNUTAl7mXAEDye2IooD) | 5:18 |
-| 57 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 |
-| 58 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 |
-| 59 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 |
-| 60 | [Angilazi Icala](https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Sthanda Ifamily](https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8) | 5:43 |
-| 61 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 |
-| 62 | [Onke Lamadoda](https://open.spotify.com/track/49x1RPNz0y4dhKxRVwTlRT) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 |
-| 63 | [Ekhenana](https://open.spotify.com/track/4VqeQHfo2ubS5tqq5wmaOE) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [Umaqondana](https://open.spotify.com/album/5CSphfloiCWOA2s35VsNwp) | 4:49 |
-| 64 | [Inkomo Yomqoyiso](https://open.spotify.com/track/0duUpsKlfu6RNHWH5q0diF) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Amagupta](https://open.spotify.com/album/4faFI6JoeU4nCK89d8Ul0b) | 4:56 |
-| 65 | [Njalo](https://open.spotify.com/track/7HKU5vab9h0HpPtYbRUS4X) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Ziyangiluma Izinja](https://open.spotify.com/album/1NEqGFT5ZfRJc5TwGffesn) | 4:17 |
+| 55 | [Usale Kanjani](https://open.spotify.com/track/1Na1tKjOtgF6Wzu1JlFSgj) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Inganekwane](https://open.spotify.com/album/4dgnNUTAl7mXAEDye2IooD) | 5:18 |
+| 56 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 |
+| 57 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 |
+| 58 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 |
+| 59 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 |
 
-Snapshot ID: `MTY3NzE4OTU0MCwwMDAwMDAwMDU2ZGJkZWE4M2RhOTk0N2RmZDI1MDU3OWQ1MDFhMTkw`
+Snapshot ID: `MTY3ODM5OTE0MCwwMDAwMDAwMDlhMTAxODU2Yjc2MWI1MmYyZjZiMGRlZjM5NTAwYjlj`

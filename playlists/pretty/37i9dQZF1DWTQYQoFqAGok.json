@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 54772,
+  "num_followers": 54793,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMGI3OTA3MThhZWYyZWQ1ZTA3NGY4Y2FkZmQ4N2FkMmVk",
+  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMGM1MWZjZDg4NWVmYzM5MDJmYmU5NjFkYzU3NTFlMGRi",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -207,6 +191,22 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+        "name": "Nos Toca",
+        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
       "artists": [
         {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
+          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
         }
       ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+      "duration_ms": 353320,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -411,6 +411,38 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -435,22 +467,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nos Toca",
-        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
-          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Mariachi",
         "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Frente A Frente: Mexican Jazz Jam",
+        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Safo (La Sacerdotiza Del Amor)",
+      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Jazz",
         "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -655,6 +639,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
+      },
+      "artists": [
+        {
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -691,18 +707,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
       "artists": [
         {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
         }
       ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -755,30 +779,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
       },
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 485054,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Sacbe: Sacbe (Complete)",
@@ -849,32 +833,36 @@
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-08-16 16:23:25",
       "album": {
-        "name": "Estaciones",
-        "url": "https://open.spotify.com/album/6ktr5l29j7H5yr6deaHJTu"
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
       },
       "artists": [
         {
-          "name": "Emmanuel Mora",
-          "url": "https://open.spotify.com/artist/6iz12BR5JSoaySVJO3P0qm"
-        },
-        {
-          "name": "Alejandro Mora",
-          "url": "https://open.spotify.com/artist/23YqoCb961qdeNiWEDxU5h"
-        },
-        {
-          "name": "Rodrigo Mora",
-          "url": "https://open.spotify.com/artist/3owqtFutm6ZMbZZHBpLZj9"
-        },
-        {
-          "name": "Tirso Buenfil",
-          "url": "https://open.spotify.com/artist/7o1EZ1rNSscAuLSw1fxraV"
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
         }
       ],
-      "duration_ms": 350013,
-      "name": "Flor Latina",
-      "url": "https://open.spotify.com/track/3zjRptZXqA1uhBwUkMl38W"
+      "duration_ms": 485054,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
       "added_at": "2021-07-28 16:44:28",

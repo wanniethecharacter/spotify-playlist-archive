@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 324716,
+  "num_followers": 325178,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDcyNWFlYWYyNDRmYzk1MWIxOWMwNDVkMzQwZDZmZTY1",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDU5MGYzN2FmY2E1ZWVkM2M0Mjc5NGJhZDA4Mjg2MmRm",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -687,22 +687,6 @@
       "duration_ms": 224200,
       "name": "The Sound Of San Francisco - Progressive Album Mix",
       "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Evacuate The Dancefloor - Radio Edit",
-      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -755,22 +739,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "A funk odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 224493,
       "name": "Love Foolosophy - Radio Edit",
       "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Evacuate The Dancefloor - Radio Edit",
+      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "See Clear Now",
+        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Wearing My Rolex - Radio Edit",
+      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "It Just Won't Do",
         "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "See Clear Now",
-        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
-      },
-      "artists": [
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Wearing My Rolex - Radio Edit",
-      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Ready For The Weekend",
         "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Just a Little More Love",
-        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
+      "duration_ms": 184586,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
       "artists": [
         {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Gro\u00dfstadtm\u00e4rchen",
         "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 340560,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH"
-      },
-      "artists": [
-        {
-          "name": "Sidney Samson",
-          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
-        }
-      ],
-      "duration_ms": 145764,
-      "name": "Riverside - Radio Mix",
-      "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Bad Romance Remixes",
         "url": "https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY"
       },
@@ -1695,34 +1679,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
         }
       ],
-      "duration_ms": 440266,
-      "name": "Becoming Insane",
-      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "20 Years of Hardcore (Remastered)",
-        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
+      "duration_ms": 145764,
+      "name": "Riverside - Radio Mix",
+      "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1743,6 +1711,38 @@
       "duration_ms": 203730,
       "name": "Warp 1.9 (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "20 Years of Hardcore (Remastered)",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 440266,
+      "name": "Becoming Insane",
+      "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
     },
     {
       "added_at": "2021-04-29 18:40:15",

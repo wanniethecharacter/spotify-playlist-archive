@@ -2,9 +2,9 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Libianca
+> Tropical jams to catch a vibe and whine to\. Cover: Bayanni
 
-234 songs - 12 hr 15 min
+236 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-07-18 |  |
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-02-23 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2022-07-18 | 2023-02-03 |
+| [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-09 |  |
 | [Bounce](https://open.spotify.com/track/02FFVT1DXOxvAiKYQ0EWob) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bounce](https://open.spotify.com/album/2N4OkjYnMQ5zfY8QiulKmm) | 2:47 | 2022-07-18 | 2022-08-26 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-08-25 | 2022-09-09 |
 | [Bullseye](https://open.spotify.com/track/0h8afoq0Pmpyc1GXdKT34v) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [3 Nights in Amsterdam \(Mixtape\)](https://open.spotify.com/album/5kFVEBCPeLmMa405wkXLMw) | 2:41 | 2022-07-18 | 2022-08-12 |
@@ -181,6 +182,7 @@
 | [Rockstar](https://open.spotify.com/track/6foox9Ac3UrBD6oJgWiZiL) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Rockstar](https://open.spotify.com/album/1aBTjgHgBbLIjkLjFsIShE) | 2:40 | 2023-01-19 |  |
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-08 | 2023-02-03 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-20 | 2023-01-13 |
+| [Running](https://open.spotify.com/track/5CHCDAxj4UPBR44hV2eDvt) | [DANNY LANKE](https://open.spotify.com/artist/72jomA4QZXljUKTgZrnOSN) | [Running](https://open.spotify.com/album/7rM3bacCaydjpENsDr5CWu) | 3:01 | 2023-03-09 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-01-12 |  |
 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 | 2022-07-18 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-18 | 2023-01-13 |

@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA.
 
-111 songs - 6 hr 37 min
+112 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,12 +50,13 @@
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-22 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2022-09-02 |  |
 | [Intuitively](https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Intuitively](https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB) | 2:57 | 2023-01-09 |  |
-| [Kali Yerg](https://open.spotify.com/track/5dC2dX17foqN5IjdFtOaGU) | [Voice of Apricot](https://open.spotify.com/artist/77QzOw4j6oaucAF3XLwUKr) | [Kali Yerg](https://open.spotify.com/album/6GlO6diN2U587KHDUpMbBf) | 3:04 | 2022-09-02 |  |
+| [Kali Yerg](https://open.spotify.com/track/5dC2dX17foqN5IjdFtOaGU) | [Voice of Apricot](https://open.spotify.com/artist/77QzOw4j6oaucAF3XLwUKr) | [Kali Yerg](https://open.spotify.com/album/6GlO6diN2U587KHDUpMbBf) | 3:04 | 2022-09-02 | 2023-03-10 |
 | [Kyoto 5 AM](https://open.spotify.com/track/0lJAlB8iVsp6Y99MnTjlu8) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Kyoto 5 AM](https://open.spotify.com/album/1fwFa6VhMpBZpYboapGASG) | 2:34 | 2022-09-02 |  |
 | [La Terre, Ensoleilée 432](https://open.spotify.com/track/6fRO6nmjyxvkbdX3R3f664) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [La Terre, Ensoleilée 432](https://open.spotify.com/album/2y4rKMOgR3E2Gv8jEGUdTS) | 3:23 | 2022-09-02 |  |
 | [Last Night](https://open.spotify.com/track/2Vym0Tv6thUuR2a3TP3d1N) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Last Night](https://open.spotify.com/album/4sYHodiEVNoJljEE7mVfFt) | 3:30 | 2022-09-02 |  |
 | [Let Go](https://open.spotify.com/track/34f1o7dGsjDbYZloJ5d5zM) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:14 | 2022-09-02 |  |
 | [Lidia's Song](https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK) | [Snow Orchid](https://open.spotify.com/artist/4IA09oabGSDGrVzs9cQyRF) | [Lidia's Song](https://open.spotify.com/album/5OYV4MgU4EYervsWemH396) | 4:14 | 2022-09-02 |  |
+| [Lightness](https://open.spotify.com/track/4H2G70RcWqs2flfAAHzaZT) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Lightness](https://open.spotify.com/album/3aSBJNmy9uKEisAza3qOkQ) | 4:04 | 2023-03-10 |  |
 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-09-02 | 2022-12-01 |
 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-11-22 |  |
 | [Lustre and Mist](https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 4:26 | 2022-09-02 |  |

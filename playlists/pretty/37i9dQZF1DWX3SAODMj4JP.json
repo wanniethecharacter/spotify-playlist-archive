@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 94883,
+  "num_followers": 95006,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzE1NSwwMDAwMDAwMDc3MDc3MWFmYzQ1ZjA4NjQ2M2NhYzdkYWIwNTliZmMx",
+  "snapshot_id": "MTY3NzIzNzE1NSwwMDAwMDAwMDE3ZmZjZmY0OTViMDdhY2RhMDRhNTllMWYxZWEwMTFl",
   "tracks": [
     {
       "added_at": "2023-02-24 11:12:35",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
-      },
-      "artists": [
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
         "name": "Qual \u00c9 O Pensamento",
         "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 141537,
       "name": "Qual \u00c9 O Pensamento",
       "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+      },
+      "artists": [
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
         "name": "III (Studio Sessions)",
         "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 352173,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
         "name": "Quando A Gente Voltar",
         "url": "https://open.spotify.com/album/5hCZlmnl8xki4ZeN8re4Y9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 120170,
       "name": "Quando A Gente Voltar",
       "url": "https://open.spotify.com/track/03wotmqx2qpMxH1NrQH6fi"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Ocideia",
-        "url": "https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Todo Medo",
-      "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Ocideia",
+        "url": "https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Todo Medo",
+      "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+        "name": "Descansar em Ti",
+        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
       "artists": [
         {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
         }
       ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+      "duration_ms": 225230,
+      "name": "Descansar em Ti",
+      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -939,18 +955,54 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Descansar em Ti",
-        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+        "name": "Ent\u00e3o Vem",
+        "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Caio Ver\u00edssimo",
+          "url": "https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb"
         }
       ],
-      "duration_ms": 225230,
-      "name": "Descansar em Ti",
-      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+      "duration_ms": 341142,
+      "name": "Ent\u00e3o Vem",
+      "url": "https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -979,42 +1031,6 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Ent\u00e3o Vem",
-        "url": "https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d"
-      },
-      "artists": [
-        {
-          "name": "Caio Ver\u00edssimo",
-          "url": "https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb"
-        }
-      ],
-      "duration_ms": 341142,
-      "name": "Ent\u00e3o Vem",
-      "url": "https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
         "name": "Leidy Murilho Ac\u00fastico",
         "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
       },
@@ -1027,38 +1043,6 @@
       "duration_ms": 227046,
       "name": "Filho - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
-      },
-      "artists": [
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
-        }
-      ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
         "name": "Pra Viver Project",
         "url": "https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 195000,
       "name": "Pra Viver - Ac\u00fastico",
       "url": "https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Sonhadora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 236199,
-      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
+        "name": "Sonhadora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
         "name": "Louvor IV",
         "url": "https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 292788,
       "name": "Louvor IV",
       "url": "https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -1191,22 +1207,6 @@
       "duration_ms": 367530,
       "name": "Tributo A Iehovah - Ao Vivo",
       "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-24 11:12:35",

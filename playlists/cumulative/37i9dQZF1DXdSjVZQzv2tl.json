@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Z\u00e9 Neto & Cristiano",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 135325,
       "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
@@ -1360,6 +1360,24 @@
       "duration_ms": 158716,
       "name": "Melhor Ser uma Saudade",
       "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
+    },
+    {
+      "album": {
+        "name": "Metade De Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160836,
+      "name": "Metade De Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 170191,
       "name": "Palha\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
@@ -2022,6 +2040,28 @@
       "duration_ms": 170106,
       "name": "Se Ele Soubesse - Ao Vivo Em Goi\u00e2nia / 2022",
       "url": "https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM"
+    },
+    {
+      "album": {
+        "name": "Let's Bora, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Seu Brilho Sumiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN"
     },
     {
       "album": {

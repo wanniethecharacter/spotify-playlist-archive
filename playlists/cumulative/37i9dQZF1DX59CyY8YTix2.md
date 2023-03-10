@@ -4,10 +4,11 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: SHISHAMO
 
-829 songs - 2 day 4 hr 55 min
+830 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#アチョイ](https://open.spotify.com/track/03dVX9GKHBfgxXU74YONPf) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [不出来](https://open.spotify.com/album/0jUAT2Y1TzQf6ScjVJFKQy) | 3:10 | 2023-03-07 |  |
 | [\#アチョイ](https://open.spotify.com/track/6KWs0SeaLgmH7YG4aWicsz) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [\#アチョイ](https://open.spotify.com/album/68xIq8A99IgcndxZEOsQnO) | 3:10 | 2022-11-24 | 2023-02-04 |
 | [\(We're gonna have a\)HAPPY TALK](https://open.spotify.com/track/6EmzdpJhqWDxeCKf4duj3S) | [Magic Bag](https://open.spotify.com/artist/2JSTa8PycfdIbJNalvEb7B) | [HAPPY TALK](https://open.spotify.com/album/6O6pywkScyqvScQ35Gfkyf) | 1:57 | 2023-02-21 | 2023-03-01 |
 | [0927](https://open.spotify.com/track/2JcFTzarFRNj9BFdo0T2rW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [夕暮れに歌う](https://open.spotify.com/album/7K1IgJV7PyhiFRNMzK0AmT) | 4:51 | 2022-10-04 | 2022-10-06 |
@@ -142,7 +143,7 @@
 | [Ideals](https://open.spotify.com/track/0m0XrQzGh9sjDIJYL0CXJx) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Ideals](https://open.spotify.com/album/70ENwTNE8LEAUN4KHAIgi2) | 2:55 | 2022-05-26 | 2022-06-07 |
 | [IMPLOSION](https://open.spotify.com/track/19160f74RVyQt9vNi93n7p) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [IMPLOSION](https://open.spotify.com/album/084RA5tsqFHyRe8eHytxaC) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [IN MY ROOM](https://open.spotify.com/track/5o84Xk1e6YCHNLsxy1arHT) | [THE TOMBOYS](https://open.spotify.com/artist/0BxA6yATaPwCIvbvXxyGAy) | [IN MY ROOM](https://open.spotify.com/album/1z1i2xeIZwvDH24kkU4ow4) | 3:53 | 2022-11-23 | 2022-12-07 |
-| [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 |  |
+| [Influencer](https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:23 | 2022-09-20 | 2023-03-10 |
 | [influencer](https://open.spotify.com/track/5notliDFZDp6H5m95UmQve) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/3X1Y5nukifVvhjmyAcsZ6o) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [Insane](https://open.spotify.com/track/7767zyhnMU4ElJJjwiGeL6) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [ESCAPISM](https://open.spotify.com/album/7FntC1u2oCXwFPwGK5EUSU) | 3:08 | 2022-08-30 | 2022-09-07 |
 | [INSIDE](https://open.spotify.com/track/3As2YlTdp1dETLdzU4nFNO) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I), [千愛](https://open.spotify.com/artist/6yzuMaCB3z0QBmgYtIAbXz) | [INSIDE](https://open.spotify.com/album/07TsekqvgXB4stic6KD1iu) | 3:43 | 2023-01-17 | 2023-02-01 |

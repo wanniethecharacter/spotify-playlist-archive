@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Dear Z",
+        "url": "https://open.spotify.com/album/0ZkzlYDnkZEOYAPOo13X8J"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3XmAWqrFWxIhyTCTc0nXLb"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp"
       },
@@ -172,10 +190,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 127741,
       "name": "Brother",
       "url": "https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv"
+    },
+    {
+      "album": {
+        "name": "Chasing Love",
+        "url": "https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Nawekulo",
+          "url": "https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200859,
+      "name": "Chasing Love",
+      "url": "https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ"
     },
     {
       "album": {
@@ -556,7 +596,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 232615,
       "name": "Justified",
       "url": "https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g"
@@ -728,7 +768,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 180571,
       "name": "Memories - Remix",
       "url": "https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl"
@@ -1108,7 +1148,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 218706,
       "name": "Sarama",
       "url": "https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J"
@@ -1260,6 +1300,28 @@
       "duration_ms": 198706,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0"
+    },
+    {
+      "album": {
+        "name": "Synthetic Hearts",
+        "url": "https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Tubatsi Mpho Moloi",
+          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Stay as You Are",
+      "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
     },
     {
       "album": {

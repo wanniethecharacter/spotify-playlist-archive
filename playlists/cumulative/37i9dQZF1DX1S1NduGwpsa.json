@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Robin Mckelle",
+  "description": "The best jazz new releases. Cover:  Samara Joy",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 250162,
       "name": "A Baptist Beat",
       "url": "https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf"
+    },
+    {
+      "album": {
+        "name": "Inner Songs",
+        "url": "https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA"
+      },
+      "artists": [
+        {
+          "name": "Olivier Temime",
+          "url": "https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319379,
+      "name": "A Lullaby for Constance",
+      "url": "https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa"
     },
     {
       "album": {
@@ -357,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Back on the beat",
+        "url": "https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1"
+      },
+      "artists": [
+        {
+          "name": "Laurent De Wilde",
+          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310900,
+      "name": "Back on the beat",
+      "url": "https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX"
+    },
+    {
+      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
@@ -690,7 +726,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 248626,
       "name": "Chorini\u00f1o",
       "url": "https://open.spotify.com/track/6HYVqx9ECuY6cvBcVE9US4"
@@ -720,7 +756,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 361840,
       "name": "Circling",
       "url": "https://open.spotify.com/track/3JfEAQCzK3IjvhdwECQEs8"
@@ -762,6 +798,24 @@
       "duration_ms": 285710,
       "name": "City of the Rising Sun",
       "url": "https://open.spotify.com/track/5GWPmMcG2IyAXe5TGWyNxD"
+    },
+    {
+      "album": {
+        "name": "Coltrane Plays The Blues",
+        "url": "https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322100,
+      "name": "Coltrane Plays the Blues",
+      "url": "https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV"
     },
     {
       "album": {
@@ -1535,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Guess Who I Saw Today (Duo Version)",
+        "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285068,
+      "name": "Guess Who I Saw Today (feat. Gerald Clayton) - Duo Version",
+      "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
+    },
+    {
+      "album": {
         "name": "G\u00e9n\u00e9rique",
         "url": "https://open.spotify.com/album/5irw04gNy9Kdl9BWXPrwsJ"
       },
@@ -1992,7 +2068,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 365288,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd"
@@ -4570,7 +4646,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 161210,
       "name": "Warm In December",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"

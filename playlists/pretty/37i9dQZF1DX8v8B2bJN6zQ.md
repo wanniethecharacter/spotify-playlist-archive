@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,398 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 45 | [Quarentoxic](https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y) | [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Quarentoxic](https://open.spotify.com/album/3JZ8UlANPOiKPRXDub8In1) | 3:13 |
 | 46 | [We Forgive Them](https://open.spotify.com/track/4xOD6UtpDhIIgqv3sECby2) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [We Forgive Them](https://open.spotify.com/album/7HAnr5IFFcHTj4RLZnNGq4) | 2:44 |
 | 47 | [Astronauta](https://open.spotify.com/track/7pJJrnSCxd0et4zhHFsJiJ) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Astronauta](https://open.spotify.com/album/23j75jqckSwFHI3qKYiE83) | 5:44 |
-| 48 | [Sitar \- Radio Edit](https://open.spotify.com/track/29qxPs0rlgFm66EEeAhoNC) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Wigerz](https://open.spotify.com/artist/1iZu6wKPmwIyZKGp4cq1Ot) | [Sitar](https://open.spotify.com/album/1LhAQQjXF7XqOvOgnoaXpy) | 2:30 |
+| 48 | [Sitar \- Radio Edit](https://open.spotify.com/track/0XtXW7RwXBlcLV64XqW03S) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden & Wigerz](https://open.spotify.com/artist/65XLkBrxFGMoU19T4h0hCY) | [Sitar](https://open.spotify.com/album/0GvIBnvwfJHT6k8J70rGrX) | 2:30 |
 | 49 | [Bring O' Boy](https://open.spotify.com/track/7F1Im9PjdV7nM8V112Fh4t) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Bring O' Boy](https://open.spotify.com/album/2S5Ckvo6YBVW8NHbGmmiDG) | 2:41 |
 | 50 | [Azur \- Kamilo Sanclemente & Dabeat Remix](https://open.spotify.com/track/1hS9q3gdYSFowSaHsH9v8u) | [Zalvador](https://open.spotify.com/artist/0sgz0ocZLhE6aTiCGUVlWJ), [Kamilo Sanclemente](https://open.spotify.com/artist/2AYLgq9P1arichVXbNbjVy), [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Azur Spacey](https://open.spotify.com/album/2IwWglZwR0w5yccajJ2cp8) | 7:54 |
 | 51 | [Loosing](https://open.spotify.com/track/1Ey0xqWdXz3otBlskcxWhP) | [Snoouth](https://open.spotify.com/artist/0QNfYE28k4qfOqO1avjIig) | [Loosing](https://open.spotify.com/album/6eGjFkHDk7ROJHmTAD5fok) | 4:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDkzYzA3ZjJlOGEyNmJiMWU2N2FiNjNjMTBiYjFiZWE5`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGUwZTAzZDU3ZTc5MDA0NWJmZWQzZTMxNGMxNmU5NDA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. nemahsis on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,119 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,157 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 18 | [Just Another Thursday](https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Just Another Thursday](https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp) | 3:30 |
 | 19 | [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 |
 | 20 | [off](https://open.spotify.com/track/0ZaoyHVn2qHN7NoTqH2qbK) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Good Karma](https://open.spotify.com/artist/3e1VExchYabwD6b6QDe4rI) | [off](https://open.spotify.com/album/3hq0lrG23NHRQmMmuLlDmF) | 2:31 |
-| 21 | [Better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 |
+| 21 | [better](https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [better](https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb) | 2:02 |
 | 22 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
 | 23 | [Pluto](https://open.spotify.com/track/1yZ5C5664QgxBtmdOtX0V5) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Pluto](https://open.spotify.com/album/7ouFPNHH7wa7kqHaLD2GIm) | 3:39 |
 | 24 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 |

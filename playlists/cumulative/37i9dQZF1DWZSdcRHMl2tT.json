@@ -6009,6 +6009,24 @@
     },
     {
       "album": {
+        "name": "Travolta",
+        "url": "https://open.spotify.com/album/4MDDzBeqGKO1SSWjVvpQMU"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Travolta",
+      "url": "https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX"
+    },
+    {
+      "album": {
         "name": "Tryin' - Chill House",
         "url": "https://open.spotify.com/album/7toIQ03j9CygKydoqvhzff"
       },
@@ -6388,6 +6406,24 @@
       "duration_ms": 181192,
       "name": "White Island Dreams",
       "url": "https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv"
+    },
+    {
+      "album": {
+        "name": "Why So Gloomy",
+        "url": "https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA"
+      },
+      "artists": [
+        {
+          "name": "Lofive",
+          "url": "https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149753,
+      "name": "Why So Gloomy",
+      "url": "https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2254,
+  "num_followers": 2260,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzI2MCwwMDAwMDAwMDY2NmQ1MmJjZWQ5NzYzZDNlYTZmZTA4YTA5ZjFiYTRh",
+  "snapshot_id": "MTY3NzE5MzI2MCwwMDAwMDAwMDAwNTIxZDE1N2ViOTY3NDAyYzJmMDgyMDAzMmVhMWUx",
   "tracks": [
     {
       "added_at": "2023-02-23 23:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Coyotes",
-        "url": "https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy"
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
       "artists": [
         {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Coyotes",
-      "url": "https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm"
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
       "added_at": "2023-02-23 23:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-02-23 23:01:00",
       "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy"
       },
       "artists": [
         {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+      "duration_ms": 296000,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm"
     },
     {
       "added_at": "2023-02-23 23:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,767 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,819 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 37 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
 | 38 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 |
 | 39 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
-| 40 | [Up De Flats](https://open.spotify.com/track/1VZqn2CpJjkewNFpZj488S) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [Up De Flats](https://open.spotify.com/album/0mCCeAdYsdD0M3aYUb3CHQ) | 4:58 |
-| 41 | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Lucy Virji](https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E) | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au) | 4:37 |
+| 40 | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Lucy Virji](https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E) | [Alright \(feat\. Lucy Virji\)](https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au) | 4:37 |
+| 41 | [Up De Flats](https://open.spotify.com/track/1VZqn2CpJjkewNFpZj488S) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [Up De Flats](https://open.spotify.com/album/0mCCeAdYsdD0M3aYUb3CHQ) | 4:58 |
 | 42 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
 | 43 | [Body Pump \- Sammy Virji Remix](https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Renaissance \(Kiwi Remixes\)](https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP) | 4:23 |
 | 44 | [Spend The Night](https://open.spotify.com/track/5qnO8c1bY6jNGT7sR8kkYB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/10DbHQSNuMpzOkhT3pv2sL) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
 | 60 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 
-Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMGUxZDUzZDdjMTk4NjAxMjRlYWU5NDBhNjBkNmEzMGIz`
+Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMDczNzZkNmUxODgxNTkzODI3NTQxZGVkNmJkOTk4NjRk`

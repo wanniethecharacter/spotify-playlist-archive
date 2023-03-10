@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4ypytf7vDPbJYcfyUDWaQd"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262347,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/2wIBOetdiYn4ULg7j4jMg6"
+    },
+    {
+      "album": {
         "name": "Breathe With Me",
         "url": "https://open.spotify.com/album/1fujTK186d1YXh85ub1jQD"
       },
@@ -446,6 +464,24 @@
       "duration_ms": 154000,
       "name": "Dreams of Calmness",
       "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
+    },
+    {
+      "album": {
+        "name": "Drishti",
+        "url": "https://open.spotify.com/album/2W6BPKqrKtMNgHNBegBcqx"
+      },
+      "artists": [
+        {
+          "name": "Shaanti Dhvani",
+          "url": "https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196597,
+      "name": "Drishti",
+      "url": "https://open.spotify.com/track/7LxccpMcrsicmlY9eyEy15"
     },
     {
       "album": {
@@ -1375,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "Quietness",
+        "url": "https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR"
+      },
+      "artists": [
+        {
+          "name": "Pavitr Udyaan",
+          "url": "https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226351,
+      "name": "Quietness",
+      "url": "https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY"
+    },
+    {
+      "album": {
         "name": "Reed Song",
         "url": "https://open.spotify.com/album/34OEiTXHoP7T4gNfi1TaBX"
       },
@@ -1804,6 +1858,24 @@
       "duration_ms": 311413,
       "name": "Starry Sky",
       "url": "https://open.spotify.com/track/6g0jqxUxlZsj51lGVDh0cC"
+    },
+    {
+      "album": {
+        "name": "Strenght",
+        "url": "https://open.spotify.com/album/6rPZfQ4Wc4FiLj4VVeeFTF"
+      },
+      "artists": [
+        {
+          "name": "Dhyaan Sangeet",
+          "url": "https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Strenght",
+      "url": "https://open.spotify.com/track/3A7HBtO3W28kBKOJHBb9dZ"
     },
     {
       "album": {

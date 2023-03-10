@@ -4,7 +4,7 @@
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-84 songs - 7 hr 21 min
+85 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 | 2021-08-27 |  |
 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 | 2021-08-27 |  |
 | [Know You](https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm) | 3:44 | 2021-08-27 | 2022-11-20 |
+| [Koko Schanel](https://open.spotify.com/track/59I871wr4KeSHtGRs2MBVU) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Koko Schanel](https://open.spotify.com/album/6D9BNGmHLwT9Vp6eUY8M66) | 3:15 | 2021-08-27 |  |
 | [Koko Schanel](https://open.spotify.com/track/63bkMQjHuwlGpyVTn4UHwd) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Koko Schanel](https://open.spotify.com/album/52ns9J4p8u9stmBAEu3kJk) | 3:15 | 2021-08-27 | 2022-07-29 |
 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 | 2021-08-27 |  |
 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 | 2021-08-27 |  |
@@ -56,7 +57,7 @@
 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 | 2021-08-27 |  |
 | [Lyra \- Dusky Remix](https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lyra \(Dusky Remix\)](https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb) | 5:13 | 2021-08-27 | 2022-12-20 |
 | [Make Me](https://open.spotify.com/track/1ipzEtURu9dGtQNAd8FD8l) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Make Me](https://open.spotify.com/album/0H1OTlkf52AORmYSFLBnBt) | 6:30 | 2021-08-27 | 2022-07-12 |
-| [Make Me](https://open.spotify.com/track/2otszgw8fupcliw4JlvuTh) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Make Me](https://open.spotify.com/album/3KgftNm8luL4z4HvxkSJHe) | 6:30 | 2021-08-27 |  |
+| [Make Me](https://open.spotify.com/track/2otszgw8fupcliw4JlvuTh) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Make Me](https://open.spotify.com/album/3KgftNm8luL4z4HvxkSJHe) | 6:30 | 2021-08-27 | 2023-03-10 |
 | [Merek](https://open.spotify.com/track/4bMsnSgIQmtvFXQcq7jG8e) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [CARE4LIFE](https://open.spotify.com/album/5UupDvLyN0JgQ5L67Lv63c) | 5:39 | 2021-08-27 | 2022-07-29 |
 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 | 2021-08-27 |  |
 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 | 2021-08-27 |  |

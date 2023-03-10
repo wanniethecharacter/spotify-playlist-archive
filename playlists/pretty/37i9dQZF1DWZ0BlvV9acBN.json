@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Palankin (Ana Rock)",
-  "num_followers": 113976,
+  "num_followers": 114024,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NTU5NywwMDAwMDAwMDY1OWUwNzgxN2U5YjViZmFjMDYwM2VmZGUyMDA5NTRl",
+  "snapshot_id": "MTY3Nzg4NTU5NywwMDAwMDAwMDE5ZjdjM2EzOGYxMjg5NmNkNjA2ZDhlZThhYTM1ZjNl",
   "tracks": [
     {
       "added_at": "2023-03-03 23:19:57",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 259862,
       "name": "Assume A Responsa",
       "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "Mente Brilhante",
         "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 307533,
       "name": "Mente Brilhante",
       "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "Peregrino",
         "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
+        "name": "Santificado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vasques",
+          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "duration_ms": 562285,
+      "name": "Que o Cordeiro Receba - Ao Vivo",
+      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -759,22 +779,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
-      },
-      "artists": [
-        {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        }
-      ],
-      "duration_ms": 353791,
-      "name": "Hoje Tem Cor",
-      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
@@ -791,18 +795,18 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
         }
       ],
-      "duration_ms": 244457,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+      "duration_ms": 353791,
+      "name": "Hoje Tem Cor",
+      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -827,18 +831,18 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
       "artists": [
         {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 244457,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -855,6 +859,22 @@
       "duration_ms": 258700,
       "name": "Jo\u00e3o 1 - VEC",
       "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -891,6 +911,22 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
+      },
+      "artists": [
+        {
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+        }
+      ],
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
         "name": "\u00danica Paz",
         "url": "https://open.spotify.com/album/5nkSbqUiUnqxU6WGN0BHI3"
       },
@@ -907,22 +943,6 @@
       "duration_ms": 279914,
       "name": "\u00danica Paz",
       "url": "https://open.spotify.com/track/28NSQr1LYImH2Avvk06oYV"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
-      },
-      "artists": [
-        {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
-        }
-      ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -983,6 +1003,22 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
+        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
+      },
+      "artists": [
+        {
+          "name": "Redentto",
+          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
         "name": "Quarantine Session",
         "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
       },
@@ -999,18 +1035,34 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
+        "name": "Meu Valor",
+        "url": "https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ"
       },
       "artists": [
         {
-          "name": "Redentto",
-          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
         }
       ],
-      "duration_ms": 265815,
-      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
+      "duration_ms": 173026,
+      "name": "Meu Valor",
+      "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "Ex\u00edlio",
+        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+        }
+      ],
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -1035,38 +1087,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "Ex\u00edlio",
-        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
-      },
-      "artists": [
-        {
-          "name": "Hugo Santos",
-          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
-        }
-      ],
-      "duration_ms": 279510,
-      "name": "Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
-        "name": "Meu Valor",
-        "url": "https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Meu Valor",
-      "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
-        "name": "Santificado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vasques",
-          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 562285,
-      "name": "Que o Cordeiro Receba - Ao Vivo",
-      "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
     },
     {
       "added_at": "2023-03-03 23:19:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-03 23:19:57",
       "album": {
-        "name": "Artif\u00edcio",
-        "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Siss\u00e1",
-          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Artif\u00edcio",
-      "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
-    },
-    {
-      "added_at": "2023-03-03 23:19:57",
-      "album": {
         "name": "Lado a Lado",
         "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 225000,
       "name": "Lado a Lado",
       "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
+    },
+    {
+      "added_at": "2023-03-03 23:19:57",
+      "album": {
+        "name": "Artif\u00edcio",
+        "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Artif\u00edcio",
+      "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
     },
     {
       "added_at": "2023-03-03 23:19:57",

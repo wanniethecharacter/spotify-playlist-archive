@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Jessica Audiffred
 
-306 songs - 17 hr 28 min
+307 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 |  |
 | [From My Grave](https://open.spotify.com/track/22Vf2iU0d474KlNp8KXmAF) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [From My Grave](https://open.spotify.com/album/4IzNLgceJVDeP1Um0wvaAQ) | 2:52 | 2022-03-11 | 2022-09-24 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 |  |
-| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 |  |
+| [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-08 | 2023-03-10 |
 | [Fusion](https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Fusion](https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw) | 2:04 | 2021-12-17 | 2022-10-02 |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-11 |  |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-12-17 | 2022-03-12 |
@@ -246,6 +246,7 @@
 | [Shadow \- Ace Aura Remix](https://open.spotify.com/track/61yIlAFAliC4poai45yRE1) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Cartell II \(Remixes\)](https://open.spotify.com/album/6TQnDo98vbJhh29cuqNwVv) | 4:28 | 2022-12-16 |  |
 | [Shank](https://open.spotify.com/track/6NrvGvEN9o6LutTMfvjNCQ) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Shank](https://open.spotify.com/album/4AvIrAAt7HreJ1EFTpnKkc) | 4:24 | 2022-08-12 | 2023-02-26 |
 | [Sharp Shooter](https://open.spotify.com/track/0ViI8m9JgQlADPjsP0Nxo2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/50xJ464PqppzDAKiu1sDM6) | 3:43 | 2022-09-30 | 2023-02-26 |
+| [Sharp Shooter](https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [IN CASE OF FIRE EP](https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80) | 3:43 | 2023-02-24 |  |
 | [Shimmer](https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Shimmer](https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/5mqADkilFicbY2DXyWemZe) | 3:25 | 2022-07-22 |  |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 13019,
+  "num_followers": 13129,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGVlNDA4MWM0MDRkODBmOWMzMWM5OWVmMjNkOWFlMWNm",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDU0MDExZjE3M2Y3NTUwNzI3ODc2NDgwMGE5OGUxOWVj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Southside",
         "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 277840,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "1.5 Way Or No Way",
+        "url": "https://open.spotify.com/album/0Jt91wbEFYK34hZ29n2YKg"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "duration_ms": 147144,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/0p3ExMS9gxtT1GMMmrkuak"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 155933,
       "name": "Big FlexHer",
       "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "1.5 Way Or No Way",
-        "url": "https://open.spotify.com/album/0Jt91wbEFYK34hZ29n2YKg"
-      },
-      "artists": [
-        {
-          "name": "Yung Mal",
-          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
-        }
-      ],
-      "duration_ms": 147144,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/0p3ExMS9gxtT1GMMmrkuak"
     },
     {
       "added_at": "2022-10-01 16:00:00",

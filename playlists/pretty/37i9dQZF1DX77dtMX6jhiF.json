@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 5110,
+  "num_followers": 5134,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDUyMDk5ODg2M2UyZTNlZmE1NzAyOTIxZWZlMTUxY2Q0",
+  "snapshot_id": "MTY2NDY0MzQ2OSwwMDAwMDAwMDU5YTI4YWE4YTZkMDhmNGJiMWFkNTQ3NDIyMzFhOWMx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "A Written Testimony",
-        "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
-      },
-      "artists": [
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        }
-      ],
-      "duration_ms": 328365,
-      "name": "A.P.I.D.T.A.",
-      "url": "https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "A Written Testimony",
+        "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
+      },
+      "artists": [
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        }
+      ],
+      "duration_ms": 328365,
+      "name": "A.P.I.D.T.A.",
+      "url": "https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn"
     },
     {
       "added_at": "2022-10-01 16:57:49",

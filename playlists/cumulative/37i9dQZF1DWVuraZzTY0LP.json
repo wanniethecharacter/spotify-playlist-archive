@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Reacciones",
+        "url": "https://open.spotify.com/album/1R8Fe88PTRGvUoYNCvOsAz"
+      },
+      "artists": [
+        {
+          "name": "A Veces Amanda",
+          "url": "https://open.spotify.com/artist/2BSwfWyZyJpTNsXnfLpgRQ"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263188,
+      "name": "Me Pregunto",
+      "url": "https://open.spotify.com/track/0dxUCvJwEvGb59Uy76hYW2"
+    },
+    {
+      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
@@ -4808,7 +4826,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 335240,
       "name": "Un D\u00eda",
       "url": "https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF"

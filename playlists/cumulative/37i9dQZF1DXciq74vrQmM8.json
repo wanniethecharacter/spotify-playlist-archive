@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lvra",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. delilah bon",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/6FvXNGZN8gpOx2de9wSQ4X"
@@ -840,6 +840,24 @@
       "duration_ms": 182598,
       "name": "BLOODMONEY",
       "url": "https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6"
+    },
+    {
+      "album": {
+        "name": "BLOODPUDDLE",
+        "url": "https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "BLOODPUDDLE",
+      "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"
     },
     {
       "album": {
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 284880,
       "name": "Crossing Guard",
       "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 178730,
       "name": "Cut It",
       "url": "https://open.spotify.com/track/380qafcE09hZXE5g5ubju9"
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 180088,
       "name": "GO!",
       "url": "https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC"
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 116000,
       "name": "K.K.O",
       "url": "https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 187755,
       "name": "LOTTO BOY",
       "url": "https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i"
@@ -4950,6 +4968,24 @@
       "duration_ms": 87672,
       "name": "M'Lady",
       "url": "https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9"
+    },
+    {
+      "album": {
+        "name": "Made It Past October",
+        "url": "https://open.spotify.com/album/3bUmoJXvZA2HUKScrTfNEP"
+      },
+      "artists": [
+        {
+          "name": "CHELJI",
+          "url": "https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132370,
+      "name": "Made It Past October",
+      "url": "https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii"
     },
     {
       "album": {
@@ -7533,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
+    },
+    {
+      "album": {
         "name": "Human Traffic Jam",
         "url": "https://open.spotify.com/album/15AVDnJQc2gzARopL0fOC0"
       },
@@ -7750,7 +7804,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 300000,
       "name": "The Lightless Flame",
       "url": "https://open.spotify.com/track/1QaipVOgrXz7ZSYxQX3HL2"

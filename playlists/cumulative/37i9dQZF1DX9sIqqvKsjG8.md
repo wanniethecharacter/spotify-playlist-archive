@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-690 songs - 1 day 5 hr 42 min
+691 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-01-26 |  |
 | [A Step Too Far](https://open.spotify.com/track/3y8fPWZI9Ds74cPq0GfhgT) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [A Step Too Far](https://open.spotify.com/album/1UN5FNrHGel88bBsWwrOxB) | 2:17 | 2022-05-20 |  |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2021-12-07 | 2022-08-05 |
-| [A Winged Heart](https://open.spotify.com/track/0CPfrwtn3qq9pEJEq7cUmT) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Returning Home At Eventide](https://open.spotify.com/album/4UAYqnqjhB5Co0gaUO3ULf) | 1:34 | 2023-02-20 |  |
+| [A Winged Heart](https://open.spotify.com/track/0CPfrwtn3qq9pEJEq7cUmT) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Returning Home At Eventide](https://open.spotify.com/album/4UAYqnqjhB5Co0gaUO3ULf) | 1:34 | 2023-02-20 | 2023-03-10 |
+| [A Winged Heart](https://open.spotify.com/track/0jjXZcE82CD6M9ZBEfRGL1) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Some Kind Of Gratitude](https://open.spotify.com/album/2BwciKGEskwxHpVOJac70F) | 1:34 | 2023-03-08 |  |
 | [A Winged Heart](https://open.spotify.com/track/0kNkyOnzkf67a68F9UJNmA) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [A Winged Heart](https://open.spotify.com/album/3O5BKloJdgSxcie5JhfmVI) | 1:34 | 2023-01-31 | 2023-02-23 |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2021-12-07 | 2022-11-25 |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2021-12-07 |  |

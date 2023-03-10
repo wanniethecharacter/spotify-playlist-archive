@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-93 songs - 5 hr 26 min
+96 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Misty Rain](https://open.spotify.com/track/2dENOeBmXx4wOkwExLJj3F) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 4:08 | 2022-12-02 |  |
 | [Morning Bird](https://open.spotify.com/track/6FwktjhCUnJGUA2AFOVuhS) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:39 | 2022-12-02 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-09-15 |  |
+| [Morning Forest](https://open.spotify.com/track/4U8vdmjWXCy2kfwY86I7Eh) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Morning Forest](https://open.spotify.com/album/1SYfOGXSyZsmkLLPFJ3DxG) | 3:48 | 2023-03-10 |  |
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 |  |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-09-15 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/5ZbjwPQo6CocT2OdJyUsc9) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
@@ -74,6 +75,7 @@
 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:24 | 2022-09-30 |  |
 | [Paterson's Curse](https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Forest Sleep](https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN) | 4:38 | 2022-09-15 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |
+| [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 |  |
@@ -92,6 +94,7 @@
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-02-25 |  |
 | [The Chilled Forest](https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [The Chilled Forest](https://open.spotify.com/album/2Fg4b6c1Qk8xWjJBKrT9P1) | 2:43 | 2022-09-15 |  |
 | [The Deep Forest](https://open.spotify.com/track/46QEuAHoxLCvQfegCmu3cf) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Childhood Memories](https://open.spotify.com/album/7zJYf5baXgivUvc0HN2A2f) | 2:52 | 2022-12-30 |  |
+| [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-10 |  |
 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 | 2022-12-02 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 |  |
 | [twentieth\-night moon \- Meditation](https://open.spotify.com/track/58Slfe4cHE4uqvPIFyTEbx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [twentieth\-night moon](https://open.spotify.com/album/2N0jLRcc26Bdph24mVNwHK) | 2:50 | 2022-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Gu\u00e8, ANNA, Sfera Ebbasta",
-  "num_followers": 72454,
+  "num_followers": 72543,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMGRmMzM1OTM2OTNmYzM2ZWQ0ZGEzMWIzZDljODM5MDc4",
+  "snapshot_id": "MTY3Nzc5ODA2MCwwMDAwMDAwMDFhMjAxNGI0NzlmMmM3YWE0NjA0YWVlYzA2YjI4NzJk",
   "tracks": [
     {
       "added_at": "2023-03-02 23:01:00",
@@ -679,18 +679,26 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+      "duration_ms": 197647,
+      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
+      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -779,26 +787,18 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "PROVINCIALE",
-        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
-      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -939,30 +939,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2023-03-02 23:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "Bando",
-        "url": "https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bando",
-      "url": "https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
         "name": "DIOSA (feat. Peppe Soks) [Remix]",
         "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
       },
@@ -1611,34 +1595,50 @@
     {
       "added_at": "2023-03-02 23:01:00",
       "album": {
-        "name": "BV3",
-        "url": "https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW"
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l"
       },
       "artists": [
         {
-          "name": "BLOODY VINYL",
-          "url": "https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU"
-        },
-        {
-          "name": "Slait",
-          "url": "https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "5019",
-          "url": "https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 174746,
-      "name": "X 1 MEX (feat. Dani Faiv)",
-      "url": "https://open.spotify.com/track/6W30ttL2kUQ5jT4CnXPJdG"
+      "duration_ms": 168000,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"
+    },
+    {
+      "added_at": "2023-03-02 23:01:00",
+      "album": {
+        "name": "Pour l'amour",
+        "url": "https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Boss Doms",
+          "url": "https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        },
+        {
+          "name": "Puritano",
+          "url": "https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Thoiry Remix (feat. Gemitaiz, Quentin40, Puritano) - Samba Trap Vol. 3 - Mitraglia Rec",
+      "url": "https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8"
     }
   ],
   "unique_name": "Club Rap ",

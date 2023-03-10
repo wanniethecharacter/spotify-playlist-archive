@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Amaz\u00f3nia",
+        "url": "https://open.spotify.com/album/5gULMhBkRl7ZCv35O2K5Xm"
+      },
+      "artists": [
+        {
+          "name": "Lutz",
+          "url": "https://open.spotify.com/artist/3Qsun4Xe5KRfqWUE3ct79x"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194339,
+      "name": "Amaz\u00f3nia",
+      "url": "https://open.spotify.com/track/2ySZ2kVCZRQ0gJ5Lu0EoxJ"
+    },
+    {
+      "album": {
         "name": "Andal\u00e9",
         "url": "https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU"
       },
@@ -874,7 +892,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 208000,
       "name": "HEI",
       "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
@@ -984,6 +1002,32 @@
       "duration_ms": 262500,
       "name": "Irrespons\u00e1vel",
       "url": "https://open.spotify.com/track/1AgqELuodwiIUbJhXM74Jx"
+    },
+    {
+      "album": {
+        "name": "JOGADOR CARO",
+        "url": "https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Greg Ferreira",
+          "url": "https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8"
+        },
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186100,
+      "name": "JOGADOR CARO",
+      "url": "https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2"
     },
     {
       "album": {
@@ -2104,7 +2148,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 215006,
       "name": "Teu Cheiro",
       "url": "https://open.spotify.com/track/4hwguRVq6Kv6llWmKf9G88"

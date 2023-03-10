@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 18531,
+  "num_followers": 18572,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMDllNTE3MWYzZDE0MDVmNzBjYjE5YjY2MzhiOGYzYzNj",
+  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMGY4MTM1OWU0N2Q0ZGFhNDg2OTE4OWE2NGFjZjFlZDll",
   "tracks": [
     {
       "added_at": "2023-03-01 09:10:56",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -319,18 +335,22 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "Neo Seoul",
-        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 195891,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -351,26 +371,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 218092,
       "name": "In To You (feat. g1nger) - Prod. WOOGIE",
       "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -803,18 +803,26 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "oceanfromtheblue",
-        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
       "artists": [
         {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
         }
       ],
-      "duration_ms": 286625,
-      "name": "Past Life",
-      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
+      "duration_ms": 267330,
+      "name": "ROSE (feat. Skinny Brown, Homeboy)",
+      "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -851,26 +859,18 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
       },
       "artists": [
         {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Homeboy",
-          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
         }
       ],
-      "duration_ms": 267330,
-      "name": "ROSE (feat. Skinny Brown, Homeboy)",
-      "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+      "duration_ms": 286625,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "kiss my lips",
         "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195692,
       "name": "kiss my lips",
       "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -979,22 +979,22 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "SOULBYSEL Compilation 04",
-        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
       "artists": [
         {
-          "name": "SOULBYSEL",
-          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         },
         {
-          "name": "popeye",
-          "url": "https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 190457,
-      "name": "GOOD BYE SONG",
-      "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
+      "duration_ms": 213000,
+      "name": "I want to (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -1019,38 +1019,38 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
       "artists": [
         {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
         }
       ],
-      "duration_ms": 213000,
-      "name": "I want to (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "EASY (feat. ELO)",
-        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
       },
       "artists": [
         {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
         }
       ],
-      "duration_ms": 165106,
-      "name": "EASY (feat. ELO)",
-      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
+      "duration_ms": 167500,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

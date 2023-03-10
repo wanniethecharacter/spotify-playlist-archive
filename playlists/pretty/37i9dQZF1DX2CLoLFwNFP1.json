@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 16088,
+  "num_followers": 16180,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA0Nzg1NywwMDAwMDAwMGM3NWM2NzFjZGMwODUwM2NmODdkYjM3Yjk4YWFmYzk4",
+  "snapshot_id": "MTY3NzA0Nzg1NywwMDAwMDAwMGVkZmY2NDlmMmNlZjA2NTUyYzNhZWZlOTdmNmEwZDUz",
   "tracks": [
     {
       "added_at": "2023-02-22 06:37:37",
@@ -331,22 +331,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -371,22 +371,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
       "artists": [
         {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
-        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
-      },
-      "artists": [
-        {
-          "name": "YLN Foreign",
-          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "DNA (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 180800,
       "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
+        "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
+      },
+      "artists": [
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "DNA (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 169325,
-      "name": "Wegun Is My DJ",
-      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
+      "duration_ms": 178442,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 178442,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
+      "duration_ms": 169325,
+      "name": "Wegun Is My DJ",
+      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 223059,
-      "name": "All The Way Up (K)",
-      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/1RB92dqVzPpvvOQ3zLVPqr"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "All The Way Up (K)",
+      "url": "https://open.spotify.com/track/072zJPb2mwUjrJLKJxYFLe"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 0",
-        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "RECEIPTS (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 236919,
       "name": "The Truth Is",
       "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 0",
+        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "RECEIPTS (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193746,
+      "name": "Feng Shui (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "REBORN",
         "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 235364,
       "name": "REBORN",
       "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "The Road Less Traveled",
-        "url": "https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "Feng Shui (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ"
     },
     {
       "added_at": "2023-02-22 06:37:37",

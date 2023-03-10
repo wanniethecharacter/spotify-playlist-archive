@@ -1,12 +1,12 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1335,
+  "num_followers": 1337,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTYyMyw4YWNmMjhhMWFjZGI2NzBmMTBhZjU3MTEyNzdiNDQ4NjgyMGQwM2Vj",
+  "snapshot_id": "MTY2NiwwMGJkOGZkNjZjZjlkMTYwNzViODBmYzExNDcwNmZmMzE1MjZlMGMy",
   "tracks": [
     {
       "added_at": "2023-02-05 12:38:04",
@@ -25,6 +25,42 @@
       "url": "https://open.spotify.com/track/7oPC4KDG0ofx3Cvpie1D9W"
     },
     {
+      "added_at": "2023-03-09 13:16:26",
+      "album": {
+        "name": "Lost In Love",
+        "url": "https://open.spotify.com/album/33iVJ8QvnCh08BJszH99gz"
+      },
+      "artists": [
+        {
+          "name": "Legend B",
+          "url": "https://open.spotify.com/artist/4GdugXC80nr0eT7xQQIh0v"
+        }
+      ],
+      "duration_ms": 368453,
+      "name": "Lost In Love - Original Mix",
+      "url": "https://open.spotify.com/track/1GA5a4fprKfOhfoM0RI5iw"
+    },
+    {
+      "added_at": "2023-03-09 15:34:58",
+      "album": {
+        "name": "Your Future Is",
+        "url": "https://open.spotify.com/album/1lj9N6USYPJkskRbZ97AKw"
+      },
+      "artists": [
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "duration_ms": 247058,
+      "name": "Hinterland - Thomas Schumacher Edit",
+      "url": "https://open.spotify.com/track/789XgQTcDtt9zuUNzH4CYU"
+    },
+    {
       "added_at": "2023-01-25 20:00:59",
       "album": {
         "name": "Hold Me",
@@ -39,6 +75,374 @@
       "duration_ms": 212727,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5jZXg80ehvYNY5RZgOE04o"
+    },
+    {
+      "added_at": "2023-03-09 15:20:33",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/15qZw55ojhGLj9qpwcoKYw"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Mark Michael",
+          "url": "https://open.spotify.com/artist/4h5c1OI66KXOmOODqS62GI"
+        }
+      ],
+      "duration_ms": 405380,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0JqMQDPOIHFNVTmk8I0H5g"
+    },
+    {
+      "added_at": "2023-03-09 15:54:02",
+      "album": {
+        "name": "Rampage",
+        "url": "https://open.spotify.com/album/7mdj42dRWVQlGymjVO99OE"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        }
+      ],
+      "duration_ms": 365913,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/7g0uCvxzUpfuJtm5oUHdYj"
+    },
+    {
+      "added_at": "2023-03-09 15:19:54",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 210216,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
+    },
+    {
+      "added_at": "2023-03-09 15:37:31",
+      "album": {
+        "name": "VA - Dajusch / Fadi Mohem / FJAAK",
+        "url": "https://open.spotify.com/album/0AveCk2PnseyHV538clgDP"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "duration_ms": 310680,
+      "name": "Madlock",
+      "url": "https://open.spotify.com/track/028bC5gmVJbghTWgy5Hb3t"
+    },
+    {
+      "added_at": "2023-01-16 14:12:10",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/6yCCubnlpvQg5ZYNVHWB4P"
+      },
+      "artists": [
+        {
+          "name": "Quench",
+          "url": "https://open.spotify.com/artist/7KxmXTMMSMu1DIYA2G3CNZ"
+        }
+      ],
+      "duration_ms": 372120,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1TU00sJWkX7WevdhUpPDuV"
+    },
+    {
+      "added_at": "2023-03-09 15:53:48",
+      "album": {
+        "name": "When the Lights Go Down",
+        "url": "https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe"
+      },
+      "artists": [
+        {
+          "name": "Roberto Capuano",
+          "url": "https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dish Ya Now",
+      "url": "https://open.spotify.com/track/0cytq2IoQxtaWzxBAHQC0k"
+    },
+    {
+      "added_at": "2023-03-09 15:52:42",
+      "album": {
+        "name": "No Machine",
+        "url": "https://open.spotify.com/album/0RYXDmkTtshAYoSVPMkVZ5"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arfeli",
+          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
+        }
+      ],
+      "duration_ms": 448571,
+      "name": "Light And Darkness",
+      "url": "https://open.spotify.com/track/3Fy8v65svAG76u4sPPI9HO"
+    },
+    {
+      "added_at": "2023-03-09 15:20:02",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 224944,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/74utOOe35IIADzUxx6JuuD"
+    },
+    {
+      "added_at": "2023-03-09 15:21:30",
+      "album": {
+        "name": "I Am Machine",
+        "url": "https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "I Am Machine",
+      "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
+    },
+    {
+      "added_at": "2023-03-09 15:53:33",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 343750,
+      "name": "Free Your Mind - Alex Stein Remix",
+      "url": "https://open.spotify.com/track/4uU140mhIS8nZycSuW2QI1"
+    },
+    {
+      "added_at": "2023-03-09 15:19:58",
+      "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "duration_ms": 258739,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/2J1BIrTZbRtDcivhqQIx5S"
+    },
+    {
+      "added_at": "2023-03-09 15:50:12",
+      "album": {
+        "name": "Solar Deity",
+        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "duration_ms": 384705,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/4eP8dsBqUZam0SCFOEtOsJ"
+    },
+    {
+      "added_at": "2023-03-09 15:37:44",
+      "album": {
+        "name": "Claptrap",
+        "url": "https://open.spotify.com/album/1w2LMklzYKEjJYT5yCqvyc"
+      },
+      "artists": [
+        {
+          "name": "Crossbow",
+          "url": "https://open.spotify.com/artist/7w9hUQDypmlktoxpMa12dV"
+        }
+      ],
+      "duration_ms": 276363,
+      "name": "Claptrap",
+      "url": "https://open.spotify.com/track/1wxgrpzFQPePRLW4YKYvJN"
+    },
+    {
+      "added_at": "2023-03-09 15:39:50",
+      "album": {
+        "name": "Just Listen",
+        "url": "https://open.spotify.com/album/2yJfKPEOzGnhf6VfN6Fmlz"
+      },
+      "artists": [
+        {
+          "name": "D-Unity",
+          "url": "https://open.spotify.com/artist/3IpAthjvdkddgfMSsURuMF"
+        }
+      ],
+      "duration_ms": 371470,
+      "name": "Just Listen",
+      "url": "https://open.spotify.com/track/3ZXZ1CHb11IoytIZB6ap1X"
+    },
+    {
+      "added_at": "2023-03-09 15:43:18",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6DEH1uKcz7I7VJDqlFh0Re"
+      },
+      "artists": [
+        {
+          "name": "Torsten Kanzler",
+          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
+        },
+        {
+          "name": "Dok & Martin",
+          "url": "https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX"
+        }
+      ],
+      "duration_ms": 453566,
+      "name": "Emotion - Dok & Martin Remix",
+      "url": "https://open.spotify.com/track/4DI1rMTIxpoT5Ctoe3bEwO"
+    },
+    {
+      "added_at": "2023-03-09 15:50:07",
+      "album": {
+        "name": "Solar Deity",
+        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "duration_ms": 384009,
+      "name": "Solar Deity",
+      "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
+    },
+    {
+      "added_at": "2023-03-09 15:52:06",
+      "album": {
+        "name": "Life Moves Fast",
+        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 233673,
+      "name": "Life Moves Fast",
+      "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
+    },
+    {
+      "added_at": "2023-03-09 15:52:20",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/7bkflTRV13PDtvSQnQlGE1"
+      },
+      "artists": [
+        {
+          "name": "Alessandro D'Avenia",
+          "url": "https://open.spotify.com/artist/6cgN3FkBzzZnNiHmTXejz5"
+        }
+      ],
+      "duration_ms": 363920,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/0NKy73GIkZmlpPQzTuExnV"
+    },
+    {
+      "added_at": "2023-03-09 15:52:49",
+      "album": {
+        "name": "No Machine",
+        "url": "https://open.spotify.com/album/0RYXDmkTtshAYoSVPMkVZ5"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arfeli",
+          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
+        }
+      ],
+      "duration_ms": 485535,
+      "name": "No Machine",
+      "url": "https://open.spotify.com/track/0VNPppUqK8QrCvp5wJdRYw"
+    },
+    {
+      "added_at": "2023-03-09 15:54:48",
+      "album": {
+        "name": "Rampage",
+        "url": "https://open.spotify.com/album/7mdj42dRWVQlGymjVO99OE"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW"
+        }
+      ],
+      "duration_ms": 367845,
+      "name": "Indecision",
+      "url": "https://open.spotify.com/track/0Rstpcbxc6EOzMJcp8YWdO"
+    },
+    {
+      "added_at": "2023-03-09 15:56:03",
+      "album": {
+        "name": "Roll",
+        "url": "https://open.spotify.com/album/1vYApAmugZIaBjonjqlSQC"
+      },
+      "artists": [
+        {
+          "name": "Resonances (IT)",
+          "url": "https://open.spotify.com/artist/7qOpekyH75FVKR0T1Z2W0H"
+        }
+      ],
+      "duration_ms": 312766,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/5AZbACDyMvaoJMTLNNea2c"
+    },
+    {
+      "added_at": "2023-03-09 15:56:33",
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/20hmRGmvMiuPTsxvTcyV0e"
+      },
+      "artists": [
+        {
+          "name": "Gary Burrows",
+          "url": "https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3"
+        }
+      ],
+      "duration_ms": 361967,
+      "name": "This Trip",
+      "url": "https://open.spotify.com/track/0FzYBZ6Pn6lZe0Sh1F8tES"
     },
     {
       "added_at": "2022-11-02 15:40:52",
@@ -91,22 +495,6 @@
       "duration_ms": 432657,
       "name": "Bring It On Down",
       "url": "https://open.spotify.com/track/42BajmF7S541Gl8eUELqKl"
-    },
-    {
-      "added_at": "2023-01-16 14:12:10",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/6yCCubnlpvQg5ZYNVHWB4P"
-      },
-      "artists": [
-        {
-          "name": "Quench",
-          "url": "https://open.spotify.com/artist/7KxmXTMMSMu1DIYA2G3CNZ"
-        }
-      ],
-      "duration_ms": 372120,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1TU00sJWkX7WevdhUpPDuV"
     },
     {
       "added_at": "2023-01-25 20:01:04",

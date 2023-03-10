@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Noizu & Westend
 
-922 songs - 2 day 6 hr 47 min
+923 songs - 2 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Flamenco](https://open.spotify.com/track/5MCTiOXHgm2hPIvwdTDj9T) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Flamenco](https://open.spotify.com/album/1aQbcFvUGv1pIWfnJO9psA) | 2:44 | 2023-02-17 |  |
 | [Flute](https://open.spotify.com/track/4TTyk0E2qCADq7cGbLGpEM) | [Lancie Green](https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b) | [Flute](https://open.spotify.com/album/0ZTZ54yV4KYMRLaOlvErDA) | 2:22 | 2023-01-06 |  |
 | [Flute](https://open.spotify.com/track/7LrEjduZDF1raTJcxz1D7m) | [Lancie Green](https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b) | [Flute](https://open.spotify.com/album/3hX0c1fJ7PCVh4BlkiaFl6) | 2:22 | 2023-01-06 | 2023-01-19 |
+| [Fly Me To Tulum](https://open.spotify.com/track/1UGPFz9rmBEJFBdAjUCpGj) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy) | [Fly Me To Tulum](https://open.spotify.com/album/6wBBL2oVXnMkd0pjLnNZDA) | 2:29 | 2023-03-03 |  |
 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 | 2022-06-24 | 2022-08-20 |
 | [For One Night](https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [For One Night](https://open.spotify.com/album/4rFPkGiWzoaLl59j11Ruj4) | 2:53 | 2022-08-05 | 2022-11-12 |
 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 | 2022-05-13 | 2022-08-06 |
@@ -824,7 +825,7 @@
 | [The System](https://open.spotify.com/track/3Bh75gzv3YweYg2DyD99Oj) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Intrusive](https://open.spotify.com/artist/1s9t6ekUtkWy2DsGbJwXwQ) | [The System](https://open.spotify.com/album/3dOhZ0f727O7ot8vWNNfVl) | 6:34 | 2022-01-21 | 2022-04-23 |
 | [The Voodoo Babe](https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [The Voodoo Babe](https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M) | 2:06 | 2022-06-10 | 2022-08-13 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2022-12-28 | 2023-01-06 |
-| [The Whip](https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [The Whip](https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb) | 4:38 | 2023-02-10 |  |
+| [The Whip](https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [The Whip](https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb) | 4:38 | 2023-02-10 | 2023-03-10 |
 | [The Whys](https://open.spotify.com/track/0KcNoFGsrOGH9Y0z6kZwnX) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [Special Vibe](https://open.spotify.com/artist/4XZmZvShTrnFV4riW6VHjP) | [The Whys](https://open.spotify.com/album/2DKhkb9iugUSreiWsnHjaI) | 2:26 | 2021-12-03 | 2022-04-23 |
 | [Them Drums](https://open.spotify.com/track/4ug7ZV9kjKXbbha4gDyhug) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Them Drums](https://open.spotify.com/album/7dQ4q6Tnxkv4csaUqLYEBi) | 3:56 | 2022-02-25 | 2022-06-11 |
 | [This Is A Song About Dancing](https://open.spotify.com/track/5rTfHObU9zkltvkB4Lbael) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [This Is A Song About Dancing](https://open.spotify.com/album/70LOeCTxkOVOHjFwGZfE6p) | 3:26 | 2021-11-26 | 2022-03-12 |

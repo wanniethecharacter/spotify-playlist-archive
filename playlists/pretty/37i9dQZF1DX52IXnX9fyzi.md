@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,685 likes - 209 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,827 likes - 209 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 18 | [Underverse](https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [In Faith](https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl) | 3:12 |
 | 19 | [Antwerp](https://open.spotify.com/track/48Rr2RrL3dZXhaYpWM8hZt) | [Ruben Gerards](https://open.spotify.com/artist/2AGeMh4qqkuiyiD5tiO449) | [Antwerp](https://open.spotify.com/album/765nVc9qoHX3bLF2tMsrig) | 3:44 |
 | 20 | [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 |
-| 21 | [Nevel op het water](https://open.spotify.com/track/7D1bpiWYMn7Ed5aLWvCdWX) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Zonder foto](https://open.spotify.com/album/4HGxNcg7YGczuALJFuc5u8) | 2:50 |
+| 21 | [Nevel op het water](https://open.spotify.com/track/4ln2ftnj5vmvZsl2GAybpr) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Spaanse gitaren](https://open.spotify.com/album/3OvexBuCYQ8VcCJS0aifxb) | 2:50 |
 | 22 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |
 | 23 | [Tiens ma main](https://open.spotify.com/track/2OP9iKAHM767rIa85WViM7) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Tiens ma main](https://open.spotify.com/album/4GZs8HylpUXyUbtvc2PNNJ) | 2:43 |
 | 24 | [Asa No Kiri](https://open.spotify.com/track/6lQdgoT6Y7XHyWCLbHsru3) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Seishin](https://open.spotify.com/album/5MFgzKASBxKXV8fQlUxuHv) | 1:46 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 208 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 |
 | 209 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 
-Snapshot ID: `MTY3ODIwNTcwMSwwMDAwMDAwMDg4MDljNGU0ZTg5NjAzYWFlNzUxMGMzZTIzMmE2NGY3`
+Snapshot ID: `MTY3ODIwNTcwMSwwMDAwMDAwMGI3YzNkNGY2MzY5NjY3OWJkNzM2YjJlN2FiNWJiOWI2`

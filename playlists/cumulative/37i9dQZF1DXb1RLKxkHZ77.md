@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Dalia Farhana
 
 182 songs - 11 hr 30 min
 

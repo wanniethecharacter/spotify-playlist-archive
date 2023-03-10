@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: SheedTs
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,052 likes - 65 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,098 likes - 65 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

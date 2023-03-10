@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 58893,
+  "num_followers": 58929,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDcyNzJkZDZjNGMwNWQzODMwMzhmODQ2ODYzMjdlODg0",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMGM0NTliYjMwM2UwYzNmYjM0MDgyMDk5ODIwN2RkMDll",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lagrimas De Mi Barrio",
-        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Lagrimas De Mi Barrio",
-      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Enamorada En Vivo",
         "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 189853,
       "name": "Llorar - En Vivo",
       "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lagrimas De Mi Barrio",
+        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Lagrimas De Mi Barrio",
+      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "La Diferencia - (En Vivo)",
-      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 189706,
       "name": "Estos Celos - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0w2gzREUayU0MUNSMFrqnf"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "La Diferencia - (En Vivo)",
+      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2021-12-29 23:15:19",

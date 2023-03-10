@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 29511,
+  "num_followers": 29551,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGNmNmUzYzdhODQyMGVlNGYyNTE1NjQzNTNhMjI5NTg1",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDQ5YmM4NTQ5Njk4NzM4ZWFjZTc0MjYyOGQ0OTc0Yzll",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -315,22 +315,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 240906,
-      "name": "El Mala Estrella",
-      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -351,18 +347,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+      "duration_ms": 240906,
+      "name": "El Mala Estrella",
+      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 6",
-        "url": "https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 172141,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Amor Ilegal",
         "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 170253,
       "name": "Amor Ilegal",
       "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 6",
+        "url": "https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 172141,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl"
     },
     {
       "added_at": "2022-09-22 18:15:34",

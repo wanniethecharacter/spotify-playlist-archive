@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lizzy McAlpine
 
-1,188 songs - 2 day 15 hr 20 min
+1,189 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,7 +887,8 @@
 | [Sad Corny Fuck](https://open.spotify.com/track/5YlHgqWo3Kt2mF88ubmR62) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together](https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9) | 3:40 | 2020-04-26\* | 2020-05-16 |
 | [Sad Faces](https://open.spotify.com/track/47BjMzd5ezVcjDgKRbCWAY) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Sad Faces](https://open.spotify.com/album/049pXL3aB1zNmaJ7CNIK2h) | 2:54 | 2020-10-16 | 2020-12-13 |
 | [Sad Sad Sad](https://open.spotify.com/track/3WBrVcz2iXxnQpEso12Wnw) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Sad Sad Sad](https://open.spotify.com/album/4wDEYOS2vH4j3T7SOdJKAq) | 3:01 | 2021-08-14 | 2021-12-04 |
-| [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-10-10 |  |
+| [Sadtown USA](https://open.spotify.com/track/1JSPW0h57CHHDFABPH6VxR) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Special](https://open.spotify.com/album/6Gu8z975FwatmYxpXNG1hh) | 3:10 | 2023-03-03 |  |
+| [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-10-10 | 2023-03-10 |
 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 | 2022-07-22 | 2022-10-13 |
 | [Safe Place](https://open.spotify.com/track/2pzdG9wrLHiLtOZxGnpThj) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Safe Place](https://open.spotify.com/album/3sEoI3sYBqimCSIhbyr1YW) | 2:36 | 2021-05-29 | 2021-08-07 |
 | [Sail Away](https://open.spotify.com/track/3L39BPAGNdyM2wnHNr06aF) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Sail Away](https://open.spotify.com/album/13IbfiWa5dygjuGio0uSNP) | 3:30 | 2020-08-30 | 2020-11-13 |

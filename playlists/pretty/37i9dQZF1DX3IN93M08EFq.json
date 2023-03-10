@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58453,
+  "num_followers": 58461,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDEwNDFlOGVjMTVjOGM0M2I5MjNiYTQ1ZTY3OGUwNGE1",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDViMjQ5NTQ3MzRiZGQ0MmUwMDQwZGQ0YzMyOWQ4ZmEw",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/566D06wiMbyLObuhYOPFM5"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l"
       },
       "artists": [
         {
-          "name": "Kite",
-          "url": "https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 205087,
-      "name": "Jonny Boy",
-      "url": "https://open.spotify.com/track/1TWtyAi8boF1JbzWpFMChL"
+      "duration_ms": 175426,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph"
     }
   ],
   "unique_name": "Spela Shoreline!",

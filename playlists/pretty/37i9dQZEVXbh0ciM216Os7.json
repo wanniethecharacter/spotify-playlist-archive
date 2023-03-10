@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NjM2NjAsMDAwMDAwMDBmMDVmYmFiNGRjMGU4OWNmNzMwMjIwMjkyNDJjNDY4NQ==",
+  "snapshot_id": "Mjc5NjM2NjAsMDAwMDAwMDA1Mzg1ZDJmODliMDkyNWY2NGEwMzc2YzIzYTIzZjdjYQ==",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -83,58 +83,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Aged Eyes",
-        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Aged Eyes",
-      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "If Darkness Had a Son",
-        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Hungry Heart ft. Hayley Kiyoko",
         "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
       },
@@ -159,22 +107,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "NINA SIMONE INTEGRAL 1957- 1962",
-        "url": "https://open.spotify.com/album/1wVseZxXPYZfi2u2h07Yqr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "Porgy",
-      "url": "https://open.spotify.com/track/5SZWtUJum37Vv6gJiIcXb7"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
       },
@@ -195,6 +127,38 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "I Was Made For Lovin' You",
         "url": "https://open.spotify.com/album/0I49BKedDZNdkLSNjsq3PB"
       },
@@ -211,6 +175,26 @@
       "duration_ms": 264764,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/7kmvG897NnuVUfNuWL1dKr"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Aged Eyes",
+        "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -343,6 +327,38 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Hotel Window",
+        "url": "https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 123454,
+      "name": "Hotel Window",
+      "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6f9MaHlw1oJ0aTQFTHIRyH"
+      },
+      "artists": [
+        {
+          "name": "Gr8 beats",
+          "url": "https://open.spotify.com/artist/0nbx3ygkskJ93VdTji8LFN"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Eternal Youth",
+      "url": "https://open.spotify.com/track/6nX9K5ssifEIVNjMqj21jS"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Lovesong",
         "url": "https://open.spotify.com/album/3PceYgXOI6BnaxPAYoCGd4"
       },
@@ -431,34 +447,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Good ,Bad, and Ugly",
-        "url": "https://open.spotify.com/album/30lOKgtPxubo3RAmPDbGU0"
-      },
-      "artists": [
-        {
-          "name": "WRECKONE",
-          "url": "https://open.spotify.com/artist/2K7ZyhxV7cMwxhGcc5Ggpm"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        },
-        {
-          "name": "JHONNY BLAZE",
-          "url": "https://open.spotify.com/artist/7MnDyEj0KzJMMCDwOcaD63"
-        }
-      ],
-      "duration_ms": 117500,
-      "name": "The Good ,Bad, and Ugly",
-      "url": "https://open.spotify.com/track/1bCTelTgpZc6cwtwInOYNR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Beautiful Black Eyes",
         "url": "https://open.spotify.com/album/4NnTJSBGucLoZWlualGuVf"
       },
@@ -471,22 +459,6 @@
       "duration_ms": 555386,
       "name": "Beautiful Black Eyes",
       "url": "https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Tell Everyone",
-        "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tell Everyone",
-      "url": "https://open.spotify.com/track/2URpmILVPQ3tUe4g0DATNk"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -527,30 +499,46 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Powermovesceo",
-        "url": "https://open.spotify.com/album/68QposhxAONUZM8DGYTZXx"
+        "name": "The Good ,Bad, and Ugly",
+        "url": "https://open.spotify.com/album/30lOKgtPxubo3RAmPDbGU0"
       },
       "artists": [
         {
-          "name": "Ramon Rivas",
-          "url": "https://open.spotify.com/artist/2GWdsmfumamXcCw1YNiFlc"
+          "name": "WRECKONE",
+          "url": "https://open.spotify.com/artist/2K7ZyhxV7cMwxhGcc5Ggpm"
         },
         {
-          "name": "Josh Hammonds",
-          "url": "https://open.spotify.com/artist/6s1ynKqEKxSMmprCgG7Qaf"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Lifeof9000",
-          "url": "https://open.spotify.com/artist/4Au8gjVrUK9p2Kf2BI1ZRS"
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
         },
         {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+          "name": "JHONNY BLAZE",
+          "url": "https://open.spotify.com/artist/7MnDyEj0KzJMMCDwOcaD63"
         }
       ],
-      "duration_ms": 270053,
-      "name": "Powermovesceo",
-      "url": "https://open.spotify.com/track/5gXM79V8wrjO5YC5nN4tZu"
+      "duration_ms": 117500,
+      "name": "The Good ,Bad, and Ugly",
+      "url": "https://open.spotify.com/track/1bCTelTgpZc6cwtwInOYNR"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Tell Everyone",
+        "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tell Everyone",
+      "url": "https://open.spotify.com/track/2URpmILVPQ3tUe4g0DATNk"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -562,35 +550,11 @@
         {
           "name": "The Rolling Stones",
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/7EXJJpgDl7y4szvrpUYj0s"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 392213,
-      "name": "Going Down - Live",
-      "url": "https://open.spotify.com/track/6lh4FKmXrRgxHloSdBduCc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Lost Not Forgotten Archives: Distance Over Time Demos (2018)",
-        "url": "https://open.spotify.com/album/3813UgywzpXjMYQiWyb859"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 244524,
-      "name": "Song 03 (Out of Reach) - Demo 2018",
-      "url": "https://open.spotify.com/track/25ghCUrrSN01d0ztw7A4M9"
+      "duration_ms": 424920,
+      "name": "Sympathy For The Devil - Live",
+      "url": "https://open.spotify.com/track/09mQI8YU9zBNneF8nhzOxD"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -607,6 +571,22 @@
       "duration_ms": 108292,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0besl0cAyue3iXVJ2YI97s"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Lost Not Forgotten Archives: Distance Over Time Demos (2018)",
+        "url": "https://open.spotify.com/album/3813UgywzpXjMYQiWyb859"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 264161,
+      "name": "Song 02 (Paralyzed) - Demo 2018",
+      "url": "https://open.spotify.com/track/1AOqt8dL9UqsipSOHAZdV2"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

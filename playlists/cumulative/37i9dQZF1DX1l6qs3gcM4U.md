@@ -4,11 +4,12 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Deejay Telio & Yasmine.
 
-296 songs - 17 hr 56 min
+297 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
+| [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 |  |
 | [A Nossa Vez](https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A.N.V.](https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N) | 3:37 | 2022-03-25 |  |
 | [A Terra Onde Se Nasce](https://open.spotify.com/track/4fR63zYe5FgYaGIv6TicsX) | [João Mestre](https://open.spotify.com/artist/1PxCOoZdihbvGvDCAqiJr1), [Reflect](https://open.spotify.com/artist/0rgNRW2OLmvH23mDdH6FH3), [Laura Abel](https://open.spotify.com/artist/5cYh5NHenPEINDT81dUuyR), [Napoleão Mira](https://open.spotify.com/artist/4nHD4bL7ukeRwfjrDI0QXD) | [A Terra Onde Se Nasce](https://open.spotify.com/album/2oIT2sxMibkvfLDLydwKUJ) | 4:14 | 2022-03-25 | 2022-04-17 |
 | [A Tua Boca](https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa) | [A Tua Boca](https://open.spotify.com/album/3YxkgTCDCHOXEwKDvi33M1) | 3:48 | 2021-12-10 | 2022-07-28 |
@@ -197,7 +198,7 @@
 | [Pa Bo](https://open.spotify.com/track/4kG9TzsANyoGlBBBZOF3ly) | [Dji Matias](https://open.spotify.com/artist/5mOlzlTezQGdusDUogjXnP), [Friderika](https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS) | [Pa Bo](https://open.spotify.com/album/4QymS0mQNSsiVyV9Ntyw3F) | 3:17 | 2022-07-22 | 2022-07-28 |
 | [Padrinho](https://open.spotify.com/track/0lbLACKqa1sg7RitjHpVxC) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Puto Portugues](https://open.spotify.com/artist/2cSucEp5rNKjsY6B18Hzpt) | [Padrinho](https://open.spotify.com/album/0JDH6EcD4OWOewBkVG0UOW) | 3:39 | 2022-04-22 | 2022-06-07 |
 | [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 | 2022-08-04 |  |
-| [PAPI](https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [PAPI](https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD) | 3:37 | 2022-03-25 |  |
+| [PAPI](https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [PAPI](https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD) | 3:37 | 2022-03-25 | 2023-03-10 |
 | [Para Para](https://open.spotify.com/track/5t9faEYkqP9aNAh70RXRor) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Kenny André](https://open.spotify.com/artist/5cYWf1PB3aglJRprDIcTWP) | [Para Para](https://open.spotify.com/album/7D8H34Hsa20isTrlVPnkXT) | 2:47 | 2022-02-11 | 2022-03-06 |
 | [Paradise](https://open.spotify.com/track/4mLhhkXotGXUrHZyNVQ4of) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Paradise](https://open.spotify.com/album/1zcy0WbVAHrs5AacOEvXa8) | 4:08 | 2021-12-10 | 2022-07-13 |
 | [Parar O Tempo \(feat\. Mika Mendes\)](https://open.spotify.com/track/79gXTEpKycijVMspDoi3xG) | [Ravidson](https://open.spotify.com/artist/1vvyxjq4RKNF1AzsdnR5Sk), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Rising](https://open.spotify.com/album/7gS0bFas0II42WXoKoQTMC) | 4:17 | 2022-02-18 | 2022-05-23 |

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Lani Rose
 
-262 songs - 16 hr 24 min
+263 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Even On The Worst Days](https://open.spotify.com/track/1kAKjJ8T5MRqDbSe3N1Jk6) | [Mandi Mapes](https://open.spotify.com/artist/4VIZatfDlVCKdndcziajoA) | [Even On The Worst Days](https://open.spotify.com/album/2BqoIv37AtLX7wa8ia5dve) | 3:39 | 2023-02-19 |  |
 | [Faith Fall \- vibey acoustic](https://open.spotify.com/track/26zlbmQ36DOA1yyi0sc9jz) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 3:49 | 2023-02-19 |  |
 | [Faithful \- Demo](https://open.spotify.com/track/2QMADwyP22IyJIRkTKAAhO) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Faithful \(Demo\)](https://open.spotify.com/album/24oCcqn0qLS29STWZ9s7KJ) | 3:58 | 2023-02-19 | 2023-03-03 |
+| [Faithful \- Demo](https://open.spotify.com/track/3Jm671Xz80Mr3qlQmXJ9qR) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Throne Room](https://open.spotify.com/album/2buktwWoAIGQCPgDa11Cvt) | 3:58 | 2023-02-24 |  |
 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 | 2020-12-18 | 2023-02-19 |
 | [Falling Up](https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/0zDzV5qt4vpwVkv7xmliUe) | 3:19 | 2020-12-18 | 2022-07-28 |
 | [Far Kingdom \(reimagined\)](https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Far Kingdom \(reimagined\)](https://open.spotify.com/album/55m7zq0QtVvPe1hqGHOcY8) | 3:59 | 2020-12-18 | 2022-07-29 |
@@ -207,7 +208,7 @@
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-12-18 | 2023-02-19 |
 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 | 2020-12-18 | 2023-02-19 |
 | [Start Again \- Living Room Session](https://open.spotify.com/track/5XC1gW6OOcKmtEw2pNqy82) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Fatai](https://open.spotify.com/artist/34OMadP955CwymrTGJUbsw), [Noah Rubin](https://open.spotify.com/artist/1kzoa4zr7kttB4gBk8Wqku) | [Start Again \(Living Room Session\)](https://open.spotify.com/album/2uatX8tO9CyaQikffr0yFO) | 4:05 | 2023-02-19 |  |
-| [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 | 2023-02-24 |  |
+| [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 | 2023-02-24 | 2023-03-10 |
 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 | 2023-02-19 |  |
 | [Still Standing](https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Still Standing](https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn) | 3:24 | 2023-02-19 |  |
 | [Stir A Passion](https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [O, Peace](https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL) | 5:04 | 2020-12-18 | 2023-02-19 |

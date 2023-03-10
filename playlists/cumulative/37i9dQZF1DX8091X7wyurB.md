@@ -4,12 +4,13 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-113 songs - 8 hr 54 min
+114 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Able](https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Able](https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4) | 3:36 | 2022-06-30 | 2022-10-04 |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2022-06-30 |  |
+| [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 |  |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
 | [April Celebrants Special \(Live\)](https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [April Celebrants Special \(Live\)](https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu) | 4:57 | 2022-06-30 | 2023-02-04 |
 | [Ayeyi Ndwom \(feat\. Ohemaa Mercy\)](https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:25 | 2022-06-30 |  |
@@ -57,7 +58,7 @@
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-08 | 2023-01-20 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2022-06-30 |  |
 | [Knives & Lambs](https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [Love Child 3](https://open.spotify.com/album/5yQtKbqyHDaHBdmoNzoZjm) | 5:59 | 2022-06-30 |  |
-| [Lehin Jesu ko Se Nikan O \- Special Version](https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lehin Jesu ko Se Nikan O \(Special Version\)](https://open.spotify.com/album/0k4ekS1syiy4WRFhSztXSZ) | 1:57 | 2023-03-03 |  |
+| [Lehin Jesu ko Se Nikan O \- Special Version](https://open.spotify.com/track/6cbXoWFKmVKAbaecq4lwhH) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lehin Jesu ko Se Nikan O \(Special Version\)](https://open.spotify.com/album/0k4ekS1syiy4WRFhSztXSZ) | 1:57 | 2023-03-03 | 2023-03-10 |
 | [Love Is Sweet](https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Love Is Sweet](https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu) | 2:35 | 2023-02-10 |  |
 | [Melody](https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Melody](https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7) | 3:57 | 2023-01-20 |  |
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-11-18 | 2023-01-20 |

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Casa Commercial",
+        "url": "https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g"
+      },
+      "artists": [
+        {
+          "name": "Palo Santo",
+          "url": "https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Casa Commercial",
+      "url": "https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA"
+    },
+    {
+      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/2k4TuEENRlXWOp9sJLAnDr"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 133500,
       "name": "I Promise You",
       "url": "https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF"
@@ -2002,6 +2020,32 @@
       "duration_ms": 177560,
       "name": "Strando",
       "url": "https://open.spotify.com/track/5w7VoQPLh12DPLASLcd4ew"
+    },
+    {
+      "album": {
+        "name": "Sweet Harmony (Remixed)",
+        "url": "https://open.spotify.com/album/02MzP5OO5FfTgyH1OlpEnS"
+      },
+      "artists": [
+        {
+          "name": "David Hasert",
+          "url": "https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d"
+        },
+        {
+          "name": "Beatamines",
+          "url": "https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK"
+        },
+        {
+          "name": "Erdi Irmak",
+          "url": "https://open.spotify.com/artist/5KIoXQYGj3bWNxCVkiW7M6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406350,
+      "name": "Sweet Harmony - Erdi Irmak Remix",
+      "url": "https://open.spotify.com/track/0ZEGR6XcO7gG8aFhTMPofm"
     },
     {
       "album": {

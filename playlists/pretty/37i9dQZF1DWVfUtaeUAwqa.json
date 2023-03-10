@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6951,
+  "num_followers": 6952,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDFmYTBkYzAxNTA2M2MxODY0MzE3NWU5MWJmNGU0MDli",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGY1YzBmZDRmNDhlNmJjZmViYmMyMTc2YWIzNmI2MWNh",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet's Blue Note Jazzmen",
-          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Weary Blues",
-      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Goes South!",
         "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 220540,
       "name": "Milenberg Joys",
       "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet's Blue Note Jazzmen",
+          "url": "https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 335280,
-      "name": "Original Dixieland One Step",
-      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Complete Set - 1923-1926",
         "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 153506,
       "name": "Stock Yards Strut",
       "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 335280,
+      "name": "Original Dixieland One Step",
+      "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Brooks & Dunn's iconic album \"Hard Workin' Man\" on 90s Country! ",
-  "num_followers": 1492953,
+  "num_followers": 1494098,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEyODQwMCwwMDAwMDAwMGQ1MzM3OWZlZjYwYjBlZGVjYzA2NzJmODVjY2M3YjBm",
+  "snapshot_id": "MTY3NzEyODQwMCwwMDAwMDAwMDhmMDZhMjg2NmQ5NGZkN2U3ODkxODVmNjNkZDA3ODUz",
   "tracks": [
     {
       "added_at": "2023-01-20 04:30:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Blue Clear Sky",
         "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174866,
       "name": "Blue Clear Sky",
       "url": "https://open.spotify.com/track/59MIR30ATtW8kTaX3SCpq0"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
         "name": "Longnecks & Short Stories",
         "url": "https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 185840,
       "name": "Bubba Shot The Jukebox",
       "url": "https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "Blue Clear Sky",
-        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "I Can Still Make Cheyenne",
-      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
+        "name": "Blue Clear Sky",
+        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "I Can Still Make Cheyenne",
+      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 172200,
       "name": "Be My Baby Tonight",
       "url": "https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
-      },
-      "artists": [
-        {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "A Thousand Memories",
         "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 243106,
       "name": "That Ain't My Truck",
       "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+      },
+      "artists": [
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "The Greatest Hits Collection",
         "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "T-R-O-U-B-L-E",
-        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 180160,
-      "name": "T-R-O-U-B-L-E",
-      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1167,6 +1151,22 @@
       "duration_ms": 213973,
       "name": "I'm From The Country - Single Version",
       "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "T-R-O-U-B-L-E",
+        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "T-R-O-U-B-L-E",
+      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
       "artists": [
         {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "I Will Stand",
-        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "She's Got It All",
-      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "The Very Best of Travis Tritt",
         "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 213706,
       "name": "Take It Easy - 2006 Remaster",
       "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "I Will Stand",
+        "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "She's Got It All",
+      "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1363,18 +1363,34 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 173426,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1423,22 +1439,6 @@
       "duration_ms": 219506,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "High Lonesome",
-        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Better Class of Losers",
-      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Something In Red",
         "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 176040,
       "name": "Except for Monday",
       "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "High Lonesome",
+        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Better Class of Losers",
+      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+      "duration_ms": 210866,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1791,6 +1791,22 @@
       "duration_ms": 173600,
       "name": "No News",
       "url": "https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1823,22 +1839,6 @@
       "duration_ms": 236466,
       "name": "Baby Likes To Rock It",
       "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
-      },
-      "artists": [
-        {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Rumor Has It",
         "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 213333,
       "name": "The Shake",
       "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 227640,
       "name": "No Doubt About It",
       "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2023-01-20 04:30:15",

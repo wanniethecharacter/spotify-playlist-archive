@@ -4,7 +4,7 @@
 
 > Escucha la selección que Señoras Punk hicieron para Mamá Cool\. 🤘🏼🖤
 
-285 songs - 17 hr 7 min
+286 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2022-04-18 | 2023-02-21 |
 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-07-19 | 2023-02-21 |
 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 | 2022-09-30 | 2022-12-10 |
+| [Me Pregunto](https://open.spotify.com/track/0dxUCvJwEvGb59Uy76hYW2) | [A Veces Amanda](https://open.spotify.com/artist/2BSwfWyZyJpTNsXnfLpgRQ) | [Reacciones](https://open.spotify.com/album/1R8Fe88PTRGvUoYNCvOsAz) | 4:23 | 2023-02-20 |  |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2022-04-18 | 2022-08-31 |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-04-18 | 2022-07-29 |
 | [Melancólica](https://open.spotify.com/track/6PLyKKtmiSNIOtFDKi126j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Me Cansé de Llorar Voy a Vomitar](https://open.spotify.com/album/4tlcBZpe0lg1Yexp2xLZo0) | 2:00 | 2023-02-20 |  |
@@ -264,7 +265,7 @@
 | [Turn Into](https://open.spotify.com/track/0QCpDMWI8zQTB58WqVgu7C) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/1tW2xzjwARfKVOQp6e43Fj) | 3:23 | 2023-02-20 |  |
 | [Turn Into](https://open.spotify.com/track/63RybHPymD78kESTzetPNP) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 4:05 | 2023-02-20 |  |
 | [Té De Piña](https://open.spotify.com/track/1oWmADHtpjSRWFGI6OPC67) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:22 | 2022-10-07 | 2023-01-21 |
-| [Un Día](https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Un Día](https://open.spotify.com/album/5YQxAZ76T248nfmED6QxsE) | 5:35 | 2023-02-20 |  |
+| [Un Día](https://open.spotify.com/track/2AFTdaMM2Y8aTG7FdKHyWF) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Un Día](https://open.spotify.com/album/5YQxAZ76T248nfmED6QxsE) | 5:35 | 2023-02-20 | 2023-03-10 |
 | [Un Día Especial](https://open.spotify.com/track/4EavV1ZnEKT4X3KlljYBsA) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Un Día Especial](https://open.spotify.com/album/5qKRtiCKf7vQ6RmAZ5qUAT) | 3:24 | 2022-10-14 | 2022-12-10 |
 | [un rato](https://open.spotify.com/track/6C2KQRqLrtHrlIEjKdyXVJ) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:45 | 2023-02-20 |  |
 | [Undertow](https://open.spotify.com/track/2x5c9ApuyqGcJ0ApKukGCl) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool](https://open.spotify.com/album/5ILOMA8LzHfdjR2HZQ2vFN) | 5:53 | 2023-02-20 |  |

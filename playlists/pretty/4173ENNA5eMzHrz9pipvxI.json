@@ -1,182 +1,158 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Leftwing Kody x Robot Collective",
-  "num_followers": 120156,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  LUM!X x Gabry Ponte x Alida",
+  "num_followers": 120160,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjQ0MCw3MGQzN2U4NzJlYTEwZTNlODQ0MzhmODJjYTE0OGY5YmMxMTM1NThj",
+  "snapshot_id": "NjQ0NSxmZTUwOTU0NjZkNDU3MGVmODcyZDM2MDM1ZDI4NjFhMmJiMGFkMzRl",
   "tracks": [
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "A Place In The Dark",
-        "url": "https://open.spotify.com/album/3mMAancciIstM6xJ2xYv0X"
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
       },
       "artists": [
         {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Nikes",
+        "url": "https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "GRY",
-          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
         }
       ],
-      "duration_ms": 159565,
-      "name": "A Place In The Dark",
-      "url": "https://open.spotify.com/track/7brwHNQOIkksblcpwaVBvL"
+      "duration_ms": 149583,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/6W5AE2AwsYRz9yaerVhHYT"
+        "name": "Major Lazer",
+        "url": "https://open.spotify.com/album/0lvEoELFjNxivRwSoSBLb3"
       },
       "artists": [
         {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "Robot Collective",
-          "url": "https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp"
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/4XeCHTFZsnBkWalJNSqIDs"
+      "duration_ms": 166468,
+      "name": "Major Lazer",
+      "url": "https://open.spotify.com/track/7omRjfVEwx72dRDNWdFs43"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Crank That",
-        "url": "https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0"
+        "name": "Money On My Mind",
+        "url": "https://open.spotify.com/album/34NJpodehWmHpl3bLdhpP6"
       },
       "artists": [
         {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Crank That",
-      "url": "https://open.spotify.com/track/2ez15htfMruYGZAGpIUjit"
-    },
-    {
-      "added_at": "2023-03-03 09:40:40",
-      "album": {
-        "name": "Paris To Berlin",
-        "url": "https://open.spotify.com/album/67wCOcMvPGm0GahQ8EIq8q"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "Paris To Berlin",
-      "url": "https://open.spotify.com/track/2Ks189PRfXXnNH3FAT0Jnc"
-    },
-    {
-      "added_at": "2023-03-03 09:40:40",
-      "album": {
-        "name": "I Gotta Bounce",
-        "url": "https://open.spotify.com/album/26ZjsFxV1YTIHduvSbsMfn"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        }
-      ],
-      "duration_ms": 136967,
-      "name": "I Gotta Bounce",
-      "url": "https://open.spotify.com/track/58oVRFZOGODLqideI0G5DF"
-    },
-    {
-      "added_at": "2023-03-03 09:40:40",
-      "album": {
-        "name": "Paralyzed By Your Eyes",
-        "url": "https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 160476,
-      "name": "Paralyzed By Your Eyes",
-      "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
-    },
-    {
-      "added_at": "2023-03-03 09:40:40",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/0I6BYJN3uWc5cYJ1C5faZM"
-      },
-      "artists": [
-        {
-          "name": "Bounce Inc.",
-          "url": "https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
         },
         {
-          "name": "SPLT",
-          "url": "https://open.spotify.com/artist/5Ma3LBUnDFkXhILojyeug3"
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
         }
       ],
-      "duration_ms": 203636,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5CF0J17yCgiOuesCGJU0Jf"
+      "duration_ms": 133691,
+      "name": "Money On My Mind",
+      "url": "https://open.spotify.com/track/7C7XVzOXWx0vdOlS7D2ieH"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Drop That Low (When I Dip) [feat. Kid Ink] [GOOD N\u2019 BAD Remix]",
-        "url": "https://open.spotify.com/album/4F1hqOhNHr3o3gjvBvltY6"
+        "name": "Bumpin'",
+        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "GOOD N\u2019 BAD",
-          "url": "https://open.spotify.com/artist/6stxtq6kFlB4ZpYsfXnYUb"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
         }
       ],
-      "duration_ms": 139218,
-      "name": "Drop That Low (When I Dip) [feat. Kid Ink] [GOOD N\u2019 BAD Remix]",
-      "url": "https://open.spotify.com/track/3ngvQArJT8Kd26hZAhvIjo"
+      "duration_ms": 208869,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Midnight Club",
-        "url": "https://open.spotify.com/album/2SpfqvG4YGI2sVk4kglS7k"
+        "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+        "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
       },
       "artists": [
         {
-          "name": "509 $icario",
-          "url": "https://open.spotify.com/artist/6Wx2VVhGDwD4RTwJ4yyip2"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 168549,
-      "name": "Midnight Club",
-      "url": "https://open.spotify.com/track/0voSkJzkArRukviUK5RjPE"
+      "duration_ms": 217673,
+      "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+      "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e"
+        "name": "Zombie (feat. Sam Stray Wood & Kiirah)",
+        "url": "https://open.spotify.com/album/0D2UuEfuO21LT5al7X1Ygv"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Alterboy",
+          "url": "https://open.spotify.com/artist/4yR4Yc8RhsKBEwJ3JQQcY3"
+        },
+        {
+          "name": "Sam Stray Wood",
+          "url": "https://open.spotify.com/artist/4X1oGt6g3c7h9UFTmwYDhF"
+        },
+        {
+          "name": "Kiirah",
+          "url": "https://open.spotify.com/artist/5dOP9Sfrydo6TqNsX7oPhv"
+        }
+      ],
+      "duration_ms": 187559,
+      "name": "Zombie (feat. Sam Stray Wood & Kiirah)",
+      "url": "https://open.spotify.com/track/1DzhpS9SP57PHHVO5HEewk"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "After Midnight (feat. Xoro) [Aktive Remix]",
+        "url": "https://open.spotify.com/album/0GxvhPzGkSKLDKdtqJz8SS"
       },
       "artists": [
         {
@@ -192,45 +168,197 @@
           "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
         }
       ],
-      "duration_ms": 149760,
-      "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
-      "url": "https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk"
+      "duration_ms": 206916,
+      "name": "After Midnight (feat. Xoro) [Aktive Remix]",
+      "url": "https://open.spotify.com/track/4n8BWstzoAPixTQX5Vzeli"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Somebody To Love (feat. LIZOT, Basstrologe) [Slowed Version]",
-        "url": "https://open.spotify.com/album/7aoHA9AF12s06S5zSUxeMN"
+        "name": "Breezer",
+        "url": "https://open.spotify.com/album/28XobgtVsOWzrn0KKCur28"
       },
       "artists": [
         {
-          "name": "Nightcore Slowed Down Tunes",
-          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
         }
       ],
-      "duration_ms": 148279,
-      "name": "Somebody To Love (feat. LIZOT, Basstrologe) [Slowed Version]",
-      "url": "https://open.spotify.com/track/4zVdoOcp0UODLeKr6jwEKP"
+      "duration_ms": 169000,
+      "name": "Breezer",
+      "url": "https://open.spotify.com/track/6RAUnMjeXUG6BnHz7EaQNh"
     },
     {
-      "added_at": "2023-03-03 09:40:40",
+      "added_at": "2023-03-09 23:56:19",
       "album": {
-        "name": "Somebody To Love (feat. Basstrologe) [Slowed Version]",
-        "url": "https://open.spotify.com/album/0JR9pZ44wITwUqBPyhu1f1"
+        "name": "Je Win Je",
+        "url": "https://open.spotify.com/album/3tzfR548g28GTHqVE2plsL"
       },
       "artists": [
         {
-          "name": "Nightcore Slowed Down Tunes",
-          "url": "https://open.spotify.com/artist/6I9v0QaDWnhDW8TYjus5zs"
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
         }
       ],
-      "duration_ms": 161964,
-      "name": "Somebody To Love (feat. Basstrologe) [Slowed Version]",
-      "url": "https://open.spotify.com/track/4fbQbyieN8SuSkV6Jr0TLk"
+      "duration_ms": 193669,
+      "name": "Je Win Je",
+      "url": "https://open.spotify.com/track/5XqX6XXhQz9f6HE6v6BwWk"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Bite My Tongue",
+        "url": "https://open.spotify.com/album/3OOP39MVOHpCuKz5PINATT"
+      },
+      "artists": [
+        {
+          "name": "Dynamick",
+          "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "Bite My Tongue",
+      "url": "https://open.spotify.com/track/48I1OduvkSKjzsFhPQFU42"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Dream Of You",
+        "url": "https://open.spotify.com/album/3SrSVPe74Yc7Mq8NFrwzVx"
+      },
+      "artists": [
+        {
+          "name": "Lost Capital",
+          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
+        }
+      ],
+      "duration_ms": 144047,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/3lm2HKqkzRm6M6WxOZxJr1"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Got What U Need (feat. MELLY OHH)",
+        "url": "https://open.spotify.com/album/4IhXKu4TOSmYb9xA986wad"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "MELLY OHH",
+          "url": "https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa"
+        }
+      ],
+      "duration_ms": 176392,
+      "name": "Got What U Need (feat. MELLY OHH)",
+      "url": "https://open.spotify.com/track/5udjRtxA0Ivt0wt8Kz5lSG"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "After Midnight (feat. Xoro) [Club Mix]",
+        "url": "https://open.spotify.com/album/1nPbmjCTNaYYxe2MXHj3Yz"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "duration_ms": 157325,
+      "name": "After Midnight (feat. Xoro) [Club Mix]",
+      "url": "https://open.spotify.com/track/2P9wWPx0W7R0w9doOTYoP8"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Drop Da Bomb",
+        "url": "https://open.spotify.com/album/1gK92tqHvmH1We7jphlE0N"
+      },
+      "artists": [
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 149556,
+      "name": "Drop Da Bomb",
+      "url": "https://open.spotify.com/track/2p7x2Ogr7rVINUj7AT1M6L"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Kayra",
+        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Dance Dance [Gabry Ponte VIP MIX]",
+        "url": "https://open.spotify.com/album/4FoRO97f2jkAYP0Dn6FSmE"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c"
+        }
+      ],
+      "duration_ms": 146310,
+      "name": "Dance Dance [Gabry Ponte VIP MIX]",
+      "url": "https://open.spotify.com/track/1UMWdBvnHybdNir8fAyKyc"
+    },
+    {
+      "added_at": "2023-03-09 23:56:19",
+      "album": {
+        "name": "Pretty Little Lies",
+        "url": "https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "Pretty Little Lies",
+      "url": "https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

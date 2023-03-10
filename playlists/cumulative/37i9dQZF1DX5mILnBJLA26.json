@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g?si=IJIKRp1XRkerHVpl9yUFxQ\">TxC</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq?si=F2qPiue3QIWNarKvbLhkWg\">Sam Deep</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "ama45",
+        "url": "https://open.spotify.com/album/4OBKUV7pO9hlVTV5UhcZqX"
+      },
+      "artists": [
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        },
+        {
+          "name": "Themba Mbokazi",
+          "url": "https://open.spotify.com/artist/2QLdKPtekBDnmNtnl4ysZZ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324293,
+      "name": "Baleka Manzo",
+      "url": "https://open.spotify.com/track/1DZzoEV9Hy6vLr1LCemXHh"
+    },
+    {
+      "album": {
         "name": "Bambelela",
         "url": "https://open.spotify.com/album/14FNXaJ642dVgwg3zfqx2K"
       },
@@ -3679,6 +3701,28 @@
     },
     {
       "album": {
+        "name": "Chants",
+        "url": "https://open.spotify.com/album/1McRNT4b5j0mOZEgYLeZfF"
+      },
+      "artists": [
+        {
+          "name": "Sje Konka",
+          "url": "https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l"
+        },
+        {
+          "name": "Mafis MusiQ",
+          "url": "https://open.spotify.com/artist/3xYPav36gxZu48Ikh7ZuXK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300474,
+      "name": "Chants",
+      "url": "https://open.spotify.com/track/1oov9nuaInZy22UAXCPNxS"
+    },
+    {
+      "album": {
         "name": "Through Thick and Thin",
         "url": "https://open.spotify.com/album/4UNd4JpkrUYlIitvCiZV34"
       },
@@ -4218,6 +4262,36 @@
       "duration_ms": 277649,
       "name": "Daliwami",
       "url": "https://open.spotify.com/track/4fknfsdbSutIkCmUQsV7mR"
+    },
+    {
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/0TergxvhDCgB7GPACZlsbk"
+      },
+      "artists": [
+        {
+          "name": "FLUXX",
+          "url": "https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf"
+        },
+        {
+          "name": "J Slayz",
+          "url": "https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj"
+        },
+        {
+          "name": "Rowm",
+          "url": "https://open.spotify.com/artist/3osCXp28xO6eTfCKjO9vD4"
+        },
+        {
+          "name": "TheBoyTapes",
+          "url": "https://open.spotify.com/artist/6ul6rON4n7muiiM9rMnBP8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377157,
+      "name": "Damage Control",
+      "url": "https://open.spotify.com/track/4j4eWhH28zwmq8pvhatFjA"
     },
     {
       "album": {
@@ -8205,6 +8279,32 @@
     },
     {
       "album": {
+        "name": "iMpumelelo",
+        "url": "https://open.spotify.com/album/600f0AtpknH8u1xPwPs7JE"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378264,
+      "name": "iMpumelelo",
+      "url": "https://open.spotify.com/track/5SjrCoaMIUauMrOZG2CUnq"
+    },
+    {
+      "album": {
         "name": "Horumar",
         "url": "https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU"
       },
@@ -10668,6 +10768,40 @@
       "duration_ms": 342968,
       "name": "Krueger 2.0",
       "url": "https://open.spotify.com/track/5WqHutOc180qYRh2J97LB7"
+    },
+    {
+      "album": {
+        "name": "Kube Busy",
+        "url": "https://open.spotify.com/album/3rua3d06gYadyAQ2RgW8ST"
+      },
+      "artists": [
+        {
+          "name": "Amu Classic",
+          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
+        },
+        {
+          "name": "Kappie",
+          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
+        },
+        {
+          "name": "Muziqal Tone",
+          "url": "https://open.spotify.com/artist/0dswN69mvtfnBkONPK7ZkK"
+        },
+        {
+          "name": "Frankeyz",
+          "url": "https://open.spotify.com/artist/3IFKEht0YuwneWHaIX2xqA"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345089,
+      "name": "Kube Busy",
+      "url": "https://open.spotify.com/track/0RggHr4c6M9lHcwqpHUuUs"
     },
     {
       "album": {
@@ -13626,7 +13760,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 418412,
       "name": "Ndoni Ya Manzi",
       "url": "https://open.spotify.com/track/3PYDa2SzYYJLksXParXBYJ"
@@ -13782,6 +13916,32 @@
       "duration_ms": 235719,
       "name": "Ngikhethile - Radio Edit",
       "url": "https://open.spotify.com/track/7bL6HJLmXDjC29PXMOfjyL"
+    },
+    {
+      "album": {
+        "name": "Ngikunika Uthando",
+        "url": "https://open.spotify.com/album/5z7zuZ03kfORGIK8aru9s8"
+      },
+      "artists": [
+        {
+          "name": "Dj Givy Baby",
+          "url": "https://open.spotify.com/artist/2pfll04yFLCZvhgTaDHVwo"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Soa mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "Ngikunika Uthando",
+      "url": "https://open.spotify.com/track/52nJW2DTnPP4hzUWkxhYaO"
     },
     {
       "album": {
@@ -15408,7 +15568,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 341012,
       "name": "Point at Them",
       "url": "https://open.spotify.com/track/1oOEbAS0F7ztS9zQhDCU9q"
@@ -15536,6 +15696,32 @@
       "duration_ms": 516077,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4P2gthOytLLGmjK4nLDPzh"
+    },
+    {
+      "album": {
+        "name": "Problem Child",
+        "url": "https://open.spotify.com/album/53ARB3x9EQgYez9PzJ16GF"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/1ddaxtrmw7YbvxBWXWN33T"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "DrummeRTee924",
+          "url": "https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312796,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/3FZYDrWATfqtGyIa5K9UPK"
     },
     {
       "album": {
@@ -16856,6 +17042,32 @@
       "duration_ms": 409836,
       "name": "Show",
       "url": "https://open.spotify.com/track/5nDtS1NnNVyminWi9i2cQv"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/7rXxlR0iJQGgHXTsUQacGk"
+      },
+      "artists": [
+        {
+          "name": "Nkanyezi Kubheka",
+          "url": "https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu"
+        },
+        {
+          "name": "Amapiano Madness",
+          "url": "https://open.spotify.com/artist/3r5wLfhWeRd17ogjabRqeo"
+        },
+        {
+          "name": "Dj Mashesha",
+          "url": "https://open.spotify.com/artist/68SuzNQoA4mV0MIOKJYUBh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382355,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/54Ok6AeIYeV85U8olk73j2"
     },
     {
       "album": {
@@ -18770,7 +18982,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 360898,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/7mtYB1ZJUfPYryYdNBJx6S"
@@ -19064,7 +19276,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 328788,
       "name": "Thandumuntu",
       "url": "https://open.spotify.com/track/48cBbmmDgAgFDcTKyfWr3j"
@@ -19528,7 +19740,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 379369,
       "name": "Thula",
       "url": "https://open.spotify.com/track/01OykvFNn1Zya7baEJcu1i"
@@ -21686,7 +21898,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 402862,
       "name": "Vasco",
       "url": "https://open.spotify.com/track/3G8k1HDrcsNrw1i3stjhPT"
@@ -21838,6 +22050,32 @@
       "duration_ms": 314336,
       "name": "Vum Vum",
       "url": "https://open.spotify.com/track/3p2DXbzwbhFVMyr4PXZ4s8"
+    },
+    {
+      "album": {
+        "name": "Vuma Nhliziyo",
+        "url": "https://open.spotify.com/album/2niyMtLWoErb7S1f3a1skE"
+      },
+      "artists": [
+        {
+          "name": "DJ Raybel",
+          "url": "https://open.spotify.com/artist/6JDlk9tWyI6Kyp5bIaBWnr"
+        },
+        {
+          "name": "Sburhaiirsh",
+          "url": "https://open.spotify.com/artist/4lrqeUDRox6XgPMV4H1wJh"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277321,
+      "name": "Vuma Nhliziyo",
+      "url": "https://open.spotify.com/track/1tsl3G2uXYVlcRkUBMMxvH"
     },
     {
       "album": {
@@ -22027,6 +22265,36 @@
     },
     {
       "album": {
+        "name": "Wankolota",
+        "url": "https://open.spotify.com/album/36n34Gx4xadGjD0wrQ8t4F"
+      },
+      "artists": [
+        {
+          "name": "Pushkin RSA",
+          "url": "https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7"
+        },
+        {
+          "name": "Springle",
+          "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
+        },
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "T&T Muziq",
+          "url": "https://open.spotify.com/artist/7osVqUbV5Qb0egnEEnldCS"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317181,
+      "name": "Wankolota",
+      "url": "https://open.spotify.com/track/1ZP3EqMEuMEhaUWS9wC0ev"
+    },
+    {
+      "album": {
         "name": "Want",
         "url": "https://open.spotify.com/album/46ZtJ3n0Z1Ux2BhcaGqfKQ"
       },
@@ -22134,7 +22402,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 416496,
       "name": "Washaaa",
       "url": "https://open.spotify.com/track/1PN9qUEsfYzf8r9Av4uafK"

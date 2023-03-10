@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126807,
+  "num_followers": 126791,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDI5YjU5ODY2ZTY5MzE4MjRiOGZiYmUxMzQwOTNjNTg0",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDU5YzViNzU3ZDM5M2RjZTI1NmRiNzhiODI3NjI4ZDk0",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Kissin' In The Cold",
         "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
     },
     {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "Walking in The Air",
-        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Walking in The Air",
-      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "All You're Dreaming Of",
@@ -559,6 +543,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "Walking in The Air",
+        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Walking in The Air",
+      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
-      "added_at": "2022-11-18 01:17:11",
+      "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -637,20 +637,20 @@
       "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
+      "added_at": "2022-11-18 01:17:11",
       "album": {
-        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "My Favorite Things",
@@ -767,6 +751,22 @@
       "duration_ms": 191378,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 227887,
-      "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
-    },
-    {
       "added_at": "2022-12-09 00:00:00",
       "album": {
         "name": "River (Live in Studio)",
@@ -835,6 +819,22 @@
       "duration_ms": 243733,
       "name": "River - Live in Studio",
       "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 227887,
+      "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "2000 Miles",
-        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "frozen halos",
         "url": "https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 144440,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+      "duration_ms": 166801,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1063,6 +1047,22 @@
       "duration_ms": 180853,
       "name": "Come On Home For Christmas",
       "url": "https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Tracks in the Snow",
-        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tracks in the Snow",
-      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Man On The Moon",
         "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
       },
@@ -1227,22 +1211,6 @@
       "duration_ms": 171078,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "A Holly Dolly Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 201754,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1263,6 +1231,38 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "A Holly Dolly Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 201754,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/59zlM1isufljV8wUPby0rq"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Tracks in the Snow",
+        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tracks in the Snow",
+      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "This Christmas Day",
         "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
-      },
-      "artists": [
-        {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2022-11-18 01:05:05",

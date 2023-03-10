@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 334897,
+  "num_followers": 335095,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MzYxOCwwMDAwMDAwMDA2NjM1MDRkMDU3ZWRiYjYzNGJlMjhjMjFhMmFmNDRi",
+  "snapshot_id": "MTY3ODM4MDE3NiwwMDAwMDAwMGVmNTQxN2M1YzNiZTRjNDdkZDY0Mjc4OTgxMmM4ZTM2",
   "tracks": [
     {
       "added_at": "2023-02-09 16:16:26",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
-        "name": "Hooked (Hot Stuff)",
-        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
-      },
-      "artists": [
-        {
-          "name": "RIKA",
-          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Hooked (Hot Stuff)",
-      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
+    },
+    {
+      "added_at": "2023-02-09 16:16:26",
+      "album": {
+        "name": "Hooked (Hot Stuff)",
+        "url": "https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Hooked (Hot Stuff)",
+      "url": "https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B"
     },
     {
       "added_at": "2023-02-09 16:16:26",
@@ -827,6 +827,30 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
+        "name": "What a Night",
+        "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "What a Night",
+      "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
+    },
+    {
+      "added_at": "2023-02-09 16:16:26",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
-        "name": "What a Night",
-        "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "What a Night",
-      "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
     },
     {
       "added_at": "2023-02-09 16:16:26",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-02-09 16:16:26",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
-    },
-    {
-      "added_at": "2023-02-09 16:16:26",
-      "album": {
         "name": "Let Me Hold You (Turn Me On)",
         "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+    },
+    {
+      "added_at": "2023-02-09 16:16:26",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     }
   ],
   "unique_name": "EDM Samplings",

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-384 songs - 23 hr 23 min
+385 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2022-02-19 | 2022-06-26 |
 | [Holy Essence](https://open.spotify.com/track/2Qb7PUm6cBszW414ri6MGA) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Amen](https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE) | 4:30 | 2023-01-20 |  |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-04-01 |  |
+| [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 | 2023-01-20 |  |
 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 | 2022-02-19 | 2022-06-26 |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2022-04-01 | 2022-04-08 |
 | [I Believe In Me](https://open.spotify.com/track/3vG8onMouTfusD4JZEIiZX) | [Nikea Marie](https://open.spotify.com/artist/4PAvwyc8L7pMf5qPdRnT9D) | [I Believe In Me](https://open.spotify.com/album/63GimjcYoSS4q3Mr8Qx6sp) | 3:49 | 2022-02-19 | 2022-06-21 |
@@ -247,7 +248,7 @@
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/0q22YqinZnV4mehuz0QiU3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/48e9qQcXnEsaiib4LUSk1P) | 4:33 | 2022-04-01 | 2022-04-20 |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-06-25 |  |
 | [Nobody](https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN) | [Robyn McGhee](https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8) | [Nobody](https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0) | 4:28 | 2023-01-20 |  |
-| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 |  |
+| [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 | 2023-03-10 |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2022-06-25 |  |
 | [Not Gon’ Do](https://open.spotify.com/track/0RGuN1UxbbBKimDw9l9AIv) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2022-02-19 | 2022-06-26 |

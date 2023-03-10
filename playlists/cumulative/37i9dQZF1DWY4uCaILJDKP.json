@@ -2101,6 +2101,32 @@
     },
     {
       "album": {
+        "name": "\u685c\u3001\u3044\u3063\u3066\u304d\u307e\u3059",
+        "url": "https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u3044\u304b\u30d3\u30f3\u30ae\u30e9",
+          "url": "https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI"
+        },
+        {
+          "name": "\u5c0f\u897f\u9678\u6597",
+          "url": "https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T"
+        },
+        {
+          "name": "\u304a\u306f\u671d\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "\u685c\u3001\u3044\u3063\u3066\u304d\u307e\u3059",
+      "url": "https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw"
+    },
+    {
+      "album": {
         "name": "\u4e2d\u4eba",
         "url": "https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz"
       },

@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-257 songs - 12 hr 34 min
+259 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 | 2021-12-23 |  |
 | [Another Mellow Morning](https://open.spotify.com/track/3Zo7qbx3AaRTfQBzrcYwy8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Another Mellow Morning](https://open.spotify.com/album/2rv2qbzEqctupxhMXkDX7n) | 3:59 | 2021-12-23 |  |
 | [Answers](https://open.spotify.com/track/2iOKDbXoqcTENod90jSmcH) | [Elmer Loyd](https://open.spotify.com/artist/4VIdNbofDE1Txze8n5jshd) | [Answers](https://open.spotify.com/album/6L7t3tZ2gQAJ3CYhM4joVp) | 2:58 | 2021-12-23 | 2022-09-03 |
+| [Antina](https://open.spotify.com/track/5GiaKRLBu8vWdY80hHZTdu) | [Selma Key](https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa) | [Calming Mist](https://open.spotify.com/album/29OVOlzATI437uWYeKX29c) | 2:43 | 2023-03-10 |  |
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2021-12-23 |  |
 | [Ascending](https://open.spotify.com/track/2b3ajnlClLNs4qPu3gxlLc) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Ascending](https://open.spotify.com/album/2C9DeBnFjZUKi8J3FrpVsr) | 2:42 | 2022-06-16 |  |
 | [Ashes to Dawn](https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Ashes to Dawn](https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN) | 1:52 | 2022-01-07 |  |
@@ -164,6 +165,7 @@
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2021-12-23 |  |
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2021-12-23 |  |
 | [Pajala Sunrise](https://open.spotify.com/track/3Rvh3RrMpDaBK0iBU6aS8A) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Pajala Sunrise](https://open.spotify.com/album/0nNz0PrwY1kFTxtiFS411q) | 3:01 | 2021-12-23 | 2022-09-03 |
+| [Paladin](https://open.spotify.com/track/6Hni6BR0tH2pm5P7T1spJw) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin](https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu) | 3:14 | 2023-03-10 |  |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-12-23 |  |
 | [Paralyzed](https://open.spotify.com/track/6qU5ggMJaYOItNCsUIGeyP) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Paralyzed](https://open.spotify.com/album/6GAFR4ODXrRdbgNrpOpH4w) | 2:21 | 2021-12-23 |  |
 | [Patience](https://open.spotify.com/track/342mXLmWmrjqqIaVtnYjRH) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Patience](https://open.spotify.com/album/4N1vWOBCOVTeQGcWKCavwl) | 3:00 | 2021-12-23 |  |

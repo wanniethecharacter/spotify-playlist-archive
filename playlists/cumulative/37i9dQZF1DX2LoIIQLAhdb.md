@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Nej'
+> Le R&B français, nouvelle ère\. Photo : Maud Elka
 
-91 songs - 4 hr 31 min
+94 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,12 @@
 | [Baby Love](https://open.spotify.com/track/3wz016yrz7dXAtF8WLShSg) | [Nadjee](https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK) | [Baby Love](https://open.spotify.com/album/0pqafVcoCMQ9z7rEMSY7ej) | 2:35 | 2022-12-15 | 2023-02-03 |
 | [Bloqué](https://open.spotify.com/track/6mGwNtvWWyTFtkhPP8AEsX) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Bloqué](https://open.spotify.com/album/4BaV2ubS575EMm2qcXSqD2) | 2:51 | 2023-01-12 | 2023-02-10 |
 | [Bourbier](https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [Prémices](https://open.spotify.com/album/0923F8kfzpouUmutVzceuH) | 3:06 | 2022-11-24 | 2022-12-16 |
+| [Brûler](https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Brûler](https://open.spotify.com/album/3DXrpHTK1QllgmpJ3RGeR8) | 2:50 | 2023-03-09 |  |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2023-01-12 |  |
 | [Chic](https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Chic](https://open.spotify.com/album/6uLz99apI6nb6DJnarejuk) | 3:20 | 2022-12-08 | 2023-03-03 |
 | [Comme avant \(feat\. Low Jay\)](https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:53 | 2023-02-02 |  |
 | [Confiance](https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Confiance](https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt) | 2:57 | 2022-11-24 | 2023-02-17 |
-| [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 |  |
+| [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 | 2023-03-10 |
 | [Dangereuse](https://open.spotify.com/track/1Xbhl1jCBvOP8APtVW3Qlp) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Dangereuse](https://open.spotify.com/album/2jUb2ndTkptvv6VbhgQRTC) | 2:17 | 2023-01-26 | 2023-03-03 |
 | [Dans ma tête](https://open.spotify.com/track/5utHnP9FfVEMUL0028gECs) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [Dans ma tête](https://open.spotify.com/album/1Vk9aNStxPy3DbGHDmkbxW) | 2:44 | 2022-11-24 | 2023-01-13 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2023-01-26 |  |
@@ -41,6 +42,7 @@
 | [Hayati](https://open.spotify.com/track/17OnTVsTqTEGdinkMfEhPD) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Foetus](https://open.spotify.com/album/5vdmZNEqPB9a69Hel2Z8J1) | 2:40 | 2023-03-02 |  |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2023-01-19 |  |
+| [J'ai cru en toi](https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [J'ai cru en toi](https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn) | 2:27 | 2023-03-09 |  |
 | [J'la connais, Pt\. 2 \- Jamais](https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 2 \(Jamais\)](https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt) | 2:49 | 2023-02-02 |  |
 | [J'élimine](https://open.spotify.com/track/1U13A13YafzmqthKXiul91) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [J'élimine](https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo) | 2:17 | 2022-11-24 |  |
 | [Jamais](https://open.spotify.com/track/31xi6jd9RW1nj6C6OLxcjB) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i), [Joé Dwèt Filé](https://open.spotify.com/artist/6slYDms9I2A1AlL7mUMBQe) | [Poupée](https://open.spotify.com/album/3PcDLnegIsztBA1K5R9i3T) | 3:37 | 2022-11-24 | 2023-01-13 |
@@ -55,7 +57,7 @@
 | [Lentement](https://open.spotify.com/track/5iAmmra4TKlT2zXT11pf7h) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [Premier souffle](https://open.spotify.com/album/46qJPZhur04U9SGPzhNZKJ) | 2:38 | 2022-11-24 | 2022-12-09 |
 | [Les mêmes](https://open.spotify.com/track/23rJ3HBSrfti4np2beqIQj) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Les mêmes](https://open.spotify.com/album/1kI2J7T0ZGce0qN4ERZB3E) | 3:00 | 2023-01-26 |  |
 | [Loca](https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Comme vous voulez](https://open.spotify.com/album/5D6nkb0MJIZxuVKJb4aE5l) | 2:47 | 2022-11-24 |  |
-| [Love Story II](https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story II](https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K) | 1:43 | 2023-02-09 |  |
+| [Love Story II](https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story II](https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K) | 1:43 | 2023-02-09 | 2023-03-10 |
 | [Love Therapy](https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM) | 5:09 | 2023-01-05 | 2023-01-27 |
 | [Ma Lova](https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Ma Lova](https://open.spotify.com/album/69VpibECOEtYba9gZTn36O) | 2:26 | 2023-02-09 |  |
 | [Ma promesse](https://open.spotify.com/track/5TNhRGVHRNAIHLo5Xaouzh) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ma promesse](https://open.spotify.com/album/77RhDral1NtDom4ydM19vn) | 2:28 | 2022-11-24 | 2023-02-17 |
@@ -66,7 +68,8 @@
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
 | [Million](https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama](https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE) | 2:50 | 2022-11-24 | 2022-12-16 |
 | [Mon enfer](https://open.spotify.com/track/0WdCxvVPr54CL5ljwzOCsf) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Mon enfer](https://open.spotify.com/album/22FrBQPGnMJBDzAgYNzJEZ) | 2:45 | 2022-11-24 | 2023-01-06 |
-| [Moto](https://open.spotify.com/track/29XzUe8f0kgyi2a1a6RIZb) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Moto](https://open.spotify.com/album/1iJhLKwyL33rpOwCr7MzYY) | 2:57 | 2023-01-26 |  |
+| [Moto](https://open.spotify.com/track/29XzUe8f0kgyi2a1a6RIZb) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Moto](https://open.spotify.com/album/1iJhLKwyL33rpOwCr7MzYY) | 2:57 | 2023-01-26 | 2023-03-10 |
+| [NOUS](https://open.spotify.com/track/0IKK3A8XAx7QkTwnEEe483) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [NOUS](https://open.spotify.com/album/0AdeOaA497bwfn0PqjoWNT) | 2:20 | 2023-03-09 |  |
 | [Nous](https://open.spotify.com/track/5xDBcbm1SAFe1rupcdudiq) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Nous](https://open.spotify.com/album/0uUKJJT87LHqgu62jc6LfP) | 3:13 | 2022-12-22 | 2023-02-03 |
 | [Nous deux](https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Nous deux](https://open.spotify.com/album/10x2oUxuTk4ezgt0DkJdTL) | 3:41 | 2023-02-16 |  |
 | [On s'en fout](https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:59 | 2023-01-19 | 2023-02-24 |

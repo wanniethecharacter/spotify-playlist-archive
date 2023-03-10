@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53010,
+  "num_followers": 53012,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDVlOGVlNGY5OGMzZTg5ZDIzYmRkZWM1M2FhMGRkODY0",
+  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDg4OTJmMDE5Mjg3ZjYwOGZhODcxZDFjZjU1YWYzN2Fm",
   "tracks": [
     {
       "added_at": "2023-02-18 05:50:54",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Nicole C. Mullen",
-        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole C. Mullen",
-          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Nicole C. Mullen",
+        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole C. Mullen",
+          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -503,22 +503,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "The Rebirth of Kirk Franklin",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         },
         {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 368560,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+      "duration_ms": 292953,
+      "name": "Speak the Name (feat. Natalie Grant)",
+      "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
       "artists": [
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         },
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 292953,
-      "name": "Speak the Name (feat. Natalie Grant)",
-      "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
+      "duration_ms": 368560,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -855,6 +855,54 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Demonstrate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 348680,
+      "name": "Arise (You Are Good)",
+      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "A Great Work",
+        "url": "https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "A Great Work",
+      "url": "https://open.spotify.com/track/54PHTV8sTaZqYDLsLAmLDG"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "Unproduced",
         "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
       },
@@ -879,18 +927,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "A Great Work",
-        "url": "https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp"
+        "name": "I've Got a Testimony",
+        "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
       "artists": [
         {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
         }
       ],
-      "duration_ms": 405853,
-      "name": "A Great Work",
-      "url": "https://open.spotify.com/track/54PHTV8sTaZqYDLsLAmLDG"
+      "duration_ms": 392639,
+      "name": "The Blessing (feat. Maranda Curtis)",
+      "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -919,58 +971,6 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "Demonstrate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 348680,
-      "name": "Arise (You Are Good)",
-      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "I've Got a Testimony",
-        "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 392639,
-      "name": "The Blessing (feat. Maranda Curtis)",
-      "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Then Sings My Soul",
         "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 337440,
       "name": "He Didn't Have To Do It",
       "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 329186,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Wanda Nero Butler & Yolanda Adams",
         "url": "https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 220493,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Family & Friends Choir III",
-        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
       },
       "artists": [
         {
-          "name": "Ron Winans",
-          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 325666,
-      "name": "He Proved His Love",
-      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
+        "name": "Family & Friends Choir III",
+        "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
       "artists": [
         {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+          "name": "Ron Winans",
+          "url": "https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s"
         }
       ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
+      "duration_ms": 325666,
+      "name": "He Proved His Love",
+      "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
     },
     {
       "added_at": "2023-02-18 05:50:54",

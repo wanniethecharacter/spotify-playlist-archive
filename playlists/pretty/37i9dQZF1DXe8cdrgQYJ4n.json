@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11375,
+  "num_followers": 11397,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDcxMjI1ZDVkOGVkNmFjYjI1MGFkYmY4NDI3N2ZkOTgx",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGE4YjRlOTA3MTkxOGVkYzA5M2VmMDY0NWVjYzI5NjI5",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
-      "added_at": "2023-03-09 01:44:12",
+      "added_at": "2023-03-10 01:42:45",
       "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
@@ -841,6 +841,26 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
+      "added_at": "2023-03-10 01:42:45",
+      "album": {
+        "name": "a tempo",
+        "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
+      },
+      "artists": [
+        {
+          "name": "SOOVI",
+          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 193790,
+      "name": "Missing You (feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
+    },
+    {
       "added_at": "2023-02-14 07:48:55",
       "album": {
         "name": "SOULBYSEL Compilation 04",
@@ -859,26 +879,6 @@
       "duration_ms": 124572,
       "name": "Donut",
       "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
-    },
-    {
-      "added_at": "2023-03-09 01:44:12",
-      "album": {
-        "name": "a tempo",
-        "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
-      },
-      "artists": [
-        {
-          "name": "SOOVI",
-          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 193790,
-      "name": "Missing You (feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
     },
     {
       "added_at": "2023-02-14 07:48:55",

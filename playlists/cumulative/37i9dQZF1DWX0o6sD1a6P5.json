@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: BNXN fka Buju",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Ruger",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 221746,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 171089,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/56O8EgjeU6V80lGOUfweGp"
@@ -1150,6 +1150,28 @@
       "duration_ms": 131296,
       "name": "Bresom (feat. Naza)",
       "url": "https://open.spotify.com/track/6o7lJeWBrDtsortS0FPKPJ"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/1mAh2El18qMQk03NOOq0K9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Bright Future",
+      "url": "https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R"
     },
     {
       "album": {
@@ -2669,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0MrECtDGFvoeXxvsS7y9XV"
+      },
+      "artists": [
+        {
+          "name": "Ko-C",
+          "url": "https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221496,
+      "name": "Family Problem",
+      "url": "https://open.spotify.com/track/09uz7ZgINfKSXcTPT2zrLb"
+    },
+    {
+      "album": {
         "name": "Faut Doser",
         "url": "https://open.spotify.com/album/5Uh5XXs9EyaB54BGseQTiz"
       },
@@ -4106,7 +4150,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154866,
       "name": "Miss Des Miss",
       "url": "https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce"
@@ -5766,7 +5810,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 175792,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
@@ -6716,6 +6760,24 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "album": {
+        "name": "Y'a pas ton 2",
+        "url": "https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191671,
+      "name": "Y'a pas ton 2",
+      "url": "https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-241 songs - 12 hr 29 min
+242 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Northern Towns](https://open.spotify.com/track/689vwSsc5umNZaG4B4Zqhh) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/0rYpfUMgOBdTGe9Qpw4Ud1) | 2:56 | 2022-01-25 | 2022-07-29 |
 | [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 | 2022-07-25 | 2022-10-14 |
 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 | 2022-09-23 | 2022-11-12 |
+| [Nostalgia](https://open.spotify.com/track/3PiqGAudje1xGHTVUcQFGG) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Serotonin](https://open.spotify.com/album/6DlopaTW4mU9avF5P9GljN) | 2:34 | 2023-03-03 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-25 |  |
 | [Number One](https://open.spotify.com/track/644E5d35TEHlr7UeYSdFBe) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Number One](https://open.spotify.com/album/64YHT8TnZULAh0mlpA08GY) | 4:01 | 2022-01-25 | 2022-03-18 |
 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 | 2022-09-19 |  |

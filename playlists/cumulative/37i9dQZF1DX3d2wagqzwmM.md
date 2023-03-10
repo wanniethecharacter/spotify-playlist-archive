@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Armin van Buuren
 
-287 songs - 15 hr 31 min
+288 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |
 | [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 |  |
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-04-14 | 2022-07-29 |
-| [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 |  |
+| [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 | 2023-03-10 |
 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 | 2023-02-02 |  |
 | [Massive](https://open.spotify.com/track/41NEHLGt9hJul5U0IBad8b) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Massive](https://open.spotify.com/album/13KY2D8oRoXqvuz3JrwlPg) | 3:11 | 2022-04-21 | 2022-05-28 |
 | [Melody](https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Melody](https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt) | 2:33 | 2022-04-14 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 | 2022-04-14 |  |
 | [Vivid](https://open.spotify.com/track/3LG6AuCP9pYlRkuQv6k4TW) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Vivid](https://open.spotify.com/album/0brJYjUGNrsu5bHcldi3k2) | 3:03 | 2022-04-14 | 2022-07-29 |
 | [Voyage \- Lister Remix](https://open.spotify.com/track/1hGxSbBZodpqUF65d7N95H) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eyal Barkan](https://open.spotify.com/artist/5AIFVuHCWu7uVGJVmMkROW), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Voyage](https://open.spotify.com/album/7aoYimD53ZPxaH3boCs5p1) | 3:27 | 2022-12-27 | 2023-01-03 |
+| [Vulnerable](https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Vulnerable](https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr) | 3:19 | 2023-03-09 |  |
 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 | 2022-09-29 |  |
 | [We Are Here Now](https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [We Are Here Now](https://open.spotify.com/album/5M2t1el8E6WCuTokgyhCiZ) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 | 2022-10-13 |  |

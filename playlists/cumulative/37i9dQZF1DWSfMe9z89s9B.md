@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: Jordan Ward
 
-762 songs - 1 day 17 hr 10 min
+763 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,7 @@
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-06-10 |  |
 | [Right Track \(feat\. Smino\)](https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Right Track \(feat\. Smino\)](https://open.spotify.com/album/085JymZoUxeCSJlOYqLd5u) | 2:38 | 2021-09-10 | 2022-07-16 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-04-01 | 2022-05-14 |
-| [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 | 2022-09-30 |  |
+| [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 | 2022-09-30 | 2023-03-10 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2022-11-18 | 2022-12-03 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-04-30 | 2022-04-10 |
 | [Roots](https://open.spotify.com/track/72mY1ayNi7axNGpAN8CSRr) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:52 | 2022-02-25 | 2022-05-28 |
@@ -574,6 +574,7 @@
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-14 | 2022-07-29 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-04-01 | 2022-04-15 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-07-29 |  |
+| [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 | 2023-02-24 |  |
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2021-03-19 | 2022-01-06 |
 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 | 2022-07-15 |  |
 | [Save My Number](https://open.spotify.com/track/2NCcyscxO8FRjfycY1xCa2) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 2:39 | 2022-07-15 | 2022-07-29 |

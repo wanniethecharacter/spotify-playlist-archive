@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-563 songs - 1 day 10 hr 41 min
+564 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Back To The Future](https://open.spotify.com/track/0SUEaXrXi5aQYGPPrKNitV) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Back To The Future](https://open.spotify.com/album/5mstY1XY20ntwpn8STJkzM) | 3:36 | 2022-04-15 |  |
 | [Backdraft](https://open.spotify.com/track/1KS7jgAi7EIyLNyeL2vgxV) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Backdraft](https://open.spotify.com/album/0Zk7UYmejgTdSVU1BLRnt3) | 2:48 | 2022-03-25 | 2022-08-27 |
 | [Ballad Of The Southern Sea](https://open.spotify.com/track/0uqh5WxHVXNEQOTVqQNuq5) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Ballad Of The Southern Sea](https://open.spotify.com/album/2SbQEK0GgqFWhfFI60uncB) | 3:34 | 2022-07-08 | 2022-08-27 |
+| [Bamboo](https://open.spotify.com/track/6Tj9knMLLDOPorBlZltzjX) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Bamboo](https://open.spotify.com/album/6U9fHzbEN4kYhTZ43XN3x4) | 3:11 | 2023-03-03 |  |
 | [Be Alone](https://open.spotify.com/track/6OAk8W4ebDp8UgOj6IBClU) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Be Alone](https://open.spotify.com/album/0Ky0tMHRkPpVLul0VA5CMa) | 3:39 | 2021-12-17 | 2023-02-25 |
 | [Be As One](https://open.spotify.com/track/6NOVQdyz96T7KSUvPTES80) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Cheryl Barnes](https://open.spotify.com/artist/5dKck1H0BEvXkxRpTDyQbn) | [Be As One](https://open.spotify.com/album/5K1iAnkO82DUoBoEGAWy3w) | 3:30 | 2022-03-25 | 2022-04-16 |
 | [BERLON](https://open.spotify.com/track/5BtXeXnFhOR0KIfvPBeCFf) | [Chris Bekker](https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [BERLON](https://open.spotify.com/album/2ckH2mUTmCzVXCtnYnhu08) | 5:44 | 2021-12-17 | 2022-04-02 |
@@ -353,7 +354,7 @@
 | [Nostalgia](https://open.spotify.com/track/7Kb1JA5nIUYZpHPE0hdHL1) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Nostalgia](https://open.spotify.com/album/4kuMHJQcjvDGSBnbbJe4bF) | 4:06 | 2022-01-07 | 2023-02-25 |
 | [Nostos](https://open.spotify.com/track/7GjOGWZwEOIEmnCf8EyDb8) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Nostos](https://open.spotify.com/album/58yo3r535V9qODGx2uzbHp) | 4:12 | 2022-02-04 | 2022-07-28 |
 | [Not Afraid](https://open.spotify.com/track/60VquI98FCkiZEd5pnK49W) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S), [RAEYA](https://open.spotify.com/artist/4uAnzMtsxff9YdDsr5gzEu) | [Not Afraid](https://open.spotify.com/album/2JcQqb0so6MGHVcgcFdgTH) | 3:43 | 2022-12-02 | 2023-01-14 |
-| [Not Alone \(Moon\)](https://open.spotify.com/track/2dJjSI4tnna64hTar6xMBV) | [Tycoos](https://open.spotify.com/artist/0ZesultCLHEe8lbXluMvV7), [PITTARIUS CODE](https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn), [Josie Sandfeld](https://open.spotify.com/artist/19HQyS89sUHeCAUAXWsznp) | [Summer Hits 2022](https://open.spotify.com/album/57lVZKIfGsHXkgGtVU51wn) | 3:14 | 2022-08-26 |  |
+| [Not Alone \(Moon\)](https://open.spotify.com/track/2dJjSI4tnna64hTar6xMBV) | [Tycoos](https://open.spotify.com/artist/0ZesultCLHEe8lbXluMvV7), [PITTARIUS CODE](https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn), [Josie Sandfeld](https://open.spotify.com/artist/19HQyS89sUHeCAUAXWsznp) | [Summer Hits 2022](https://open.spotify.com/album/57lVZKIfGsHXkgGtVU51wn) | 3:14 | 2022-08-26 | 2023-03-10 |
 | [Nothing Compares To You](https://open.spotify.com/track/0HovEj9ww9qYqKjJGFO9fT) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Nothing Compares To You](https://open.spotify.com/album/5LL9iRnhhLQX9aOmIKzel6) | 3:33 | 2022-03-25 | 2022-09-05 |
 | [Nothing I Won't Do](https://open.spotify.com/track/4btEvNobYILJy7az4mtN66) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Susie Ledge](https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ) | [Nothing I Won't Do](https://open.spotify.com/album/2yKEHeolZSiPLqolF5l9ao) | 3:23 | 2021-12-17 | 2022-05-28 |
 | [Nothing to Hide](https://open.spotify.com/track/2V1BrpHiHIJTtzBBvjWSTH) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Nothing to Hide](https://open.spotify.com/album/49C5OoTcYTeF3tkY1QZmJe) | 3:34 | 2021-12-17 | 2023-02-25 |

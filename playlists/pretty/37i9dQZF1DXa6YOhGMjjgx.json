@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 470831,
+  "num_followers": 470848,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzYzMjUzNCwwMDAwMDAwMGRlYTZlODgxYzM1ZDY5ZmIyM2Y1MTM5ZWUwNTE3OWYw",
+  "snapshot_id": "MTY3NzYzMjUzNCwwMDAwMDAwMDFhZWFjYWI5Yjc2MzI5ZjdhYWZkZDVhM2ZiZmQ2NDQ4",
   "tracks": [
     {
       "added_at": "2023-03-01 01:02:14",
@@ -397,26 +397,6 @@
       "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
-      "added_at": "2023-03-01 01:02:14",
-      "album": {
-        "name": "Don't Go Dark",
-        "url": "https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex"
-      },
-      "artists": [
-        {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
-        },
-        {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
-        }
-      ],
-      "duration_ms": 191993,
-      "name": "Don't Go Dark",
-      "url": "https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9"
-    },
-    {
       "added_at": "2023-01-27 22:55:19",
       "album": {
         "name": "The Atlas Underground Fire",
@@ -439,6 +419,22 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI"
       },
@@ -453,20 +449,24 @@
       "url": "https://open.spotify.com/track/1LRCaubw4bOjUUl0xbrsO9"
     },
     {
-      "added_at": "2023-01-27 22:55:19",
+      "added_at": "2023-03-01 01:02:14",
       "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+        "name": "Don't Go Dark",
+        "url": "https://open.spotify.com/album/1B4uS47ZUL6Xgye7HQcpex"
       },
       "artists": [
         {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        },
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
         }
       ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+      "duration_ms": 191993,
+      "name": "Don't Go Dark",
+      "url": "https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
     },
     {
-      "added_at": "2023-03-01 01:02:14",
-      "album": {
-        "name": "Voodoo Science",
-        "url": "https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS"
-      },
-      "artists": [
-        {
-          "name": "Demob Happy",
-          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Voodoo Science",
-      "url": "https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk"
-    },
-    {
       "added_at": "2023-01-27 22:55:19",
       "album": {
         "name": "I LOVE YOU, ROBOT SUPERSTAR!",
@@ -583,6 +567,22 @@
       "duration_ms": 177213,
       "name": "Poison or Patience (feat. OSTON)",
       "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
+    },
+    {
+      "added_at": "2023-03-01 01:02:14",
+      "album": {
+        "name": "Voodoo Science",
+        "url": "https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Voodoo Science",
+      "url": "https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Big Grief",
-        "url": "https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS"
-      },
-      "artists": [
-        {
-          "name": "WAAX",
-          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Labrador",
-      "url": "https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Cause You Got Me",
-        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
+        "name": "Big Grief",
+        "url": "https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS"
       },
       "artists": [
         {
-          "name": "MOSES",
-          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
         }
       ],
-      "duration_ms": 232526,
-      "name": "Cause You Got Me",
-      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
+      "duration_ms": 221626,
+      "name": "Labrador",
+      "url": "https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -779,6 +763,22 @@
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Cause You Got Me",
+        "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
+      },
+      "artists": [
+        {
+          "name": "MOSES",
+          "url": "https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum"
+        }
+      ],
+      "duration_ms": 232526,
+      "name": "Cause You Got Me",
+      "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
       },
       "artists": [
         {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
         }
       ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+      "duration_ms": 201229,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -923,22 +923,6 @@
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 201229,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "added_at": "2023-03-01 01:02:14",
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 241334,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1039,34 +1055,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0"
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
       },
       "artists": [
         {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD"
-    },
-    {
-      "added_at": "2023-03-01 01:02:14",
-      "album": {
-        "name": "She Said",
-        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 241334,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
+      "duration_ms": 201177,
+      "name": "Going Clear",
+      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0"
       },
       "artists": [
         {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 305345,
-      "name": "Mother - Single Version",
-      "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "MYSTERY",
         "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 305345,
+      "name": "Mother - Single Version",
+      "url": "https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
+      "added_at": "2023-03-01 01:02:14",
+      "album": {
+        "name": "Pay the Price",
+        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
+      },
+      "artists": [
+        {
+          "name": "Glowing",
+          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
+        }
+      ],
+      "duration_ms": 216108,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
       "added_at": "2023-01-27 22:55:19",
       "album": {
         "name": "Earth Is A Black Hole",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
-      },
-      "artists": [
-        {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
         "name": "OMG I MADE IT",
         "url": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
-    },
-    {
-      "added_at": "2023-03-01 01:02:14",
-      "album": {
-        "name": "Pay the Price",
-        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
-      },
-      "artists": [
-        {
-          "name": "Glowing",
-          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+      },
+      "artists": [
+        {
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "Stop Beating on My Heart (Like a Bass Drum)",
         "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
       },
@@ -1475,86 +1475,6 @@
       "duration_ms": 225068,
       "name": "Stop Beating on My Heart (Like a Bass Drum)",
       "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
-      },
-      "artists": [
-        {
-          "name": "Dead Sara",
-          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
-        }
-      ],
-      "duration_ms": 196457,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Chewing Glass",
-        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
-      },
-      "artists": [
-        {
-          "name": "James and the Cold Gun",
-          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Chewing Glass",
-      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
-    },
-    {
-      "added_at": "2023-01-27 22:55:19",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
-      },
-      "artists": [
-        {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
-        }
-      ],
-      "duration_ms": 166834,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
     },
     {
       "added_at": "2023-01-27 22:55:19",
@@ -1575,6 +1495,38 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
       },
@@ -1591,6 +1543,38 @@
     {
       "added_at": "2023-01-27 22:55:19",
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
+      },
+      "artists": [
+        {
+          "name": "Dead Sara",
+          "url": "https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j"
+        }
+      ],
+      "duration_ms": 196457,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 166834,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
         "name": "Great Mass of Color",
         "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 360333,
       "name": "Great Mass of Color",
       "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
+    },
+    {
+      "added_at": "2023-01-27 22:55:19",
+      "album": {
+        "name": "Chewing Glass",
+        "url": "https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv"
+      },
+      "artists": [
+        {
+          "name": "James and the Cold Gun",
+          "url": "https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Chewing Glass",
+      "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
     },
     {
       "added_at": "2023-01-27 22:55:19",

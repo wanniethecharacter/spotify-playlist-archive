@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Bamboo",
+        "url": "https://open.spotify.com/album/6U9fHzbEN4kYhTZ43XN3x4"
+      },
+      "artists": [
+        {
+          "name": "Maarten de Jong",
+          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191331,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/6Tj9knMLLDOPorBlZltzjX"
+    },
+    {
+      "album": {
         "name": "Be Alone",
         "url": "https://open.spotify.com/album/0Ky0tMHRkPpVLul0VA5CMa"
       },
@@ -7394,7 +7412,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 194782,
       "name": "Not Alone (Moon)",
       "url": "https://open.spotify.com/track/2dJjSI4tnna64hTar6xMBV"

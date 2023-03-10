@@ -4,7 +4,7 @@
 
 > Sail away to dreamland and sleep all night with fluffy and relaxing white noise.
 
-189 songs - 8 hr 1 min
+190 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Audio White Noise 3](https://open.spotify.com/track/54KiKnQXbLEjoatGyBo83g) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Audio White Noise](https://open.spotify.com/album/28dDs2Jld41ai7GD5UybOY) | 1:42 | 2023-02-07 |  |
 | [Babyschlaf mit Meeresrauschen](https://open.spotify.com/track/2Z1Iu7UjyVPjd9uFFVtw8Y) | [Gute Nacht Ambiente](https://open.spotify.com/artist/6v5USuSP2DJFM9VU84ZiPz) | [Babyschlaf mit Meeresrauschen](https://open.spotify.com/album/028jCwck0qRzBD66ZSFYOZ) | 1:39 | 2023-02-07 |  |
 | [Basic White Noise Part 2](https://open.spotify.com/track/0O5vkNyf8VcsKKaK5r4Jfw) | [Aska Mill](https://open.spotify.com/artist/3mkmnTAqRXg1NysbtuFS5P) | [White Noise Basic](https://open.spotify.com/album/3zctzZ79rSG5GQnq9D6E92) | 2:26 | 2023-02-07 |  |
+| [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 | 2023-03-09 |  |
 | [Bright Sound](https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I) | [Only Noise Machine](https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh) | [Bright Sound](https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD) | 2:12 | 2023-02-07 |  |
 | [Cabin Noise Focus](https://open.spotify.com/track/3kxUcpFquT4ZdvJC1Nyu5q) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Airline White Noise](https://open.spotify.com/album/0mXZdJakr0PkshOf9N5SLw) | 2:42 | 2023-02-07 |  |
 | [Cabin Noise Focus](https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs) | [XL Noise Factory](https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv) | [XL Pink Noise](https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7) | 2:09 | 2023-02-07 |  |
@@ -189,7 +190,7 @@
 | [White Noise Sounds For Sleep](https://open.spotify.com/track/1y9NfmDeacRJQJG1QhJwH2) | [Dream Boxx](https://open.spotify.com/artist/36nJSUWBUTgmjXGeNRQgUf) | [White Noise Sounds For Sleep](https://open.spotify.com/album/3it0PQlBL3unfBVQ27lZNd) | 2:36 | 2023-02-07 |  |
 | [White Noise Theme](https://open.spotify.com/track/1unaFsNuBizFWSv9zJ6Lyv) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [White Noise Theme](https://open.spotify.com/album/4QktoYkLK39QWoOlu9YckX) | 2:33 | 2023-02-07 |  |
 | [White Noise Tiefschlaf](https://open.spotify.com/track/3tCj4PMMeTC5FRYS4eKTuW) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise Tranquility](https://open.spotify.com/album/0MB5igPz2WRNm5iz3WvEW7) | 2:52 | 2023-02-07 |  |
-| [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 | 2023-02-07 |  |
+| [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 | 2023-02-07 | 2023-03-10 |
 | [White RF](https://open.spotify.com/track/5n1yzZr0sEVqYw7sRr7Bh3) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:56 | 2023-02-07 |  |
 | [White Shapes](https://open.spotify.com/track/3xDinRDqNsKIsdBfnhXHSs) | [XYK east](https://open.spotify.com/artist/1W0DuOKAU4Lq9Ke0dj1bds) | [White Shapes](https://open.spotify.com/album/0ma1vhytAU2rsktMovPJlw) | 1:49 | 2023-02-07 |  |
 | [White Stars](https://open.spotify.com/track/7Fys0m6kGltWbqYeSAGAMx) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [White Stars](https://open.spotify.com/album/0BLt2AQUVsNb1RqZaBOxf0) | 2:45 | 2023-02-07 |  |

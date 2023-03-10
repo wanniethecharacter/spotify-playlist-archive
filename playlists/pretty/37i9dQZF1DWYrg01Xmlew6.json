@@ -1,15 +1,31 @@
 {
   "description": "Napoli e il meglio della scena campana. Geolier in cover.",
-  "num_followers": 155195,
+  "num_followers": 155296,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMDAwNCwwMDAwMDAwMGFjODQ2NGZmZjg3ODhjMTRiNGE2ZWNkNWVhOTllMGQ5",
+  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMGU3NDJkNTU2MjliOGQ3NzMzNGUwMzY0NzJiYWViYWE4",
   "tracks": [
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -89,7 +89,47 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "La Notte di San Lorenzo",
+      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Sul'A Mia (feat. Enzo Dong)",
+        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Sul'A Mia (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "The Sea Beyond (Original TV Series Soundtrack)",
         "url": "https://open.spotify.com/album/1x1DFGOBEtllKlV1PwwzG5"
@@ -117,31 +157,7 @@
       "url": "https://open.spotify.com/track/6P1AALlzkAOIyU6iBuQ9nU"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Sul'A Mia (feat. Enzo Dong)",
-        "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Sul'A Mia (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "La Notte di San Lorenzo",
-      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "A' vita senz' e te (Me fa paura)",
         "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -221,27 +221,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "SUL IJ E TE (con O'Tsunami)",
-        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
-      },
-      "artists": [
-        {
-          "name": "VTR",
-          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
-        },
-        {
-          "name": "O'Tsunami",
-          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
-        }
-      ],
-      "duration_ms": 136721,
-      "name": "SUL IJ E TE (con O'Tsunami)",
-      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
@@ -257,7 +237,7 @@
       "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -281,27 +261,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Che Stai Dicenn (feat. Paky)",
-        "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Che Stai Dicenn (feat. Paky)",
-      "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -333,7 +293,27 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Che Stai Dicenn (feat. Paky)",
+        "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Che Stai Dicenn (feat. Paky)",
+      "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -365,7 +345,7 @@
       "url": "https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -381,7 +361,27 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "0 In Tasca",
+        "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
+      },
+      "artists": [
+        {
+          "name": "Luis Add",
+          "url": "https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0"
+        },
+        {
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "0 In Tasca",
+      "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "P Secondigliano (2020 Remaster)",
         "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -417,7 +417,27 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "SUL IJ E TE (con O'Tsunami)",
+        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
+      },
+      "artists": [
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "duration_ms": 136721,
+      "name": "SUL IJ E TE (con O'Tsunami)",
+      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/1ibVG0eXe9WlEPPLiwDD2B"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "NO BODYGUARD",
         "url": "https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Popp ice",
         "url": "https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -545,27 +565,23 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "0 In Tasca",
-        "url": "https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu"
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
       },
       "artists": [
         {
-          "name": "Luis Add",
-          "url": "https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0"
-        },
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut"
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
         }
       ],
-      "duration_ms": 178586,
-      "name": "0 In Tasca",
-      "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
+      "duration_ms": 154915,
+      "name": "Ind smman",
+      "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -589,7 +605,23 @@
       "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "SOUTH",
+        "url": "https://open.spotify.com/album/3IPcLcBII4ZfNMwtCGMnJ7"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "SOUTH",
+      "url": "https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Freestyle Pack",
         "url": "https://open.spotify.com/album/3TnUcY9yhAJR81udv7RYXS"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/3i6eW7nR7Cw9Hiqc1kz4IH"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -637,39 +669,7 @@
       "url": "https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "'E Cose Bell",
-        "url": "https://open.spotify.com/album/4U6REdkekt7LDSUVRTmfAc"
-      },
-      "artists": [
-        {
-          "name": "Lucariello",
-          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "'E Cose Bell",
-      "url": "https://open.spotify.com/track/34ez6AvIIDQfvn2qrqvBgM"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "CASA",
-        "url": "https://open.spotify.com/album/3VSRWQTsItHPbE6t1dmJVI"
-      },
-      "artists": [
-        {
-          "name": "Hosawa",
-          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
-        }
-      ],
-      "duration_ms": 146969,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/784PuweP1uBDeceqFT8AHA"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "U&Me",
         "url": "https://open.spotify.com/album/1puWVzOemxlp8c2QQGaar9"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/6jueM7b7fc7eWQcgnTu9Rr"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -701,7 +701,27 @@
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Tredici",
+        "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        },
+        {
+          "name": "Stefania Lay",
+          "url": "https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD"
+        }
+      ],
+      "duration_ms": 165361,
+      "name": "TE NE VAJE",
+      "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MIRANAPOLI !",
         "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -749,115 +769,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Te Penso Ancora",
-        "url": "https://open.spotify.com/album/6kDkPwpcieifz3XQkyjgWC"
-      },
-      "artists": [
-        {
-          "name": "Real",
-          "url": "https://open.spotify.com/artist/4JodB3xqISZ4oBFtWMFnYu"
-        },
-        {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Te Penso Ancora",
-      "url": "https://open.spotify.com/track/2jWClpImgGtSoylOGTXqTf"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "LIBERATO II",
-        "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
-      },
-      "artists": [
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 207741,
-      "name": "NUNNEOVER",
-      "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "HOLLYWOOD",
-        "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
-      },
-      "artists": [
-        {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
-        }
-      ],
-      "duration_ms": 154915,
-      "name": "Ind smman",
-      "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d"
-      },
-      "artists": [
-        {
-          "name": "Eris Gacha",
-          "url": "https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2"
-        }
-      ],
-      "duration_ms": 133774,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Botox",
-        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
-      },
-      "artists": [
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Scale (con Luch\u00e8)",
-      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "PIAZZA NOIA",
-        "url": "https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa"
-      },
-      "artists": [
-        {
-          "name": "Rafil\u00f9",
-          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
-        },
-        {
-          "name": "Speranza",
-          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
-        }
-      ],
-      "duration_ms": 208670,
-      "name": "IL MIO VINO (feat. Speranza)",
-      "url": "https://open.spotify.com/track/4Ok2Kw1zqfD5N5h7IToYtl"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
@@ -877,27 +789,59 @@
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Tredici",
-        "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
+        "name": "LIBERATO II",
+        "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
       },
       "artists": [
         {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
-        },
-        {
-          "name": "Stefania Lay",
-          "url": "https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD"
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
         }
       ],
-      "duration_ms": 165361,
-      "name": "TE NE VAJE",
-      "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
+      "duration_ms": 207741,
+      "name": "NUNNEOVER",
+      "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d"
+      },
+      "artists": [
+        {
+          "name": "Eris Gacha",
+          "url": "https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2"
+        }
+      ],
+      "duration_ms": 133774,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Scale (con Luch\u00e8)",
+      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "SOMEBODY",
         "url": "https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp"
@@ -913,23 +857,7 @@
       "url": "https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "Cecchino",
-        "url": "https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW"
-      },
-      "artists": [
-        {
-          "name": "Lucariello",
-          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Cecchino",
-      "url": "https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
@@ -949,7 +877,23 @@
       "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "'E Cose Bell",
+        "url": "https://open.spotify.com/album/4U6REdkekt7LDSUVRTmfAc"
+      },
+      "artists": [
+        {
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "'E Cose Bell",
+      "url": "https://open.spotify.com/track/34ez6AvIIDQfvn2qrqvBgM"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Vita Mala",
         "url": "https://open.spotify.com/album/4pNRTiRNThpQ4gGIfOMsQC"
@@ -965,27 +909,7 @@
       "url": "https://open.spotify.com/track/5NxBsDKGOv6ebjuVYoqqkv"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/2GFZh6hkFCFQSaI6MOphzr"
-      },
-      "artists": [
-        {
-          "name": "Matto Llorar",
-          "url": "https://open.spotify.com/artist/4NEmGznKcAVErjDkcrFH3l"
-        },
-        {
-          "name": "Capozanarky",
-          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/1l1L3dTj4VkpB5oYFduKGu"
-    },
-    {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Pane e miseria",
         "url": "https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS"
@@ -1005,7 +929,7 @@
       "url": "https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Blow (feat. Yung Snapp & MV Killa)",
         "url": "https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR"
@@ -1029,7 +953,7 @@
       "url": "https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed"
     },
     {
-      "added_at": "2023-03-07 14:40:04",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Duje Frat",
         "url": "https://open.spotify.com/album/7w7SAe84aiF4Q5BvPW27ej"

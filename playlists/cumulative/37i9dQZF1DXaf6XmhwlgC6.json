@@ -575,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0dUkQHYxrUMZxoab1dDcDw"
+      },
+      "artists": [
+        {
+          "name": "Bon Vie",
+          "url": "https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1yDJriJA9uT8p9LyCzGnXm"
+    },
+    {
+      "album": {
         "name": "Entering Orbit",
         "url": "https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ"
       },
@@ -1729,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Pure Flow",
+        "url": "https://open.spotify.com/album/6gydX9nKC9C8PcDvmzaSRA"
+      },
+      "artists": [
+        {
+          "name": "Hollow Light",
+          "url": "https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "Pure Flow",
+      "url": "https://open.spotify.com/track/4lEkHSN5qOxdaEDeNHVRME"
+    },
+    {
+      "album": {
         "name": "Quiet before the Tempest",
         "url": "https://open.spotify.com/album/7AxACJsdvmSjhvB9RiiGWe"
       },
@@ -1806,6 +1842,24 @@
       "duration_ms": 345920,
       "name": "Rent a New Place, Everything Could Change",
       "url": "https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6"
+    },
+    {
+      "album": {
+        "name": "Reset My Mind",
+        "url": "https://open.spotify.com/album/1SxIhBFkcEdLZXUP1VP732"
+      },
+      "artists": [
+        {
+          "name": "Space Access",
+          "url": "https://open.spotify.com/artist/1s2VXzYMLAHNVLNohNAmQy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Reset My Mind",
+      "url": "https://open.spotify.com/track/327SQqQnYXgzwegkjpNOZb"
     },
     {
       "album": {
@@ -2232,6 +2286,24 @@
       "duration_ms": 163730,
       "name": "Steadfast",
       "url": "https://open.spotify.com/track/2qTBy6oygbjPTEpitegxXE"
+    },
+    {
+      "album": {
+        "name": "Still In Orbit",
+        "url": "https://open.spotify.com/album/1wfeLC1EIMoAPsgGS23UN5"
+      },
+      "artists": [
+        {
+          "name": "Holzer",
+          "url": "https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156892,
+      "name": "Still In Orbit",
+      "url": "https://open.spotify.com/track/7IlYLp9sTZ0PIesayFaVPW"
     },
     {
       "album": {
@@ -2930,7 +3002,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 169443,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/4i8k0moTL3u9w4TsT7Es5A"
@@ -2988,6 +3060,24 @@
       "duration_ms": 133165,
       "name": "Wires",
       "url": "https://open.spotify.com/track/2wAOrDyPab6VEsaaNFmQAM"
+    },
+    {
+      "album": {
+        "name": "within spaces",
+        "url": "https://open.spotify.com/album/2wyxkOI6X6PxBrRojwTvoy"
+      },
+      "artists": [
+        {
+          "name": "April Oak",
+          "url": "https://open.spotify.com/artist/0uyyYu6CIc8RwvtCMgDe1V"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212928,
+      "name": "within spaces",
+      "url": "https://open.spotify.com/track/5LIQk4IG19KbqS7ZtfVJ8Z"
     },
     {
       "album": {

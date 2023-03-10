@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: REO Speedwagon",
-  "num_followers": 217415,
+  "num_followers": 217637,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDYxNzExMzc5ZmZiNmE5NWViYjAzMmIxOGU5ZmE5ZmUw",
+  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDY1MTczNGY4N2VlOGUyNmYzY2Y5OGU1MTAzY2VmNjZl",
   "tracks": [
     {
       "added_at": "2023-01-18 22:18:44",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Seeds Of Love",
-        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 391000,
-      "name": "Woman In Chains",
-      "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 211933,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "The Seeds Of Love",
+        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Woman In Chains",
+      "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Life As We Know It",
-        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Go to Heaven",
         "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 412595,
       "name": "Althea - 2013 Remaster",
       "url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Life As We Know It",
+        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Back In The High Life Again",
-      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Richard Marx",
         "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 270693,
       "name": "Endless Summer Nights",
       "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Back In The High Life Again",
+      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+      "duration_ms": 239306,
+      "name": "A Face In The Crowd",
+      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1191,38 +1207,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Essential Playlist",
-        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
-      },
-      "artists": [
-        {
-          "name": "Bertie Higgins",
-          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Key Largo",
-      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "A Face In The Crowd",
-      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Making Movies",
         "url": "https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 361395,
       "name": "Romeo and Juliet",
       "url": "https://open.spotify.com/track/57MflfPN3ObQQAQtPUp0WF"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "The Essential Playlist",
+        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
+      },
+      "artists": [
+        {
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Throwing It All Away - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Richard Marx",
         "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 316040,
       "name": "Hold On To The Nights",
       "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Throwing It All Away - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Give My Regards To Broad Street",
+        "url": "https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 312733,
+      "name": "No More Lonely Nights (Ballad) - Remastered 1993",
+      "url": "https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Time's Makin' Changes: The Best Of Tesla",
         "url": "https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Give My Regards To Broad Street",
-        "url": "https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8"
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 312733,
-      "name": "No More Lonely Nights (Ballad) - Remastered 1993",
-      "url": "https://open.spotify.com/track/3CCBwpqjdar1PG6HHulmD0"
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1427,22 +1443,6 @@
       "duration_ms": 419400,
       "name": "Brothers in Arms",
       "url": "https://open.spotify.com/track/26tWBbtjvgi0tipRL2VQ2X"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2023-01-18 22:18:44",

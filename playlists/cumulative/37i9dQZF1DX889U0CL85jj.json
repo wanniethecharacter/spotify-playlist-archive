@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 226066,
       "name": "alien jewelry",
       "url": "https://open.spotify.com/track/33pTrKPiYyP4F49jCgjNio"
@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "I Was Not There",
+        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347963,
+      "name": "I Was Not There",
+      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
+    },
+    {
+      "album": {
         "name": "I'll Be Around",
         "url": "https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt"
       },
@@ -3728,7 +3746,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 160720,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag"
@@ -3866,6 +3884,24 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "album": {
@@ -8259,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "When the World is Ending",
+        "url": "https://open.spotify.com/album/6O5JkJitX7yLMoyKeHNp81"
+      },
+      "artists": [
+        {
+          "name": "Divine Sweater",
+          "url": "https://open.spotify.com/artist/6QhdyISn8fmch9ULKyqUoH"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230967,
+      "name": "When the World is Ending",
+      "url": "https://open.spotify.com/track/6atRhZ7LJMJ7yVkqBP2xW3"
+    },
+    {
+      "album": {
         "name": "When Will I Learn",
         "url": "https://open.spotify.com/album/57AipIrXqa433GDNRygUsC"
       },
@@ -8494,7 +8548,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 160120,
       "name": "you and the everything of everything",
       "url": "https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW"

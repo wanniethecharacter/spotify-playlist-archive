@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-280 songs - 13 hr 5 min
+281 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-30 |  |
 | [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 | 2022-07-29 |
 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 | 2021-12-16 |  |
+| [Bøgdamann](https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Bøgdamann](https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG) | 2:47 | 2023-03-09 |  |
 | [Bøgdegutt](https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bøgdegutt](https://open.spotify.com/album/3gpPwHEgZWKbgb2WFyWMaa) | 2:40 | 2022-01-13 | 2022-07-27 |
 | [Che Casino](https://open.spotify.com/track/4PSC9tidDrwwtb9nMVM0Hv) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Che Casino](https://open.spotify.com/album/76X2ccF8LGeRfkxUwXPNLH) | 2:55 | 2021-12-16 | 2022-11-16 |
 | [CHUGGE \(Wine Not\)](https://open.spotify.com/track/2kJUjgNRaum4cuJgAQu51a) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [CHUGGE \(Wine Not\)](https://open.spotify.com/album/1IV0803HCb53c2UiktKIp5) | 3:13 | 2022-02-03 | 2022-06-18 |
@@ -54,7 +55,7 @@
 | [Den fineste Chevy'n](https://open.spotify.com/track/2562pO8HEcemUF2LfOMfti) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Den fineste Chevy'n](https://open.spotify.com/album/0ceGayBcQcl2rKM0WeNrzo) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 | 2022-06-30 |  |
 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 | 2022-03-31 |  |
-| [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 |  |
+| [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 | 2023-03-10 |
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 |  |
 | [Det Ringer](https://open.spotify.com/track/2knRq4hvRNFwI8ilTBJXeS) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Det Ringer](https://open.spotify.com/album/2eCJ7T0MsfxttdEreBmBUN) | 2:42 | 2022-06-02 | 2022-06-13 |

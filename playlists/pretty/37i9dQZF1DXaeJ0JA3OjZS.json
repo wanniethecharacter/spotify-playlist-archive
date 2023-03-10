@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 31281,
+  "num_followers": 31448,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMDNkNWNjOTUxYTI0M2Q2ODIyODhkYzE2ZGU0OWIyMTg3",
+  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGYwNjI2ZWU1ZDhkZmExNzA1NjAwYTY3Y2VjZjE2Zjli",
   "tracks": [
     {
       "added_at": "2022-08-01 23:22:41",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos De Caballos",
-        "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
+        "name": "El Caballo de Mi Padre",
+        "url": "https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
+      "duration_ms": 201317,
+      "name": "El Caballo de Mi Padre",
+      "url": "https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -631,34 +631,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "El Caballo de Mi Padre",
-        "url": "https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI"
+        "name": "Corridos De Caballos",
+        "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 201317,
-      "name": "El Caballo de Mi Padre",
-      "url": "https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -675,6 +659,22 @@
       "duration_ms": 186133,
       "name": "Regalo Del Cielo",
       "url": "https://open.spotify.com/track/7DBvS6V71BdQSDE89fun8r"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Fuera de Serie",
-        "url": "https://open.spotify.com/album/7ywEfABDuij7M0ZWJc932V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 176948,
-      "name": "Fuera de Serie",
-      "url": "https://open.spotify.com/track/1FfimWZEvC2hbn1jODdVU4"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+        }
+      ],
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/7ywEfABDuij7M0ZWJc932V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 176948,
+      "name": "Fuera de Serie",
+      "url": "https://open.spotify.com/track/1FfimWZEvC2hbn1jODdVU4"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "Corridos De Caballos Famosos",
         "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
-        }
-      ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Puros Corridos",
         "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 224130,
       "name": "One Dashing Eagle",
       "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -943,6 +927,22 @@
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
+        "name": "Los Viejitos",
+        "url": "https://open.spotify.com/album/1uXnvrwer247xjqQTaTW7p"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Yegua Sebruna",
+      "url": "https://open.spotify.com/track/0f5WtuRcdI32JjJOkZo9iG"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
         "name": "El Rey De Los Coleaderos",
         "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Los Viejitos",
-        "url": "https://open.spotify.com/album/1uXnvrwer247xjqQTaTW7p"
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 200281,
-      "name": "Yegua Sebruna",
-      "url": "https://open.spotify.com/track/0f5WtuRcdI32JjJOkZo9iG"
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 191961,
-      "name": "El Rengo del Gallo Giro",
-      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "El Caballo Robado",
         "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
-      },
-      "artists": [
-        {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 187324,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+      },
+      "artists": [
+        {
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
     },
     {
       "added_at": "2022-08-01 23:22:41",

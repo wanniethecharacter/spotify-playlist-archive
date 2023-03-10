@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS?si=LsiXeXHtRJKZdTacWbURoA\">Gevoel van Veiligheid</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=xrLjkasrQcu0AdhWIzzoGg\">Zaan Sonnekus</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 237599,
       "name": "adolescent energy",
       "url": "https://open.spotify.com/track/1y3Jr4FEgwnr0pm9GwIpQQ"
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Damwal",
+        "url": "https://open.spotify.com/album/5aTy7ndoDNzd2ndsfbQ1I2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Visagie",
+          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "Damwal",
+      "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
+    },
+    {
+      "album": {
         "name": "Dapper",
         "url": "https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 157000,
       "name": "Darlene",
       "url": "https://open.spotify.com/track/5oSm6O7Vl8D31fwXDdOEbJ"
@@ -2197,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/41UZWeiuFGm0GaXb8bjQm9"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
+    },
+    {
+      "album": {
         "name": "Monkey Mind",
         "url": "https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J"
       },
@@ -2623,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Questions Later",
+        "url": "https://open.spotify.com/album/6EVHtMDTZt2V13x7uDGEUb"
+      },
+      "artists": [
+        {
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Questions Later",
+      "url": "https://open.spotify.com/track/2WBMiKKv3yltabqkdxEgWD"
+    },
+    {
+      "album": {
         "name": "Quit It",
         "url": "https://open.spotify.com/album/1YoAazxKlSbG2lvw6PYygm"
       },
@@ -2760,7 +2814,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 195431,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
@@ -3328,7 +3382,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 191000,
       "name": "The Leviathan",
       "url": "https://open.spotify.com/track/5ww5VmYgYGQtGMJiz2tDTQ"
@@ -3622,6 +3676,24 @@
       "duration_ms": 246173,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/5RA1vsHu0BBAns6A7tZaAr"
+    },
+    {
+      "album": {
+        "name": "Vodka and Smoke",
+        "url": "https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm"
+      },
+      "artists": [
+        {
+          "name": "Metro Villa",
+          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276667,
+      "name": "Vodka and Smoke",
+      "url": "https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj"
     },
     {
       "album": {

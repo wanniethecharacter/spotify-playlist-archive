@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-142 songs - 11 hr 12 min
+143 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,9 +72,9 @@
 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Stephan Crump](https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Accelerando](https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF) | 9:39 | 2022-09-13 | 2022-11-13 |
 | [I Am The Walrus](https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [I Am The Walrus](https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ) | 4:14 | 2023-01-12 | 2023-02-28 |
 | [I Am The Walrus](https://open.spotify.com/track/7rs2rtBcpCH1PEUhapS3rE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Your Mother Should Know: Brad Mehldau Plays The Beatles](https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT) | 4:14 | 2023-02-23 |  |
-| [I Can't Make You Love Me](https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [I Can't Make You Love Me](https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a) | 4:26 | 2023-02-15 | 2023-03-02 |
+| [I Can't Make You Love Me](https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [I Can't Make You Love Me](https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a) | 4:26 | 2023-02-15 |  |
 | [I Got You \- I Feel Good](https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:39 | 2022-09-13 |  |
-| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 |  |
+| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2023-03-10 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-08 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 | 2022-12-08 |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
@@ -88,6 +88,7 @@
 | [Just a Girl](https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Just a Girl](https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2) | 3:09 | 2022-09-13 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-09-13 |  |
 | [Just The Way You Are](https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:00 | 2022-09-13 |  |
+| [Just the Way You Are](https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Just the Way You Are](https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW) | 4:32 | 2023-03-09 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/1cO0leXSGQuzc7W3QMFkDS) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/3O3LacyGxoIb20HcvvfxTt) | 4:05 | 2022-09-13 |  |
 | [Kiss from a Rose](https://open.spotify.com/track/3lBfxgfIQ16YbgVaD1oBLy) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 3:48 | 2022-09-13 |  |
 | [Ladies Of the Canyon \(Bonus\)](https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Ultrahang](https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj) | 6:42 | 2022-09-13 | 2022-10-31 |
@@ -102,7 +103,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Everybody Loves Angels](https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm) | 5:20 | 2022-09-13 |  |
 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2022-09-13 |  |
 | [Mother Stands for Comfort](https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Mother Stands For Comfort](https://open.spotify.com/album/3VMS5nN5sKgqt1GAvihrkt) | 4:07 | 2023-02-28 |  |
-| [Mr\. Tambourine Man](https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Who Used To Dance](https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0) | 6:53 | 2022-09-13 |  |
+| [Mr\. Tambourine Man](https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Who Used To Dance](https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0) | 6:53 | 2022-09-13 | 2023-03-10 |
 | [Mrs\. Robinson](https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:40 | 2022-10-05 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:40 | 2022-09-13 | 2022-10-05 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy) | [Jimmy Scott](https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo) | [Pedro Almodóvar \- Viva La Tristeza!](https://open.spotify.com/album/0BCoKgFUJxca69dLVXsRpH) | 6:18 | 2022-09-13 |  |

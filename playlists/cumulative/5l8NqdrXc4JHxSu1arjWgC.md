@@ -4,7 +4,7 @@
 
 > 
 
-670 songs - 1 day 21 hr 12 min
+671 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Lake Superior](https://open.spotify.com/track/1s5wRbjKYS4PwvRiUDGtVt) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Lake Superior](https://open.spotify.com/album/6dgHJK6fVIUdzNMQ6hoAr1) | 4:49 | 2020-04-07 |  |
 | [Las Habladurias del Mundo](https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 4:03 | 2019-07-15 |  |
 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 | 2020-10-20 |  |
+| [Le jardin](https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu) | [Mcbaise](https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO) | [Windowsill](https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP) | 3:27 | 2023-03-09 |  |
 | [Learning to Fly](https://open.spotify.com/track/3ieDOGcOqVxScs2VZBzidt) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 4:52 | 2020-04-23 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2020-08-20 |  |
 | [Letter Never Sent](https://open.spotify.com/track/4FDodpaL8v5lZgc1nf9gGn) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Letter Never Sent](https://open.spotify.com/album/6JIKDOY5NET8f5yoIpKzWW) | 3:31 | 2019-09-24 |  |

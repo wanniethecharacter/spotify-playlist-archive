@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 45509,
+  "num_followers": 45542,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDY2YTc4ZDZkOGYyODhjZGJmMGQ1ZDQwZTRkYjg3OTU1",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDQwNmQ1MTUzZjBhYmYzOTNjYThmNTNiN2NiM2IzMTU3",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Habichuela en Rama",
-        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
-      },
-      "artists": [
-        {
-          "name": "Pepe Habichuela",
-          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Canta la Guitarra",
-      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bella Donna",
         "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Habichuela en Rama",
+        "url": "https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB"
+      },
+      "artists": [
+        {
+          "name": "Pepe Habichuela",
+          "url": "https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Canta la Guitarra",
+      "url": "https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Tamez",
-          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
-        },
-        {
-          "name": "Terceto De Guitarras De La Ciudad De Mexico",
-          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Tierra Mestiza",
-      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 194944,
       "name": "Commitments",
       "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Tamez",
+          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
+        },
+        {
+          "name": "Terceto De Guitarras De La Ciudad De Mexico",
+          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Tierra Mestiza",
+      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -911,42 +911,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
-      },
-      "artists": [
-        {
-          "name": "Escudero,",
-          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
-        },
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Meu cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
-      },
-      "artists": [
-        {
-          "name": "Xavier Hermenegildo",
-          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
-        }
-      ],
-      "duration_ms": 143179,
-      "name": "Meu cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Only In Paris",
         "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
       },
@@ -975,6 +939,42 @@
       "duration_ms": 147179,
       "name": "Ilha Do Amor",
       "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Meu cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Hermenegildo",
+          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+        }
+      ],
+      "duration_ms": 143179,
+      "name": "Meu cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+      },
+      "artists": [
+        {
+          "name": "Escudero,",
+          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
+        },
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Herencia de Valencia",
+        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Herencia de Valencia",
+      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
         "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Herencia de Valencia",
-        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
       "artists": [
         {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Herencia de Valencia",
-      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+      "duration_ms": 144948,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 236842,
       "name": "Milonga",
       "url": "https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 144948,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Colours of Greece / Instrumentals of Greek Music",
+        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
+      },
+      "artists": [
+        {
+          "name": "Yiorgos Zabetas",
+          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Tavernas' Hasapikos - Instrumental",
+      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Sones y Danzones de Buena Madera",
         "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 402466,
       "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
       "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Colours of Greece / Instrumentals of Greek Music",
-        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
-      },
-      "artists": [
-        {
-          "name": "Yiorgos Zabetas",
-          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Tavernas' Hasapikos - Instrumental",
-      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
     },
     {
       "added_at": "2022-10-27 22:01:00",

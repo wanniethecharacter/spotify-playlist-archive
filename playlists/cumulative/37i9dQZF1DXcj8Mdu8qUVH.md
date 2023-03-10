@@ -4,7 +4,7 @@
 
 > Tranquil flute music from around the world.
 
-110 songs - 7 hr 14 min
+114 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Arctic Breeze](https://open.spotify.com/track/7qmcnHl8UZCv2gGBxqc7wb) | [Meliore](https://open.spotify.com/artist/2idtXzJnFZXORxj1JhTTqZ) | [Arctic Breeze](https://open.spotify.com/album/6moDvmPDI98joxpiImmnDr) | 2:25 | 2022-09-30 |  |
 | [Astral Myst](https://open.spotify.com/track/6KYNgQPraq4bBAUXnl8JHQ) | [Joe Yeatman](https://open.spotify.com/artist/1aRs8zfefA0q5PM8cbtYPR) | [Astral Myst](https://open.spotify.com/album/4Bzg992UQO6Ecuoy0Jd6TO) | 5:21 | 2022-09-30 |  |
 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 | 2022-09-30 |  |
+| [Bliss](https://open.spotify.com/track/2wIBOetdiYn4ULg7j4jMg6) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Bliss](https://open.spotify.com/album/4ypytf7vDPbJYcfyUDWaQd) | 4:22 | 2023-03-09 |  |
 | [Breathe With Me](https://open.spotify.com/track/5Yg8xfu4paQ3HLeYsHYL3A) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Breathe With Me](https://open.spotify.com/album/1fujTK186d1YXh85ub1jQD) | 3:36 | 2022-09-30 |  |
 | [Calm Flute for Peaceful Meditation](https://open.spotify.com/track/6g2YK8pWLCDAgOaTsvkVwv) | [Deep Sleep Music DEA Channel](https://open.spotify.com/artist/58EFY0ThOAiwT3zm9PEvFd), [Flute Music Meditation DEA Channel](https://open.spotify.com/artist/3JwH8swvnqAq6y4BKmwSe3), [Spa Music Relaxation](https://open.spotify.com/artist/6JKzNyyRN128rILrhNBscX) | [Healing Indian Flute: Calming Native American Flute for Spa, Massage, Yoga & Meditation](https://open.spotify.com/album/4voAJGyT67x61I1xwpZvou) | 2:15 | 2022-09-30 |  |
 | [Calmas de un bosque amarillo](https://open.spotify.com/track/6p2oabFZtwN0pboAMiZLR7) | [Mundos Imaginarios](https://open.spotify.com/artist/0UcJmGa2mGDMpQn2A8Aa35) | [Silencio Astronauta](https://open.spotify.com/album/0srV7tlZBO4HFrjsjVXrhN) | 3:40 | 2022-09-30 |  |
@@ -32,6 +33,7 @@
 | [Descanso sonoro](https://open.spotify.com/track/3nSQ0ShwhlW8lG28Cyt1fM) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Descanso sonoro](https://open.spotify.com/album/3vcRqjFfo4gUriGjgdoG8R) | 2:55 | 2022-09-30 |  |
 | [Dreams & Peace](https://open.spotify.com/track/0TclQcvmTDFsrX3aiS2oet) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Dreams & Peace](https://open.spotify.com/album/2tNQhmTTLUHzQ1gxbJjmgL) | 6:57 | 2022-09-30 |  |
 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 | 2022-09-30 |  |
+| [Drishti](https://open.spotify.com/track/7LxccpMcrsicmlY9eyEy15) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Drishti](https://open.spotify.com/album/2W6BPKqrKtMNgHNBegBcqx) | 3:16 | 2023-03-09 |  |
 | [Duduk Love](https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Duduk Love](https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk) | 2:56 | 2022-09-30 |  |
 | [Duduk Meditation](https://open.spotify.com/track/2luJHFIww4J6aDDgKrtMzj) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Duduk Meditation](https://open.spotify.com/album/6EmxQbfStnZduX1ZCC0VQz) | 8:15 | 2022-09-30 | 2023-02-11 |
 | [Echoes of Time](https://open.spotify.com/track/3PGZTHMY2oo5zX1qKKDhjG) | [AH\*NEE\*MAH](https://open.spotify.com/artist/6duM9l1NUKDA4l3awIC6tw) | [Prophecy 2: A Hearts of Space Native American Collection](https://open.spotify.com/album/5Wbhwiqyw2fnaXHGEPiALH) | 4:24 | 2022-09-30 |  |
@@ -79,6 +81,7 @@
 | [Peaceful Garden](https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Peaceful Garden](https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK) | 6:17 | 2022-09-30 |  |
 | [Peaceful Night](https://open.spotify.com/track/0fd8mT4an6B4ajvvphJy7n) | [Derrol](https://open.spotify.com/artist/1rc39ZvAFk7t5PsByX1hjP), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Music For Deep Sleep: Bedtime Music, Music To Help You Sleep](https://open.spotify.com/album/5vWc6gMLfMtkv44IsatGFW) | 3:06 | 2022-09-30 |  |
 | [Pictures At Dawn](https://open.spotify.com/track/2Infc0OqqkJ4R4jIiYVCJZ) | [Logan Ronfeld](https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9) | [Pictures At Dawn](https://open.spotify.com/album/47Kc0aIO4oUOU0OgDJ6ZfR) | 2:34 | 2023-01-05 |  |
+| [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 | 2023-03-09 |  |
 | [Reed Song](https://open.spotify.com/track/3T3kjCjqgjBuX4OsDMqqrb) | [Nafas](https://open.spotify.com/artist/3nLS9Z6lkqBO2e4wHbkkQb), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Reed Song](https://open.spotify.com/album/34OEiTXHoP7T4gNfi1TaBX) | 5:06 | 2022-09-30 |  |
 | [Reflexions of Rain](https://open.spotify.com/track/2A1s1PIKujL893fpfj8wkU) | [Lumirä](https://open.spotify.com/artist/3HMo6xp5BGACWVq41ImbCi) | [Reflexions of Rain](https://open.spotify.com/album/1uupfSqGvKawHXuxjTZYnc) | 6:32 | 2022-09-30 |  |
 | [Relaxing Ritual](https://open.spotify.com/track/40irCiVOr0ksZAIHoWABLk) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Queen of Spiritual Sleep](https://open.spotify.com/album/3lkICAnE41Hj074kuJDeit) | 1:50 | 2023-02-10 |  |
@@ -101,6 +104,7 @@
 | [Spiritus Sanctus Vivificans](https://open.spotify.com/track/4pNprbBP0tbDkZTwr5Mv26) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Spiritus Sanctus Vivificans](https://open.spotify.com/album/1LjHf0cHN9ST8xFQCYdR7B) | 3:53 | 2022-09-30 |  |
 | [Splendid Spring](https://open.spotify.com/track/5obmxOzBLSu7TM82nF9je4) | [Djivan Gasparyan](https://open.spotify.com/artist/7ABrk0PO1Bz1U4G023WzSk), [Sergei Karapetian](https://open.spotify.com/artist/3buJZx9haN3pR1hdpAHcOi), [Mkrtich Malkhasian](https://open.spotify.com/artist/3AXuYrjNmZgnHjAUCkAM8L) | [The Art of the Armenian Duduk](https://open.spotify.com/album/1jC4zU9ZqtLicoSOnm5EYZ) | 3:06 | 2022-09-30 |  |
 | [Starry Sky](https://open.spotify.com/track/6g0jqxUxlZsj51lGVDh0cC) | [Derek Fiechter](https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs), [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [Desert Dreams](https://open.spotify.com/album/65oCkKyowOzfwq30nZqgLl) | 5:11 | 2022-09-30 | 2023-02-11 |
+| [Strenght](https://open.spotify.com/track/3A7HBtO3W28kBKOJHBb9dZ) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Strenght](https://open.spotify.com/album/6rPZfQ4Wc4FiLj4VVeeFTF) | 3:24 | 2023-03-09 |  |
 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 | 2022-09-30 |  |
 | [Sukh Shanati](https://open.spotify.com/track/4emNLffejUVKTePqqySP05) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Samajhauta](https://open.spotify.com/album/1Ge5uhuyA0O9JTyxYEMCNW) | 4:09 | 2022-09-30 |  |
 | [Sunrise](https://open.spotify.com/track/21paVu8nvMYrk2lnJHlx9T) | [Aiva](https://open.spotify.com/artist/3kHAguqTYdq4J0I7IZUKNG) | [Sunrise](https://open.spotify.com/album/4iyPalkRWVGvSuHR63saG5) | 5:22 | 2022-09-30 |  |

@@ -2,7 +2,7 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers\. Cover: Clairo
+> Dreamy jams from the best bedroom producers\. Cover: Joji
 
 828 songs - 1 day 19 hr 4 min
 
@@ -227,7 +227,7 @@
 | [el sofá](https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [tenemos que quedar](https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4) | 3:11 | 2021-04-29 | 2021-05-22 |
 | [ELECTRICITY](https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [ELECTRICITY](https://open.spotify.com/album/335otQsODkCfcukSFGUYoG) | 3:30 | 2021-07-02 | 2022-07-27 |
 | [ELEVEN11\_GTR\_SONG](https://open.spotify.com/track/3dJ9uVTlDV3az5bYtpWa7W) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [ELEVEN11\_GTR\_SONG](https://open.spotify.com/album/2TJINOYmOnGQcTpmoJKjTy) | 3:42 | 2021-04-29 | 2021-04-30 |
-| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2020-08-11 |  |
+| [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2020-08-11 | 2023-03-10 |
 | [endlessly](https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [endlessly](https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK) | 2:05 | 2023-01-12 |  |
 | [Erase](https://open.spotify.com/track/4luBGXcgpFQPPAtcF4zEdv) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Erase](https://open.spotify.com/album/5CQJNJ3aHoWhegy4Xp7LcC) | 3:56 | 2019-07-30\* | 2021-05-26 |
 | [Eternally 12](https://open.spotify.com/track/6mEP1cofyVXsJ9oDAeaRIt) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Eternally 12](https://open.spotify.com/album/1cQ9w7Zzb53KdTyuswFh02) | 4:01 | 2019-07-31 | 2021-05-28 |
@@ -775,7 +775,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-04-29 |
 | [Volvernos a Ver](https://open.spotify.com/track/37KNkyB6TDqVYrNl2ZXwK6) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Canciones Que Hice en Mi Habitación](https://open.spotify.com/album/1Gr7WNfsyWx3d3ZYhqd9y5) | 1:04 | 2021-05-15 | 2021-05-27 |
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
-| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 | 2023-02-11 |
+| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |

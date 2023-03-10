@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1063225,
+  "num_followers": 1063564,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDdkNWMyNDMyMjYwMTVlMzJlYmM0OGQ0NmVhM2Q5NmY4",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDA4MTVjMWJlZmM0NTJlMmUxM2E4YjkyODNmNzM1N2Rj",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
       "artists": [
         {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 197274,
-      "name": "Alone Again Or - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -383,38 +383,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 197274,
+      "name": "Alone Again Or - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Clear Spot",
         "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Hellbound Train",
-        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
       "artists": [
         {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
         }
       ],
-      "duration_ms": 550506,
-      "name": "Hellbound Train",
-      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
+      "duration_ms": 161000,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Hellbound Train",
+        "url": "https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 550506,
+      "name": "Hellbound Train",
+      "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
         "url": "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Mama Roux",
-      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Part One",
         "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234600,
       "name": "Shifting Sands",
       "url": "https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Mama Roux",
+      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
     },
     {
       "added_at": "2023-01-18 16:20:47",

@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 717229,
+  "num_followers": 717551,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMGEzNmE1N2U0M2IyYjRjMDk1ZDc3YjUyNjQ4NGJjMjRk",
+  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDdlMDExZGNmYTc0NmE4MGU3ODVkNWMyYTU1Njg0Njc3",
   "tracks": [
     {
       "added_at": "2023-01-03 16:27:37",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Sausalito",
-        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 222859,
-      "name": "Sausalito",
-      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Agape",
-        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 285677,
-      "name": "When You Break",
-      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Agape",
+        "url": "https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 285677,
+      "name": "When You Break",
+      "url": "https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 204213,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Once I Was An Eagle",
+        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -735,22 +751,6 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Once I Was An Eagle",
-        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Devil's Resting Place",
-      "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 215729,
-      "name": "Deep Green",
-      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Queen of Disaster",
         "url": "https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 221413,
       "name": "Queen of Disaster",
       "url": "https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 215729,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
         "name": "The Crow Mother",
         "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 265098,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2iddHfAqBKMJkXerLA9F9I"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Volcano",
-      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Animalia",
         "url": "https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 233635,
       "name": "Depraved",
       "url": "https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Take Me to Church EP",
         "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218986,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Before We Forgot How To Dream",
-        "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 288140,
-      "name": "B a noBody",
-      "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Before We Forgot How To Dream",
+        "url": "https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 288140,
+      "name": "B a noBody",
+      "url": "https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Into the Glass - EP",
         "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 276453,
       "name": "I Of The Storm",
       "url": "https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ"
     },
     {
       "added_at": "2023-01-03 16:27:37",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-03 16:27:37",
       "album": {
-        "name": "Never Want to Be In Love",
-        "url": "https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 213054,
-      "name": "Never Want to Be In Love",
-      "url": "https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP"
-    },
-    {
-      "added_at": "2023-01-03 16:27:37",
-      "album": {
         "name": "Farm b/w Lift",
         "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
+    },
+    {
+      "added_at": "2023-01-03 16:27:37",
+      "album": {
+        "name": "Never Want to Be In Love",
+        "url": "https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 213054,
+      "name": "Never Want to Be In Love",
+      "url": "https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP"
     }
   ],
   "unique_name": "Dark & Stormy",

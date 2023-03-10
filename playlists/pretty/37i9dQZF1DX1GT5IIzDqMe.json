@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 76797,
+  "num_followers": 76872,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMDIwYjg4NzZmNjhmOTg2Y2U0YTYwNGVlMDdlMTE3MjBj",
+  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMDRhMDg0Zjk4MGFhYjdhMzdkNzI2MThlMzQzNjFmNzlk",
   "tracks": [
     {
       "added_at": "2023-03-06 21:51:33",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "SIGHT SOUND AND SPACE",
-        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
-      },
-      "artists": [
-        {
-          "name": "Jeff Mills",
-          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
-    },
-    {
-      "added_at": "2023-03-06 21:51:33",
-      "album": {
         "name": "Silentintroduction",
         "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 485306,
       "name": "I Can't Kick This Feeling When It Hits",
       "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2023-03-06 21:51:33",
+      "album": {
+        "name": "SIGHT SOUND AND SPACE",
+        "url": "https://open.spotify.com/album/1FfGSThzZxeULHDWvkZZHb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+        "name": "The Bearer feat. Karina Mia",
+        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
       },
       "artists": [
         {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
         }
       ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+      "duration_ms": 360773,
+      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
+      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -591,6 +591,22 @@
       "duration_ms": 554692,
       "name": "Riod",
       "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2023-03-06 21:51:33",
+      "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+      },
+      "artists": [
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -679,42 +695,6 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "The Bearer feat. Karina Mia",
-        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
-      },
-      "artists": [
-        {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
-        }
-      ],
-      "duration_ms": 360773,
-      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
-      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
-    },
-    {
-      "added_at": "2023-03-06 21:51:33",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
-    },
-    {
-      "added_at": "2023-03-06 21:51:33",
-      "album": {
         "name": "I Can't Believe",
         "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
@@ -751,18 +731,22 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -803,22 +787,18 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "Detroit Love Vol. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 339336,
-      "name": "Do It All Night (C2 Edit) - Mixed",
-      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -839,6 +819,26 @@
       "duration_ms": 209529,
       "name": "Savage & Beyond",
       "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+    },
+    {
+      "added_at": "2023-03-06 21:51:33",
+      "album": {
+        "name": "Detroit Love Vol. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 339336,
+      "name": "Do It All Night (C2 Edit) - Mixed",
+      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
     },
     {
       "added_at": "2023-03-06 21:51:33",

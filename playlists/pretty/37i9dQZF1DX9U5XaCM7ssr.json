@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 961354,
+  "num_followers": 962045,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMDE1Y2U2MTNjMzA0YThkNThiOTg1NzE1NTM0ZjhhNDQ4",
+  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMGZlMDk4NTU0MDBjMGQ5ZTYxMWNjZjMzNmNiMzkzYzI0",
   "tracks": [
     {
       "added_at": "2023-02-03 05:18:14",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Menari Dengan Bayangan",
-        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 277457,
-      "name": "Rumah Ke Rumah",
-      "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
         "name": "ASHER",
         "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 240759,
       "name": "Bertahan Terluka",
       "url": "https://open.spotify.com/track/62sancAaHEMwPxBuatzaay"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
+        "name": "Menari Dengan Bayangan",
+        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 277457,
+      "name": "Rumah Ke Rumah",
+      "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
     },
     {
       "added_at": "2023-02-03 05:18:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Lyodra",
-        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 261299,
-      "name": "Pesan Terakhir",
-      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
         "name": "Mesin Waktu",
         "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 262734,
       "name": "Mesin Waktu",
       "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
+        "name": "Lyodra",
+        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 261299,
+      "name": "Pesan Terakhir",
+      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
       "added_at": "2023-02-03 05:18:14",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Bintang Lima",
-        "url": "https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ"
+        "name": "Hilang Tanpa Bilang",
+        "url": "https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6"
       },
       "artists": [
         {
-          "name": "Dewa",
-          "url": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
         }
       ],
-      "duration_ms": 292560,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj"
+      "duration_ms": 283900,
+      "name": "Hilang Tanpa Bilang",
+      "url": "https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE"
     }
   ],
   "unique_name": "Generasi Galau",

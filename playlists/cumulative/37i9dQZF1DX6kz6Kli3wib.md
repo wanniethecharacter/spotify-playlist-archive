@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-257 songs - 12 hr 37 min
+259 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [nassau flights](https://open.spotify.com/track/52TxNK1fhWi3apyzHE0hge) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [nassau flights](https://open.spotify.com/album/2s6NZqAm9aiji3o3hMLhbX) | 2:29 | 2022-10-28 |  |
 | [New Home](https://open.spotify.com/track/3fOHXAfr6vkw7E4rbTs97y) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Home Sweet Home](https://open.spotify.com/album/1U9SC6WxvpISBIgnlpYaKB) | 2:14 | 2022-09-23 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-11-11 | 2022-10-14 |
+| [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 | 2023-03-10 |  |
 | [no huzzle](https://open.spotify.com/track/4c43CIhFGCCTf65VTafmYo) | [lucy m](https://open.spotify.com/artist/2gUhsjLB0SjWry8Kh4CMsA) | [no huzzle](https://open.spotify.com/album/4NmEIXPqrMQpSLzUmczLAR) | 2:32 | 2022-06-03 | 2022-09-02 |
 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 | 2021-11-11 | 2022-09-02 |
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
@@ -232,6 +233,7 @@
 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 | 2021-11-11 | 2022-04-06 |
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tenacious Aura](https://open.spotify.com/track/5KNESkEEm92UTYQ5psdIK6) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [Tenacious Aura](https://open.spotify.com/album/445wpYYsV11OvhiMIcIjLJ) | 4:09 | 2022-05-20 | 2022-07-29 |
+| [Thanks To You](https://open.spotify.com/track/1a3kjYRNW9vrvn8VG7wmv5) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Thanks To You](https://open.spotify.com/album/0lHve23h4PTqyf9L9b53Uy) | 3:07 | 2023-03-10 |  |
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2021-11-11 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 |  |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2021-11-11 |  |

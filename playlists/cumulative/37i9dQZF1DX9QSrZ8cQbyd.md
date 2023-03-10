@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-175 songs - 4 hr 49 min
+176 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Sleepy Cat](https://open.spotify.com/track/7wtMEwqhZYAU4anoE8oiXc) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [Sleepy Cat](https://open.spotify.com/album/3wym6bkzRb86E4s1Qi2dIn) | 1:18 | 2022-05-17 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/53mfvorO6wNhT0isp1gbE9) | [Wright Priestley](https://open.spotify.com/artist/0LaG9s5wrLFkfJNSQGwOwp) | [Sleepy Eyes](https://open.spotify.com/album/4YtEguKm1Xv9k39LzmdBP7) | 1:41 | 2022-10-26 |  |
 | [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 |  |
+| [Snugglebug's Lullaby](https://open.spotify.com/track/57WkgijiCK1PJLW8eHngDM) | [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Snugglebug's Lullaby](https://open.spotify.com/album/6XB8qAdP1E07BCxvVO5Rxq) | 2:00 | 2023-03-09 |  |
 | [Squirrels Dancing](https://open.spotify.com/track/7b6hFe41niNm2aUcTcgR60) | [Miss Goleta](https://open.spotify.com/artist/4gSHS9XFrN73A6cBEbhSG8) | [Squirrels Dancing](https://open.spotify.com/album/2QFk3E4Jpl1CyCFOfzIGhU) | 1:39 | 2022-11-25 |  |
 | [Stars Above](https://open.spotify.com/track/4dqmR8MD5E9mMThNG1bXuB) | [Kaiden Hawk](https://open.spotify.com/artist/1YhKED579GDUJbwmCUnkKe) | [Stars Above](https://open.spotify.com/album/4pFvGbhYxFEEU8TziuxVP2) | 1:24 | 2022-06-30 |  |
 | [Stilla Slummer](https://open.spotify.com/track/4zDYRX67YPtXhoZK8emV4Y) | [Viola Auno](https://open.spotify.com/artist/1mi0dyt7WAk3TsooUBlsvS) | [Stilla Slummer](https://open.spotify.com/album/0iJbHz5ZzNvAVd3qaQiSqM) | 1:25 | 2023-02-02 |  |

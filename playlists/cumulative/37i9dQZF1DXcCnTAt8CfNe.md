@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-243 songs - 11 hr 32 min
+244 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Somnolence](https://open.spotify.com/track/2T9BgAmZQT2dLqllKA5UPj) | [Zak Brady](https://open.spotify.com/artist/5sKrAIJIFlKVRkuFyG03aS) | [Somnolence](https://open.spotify.com/album/3wYmN89JOq65AStF3FqMjR) | 3:12 | 2021-12-09 |  |
 | [Somnolent](https://open.spotify.com/track/6dogY6HwvahB2QPFZM0uV5) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Somnolent](https://open.spotify.com/album/5FiohTEKrMcULVMFlk37Ps) | 2:00 | 2021-12-09 |  |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2021-12-09 | 2022-10-15 |
-| [Soul Pretender](https://open.spotify.com/track/3MNLhJcidAO44dbDJyB2Vt) | [Joseph Gatscyjk](https://open.spotify.com/artist/68MDBlwUqOYTlNqDZUMH1t) | [Soul Pretender](https://open.spotify.com/album/6AzosJPRiJClS25TTX8kIQ) | 2:25 | 2021-12-09 |  |
+| [Soul Pretender](https://open.spotify.com/track/3MNLhJcidAO44dbDJyB2Vt) | [Joseph Gatscyjk](https://open.spotify.com/artist/68MDBlwUqOYTlNqDZUMH1t) | [Soul Pretender](https://open.spotify.com/album/6AzosJPRiJClS25TTX8kIQ) | 2:25 | 2021-12-09 | 2023-03-10 |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2021-12-09 |  |
 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2021-12-09 |  |
 | [Sparkle](https://open.spotify.com/track/3a14Ywse8vF62KNc7zI4wW) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Sparkle](https://open.spotify.com/album/3N2aAxQUp9v82RGS2NzMRu) | 1:55 | 2021-12-09 | 2022-01-21 |
@@ -248,6 +248,7 @@
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2021-12-09 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-09 | 2022-10-15 |
 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 | 2021-12-09 |  |
+| [Yael](https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Occo](https://open.spotify.com/album/04kUJ5taRxFums5i4QWO8h) | 3:03 | 2023-03-10 |  |
 | [Yellow Sky \- Remix](https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52) | [Dhyana Thomas](https://open.spotify.com/artist/2U2PV9orIaYatgMdTcB6eN) | [Yellow Sky \- Remix](https://open.spotify.com/album/0YgwqMPyCPRBIlGnkIEkSv) | 2:24 | 2021-12-22 | 2023-01-28 |
 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 | 2021-12-09 |  |
 | [별이 가득한 하늘](https://open.spotify.com/track/4NP9chouySQM1iTVchHw2R) | [Mangjeol](https://open.spotify.com/artist/1zPUl1M5ChzBcpqH6Izciw) | [별이 가득한 하늘](https://open.spotify.com/album/0JH7t68Zhh0ngZ82ai2GX2) | 2:06 | 2021-12-09 | 2022-10-15 |

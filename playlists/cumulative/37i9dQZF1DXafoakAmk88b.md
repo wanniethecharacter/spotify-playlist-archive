@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
 
-263 songs - 13 hr 50 min
+264 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2022-02-18 | 2022-05-21 |
 | [moon\-e](https://open.spotify.com/track/73jgT3Xc1d8KqXohUhaITa) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [moon\-e](https://open.spotify.com/album/16k2U8YeE9H2xvOfy26IO0) | 3:12 | 2022-02-18 | 2023-02-11 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2022-02-18 | 2022-06-19 |
+| [My My](https://open.spotify.com/track/6o96AEsHYibjCQSjzhguAm) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [My My](https://open.spotify.com/album/57XuVQ9SLM3DOSBTA8wOAq) | 1:42 | 2023-03-09 |  |
 | [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 | 2022-11-11 |  |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-18 | 2022-02-26 |
 | [NYC](https://open.spotify.com/track/5SfOaWCMXCR2b01GJqXLOr) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 2:26 | 2023-01-18 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-511 songs - 21 hr 46 min
+514 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,8 @@
 | [Away From You](https://open.spotify.com/track/65G4iKOfLs0gidAEPAzl50) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Away From You](https://open.spotify.com/album/4yCEPsYP8Ro3qjOZf13jgS) | 1:58 | 2023-01-06 |  |
 | [Ayewete](https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 2:20 | 2022-02-10 | 2023-01-13 |
 | [Azul](https://open.spotify.com/track/4V9JH0Yk7etdGCZDX7TXvG) | [Side Sledge](https://open.spotify.com/artist/04ZyJQLsMY92swDhrrSqGe) | [Chance](https://open.spotify.com/album/4MaBzgmtaK2k7QOr9cFs5g) | 3:37 | 2021-11-10 | 2022-08-20 |
+| [Back in the Day](https://open.spotify.com/track/7bp12ZMMsQRxDtFOOMvy8M) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Back In The Day](https://open.spotify.com/album/0BWhrOI9YwYCs8BJWjQxXS) | 1:45 | 2023-03-10 |  |
+| [Bad Day](https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 3:10 | 2023-03-10 |  |
 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 | 2022-10-28 |  |
 | [bakis](https://open.spotify.com/track/2lzx5m2mJdh5cE9RWVONXq) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [bakis](https://open.spotify.com/album/0U9O5HnNdQTY0CYljsbIOA) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [BBQ](https://open.spotify.com/track/5nj8Y2IWfRGbIlgu6vVBO6) | [TYPEII](https://open.spotify.com/artist/35nSiWzRYHK8oVC58VbIvm) | [BBQ](https://open.spotify.com/album/1kZUXRWCNCIsJiNUjrdOp2) | 2:08 | 2021-11-10 | 2022-04-15 |
@@ -318,10 +320,11 @@
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-11-10 | 2022-05-20 |
 | [Ocean Waves](https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M) | [Ocean Waves](https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf) | [Ocean Waves](https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV) | 2:19 | 2022-06-03 | 2023-01-13 |
 | [Oceans](https://open.spotify.com/track/3xnwGCg63UVgiS6P412mmN) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [Oceans](https://open.spotify.com/album/3mmvw87WMayIVdsfWsqbCY) | 4:05 | 2021-11-10 | 2022-07-08 |
+| [Oceans](https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Oceans](https://open.spotify.com/album/4lFbvDty9iztttqrujuryt) | 2:05 | 2023-03-10 |  |
 | [odd mission.](https://open.spotify.com/track/0tZm06UflPV5BxKAgknqbp) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/6kucfOGZ2dGI4G2rqqAW31) | 2:09 | 2022-10-28 |  |
 | [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 | 2022-09-16 | 2022-11-20 |
 | [One More Chance](https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [One More Chance](https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g) | 1:28 | 2022-10-07 |  |
-| [One More Night](https://open.spotify.com/track/5p5LL70T1CZzKt543otFg0) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [One More Night](https://open.spotify.com/album/0UAEjxNR74o5X6Qe9Ugthg) | 3:27 | 2022-11-25 |  |
+| [One More Night](https://open.spotify.com/track/5p5LL70T1CZzKt543otFg0) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [One More Night](https://open.spotify.com/album/0UAEjxNR74o5X6Qe9Ugthg) | 3:27 | 2022-11-25 | 2023-03-10 |
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 |  |
 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 | 2021-11-10 | 2022-04-15 |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2021-11-10 | 2022-01-22 |

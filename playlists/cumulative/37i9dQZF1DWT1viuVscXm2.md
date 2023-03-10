@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-202 songs - 11 hr 57 min
+204 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 |  |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 | 2022-12-03 |
+| [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 | 2023-03-09 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-12-24 |  |
 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 | 2021-12-24 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2021-12-24 | 2022-07-29 |
@@ -144,6 +145,7 @@
 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 | 2023-02-03 |  |
 | [Piensame](https://open.spotify.com/track/3DnSi9XRkcqEOHPaYcMeHr) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Ep N\-Blq 33](https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv) | 2:57 | 2021-12-24 | 2022-04-16 |
 | [Pistola Remix](https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Mas Ladron](https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Pistola Remix](https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T) | 2:16 | 2021-12-24 |  |
+| [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/7etJSMrQrbEnZ79YApS8DC) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-03-09 |  |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 |  |
 | [Por Si Un Día Vuelves](https://open.spotify.com/track/1Kse9DjegXSKMVYpXFMBhg) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Si Un Día Vuelves](https://open.spotify.com/album/3I4Gw0LjdYKEVne7lF2FZr) | 2:42 | 2022-06-10 | 2022-07-01 |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-12-02 |  |
@@ -193,7 +195,7 @@
 | [Una Mujer Como Tú](https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Mujer Como Tú](https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1) | 3:44 | 2022-05-13 |  |
 | [Uno Nunca Sabe](https://open.spotify.com/track/78qiaamrC7prG6GwS2LrCD) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Uno Nunca Sabe](https://open.spotify.com/album/5R8AxddOv19SFSgeNgJOD4) | 1:55 | 2022-08-12 | 2022-08-27 |
 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 | 2021-12-24 | 2022-02-26 |
-| [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 | 2023-01-27 |  |
+| [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 | 2023-01-27 | 2023-03-10 |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2021-12-24 |  |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 | 2022-07-23 |
 | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 |  |

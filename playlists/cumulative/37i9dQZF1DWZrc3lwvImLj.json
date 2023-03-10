@@ -3222,10 +3222,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn"
+    },
+    {
+      "album": {
+        "name": "Here By The Sea",
+        "url": "https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Only If You Stay",
+      "url": "https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR"
     },
     {
       "album": {

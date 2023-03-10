@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Alice et Moi",
+  "description": "The best French indie tracks right now. Cover: Christine and the Queens",
   "name": "Made in France",
   "tracks": [
     {
@@ -221,6 +221,32 @@
     },
     {
       "album": {
+        "name": "Amoureux",
+        "url": "https://open.spotify.com/album/2iTC1RSiheY12h1YJfIVkJ"
+      },
+      "artists": [
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        },
+        {
+          "name": "Jack Lahana",
+          "url": "https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69"
+        },
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223010,
+      "name": "Amoureux",
+      "url": "https://open.spotify.com/track/3C4CBds4LizRFtq7CaLRWO"
+    },
+    {
+      "album": {
         "name": "Anne solo",
         "url": "https://open.spotify.com/album/1n8G0nLQLfjjzyhU8jqUyD"
       },
@@ -344,10 +370,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 144426,
       "name": "Avant ou apr\u00e8s",
       "url": "https://open.spotify.com/track/6hA8rl7PJa05qrYwGP2gsd"
+    },
+    {
+      "album": {
+        "name": "Avec toi",
+        "url": "https://open.spotify.com/album/42VJztoVrm7BjOphJ7pMfI"
+      },
+      "artists": [
+        {
+          "name": "Adam Berry",
+          "url": "https://open.spotify.com/artist/3Ma3J6YHlbHed5aTv7ALyh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Avec toi",
+      "url": "https://open.spotify.com/track/62rMUsBq25arP2VjtnLBZU"
     },
     {
       "album": {
@@ -1418,7 +1462,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 220280,
       "name": "Feux follets",
       "url": "https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP"
@@ -1591,6 +1635,28 @@
     },
     {
       "album": {
+        "name": "Friends (feat. Tim Ayre)",
+        "url": "https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Friends (feat. Tim Ayre)",
+      "url": "https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC"
+    },
+    {
+      "album": {
         "name": "Fun And Games",
         "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
       },
@@ -1660,7 +1726,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 150655,
       "name": "Ghost story",
       "url": "https://open.spotify.com/track/1rYLirLvSfSo5jbbl7wHE5"
@@ -2966,7 +3032,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 234508,
       "name": "Loving Soft",
       "url": "https://open.spotify.com/track/59ZKmw2qa1w0IWcYZxk25s"
@@ -3508,10 +3574,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 185173,
       "name": "novembre",
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
+    },
+    {
+      "album": {
+        "name": "Nuits Agit\u00e9es",
+        "url": "https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Nuit agit\u00e9e",
+      "url": "https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY"
     },
     {
       "album": {
@@ -3652,7 +3736,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 179696,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5as4AqOmSQQpEgEabsrtHx"
@@ -3959,6 +4043,42 @@
     },
     {
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY"
+      },
+      "artists": [
+        {
+          "name": "Or\u00e9",
+          "url": "https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208279,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc"
+    },
+    {
+      "album": {
+        "name": "RBH",
+        "url": "https://open.spotify.com/album/1Ur9lpwWAuK90MoUyNtLK0"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256924,
+      "name": "RBH",
+      "url": "https://open.spotify.com/track/7s2kizsNmMzKoJXTkxGTRj"
+    },
+    {
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -4032,7 +4152,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 203893,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/154FZo5XA2j8PqpsWeBzOt"
@@ -4539,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "S\u00e9rie B",
+        "url": "https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201224,
+      "name": "S\u00e9rie B",
+      "url": "https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO"
+    },
+    {
+      "album": {
         "name": "Tactile",
         "url": "https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6"
       },
@@ -4742,6 +4880,24 @@
       "duration_ms": 119925,
       "name": "TNT",
       "url": "https://open.spotify.com/track/4U6rMXd8plvspnNy7Iihwe"
+    },
+    {
+      "album": {
+        "name": "To be honest",
+        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221823,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
     },
     {
       "album": {
@@ -4952,7 +5108,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 170093,
       "name": "Trust Fall",
       "url": "https://open.spotify.com/track/5c7FvMWuOdaa2ZLvj67rsk"

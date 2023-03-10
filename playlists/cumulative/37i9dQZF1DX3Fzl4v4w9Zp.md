@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Brit Taylor
 
-395 songs - 1 day 0 hr 24 min
+396 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-12-02 |  |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-12-17 | 2022-09-24 |
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2021-12-17 | 2022-02-05 |
-| [Paint the Town](https://open.spotify.com/track/3G1VzspiXFL8Y3cppYWxfN) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paint the Town](https://open.spotify.com/album/6vk8gQ9wQdZsQxgz9kFc4u) | 3:26 | 2023-02-17 |  |
+| [Paint the Town](https://open.spotify.com/track/3G1VzspiXFL8Y3cppYWxfN) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paint the Town](https://open.spotify.com/album/6vk8gQ9wQdZsQxgz9kFc4u) | 3:26 | 2023-02-17 | 2023-03-10 |
+| [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 | 2023-02-24 |  |
 | [Paint This Town](https://open.spotify.com/track/2CW7mVyrv45VDbVbIf2qoJ) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/7LZiIxnPbLyXPgy3OUdaq3) | 3:57 | 2022-02-22 | 2022-05-14 |
 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 | 2021-12-17 | 2022-04-02 |
 | [Paranoid Heart](https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Paranoid Heart](https://open.spotify.com/album/4nVAHT3ACZ5wgk6lzpLRzK) | 3:12 | 2022-08-05 |  |

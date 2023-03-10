@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-213 songs - 10 hr 54 min
+214 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dynamiser](https://open.spotify.com/track/0OCkTNAy4sPrfvszddvt1k) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Dynamiser](https://open.spotify.com/album/1aiS0GZCYo6b5JwnQQP1fD) | 4:10 | 2023-02-15 |  |
 | [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 |  |
 | [Ego](https://open.spotify.com/track/5p6r0N9T6Z9dhjKYklLLqY) | [Syntact](https://open.spotify.com/artist/07Wf444cHLc9Qju8MhHD2f) | [Ego](https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z) | 4:07 | 2022-11-17 |  |
+| [Electric](https://open.spotify.com/track/3ujwumwYnR962f26zBQw1H) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Electric](https://open.spotify.com/album/4jG5JzLSGLGiKlRcm9QmoA) | 2:21 | 2023-03-09 |  |
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 |  |
 | [Emotions](https://open.spotify.com/track/220ruturt9KcBkc4DCYAN4) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Emotions](https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ) | 3:44 | 2022-05-26 |  |
 | [Enemies](https://open.spotify.com/track/5OkJvUvwFbbiejQ2Tsv2pE) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [Enemies](https://open.spotify.com/album/1FGSlHg8ZaXHBVVH4pBQad) | 1:54 | 2023-02-23 |  |

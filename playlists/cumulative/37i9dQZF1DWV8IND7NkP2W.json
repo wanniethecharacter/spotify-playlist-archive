@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 147878,
       "name": "Afternoon coffee",
       "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
@@ -1416,6 +1416,28 @@
       "duration_ms": 116374,
       "name": "chidori",
       "url": "https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ"
+    },
+    {
+      "album": {
+        "name": "chill oil",
+        "url": "https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "chill oil",
+      "url": "https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR"
     },
     {
       "album": {
@@ -5356,7 +5378,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 373333,
       "name": "Many \"Scratch\" Perry",
       "url": "https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc"
@@ -6989,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Passage (KNOTT ADD VIBES)",
+        "url": "https://open.spotify.com/album/2XCBA4wih5iyTrIqnQdE8q"
+      },
+      "artists": [
+        {
+          "name": "KNOTT",
+          "url": "https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127824,
+      "name": "Passage - KNOTT ADD VIBES",
+      "url": "https://open.spotify.com/track/59njcdgyK8AOZG6FINwv8R"
+    },
+    {
+      "album": {
         "name": "Peace to the HIP-HOP crowd",
         "url": "https://open.spotify.com/album/4eLL0s6K0Gsot9Qx0VHQZn"
       },
@@ -8088,7 +8128,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
@@ -9758,6 +9798,28 @@
       "duration_ms": 140259,
       "name": "Trees Talk Too",
       "url": "https://open.spotify.com/track/1ji7hIJN2M05QVG3cFkzvp"
+    },
+    {
+      "album": {
+        "name": "Trip to nowhere",
+        "url": "https://open.spotify.com/album/4sqH9xvHvcGKLLTpV5EaG1"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        },
+        {
+          "name": "Kenichi Fukushima",
+          "url": "https://open.spotify.com/artist/1DyrMs3GFURTTbnF7lGtVc"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Trip to nowhere",
+      "url": "https://open.spotify.com/track/4ufRs4N50gTPxfwfW7k56r"
     },
     {
       "album": {

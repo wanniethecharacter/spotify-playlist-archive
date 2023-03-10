@@ -1,13 +1,29 @@
 {
   "description": "Just chill.",
-  "num_followers": 2415341,
+  "num_followers": 2415530,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyODYwOSwwMDAwMDAwMDQ4Zjc1ODU0OTM3ZGYxZWM0MGQxMGI1Yjc3N2IxNzg3",
+  "snapshot_id": "MTY3ODM4Mjc0NywwMDAwMDAwMGZhMGJlNzRjODQ5OThhYmU1ZGU5NjE2MjViOWZjZjM5",
   "tracks": [
+    {
+      "added_at": "2023-03-09 17:25:47",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
     {
       "added_at": "2023-02-15 01:06:06",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 230866,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
+    },
+    {
+      "added_at": "2023-03-09 17:25:47",
+      "album": {
+        "name": "I Was Not There",
+        "url": "https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 347963,
+      "name": "I Was Not There",
+      "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
     },
     {
       "added_at": "2023-03-06 18:50:09",
@@ -243,6 +275,22 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2023-03-09 17:25:47",
+      "album": {
+        "name": "When the World is Ending",
+        "url": "https://open.spotify.com/album/6O5JkJitX7yLMoyKeHNp81"
+      },
+      "artists": [
+        {
+          "name": "Divine Sweater",
+          "url": "https://open.spotify.com/artist/6QhdyISn8fmch9ULKyqUoH"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "When the World is Ending",
+      "url": "https://open.spotify.com/track/6atRhZ7LJMJ7yVkqBP2xW3"
     },
     {
       "added_at": "2023-02-24 15:35:26",
@@ -1257,22 +1305,6 @@
       "url": "https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1"
     },
     {
-      "added_at": "2022-10-08 00:29:29",
-      "album": {
-        "name": "I'll Be Around",
-        "url": "https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt"
-      },
-      "artists": [
-        {
-          "name": "Linda Diaz",
-          "url": "https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "SATIN",
@@ -2047,22 +2079,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "you and the everything of everything",
-        "url": "https://open.spotify.com/album/3CmN3ZRXYAdz2S3fNtlg49"
-      },
-      "artists": [
-        {
-          "name": "R\u2c6fHM \u2689",
-          "url": "https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "you and the everything of everything",
-      "url": "https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "2 Oceans",
         "url": "https://open.spotify.com/album/1KsD536VfBAiqRASMt6VdL"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 175122,
       "name": "Larabar",
       "url": "https://open.spotify.com/track/3YFbjJtmJPk71vK9tDohrY"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "isolation",
-        "url": "https://open.spotify.com/album/43zVD3ARisgdFdyPh8gt8Y"
-      },
-      "artists": [
-        {
-          "name": "John The Blind",
-          "url": "https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "alien jewelry",
-      "url": "https://open.spotify.com/track/33pTrKPiYyP4F49jCgjNio"
     },
     {
       "added_at": "2022-08-19 04:00:00",

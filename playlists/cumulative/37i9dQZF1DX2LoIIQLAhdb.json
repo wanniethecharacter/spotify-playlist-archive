@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej'",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Maud Elka",
   "name": "R&Bae",
   "tracks": [
     {
@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Br\u00fbler",
+        "url": "https://open.spotify.com/album/3DXrpHTK1QllgmpJ3RGeR8"
+      },
+      "artists": [
+        {
+          "name": "Iliana",
+          "url": "https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170539,
+      "name": "Br\u00fbler",
+      "url": "https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
@@ -270,7 +288,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154285,
       "name": "Corps Chaud",
       "url": "https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5"
@@ -639,6 +657,24 @@
     },
     {
       "album": {
+        "name": "J'ai cru en toi",
+        "url": "https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn"
+      },
+      "artists": [
+        {
+          "name": "Sirine Jne",
+          "url": "https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147302,
+      "name": "J'ai cru en toi",
+      "url": "https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK"
+    },
+    {
+      "album": {
         "name": "J'la connais, Pt. 2 (Jamais)",
         "url": "https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt"
       },
@@ -914,7 +950,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 103468,
       "name": "Love Story II",
       "url": "https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD"
@@ -1112,10 +1148,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 177870,
       "name": "Moto",
       "url": "https://open.spotify.com/track/29XzUe8f0kgyi2a1a6RIZb"
+    },
+    {
+      "album": {
+        "name": "NOUS",
+        "url": "https://open.spotify.com/album/0AdeOaA497bwfn0PqjoWNT"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140006,
+      "name": "NOUS",
+      "url": "https://open.spotify.com/track/0IKK3A8XAx7QkTwnEEe483"
     },
     {
       "album": {

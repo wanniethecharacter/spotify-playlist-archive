@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Furui Riho / <br/>Early Noise Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-717 songs - 1 day 20 hr 27 min
+718 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [ひかり](https://open.spotify.com/track/24qLak5ULUj0680uqueJOl) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ひかり](https://open.spotify.com/album/3LmFbVc7PaFeAMxonbW21A) | 3:47 | 2022-05-03 | 2022-06-15 |
 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 | 2022-05-10 | 2022-08-17 |
 | [ふらふら](https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [ふらふら](https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2) | 3:42 | 2022-02-17 | 2022-03-09 |
+| [ふりだし](https://open.spotify.com/track/56wpNTB0ormf1aja4r2OFX) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [ふりだし](https://open.spotify.com/album/5kRfjdpnQwvgn25RrUofl6) | 3:35 | 2023-03-09 |  |
 | [ぼく](https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4) | [麗奈](https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O) | [ぼく](https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4) | 4:17 | 2022-03-22 | 2022-04-13 |
 | [また会いましょう](https://open.spotify.com/track/5jyW5o0BprwhBDhQoiuIQK) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [フセン](https://open.spotify.com/album/5vJwjDHlrutM9c0sMGcg3e) | 4:59 | 2022-10-25 | 2022-11-30 |
 | [もういらない](https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [もういらない](https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K) | 2:46 | 2022-09-26 | 2022-12-21 |

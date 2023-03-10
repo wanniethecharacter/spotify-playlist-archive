@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 82859,
+  "num_followers": 82922,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGM5OTBkOWUxMWFmNGI2MGYzNGVhZjVjYTRjMTc2MTA1",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDg2MTA3MmE3Y2MxNmRlMGYwOWMwODA4OGZkYTkxYWU3",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/5fm0bhtqgb3rxstGsSc62a"
+      },
+      "artists": [
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+        }
+      ],
+      "duration_ms": 281835,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Esclava",
-        "url": "https://open.spotify.com/album/5fm0bhtqgb3rxstGsSc62a"
-      },
-      "artists": [
-        {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        }
-      ],
-      "duration_ms": 281835,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Side Bitch",
-      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Subimos de Rango",
         "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 266091,
       "name": "Subimos de Rango",
       "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Side Bitch",
+      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Sauce Boy Freestyle II",
+        "url": "https://open.spotify.com/album/2pcCqi8WObUR9hm6M60DuZ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Sauce Boy Freestyle II",
+      "url": "https://open.spotify.com/track/10PPCNpNG7JwZwtBMg0r6E"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Flow Cabron",
         "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 226371,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Sauce Boy Freestyle II",
-        "url": "https://open.spotify.com/album/2pcCqi8WObUR9hm6M60DuZ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Sauce Boy Freestyle II",
-      "url": "https://open.spotify.com/track/10PPCNpNG7JwZwtBMg0r6E"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1611,6 +1611,38 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Real G's",
+        "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "duration_ms": 245232,
+      "name": "Real G's",
+      "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1643,34 +1675,30 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Real G's",
-        "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
       },
       "artists": [
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         },
         {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 245232,
-      "name": "Real G's",
-      "url": "https://open.spotify.com/track/5ksvRV02w86e15EcwfHgDh"
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1731,34 +1759,6 @@
       "duration_ms": 222720,
       "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
       "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "EL OG WEEK",
+        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Superaci\u00f3n",
+      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Como Soy II",
         "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 157066,
       "name": "El Oso del Dinero",
       "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "EL OG WEEK",
-        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Superaci\u00f3n",
-      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Los 90 Piketes",
-        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "No Le Baj\u00e9",
-      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Los 90 Piketes",
+        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "No Le Baj\u00e9",
+      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Me Llueven 3.0",
         "url": "https://open.spotify.com/album/2MnWwUaZTarBd6M11iXJ6Z"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 290012,
       "name": "Me Llueven 3.0",
       "url": "https://open.spotify.com/track/7b59ZUw0TkGZuE0HNeiuc4"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
     },
     {
       "added_at": "2023-01-09 06:14:13",

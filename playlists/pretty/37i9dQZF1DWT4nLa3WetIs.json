@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 80270,
+  "num_followers": 80319,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDkyMjEwNzQ4YWVmMjQ5NmFjODhlYzFlYmIzNTI2NDkw",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDE1ZDk4MTJiYTI4OWZjNTUyNTVmYTc4ZTA5ODczNzIy",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "King Don Come",
-        "url": "https://open.spotify.com/album/0LJporAGc16eJiDOx4dFcJ"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 237453,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/092PSCM3LlkiCatgTN0vrU"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "King Don Come",
+        "url": "https://open.spotify.com/album/0LJporAGc16eJiDOx4dFcJ"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 237453,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/092PSCM3LlkiCatgTN0vrU"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Olu Maintain",
-        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
-      },
-      "artists": [
-        {
-          "name": "Olu Maintain",
-          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
-        }
-      ],
-      "duration_ms": 255712,
-      "name": "Yahooze",
-      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "D'banj Essentials",
         "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 258013,
       "name": "Mo Gbono Feli Feli",
       "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Olu Maintain",
+        "url": "https://open.spotify.com/album/0D4NaOH0ucprHJAA870boc"
+      },
+      "artists": [
+        {
+          "name": "Olu Maintain",
+          "url": "https://open.spotify.com/artist/0MhOwPj45dpyuqe8pxKXoc"
+        }
+      ],
+      "duration_ms": 255712,
+      "name": "Yahooze",
+      "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
     },
     {
       "added_at": "2020-11-06 13:21:21",

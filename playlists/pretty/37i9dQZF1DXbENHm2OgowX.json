@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 30542,
+  "num_followers": 30598,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMDllMDc5ODNlMzE4MDA1ZjZmNWQwZDE0ZGE5YjRiMGY0",
+  "snapshot_id": "MTY3NTQ0MDY5NiwwMDAwMDAwMGExYjQyNDNiMjZlYTdhZWQ2YjRkNDYyMGMyOWJlZDg1",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
         }
       ],
-      "duration_ms": 317455,
-      "name": "come",
-      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+      "duration_ms": 317455,
+      "name": "come",
+      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "For Horror Eats The Light",
-        "url": "https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o"
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
       "artists": [
         {
-          "name": "Fvnerals",
-          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
         }
       ],
-      "duration_ms": 452869,
-      "name": "For Horror Eats The Light",
-      "url": "https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY"
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2023-01-20 15:04:59",
@@ -913,7 +897,23 @@
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
-      "added_at": "2023-03-09 01:20:47",
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "For Horror Eats The Light",
+        "url": "https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o"
+      },
+      "artists": [
+        {
+          "name": "Fvnerals",
+          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
+        }
+      ],
+      "duration_ms": 452869,
+      "name": "For Horror Eats The Light",
+      "url": "https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY"
+    },
+    {
+      "added_at": "2023-03-10 01:43:21",
       "album": {
         "name": "haunted (remixes)",
         "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"

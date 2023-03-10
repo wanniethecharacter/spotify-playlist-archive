@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > Disco, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,562 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,638 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 47 | [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 |
 | 48 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 |
 | 49 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 |
-| 50 | [Desire](https://open.spotify.com/track/1TVjAEwztobbrKRaPwEt03) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/41UkL0rtNODHGrWz95wHWd) | 5:54 |
+| 50 | [Desire](https://open.spotify.com/track/4tVrOiaZJK20ZfjWqHRPAt) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/6kcUuZbp0Txa5dm9JAmNm9) | 5:54 |
 | 51 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 |
 | 52 | [What You Mean to Me](https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Free Fall](https://open.spotify.com/album/6XouRdQWRuzp17zN4IMfjU) | 6:24 |
 | 53 | [Hot Summer Love](https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Hot Summer Love](https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb) | 4:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 69 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 |
 | 70 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 |
 
-Snapshot ID: `MTY1NTczNDQ4MiwwMDAwMDAwMDM1ZTZjYmI2ZjgzYTMzYWJjOGQ4ZGUzNjgzNGZlOWRh`
+Snapshot ID: `MTY1NTczNDQ4MiwwMDAwMDAwMGVmYTkyNDI5NzNlYWJkNjBiODVlYzFkZTgyODk4NDYy`

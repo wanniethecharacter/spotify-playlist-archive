@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 143040,
       "name": "Horsepower For The Streets",
       "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
@@ -7483,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Offering - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188905,
+      "name": "Offering - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU"
+    },
+    {
+      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7"
       },
@@ -9494,7 +9512,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
@@ -10190,7 +10208,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"

@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Kali Uchis",
-  "num_followers": 19079,
+  "num_followers": 19090,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwNjI1MywwMDAwMDAwMDJhMTg5NGJmMjQzMzhiNGZlMjU2MzUzZGJmNzJiNTNk",
+  "snapshot_id": "MTY3ODIwNjI1MywwMDAwMDAwMDA0OTU5MGUzMzljZTY4ZGE5ODA3ZWY5MzIwMDU3NmI2",
   "tracks": [
     {
       "added_at": "2023-03-07 15:52:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-07 15:52:41",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-03-07 15:52:41",
-      "album": {
         "name": "Hija de Su",
         "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
       },
@@ -519,8 +503,24 @@
     {
       "added_at": "2023-03-07 15:52:41",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
+    },
+    {
+      "added_at": "2023-03-07 15:52:41",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-03-07 15:52:41",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-03-07 15:52:41",
       "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-03-07 15:52:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-07 15:52:41",
       "album": {
-        "name": "9pm",
-        "url": "https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca"
-      },
-      "artists": [
-        {
-          "name": "Safiyah Hernandez",
-          "url": "https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK"
-        }
-      ],
-      "duration_ms": 146102,
-      "name": "9pm",
-      "url": "https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX"
-    },
-    {
-      "added_at": "2023-03-07 15:52:41",
-      "album": {
         "name": "Judge Not",
         "url": "https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 158181,
       "name": "Judge Not",
       "url": "https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP"
+    },
+    {
+      "added_at": "2023-03-07 15:52:41",
+      "album": {
+        "name": "9pm",
+        "url": "https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca"
+      },
+      "artists": [
+        {
+          "name": "Safiyah Hernandez",
+          "url": "https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK"
+        }
+      ],
+      "duration_ms": 146102,
+      "name": "9pm",
+      "url": "https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX"
     },
     {
       "added_at": "2023-03-07 15:52:41",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-07 15:52:41",
       "album": {
-        "name": "Atmosf\u00e9rica",
-        "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
-      },
-      "artists": [
-        {
-          "name": "Mexico City Heartbreak",
-          "url": "https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ"
-        }
-      ],
-      "duration_ms": 237737,
-      "name": "Atmosf\u00e9rica",
-      "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
-    },
-    {
-      "added_at": "2023-03-07 15:52:41",
-      "album": {
         "name": "Mares\u00eda",
         "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 211169,
       "name": "Mares\u00eda",
       "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "added_at": "2023-03-07 15:52:41",
+      "album": {
+        "name": "Atmosf\u00e9rica",
+        "url": "https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7"
+      },
+      "artists": [
+        {
+          "name": "Mexico City Heartbreak",
+          "url": "https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ"
+        }
+      ],
+      "duration_ms": 237737,
+      "name": "Atmosf\u00e9rica",
+      "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
     },
     {
       "added_at": "2023-03-07 15:52:41",

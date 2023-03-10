@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 305048,
+  "num_followers": 305179,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE1OTkyMiwwMDAwMDAwMGJlYTQyMjdjZWVjY2ZjOGNlNmI0NWY0MjcxOWVjOWVj",
+  "snapshot_id": "MTY3ODE1OTkyMiwwMDAwMDAwMDNiMmYwNWZmOWRjYWE2ZDU0YmU0NmEzNDNhYjZiOWU5",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 87341,
-      "name": "Being Here",
-      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Living Room Songs",
         "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 208589,
       "name": "Near Light",
       "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 87341,
+      "name": "Being Here",
+      "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -169,38 +169,6 @@
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Othona",
-        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
-      },
-      "artists": [
-        {
-          "name": "Dark Sky",
-          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -219,6 +187,38 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Othona",
+        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
+      },
+      "artists": [
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG"
     },
     {
-      "added_at": "2023-03-09 01:05:37",
+      "added_at": "2023-03-10 00:37:20",
       "album": {
         "name": "Mirrored Solitude",
         "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
@@ -557,38 +557,6 @@
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
-      "added_at": "2023-01-04 15:40:13",
-      "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 546586,
-      "name": "amb23 - 2",
-      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
       "added_at": "2022-08-03 02:59:28",
       "album": {
         "name": "FOREVERANDEVERNOMORE",
@@ -607,6 +575,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2023-01-04 15:40:13",
+      "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 546586,
+      "name": "amb23 - 2",
+      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
-        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
-      },
-      "artists": [
-        {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
-      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Wurlitzer",
         "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 257692,
       "name": "Wurlitzer",
       "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
+        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
+      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN"
     },
     {
+      "added_at": "2022-12-20 19:24:22",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Pipopapipo",
@@ -781,20 +797,20 @@
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
-      "added_at": "2022-12-20 19:24:22",
+      "added_at": "2022-08-03 03:05:22",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+      "duration_ms": 1111999,
+      "name": "Lemon Day",
+      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -811,22 +827,6 @@
       "duration_ms": 86601,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o"
-    },
-    {
-      "added_at": "2022-08-03 03:05:22",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
     }
   ],
   "unique_name": "Deep Listening",

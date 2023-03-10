@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-252 songs - 15 hr 7 min
+253 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Be Crazy](https://open.spotify.com/track/71hhGpg2px2f2UqwjgpSIi) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Be Crazy](https://open.spotify.com/album/3GvfYLhm1o2sxtJJF5TD96) | 3:38 | 2023-01-31 | 2023-02-22 |
 | [BE THE GROOVE](https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [BE THE GROOVE](https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb) | 2:44 | 2022-10-20 | 2022-12-06 |
 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 | 2022-10-20 |  |
+| [Better Love](https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Better Love](https://open.spotify.com/album/0delJu1UUzdBfufg94lbME) | 2:18 | 2023-03-09 |  |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-10-20 | 2023-01-25 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-02 |  |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-21 |
@@ -193,7 +194,7 @@
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
 | [SUI SUI](https://open.spotify.com/track/2UDq4JJZQ0ErYi32l1agQz) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/7F6eRS0ieIhCtkQSyLSb4o) | 4:03 | 2022-12-06 | 2022-12-08 |
 | [SUI SUI](https://open.spotify.com/track/2b9AKUBu5twWV3Uf82zHhU) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [SUI SUI](https://open.spotify.com/album/4kuK0MfxpC0pTzg6y1GpOv) | 4:03 | 2022-12-06 | 2023-01-20 |
-| [Sundance Freestyle](https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Sundance Freestyle](https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6) | 1:50 | 2023-01-31 |  |
+| [Sundance Freestyle](https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Sundance Freestyle](https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6) | 1:50 | 2023-01-31 | 2023-03-10 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [Koshi Miura](https://open.spotify.com/artist/14uVBFNoG8Pvv304q3zswS) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-19 | 2023-03-08 |
 | [Sunshine](https://open.spotify.com/track/60VGUSDVni8Qvbng1brQIQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Julisa](https://open.spotify.com/artist/37jvpuURr5W4XN4JDVx744) | [Sunshine](https://open.spotify.com/album/4nx0MICtzlbMeruCNSnIPO) | 3:38 | 2023-02-18 |  |
 | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/track/1zyxIRfVUbmGO7wqDBstJE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Sweet Sticky Thing\(feat\. mabanua, さらさ\)](https://open.spotify.com/album/30Yo1lmnPPt7egHTk6kIqR) | 4:20 | 2022-12-06 |  |

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-407 songs - 18 hr 1 min
+408 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Let Her Go](https://open.spotify.com/track/4XoRZVHIgOrdaDFTVXIeP4) | [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Let Her Go](https://open.spotify.com/album/3UYqfauuf6vwVMQ35bJETL) | 2:53 | 2022-01-13 |  |
 | [Let Me Love You](https://open.spotify.com/track/0w2kcWIP3rE5PRQs9acmQg) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Let Me Love You](https://open.spotify.com/album/47lhmNsuKx6PiPFNWAZhou) | 3:05 | 2022-10-11 |  |
 | [Let Me Love You](https://open.spotify.com/track/4amaF4PYHAcnIQApYY5tr9) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Let Me Love You](https://open.spotify.com/album/0NBGbEa5qlR7uwgo0EJLWE) | 3:05 | 2022-01-13 | 2022-10-14 |
-| [Let Me Love You](https://open.spotify.com/track/4t1dIV3GBZj9PRQovD8ypt) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/1EBOc9WRqeVTMxC2mgn70Z) | 2:37 | 2022-01-13 |  |
+| [Let Me Love You](https://open.spotify.com/track/4t1dIV3GBZj9PRQovD8ypt) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/1EBOc9WRqeVTMxC2mgn70Z) | 2:37 | 2022-01-13 | 2023-03-10 |
+| [Let Me Love You](https://open.spotify.com/track/6gJfFDLXgOHdxZR3eNaA4K) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [2Crimes](https://open.spotify.com/artist/277Kc4G3Enhr4X2uKrKkvP), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Let Me Love You](https://open.spotify.com/album/5Kz63YySC7KgnFe32HvvSu) | 2:37 | 2022-10-27 |  |
 | [Light Switch](https://open.spotify.com/track/0tsQvqCv4ERlm33ob0s5JQ) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Light Switch](https://open.spotify.com/album/4sMYm31nknD9SjJ5nXci76) | 3:09 | 2022-06-23 |  |
 | [Lights](https://open.spotify.com/track/2YXgrb9FyEKe81FTHnuG2F) | [Le Dib](https://open.spotify.com/artist/40UZHykE9w6eVKyURGjpgF), [Zucchi](https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul), [LaNina](https://open.spotify.com/artist/731dgTupiVB6oHNI0GD1Gd) | [Lights](https://open.spotify.com/album/1VdnV52IXVOIUim39zi996) | 3:52 | 2022-01-13 |  |
 | [Lights](https://open.spotify.com/track/3Za7unc5zoAdtGmtLSwNKg) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Lights](https://open.spotify.com/album/1FhN3Mf7CQ75qiwDdGXvgL) | 3:02 | 2022-01-20 |  |

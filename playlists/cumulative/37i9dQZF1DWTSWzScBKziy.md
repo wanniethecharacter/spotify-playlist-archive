@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-188 songs - 12 hr 11 min
+189 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-05-27 |  |
 | [How Can I Be Silent](https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U) | [Chelsea](https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18) | [How Can I Be Silent](https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C) | 3:24 | 2022-05-27 | 2022-10-30 |
 | [How Can You Not](https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [How Can You Not](https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz) | 3:12 | 2022-10-29 |  |
-| [How Far](https://open.spotify.com/track/01puXiVg4t7vhENFH58R6b) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/2AF8BmjE2SRLOUAeV57ofY) | 3:07 | 2022-05-27 |  |
+| [How Far](https://open.spotify.com/track/01puXiVg4t7vhENFH58R6b) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/2AF8BmjE2SRLOUAeV57ofY) | 3:07 | 2022-05-27 | 2023-03-10 |
+| [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 | 2022-10-29 |  |
 | [Hurt Is](https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Hurt Is](https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b) | 3:03 | 2022-10-29 |  |
 | [I Came Home](https://open.spotify.com/track/6u2fcb4doVMXe4BLacMrSc) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 3:50 | 2022-10-29 | 2023-03-04 |
 | [I Can't Believe](https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [I Can't Believe](https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR) | 4:30 | 2022-05-27 | 2022-10-30 |

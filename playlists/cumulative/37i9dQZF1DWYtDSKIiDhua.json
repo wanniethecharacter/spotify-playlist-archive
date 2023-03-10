@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Empty Seat",
+        "url": "https://open.spotify.com/album/4HC5Ve57Sbp0axTYnhxhYh"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Empty Seat",
+      "url": "https://open.spotify.com/track/0rrMyO2ZHLhxGTLgAEVWIJ"
+    },
+    {
+      "album": {
         "name": "End of the Night",
         "url": "https://open.spotify.com/album/7lylPOUHBlKJaNHJdxe7To"
       },
@@ -2242,6 +2260,28 @@
       "duration_ms": 194360,
       "name": "Hola",
       "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+    },
+    {
+      "album": {
+        "name": "Home For My Heart",
+        "url": "https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158598,
+      "name": "Home For My Heart",
+      "url": "https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB"
     },
     {
       "album": {
@@ -4541,6 +4581,28 @@
     },
     {
       "album": {
+        "name": "LOVE AND THE CITY",
+        "url": "https://open.spotify.com/album/4dKNKQ7DTouZwyyqZxS1BQ"
+      },
+      "artists": [
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "dnss",
+          "url": "https://open.spotify.com/artist/5ZW2UKvYiMUTn9R3IzaQac"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6KiQ3EeKv3BiUFscDajDjK"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -4614,6 +4676,24 @@
       "duration_ms": 162762,
       "name": "Romantic Pt. II",
       "url": "https://open.spotify.com/track/1GM7j1nwUstl4cNoiYZOsg"
+    },
+    {
+      "album": {
+        "name": "Round & Round",
+        "url": "https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU"
+      },
+      "artists": [
+        {
+          "name": "Tripov",
+          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG"
     },
     {
       "album": {
@@ -4790,6 +4870,24 @@
       "duration_ms": 204761,
       "name": "Seem Better",
       "url": "https://open.spotify.com/track/7pU2HsbNzl6GHwJwwXNQRF"
+    },
+    {
+      "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
     },
     {
       "album": {
@@ -5084,6 +5182,24 @@
       "duration_ms": 224673,
       "name": "Stand Up (From the Original Motion Picture \"Till\")",
       "url": "https://open.spotify.com/track/6RfyQbkKctEp5rwAhrJCEM"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/6F5XWDh1ZnhtpnQWKSe96H"
+      },
+      "artists": [
+        {
+          "name": "Sun Kim",
+          "url": "https://open.spotify.com/artist/4J0PZFEnEr8Yn6482aEcWY"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4hwfJW0NW2sUMVxmYzvBnJ"
     },
     {
       "album": {

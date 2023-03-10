@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11087,
+  "num_followers": 11100,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMGQyZjZlYjMyYmRlZDZmODllMjg5YmFlZjUzMzRjYmFk",
+  "snapshot_id": "MTY3NzgzMDQxOSwwMDAwMDAwMDUxZWMxMmI5YTk4MzM2ZDlmNzY1OTdmZWY4YzJjNjM5",
   "tracks": [
     {
       "added_at": "2023-03-03 08:00:19",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
+      },
+      "artists": [
+        {
+          "name": "Phizbarz",
+          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
+        },
+        {
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        }
+      ],
+      "duration_ms": 139249,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "ROOTS",
         "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 258577,
       "name": "Osondu",
       "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "FOR MY BABY",
-        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "FOR MY BABY",
-      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -883,6 +887,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "FOR MY BABY",
+        "url": "https://open.spotify.com/album/1HYUIlhz822Tule9gSBB5z"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "FOR MY BABY",
+      "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 187206,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA"
-      },
-      "artists": [
-        {
-          "name": "Phizbarz",
-          "url": "https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9"
-        },
-        {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        }
-      ],
-      "duration_ms": 139249,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
         "name": "Trobul",
         "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "R-/LBT",
-        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
-      },
-      "artists": [
-        {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
-        },
-        {
-          "name": "Riunga",
-          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
-        }
-      ],
-      "duration_ms": 230808,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
-    },
-    {
-      "added_at": "2023-03-03 08:00:19",
-      "album": {
         "name": "Spring to Summer",
         "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
       },
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2023-03-03 08:00:19",
       "album": {
-        "name": "BAD 4 ME",
-        "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
       },
       "artists": [
         {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
         }
       ],
-      "duration_ms": 140204,
-      "name": "BAD 4 ME",
-      "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "added_at": "2023-03-03 08:00:19",
@@ -1407,6 +1391,22 @@
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
+    },
+    {
+      "added_at": "2023-03-03 08:00:19",
+      "album": {
+        "name": "BAD 4 ME",
+        "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BAD 4 ME",
+      "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
     },
     {
       "added_at": "2023-03-03 08:00:19",

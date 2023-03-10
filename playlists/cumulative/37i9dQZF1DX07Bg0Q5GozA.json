@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Avalon Emerson",
+  "description": "New music off the beaten track. Cover: R\u00f3is\u00edn Murphy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 164778,
       "name": "2 Close",
       "url": "https://open.spotify.com/track/7ElTMb0MVBKP8g7LbTviJI"
@@ -393,6 +393,32 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4Iy4FqDgV23VdAXm8xLqfQ"
+      },
+      "artists": [
+        {
+          "name": "Import Export",
+          "url": "https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX"
+        },
+        {
+          "name": "Heinrich",
+          "url": "https://open.spotify.com/artist/0wun1JnzKmylaykmjfrthP"
+        },
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178831,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/3KKalMU2yzeLs6b1lq3wcZ"
+    },
+    {
+      "album": {
         "name": "Gonna Get You Real Good EP",
         "url": "https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4"
       },
@@ -484,6 +510,24 @@
       "duration_ms": 241914,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/5vDkKykIOkzmx7ExSux8kd"
+    },
+    {
+      "album": {
+        "name": "Burnt",
+        "url": "https://open.spotify.com/album/3l7CheSXopJ5hnWEKUyiDo"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191675,
+      "name": "Burnt",
+      "url": "https://open.spotify.com/track/6eLzChQUSXqnd487IjL4Ij"
     },
     {
       "album": {
@@ -767,6 +811,28 @@
     },
     {
       "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "album": {
         "name": "Crystal in my mind",
         "url": "https://open.spotify.com/album/6EisBZu7B53qLzjKkeCgY6"
       },
@@ -851,6 +917,28 @@
     },
     {
       "album": {
+        "name": "DEVOTION (Flaurese Remix)",
+        "url": "https://open.spotify.com/album/0lcvCbKH3MQJtn00aPw7Zc"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261568,
+      "name": "DEVOTION - Flaurese Remix",
+      "url": "https://open.spotify.com/track/1dP7yOoPiuBYTTu9ZLZetj"
+    },
+    {
+      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -870,6 +958,28 @@
       "duration_ms": 197853,
       "name": "Digging Deeper",
       "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
+    },
+    {
+      "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/1XlpzFMMJZuYrkgi6u8yZ4"
+      },
+      "artists": [
+        {
+          "name": "Solmai",
+          "url": "https://open.spotify.com/artist/7s4j2Ibf6aF6SxugL4iCMq"
+        },
+        {
+          "name": "Tilmann Jarmer",
+          "url": "https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183167,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law"
     },
     {
       "album": {
@@ -1145,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+    },
+    {
+      "album": {
         "name": "Keyboard Fantasies",
         "url": "https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK"
       },
@@ -1350,7 +1478,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 313043,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/3Ck3phtoHyzsCZL7AQ7oI0"
@@ -1470,7 +1598,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 340453,
       "name": "GO BACK",
       "url": "https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0"
@@ -1488,7 +1616,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
@@ -1510,7 +1638,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 229950,
       "name": "GOOD TIMES - MJ Cole Remix",
       "url": "https://open.spotify.com/track/11VeLYoWaYKAyrmtuBOSyG"
@@ -1748,6 +1876,24 @@
       "duration_ms": 153289,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm"
+    },
+    {
+      "album": {
+        "name": "imstillhere",
+        "url": "https://open.spotify.com/album/5M6R1gtzqPAPUYaNIZg1Ow"
+      },
+      "artists": [
+        {
+          "name": "Paper Idol",
+          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169175,
+      "name": "imstillhere",
+      "url": "https://open.spotify.com/track/2ZaedaaAXQ6S3Duio0S2J9"
     },
     {
       "album": {
@@ -1990,7 +2136,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 223536,
       "name": "KILL DEM",
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
@@ -2341,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249160,
+      "name": "MADLY",
+      "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
+    },
+    {
+      "album": {
         "name": "The Everlasting Blink",
         "url": "https://open.spotify.com/album/1lpp7JuzRfRx66HDQOOsOm"
       },
@@ -2589,6 +2753,50 @@
     },
     {
       "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/4E8iytry0f1sv9TK35jqxm"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "kordz",
+          "url": "https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181239,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/293oczY7XqFr7VWNYi2GQE"
+    },
+    {
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -2626,6 +2834,24 @@
       "duration_ms": 188000,
       "name": "My City's On Fire - Notre Dame Remix - Radio Edit",
       "url": "https://open.spotify.com/track/2V7s6NWYiHT7yvMivPW71P"
+    },
+    {
+      "album": {
+        "name": "Never Die",
+        "url": "https://open.spotify.com/album/2rZXF8wrJLM87k5ManxrOe"
+      },
+      "artists": [
+        {
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "Never Die",
+      "url": "https://open.spotify.com/track/4u1g2yCTl6gIv7HGNTi58a"
     },
     {
       "album": {
@@ -3116,7 +3342,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 189000,
       "name": "PULSE",
       "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
@@ -3284,7 +3510,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 200470,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/2XyDgvJov4rPwMWdihlXiZ"
@@ -3324,7 +3550,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 351546,
       "name": "S.O.L",
       "url": "https://open.spotify.com/track/0KgLSONjjoJ47ZEhN6CQSt"
@@ -3724,7 +3950,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 190714,
       "name": "Sunliight",
       "url": "https://open.spotify.com/track/5jcih933VV9IAx2EbadFXQ"
@@ -3786,7 +4012,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 251803,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6VkEyJbgKPyXtweiYsEPcj"
@@ -3953,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Trippin Up",
+        "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177851,
+      "name": "Trippin Up",
+      "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
+    },
+    {
+      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -4022,7 +4266,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 248421,
       "name": "Twennies - The Knocks Remix",
       "url": "https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS"

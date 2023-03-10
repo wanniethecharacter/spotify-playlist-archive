@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Eastern Surprise",
+        "url": "https://open.spotify.com/album/42uvb5jtA1JhjpP8eEGg2A"
+      },
+      "artists": [
+        {
+          "name": "Artificial Intelligence",
+          "url": "https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Eastern Surprise",
+      "url": "https://open.spotify.com/track/64EFUJbhplwsrM315SFMyv"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e"
       },
@@ -336,6 +354,46 @@
       "duration_ms": 302000,
       "name": "Gift of mine",
       "url": "https://open.spotify.com/track/6wrLBtrQ31FUBh4vYIya95"
+    },
+    {
+      "album": {
+        "name": "Her Room",
+        "url": "https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs"
+      },
+      "artists": [
+        {
+          "name": "Leniz",
+          "url": "https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX"
+        },
+        {
+          "name": "Qumulus",
+          "url": "https://open.spotify.com/artist/2SPHhbUppZ3hQULJI1gE8T"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291799,
+      "name": "Her Room",
+      "url": "https://open.spotify.com/track/6GxItxR3jbx4WjYi7tFAb4"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/06V5ORG9IYfTKuuJdY6GPF"
+      },
+      "artists": [
+        {
+          "name": "Matt View",
+          "url": "https://open.spotify.com/artist/4uMpmqIDOviQTm05ktVtqC"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3e7ELUxL2d1RFWrSEMsme9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 15689,
+  "num_followers": 15718,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGY0NmVhN2Q0YzM4YmZiNDNiOWEwNDBlYTFlYWY2YTBk",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDUxNGU4NjE0MDM0NWNjMjM5NmFjMjc4MWU1ZjU0NjA2",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Herencia",
-        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+        "name": "Entre Valles y Quebradas",
+        "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
       "artists": [
         {
-          "name": "Yamila Cafrune",
-          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+          "name": "Leda Valladares",
+          "url": "https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34"
+        },
+        {
+          "name": "Mar\u00eda Elena Walsh",
+          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
         }
       ],
-      "duration_ms": 237520,
-      "name": "Cuando Llegue el Alba",
-      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
+      "duration_ms": 211200,
+      "name": "Viene Clareando",
+      "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -651,22 +655,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Entre Valles y Quebradas",
-        "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
+        "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
       },
       "artists": [
         {
-          "name": "Leda Valladares",
-          "url": "https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34"
-        },
-        {
-          "name": "Mar\u00eda Elena Walsh",
-          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Viene Clareando",
-      "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Cr\u00eda",
+        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+      },
+      "artists": [
+        {
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "En el Fresco de la Noche",
+      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Cr\u00eda",
-        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
-      },
-      "artists": [
-        {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
-        }
-      ],
-      "duration_ms": 340040,
-      "name": "En el Fresco de la Noche",
-      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
       },
       "artists": [
         {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
         }
       ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
         }
       ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "Julia Elena D\u00e1valos",
+          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+      "duration_ms": 173373,
+      "name": "La Maimare\u00f1a",
+      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
       "artists": [
         {
-          "name": "Julia Elena D\u00e1valos",
-          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 173373,
-      "name": "La Maimare\u00f1a",
-      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
-      },
-      "artists": [
-        {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
-        }
-      ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "El Cuchi de Camara",
         "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 320400,
       "name": "Zamba del Laurel",
       "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+      },
+      "artists": [
+        {
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+        }
+      ],
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
-      },
-      "artists": [
-        {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Canciones Brotadas de Mi Ra\u00edz",
         "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 171413,
       "name": "Quisiera Que Salga un Tigre",
       "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Sigo So\u00f1ando",
+        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
+      },
+      "artists": [
+        {
+          "name": "Marit\u00e9 Berbel",
+          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "Mate Con Cedr\u00f3n",
+      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Cuando Vuelva a encontrarte",
+        "url": "https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW"
+      },
+      "artists": [
+        {
+          "name": "Mili Escudero y Agus Sol\u00e1",
+          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
+        }
+      ],
+      "duration_ms": 151613,
+      "name": "Cuando vuelva a encontrarte",
+      "url": "https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "La Diablera",
         "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
       },
@@ -1263,30 +1279,6 @@
       "duration_ms": 131306,
       "name": "Chacarera del Santiague\u00f1o",
       "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Tarareando, Con los Pies Descalzos",
-        "url": "https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Parodi",
-          "url": "https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn"
-        },
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Lula Parodi",
-          "url": "https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "Tarareando",
-      "url": "https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc"
     },
     {
       "added_at": "2023-01-20 03:00:00",

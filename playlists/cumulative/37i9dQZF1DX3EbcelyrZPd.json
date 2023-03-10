@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Ali Kiba",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1645,6 +1645,40 @@
     },
     {
       "album": {
+        "name": "La La La (feat. K2ga, AbduKiba, Vanillah & Tommy Flavour)",
+        "url": "https://open.spotify.com/album/21rQmwNl6HTmxnGRlZjhGj"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "K2ga",
+          "url": "https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW"
+        },
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        },
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211601,
+      "name": "La La La (feat. K2ga, AbduKiba, Vanillah & Tommy Flavour)",
+      "url": "https://open.spotify.com/track/6kVMMdVtWCC7A6VzcnhUPt"
+    },
+    {
+      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa"
       },
@@ -1682,7 +1716,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 196595,
       "name": "Leo",
       "url": "https://open.spotify.com/track/03kUovuwKyc4vneZJke4EO"
@@ -2636,7 +2670,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 212210,
       "name": "Napendwa",
       "url": "https://open.spotify.com/track/3u6R15tCAq3raSJlIuTorR"
@@ -2838,6 +2872,24 @@
       "duration_ms": 181276,
       "name": "Nidhibiti",
       "url": "https://open.spotify.com/track/6Zo7ymeK6BQOJ8Jf6gZeVJ"
+    },
+    {
+      "album": {
+        "name": "Nikilala",
+        "url": "https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150357,
+      "name": "Nikilala",
+      "url": "https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4"
     },
     {
       "album": {
@@ -3938,10 +3990,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 177408,
       "name": "Tunapendana (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/2rwU0kvCkwejnSy3TGhRDS"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213621,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr"
     },
     {
       "album": {

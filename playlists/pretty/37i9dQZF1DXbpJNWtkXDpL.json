@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 67800,
+  "num_followers": 67805,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDVlNzQzZDU1YzM5ODc5YzgzODZmNDAxODVkMTA3ZTBi",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDU1NWQxM2YxMDI5N2RiYjFjZGVkYzFiOTA2M2MxNDk2",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -589,6 +573,22 @@
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "Dinero, Fama y Poder",
@@ -603,26 +603,6 @@
       "duration_ms": 154115,
       "name": "Dinero, Fama y Poder",
       "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Barbie Ven",
-        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "Barbie Ven",
-      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-06-03 15:10:16",
@@ -647,6 +627,26 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Barbie Ven",
+        "url": "https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "Barbie Ven",
+      "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mamixhula",
-        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
+        "name": "no me caigo tan bien",
+        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
         }
       ],
-      "duration_ms": 150615,
-      "name": "Mamixhula",
-      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
+      "duration_ms": 208443,
+      "name": "no me caigo tan bien",
+      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "no me caigo tan bien",
-        "url": "https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI"
+        "name": "Mamixhula",
+        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
         }
       ],
-      "duration_ms": 208443,
-      "name": "no me caigo tan bien",
-      "url": "https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ"
+      "duration_ms": 150615,
+      "name": "Mamixhula",
+      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
     },
     {
       "added_at": "2022-09-09 13:11:20",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Fosis Met Amor",
-        "url": "https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3"
+        "name": "Glommy Afternoon",
+        "url": "https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Prismatic Shapes",
+          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
         }
       ],
-      "duration_ms": 192150,
-      "name": "un sue\u00f1o raro",
-      "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
+      "duration_ms": 176470,
+      "name": "Empty Process",
+      "url": "https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

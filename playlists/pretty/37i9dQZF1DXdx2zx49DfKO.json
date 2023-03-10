@@ -1,6 +1,6 @@
 {
   "description": "The fastest growing genre in 2022.",
-  "num_followers": 9035,
+  "num_followers": 9039,
   "original_name": "Best of phonk 2022",
   "owner": {
     "name": "Spotify",
@@ -676,12 +676,12 @@
       },
       "artists": [
         {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        },
-        {
           "name": "RAIZHELL",
           "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        },
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
         }
       ],
       "duration_ms": 135937,

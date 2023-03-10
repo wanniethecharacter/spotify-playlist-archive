@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-294 songs - 13 hr 18 min
+295 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2022-08-01 | 2022-11-15 |
 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 | 2022-08-01 |  |
 | [One More Night](https://open.spotify.com/track/69eA5853TtnotRU59pm8mF) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Iris Ha](https://open.spotify.com/artist/6hmE3H5s4IZyTUmPGUc8Bb) | [One More Night](https://open.spotify.com/album/0UjXFozNddXEOnVnCC6hnL) | 2:17 | 2022-09-12 |  |
-| [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 | 2023-02-14 |  |
+| [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 | 2023-02-14 | 2023-03-10 |
+| [Only If You Stay](https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Here By The Sea](https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ) | 2:34 | 2023-03-07 |  |
 | [Our Call](https://open.spotify.com/track/0iMIWdUvO3QmoOwvpazgMW) | [Jonah Bjoern](https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp) | [Our Call](https://open.spotify.com/album/6FRFcy8VBTOBPDULVG7S7P) | 2:14 | 2023-01-31 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2022-08-01 |  |
 | [Passing By](https://open.spotify.com/track/1yFrpr1M9Yv5QkYPoaz3i9) | [Jan Groenteman](https://open.spotify.com/artist/4tlKMjzOqKfbNZX7NsNlE9) | [Passing By](https://open.spotify.com/album/6In0e6NOyQEAc3ttd8V4PN) | 2:31 | 2022-10-24 |  |

@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Madison Cunningham
 
-327 songs - 19 hr 50 min
+328 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 | 2021-11-14 |  |
 | [Broken Wings](https://open.spotify.com/track/4ybgXtK62vox8OgsVAAN8N) | [Danielle Durack](https://open.spotify.com/artist/6GW3s0BFKxz18pDxGXPQnG) | [No Place](https://open.spotify.com/album/72i4MgStHJU8z5aMrsbUOj) | 3:53 | 2021-11-14 | 2022-07-27 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2023-02-22 |  |
-| [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2022-05-20 |  |
+| [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2022-05-20 | 2023-03-10 |
 | [Buzz](https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Buzz](https://open.spotify.com/album/1QChcUJsmg1rp3zL57iafO) | 4:21 | 2021-11-14 | 2022-07-22 |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-11-14 | 2022-07-26 |
 | [Cacti For Clothes](https://open.spotify.com/track/4JlIPmUjRmw9fmkEoV1Tmm) | [Pageants](https://open.spotify.com/artist/6KfGl8LhIlb8R1Uhu0yqqr) | [Cacti For Clothes](https://open.spotify.com/album/3QWUoUL1vdQQAcsnvPFwEl) | 3:02 | 2022-04-01 | 2022-09-19 |
@@ -201,6 +201,7 @@
 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 | 2022-10-07 |  |
 | [Moment In The Sun](https://open.spotify.com/track/18JJSMrFueMgQdCOGkolQ3) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/5sOC51cFgLhI1DjYhrJTMw) | 3:09 | 2021-11-14 | 2022-07-25 |
 | [Moment In The Sun \- Bonus Track](https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Headful of Sugar](https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj) | 3:09 | 2022-05-20 |  |
+| [Mommy](https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mommy](https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby) | 3:07 | 2023-03-03 |  |
 | [Monster](https://open.spotify.com/track/5NlW8GWsM5qYboS8a2qNwe) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Heart Head West](https://open.spotify.com/album/0kZScwwCkKaLLh7bWNB0E6) | 3:39 | 2022-05-20 | 2022-12-08 |
 | [Monster](https://open.spotify.com/track/61CpLCM1sIzQ8zyvvajUD4) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Monster](https://open.spotify.com/album/4ByYI1K0l0Yfx6ZYMeVmFq) | 3:39 | 2021-11-14 | 2022-07-27 |
 | [Moonlit and Devious](https://open.spotify.com/track/3SeyANJZBvx3DKcSi6gVbE) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/16VqONF09bXFrTr1azAtmL) | 5:03 | 2021-11-14 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Woman Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿 우먼 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,934 likes - 23 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,971 likes - 23 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oyg6NiPryV.md) - [plain]
 | 12 | [Outta Your Mind](https://open.spotify.com/track/1Oenqmtbzt331Pgv0ODfS2) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 4:10 |
 | 13 | [Freaks](https://open.spotify.com/track/29r4I5RTxDR440DkqhbD9s) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Excuse My French](https://open.spotify.com/album/5Llp1V2yhpdGle13fM1EWh) | 3:01 |
 | 14 | [Turn Up the Music](https://open.spotify.com/track/1RMRkCn07y2xtBip9DzwmC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fortune \(Expanded Edition\)](https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7) | 3:47 |
-| 15 | [Deva](https://open.spotify.com/track/3E1xYL2UsFo5N6FwBOIctp) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Suku](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3) | [Deva \(feat\. Suku\)](https://open.spotify.com/album/1BsGP2AUnuAuY81U6RHfrk) | 2:55 |
+| 15 | [Deva](https://open.spotify.com/track/3E1xYL2UsFo5N6FwBOIctp) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Sukuward](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3) | [Deva \(feat\. Suku\)](https://open.spotify.com/album/1BsGP2AUnuAuY81U6RHfrk) | 2:55 |
 | 16 | [Desperado](https://open.spotify.com/track/2f6FeSVRU7OINi0OLkeFqj) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:38 |
 | 17 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
 | 18 | [Fire](https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:42 |

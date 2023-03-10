@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 70211,
+  "num_followers": 70406,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDBiZjUyNTcyODNhYjU4ZjcwOWVkZTEyMDNjYTM5YmYz",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDQzZThmNTU1M2RlNDQxMzU3ZGUwODMzOWU3NmFmYTJi",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
         "name": "Shake It Up",
         "url": "https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 333000,
       "name": "One Love",
       "url": "https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2021-10-20 15:00:00",

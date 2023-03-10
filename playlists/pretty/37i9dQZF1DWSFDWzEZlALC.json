@@ -1,15 +1,15 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: AnnenMayKantereit",
-  "num_followers": 365667,
+  "num_followers": 365760,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MzQ0MSwwMDAwMDAwMDViMTBkMDkwYjE0MzQ1ODUyYjJkN2VjYmY3MzFkOWU0",
+  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMDYxZDdhZTUzYWI3NDdjZmQwYWRjZGE4ZmQ0NTgxYzJh",
   "tracks": [
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4zLCLlqLivpZXvYfQCqTWh"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e"
@@ -61,151 +61,23 @@
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Vielleicht in einem Jahr",
-        "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
+        "name": "love yourself, fucked up",
+        "url": "https://open.spotify.com/album/2O6cOcwMQW9PQPJYrn2tRS"
       },
       "artists": [
         {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Vielleicht in einem Jahr",
-      "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
+      "duration_ms": 148979,
+      "name": "love yourself, fucked up",
+      "url": "https://open.spotify.com/track/3t9ntfDycPiCLmMD6Za938"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 188082,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 137984,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "adhs",
-        "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
-      },
-      "artists": [
-        {
-          "name": "Verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 138056,
-      "name": "One Call away <3",
-      "url": "https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Nero",
-        "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Nero",
-      "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3fRxRBKmVba4eZw72sM5Dc"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 162345,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/17NovTR8dvHzbkddEX1bBQ"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Hamburg",
-        "url": "https://open.spotify.com/album/5UlsdkEmJDAgFibeZiyexh"
-      },
-      "artists": [
-        {
-          "name": "Lena&Linus",
-          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Hamburg",
-      "url": "https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Stadtpark Insomnia",
-        "url": "https://open.spotify.com/album/4nU2qhJUgxLtKoVeqnK3Gk"
-      },
-      "artists": [
-        {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Stadtpark Insomnia",
-      "url": "https://open.spotify.com/track/2AegBY2u1iOIY5dpWgb1EQ"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Trotzdem",
-        "url": "https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e"
-      },
-      "artists": [
-        {
-          "name": "JUDI&COCHO",
-          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
-        }
-      ],
-      "duration_ms": 275653,
-      "name": "Trotzdem",
-      "url": "https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "F\u00fcr dich da",
         "url": "https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N"
@@ -233,7 +105,107 @@
       "url": "https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Vielleicht in einem Jahr",
+        "url": "https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Vielleicht in einem Jahr",
+      "url": "https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 188082,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "adhs",
+        "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 138056,
+      "name": "One Call away <3",
+      "url": "https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Danke dass du mich verlassen hast",
+        "url": "https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD"
+      },
+      "artists": [
+        {
+          "name": "Fatoni",
+          "url": "https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt"
+        },
+        {
+          "name": "Danger Dan",
+          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
+        }
+      ],
+      "duration_ms": 197683,
+      "name": "Danke dass du mich verlassen hast",
+      "url": "https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Hamburg",
+        "url": "https://open.spotify.com/album/5UlsdkEmJDAgFibeZiyexh"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Hamburg",
+      "url": "https://open.spotify.com/track/0Vmyu21WT48agiq1Q4yzBs"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Es ist Abend und wir sitzen bei mir",
         "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
@@ -244,60 +216,44 @@
           "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
         }
       ],
-      "duration_ms": 178546,
-      "name": "Du tust mir nie mehr weh",
-      "url": "https://open.spotify.com/track/2XleePXiZOxwVUizlGdy9D"
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Alles Ist Vergangenheit",
-        "url": "https://open.spotify.com/album/0aQmm1XMLRTqfAA4yHh1p2"
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc"
       },
       "artists": [
         {
-          "name": "Yukno",
-          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Weh",
-      "url": "https://open.spotify.com/track/1MMWwmZBRbtfRCfbPoGzCG"
+      "duration_ms": 137984,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Das Sch\u00f6nste",
-        "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
+        "name": "Trotzdem",
+        "url": "https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e"
       },
       "artists": [
         {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
         }
       ],
-      "duration_ms": 96693,
-      "name": "Das Sch\u00f6nste",
-      "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
+      "duration_ms": 275653,
+      "name": "Trotzdem",
+      "url": "https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Dunkles Herz",
-        "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
-      },
-      "artists": [
-        {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
-        }
-      ],
-      "duration_ms": 184454,
-      "name": "Dunkles Herz",
-      "url": "https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "CRAZY HORSE CLUB MIXTAPE, VOL. 1",
         "url": "https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ"
@@ -313,71 +269,7 @@
       "url": "https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Vielleicht",
-        "url": "https://open.spotify.com/album/7adRb6DHpCHuXntk5Z6CTY"
-      },
-      "artists": [
-        {
-          "name": "Pablu",
-          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Vielleicht",
-      "url": "https://open.spotify.com/track/7hXLtKxITSBQJlPj0gmy7m"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Einsame Insel",
-        "url": "https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ"
-      },
-      "artists": [
-        {
-          "name": "Ritter Lean",
-          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
-        }
-      ],
-      "duration_ms": 164063,
-      "name": "Einsame Insel",
-      "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
-        "url": "https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2"
-      },
-      "artists": [
-        {
-          "name": "Juli Gilde",
-          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
-        }
-      ],
-      "duration_ms": 196411,
-      "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
-      "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Bleib doch noch",
         "url": "https://open.spotify.com/album/61ZGfsLOfINsaK0TCMsLgS"
@@ -393,7 +285,167 @@
       "url": "https://open.spotify.com/track/00UoCBvXVP0uXgBABSVsBR"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Passt nicht",
+        "url": "https://open.spotify.com/album/6Im662veLuZDcg2nx8Lqdm"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Passt nicht",
+      "url": "https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Das Sch\u00f6nste",
+        "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 96693,
+      "name": "Das Sch\u00f6nste",
+      "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Vielleicht",
+        "url": "https://open.spotify.com/album/7adRb6DHpCHuXntk5Z6CTY"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Vielleicht",
+      "url": "https://open.spotify.com/track/7hXLtKxITSBQJlPj0gmy7m"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "F\u00fchlst du dich allein?",
+        "url": "https://open.spotify.com/album/2uc22qiOh7uSDgdIx6Rmy0"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "Timoth\u00e9e Chalamet",
+      "url": "https://open.spotify.com/track/5JYKaqxrlGN0QiKMTud8Yn"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Du tust mir nie mehr weh",
+      "url": "https://open.spotify.com/track/2XleePXiZOxwVUizlGdy9D"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Klimpa Klimpa",
+        "url": "https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "Klimpa Klimpa",
+      "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Einsame Insel",
+        "url": "https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "duration_ms": 164063,
+      "name": "Einsame Insel",
+      "url": "https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Formel 1",
+        "url": "https://open.spotify.com/album/2fM6wcB1fc1xmn0IULxGrI"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 185148,
+      "name": "Formel 1",
+      "url": "https://open.spotify.com/track/54ikHw7TLMQN8YnOnKDVKA"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3fRxRBKmVba4eZw72sM5Dc"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 162345,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/17NovTR8dvHzbkddEX1bBQ"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "jaaaaaaaaaaaaaaaa!",
         "url": "https://open.spotify.com/album/6K5JrkKsdo5iKcEFxK79Rk"
@@ -413,7 +465,39 @@
       "url": "https://open.spotify.com/track/6xN7HQDr8X0xusxdedwEme"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Liebesbrief",
+        "url": "https://open.spotify.com/album/2JLxK4EF0Ah3cN0quHcIP0"
+      },
+      "artists": [
+        {
+          "name": "Ann Can't Talk",
+          "url": "https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Liebesbrief",
+      "url": "https://open.spotify.com/track/1HQ3MZ6FTXFXLiRyhmSIsP"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Alles Ist Vergangenheit",
+        "url": "https://open.spotify.com/album/0aQmm1XMLRTqfAA4yHh1p2"
+      },
+      "artists": [
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Weh",
+      "url": "https://open.spotify.com/track/1MMWwmZBRbtfRCfbPoGzCG"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Auch Im Bentley Wird Geweint",
         "url": "https://open.spotify.com/album/4LrYnp2qZOMvhwf7XVGOMT"
@@ -433,55 +517,39 @@
       "url": "https://open.spotify.com/track/3yT2EVsl1w9gmlESu5MBtf"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Klimpa Klimpa",
-        "url": "https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z"
+        "name": "Achterbahn",
+        "url": "https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9"
       },
       "artists": [
         {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+          "name": "Definitely Not Luke",
+          "url": "https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt"
         }
       ],
-      "duration_ms": 123809,
-      "name": "Klimpa Klimpa",
-      "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
+      "duration_ms": 190792,
+      "name": "Achterbahn",
+      "url": "https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Hoffe du hasst mich",
-        "url": "https://open.spotify.com/album/1v6pJAsp7hp2eFyP5Jn15Y"
+        "name": "Stadtpark Insomnia",
+        "url": "https://open.spotify.com/album/4nU2qhJUgxLtKoVeqnK3Gk"
       },
       "artists": [
         {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Hoffe du hasst mich",
-      "url": "https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp"
+      "duration_ms": 169500,
+      "name": "Stadtpark Insomnia",
+      "url": "https://open.spotify.com/track/2AegBY2u1iOIY5dpWgb1EQ"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Mit dir",
-        "url": "https://open.spotify.com/album/11u7e1gAYl8HXOJ3YAkg4n"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 155105,
-      "name": "Mit dir",
-      "url": "https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Zorn & Liebe",
         "url": "https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB"
@@ -501,7 +569,39 @@
       "url": "https://open.spotify.com/track/2Qdgf2Cc3BjlfBdtnQtIFf"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Skandal im Patriarchat",
+        "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
+      },
+      "artists": [
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "duration_ms": 202308,
+      "name": "Skandal im Patriarchat",
+      "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Mit dir",
+        "url": "https://open.spotify.com/album/11u7e1gAYl8HXOJ3YAkg4n"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 155105,
+      "name": "Mit dir",
+      "url": "https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb"
@@ -517,7 +617,7 @@
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Blaues Licht",
         "url": "https://open.spotify.com/album/2HvRjltv3Dr5FshGA8ygWz"
@@ -533,39 +633,39 @@
       "url": "https://open.spotify.com/track/0UEXA9stQx2gRsXq0bWDx4"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "1000 songs",
-        "url": "https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6"
+        "name": "Dunkles Herz",
+        "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
       },
       "artists": [
         {
-          "name": "siovo",
-          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
         }
       ],
-      "duration_ms": 159163,
-      "name": "1000 songs",
-      "url": "https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e"
+      "duration_ms": 184454,
+      "name": "Dunkles Herz",
+      "url": "https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Der neue Stil meiner Generation",
-        "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
+        "name": "Hoffe du hasst mich",
+        "url": "https://open.spotify.com/album/1v6pJAsp7hp2eFyP5Jn15Y"
       },
       "artists": [
         {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
         }
       ],
-      "duration_ms": 144076,
-      "name": "Der neue Stil meiner Generation",
-      "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
+      "duration_ms": 120000,
+      "name": "Hoffe du hasst mich",
+      "url": "https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Lass Sie Reden",
         "url": "https://open.spotify.com/album/6ACfV8Mg31s9C9O5SsLhi5"
@@ -585,7 +685,55 @@
       "url": "https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "1000 songs",
+        "url": "https://open.spotify.com/album/6QQiiBlobTDUx9bRMjpky6"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        }
+      ],
+      "duration_ms": 159163,
+      "name": "1000 songs",
+      "url": "https://open.spotify.com/track/3jXA5jKVV8qwFrHLlqYN0e"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Alles ok",
+        "url": "https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "duration_ms": 222668,
+      "name": "Alles ok",
+      "url": "https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Der neue Stil meiner Generation",
+        "url": "https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 144076,
+      "name": "Der neue Stil meiner Generation",
+      "url": "https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Endlich Wieder Sommer",
         "url": "https://open.spotify.com/album/6J7ed0Og9sVNB9V3TAuCmS"
@@ -605,27 +753,23 @@
       "url": "https://open.spotify.com/track/3EnPa26fIejr2zmzbK9D6U"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Nicht gern allein",
-        "url": "https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy"
+        "name": "Sie tanzt so gut",
+        "url": "https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9"
       },
       "artists": [
         {
-          "name": "CASTILLO",
-          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
-        },
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
         }
       ],
-      "duration_ms": 221749,
-      "name": "Nicht Gern Allein",
-      "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
+      "duration_ms": 205053,
+      "name": "Sie tanzt so gut",
+      "url": "https://open.spotify.com/track/3FiINXWzj5ZYnfC3ROsWjp"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
@@ -645,23 +789,43 @@
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Sie tanzt so gut",
-        "url": "https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9"
+        "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
+        "url": "https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2"
       },
       "artists": [
         {
-          "name": "JUDI&COCHO",
-          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
         }
       ],
-      "duration_ms": 205053,
-      "name": "Sie tanzt so gut",
-      "url": "https://open.spotify.com/track/3FiINXWzj5ZYnfC3ROsWjp"
+      "duration_ms": 196411,
+      "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
+      "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Nicht gern allein",
+        "url": "https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        },
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Nicht Gern Allein",
+      "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Suzuki Swift",
         "url": "https://open.spotify.com/album/7M0T6e64FpuuLSQ6BqeotP"
@@ -677,59 +841,7 @@
       "url": "https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Keine Panik",
-        "url": "https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY"
-      },
-      "artists": [
-        {
-          "name": "Siggi",
-          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Keine Panik",
-      "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "F\u00fcr immer",
-        "url": "https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR"
-      },
-      "artists": [
-        {
-          "name": "Ansu",
-          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
-        },
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "F\u00fcr immer",
-      "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Alles Auf Anfang",
-        "url": "https://open.spotify.com/album/503iC3dEbNox92qC6vJOiP"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Rette Mich",
-      "url": "https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Manic Pixie Dream Boy, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5JSOwrVEdgJUJ38hTXznHL"
@@ -749,39 +861,23 @@
       "url": "https://open.spotify.com/track/1lB9Tb8ILD85CnxpwqrIbA"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Kater",
-        "url": "https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1"
+        "name": "Alles Auf Anfang",
+        "url": "https://open.spotify.com/album/503iC3dEbNox92qC6vJOiP"
       },
       "artists": [
         {
-          "name": "Marie Bothmer",
-          "url": "https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB"
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
         }
       ],
-      "duration_ms": 167327,
-      "name": "Kater",
-      "url": "https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse"
+      "duration_ms": 191266,
+      "name": "Rette Mich",
+      "url": "https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "21 N\u00e4chte wach",
         "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
@@ -797,7 +893,23 @@
       "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Kater",
+        "url": "https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bothmer",
+          "url": "https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB"
+        }
+      ],
+      "duration_ms": 167327,
+      "name": "Kater",
+      "url": "https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Dachlatte",
         "url": "https://open.spotify.com/album/3oZKx5UGTICjl10psqJLtu"
@@ -813,7 +925,43 @@
       "url": "https://open.spotify.com/track/2YcszBSjgcmS5D0CoOVXhQ"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Keine Panik",
+        "url": "https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Keine Panik",
+      "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb"
@@ -829,7 +977,7 @@
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/3spxucng3MuvDuUNdPE6Bx"
@@ -845,23 +993,7 @@
       "url": "https://open.spotify.com/track/3eN4e24xPmwJlNPrf7AQY3"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/6yNZvZdOeYfYBeTrjG728X"
-      },
-      "artists": [
-        {
-          "name": "RGB",
-          "url": "https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/4VO308OQwkdwwVnHBAgNg2"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "T\u00e4towier Mir Dein Namen",
         "url": "https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk"
@@ -877,23 +1009,23 @@
       "url": "https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW"
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/6yNZvZdOeYfYBeTrjG728X"
       },
       "artists": [
         {
-          "name": "Apollo Sissi",
-          "url": "https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ"
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/2tfeC4TYQYtV7g1q578LZ6"
         }
       ],
-      "duration_ms": 133306,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ"
+      "duration_ms": 144892,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/4VO308OQwkdwwVnHBAgNg2"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Schreien!",
         "url": "https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ"
@@ -909,103 +1041,23 @@
       "url": "https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Fieber / Glatteis",
-        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+        "name": "lost",
+        "url": "https://open.spotify.com/album/5fhETrRmzcp29kd6ey26EW"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "Apollo Sissi",
+          "url": "https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ"
         }
       ],
-      "duration_ms": 202709,
-      "name": "Glatteis",
-      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+      "duration_ms": 133306,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/38UXs833I3BFuLT9Sq31KZ"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Elendig",
-        "url": "https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Elendig",
-      "url": "https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Technoclubs",
-        "url": "https://open.spotify.com/album/6cF0PwUikGvw2yXbQd6qRk"
-      },
-      "artists": [
-        {
-          "name": "STANOVSKY",
-          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
-        }
-      ],
-      "duration_ms": 228087,
-      "name": "Technoclubs",
-      "url": "https://open.spotify.com/track/6i2eY2ea3N6HYEp0HGTV2Q"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Farben",
-        "url": "https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9"
-      },
-      "artists": [
-        {
-          "name": "Ann Can't Talk",
-          "url": "https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9"
-        }
-      ],
-      "duration_ms": 176262,
-      "name": "Farben",
-      "url": "https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Sonne",
-        "url": "https://open.spotify.com/album/3HGcEZt1WSbG0mQpGVQGzs"
-      },
-      "artists": [
-        {
-          "name": "Tiavo",
-          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
-        }
-      ],
-      "duration_ms": 124161,
-      "name": "Sonne",
-      "url": "https://open.spotify.com/track/6XWGkUp5gJEd9Jhaipw13x"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "110 km/h",
-        "url": "https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9"
-      },
-      "artists": [
-        {
-          "name": "Paul Weber",
-          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
-        }
-      ],
-      "duration_ms": 193086,
-      "name": "110 km/h",
-      "url": "https://open.spotify.com/track/019qHAL5i793FKmBomt6Py"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Im Walzerschritt Fahrradfahren",
         "url": "https://open.spotify.com/album/6rL2esEZkbzqSWZAgqWqgB"
@@ -1021,7 +1073,39 @@
       "url": "https://open.spotify.com/track/7DxjsdLPvzWgScr1XggOBe"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Elendig",
+        "url": "https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Elendig",
+      "url": "https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Fieber / Glatteis",
+        "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 202709,
+      "name": "Glatteis",
+      "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "profilbild//NieGeh\u00f6rt",
         "url": "https://open.spotify.com/album/2iZWOTHWm8fcgbCRAPKqg5"
@@ -1037,75 +1121,7 @@
       "url": "https://open.spotify.com/track/6kqavVPA6YVq8WADVYFdn1"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Blau",
-        "url": "https://open.spotify.com/album/2FZ0x4upZxTC3FuCM0IKBX"
-      },
-      "artists": [
-        {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
-        }
-      ],
-      "duration_ms": 172700,
-      "name": "Blau",
-      "url": "https://open.spotify.com/track/0lxkCY9FTzfwx6Lyl3OzO4"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "wie es ist",
-        "url": "https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539"
-      },
-      "artists": [
-        {
-          "name": "nand",
-          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Fragil",
-      "url": "https://open.spotify.com/track/0k1akQtVHZ7PWqjxqazJoV"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Internet",
-        "url": "https://open.spotify.com/album/5gTUxXjH5sGmeg35WcUGg9"
-      },
-      "artists": [
-        {
-          "name": "KLAN",
-          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
-        },
-        {
-          "name": "Alligatoah",
-          "url": "https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Internet",
-      "url": "https://open.spotify.com/track/1NWxABVtF5MwCVU5IgpdHc"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Vor die Hunde",
-        "url": "https://open.spotify.com/album/6Qvu65AReaZABJLBIgmYXh"
-      },
-      "artists": [
-        {
-          "name": "Freude",
-          "url": "https://open.spotify.com/artist/2ms8OQ4CM5aBwwWYmG5VVV"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Vor die Hunde",
-      "url": "https://open.spotify.com/track/58fKtJQyhLnnmPxR6QtibV"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Geruch von Koks (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Blaues Licht",
         "url": "https://open.spotify.com/album/2e55gWgV938Pd2hQTFwMLP"
@@ -1141,143 +1157,7 @@
       "url": "https://open.spotify.com/track/0hGZIJS3gjfQPMLGmUiGtn"
     },
     {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Dehydriert",
-        "url": "https://open.spotify.com/album/6pufZ7riNQKe2uScphmKeI"
-      },
-      "artists": [
-        {
-          "name": "Ducky T.",
-          "url": "https://open.spotify.com/artist/7KJl09yTcrdozkPujCvBxC"
-        },
-        {
-          "name": "NONI",
-          "url": "https://open.spotify.com/artist/224ViDqdVyhQAga2BystL6"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Dehydriert",
-      "url": "https://open.spotify.com/track/3yhUlZhAtpZaDCMRAs6o7E"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Du bist genauso..",
-        "url": "https://open.spotify.com/album/7Cd6XXoZz7FRsWhNYHACRS"
-      },
-      "artists": [
-        {
-          "name": "Urbannino",
-          "url": "https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "Du bist genauso..",
-      "url": "https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Gute Wut",
-        "url": "https://open.spotify.com/album/2aYNsnZu9hEyStnICEvLl7"
-      },
-      "artists": [
-        {
-          "name": "Trille",
-          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
-        },
-        {
-          "name": "CONNY",
-          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
-        }
-      ],
-      "duration_ms": 205605,
-      "name": "Gute Wut",
-      "url": "https://open.spotify.com/track/3wytFAqSZ2VzzyEYT1rsVW"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Heartbreakerei",
-        "url": "https://open.spotify.com/album/5XUCJcBY0F7t9RCxdsnNTE"
-      },
-      "artists": [
-        {
-          "name": "Fuffifufzich",
-          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
-        },
-        {
-          "name": "Stix Omar",
-          "url": "https://open.spotify.com/artist/6x3JdKsbvxtHtUuomWdiZI"
-        },
-        {
-          "name": "Philipp Johann Thimm",
-          "url": "https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Ich brauch mehr Zeit",
-      "url": "https://open.spotify.com/track/2f9ethWe2yXppKLG68u3BZ"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "Strausberger Platz",
-        "url": "https://open.spotify.com/album/2dkB7IBPXXVswdgsfWfk86"
-      },
-      "artists": [
-        {
-          "name": "Torky Tork",
-          "url": "https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml"
-        },
-        {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
-        },
-        {
-          "name": "Goldroger",
-          "url": "https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Strausberger Platz",
-      "url": "https://open.spotify.com/track/3mD1vuBTjDkRJVgZ4ykVsz"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
-      "album": {
-        "name": "genug",
-        "url": "https://open.spotify.com/album/07dyzBlmJNUTo2lneNuriJ"
-      },
-      "artists": [
-        {
-          "name": "IUMA",
-          "url": "https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a"
-        }
-      ],
-      "duration_ms": 222874,
-      "name": "genug",
-      "url": "https://open.spotify.com/track/6yYqmnTk6kCYUNNexHzRJ0"
-    },
-    {
-      "added_at": "2023-03-02 23:01:00",
+      "added_at": "2023-03-09 23:01:00",
       "album": {
         "name": "Pornos im Bett",
         "url": "https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd"
@@ -1291,6 +1171,22 @@
       "duration_ms": 227061,
       "name": "Pornos im Bett",
       "url": "https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "110 km/h",
+        "url": "https://open.spotify.com/album/34RHqZHk0AD9yXaQF8Rve9"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "duration_ms": 193086,
+      "name": "110 km/h",
+      "url": "https://open.spotify.com/track/019qHAL5i793FKmBomt6Py"
     }
   ],
   "unique_name": "Wilde Herzen",

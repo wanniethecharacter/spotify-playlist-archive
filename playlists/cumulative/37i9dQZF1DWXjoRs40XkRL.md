@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-144 songs - 12 hr 55 min
+145 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 |  |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 |  |
 | [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 | 2022-05-17 |  |
-| [Blue](https://open.spotify.com/track/4x2hfelYZwgaQqPZK6vRBV) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Shadow & Light](https://open.spotify.com/album/42xkHkLWrhCDUoHK90hyy2) | 3:53 | 2022-05-17 |  |
+| [Blue](https://open.spotify.com/track/4x2hfelYZwgaQqPZK6vRBV) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Shadow & Light](https://open.spotify.com/album/42xkHkLWrhCDUoHK90hyy2) | 3:53 | 2022-05-17 | 2023-03-10 |
 | [Bright Eyes](https://open.spotify.com/track/6YurAWZr1amWqDhkn3Yrc9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Bright Eyes & In This Mouth](https://open.spotify.com/album/0R3Gu22TJ3rjZIP6Fn7Iwo) | 6:24 | 2022-05-17 | 2022-07-29 |
 | [Bright Eyes \(feat\. Alev Lenz\)](https://open.spotify.com/track/5MaDXZxQUKRqGC3JAQIGpr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Love Letters P.S\. \(Deluxe\)](https://open.spotify.com/album/0qYDzUGVm3cROeMQ5IrGIC) | 6:24 | 2022-07-12 |  |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-05-17 |  |
@@ -127,6 +127,7 @@
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 |  |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4DSORlBFO3jKHgrDB2esk0) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya](https://open.spotify.com/album/40a6zO11blPvhA4CnqCtw6) | 4:18 | 2022-05-17 | 2022-07-29 |
 | [Sakhi Vasant Aaya](https://open.spotify.com/track/4KMsPlI229IQ4z3dqcCbIV) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi) | [Sakhi Vasant Aaya \- Single](https://open.spotify.com/album/0mdDqBvNFnVhNLbWFtDFB1) | 4:18 | 2022-07-12 |  |
+| [Savare Aai Jaiyo](https://open.spotify.com/track/1XsInKRQXqV1gY1n98iwuk) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/3ACdaHL57xN3Raw94p20J0) | 3:22 | 2023-03-09 |  |
 | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/album/0ZaSyTUqD655XTCvaU8Ejs) | 2:45 | 2023-01-10 |  |
 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 | 2022-05-17 |  |
 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 | 2022-05-17 |  |

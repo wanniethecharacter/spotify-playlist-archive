@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-267 songs - 13 hr 40 min
+270 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alpha Flow State 150Hz \- 157Hz](https://open.spotify.com/track/2mUxbRuJlnNCBmX9vbIcYM) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 3:29 | 2021-02-24 |  |
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
 | [Alpha Focus Drone](https://open.spotify.com/track/5dg5PNv5LXNPJoWTfOPQZn) | [Therapeutic Reality](https://open.spotify.com/artist/0cikLffzif45mLdhObDe0V) | [Brainwave State Alpha](https://open.spotify.com/album/2mlB96cTpOna6IQOoyY07x) | 3:27 | 2019-05-26\* | 2021-04-10 |
+| [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 | 2023-03-10 |  |
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-04-22 |  |
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2021-06-04 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2021-08-05 |  |
@@ -163,6 +164,7 @@
 | [Creature](https://open.spotify.com/track/6Vd4pngwOAsq3mDsiW3fKC) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:40 | 2019-05-26\* | 2021-03-10 |
 | [Crystal Creek \(Gamma Drone L184Hz R209Hz\)](https://open.spotify.com/track/0wxy4docDeKk9o7373vSKo) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 4:24 | 2020-12-03 | 2021-06-04 |
 | [Crystalimbic \(Beta Waves\)](https://open.spotify.com/track/4YIUdBVmNnowkHiXLivf2c) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Crystalimbic](https://open.spotify.com/album/79S0cgTQtXbwY4IC2REGFI) | 3:17 | 2021-02-10 |  |
+| [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1JY5XG8cu7ly1fYlDhhpSL) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Cycles \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/album/2WQPXMgT7qgMMrZjBiMD14) | 2:10 | 2023-03-10 |  |
 | [Deep \- Alpha sinus 15 \- 40hz](https://open.spotify.com/track/3VgpWSXHxj0xHjpD6ib37F) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:08 | 2021-05-06 | 2021-09-02 |
 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 | 2021-09-02 |  |
 | [Deep Ocean \- Alpha Sinus 112Hz \- 119Hz](https://open.spotify.com/track/6hYIZ3STECmS3aIZFY9sGF) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 2:56 | 2021-02-24 | 2022-03-19 |
@@ -247,6 +249,7 @@
 | [reflection \- Binaural Alpha Sinus 90Hz \- 98Hz](https://open.spotify.com/track/3LYevpQVcwmiH4S0OGTqnP) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:18 | 2021-06-18 |  |
 | [Relaxed Flow Alpha 8Hz](https://open.spotify.com/track/3CZ6xE0YWhxwNZub2wVK3h) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 2:05 | 2021-08-05 | 2021-09-02 |
 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 | 2021-06-18 |  |
+| [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-03-10 |  |
 | [Sinus 100 Hz \- L 114 Hz \- R Drone](https://open.spotify.com/track/7vHODRL4ZfNcnU6YJjMdT7) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:24 | 2019-05-26\* | 2020-09-08 |
 | [Sinus 90 Hz \- L 120 Hz \- R Drone](https://open.spotify.com/track/0v2mApJ0py4fN6dqzkBJ5t) | [Subtracters](https://open.spotify.com/artist/5zX5hB6Cf6jfDhz8M5n7A7) | [Beta 14\-30 Hz Drones](https://open.spotify.com/album/6wf0S6noQKzlOvSmph9XaB) | 3:28 | 2019-05-26\* | 2020-06-03 |
 | [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/track/5Wp0TFlJeChDBh4HY5z022) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Sleepy Mountains \(Binaural Alpha 128Hz \- 133Hz\)](https://open.spotify.com/album/5NkVmf5vBPzHfQJXgdg76M) | 2:36 | 2022-08-12 |  |

@@ -296,10 +296,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 354098,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1TVjAEwztobbrKRaPwEt03"
+    },
+    {
+      "album": {
+        "name": "13th Hour Vol. 4",
+        "url": "https://open.spotify.com/album/6kcUuZbp0Txa5dm9JAmNm9"
+      },
+      "artists": [
+        {
+          "name": "Swales",
+          "url": "https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4tVrOiaZJK20ZfjWqHRPAt"
     },
     {
       "album": {

@@ -5355,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "Windowsill",
+        "url": "https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP"
+      },
+      "artists": [
+        {
+          "name": "Mcbaise",
+          "url": "https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207678,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu"
+    },
+    {
+      "album": {
         "name": "A Momentary Lapse of Reason",
         "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
       },

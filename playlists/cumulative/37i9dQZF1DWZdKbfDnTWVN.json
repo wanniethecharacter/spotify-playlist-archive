@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/3ITwHOkrwU9QSLdPT8m8Ef"
+      },
+      "artists": [
+        {
+          "name": "Octopizzo",
+          "url": "https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206378,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/0Qnd2pMkw6a1UJIBFwwhr6"
+    },
+    {
+      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/53EBf8IaOg0U712jDuyZen"
       },
@@ -792,6 +810,24 @@
       "duration_ms": 150836,
       "name": "LAST AIR BENDER",
       "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1WlqYudMiTJkTF6fnx2EBi"
+      },
+      "artists": [
+        {
+          "name": "AINE",
+          "url": "https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235634,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/7wn9CznZ9KqtGxBmPVqnmN"
     },
     {
       "album": {
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 251120,
       "name": "no limits",
       "url": "https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI"
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 154644,
       "name": "RUN IT BACK",
       "url": "https://open.spotify.com/track/3Va9pM09AQ2Gyatgu4vQ0O"

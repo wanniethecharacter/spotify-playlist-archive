@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Giorgieness!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, Generic Animal!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 170000,
       "name": "Aeroporto di citt\u00e0",
       "url": "https://open.spotify.com/track/5AobQ54GCauJZy45LStLg6"
@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Cherries",
+        "url": "https://open.spotify.com/album/6Vgm212wqZ8O3qqkPbeAc4"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110422,
+      "name": "Cherries",
+      "url": "https://open.spotify.com/track/1TakoLDRIHQq4WlSZVcmcF"
+    },
+    {
+      "album": {
         "name": "Chi lo decide chi siamo?",
         "url": "https://open.spotify.com/album/7ueBkug7HODYaBbQE7GqND"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 183091,
       "name": "Cult",
       "url": "https://open.spotify.com/track/65TaWDOBqhHDApRQEkJUTl"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 152694,
       "name": "FLOWER POWER",
       "url": "https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 129529,
       "name": "Il fondo",
       "url": "https://open.spotify.com/track/6g5CAiaaix2QymjbdrWb4v"
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 238740,
       "name": "Il tempo \u00e8 una bugia (feat. Ligabue)",
       "url": "https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx"
@@ -3501,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "SHOEFITI 2",
+        "url": "https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx"
+    },
+    {
+      "album": {
         "name": "NUDHA",
         "url": "https://open.spotify.com/album/1aYL5JopqGBtFtfBNB2gDr"
       },
@@ -3588,6 +3624,24 @@
       "duration_ms": 218146,
       "name": "My Best",
       "url": "https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd"
+    },
+    {
+      "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S"
+      },
+      "artists": [
+        {
+          "name": "Persian Pelican",
+          "url": "https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF"
     },
     {
       "album": {
@@ -4093,6 +4147,28 @@
     },
     {
       "album": {
+        "name": "Per sempre con me",
+        "url": "https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo"
+      },
+      "artists": [
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        },
+        {
+          "name": "Roberta Sammarelli",
+          "url": "https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204084,
+      "name": "Per sempre con me",
+      "url": "https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p"
+    },
+    {
+      "album": {
         "name": "Piove Dentro",
         "url": "https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex"
       },
@@ -4220,7 +4296,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 189428,
       "name": "Posso Tenerti Con Me",
       "url": "https://open.spotify.com/track/0SpalTBYUi9tZ66Ack8GcT"
@@ -4274,7 +4350,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 219098,
       "name": "Prendi fiato",
       "url": "https://open.spotify.com/track/1c1WcyaR6YXifL2XxHX1xV"
@@ -4509,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Rosso",
+        "url": "https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "Rosso",
+      "url": "https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs"
+    },
+    {
+      "album": {
         "name": "rotten",
         "url": "https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL"
       },
@@ -4528,6 +4622,24 @@
       "duration_ms": 160000,
       "name": "rotten",
       "url": "https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl"
+    },
+    {
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4"
+      },
+      "artists": [
+        {
+          "name": "ALIPERTI",
+          "url": "https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf"
     },
     {
       "album": {
@@ -5120,7 +5232,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 172768,
       "name": "Storia di un bacio",
       "url": "https://open.spotify.com/track/06KPJCrNZmp1QwG0kJhyUe"
@@ -5297,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "Terra bruciata",
+        "url": "https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI"
+      },
+      "artists": [
+        {
+          "name": "Maura",
+          "url": "https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193760,
+      "name": "Terra bruciata",
+      "url": "https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa"
+    },
+    {
+      "album": {
         "name": "Devo Challenge Cup",
         "url": "https://open.spotify.com/album/1bdOWTmAP6KfLK4YInXpW2"
       },
@@ -5362,7 +5492,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 229271,
       "name": "The Sweetest Nightmare",
       "url": "https://open.spotify.com/track/3t4khpJjAdW2qLSdNuwK2e"
@@ -5402,6 +5532,24 @@
       "duration_ms": 149565,
       "name": "TI DEVI ROVINARE",
       "url": "https://open.spotify.com/track/4867uScJp6gPGEckidOWk1"
+    },
+    {
+      "album": {
+        "name": "Topi",
+        "url": "https://open.spotify.com/album/68WjLDJML5tpV0wjOuMdjk"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204112,
+      "name": "Topi",
+      "url": "https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl"
     },
     {
       "album": {
@@ -5542,7 +5690,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 207919,
       "name": "Turning",
       "url": "https://open.spotify.com/track/0bPM2PUtNUeAuxl5fG26s7"
@@ -5798,7 +5946,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 284333,
       "name": "Vicenza",
       "url": "https://open.spotify.com/track/2UoqMxVRl4I5IgDRblSToW"
@@ -5852,7 +6000,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 163297,
       "name": "Vivere",
       "url": "https://open.spotify.com/track/5PtPrzMuJIVn5wgMTiZbBs"

@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-386 songs - 20 hr 12 min
+388 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Lucid Alchemy](https://open.spotify.com/track/7u7dK1IXsG4jdB6bK9PCFm) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Lucid Alchemy](https://open.spotify.com/album/4X8CwAlT2DY2CAtt4H6bHz) | 4:18 | 2022-05-26 | 2022-09-03 |
 | [Lunar Glow](https://open.spotify.com/track/1aprpxWKe3dmT8uzc6bhvG) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Ocean Call](https://open.spotify.com/album/6KoognMXwtcMf1seBHZbDG) | 3:06 | 2022-05-26 |  |
 | [Lupus Dream](https://open.spotify.com/track/5PZASTgARJNAA849LvrAz5) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [A New Constellation](https://open.spotify.com/album/20auUkhq5BLo3ab520baTi) | 3:17 | 2022-05-26 |  |
+| [Lygophilia](https://open.spotify.com/track/2noNdyAX8mqrgW8m1wfQkO) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Lygophilia](https://open.spotify.com/album/3CKI3PcY3vGC9S69EoBLlA) | 3:37 | 2023-03-10 |  |
 | [Ma constellation](https://open.spotify.com/track/6gIqp5x0pYgLnMDBLPkgao) | [Ema Jihne](https://open.spotify.com/artist/2jzsKZk6U18dc7so1MWB2l) | [A la belle etoile](https://open.spotify.com/album/6yXXgpjWUIaGEZoL5ZUgwu) | 2:00 | 2022-05-26 |  |
 | [Magica](https://open.spotify.com/track/75D9esOK7ASfcREQAvbtql) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica](https://open.spotify.com/album/0I1dDqctYZ26sVYoFxGIZY) | 2:57 | 2022-05-26 |  |
 | [Mandala](https://open.spotify.com/track/1aeKotbZ2wBYuOspDawtwo) | [Lhokanda](https://open.spotify.com/artist/1264capaf0mZntpqmhyXA9) | [Mandala](https://open.spotify.com/album/0l4Q81jBgK9xsxQ8iJFtZx) | 2:17 | 2022-05-26 |  |
@@ -253,6 +254,7 @@
 | [Orbit](https://open.spotify.com/track/0k2baNK3JldkN4gBfIJUOo) | [Epic Centre](https://open.spotify.com/artist/1LKqgLACkIlBWmt3nbm7iX) | [Orbit](https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8) | 2:04 | 2022-05-26 |  |
 | [Orbital](https://open.spotify.com/track/2sqE9z7rJlzV5ZgieeUatU) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Space](https://open.spotify.com/album/7jsqMuym5gtuuEuavy697d) | 2:24 | 2022-05-26 |  |
 | [Pacific Bliss](https://open.spotify.com/track/6tJQ2qxNMAk7sPmmXyZWam) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pacific Bliss](https://open.spotify.com/album/22mii96Xmp7kjEGcb0Mwdm) | 2:46 | 2022-05-26 |  |
+| [Paladin](https://open.spotify.com/track/6Hni6BR0tH2pm5P7T1spJw) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin](https://open.spotify.com/album/2wa0vo8CXwffGVK8cKiATu) | 3:14 | 2023-03-10 |  |
 | [Pampeano](https://open.spotify.com/track/6TZtSaF9XUFlWBoDwYuqmR) | [Osno](https://open.spotify.com/artist/3XqgdBsuoShCOmDjwn5pWq) | [Pampeano](https://open.spotify.com/album/75T7bNuVXxahedg6q9knVS) | 4:27 | 2022-05-26 | 2022-09-03 |
 | [Pas De Soucis](https://open.spotify.com/track/5vNmFEcBUbdiM0gIP2rpyj) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Pas De Soucis](https://open.spotify.com/album/5mUbuyifZ9AykEdvXPcqtQ) | 2:19 | 2023-01-20 |  |
 | [Past Lives](https://open.spotify.com/track/72KilUGrpXNCPE0yWjcSmN) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:20 | 2022-05-26 | 2022-12-21 |

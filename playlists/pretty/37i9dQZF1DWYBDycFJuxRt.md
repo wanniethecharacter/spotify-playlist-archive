@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 東京スカパラダイスオーケストラ + 長屋晴子 \(緑黄色社会\) \*👉<a href="https://spice.eplus.jp/articles/315586?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,100 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,179 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 45 | [Taiyo to Ikaros](https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Taiyo to Ikaros](https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx) | 4:30 |
 | 46 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ニーハオ!!!!](https://open.spotify.com/artist/1B0p5xXIIfJNKC5rzbN3To) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 |
 | 47 | [往生際の意味を知れ!](https://open.spotify.com/track/7sdzicvFf1SlZXBahVjSTn) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [往生際の意味を知れ!](https://open.spotify.com/album/6uW1aOg3jHnj4VN1l7rfwU) | 2:59 |
-| 48 | [barla](https://open.spotify.com/track/15u6GYSKZBei1mQ9AJU85P) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos) | [barla](https://open.spotify.com/album/2gjOLwd7GbuJlrMUPewn31) | 3:58 |
+| 48 | [barla](https://open.spotify.com/track/15u6GYSKZBei1mQ9AJU85P) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla](https://open.spotify.com/album/2gjOLwd7GbuJlrMUPewn31) | 3:58 |
 | 49 | [CHILI CHOCOLATE](https://open.spotify.com/track/4McjocmLGIWuKnjIm8g9HD) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [CHILI CHOCOLATE / ONE BITE / Lonely](https://open.spotify.com/album/0navHUL4MUwvp7u8ctAaow) | 3:31 |
 | 50 | [NOW or NEVER](https://open.spotify.com/track/5zxlFx6uXyshCgsDQY7SqC) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [X](https://open.spotify.com/album/7wK5PYGgs4HpeLibJmA0Hl) | 3:52 |
 | 51 | [かたっぽshoes](https://open.spotify.com/track/4tb2PgYuehRxm9NPEIproL) | [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [かたっぽshoes](https://open.spotify.com/album/4Tk8NBvkaFv8ga3AvnJPtq) | 3:59 |

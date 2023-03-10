@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-476 songs - 1 day 3 hr 4 min
+477 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Modus](https://open.spotify.com/track/3bPAEgGdK9FyXM1HVFb9ub) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Future Groove Product](https://open.spotify.com/album/10pbAphezzKrxAPk4G9OSf) | 4:52 | 2022-01-25 | 2022-04-16 |
 | [Mono](https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Mono](https://open.spotify.com/album/5kqOnB2l0sCByH4Makzsbn) | 3:07 | 2021-12-08 | 2022-07-26 |
 | [Mono \- Remix](https://open.spotify.com/track/557jUql0HOowUJNOeH2Dpv) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [MORLO](https://open.spotify.com/artist/29sJuUxrwcoScHDr2BMaDV) | [Mono \(Remix\)](https://open.spotify.com/album/20nZith2DuaQrq5XxBc40N) | 2:56 | 2022-01-25 | 2022-07-04 |
-| [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 | 2022-11-04 |  |
+| [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 | 2022-11-04 | 2023-03-10 |
 | [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 | 2023-01-02 |
 | [Moonside](https://open.spotify.com/track/6fWWJ80UqYqVY2y9Acy2uz) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Moonside](https://open.spotify.com/album/2EOR7Yb1vYdtFk4jl9ckir) | 2:54 | 2022-06-08 | 2022-07-27 |
 | [Morale](https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Morale](https://open.spotify.com/album/1azX1aHJrqVGWqikHgXsRY) | 3:18 | 2021-12-08 | 2022-07-29 |
@@ -356,6 +356,7 @@
 | [Selfish High Heels](https://open.spotify.com/track/0b9BpOmZC33EjJNWewLJwK) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Selfish High Heels](https://open.spotify.com/album/73YODMPOvCdIw38wcGPIcz) | 3:46 | 2022-07-15 |  |
 | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/track/4zFDDTSInTkLg0d0KzxqJj) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Selfish High Heels \(feat\. Macross 82\-99 & Harrison\)](https://open.spotify.com/album/7L5rEfs6SmsH8LCiHuNzhT) | 3:46 | 2021-12-08 | 2022-07-22 |
 | [Shall We Dance?](https://open.spotify.com/track/4qYD74gqSIc4RZffHZl0be) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/0sw0nKeLMmdPdalZKD3j80) | 2:31 | 2021-12-08 | 2022-07-21 |
+| [Shall We Dance?](https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM) | 2:31 | 2022-11-04 |  |
 | [Share Your Love](https://open.spotify.com/track/3qiL4IFknJDDcyPbDYD6xQ) | [Hopeful Romantics](https://open.spotify.com/artist/0czxPZ6C9lrClg4WOMaft4) | [Share Your Love](https://open.spotify.com/album/54GpWgH0xCODP8q6pW3gB6) | 3:21 | 2022-03-11 | 2022-04-21 |
 | [Shimmer City](https://open.spotify.com/track/5uwFzyBfdwU6r1JlrGwCRi) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Sessions: Star Guardian Taliyah](https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV) | 3:15 | 2022-08-12 |  |
 | [Shine Your Light](https://open.spotify.com/track/6kzBMV9KdD8ucdW0b5mtMU) | [Mélonade](https://open.spotify.com/artist/1oI7fQB3WliumtkbkYuaNz) | [Shine Your Light](https://open.spotify.com/album/3o63X4RjUDr5LY50KQbRD6) | 2:57 | 2022-01-25 | 2022-07-14 |

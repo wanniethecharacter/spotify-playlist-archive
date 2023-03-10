@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "From Darkness to Light (Ambient Cello Loops)",
+        "url": "https://open.spotify.com/album/1vPAKdej68HxCa4wizIjfi"
+      },
+      "artists": [
+        {
+          "name": "The Wong Janice",
+          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323500,
+      "name": "From Darkness to Light (Ambient Cello Loops), Pt. 3",
+      "url": "https://open.spotify.com/track/1rHQUBlbNIPvSZTX5VjGMJ"
+    },
+    {
+      "album": {
         "name": "The Shadow Play (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 368000,
       "name": "Klass - Robot Koch Rework",
       "url": "https://open.spotify.com/track/6QcorNxAJIo0IXFVI0JMg1"

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 58272,
+  "num_followers": 58292,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMxNjE3MiwwMDAwMDAwMGUxMjM1MDY2ODliNmFjNmRlNzk2NmY3MmVkNWE4YWVj",
+  "snapshot_id": "MTY3NjMxNjE3MiwwMDAwMDAwMDkxNzExYzE2ZTQxYzkwM2FlZWI5NThiNWZlYmQyMmY0",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "Catching Eyes",
+        "url": "https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 249533,
+      "name": "Catching Eyes",
+      "url": "https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Catching Eyes",
-        "url": "https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Catching Eyes",
-      "url": "https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -869,55 +869,7 @@
       "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "FIXXI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "nu love",
-        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
-      },
-      "artists": [
-        {
-          "name": "Xavier Martinex",
-          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
-    },
-    {
-      "added_at": "2023-03-09 00:39:33",
+      "added_at": "2023-03-10 01:26:28",
       "album": {
         "name": "Invierno (Remix)",
         "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
@@ -939,6 +891,54 @@
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "nu love",
+        "url": "https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 187348,
+      "name": "FIXXI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
+      },
+      "artists": [
+        {
+          "name": "Xavier Martinex",
+          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Mirada Speed",
         "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 231050,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
+        "name": "Realidades No Ordinarias, Vol. 2",
+        "url": "https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM"
       },
       "artists": [
         {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
+          "name": "Bardo Jos\u00e9",
+          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
+        },
+        {
+          "name": "Boris Vian",
+          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
         }
       ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
+      "duration_ms": 289335,
+      "name": "Realidades No Ordinarias",
+      "url": "https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 110070,
       "name": "Beautiful Day (Thank You for Sunshine)",
       "url": "https://open.spotify.com/track/1wNlxeNoKgMK3pAuZCHDcJ"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 106562,
       "name": "Brazilian Phonk Mano - Super Slowed",
       "url": "https://open.spotify.com/track/34lJpf1XeT6mS58S5Dwqn6"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 226077,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -4541,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "Pasion De Gavilanes",
+        "url": "https://open.spotify.com/album/00J7YGWNZ2oOYrIQMy9UO0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Chadid",
+          "url": "https://open.spotify.com/artist/5xzP0E86GXxfBn1whd3nH7"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "Fiera Inquieta",
+      "url": "https://open.spotify.com/track/49jS8t2Kj4vPx2dmDzQEUg"
+    },
+    {
+      "album": {
         "name": "Dinosaurchestra",
         "url": "https://open.spotify.com/album/4ZE05qOXBcWmItdv95gyiy"
       },
@@ -4736,7 +4754,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -15682,7 +15700,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"

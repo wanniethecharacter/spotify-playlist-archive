@@ -593,6 +593,42 @@
     },
     {
       "album": {
+        "name": "Back In The Day",
+        "url": "https://open.spotify.com/album/0BWhrOI9YwYCs8BJWjQxXS"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105288,
+      "name": "Back in the Day",
+      "url": "https://open.spotify.com/track/7bp12ZMMsQRxDtFOOMvy8M"
+    },
+    {
+      "album": {
+        "name": "Moonlit Canvas",
+        "url": "https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y"
+      },
+      "artists": [
+        {
+          "name": "Kiko Kaid",
+          "url": "https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI"
+    },
+    {
+      "album": {
         "name": "bajo la luna",
         "url": "https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3"
       },
@@ -5693,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/4lFbvDty9iztttqrujuryt"
+      },
+      "artists": [
+        {
+          "name": "West Sun",
+          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH"
+    },
+    {
+      "album": {
         "name": "ocean view",
         "url": "https://open.spotify.com/album/6kucfOGZ2dGI4G2rqqAW31"
       },
@@ -5758,7 +5812,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 207931,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5p5LL70T1CZzKt543otFg0"

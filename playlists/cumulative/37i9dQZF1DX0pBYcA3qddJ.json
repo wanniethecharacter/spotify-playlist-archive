@@ -1613,6 +1613,28 @@
     },
     {
       "album": {
+        "name": "Guess Who I Saw Today (Duo Version)",
+        "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285068,
+      "name": "Guess Who I Saw Today (feat. Gerald Clayton) - Duo Version",
+      "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
+    },
+    {
+      "album": {
         "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
         "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 190254,
       "name": "Le Cygne (The Swan)",
       "url": "https://open.spotify.com/track/1Ke4gVLpNH2FB8DoyfKU1D"
@@ -5677,6 +5699,28 @@
     },
     {
       "album": {
+        "name": "Rintaro Akamatsu Piano Collection Vol. 9 Arietta",
+        "url": "https://open.spotify.com/album/3atIvtSWZ9wuVSsU28a1e3"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rintaro Akamatsu",
+          "url": "https://open.spotify.com/artist/4PXjZj2FxsYEeJdX9ir8Il"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "\u30c1\u30a7\u30ed\u30bd\u30ca\u30bf \u30c8\u77ed\u8abf Op. 65 - \u7b2c3\u697d\u7ae0 Largo",
+      "url": "https://open.spotify.com/track/3Qbu91uGOGN4NOtCGRyrJg"
+    },
+    {
+      "album": {
         "name": "WORKS",
         "url": "https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I"
       },
@@ -6270,7 +6314,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-10",
       "duration_ms": 259869,
       "name": "\u6b69\u98a8",
       "url": "https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T"

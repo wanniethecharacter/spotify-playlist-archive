@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-487 songs - 1 day 1 hr 18 min
+488 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [C O O L Santa Ana](https://open.spotify.com/track/4EuHlO6U0SjsDUxdF4dJDy) | [Modern Original](https://open.spotify.com/artist/5lAerll3SRz5ATfhZfhGT6), [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [C O O L Santa Ana](https://open.spotify.com/album/0Ij15Oka2Kqeb9PSl7wpd9) | 3:33 | 2022-07-01 | 2022-07-28 |
 | [C'est La Vie](https://open.spotify.com/track/1cz61f96sBlapUOQHmLNFK) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [C'est La Vie](https://open.spotify.com/album/6NY94ZdXbzACNNuQcWIVlg) | 3:00 | 2022-10-28 | 2023-01-14 |
 | [Can You Handle My Love??](https://open.spotify.com/track/2wdVmZbRoJNNpY1vS0N8Lm) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [HEIGHTS](https://open.spotify.com/album/3ZDqOKvg2yuGzzImRjIrhK) | 4:16 | 2022-02-04 | 2022-03-12 |
-| [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2023-01-13 | 2023-01-17 |
+| [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2023-01-13 |  |
 | [Can't Be What You Think](https://open.spotify.com/track/42c4zQXbM14DbksotK3Cq7) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Can't Be What You Think](https://open.spotify.com/album/4wiyYbZodR1G7BY2V2GEW5) | 3:21 | 2022-02-04 | 2022-04-02 |
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-01-13 |  |
 | [Casey Got The Call](https://open.spotify.com/track/3ELNeZqM7jS7Z3emA3loCb) | [joshua epithet](https://open.spotify.com/artist/1uEUnojYYgIo87OiurJiNP) | [Casey Got The Call](https://open.spotify.com/album/3L8iaeiX1CnpXV5Nn2euMw) | 2:39 | 2022-07-08 | 2022-07-15 |
@@ -114,6 +114,7 @@
 | [Deadbeat \(feat\. Teddy Failure\)](https://open.spotify.com/track/7DmzMHbyO4EwP9OIULiFP9) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq), [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Deadbeat \(feat\. Teddy Failure\)](https://open.spotify.com/album/2DfN0hg9I3shFHJXoU7EYN) | 1:56 | 2022-07-01 | 2022-07-05 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-04-29 |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-29 | 2022-07-28 |
+| [Demon](https://open.spotify.com/track/6eqQ8jPo5Bx0abOQIYbJTp) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:45 | 2023-01-13 |  |
 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 | 2022-04-15 | 2022-07-22 |
 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 | 2022-10-28 |  |
 | [Did You Sleep Last Night?](https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Did You Sleep Last Night?](https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68) | 3:10 | 2022-02-04 | 2022-04-23 |
@@ -178,7 +179,7 @@
 | [Happiness](https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Happiness](https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2) | 3:21 | 2022-10-07 | 2022-11-19 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-08-05 | 2022-10-08 |
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 | 2022-11-19 |
-| [Hate You When You Party](https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Hate You When You Party](https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn) | 3:34 | 2022-10-07 |  |
+| [Hate You When You Party](https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Hate You When You Party](https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn) | 3:34 | 2022-10-07 | 2023-03-10 |
 | [Headsweat](https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Headsweat](https://open.spotify.com/album/19KlvLIGg73WDRstbHCrf0) | 3:01 | 2022-06-10 | 2022-07-29 |
 | [Heal My Head](https://open.spotify.com/track/16KPdkm1lwurY6KTwo7dJH) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [Heal My Head](https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R) | 3:19 | 2022-06-03 | 2022-07-29 |
 | [Heart and Mine](https://open.spotify.com/track/03fMRgKzOeMIa9lZlG8xeB) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Heart and Mine](https://open.spotify.com/album/4jzHgCJd6zdIqSAkJpobg9) | 3:12 | 2022-02-04 | 2022-04-23 |
@@ -424,7 +425,7 @@
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 |  |
 | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [There's Only One \(feat\. Genesis Owusu\)](https://open.spotify.com/album/3cF60RkN3triEWe9tt5ARt) | 3:09 | 2022-02-18 | 2022-05-14 |
 | [Things You Said](https://open.spotify.com/track/5MYAjxYvtSkUQzOgtnntTH) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9) | 3:23 | 2022-04-15 | 2022-07-29 |
-| [This Is What They Meant](https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [This Is What They Meant](https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq) | 2:54 | 2022-10-28 |  |
+| [This Is What They Meant](https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [This Is What They Meant](https://open.spotify.com/album/10NLVV7jqlEAjMuyv03Dnq) | 2:54 | 2022-10-28 | 2023-03-10 |
 | [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2022-12-16 | 2023-02-13 |
 | [This Is Why](https://open.spotify.com/track/4GvZQffyoZh1eK8d8QlWQU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:26 | 2022-12-16 | 2023-01-07 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-01-13 |  |

@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-97 songs - 5 hr 42 min
+98 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Shuffle Like This](https://open.spotify.com/track/47ykMWE0pmHkXddJ5hFgNx) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shuffle Like This](https://open.spotify.com/album/4Llc3kSBeLA0vncGEMO2um) | 3:01 | 2021-12-17 | 2022-04-09 |
 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 | 2021-12-17 | 2022-07-29 |
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2022-07-22 |  |
-| [Sitar \- Radio Edit](https://open.spotify.com/track/29qxPs0rlgFm66EEeAhoNC) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Wigerz](https://open.spotify.com/artist/1iZu6wKPmwIyZKGp4cq1Ot) | [Sitar](https://open.spotify.com/album/1LhAQQjXF7XqOvOgnoaXpy) | 2:30 | 2021-12-17 |  |
+| [Sitar \- Radio Edit](https://open.spotify.com/track/29qxPs0rlgFm66EEeAhoNC) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Wigerz](https://open.spotify.com/artist/1iZu6wKPmwIyZKGp4cq1Ot) | [Sitar](https://open.spotify.com/album/1LhAQQjXF7XqOvOgnoaXpy) | 2:30 | 2021-12-17 | 2023-03-10 |
+| [Sitar \- Radio Edit](https://open.spotify.com/track/0XtXW7RwXBlcLV64XqW03S) | [DRIIIFT](https://open.spotify.com/artist/5oTgiVsk5wT8LOZqdBDlk8), [Kazden & Wigerz](https://open.spotify.com/artist/65XLkBrxFGMoU19T4h0hCY) | [Sitar](https://open.spotify.com/album/0GvIBnvwfJHT6k8J70rGrX) | 2:30 | 2022-09-09 |  |
 | [Sleep Talking](https://open.spotify.com/track/6ShcmN8c6rQjA27t0X8MBB) | [Synergetic Emotion](https://open.spotify.com/artist/2trhW3xI0aOtr47Ued1RFK), [Who Knows?](https://open.spotify.com/artist/6tvW6l27AmnK12EfQbT3D4) | [Sleep Talking](https://open.spotify.com/album/2aDFmMGskdIKiow79qqlhu) | 4:41 | 2022-04-08 |  |
 | [Smoke](https://open.spotify.com/track/0O39si7MdD998p8y5R45ty) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Smoke](https://open.spotify.com/album/5fD0u1OUEvZmX3C5TCICPl) | 3:15 | 2021-12-17 |  |
 | [So Cool](https://open.spotify.com/track/2ORHJvrvkdEWqLpbTdYJEI) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [So Cool](https://open.spotify.com/album/2Oonubif3OmZ3nyvIxo3UR) | 2:24 | 2022-02-11 | 2022-04-09 |
