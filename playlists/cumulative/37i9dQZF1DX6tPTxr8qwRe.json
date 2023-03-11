@@ -3949,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136946,
+      "name": "Muddy Feet (feat. Sia)",
+      "url": "https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe"
+    },
+    {
+      "album": {
         "name": "my best friend's ex",
         "url": "https://open.spotify.com/album/6FsEy3lKqjcJyZgLD7OQsF"
       },
@@ -5884,7 +5906,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 180626,
       "name": "ugly",
       "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"

@@ -6905,6 +6905,28 @@
     },
     {
       "album": {
+        "name": "Gelenda",
+        "url": "https://open.spotify.com/album/2Z56nY7iJ2lZJHHSb1QVei"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154006,
+      "name": "Gelenda",
+      "url": "https://open.spotify.com/track/4HrdpcNAQ7HJMGggot07Rs"
+    },
+    {
+      "album": {
         "name": "GEST",
         "url": "https://open.spotify.com/album/5s8Pu9ZVgfX5JeR9ahd9Hg"
       },
@@ -7162,7 +7184,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -7242,7 +7264,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/5qBLfeAGlgGGsckKhsMWpF"
@@ -7662,6 +7684,28 @@
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "album": {
+        "name": "Hop",
+        "url": "https://open.spotify.com/album/2ZdUQDDDPUAWxX4zHj2Mq9"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Hop",
+      "url": "https://open.spotify.com/track/6KdJ4FS5l7OOi73CGgtEM3"
     },
     {
       "album": {
@@ -12124,7 +12168,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -12376,7 +12420,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 152967,
       "name": "Moonrock",
       "url": "https://open.spotify.com/track/0wjEqyMMRTiC5He6tSkyAN"

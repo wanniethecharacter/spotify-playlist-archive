@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 197733,
       "name": "Cumbia Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
@@ -1094,6 +1094,28 @@
       "duration_ms": 270937,
       "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
       "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
+    },
+    {
+      "album": {
+        "name": "La Media Vuelta",
+        "url": "https://open.spotify.com/album/3Xi5dIMcuaIpcZorzYGaSv"
+      },
+      "artists": [
+        {
+          "name": "Cielo Torres",
+          "url": "https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ"
+        },
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209132,
+      "name": "La Media Vuelta - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/42p0wbRmmYsxV7urL8ijki"
     },
     {
       "album": {

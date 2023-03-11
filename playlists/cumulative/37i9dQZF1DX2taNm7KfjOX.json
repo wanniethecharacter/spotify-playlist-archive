@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 384360,
       "name": "Ever New - Reworked by Bon Iver & Flock of Dimes",
       "url": "https://open.spotify.com/track/2DRr5wyIo7Fs4ziuIppSeB"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "Hummed Low",
       "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
@@ -3798,6 +3798,24 @@
       "duration_ms": 203786,
       "name": "I Already Love You",
       "url": "https://open.spotify.com/track/5LnoFWBShDRuEqd7VqduGB"
+    },
+    {
+      "album": {
+        "name": "I Can't Get My Head Around You",
+        "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
     },
     {
       "album": {
@@ -6480,7 +6498,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
@@ -7364,7 +7382,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 232748,
       "name": "The Spur",
       "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"

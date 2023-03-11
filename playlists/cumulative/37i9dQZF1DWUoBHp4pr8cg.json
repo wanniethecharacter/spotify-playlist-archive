@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Devil's Work 2",
+        "url": "https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301445,
+      "name": "Devil's Work 2",
+      "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
+    },
+    {
+      "album": {
         "name": "Do It Again (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -1164,6 +1182,28 @@
       "duration_ms": 219000,
       "name": "Extravagant",
       "url": "https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0"
+    },
+    {
+      "album": {
+        "name": "Fact (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174239,
+      "name": "Fact (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
     },
     {
       "album": {
@@ -1506,7 +1546,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 235374,
       "name": "GRATITUDE",
       "url": "https://open.spotify.com/track/0SmGhDR2VnkG8betDNPu5j"
@@ -1640,7 +1680,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
@@ -1720,7 +1760,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
@@ -2207,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "MO UP FRONT",
+        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170962,
+      "name": "MO UP FRONT",
+      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
+    },
+    {
+      "album": {
         "name": "SR3",
         "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
       },
@@ -2673,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "Just For Clarity 2",
+        "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Passionate (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
+    },
+    {
+      "album": {
         "name": "Gumbo",
         "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
       },
@@ -2724,7 +2804,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"

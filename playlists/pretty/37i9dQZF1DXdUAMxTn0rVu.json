@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Jean Grae",
-  "num_followers": 361965,
+  "num_followers": 362225,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDMzYmI2ZWMwOWIxOWE5ODkyYjc0NGQ5Njg1NmM4OTYx",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDI1ZDc0MzllNDI1YWRhZDIyZjIyZDc2ZWVjYjlhZGVk",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -943,30 +943,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "D.I.T.C.",
-        "url": "https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW"
+        "name": "Ruff Draft",
+        "url": "https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm"
       },
       "artists": [
         {
-          "name": "D.I.T.C.",
-          "url": "https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS"
-        },
-        {
-          "name": "A.G.",
-          "url": "https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE"
-        },
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "O.C.",
-          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 222440,
-      "name": "Thick",
-      "url": "https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk"
+      "duration_ms": 163920,
+      "name": "The $",
+      "url": "https://open.spotify.com/track/5lQXkClM3axFsWL2NkqIW6"
     }
   ],
   "unique_name": "I Love My Underground Classics",

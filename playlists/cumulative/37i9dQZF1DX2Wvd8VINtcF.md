@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-386 songs - 21 hr 26 min
+388 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-02 | 2023-02-17 |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2022-11-10 | 2022-11-18 |
 | [Endlessly \- Live At NPR's Tiny Desk](https://open.spotify.com/track/0VWDJgtqJZSxP6hDvBRZUa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live at NPR's Tiny Desk](https://open.spotify.com/album/1CL1wSjhXdJtn2LZieUbHe) | 4:37 | 2022-10-28 | 2022-11-18 |
-| [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2023-03-09 |  |
+| [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2023-03-09 | 2023-03-11 |
+| [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 |  |
 | [Everything Eventually Ends](https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Everything Eventually Ends](https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4) | 2:57 | 2022-10-28 | 2023-02-10 |
 | [Fading Away](https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Fading Away](https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe) | 3:57 | 2022-10-28 | 2022-12-24 |
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-28 | 2022-11-25 |
@@ -136,6 +137,7 @@
 | [Forgiveless \(feat\. Ol' Dirty Bastard\)](https://open.spotify.com/track/5IcP1PPnleZ2kuwKDyfNC5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:21 | 2022-12-15 | 2023-03-03 |
 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 | 2022-12-08 | 2023-02-03 |
 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 | 2023-01-26 |  |
+| [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Friends \(feat\. Tim Ayre\)](https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl) | 3:19 | 2023-03-10 |  |
 | [fruttimango \- Storken Remixado](https://open.spotify.com/track/0gePtMkypuzsFdqtFMR4fX) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [fruttimango \(Storken Remixado\)](https://open.spotify.com/album/4pHoQDDOjjQrzR4h3LqTK8) | 6:34 | 2023-02-02 |  |
 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 | 2023-02-23 |  |
 | [Gang'Nem](https://open.spotify.com/track/3F90JbxXm1yA7CB557b6w2) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Fre$H](https://open.spotify.com/artist/5wUzuAKoHT2ItLdgAfa8sG) | [Gang'Nem](https://open.spotify.com/album/1dKHC8AlHi7s7XpHUazrKk) | 4:10 | 2022-12-15 | 2023-02-03 |

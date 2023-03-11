@@ -4,7 +4,7 @@
 
 > Emerging sounds in worship from everywhere.
 
-193 songs - 16 hr 55 min
+194 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Río](https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:07 | 2021-06-12 |  |
 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 | 2021-06-12 |  |
 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 | 2021-06-12 |  |
-| [Somebody](https://open.spotify.com/track/6Mli7seK4RmhhfcH4yU7uR) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Somebody](https://open.spotify.com/album/6RbtjB9v1HeqEDxebVCm8c) | 2:41 | 2021-06-12 |  |
+| [Somebody](https://open.spotify.com/track/6EoLctN1ILjSDUECGeraSy) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Somebody](https://open.spotify.com/album/2W4SXRvoskURGgubTSXmDb) | 2:41 | 2021-06-12 |  |
+| [Somebody](https://open.spotify.com/track/6Mli7seK4RmhhfcH4yU7uR) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Somebody](https://open.spotify.com/album/6RbtjB9v1HeqEDxebVCm8c) | 2:41 | 2021-06-12 | 2023-03-11 |
 | [Sound of Freedom](https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG) | [Sound of Freedom](https://open.spotify.com/album/18OqMfunWkhyZIiQCqxvhT) | 3:15 | 2021-06-12 | 2022-07-29 |
 | [Sound of Freedom](https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG) | [Grace That Changes Everything](https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS) | 3:15 | 2021-06-12 |  |
 | [Sparrows](https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 3:17 | 2021-06-12 |  |

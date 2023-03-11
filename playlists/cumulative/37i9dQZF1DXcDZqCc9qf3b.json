@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -466,6 +466,24 @@
       "duration_ms": 174602,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/1aa4uizAfJZQJKycxZCWLo"
+    },
+    {
+      "album": {
+        "name": "Found (From the Netflix Film The Magician's Elephant)",
+        "url": "https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209087,
+      "name": "Found (From the Netflix Film The Magician's Elephant)",
+      "url": "https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M"
     },
     {
       "album": {

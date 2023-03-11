@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Reytons
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,223 likes - 78 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,271 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 68 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 |
 | 69 | [Big Fish, Small Pond](https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Big Fish, Small Pond](https://open.spotify.com/album/3Z9XtwBfGd68EAyKBGZDao) | 3:31 |
 | 70 | [Skint Eastwood](https://open.spotify.com/track/7gMCx5OAvXAN6Mtr5nvyiV) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [Do It Differently](https://open.spotify.com/album/5mi8hQT8Y4RbfSu8l6zaws) | 3:09 |
-| 71 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 |
+| 71 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 |
 | 72 | [Pretend](https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pretend](https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz) | 3:37 |
 | 73 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 |
 | 74 | [Eclipse](https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Eclipse](https://open.spotify.com/album/6B0pRDdQ8Udrosv4NMscW3) | 4:07 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 77 | [Money](https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV) | [Fuzzy Sun](https://open.spotify.com/artist/40uK7RAJlyEALdLWZ1qNmb) | [Money](https://open.spotify.com/album/19F6Ai9NloBmTqrhcz9N0M) | 3:30 |
 | 78 | [Forget About Me](https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Knowledge Freedom Power](https://open.spotify.com/album/5Hjrk5ZrtyQgt0MDzdT6nu) | 3:56 |
 
-Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMDFiZDQwODdjYjAyOTFjNTc2NzI3Nzk5N2NkZmZhYzFm`
+Snapshot ID: `MTY3NzE5NjgwMCwwMDAwMDAwMGQyNjU4YWNhODY2MDVlYzg4MjA1MTIwZmE0N2YyMDdl`

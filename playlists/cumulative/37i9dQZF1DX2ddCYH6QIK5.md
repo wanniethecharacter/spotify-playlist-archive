@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: katya., Artwork: Isu Kim.
 
-643 songs - 1 day 13 hr 26 min
+644 songs - 1 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [AIIWO](https://open.spotify.com/track/3FTjiO85PtTwTPfdTu6Wl8) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [AIIWO](https://open.spotify.com/album/4sydfLJRNEKm90ka4cy6mS) | 3:24 | 2022-09-28 | 2022-11-10 |
 | [Aimee](https://open.spotify.com/track/1mzkHWbJGY9ryxrF5Ib4zb) | [BUBE](https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN) | [Aimee](https://open.spotify.com/album/4yeJju0SoAMURmAmLTGzgy) | 3:29 | 2022-08-10 | 2022-12-01 |
 | [All Flowers in Time](https://open.spotify.com/track/3zsmEoryUbJC80VXTxz6CP) | [Gloria de Oliveira](https://open.spotify.com/artist/3v9hkdHUrX788NVKB8sijb), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [All Flowers in Time](https://open.spotify.com/album/71NTMTAhRjZVcqFBTJBNKr) | 3:35 | 2022-07-27 | 2022-09-15 |
-| [All I Know](https://open.spotify.com/track/5WCv12YmfSf1j3SoswLryE) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [All I Know](https://open.spotify.com/album/1pTiNWMK1b1kfL624Q3582) | 3:09 | 2023-01-11 |  |
+| [All I Know](https://open.spotify.com/track/2BKNB7lzJTXy3qZkT0eBDW) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [All I Know](https://open.spotify.com/album/6GHRpO9xlj6SbPCp2t18H1) | 3:09 | 2023-03-08 |  |
+| [All I Know](https://open.spotify.com/track/5WCv12YmfSf1j3SoswLryE) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [All I Know](https://open.spotify.com/album/1pTiNWMK1b1kfL624Q3582) | 3:09 | 2023-01-11 | 2023-03-11 |
 | [All I Want](https://open.spotify.com/track/0mOOCAjXTjg3rNhqcSQWjA) | [JEWLS](https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw) | [All I Want](https://open.spotify.com/album/6LMDALJ7eGqZLxnN6iDeuK) | 3:34 | 2022-03-30 | 2022-06-09 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-07-27 | 2023-01-05 |
 | [alone](https://open.spotify.com/track/3TdCOswyXJ7o14L97MflDF) | [JYN](https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG) | [alone](https://open.spotify.com/album/4pmuwZkuQCrdlLsLPxsqrc) | 2:31 | 2022-11-16 | 2023-01-12 |

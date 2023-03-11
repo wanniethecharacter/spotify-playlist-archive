@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "ACTA",
+        "url": "https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "D'Addario",
+      "url": "https://open.spotify.com/track/5ZOajDfXJV3XIMMW6h4vxd"
+    },
+    {
+      "album": {
         "name": "D'Addario",
         "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 288241,
       "name": "D'Addario",
       "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
@@ -787,7 +805,7 @@
       "artists": [
         {
           "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3S1RuiWcc2b2Kbwm2zxaAl"
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
         }
       ],
       "date_added": "2023-02-28",
@@ -1087,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "ACTA",
+        "url": "https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230586,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/3rJ1cEIMLIbPOj9TIn4l1Q"
+    },
+    {
+      "album": {
         "name": "Lovesong",
         "url": "https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA"
       },
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 230587,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz"
@@ -2906,6 +2942,28 @@
       "duration_ms": 208500,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb\u30c0\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/4fMj0cYyIkt4y1rkFYAvdg"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30e9\u30b0!",
+        "url": "https://open.spotify.com/album/6QeblPvzl1ml9eiq8FudT4"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "Moto",
+          "url": "https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155396,
+      "name": "\u30bf\u30a4\u30e0\u30e9\u30b0!",
+      "url": "https://open.spotify.com/track/7wu7M8ExZ82NMbwTynD65f"
     },
     {
       "album": {

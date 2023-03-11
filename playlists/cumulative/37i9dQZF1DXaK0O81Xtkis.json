@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Mckenna Grace",
+  "description": "make it pop! cover: Walk Off The Earth",
   "name": "soda",
   "tracks": [
     {
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176223,
       "name": "cut my hair",
       "url": "https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6"
@@ -4146,7 +4146,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210000,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY"
@@ -5877,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "loner",
+        "url": "https://open.spotify.com/album/3QRGojp6gEqZf9QgxH6lMK"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "loner",
+      "url": "https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -5892,6 +5910,24 @@
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/5GlO7wj3p6cmmgT8qnFqEg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil"
     },
     {
       "album": {
@@ -5978,7 +6014,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 146640,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
@@ -7214,6 +7250,24 @@
       "duration_ms": 202955,
       "name": "Peachy",
       "url": "https://open.spotify.com/track/5VN19XwyKuWp3lfQFFB4ov"
+    },
+    {
+      "album": {
+        "name": "photograph",
+        "url": "https://open.spotify.com/album/5Pg57scBLn1dZmxxH9Gtr2"
+      },
+      "artists": [
+        {
+          "name": "Hips",
+          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137114,
+      "name": "photograph",
+      "url": "https://open.spotify.com/track/4gf0E7Le1MXPD9gtWHruoY"
     },
     {
       "album": {
@@ -9470,7 +9524,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204878,
       "name": "the way that we started (taylor)",
       "url": "https://open.spotify.com/track/36AWmLYL4tMTfZseHQHoVl"
@@ -10496,6 +10550,24 @@
       "duration_ms": 245680,
       "name": "Worlds Unluckiest Guy",
       "url": "https://open.spotify.com/track/2mS2mLKQUqmP3i2I852i1M"
+    },
+    {
+      "album": {
+        "name": "Worthless",
+        "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
     },
     {
       "album": {

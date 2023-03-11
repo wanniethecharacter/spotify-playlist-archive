@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Abe Parker",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: dee holt",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Call U After Rehab",
+        "url": "https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178077,
+      "name": "Call U After Rehab",
+      "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
+    },
+    {
+      "album": {
         "name": "can't breathe",
         "url": "https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy"
       },
@@ -1580,6 +1598,24 @@
       "duration_ms": 257881,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX"
+    },
+    {
+      "album": {
+        "name": "dishes",
+        "url": "https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160529,
+      "name": "dishes",
+      "url": "https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO"
     },
     {
       "album": {
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205243,
       "name": "Girl Who Comes Next",
       "url": "https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 165000,
       "name": "How The Story Ends",
       "url": "https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi"
@@ -3658,6 +3694,24 @@
       "duration_ms": 139655,
       "name": "July (Later On)",
       "url": "https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61"
+    },
+    {
+      "album": {
+        "name": "How The Story Ends",
+        "url": "https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169251,
+      "name": "Kinda Like The Heartbreak",
+      "url": "https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5"
     },
     {
       "album": {
@@ -7012,7 +7066,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187269,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7"

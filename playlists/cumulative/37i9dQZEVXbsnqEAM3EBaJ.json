@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 410466,
       "name": "A Self Made Man - Live",
       "url": "https://open.spotify.com/track/5kOZBQqbPEAMVGKbdfSbbs"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 153809,
       "name": "Bad Man - Kordhell Remix",
       "url": "https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 200826,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki"
@@ -159,6 +159,58 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "album": {
+        "name": "Corona Flow",
+        "url": "https://open.spotify.com/album/2f5T5nSAJusaNRTmEAhJYb"
+      },
+      "artists": [
+        {
+          "name": "Flannan",
+          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        },
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Corona Flow",
+      "url": "https://open.spotify.com/track/2TH9MV3CeqqempxwPL63Jq"
+    },
+    {
+      "album": {
         "name": "Creatures Of The Night (Live In Poughkeepsie / 1984)",
         "url": "https://open.spotify.com/album/4u7QDTMEeGqvyn1Y9OaG3F"
       },
@@ -170,10 +222,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 298106,
       "name": "Creatures Of the Night - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/72x1sWjZF7wGU72mT5iQ3E"
+    },
+    {
+      "album": {
+        "name": "Cut from the Stars",
+        "url": "https://open.spotify.com/album/4VQPOE0wGmsi3CiA8f7E3L"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326920,
+      "name": "Cut from the Stars",
+      "url": "https://open.spotify.com/track/3zqQQos627x2yRoTGKkLoI"
     },
     {
       "album": {
@@ -188,7 +258,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
@@ -363,6 +433,32 @@
     },
     {
       "album": {
+        "name": "Fotonovela (Remixes)",
+        "url": "https://open.spotify.com/album/43US9UFDiqd79U2tNFmtgD"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288250,
+      "name": "Fotonovela - Valentina Moretti Remix",
+      "url": "https://open.spotify.com/track/0mHqYfJ7wyUA6X7ByiTjNJ"
+    },
+    {
+      "album": {
         "name": "Foxglove Through The Clearcut (Acoustic)",
         "url": "https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB"
       },
@@ -374,10 +470,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 305762,
       "name": "Foxglove Through The Clearcut - Acoustic",
       "url": "https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi"
+    },
+    {
+      "album": {
+        "name": "Remember... You Must Die",
+        "url": "https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233395,
+      "name": "Fucked for Life",
+      "url": "https://open.spotify.com/track/2Ly86wAzT0zDAF7GvDj9Op"
     },
     {
       "album": {
@@ -515,6 +629,42 @@
     },
     {
       "album": {
+        "name": "H\u00e9roe del Mar",
+        "url": "https://open.spotify.com/album/3zRYMLJNO30cKNKLNmFFE2"
+      },
+      "artists": [
+        {
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "H\u00e9roe del Mar",
+      "url": "https://open.spotify.com/track/2NYAoTZ51OPmE6bHjv4ZJN"
+    },
+    {
+      "album": {
+        "name": "Asphalt Meadows (Acoustic)",
+        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167022,
+      "name": "I Miss Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
+    },
+    {
+      "album": {
         "name": "I will stay with you (Remix)",
         "url": "https://open.spotify.com/album/4x6aCPamudQqKH31pwfFh2"
       },
@@ -577,6 +727,28 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "album": {
         "name": "Internet (Interlude)",
         "url": "https://open.spotify.com/album/5tUzZcgqafFeeej2q3g0Ch"
       },
@@ -600,10 +772,36 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 136842,
       "name": "Internet - Interlude",
       "url": "https://open.spotify.com/track/5rGEEmYm3kiRcqT25J6OQK"
+    },
+    {
+      "album": {
+        "name": "Dark Waters",
+        "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Marco Hietala",
+          "url": "https://open.spotify.com/artist/7e0bTeu3OHVI2ElXbCcOHR"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330715,
+      "name": "Invictus (feat. Marko Hietala & Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/1dMOkVAZbi3VO4bCHF50BL"
     },
     {
       "album": {
@@ -640,7 +838,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 122548,
       "name": "L'Chaim!",
       "url": "https://open.spotify.com/track/0ksVGwexpfFFXCGQcAEGda"
@@ -662,10 +860,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171562,
       "name": "Lavender Haze - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
+    },
+    {
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
       "album": {
@@ -813,6 +1033,42 @@
     },
     {
       "album": {
+        "name": "My Cosmos Is Mine",
+        "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316899,
+      "name": "My Cosmos Is Mine",
+      "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "album": {
+        "name": "Werewolves of London (Live)",
+        "url": "https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213111,
+      "name": "Natural Thing - Live",
+      "url": "https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn"
+    },
+    {
+      "album": {
         "name": "Opus of the Night (Ghost Requiem)",
         "url": "https://open.spotify.com/album/7bmG9sjiv1GXgwcbZMIQZe"
       },
@@ -835,6 +1091,64 @@
     },
     {
       "album": {
+        "name": "The Jaws Of Life (Extended Version)",
+        "url": "https://open.spotify.com/album/6sABJf0k73vYJrtILegktG"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238367,
+      "name": "Pass The Nirvana - Live From When We Were Young \u201822",
+      "url": "https://open.spotify.com/track/0hsXl7bFWwjVGIrWNt3fNm"
+    },
+    {
+      "album": {
+        "name": "Playing For Time (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/6ivAharmVJNYBaffaLZXMi"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377929,
+      "name": "Playing For Time - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/4EzzZaunP8AFmQi90mrYZD"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy (Robert Smith Remix)",
+        "url": "https://open.spotify.com/album/18MpyB64oNSNnRMJOAc9XZ"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343284,
+      "name": "Pretty Boy - Robert Smith Remix",
+      "url": "https://open.spotify.com/track/4kZFWjJaG0MPKzzT8MMsn9"
+    },
+    {
+      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
@@ -850,7 +1164,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/17QLatTqOCxkoIGxdPWdkn"
@@ -879,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Quer\u00eda Olvidarte",
+        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166058,
+      "name": "Quer\u00eda Olvidarte",
+      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/7EqVVPEGA3fpoLhNaafNaP"
       },
@@ -890,10 +1226,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 275026,
       "name": "RISE",
       "url": "https://open.spotify.com/track/76czruvGQUkQyBu5IwbOLx"
+    },
+    {
+      "album": {
+        "name": "Rivers (Live At The Afas Live)",
+        "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        },
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298561,
+      "name": "Rivers - Live At The Afas Live",
+      "url": "https://open.spotify.com/track/6PRQE3khfCrdun9EmO1Fqx"
     },
     {
       "album": {
@@ -926,7 +1284,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 322720,
       "name": "She is a Fire",
       "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
@@ -969,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Sostenibile",
+        "url": "https://open.spotify.com/album/57jIf6qF9vJN29QvoiaJFu"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        },
+        {
+          "name": "Giulio Wilson",
+          "url": "https://open.spotify.com/artist/33aEMBHiyvhAdzcUZ3Nflz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Sostenibile",
+      "url": "https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f"
+    },
+    {
+      "album": {
         "name": "A Flock Of Seagulls (Deluxe)",
         "url": "https://open.spotify.com/album/4PBrFxguHrtne9aVbwWTh1"
       },
@@ -984,6 +1364,28 @@
       "duration_ms": 201481,
       "name": "Space Age Love Song - Single Edit",
       "url": "https://open.spotify.com/track/5UqeauynRpmSGVn3q9N9dq"
+    },
+    {
+      "album": {
+        "name": "State Of Unrest",
+        "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "State Of Unrest",
+      "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
     },
     {
       "album": {
@@ -1031,6 +1433,32 @@
     },
     {
       "album": {
+        "name": "Mendelssohn, Tchaikovsky & Grieg: Philharmonia Orchestra",
+        "url": "https://open.spotify.com/album/1WciFFl7pWpeX4dG2OihtF"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533333,
+      "name": "Symphony No. 4 In F Minor, Op. 36, TH.27: 4. Finale (Allegro con fuoco)",
+      "url": "https://open.spotify.com/track/6ubHw8dLBSY9znTNuUu9Pk"
+    },
+    {
+      "album": {
         "name": "Terrible Lie",
         "url": "https://open.spotify.com/album/2WSoYDdN55rm3lmGW8qSFl"
       },
@@ -1060,7 +1488,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 260935,
       "name": "The Court - Bright-Side Mix",
       "url": "https://open.spotify.com/track/17IhZb4LMagwWtAEuzMs6y"
@@ -1082,6 +1510,24 @@
       "duration_ms": 123024,
       "name": "The Eagle and the Hawk - Live 1982",
       "url": "https://open.spotify.com/track/0rPNszLdKdVhmqiqyu46YB"
+    },
+    {
+      "album": {
+        "name": "The Hardest Button To Button (Live at The Aragon Ballroom, July 2, 2003)",
+        "url": "https://open.spotify.com/album/2VjYldO7jxuagjVaiMxNPZ"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238896,
+      "name": "The Hardest Button to Button - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/0Ka1YN2wbCvHCBae0111us"
     },
     {
       "album": {
@@ -1202,7 +1648,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 335133,
       "name": "TIME WILL TELL",
       "url": "https://open.spotify.com/track/0xAhhpHyHUs5FVP7Nd2P5k"
@@ -1311,6 +1757,46 @@
     },
     {
       "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/3aGVgBtMuRrvOTdDRM9wNm"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232591,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/3R7uI90ItvU0sKeWJnrnRj"
+    },
+    {
+      "album": {
+        "name": "Venimos de la Nada",
+        "url": "https://open.spotify.com/album/0Z5hQULs2xbA7O7SowprqX"
+      },
+      "artists": [
+        {
+          "name": "Lokoflow & DonerMc",
+          "url": "https://open.spotify.com/artist/4dkaCDvamOXvhkkykoK6zL"
+        },
+        {
+          "name": "Bascur",
+          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232925,
+      "name": "Venimos de la Nada",
+      "url": "https://open.spotify.com/track/1jIdEszP5RMJZrDBIg1V7F"
+    },
+    {
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/2W4NkH2Npc7R15vaOVKve1"
       },
@@ -1370,6 +1856,42 @@
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+    },
+    {
+      "album": {
+        "name": "BETWEEN DREAD AND VALOR",
+        "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
+      },
+      "artists": [
+        {
+          "name": "GALNERYUS",
+          "url": "https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288200,
+      "name": "WITH PRIDE",
+      "url": "https://open.spotify.com/track/3VA8C7ViDQnDJxrscnW1ea"
+    },
+    {
+      "album": {
+        "name": "You Spin Me Round (Like a Record) [Re-Recorded - Sped Up]",
+        "url": "https://open.spotify.com/album/6hogAEZn8zDiDb7mPVuTIf"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223678,
+      "name": "You Spin Me Round (Like A Record) - Re-Recorded - Sped Up",
+      "url": "https://open.spotify.com/track/4uCGkxZ4F2BOMEJ4w4K9OW"
     },
     {
       "album": {

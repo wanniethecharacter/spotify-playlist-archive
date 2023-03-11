@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 1717,
+  "num_followers": 1745,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMDdiMDk2OTA3MTNiODE3ZTdkNzNjMDI2ODdhYWEyZDlm",
+  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGQ3NWQxZWE2ZmUwYWUyZGJmODIxNmE4YTFlNDQ2M2Y3",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x"
     },
     {
+      "added_at": "2023-03-11 00:32:16",
+      "album": {
+        "name": "Highway Birds",
+        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
+      },
+      "artists": [
+        {
+          "name": "Betweetle",
+          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
+        }
+      ],
+      "duration_ms": 107839,
+      "name": "Highway Birds",
+      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
+    },
+    {
       "added_at": "2023-03-01 15:55:04",
       "album": {
         "name": "Ambient Nature Serenity",
@@ -375,22 +391,6 @@
       "duration_ms": 230233,
       "name": "Park Bird Fountain",
       "url": "https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa"
-    },
-    {
-      "added_at": "2023-03-10 00:21:59",
-      "album": {
-        "name": "Highway Birds",
-        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
-      },
-      "artists": [
-        {
-          "name": "Betweetle",
-          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
-        }
-      ],
-      "duration_ms": 107839,
-      "name": "Highway Birds",
-      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -505,20 +505,20 @@
       "url": "https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87"
     },
     {
-      "added_at": "2023-03-01 15:55:04",
+      "added_at": "2023-03-11 00:32:16",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+        "name": "Warmer Seasons",
+        "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
       },
       "artists": [
         {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+          "name": "Herbird",
+          "url": "https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
+      "duration_ms": 104389,
+      "name": "Spring Approaches",
+      "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -535,6 +535,22 @@
       "duration_ms": 174300,
       "name": "Wonderful Morning",
       "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -569,20 +585,20 @@
       "url": "https://open.spotify.com/track/0Ky7FA9AeAsAGiLUW7fKUv"
     },
     {
-      "added_at": "2023-03-10 00:21:59",
+      "added_at": "2023-03-11 00:32:16",
       "album": {
-        "name": "Warmer Seasons",
-        "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
+        "name": "In the Midst of Nature",
+        "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
       },
       "artists": [
         {
-          "name": "Herbird",
-          "url": "https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S"
+          "name": "Neoaves",
+          "url": "https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK"
         }
       ],
-      "duration_ms": 104389,
-      "name": "Spring Approaches",
-      "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
+      "duration_ms": 121345,
+      "name": "In the Midst of Nature",
+      "url": "https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -599,22 +615,6 @@
       "duration_ms": 140610,
       "name": "Summer Breeze Bird",
       "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
-        "name": "Birds Of Yosemite",
-        "url": "https://open.spotify.com/album/2LtUWs6cBzRe8MXljLmGOu"
-      },
-      "artists": [
-        {
-          "name": "Feathered Tranquility",
-          "url": "https://open.spotify.com/artist/4hTxrVxFDmZqU10pME4YrC"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Birds Of Yosemite In The Morning",
-      "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
     }
   ],
   "unique_name": "Early Birds",

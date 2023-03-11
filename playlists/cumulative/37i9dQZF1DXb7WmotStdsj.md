@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-143 songs - 11 hr 33 min
+144 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bye Bye lmiziria](https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Bye Bye lmiziria](https://open.spotify.com/album/503UybXLd49aqSVhY8ufvd) | 5:29 | 2021-10-19 | 2022-12-27 |
 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 | 2022-05-11 |  |
 | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/track/7os0JnhRfMpRnq8nxmSUPN) | [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Cheb Redouane Habibi Come To Dubai](https://open.spotify.com/album/6lsOMMzoq17CjREiQrJ4CR) | 4:35 | 2022-09-20 | 2022-12-01 |
+| [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 | 2023-03-10 |  |
 | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 | 2023-02-20 |  |
 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
@@ -127,7 +128,7 @@
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 |  |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 |  |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 |  |
-| [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 | 2022-09-20 |  |
+| [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 | 2022-09-20 | 2023-03-11 |
 | [Tmanit El Mout](https://open.spotify.com/track/5NCwmr04Im459JN0IoODsP) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Tmanit El Mout](https://open.spotify.com/album/2wheBBSz3XuLejwMRXRU70) | 5:23 | 2021-10-19 |  |
 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 | 2022-09-20 | 2022-12-01 |
 | [Twahachtek ana](https://open.spotify.com/track/2kfxJQaJsGpe0eYjM8pIxE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Twahachtek ana](https://open.spotify.com/album/08QVX3oPM46w3beaRWgfGE) | 4:03 | 2021-10-19 |  |

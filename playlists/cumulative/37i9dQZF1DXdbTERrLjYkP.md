@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Abe Parker
+> Discover the next wave of talent on the scene writing their own songs\. Cover: dee holt
 
-415 songs - 22 hr 23 min
+418 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 | 2022-07-01 | 2022-12-17 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-14 | 2022-04-29 |
 | [Call My Own](https://open.spotify.com/track/2Tp03ZfNBqXL8Ny0g9e8sM) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Call My Own](https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko) | 2:55 | 2022-03-25 | 2022-04-23 |
+| [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 | 2023-03-10 |  |
 | [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 | 2022-09-09 | 2022-12-24 |
 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 | 2022-10-14 |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
@@ -95,6 +96,7 @@
 | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f) | 3:33 | 2022-01-14 | 2022-03-12 |
 | [die with my friends](https://open.spotify.com/track/3fVNNTKNNZr7qkoxk6frOL) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [die with my friends](https://open.spotify.com/album/4p0YtcDjEjfDcQ1CDclkY2) | 2:37 | 2022-04-22 | 2022-09-03 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-07 | 2023-01-28 |
+| [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-10 |  |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-11-25 |  |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-01-14 | 2022-03-12 |
@@ -136,7 +138,7 @@
 | [Getting Older](https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Getting Older](https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI) | 2:45 | 2022-04-01 | 2022-10-01 |
 | [Getting Used To](https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Getting Used To](https://open.spotify.com/album/5wnt2FQ51s2p5jnqHIXNOg) | 2:51 | 2022-04-29 | 2022-08-06 |
 | [girl like me](https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [girl like me](https://open.spotify.com/album/46ZPRtDJULJaHrTupdMMED) | 2:58 | 2022-02-11 | 2022-04-02 |
-| [Girl Who Comes Next](https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Girl Who Comes Next](https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a) | 3:25 | 2023-02-10 |  |
+| [Girl Who Comes Next](https://open.spotify.com/track/1FsHOtZKkGDFGgGCCpkLPI) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Girl Who Comes Next](https://open.spotify.com/album/3t2c2JUGJcBFMyTdbSq64a) | 3:25 | 2023-02-10 | 2023-03-11 |
 | [god has a sense of humor](https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [god has a sense of humor](https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv) | 2:50 | 2022-08-26 | 2022-10-16 |
 | [god has a sense of humor](https://open.spotify.com/track/6HCAaG7XT5DUvrzXHbGnqs) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:50 | 2022-09-09 | 2022-12-24 |
 | [god has a sense of humor](https://open.spotify.com/track/7pmV5S5LWax4FbTQpUGloD) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Autumn Leaves \- Fall Hits](https://open.spotify.com/album/4qtRqYPUttVN8x8MTRiwHh) | 2:50 | 2022-09-09 | 2022-11-13 |
@@ -172,7 +174,7 @@
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2022-12-24 |
 | [how could you?](https://open.spotify.com/track/2RCgoGVhKqbFDSKLkliiKN) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [how could you?](https://open.spotify.com/album/67LtsN5brmaYCxqVxNjI2t) | 2:40 | 2022-11-11 | 2022-12-24 |
 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 | 2022-08-05 | 2022-12-24 |
-| [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 |  |
+| [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-03-11 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-09-09 | 2022-11-13 |
@@ -210,6 +212,7 @@
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-08-06 |
 | [July \(Later On\)](https://open.spotify.com/track/1taQvtNRfKDHIV7TpzRRI4) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/5Srlo0GV4YWeDDaGEIpU0a) | 2:19 | 2022-09-09 | 2022-11-05 |
 | [July \(Later On\)](https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/67pdoqq7ID77qBa26APJ2m) | 2:19 | 2022-07-29 | 2022-11-04 |
+| [Kinda Like The Heartbreak](https://open.spotify.com/track/6GnaYqtSjiwt6tR6T0Uew5) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/2vcYcWEB5lXdzwBPheO000) | 2:49 | 2023-03-10 |  |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2022-01-14 | 2022-08-27 |
 | [Let Her Remember](https://open.spotify.com/track/5LO2ZPe4MPJqrTyGnhypyL) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:32 | 2022-07-22 | 2022-09-03 |
 | [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 | 2022-07-29 |
@@ -394,7 +397,7 @@
 | [van gogh](https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [van gogh](https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a) | 3:26 | 2022-04-15 | 2022-09-17 |
 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 | 2022-08-26 | 2022-11-12 |
 | [volkswagens](https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK) | [dora.](https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB) | [volkswagens](https://open.spotify.com/album/5lleMb5RdpoSGN8uGaOzYq) | 2:40 | 2022-03-18 | 2022-05-07 |
-| [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-20 |  |
+| [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-20 | 2023-03-11 |
 | [Watching the Moon](https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Watching the Moon](https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI) | 3:53 | 2022-11-04 | 2022-12-24 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-12-24 |
 | [Way Up](https://open.spotify.com/track/0oCnBvlZRGf5xJQfiJRMLI) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Way Up](https://open.spotify.com/album/1O8oAeo6twKIsRW6PLDUuX) | 2:30 | 2022-02-11 | 2022-02-26 |

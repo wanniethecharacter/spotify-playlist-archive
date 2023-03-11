@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b?si=Y7EFW38yR4u9fvaM0NXOyg"> MAUIMØON </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,092 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,098 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 20 | [Better days](https://open.spotify.com/track/61sCbqXhobgbwnaLGvBW91) | [Billyboi](https://open.spotify.com/artist/6qx9kEpDSaiKyXcFSV2g6t) | [Better days](https://open.spotify.com/album/6Z7AucZAC72czdSv14Vycb) | 2:58 |
 | 21 | [Ecstasy](https://open.spotify.com/track/4ny37TMReXtTuAe4LHGLaS) | [O’Rhymz](https://open.spotify.com/artist/5HH8MqsWUbNqfXCLbQz5bm) | [Ecstasy](https://open.spotify.com/album/1T70MQJjt2zrS17htJ7WtX) | 3:10 |
 | 22 | [ANITTA \(A MEDLEY OF THREE\)](https://open.spotify.com/track/3to0XXtqS8DV4h7esp18al) | [Delé](https://open.spotify.com/artist/1IwJ0937JaQRSOgfkvP2DR) | [ANITTA \(A MEDLEY OF THREE\)](https://open.spotify.com/album/2J9TEVcBxrq5lw62JW5AAz) | 2:56 |
-| 23 | [Benz \(Gra Gra\)](https://open.spotify.com/track/61xpjcBctPXL2PgAsAmc1N) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Gra Gra\)](https://open.spotify.com/album/0bT2xkQ0zLfuFWopu7gIc6) | 3:12 |
+| 23 | [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 |
 | 24 | [MA PAMI](https://open.spotify.com/track/2xAwLxGIT2mBMJgkXiuTGA) | [Dino Zee](https://open.spotify.com/artist/5eb8QAL34XTzlGYrafYKXe) | [MA PAMI](https://open.spotify.com/album/09qugEaXZXmD80P2Uuflg8) | 2:04 |
 | 25 | [So Beautiful](https://open.spotify.com/track/02AahnmINgt6wogZ4zVPtG) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Kenny Toolz](https://open.spotify.com/artist/1avUuaEu1SjqjNf3o509qi) | [So Beautiful](https://open.spotify.com/album/1hgMG9GnxameCDEBP874Y7) | 2:10 |
 | 26 | [Magical \(Morimiwu\)](https://open.spotify.com/track/5ncTgoyzNX3L5xKI9h4F0y) | [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Magical / Plenty](https://open.spotify.com/album/75rFtRcXLBeX6RId3ixiFb) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Heat Seek](https://open.spotify.com/track/3I6tt9zFcivb58YkeC20qJ) | [iamMHP](https://open.spotify.com/artist/32YFHlE9ibaRW2EJ5BiUgW), [AB Major](https://open.spotify.com/artist/4p7fcJZC4y5cMhOtyB9Y0b) | [Heat Seek](https://open.spotify.com/album/6HUJzsFRbc7R50xXKY35NI) | 2:17 |
 | 50 | [Be Free](https://open.spotify.com/track/6jT81iHttW5VwRV317yonX) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Be Free](https://open.spotify.com/album/1KA8eKZjMX1tCiY0q4mKTe) | 5:17 |
 
-Snapshot ID: `MTY3ODM0NzU3NSwwMDAwMDAwMGQwOTNlODAwNTM1NGVhYzBkYzY4YjhkYmQ0MjRkMTY5`
+Snapshot ID: `MTY3ODM0NzU3NSwwMDAwMDAwMDI4YzRlMGJkNzYyY2ZkYThhYWIyOTY2YmU2NGFhOTNh`

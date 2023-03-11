@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 138342,
       "name": "90's",
       "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 202297,
       "name": "A Machete Voy",
       "url": "https://open.spotify.com/track/2wr6BtudgpHlNE6D6cDfVR"
@@ -128,6 +128,28 @@
       "duration_ms": 128600,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/5Cn1NLa4WThiegxtoaaxFp"
+    },
+    {
+      "album": {
+        "name": "Aceites esenciales",
+        "url": "https://open.spotify.com/album/51gPyD9UEAiHAQeLTGNfBg"
+      },
+      "artists": [
+        {
+          "name": "Julieta Larrosa",
+          "url": "https://open.spotify.com/artist/6IYScRoqT3BSICdCljiLkR"
+        },
+        {
+          "name": "Tavo Rose",
+          "url": "https://open.spotify.com/artist/7C02prLnhrlwQgy4xTl1lo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197062,
+      "name": "Aceites esenciales",
+      "url": "https://open.spotify.com/track/2t6KjDdCifTrEaHVCXowfT"
     },
     {
       "album": {
@@ -238,7 +260,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210891,
       "name": "Arrepent\u00edo",
       "url": "https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ"
@@ -332,7 +354,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 130399,
       "name": "Beefsito",
       "url": "https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN"
@@ -434,6 +456,24 @@
       "duration_ms": 152794,
       "name": "BMW",
       "url": "https://open.spotify.com/track/16tiuDOR53aYCWOioh74cK"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/14Siry6ZDhLo3y1pWXJ09X"
+      },
+      "artists": [
+        {
+          "name": "R O A",
+          "url": "https://open.spotify.com/artist/1VnD5vQ8lEQM4dKMOfv4tI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156691,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j"
     },
     {
       "album": {
@@ -946,7 +986,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205660,
       "name": "En la Boca del Lobo",
       "url": "https://open.spotify.com/track/5OkeYRvjJXLTlQwDIC12e9"
@@ -1124,7 +1164,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 121657,
       "name": "Eyeliner de Katana",
       "url": "https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J"
@@ -1167,6 +1207,50 @@
     },
     {
       "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Mayki Graff",
+          "url": "https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
+    },
+    {
+      "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "juan punto",
+          "url": "https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
+    },
+    {
+      "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH"
       },
@@ -1182,6 +1266,28 @@
       "duration_ms": 150771,
       "name": "FREAKY",
       "url": "https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl"
+    },
+    {
+      "album": {
+        "name": "FreeStyle Battle",
+        "url": "https://open.spotify.com/album/5n8ZkO6LW3bxWhtpuYfrR6"
+      },
+      "artists": [
+        {
+          "name": "Martha Heredia",
+          "url": "https://open.spotify.com/artist/4NVLjSxgnzrCweDkMWUTEv"
+        },
+        {
+          "name": "MelyMel",
+          "url": "https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Freestyle Battle",
+      "url": "https://open.spotify.com/track/3UHBsNMEmsFDGkFamrPNKa"
     },
     {
       "album": {
@@ -1446,7 +1552,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
@@ -1587,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "album": {
         "name": "LQRA Session #11",
         "url": "https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC"
       },
@@ -1674,7 +1798,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 190843,
       "name": "Madre M\u00eda",
       "url": "https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT"
@@ -2092,7 +2216,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 127500,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt"
@@ -2164,7 +2288,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187122,
       "name": "Que Si Me Ves",
       "url": "https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ"
@@ -2306,7 +2430,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 198709,
       "name": "Renacer",
       "url": "https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN"
@@ -2472,7 +2596,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144000,
       "name": "Si\u00e9ntelo",
       "url": "https://open.spotify.com/track/4TV10FOELGJGeySkhEtCAY"

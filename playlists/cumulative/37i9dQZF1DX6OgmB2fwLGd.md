@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-566 songs - 23 hr 21 min
+570 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-02 | 2023-01-05 |
 | [6 Ft](https://open.spotify.com/track/0kwtcexUeuGMmduCFp6x8H) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [6 Ft](https://open.spotify.com/album/4ZcfQUAWisqbHcOL7wfYf6) | 1:43 | 2022-10-25 | 2023-01-14 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-15 |  |
-| [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 |  |
+| [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 |  |
 | [agenda](https://open.spotify.com/track/3nDjCWmn3FHTI9q8y2twLS) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [agenda](https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl) | 1:39 | 2022-02-03 | 2022-07-30 |
 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 | 2022-03-28 | 2022-09-17 |
 | [ALL MY MIGHT](https://open.spotify.com/track/7K6vDqSG3OUFTxyoY9G1Gu) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [ALL MY MIGHT](https://open.spotify.com/album/4S1mlCyeQ87cipFb0TClvA) | 2:24 | 2022-01-28 | 2022-03-13 |
@@ -218,6 +218,7 @@
 | [Giddy Up](https://open.spotify.com/track/2G0sI8JvJnccz1p22SzLde) | [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [Still Finessin'](https://open.spotify.com/album/5o4hDlHnSv6EgaMe3f8c7q) | 2:59 | 2022-09-19 | 2022-10-12 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-01-21 | 2022-05-21 |
 | [Glitz](https://open.spotify.com/track/4pDZMkTyq5YQNYLIXq0xA0) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Glitz](https://open.spotify.com/album/49gvaENr5cHU0630n5GihD) | 1:31 | 2023-01-04 | 2023-02-15 |
+| [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 | 2023-03-10 |  |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 |  |
 | [Gotsta Get Paid](https://open.spotify.com/track/6s3x9zSwfzgi1IY9iDXjYh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:17 | 2022-09-20 | 2022-11-23 |
@@ -359,6 +360,7 @@
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-23 |
 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-07 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-19 | 2022-04-26 |
+| [Naismith](https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Naismith](https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw) | 3:01 | 2023-03-10 |  |
 | [NBAYOUNGBOAT](https://open.spotify.com/track/7mfeXGMR9pzX9fOXQlCOP3) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Hip Hop Essentials](https://open.spotify.com/album/2ka2rleIYCZ2EVF7gMvjV5) | 2:19 | 2022-04-26 | 2022-05-28 |
 | [Need](https://open.spotify.com/track/1YeEq1cEWsYbCGYPhatHdV) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/7oneUSVIt6PoefdQ36Vdo2) | 2:37 | 2023-01-19 | 2023-02-12 |
 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 | 2023-01-19 |  |
@@ -399,6 +401,7 @@
 | [Party Girlz](https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Party Girlz](https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp) | 2:13 | 2023-01-20 | 2023-02-15 |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-06-28 | 2022-08-29 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 | 2022-05-20 |
+| [Penthouse \(feat\. Zzz.\)](https://open.spotify.com/track/11HCblH3YChzvCTGUB1hcs) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 2:17 | 2023-03-10 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/6vOedMRRZuckfMknIswvLv) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Penthouse Shordy](https://open.spotify.com/album/5UvkWBdAiecCeFWJBKxv9S) | 2:06 | 2022-10-21 | 2023-02-16 |
 | [Perc & Sex](https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Goat](https://open.spotify.com/album/7blLvL09OOJcEZJXNKuFQr) | 2:34 | 2023-02-03 |  |
 | [PERM](https://open.spotify.com/track/61dXty0FR61qyVczdM49F4) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [PERM](https://open.spotify.com/album/43Yx0i7ZGODCJJaJYL3NiB) | 2:10 | 2023-02-24 |  |
@@ -513,6 +516,7 @@
 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 | 2022-06-24 | 2023-01-26 |
 | [THROW](https://open.spotify.com/track/1cz9jUbkmRSX6jZmQrrSA9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [THROW](https://open.spotify.com/album/0rCfNI2MmlJPUySxVOCmYs) | 2:18 | 2023-01-04 |  |
 | [Throw It Back \(Abow\)](https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6) | [TarioP](https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [Throw It Back \(Abow\)](https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU) | 1:10 | 2022-03-01 | 2022-03-13 |
+| [Throw It!](https://open.spotify.com/track/3fPZNaoKrRFmZQKj87pBrP) | [Spiffy The Goat](https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32) | [Throw It!](https://open.spotify.com/album/6iCdaedhXedQ5RkV6jSNGb) | 2:23 | 2023-03-10 |  |
 | [Told Me](https://open.spotify.com/track/0CLUTFC191s6Lc4WRrcPQz) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas) | 3:15 | 2022-10-25 | 2022-11-03 |
 | [Told Me](https://open.spotify.com/track/1KlESdVNnEDy7xo0CWfV6o) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/5rXK0jL7SyizDDe7om0Tqo) | 3:15 | 2022-10-25 | 2022-11-09 |
 | [Tomioka](https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV) | [Tomioka](https://open.spotify.com/album/3vNlLvYPKCWU3NTHZj4CU7) | 2:17 | 2022-08-01 | 2023-03-02 |

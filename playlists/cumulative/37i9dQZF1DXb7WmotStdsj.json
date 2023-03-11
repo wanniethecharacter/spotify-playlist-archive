@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Cheb Rochdi Djazira (Khayna)",
+        "url": "https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS"
+      },
+      "artists": [
+        {
+          "name": "Dz Prod",
+          "url": "https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193780,
+      "name": "Cheb Rochdi Djazira (Khayna)",
+      "url": "https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG"
+    },
+    {
+      "album": {
         "name": "Cheikh Mamidou Ghaltat 3omri",
         "url": "https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg"
       },
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 253404,
       "name": "Tebghih wela zkara fiya",
       "url": "https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY"

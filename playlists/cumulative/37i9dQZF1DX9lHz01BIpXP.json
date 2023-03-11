@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=YNc-DzqzRwSJsd-XlNmQ1w\">Loufi</a>\n",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=Zk6M2stsT62zTnwJushTtw\">Biggy</a> & <a href=\"https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY?si=ZTe3AACjR8qjV7UWhwKDrw\">Angie oeh</a>\n\n",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -266,6 +266,28 @@
       "duration_ms": 230186,
       "name": "Dala wat jy moet - Radio Edit",
       "url": "https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB"
+    },
+    {
+      "album": {
+        "name": "Die Way Sy",
+        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Die Way Sy",
+      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
     },
     {
       "album": {
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 219730,
       "name": "Ware Meddies",
       "url": "https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ"

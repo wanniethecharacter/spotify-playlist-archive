@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Coupdekat
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,438 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,443 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 44 | [Pluto](https://open.spotify.com/track/0MB0r8kV3q5Ev5wnus5sW2) | [bee](https://open.spotify.com/artist/67cRv3IqYI4b4rZTUg7BBs) | [Pluto](https://open.spotify.com/album/4smzOknX4k64uDt1wDYHkd) | 3:44 |
 | 45 | [Foreign](https://open.spotify.com/track/17nhEfs3spAbbwiTv4zn9r) | [L E M F R E C K](https://open.spotify.com/artist/2Q1toCgEYnoH8DGOAg0BhI) | [Foreign](https://open.spotify.com/album/2iq5yqcU0Dj2FnfMghv26d) | 2:04 |
 | 46 | [Love and Affection](https://open.spotify.com/track/1vJNibSAtRmiCgdDIWLEaN) | [Rachel Foxx](https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a) | [Love and Affection](https://open.spotify.com/album/3vSPbXrNhO1ufhv2Qx3G5b) | 2:53 |
-| 47 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 |
+| 47 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 |
 | 48 | [worm](https://open.spotify.com/track/2mHLkoaZN8uEjGH9QHTQoX) | [bedbugz](https://open.spotify.com/artist/6xJNxUyZUIaEsIS2LL9t6U) | [all hail the goblin king](https://open.spotify.com/album/1mLH9fjLiAjB2daczIKP9m) | 2:16 |
 | 49 | [confessions](https://open.spotify.com/track/2p0jJSHRku5Y6OJwmyoUIy) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [confessions](https://open.spotify.com/album/58i5yD9lydmJvWk34WtUm5) | 2:10 |
 | 50 | [Yellow Line](https://open.spotify.com/track/3kzzVvFsf6hFRhKo8rdsxD) | [Francesca May](https://open.spotify.com/artist/0gd75FL5oLPhX5iXuh7tfO) | [Yellow Line](https://open.spotify.com/album/5O0E84035B8z93w9M2ImE9) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Waste Of Time](https://open.spotify.com/track/0SfTCFDyGrB8ObcxRutVIZ) | [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Waste of Time](https://open.spotify.com/album/1NGU5buhW2VyCN061AYpzA) | 3:21 |
 | 80 | [guessed it was about me](https://open.spotify.com/track/111QDZZpRL5IiyOaTpUQIm) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [guessed it was about me](https://open.spotify.com/album/4DiOdfxS0fJxKYAqispngQ) | 3:23 |
 
-Snapshot ID: `MTY3ODMyMDAwMCwwMDAwMDAwMDczNjJkMzYwNTQwZjJhYmI1YzMyZTk2YTEzNWZiNDMy`
+Snapshot ID: `MTY3ODMyMDAwMCwwMDAwMDAwMDliMmU0M2RkYTJjMzE4NmQyNzhkNTBmN2I0Zjk4YjU3`

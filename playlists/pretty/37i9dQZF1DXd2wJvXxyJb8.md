@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > procuro novos amigos....requisito: casa com piscina...manda dm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,838 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,548 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 |
 | 2 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 3 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/24llggQslFoCamLMIg3Jka) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/2VQvcst1qXdFNY3HwfCM5H) | 2:05 |
-| 4 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/2xglzPeWAhJAdWpTmmjc38) | [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8), [Yuri Redicopa](https://open.spotify.com/artist/5SOwxtlkXWRzcbXgTd4b4I), [Mc Dede Stn](https://open.spotify.com/artist/1evrJRths0Y9virdhbQBDx) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Ff17g8o5od0tCccBy5szX) | 3:17 |
+| 4 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/2xglzPeWAhJAdWpTmmjc38) | [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Dede Stn](https://open.spotify.com/artist/1evrJRths0Y9virdhbQBDx) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Ff17g8o5od0tCccBy5szX) | 3:17 |
 | 5 | [Jogadinha do Paqueta](https://open.spotify.com/track/3BCUqGVPvirkRa6g6ipBaF) | [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc), [Dj Kaio VDM](https://open.spotify.com/artist/4Svhvvg0OdFm6zDqMqlTDN) | [Jogadinha do Paqueta](https://open.spotify.com/album/2dFhs1VeEnLYUjBEgd9GZF) | 2:25 |
 | 6 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 7 | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/track/2pEnQImOCJiCTvDv3Lu3aE) | [DJ Santos MEC](https://open.spotify.com/artist/3gFraZSNZQpoQ704aHC0Ev), [MC Tilbita](https://open.spotify.com/artist/6H2IOr8ZJ3LMbxrVPRMiQL), [MC Alequinho](https://open.spotify.com/artist/3dMVoraROonQpHTN4S7l2e) | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/album/7AVAzg0DN8Shw2yKofxBQM) | 2:46 |

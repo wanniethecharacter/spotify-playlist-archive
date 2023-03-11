@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Felipe Vilela",
-  "num_followers": 61666,
+  "num_followers": 61704,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDk0NjQ0ODUxMzM5N2M2ZjExMGIwOTZkZjMzZTVmZTdi",
+  "snapshot_id": "MTY3NzIzNzc0MiwwMDAwMDAwMDA5NGI0YmFiY2Q4ZDZlZTRkNzYxYmIyNDZkMjY3Njli",
   "tracks": [
     {
       "added_at": "2023-02-03 03:00:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
     },
     {
-      "added_at": "2023-03-10 00:24:08",
+      "added_at": "2023-03-11 00:15:43",
       "album": {
         "name": "Melhor Lugar",
         "url": "https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL"
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
+      "added_at": "2023-03-11 00:15:43",
+      "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
+      },
+      "artists": [
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Me Ensina a Viver",
@@ -235,22 +251,6 @@
       "duration_ms": 310312,
       "name": "Me Ensina a Viver",
       "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
-    },
-    {
-      "added_at": "2023-03-10 00:24:08",
-      "album": {
-        "name": "Vai Ser Melhor",
-        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
-      },
-      "artists": [
-        {
-          "name": "Dani Ferber",
-          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Vai Ser Melhor",
-      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+        "name": "Vida Leve",
+        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
         }
       ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
+      "duration_ms": 176417,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Vida Leve",
-        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "meu lugar",
         "url": "https://open.spotify.com/album/4q0wzcfAqJH6kgTPdz4Cfw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 250280,
       "name": "meu lugar",
       "url": "https://open.spotify.com/track/7ipxdnPLb7NnkEqAjAAfJK"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -415,26 +415,6 @@
       "duration_ms": 271631,
       "name": "Daqui pra Frente",
       "url": "https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "Aprendiz",
-        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 222403,
-      "name": "Aprendiz",
-      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -521,6 +501,42 @@
       "url": "https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT"
     },
     {
+      "added_at": "2023-03-11 00:15:43",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 222403,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
+    },
+    {
       "added_at": "2023-02-03 03:00:00",
       "album": {
         "name": "Leif Bessa - Ac\u00fastico",
@@ -535,22 +551,6 @@
       "duration_ms": 280235,
       "name": "Caminhada",
       "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-03-10 00:24:08",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
         "name": "\u00c9 de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 196306,
       "name": "\u00c9 de Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2023-02-03 03:00:00",
+      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 204173,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
-    },
-    {
-      "added_at": "2023-02-03 03:00:00",
-      "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Planos Melhores",
-        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
+        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
       },
       "artists": [
         {
-          "name": "Andressa Cordeiro",
-          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
         }
       ],
-      "duration_ms": 184991,
-      "name": "Planos Melhores",
-      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
+      "duration_ms": 186947,
+      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
     },
     {
       "added_at": "2023-02-03 03:00:00",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-02-03 03:00:00",
       "album": {
-        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
+        "name": "Planos Melhores",
+        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
       },
       "artists": [
         {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+          "name": "Andressa Cordeiro",
+          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
+      "duration_ms": 184991,
+      "name": "Planos Melhores",
+      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
     },
     {
       "added_at": "2023-02-03 03:00:00",

@@ -4,7 +4,7 @@
 
 > all\-day bops you can always rely on ◡̈
 
-391 songs - 21 hr 57 min
+392 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-12-22 | 2022-07-29 |
 | [I Do This All The Time](https://open.spotify.com/track/6Pgc3ulraOY7usQgIaIpK6) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [I Do This All The Time](https://open.spotify.com/album/2fOkjRk00FwotcjUliTv6x) | 4:51 | 2022-03-31 | 2022-04-16 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-12-22 | 2022-07-29 |
-| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49) | 3:15 | 2021-12-22 |  |
+| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/3oqztHfES8jYMyrxPMzWwc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/album/4Rmv2DGTZuxsULDbhU5L49) | 3:15 | 2021-12-22 | 2023-03-11 |
 | [I Eat Boys](https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Eat Boys](https://open.spotify.com/album/7pVckQv8uworjO5MOXuBUp) | 2:42 | 2021-12-22 | 2022-07-23 |
 | [I Hope You Understand](https://open.spotify.com/track/2IyWpZBEqy0kfZl0XRCNrB) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:09 | 2021-12-22 | 2022-07-27 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-12-22 | 2022-07-22 |
@@ -243,6 +243,7 @@
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-12-22 | 2022-04-16 |
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2021-12-22 | 2022-07-28 |
 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 | 2022-03-31 | 2022-04-18 |
+| [Neon Signs](https://open.spotify.com/track/6JZj85Iz5sc4cGKvOefO7G) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Milk Teeth](https://open.spotify.com/album/2SH7pbrUVL6DRWB6g8BALw) | 3:13 | 2023-01-04 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-11-27 |  |
 | [Nightcrawler](https://open.spotify.com/track/5Vv84O4hpfW3yVJokveL0b) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Nightcrawler](https://open.spotify.com/album/27cBacBiyauBUk0z6kQuCn) | 2:19 | 2022-02-04 | 2022-07-10 |
 | [Nightmare](https://open.spotify.com/track/7aqqCdWDJKqDbrzXOqbBJc) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Nightmare](https://open.spotify.com/album/4A9Fn6iX6K5OvY2yZJ0663) | 4:31 | 2021-12-22 | 2022-07-26 |

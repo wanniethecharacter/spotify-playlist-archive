@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-157 songs - 9 hr 47 min
+158 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 | 2022-11-18 |  |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-07-01 |  |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-29 |  |
-| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 |  |
+| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 | 2023-03-11 |
 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 | 2022-05-25 |  |
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 |  |
 | [Rollin' On \(Acoustic\)](https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 4:18 | 2023-02-24 |  |
@@ -162,6 +162,7 @@
 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2022-05-25 | 2022-07-29 |
 | [Worried Life Blues](https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 2:55 | 2023-01-13 |  |
 | [Wounded Dog](https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco) | [Bo Ramsey](https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd), [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [How Many Miles](https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0) | 3:58 | 2022-05-25 |  |
+| [Yellow Peril](https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9) | 3:24 | 2023-03-11 |  |
 | [Yonder Wall](https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:22 | 2022-05-25 |  |
 | [You Found Another Lover \(I Lost Another Friend\) \- The Machine Shop Session](https://open.spotify.com/track/2ElTJmWJbuHT7owpTe3upS) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Get Up! \(Deluxe Edition\)](https://open.spotify.com/album/1xu9bQjnB72GNFeH31UDX7) | 4:21 | 2022-05-25 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2022-05-25 |  |

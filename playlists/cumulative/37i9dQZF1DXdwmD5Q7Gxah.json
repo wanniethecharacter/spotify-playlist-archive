@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "All the indescribable feelings that music gives you. cover: quinnie",
+  "description": "All the indescribable feelings that music gives you. cover: d4vd",
   "name": "Lorem",
   "tracks": [
     {
@@ -711,7 +711,7 @@
     },
     {
       "album": {
-        "name": ">one",
+        "name": ">one (greater than one)",
         "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
       "artists": [
@@ -728,7 +728,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 130666,
-      "name": ">one",
+      "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 154621,
       "name": "burning love letters",
       "url": "https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I"
@@ -11279,6 +11279,24 @@
     },
     {
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Failed at Math(s)",
+      "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"
+    },
+    {
+      "album": {
         "name": "Fairytale (feat. Rachel Chinouriri)",
         "url": "https://open.spotify.com/album/5ve8QzX3p45KF77SiZjrCn"
       },
@@ -13676,7 +13694,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 119862,
       "name": "Going On (feat. Bickleboy & Nana Lourdes)",
       "url": "https://open.spotify.com/track/6MPjem0pchL2al9Yapa4Zc"
@@ -14944,6 +14962,24 @@
       "duration_ms": 190030,
       "name": "HEADSTART",
       "url": "https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI"
+    },
+    {
+      "album": {
+        "name": "headstrong gunner",
+        "url": "https://open.spotify.com/album/2F4tvdjZIfNQhQUh2iCgjt"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115651,
+      "name": "headstrong gunner",
+      "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
     },
     {
       "album": {
@@ -18107,6 +18143,24 @@
     },
     {
       "album": {
+        "name": "It'll Be (Video Game Song)",
+        "url": "https://open.spotify.com/album/7BeEHdYtewit660EQqHkoX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "It'll Be (Video Game Song)",
+      "url": "https://open.spotify.com/track/0sf3xGYw4tYQAWJpfPALJH"
+    },
+    {
+      "album": {
         "name": "Santolina",
         "url": "https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz"
       },
@@ -20097,6 +20151,24 @@
     },
     {
       "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval"
       },
@@ -21318,7 +21390,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
@@ -24118,7 +24190,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
@@ -27871,6 +27943,24 @@
     },
     {
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "album": {
         "name": "The Virgins",
         "url": "https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj"
       },
@@ -28620,6 +28710,24 @@
       "duration_ms": 228877,
       "name": "Sailor",
       "url": "https://open.spotify.com/track/2cHuQV2Iag6phx3viexosw"
+    },
+    {
+      "album": {
+        "name": "Sally",
+        "url": "https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo"
+      },
+      "artists": [
+        {
+          "name": "gigi",
+          "url": "https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273935,
+      "name": "Sally",
+      "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
     },
     {
       "album": {
@@ -29772,6 +29880,28 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/07dRjnkeSazozZ16S07Nee"
+    },
+    {
+      "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
     },
     {
       "album": {
@@ -32676,6 +32806,24 @@
       "duration_ms": 270960,
       "name": "Summertime In Paris",
       "url": "https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456026,
+      "name": "Sun Bleached Flies",
+      "url": "https://open.spotify.com/track/6fKIyDJHZ9m84jRhSmpuwS"
     },
     {
       "album": {
@@ -37130,7 +37278,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "150",
+        "url": "https://open.spotify.com/album/6WtIuVl31By54AycY3tUHa"
+      },
+      "artists": [
+        {
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161663,
+      "name": "150",
+      "url": "https://open.spotify.com/track/1ZXqp0VNLjSOp561q0ibGy"
+    },
+    {
+      "album": {
         "name": "2 Pa' 2",
         "url": "https://open.spotify.com/album/6Mp4YC9YfYpNzKSUgd7BQs"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 164671,
       "name": "El Show - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/28Ec7cItD1pr4346e4kB5Y"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
@@ -3780,6 +3798,28 @@
       "duration_ms": 227943,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
+    },
+    {
+      "album": {
+        "name": "Mix El Polaco - Fer Palacio",
+        "url": "https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366812,
+      "name": "Mix El Polaco - Fer Palacio",
+      "url": "https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e"
     },
     {
       "album": {
@@ -4494,7 +4534,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 135300,
       "name": "Pedacitos",
       "url": "https://open.spotify.com/track/3oE3m87poec2KAZyTV6JOA"
@@ -5287,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "Se me va la voz / Normal",
+        "url": "https://open.spotify.com/album/3lEPODcqZx2MNFj1xbXAd8"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242073,
+      "name": "Se me va la voz / Normal",
+      "url": "https://open.spotify.com/track/717a02PPNnSexxZySWaG9t"
+    },
+    {
+      "album": {
         "name": "Se Pic\u00f3",
         "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
@@ -5907,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/5g9KwuwR7JYhTHbjEBZGhn"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161384,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/5RAIRR63s7Xz23k2JyMd49"
+    },
+    {
+      "album": {
         "name": "Te Extra\u00f1o :(",
         "url": "https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ"
       },
@@ -6304,7 +6380,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 196355,
       "name": "Tr\u00e1tame Suavemente",
       "url": "https://open.spotify.com/track/2v7coZkORX56UIDXh6P1kU"

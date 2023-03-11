@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "a capella",
+        "url": "https://open.spotify.com/album/1NaxNI23UhvInBHuSRVPMZ"
+      },
+      "artists": [
+        {
+          "name": "Ylvis",
+          "url": "https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189830,
+      "name": "a capella",
+      "url": "https://open.spotify.com/track/4ybIzIHqYo2bAH7sUrk6va"
+    },
+    {
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 141341,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
@@ -56,6 +74,40 @@
       "duration_ms": 174720,
       "name": "All About That Bass (No Tenors)",
       "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
+    },
+    {
+      "album": {
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "The Filharmonic",
+          "url": "https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz"
+        },
+        {
+          "name": "The Cantasticos",
+          "url": "https://open.spotify.com/artist/2fv2BgHuiUQhkyPybnlMJM"
+        },
+        {
+          "name": "The Singboks",
+          "url": "https://open.spotify.com/artist/4X73QHiBXm9IoEIRSOHKNz"
+        },
+        {
+          "name": "Penn Masala",
+          "url": "https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116280,
+      "name": "Any Way You Want It (World Championship Medley) - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/0gzErVl20ICsw6LmoPIdqb"
     },
     {
       "album": {
@@ -104,7 +156,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -144,6 +196,24 @@
       "duration_ms": 90653,
       "name": "Back To Basics - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/7dKwAcCco3sF1l6T4oIufU"
+    },
+    {
+      "album": {
+        "name": "without u",
+        "url": "https://open.spotify.com/album/044xgw03G4nxWPwy156y39"
+      },
+      "artists": [
+        {
+          "name": "Unaccompanied",
+          "url": "https://open.spotify.com/artist/1JaV3Lijwc7BrobyzYZehX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170362,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/7jp2kqZNAw3LfLAohbxY8n"
     },
     {
       "album": {
@@ -194,7 +264,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 105013,
       "name": "Before He Cheats",
       "url": "https://open.spotify.com/track/4xBmdY8IqVypz6M63YdiBN"
@@ -270,10 +340,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179053,
       "name": "Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl",
       "url": "https://open.spotify.com/track/1ac7570OG3cTPYRXnpssg8"
+    },
+    {
+      "album": {
+        "name": "Pitch Slapped - EP",
+        "url": "https://open.spotify.com/album/4bvu2oLQsuHWZZQ6k8jFut"
+      },
+      "artists": [
+        {
+          "name": "Pitch Slapped",
+          "url": "https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197441,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/40c9ifAThZzmQPmmSVIfeI"
     },
     {
       "album": {
@@ -378,7 +466,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195480,
       "name": "Coffee In Bed",
       "url": "https://open.spotify.com/track/2AI3ZqvfHy3hTvdM9oRMYs"
@@ -421,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Craniotomy",
+        "url": "https://open.spotify.com/album/1pxpxAjxmuQODqUXY1PxuK"
+      },
+      "artists": [
+        {
+          "name": "Backtrack",
+          "url": "https://open.spotify.com/artist/3s47Oxqvp3YxaYqMlDYngq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Craniotomy",
+      "url": "https://open.spotify.com/track/2Gpx84GNP3ERUdlFoWn39f"
+    },
+    {
+      "album": {
         "name": "The Sing-Off: The Best of Season 2",
         "url": "https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR"
       },
@@ -432,7 +538,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Creep - Studio Version",
       "url": "https://open.spotify.com/track/0bkEVRYVWuKBCWOX6kY2kT"
@@ -450,7 +556,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 100026,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
@@ -666,7 +772,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
@@ -720,7 +826,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 246706,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
@@ -798,7 +904,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 216087,
       "name": "Give Your Heart a Break",
       "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
@@ -816,7 +922,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 198600,
       "name": "Grace Kelly - Studio Version",
       "url": "https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu"
@@ -834,7 +940,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf"
@@ -852,10 +958,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206135,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij"
+    },
+    {
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/610eR17cWXL3ACEeRSD7bK"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240728,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/3PuyxXYV56lFfak4aHgKKQ"
     },
     {
       "album": {
@@ -870,10 +994,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 110106,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK"
+    },
+    {
+      "album": {
+        "name": "In Our Element",
+        "url": "https://open.spotify.com/album/6ZFCEw0KxX2XiOkIUTBW4k"
+      },
+      "artists": [
+        {
+          "name": "Oxford Out Of The Blue",
+          "url": "https://open.spotify.com/artist/4qleUPvfVlB1Sg0ONKbhPB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/5bSagD6vNMzqacmO0xFNx4"
     },
     {
       "album": {
@@ -906,7 +1048,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 206880,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
@@ -986,10 +1128,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188549,
       "name": "I'll Make a Man Out of You",
       "url": "https://open.spotify.com/track/1jlSXth3CCNaXeioY1tRM4"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Celebration (Live)",
+        "url": "https://open.spotify.com/album/4gwjU8SKnXr4ygkm17kSwI"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "I'm Yours / Over The Rainbow / One Love (People Get Ready) / Three Little Birds - Live",
+      "url": "https://open.spotify.com/track/0k9x2297BLH1KQVtK9i8Sf"
     },
     {
       "album": {
@@ -1040,10 +1200,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 109213,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/6nbjZ2Jl8yjSZ964YDeRLy"
+    },
+    {
+      "album": {
+        "name": "Thrill of the Chase",
+        "url": "https://open.spotify.com/album/0sgpLKLyqxMrhUIB13wNtO"
+      },
+      "artists": [
+        {
+          "name": "Juxtaposition",
+          "url": "https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183228,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7l7g31cmNrt1XSnB7x5jWb"
     },
     {
       "album": {
@@ -1112,7 +1290,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176813,
       "name": "Landslide - Studio Version",
       "url": "https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME"
@@ -1166,7 +1344,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220452,
       "name": "Let It Go - Single Version",
       "url": "https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y"
@@ -1184,7 +1362,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 158146,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/6bOFuQmZdmvre9pwOsuTzd"
@@ -1218,10 +1396,32 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "album": {
+        "name": "Man in the Mirror",
+        "url": "https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5"
+      },
+      "artists": [
+        {
+          "name": "The Swingles",
+          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
+        },
+        {
+          "name": "Vad\u00e9",
+          "url": "https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303010,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
     },
     {
       "album": {
@@ -1236,7 +1436,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love",
       "url": "https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67"
@@ -1330,7 +1530,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 74059,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn"
@@ -1391,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "PTX",
+        "url": "https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148746,
+      "name": "Problem (Ariana Grande Cover)",
+      "url": "https://open.spotify.com/track/5wHUvSe3ALlFfp8VsWmvIA"
+    },
+    {
+      "album": {
         "name": "Morning Warriors",
         "url": "https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs"
       },
@@ -1402,7 +1620,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
@@ -1464,7 +1682,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9"
@@ -1482,7 +1700,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "Remix to Ignition",
       "url": "https://open.spotify.com/track/5q1CMrZQ9LIjjzOoYlz0Fo"
@@ -1723,6 +1941,28 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178376,
+      "name": "Sensitive (feat. Scott Hoying)",
+      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
+    },
+    {
+      "album": {
         "name": "Full Disclosure",
         "url": "https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu"
       },
@@ -1860,10 +2100,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183466,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4247FwxHfmtIJgILhAKjaa"
+    },
+    {
+      "album": {
+        "name": "Stayaway",
+        "url": "https://open.spotify.com/album/0UyL8xAuNFeI6RW1gLBzHb"
+      },
+      "artists": [
+        {
+          "name": "The Nor'easters",
+          "url": "https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Stayaway",
+      "url": "https://open.spotify.com/track/3tXk3bIesKSR4OZwjl75sE"
     },
     {
       "album": {
@@ -1962,7 +2220,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 160840,
       "name": "Text Me Merry Christmas (feat. Kristen Bell)",
       "url": "https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC"
@@ -1998,7 +2256,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
@@ -2034,7 +2292,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205173,
       "name": "The Greatest Show - Bonus Track",
       "url": "https://open.spotify.com/track/34GTE14mHrS6mj4Jf31OME"
@@ -2088,7 +2346,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"
@@ -2232,7 +2490,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"

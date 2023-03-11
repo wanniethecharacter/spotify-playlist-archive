@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Argentina en la casa! Foto: Lauty Gram & Omar Varela.",
+  "description": "Argentina en la casa! Foto: Yami Safdie.",
   "name": "Reggaet\u00f3n Argentino",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Chau, Bye",
+        "url": "https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0"
+      },
+      "artists": [
+        {
+          "name": "J Gonz",
+          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144006,
+      "name": "Chau, Bye",
+      "url": "https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ"
+    },
+    {
+      "album": {
         "name": "CHIN CHIN",
         "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
       },
@@ -566,6 +584,28 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Est\u00e1s?",
+        "url": "https://open.spotify.com/album/2VEcetqb7yEZD9arTcyW8b"
+      },
+      "artists": [
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184834,
+      "name": "C\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/0m8tCUvlPfx5bU1CHA73aR"
     },
     {
       "album": {
@@ -1856,6 +1896,24 @@
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
+    },
+    {
+      "album": {
+        "name": "Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126641,
+      "name": "Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Underoath
+> Metalcore at its finest\. Cover: The Plot In You
 
-651 songs - 1 day 17 hr 8 min
+656 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Anger](https://open.spotify.com/track/48oseEsllN8BoGcjMARDyX) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Anger](https://open.spotify.com/album/31YVc9WzhyGg1Dsb7QaoEO) | 3:26 | 2022-07-13 | 2022-07-23 |
 | [Annihilist](https://open.spotify.com/track/2TyPzCadt6hCr1TWRxUgso) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Annihilist](https://open.spotify.com/album/0opaKmS2lnPYlhj0PLTn4P) | 4:10 | 2022-07-13 | 2022-07-23 |
 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 | 2022-05-27 | 2022-12-17 |
+| [ANTAGONIST RETURNS](https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm) | [The Worst of Us](https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [THE AKUMA](https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW) | [ANTAGONIST RETURNS](https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb) | 3:37 | 2023-03-10 |  |
 | [Antipathy](https://open.spotify.com/track/5P7QFVkK4kSlS32Ue1JaOe) | [Pridelands](https://open.spotify.com/artist/33IjrsSZFfDC0ZE0cZXtOR) | [Antipathy](https://open.spotify.com/album/56YMEcm1AOvJ6i9EaSEvUe) | 4:12 | 2022-01-14 | 2022-03-18 |
 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 | 2022-07-13 | 2022-07-23 |
@@ -388,6 +389,7 @@
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-04-01 | 2022-06-11 |
+| [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 |  |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-03-25 | 2022-04-15 |
@@ -443,6 +445,7 @@
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
+| [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 | 2023-03-10 |  |
 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 |  |
 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-20 |
 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 | 2022-01-28 | 2022-04-23 |
@@ -478,7 +481,7 @@
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |
-| [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 | 2022-12-10 |  |
+| [Rise](https://open.spotify.com/track/6gWUB6hS6SuyvaKzYAltn8) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Rise](https://open.spotify.com/album/78EFhqgH0Ho0EfcWvqWi3w) | 4:42 | 2022-12-10 | 2023-03-11 |
 | [Rot in Flesh](https://open.spotify.com/track/5x7gHN66A2h1m52fTsWYjG) | [Bleed The Sky](https://open.spotify.com/artist/5Uja5NwAaord75KaD0jLXv) | [Rot in Flesh](https://open.spotify.com/album/6SGxC2zPYKdyBIYsIfQoK7) | 3:57 | 2022-07-13 | 2022-07-18 |
 | [Rot With Me](https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1) | [For the Likes of You](https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC) | [Rot With Me](https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz) | 4:46 | 2022-07-13 | 2022-07-21 |
 | [Rule Of Seven](https://open.spotify.com/track/1bLcSZc353HB2EArKlTZF7) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Rule Of Seven](https://open.spotify.com/album/5fvpPMUvCSvl8yH180cjhU) | 3:36 | 2022-07-13 | 2022-07-15 |
@@ -490,6 +493,7 @@
 | [Samsara](https://open.spotify.com/track/75hUTjvvI6X6CQJ0HvmmX8) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Samsara](https://open.spotify.com/album/1aJPBAfywf1Vsi5vkvSMMV) | 3:44 | 2021-12-17 | 2022-02-18 |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Satanic Panic](https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG) | 3:19 | 2022-07-13 | 2022-07-23 |
+| [Scars](https://open.spotify.com/track/2vBwejT7xi8pDeGYxmY8vi) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Scars](https://open.spotify.com/album/4JpyEPmtqUY38STlkVZrFM) | 3:31 | 2023-03-10 |  |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2022-07-13 | 2022-07-22 |
 | [Second Circle](https://open.spotify.com/track/7xK4zeYArpNpd7U2AuclH7) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Second Circle](https://open.spotify.com/album/0zFSXVpqMcE7m4auGN2Bb6) | 3:33 | 2022-01-14 | 2022-04-29 |
 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 | 2022-04-29 | 2022-06-11 |
@@ -629,6 +633,7 @@
 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
+| [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 | 2023-03-10 |  |
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |

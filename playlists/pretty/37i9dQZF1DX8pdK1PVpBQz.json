@@ -1,6 +1,6 @@
 {
   "description": "Discover something new from local independent artists on the rise. Cover: IN2STELLAR",
-  "num_followers": 10111,
+  "num_followers": 10112,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -514,6 +514,10 @@
         {
           "name": "Leaping Tiger",
           "url": "https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm"
+        },
+        {
+          "name": "Church & AP",
+          "url": "https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z"
         }
       ],
       "duration_ms": 228000,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Jozzy",
+  "description": "R&B of the moment by the artists of the future. Cover: Kenya Vaun",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "album": {
         "name": "chosen",
         "url": "https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 181144,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 181816,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t"
@@ -5513,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
+    },
+    {
+      "album": {
         "name": "Life Is Good (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6rdfmpRVrUn1B7Q8rSCHZj"
       },
@@ -6623,6 +6659,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180545,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
+    },
+    {
+      "album": {
         "name": "Um, Hello",
         "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
       },
@@ -6895,6 +6949,24 @@
     },
     {
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
+      "album": {
         "name": "P.B.J.",
         "url": "https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I"
       },
@@ -7044,7 +7116,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 130923,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/7GJq8XxZby3QLdubVkevYs"
@@ -7930,7 +8002,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210910,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"
@@ -8134,6 +8206,24 @@
       "duration_ms": 205500,
       "name": "Screamin'",
       "url": "https://open.spotify.com/track/3xhN99234Mw8VmDLbgefpK"
+    },
+    {
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160420,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0lS0geQygvDip8D1NxwQ6X"
     },
     {
       "album": {
@@ -9224,7 +9314,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204033,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"

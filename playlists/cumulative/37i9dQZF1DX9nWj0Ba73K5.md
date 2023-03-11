@@ -4,7 +4,7 @@
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1EFIdYyRJP5AlN?si=69e48d764e2b49d1"> Kyle Jacobs</a>.
 
-224 songs - 12 hr 59 min
+225 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Forever And Ever, Amen](https://open.spotify.com/track/2Y7xnkrBRhWeE0VeTONma6) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 5:21 | 2022-01-01 |  |
 | [Fuzzy](https://open.spotify.com/track/054DVXQK0w2caEVaxsTaH1) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:06 | 2022-01-01 |  |
 | [Galveston](https://open.spotify.com/track/00m0MStA0s0ciZ1lgYahEn) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:48 | 2022-01-01 |  |
-| [Girl Crush](https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 |  |
+| [Girl Crush](https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 | 2023-03-11 |
+| [Girl Crush](https://open.spotify.com/track/0S5hQtbXJXfzQjXCPASHtZ) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Girl Crush](https://open.spotify.com/album/5xYMK6JwHqIc0TCg6rB3tF) | 3:40 | 2023-03-10 |  |
 | [Give It Away](https://open.spotify.com/track/6y921kRVGQUZC1bYWk8Tsp) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [Give It Away](https://open.spotify.com/album/2xk2LDAEFBTY684mmSToCj) | 3:19 | 2022-01-01 |  |
 | [Good Friends](https://open.spotify.com/track/5hpgayozHqTQR2T8vraMHt) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 3:12 | 2022-01-01 |  |
 | [Good Guys Win](https://open.spotify.com/track/776bUrQyDGPUwN2uthS2l8) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:28 | 2022-01-01 |  |

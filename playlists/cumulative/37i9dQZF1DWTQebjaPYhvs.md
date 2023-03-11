@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-205 songs - 12 hr 48 min
+206 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [One Good Decision](https://open.spotify.com/track/2DQOL9yHgq9OLTUhyHPKm3) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 2:59 | 2022-12-12 | 2023-01-07 |
 | [Only Memories](https://open.spotify.com/track/0GTJRZEHoE1nssjhtJVuTd) | [Bill Morgan](https://open.spotify.com/artist/3JBT77qabs9oEGFBYVvQ8T) | [The Color of Music: Only Memories](https://open.spotify.com/album/6pNck3BD4P9TtEOy0WqTd6) | 3:06 | 2021-12-17 |  |
 | [Orange Bus](https://open.spotify.com/track/61u88CKSEw98wssFk8kexC) | [Brock Tyler](https://open.spotify.com/artist/4T0Qlfv0mPuMiX9PBaRkeb) | [Unclosing](https://open.spotify.com/album/6Wnbm2suEM9WbHqNcWptiJ) | 1:21 | 2019-08-23 |  |
-| [Outlaw Shit](https://open.spotify.com/track/0xXclRFq5QAkSk5WAsrXHF) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [The .357s](https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c) | [Waylon Forever](https://open.spotify.com/album/70GxlBCHNqp0MJ7GSfBNjh) | 5:30 | 2019-08-12 |  |
+| [Outlaw Shit](https://open.spotify.com/track/0xXclRFq5QAkSk5WAsrXHF) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [The .357s](https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c) | [Waylon Forever](https://open.spotify.com/album/70GxlBCHNqp0MJ7GSfBNjh) | 5:30 | 2019-08-12 | 2023-03-11 |
+| [Outlaw Shit](https://open.spotify.com/track/6hPyZ1hZK8j73Ezf6qHotf) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [The .357s](https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c) | [Waylon Forever](https://open.spotify.com/album/4hFmvqPVhvOgFssTpFQHHu) | 5:30 | 2019-08-12 |  |
 | [Owe You Nothing \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/1HOwhhye7IG59UzFUGtlPW) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Owe You Nothing \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/2GxLlKCckfeHCmO6gmXayd) | 5:23 | 2019-08-01 |  |
 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 | 2020-06-29 |  |
 | [Peace in the Pines](https://open.spotify.com/track/3Aw7AkVsRDZfcJ4LfGCDj0) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Everything Has Changed](https://open.spotify.com/album/0A0R2bKlLS2U3uICL3nwFn) | 3:39 | 2022-01-03 |  |

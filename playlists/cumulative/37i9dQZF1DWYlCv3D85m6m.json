@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "One in a million! TWICE! MOONLIGHT SUNRISE is here!",
+  "description": "One in a million! TWICE! SET ME FREE is here!",
   "name": "This Is TWICE",
   "tracks": [
     {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "BLAME IT ON ME",
+      "url": "https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J"
+    },
+    {
+      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd"
       },
@@ -578,6 +596,24 @@
       "duration_ms": 147320,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "CRAZY STUPID LOVE",
+      "url": "https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75"
     },
     {
       "album": {
@@ -1208,6 +1244,24 @@
       "duration_ms": 231233,
       "name": "Good at Love",
       "url": "https://open.spotify.com/track/4rZ6LHapeH1Cnxgvu8SrFK"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "GOT THE THRILLS",
+      "url": "https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah"
     },
     {
       "album": {
@@ -2515,6 +2569,42 @@
     },
     {
       "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE (ENG)",
+      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
+    },
+    {
+      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh"
       },
@@ -3088,6 +3178,24 @@
       "duration_ms": 211799,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0CvJiFydKzLSQUn6McFPrb"
+    },
+    {
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "WALLFLOWER",
+      "url": "https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y"
     },
     {
       "album": {

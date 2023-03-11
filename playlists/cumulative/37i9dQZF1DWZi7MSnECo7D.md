@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-334 songs - 19 hr 2 min
+337 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [enquanto isso...](https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ) | [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [enquanto isso...](https://open.spotify.com/album/31aNUqj3CvyC3r7rRSGbNS) | 3:23 | 2022-01-14 | 2022-01-22 |
 | [enterro dos ossos](https://open.spotify.com/track/2y1IMBalLAnBfljmc5E8iB) | [Gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [enterro dos ossos](https://open.spotify.com/album/763NGc1NT0bfk4DjfLUmcH) | 2:51 | 2022-04-15 | 2022-05-07 |
 | [Errare Humanum Est](https://open.spotify.com/track/2v95wNLuJPSTlA77BzLgf5) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [O Paraíso](https://open.spotify.com/album/1D4MVmHzpqIF7OApaXpFTt) | 5:09 | 2023-01-13 |  |
+| [Espaço](https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8) | [Truno](https://open.spotify.com/artist/7L3mzGXS63zp79NOHXwUqV), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Espaço](https://open.spotify.com/album/6Eqw1khsQ5TUcekYMqbuaR) | 1:57 | 2023-03-10 |  |
 | [Espelho Infinito](https://open.spotify.com/track/2c035MzNnX6LbBAqqIY74L) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Espelho Infinito](https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB) | 4:03 | 2022-05-13 | 2022-06-25 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
 | [Essa Garoa](https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 2](https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu) | 4:00 | 2022-09-30 | 2022-11-05 |
@@ -118,6 +119,7 @@
 | [Estrago](https://open.spotify.com/track/6AFM8iycKKMnOxqh6JrJ1C) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Atenta](https://open.spotify.com/album/1SdXaCPYYjBg2ssFKoQfVw) | 3:01 | 2022-03-11 | 2022-03-26 |
 | [Estrago](https://open.spotify.com/track/7guu5QTbzpxrt0jbKqF3X8) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Estrago](https://open.spotify.com/album/6n6ychgsjSX4AsAmPcyCT4) | 3:49 | 2022-04-08 | 2022-06-25 |
 | [Eu Ainda Te Quero](https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG) | [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Eu Ainda Te Quero](https://open.spotify.com/album/1EUsc7qQEy7vhYQtOhC4mc) | 2:41 | 2022-08-19 | 2022-10-22 |
+| [Eu e a Sol](https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Eu e a Sol](https://open.spotify.com/album/6eDhs68qKc5kWVW2tiEPOR) | 1:50 | 2023-03-10 |  |
 | [Eu Já Fiz de Tudo que Tu Pode Imaginar](https://open.spotify.com/track/6Q3iLSJsGqfv8bCz6ngSkn) | [Expedidor](https://open.spotify.com/artist/4HT9RXmMeZnR2Jxd6VViHk) | [Obrigado e Até Logo](https://open.spotify.com/album/2qt6XmEIeQbOUT0bpmDjEY) | 2:43 | 2022-01-14 | 2022-01-22 |
 | [eu tenho medo de me machucar](https://open.spotify.com/track/1MuWD2fVnNjLpDoWmQqfWe) | [Garbo](https://open.spotify.com/artist/0atJgsk6SYsVlg7TcMctTG) | [não faça o que eu faço](https://open.spotify.com/album/1POHK3zqVt06qXsF5HPfz1) | 2:08 | 2022-06-24 | 2022-08-20 |
 | [Eu Tinha Razão](https://open.spotify.com/track/2dm9LENWpqgh4bhvySFJ1K) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 1](https://open.spotify.com/album/1Ik6uKshcmjKfiHF4xhHCh) | 3:24 | 2022-01-14 | 2022-01-22 |
@@ -155,6 +157,7 @@
 | [Levi](https://open.spotify.com/track/1ZzxFNP76eCZ1P18vEGViU) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [a2ele](https://open.spotify.com/artist/2IBOTsCvUK65Wq5eiq0Pkw) | [Levi](https://open.spotify.com/album/0kRSqhVqdtK9t0VJECEfIo) | 4:02 | 2022-07-22 |  |
 | [Lia](https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF) | [Lado Fim do Mundo](https://open.spotify.com/artist/66ItPiB5AheRX2jXy4vzZa) | [Lia](https://open.spotify.com/album/45yv7cwCF6mQHYtYYLWkzR) | 5:08 | 2022-01-14 | 2022-02-12 |
 | [Lobo](https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd) | [Valentin](https://open.spotify.com/artist/25VoPjFx405WzNspA0BDw9), [Jair Naves](https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai) | [Lobo](https://open.spotify.com/album/5j0BG1bA5EcZwFieujIKhr) | 4:21 | 2022-07-15 |  |
+| [Longe](https://open.spotify.com/track/1aC2Sh3pqlzydr1dsoi6v0) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Longe](https://open.spotify.com/album/7mRz40l7AZVQfNZtuwwe7h) | 2:59 | 2023-03-10 |  |
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [Luz Negra](https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em) | [Madrid](https://open.spotify.com/artist/11hzfqXWbO20J9QE8OGZ37), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Luz Negra](https://open.spotify.com/album/6HRYVTqK8OkyBma12VFGmK) | 2:00 | 2023-02-13 | 2023-03-03 |
 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 | 2022-01-21 |  |

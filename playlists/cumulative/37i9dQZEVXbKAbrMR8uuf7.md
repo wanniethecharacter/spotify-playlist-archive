@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-790 songs - 1 day 20 hr 8 min
+791 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [La Fama 21](https://open.spotify.com/track/7qvUSviHVMybeyaCkOJh4y) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [La Fama 21](https://open.spotify.com/album/0zS7oIv4ayxZXlJF96MdQZ) | 3:07 | 2021-05-03 | 2021-05-06 |
 | [La Guacherna](https://open.spotify.com/track/4D1SzLFMUgUkxbPZxSPmSB) | [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [¡Acabando! La Guacherna](https://open.spotify.com/album/7nFNbOFrJW6liWiYs63uzI) | 3:58 | 2021-12-26 | 2021-12-27 |
 | [La H](https://open.spotify.com/track/4ju7kar249CQKWu2s5uHFg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:03 | 2021-07-04 | 2021-07-10 |
-| [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-04-02 |  |
+| [LA INOCENTE](https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:22 | 2022-04-02 | 2023-03-11 |
 | [La Jaula Perfecta](https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:24 | 2022-02-18 | 2022-02-25 |
 | [La Juma No\. 1](https://open.spotify.com/track/4OxTorwrpPNRw1TuORfdTG) | [Conjunto Quisqueya](https://open.spotify.com/artist/0LbPX3Es24fTjE9IN048SS) | [Super Exitos del Conjunto Quisqueya](https://open.spotify.com/album/6Y26ZmWVJAs8D2N0G5eypG) | 3:53 | 2021-12-26 | 2021-12-27 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2022-12-01 | 2022-12-04 |
@@ -795,6 +795,7 @@
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 | 2023-02-02 |
 | [ZONA DEL PERREO](https://open.spotify.com/track/4pN4uE4g6srE6376NDwMJP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:11 | 2022-03-26 | 2022-03-30 |
 | [Zuculento](https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [D´Flow Aka La Maldad](https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG) | [Zuculento](https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od) | 2:47 | 2022-10-05 | 2023-02-08 |
+| [Zumba \(feat\. Yomel El Meloso & Tivi Gunz\)](https://open.spotify.com/track/5gRslx9ORG3Au16BcR2Df5) | [Luigui Bleand](https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Zumba \(feat\. Yomel El Meloso & Tivi Gunz\)](https://open.spotify.com/album/7rkHzNAym3AvfVnpChCH1S) | 3:03 | 2023-03-10 |  |
 | [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 | 2022-05-28 | 2022-07-04 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-16 | 2021-11-28 |
 | [Última Canción](https://open.spotify.com/track/5EyOJqMNxI1B6F8aFGpal4) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 4:20 | 2021-11-28 | 2021-12-03 |

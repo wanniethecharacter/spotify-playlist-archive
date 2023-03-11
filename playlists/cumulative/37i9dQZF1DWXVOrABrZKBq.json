@@ -393,6 +393,50 @@
     },
     {
       "album": {
+        "name": "Ghini",
+        "url": "https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149315,
+      "name": "Ghini",
+      "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
+    },
+    {
+      "album": {
+        "name": "Harry Potter",
+        "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        },
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        },
+        {
+          "name": "Mody",
+          "url": "https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Harry Potter",
+      "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
+    },
+    {
+      "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI"
       },
@@ -438,7 +482,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205626,
       "name": "Ing\u00e9 son",
       "url": "https://open.spotify.com/track/2ErHbTIS7IZVBw7TEejW37"
@@ -850,7 +894,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 174067,
       "name": "Rien de moins",
       "url": "https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0"
@@ -982,7 +1026,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 233571,
       "name": "Valid\u00e9",
       "url": "https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa"
@@ -1004,6 +1048,28 @@
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    },
+    {
+      "album": {
+        "name": "\u00c0 L'AUBE",
+        "url": "https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6s Copperfield",
+          "url": "https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "\u00c0 L'AUBE",
+      "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
     },
     {
       "album": {

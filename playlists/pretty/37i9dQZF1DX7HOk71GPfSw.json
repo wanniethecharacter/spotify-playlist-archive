@@ -1,32 +1,60 @@
 {
-  "description": "ft. Frost Children",
-  "num_followers": 368679,
+  "description": "ft. 100 gecs",
+  "num_followers": 368847,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE2NTIwMCwwMDAwMDAwMDQ5NzVkMTNlMjJhY2ZiMzgwMTBkMWU4MTU4ZmU0ZTZl",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDVjNGNlZjQ5MzVhZjJhM2RhYmIzODNlYjNlN2NlN2Nl",
   "tracks": [
     {
-      "added_at": "2023-03-06 15:53:28",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": ">one",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+        "name": "Hollywood Baby",
+        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
       },
       "artists": [
         {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "duration_ms": 130666,
-      "name": ">one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+      "duration_ms": 187373,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Come 2 Brazil",
+        "url": "https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 134397,
+      "name": "Come 2 Brazil",
+      "url": "https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Softcorners",
+        "url": "https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 317929,
+      "name": "Softcorners",
+      "url": "https://open.spotify.com/track/3GIoCg77Q9vvZUyPK46Eay"
     },
     {
       "added_at": "2023-03-07 05:00:00",
@@ -45,20 +73,40 @@
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Hollywood Baby",
-        "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/79q40CGdFlUquAFaC9mhcp"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "kuudere",
+          "url": "https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa"
         }
       ],
-      "duration_ms": 187373,
-      "name": "Hollywood Baby",
-      "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+      "duration_ms": 118167,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/59Db7h4glgRygW36Dn15Wu"
+    },
+    {
+      "added_at": "2023-03-06 15:53:28",
+      "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2023-03-02 16:06:39",
@@ -75,6 +123,26 @@
       "duration_ms": 194167,
       "name": "ALL I GOT",
       "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "loading*:..\u3002(\u25e0_\u25e0)",
+        "url": "https://open.spotify.com/album/3mHs22B5tzRcHhzmCYb7Ge"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        },
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "loading*:..\u3002(\u25e0_\u25e0)",
+      "url": "https://open.spotify.com/track/6aUk8YJRIiiw4odvQE6jQG"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -117,10 +185,10 @@
       "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
     },
     {
-      "added_at": "2023-03-03 05:01:00",
+      "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "every night i lose you",
-        "url": "https://open.spotify.com/album/0yuGQd9Dne3g5zniolB8Sb"
+        "name": "remorse",
+        "url": "https://open.spotify.com/album/7vQHzlfqHYVoQepDOQkkhl"
       },
       "artists": [
         {
@@ -128,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
         }
       ],
-      "duration_ms": 182068,
-      "name": "every night i lose you",
-      "url": "https://open.spotify.com/track/2ktUfqbz9FtFQC78DIRw9Y"
+      "duration_ms": 121445,
+      "name": "fell in love with a ghost",
+      "url": "https://open.spotify.com/track/1ihqfU2ejlabQ1nV5XWcXj"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -189,6 +257,26 @@
       "url": "https://open.spotify.com/track/6Egg7lLEvmFsMFA8qAqmYw"
     },
     {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "sweet dreams",
+        "url": "https://open.spotify.com/album/2MBr2UoMvh1qAJqFWGGcck"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 154044,
+      "name": "sweet dreams",
+      "url": "https://open.spotify.com/track/7jl6zALfT0GrbJXoqj2Y7b"
+    },
+    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Bad To The Bone",
@@ -223,22 +311,6 @@
       "duration_ms": 85076,
       "name": "i feel like a dog",
       "url": "https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "rave (nc)",
-        "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 141299,
-      "name": "joy - nc",
-      "url": "https://open.spotify.com/track/5eOhbWDviXO6clqn33sQ6s"
     },
     {
       "added_at": "2023-02-21 14:45:39",
@@ -335,6 +407,38 @@
       "duration_ms": 172361,
       "name": "back2me *\u00b0:\u22c6\u2093\u2092",
       "url": "https://open.spotify.com/track/1gqtKJsTjbTRFqlJX7V0wH"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "rave (nc)",
+        "url": "https://open.spotify.com/album/0ALMEZvu4E26GuMykkZ2PV"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 141299,
+      "name": "joy - nc",
+      "url": "https://open.spotify.com/track/5eOhbWDviXO6clqn33sQ6s"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "im so lonely",
+        "url": "https://open.spotify.com/album/07kWtp9FTu41HrXdRrsoSD"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 135500,
+      "name": "im so lonely",
+      "url": "https://open.spotify.com/track/2QA40XtdRbNsVoIjWbU96v"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -443,6 +547,22 @@
       "duration_ms": 192000,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "every night i lose you",
+        "url": "https://open.spotify.com/album/0yuGQd9Dne3g5zniolB8Sb"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "every night i lose you",
+      "url": "https://open.spotify.com/track/2ktUfqbz9FtFQC78DIRw9Y"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -711,22 +831,6 @@
       "duration_ms": 131004,
       "name": "red",
       "url": "https://open.spotify.com/track/3fqC2P9K6zmYKJ2sAmOdse"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
-        "url": "https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 166727,
-      "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
-      "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
     },
     {
       "added_at": "2023-01-24 15:21:57",
@@ -1133,22 +1237,6 @@
       "url": "https://open.spotify.com/track/2kaLPWUWSMTU4EdZqK46Se"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "won't hold on",
-        "url": "https://open.spotify.com/album/3hranXzB8HSuHJKfhV0Bq1"
-      },
-      "artists": [
-        {
-          "name": "onlywoke",
-          "url": "https://open.spotify.com/artist/7xLuShlmvbrllKPtu2HHE4"
-        }
-      ],
-      "duration_ms": 103205,
-      "name": "won't hold on",
-      "url": "https://open.spotify.com/track/05xNet7Z1zgzrQHEwLXvtk"
-    },
-    {
       "added_at": "2022-10-28 04:05:00",
       "album": {
         "name": "Cdbaby<3 (underscores remix)",
@@ -1163,22 +1251,6 @@
       "duration_ms": 133305,
       "name": "Cdbaby<3 - underscores remix",
       "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "What If We Kiss To Break The Tension?",
-        "url": "https://open.spotify.com/album/2o1xVDnMPcrlFjXNItwMq8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c2LKA",
-          "url": "https://open.spotify.com/artist/5SY02nt4U0NfX0Xq4H7yMQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "What If We Kiss To Break The Tension?",
-      "url": "https://open.spotify.com/track/4wRmgQOhYc4HmUM1NA2AFC"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1215,38 +1287,6 @@
       "duration_ms": 178615,
       "name": "sex symbol",
       "url": "https://open.spotify.com/track/04IWHcxPerT5PxCIboSPUj"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "mi \u00e1ngel",
-        "url": "https://open.spotify.com/album/5hB1qGlu4nEr0Cjwffa3XU"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 118333,
-      "name": "mi \u00e1ngel",
-      "url": "https://open.spotify.com/track/0N8reT1iPTyL7rnKbf6F0D"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "mothbulb",
-        "url": "https://open.spotify.com/album/45iFMHKyccEJZQ4MwLLk3Z"
-      },
-      "artists": [
-        {
-          "name": "TONY OR TONY",
-          "url": "https://open.spotify.com/artist/34lTsweHtOUtJp2zMIkiz7"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "mothbulb",
-      "url": "https://open.spotify.com/track/13z5kW8Rp6X6Cla6K4IEvz"
     },
     {
       "added_at": "2022-09-23 07:48:00",
@@ -1381,26 +1421,6 @@
       "url": "https://open.spotify.com/track/7aYx193NYKW8xAnKTPPWWh"
     },
     {
-      "added_at": "2022-12-09 05:25:00",
-      "album": {
-        "name": "Chemical (Ecstasya Remix)",
-        "url": "https://open.spotify.com/album/1eJLbETaOOtuFdvJQtLL6Q"
-      },
-      "artists": [
-        {
-          "name": "Trophie",
-          "url": "https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8"
-        },
-        {
-          "name": "Ecstasya",
-          "url": "https://open.spotify.com/artist/4e1OmAo5dzrenUaHKQs4F0"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Chemical - Ecstasya Remix",
-      "url": "https://open.spotify.com/track/3kAwjHIumxDprlUvkEc7s4"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Rave en la Galaxia",
@@ -1457,38 +1477,6 @@
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
     },
     {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "exit life",
-        "url": "https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 110982,
-      "name": "exit life",
-      "url": "https://open.spotify.com/track/1YKq9aptgpNiyfoMSWXIFr"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "P!RNHUB",
-        "url": "https://open.spotify.com/album/270lYiriRkpM4JTlKxXj7I"
-      },
-      "artists": [
-        {
-          "name": "Yaiko Kaori",
-          "url": "https://open.spotify.com/artist/6Y1X1y0lolpyo4xCpB458o"
-        }
-      ],
-      "duration_ms": 104470,
-      "name": "P!RNHUB",
-      "url": "https://open.spotify.com/track/4MxSbrop1IxAdh6fi2tzRz"
-    },
-    {
       "added_at": "2022-11-18 05:09:00",
       "album": {
         "name": "MXDEL",
@@ -1513,66 +1501,6 @@
       "url": "https://open.spotify.com/track/3hNT6qNi9u1TZXXj1Mjq8t"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "mercury",
-        "url": "https://open.spotify.com/album/0cqL0MNCHJeYzSdYhrfk3k"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "mercury",
-      "url": "https://open.spotify.com/track/5zTrqjF1urDiREDv5f2v4z"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "ALLIGATOR (MXJIA Remix)",
-        "url": "https://open.spotify.com/album/7yALRWYi3SKdybNNWvh7oA"
-      },
-      "artists": [
-        {
-          "name": "corefish",
-          "url": "https://open.spotify.com/artist/3E0GagsUpsLTI5an4oXVqu"
-        },
-        {
-          "name": "old collin",
-          "url": "https://open.spotify.com/artist/4yfSu9zZMJphYSnt6L52Zu"
-        },
-        {
-          "name": "MXJIA",
-          "url": "https://open.spotify.com/artist/0AmZTGAhPs1X1I3kG08Mdt"
-        }
-      ],
-      "duration_ms": 144093,
-      "name": "ALLIGATOR - MXJIA Remix",
-      "url": "https://open.spotify.com/track/4KhOLlrOsd0FGjT4gPJLw0"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "IMPOSTER SYNDROME",
-        "url": "https://open.spotify.com/album/3KBxbUqcB7rT5xKhD5EVRo"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Luno J",
-          "url": "https://open.spotify.com/artist/5wkwnSLcqZyb2ZmppXo1yq"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "IMPOSTER SYNDROME",
-      "url": "https://open.spotify.com/track/0kTRWMYmjuKOMpNhao3XMV"
-    },
-    {
       "added_at": "2022-09-23 07:48:00",
       "album": {
         "name": "reasons",
@@ -1587,86 +1515,6 @@
       "duration_ms": 147133,
       "name": "reasons",
       "url": "https://open.spotify.com/track/4WAIFENQf7136CqB1zdm2s"
-    },
-    {
-      "added_at": "2022-12-09 05:25:00",
-      "album": {
-        "name": "cheers2u",
-        "url": "https://open.spotify.com/album/4VY3gQhY46siJwlRXUS9jm"
-      },
-      "artists": [
-        {
-          "name": "Josua Natanael",
-          "url": "https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp"
-        },
-        {
-          "name": "Noya Clarissa",
-          "url": "https://open.spotify.com/artist/1lMzaA8LkKlY5UmD9tg4nf"
-        },
-        {
-          "name": "phxlxp",
-          "url": "https://open.spotify.com/artist/5yV37PpgTxOgP9GEkAtw4m"
-        },
-        {
-          "name": "Xora",
-          "url": "https://open.spotify.com/artist/5O9iSWpkO9CTPN6xs2oiRA"
-        }
-      ],
-      "duration_ms": 174838,
-      "name": "cheers2u",
-      "url": "https://open.spotify.com/track/1ZrhW6JrTcq1ZgIS8ABl8F"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "MAKE U 3 ME",
-        "url": "https://open.spotify.com/album/6Ik7T8xdpPqZvcI0g74a2h"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 182089,
-      "name": "MAKE U 3 ME",
-      "url": "https://open.spotify.com/track/49IOKR62Do5CItTkB7sB4c"
-    },
-    {
-      "added_at": "2022-12-09 05:25:00",
-      "album": {
-        "name": "outta my head",
-        "url": "https://open.spotify.com/album/6DkKylYfond5JckZlobycm"
-      },
-      "artists": [
-        {
-          "name": "erdo",
-          "url": "https://open.spotify.com/artist/6PJIOlZNKwk8WHovQreCNs"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4g877MIJJioFI4ufpbuUb9"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "outta my head",
-      "url": "https://open.spotify.com/track/3gNftAHW7iwmDO5EbtwA2j"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "backseat",
-        "url": "https://open.spotify.com/album/0cybAFo9HSCvajImgm4D67"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 122926,
-      "name": "backseat",
-      "url": "https://open.spotify.com/track/0TijK5hnCSLGeK4Vaeic1d"
     },
     {
       "added_at": "2022-12-16 05:26:00",
@@ -1723,58 +1571,6 @@
       "duration_ms": 156000,
       "name": "ONCE (feat. Jedwill)",
       "url": "https://open.spotify.com/track/1xEBVidPz2Le4IJWMO0mkF"
-    },
-    {
-      "added_at": "2022-12-16 05:26:00",
-      "album": {
-        "name": "strong zero gravity",
-        "url": "https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy"
-      },
-      "artists": [
-        {
-          "name": "MANON",
-          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
-        }
-      ],
-      "duration_ms": 253935,
-      "name": "strong zero gravity",
-      "url": "https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "LOVEU/LOVESICK",
-        "url": "https://open.spotify.com/album/6rEBprf7aCll2zqEGJSp7q"
-      },
-      "artists": [
-        {
-          "name": "yergurl",
-          "url": "https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "LOVEU/LOVESICK",
-      "url": "https://open.spotify.com/track/3ZSjiVsGwPqhUV9ZmZ14kl"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "Bury It (Alice Longyu Gao Remix)",
-        "url": "https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Paige Nelson",
-          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
-        },
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Bury It - Alice Longyu Gao Remix",
-      "url": "https://open.spotify.com/track/6KIP5nzxAA5zWzFQCGQwns"
     },
     {
       "added_at": "2023-01-13 05:00:00",

@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "What's It Like to Love Me",
+        "url": "https://open.spotify.com/album/0Q2sSdWmiUptVSo4HXea6K"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "What's It Like to Love Me",
+      "url": "https://open.spotify.com/track/7iPZU1Fiob0druLxmRcz89"
+    },
+    {
+      "album": {
         "name": "when i look at you.",
         "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
       },

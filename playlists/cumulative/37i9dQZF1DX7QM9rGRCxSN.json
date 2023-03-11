@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171900,
       "name": "Al Dolor",
       "url": "https://open.spotify.com/track/0btPdehlgDqJNiqCBu9mTs"
@@ -900,6 +900,24 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
+    },
+    {
+      "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298122,
+      "name": "What\u2019s holding you?",
+      "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
     },
     {
       "album": {

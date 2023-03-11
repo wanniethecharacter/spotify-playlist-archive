@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 69175,
+  "num_followers": 69308,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDJhMDEzOTI3YjNlNDZmYjgyMDhmNmI4OWY4YWFhYjcz",
+  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDhiNjc5ZjlmNjgxODYwNjBiZjZmMzU0ZGQzZWRkNDE5",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Muy Nuestro",
-        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
-      },
-      "artists": [
-        {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
-        },
-        {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Vivo Pensando En Ti (feat. Maluma)",
         "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 232306,
       "name": "Vivo Pensando En Ti (feat. Maluma)",
       "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Muy Nuestro",
+        "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
+      },
+      "artists": [
+        {
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 272953,
+      "name": "Te Ame",
+      "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 270666,
       "name": "Que No Se enteren",
       "url": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 272953,
-      "name": "Te Ame",
-      "url": "https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 304979,
-      "name": "No He Podido Ser Feliz",
-      "url": "https://open.spotify.com/track/5VbqrMee8aCR1XgpIeg1Jn"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "La 9a Batalla",
         "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 214213,
       "name": "Loco Paranoico",
       "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 304979,
+      "name": "No He Podido Ser Feliz",
+      "url": "https://open.spotify.com/track/5VbqrMee8aCR1XgpIeg1Jn"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Por Buen Camino",
-        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Cristian y sus infieles",
+          "url": "https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb"
         }
       ],
-      "duration_ms": 285986,
-      "name": "Un Solo Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
+      "duration_ms": 317786,
+      "name": "Ense\u00f1ame a olvidar",
+      "url": "https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
       },
       "artists": [
         {
-          "name": "Cristian y sus infieles",
-          "url": "https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 317786,
-      "name": "Ense\u00f1ame a olvidar",
-      "url": "https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK"
+      "duration_ms": 288493,
+      "name": "S\u00f3lo Para Ti",
+      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo Para Ti",
-      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
+      "duration_ms": 285986,
+      "name": "Un Solo Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
     },
     {
       "added_at": "2022-12-16 20:17:47",

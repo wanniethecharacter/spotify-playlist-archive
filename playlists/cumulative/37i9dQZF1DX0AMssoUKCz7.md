@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-581 songs - 1 day 5 hr 58 min
+582 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [I Did Most](https://open.spotify.com/track/2Etyq5tttA45vDBH7Ephtf) | [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF), [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li) | [I Did Most](https://open.spotify.com/album/5Gsewmhw0j9GzPfvJsPQmG) | 2:28 | 2022-07-22 |  |
 | [I Do](https://open.spotify.com/track/2QrzydidcPv4eqmPxYDUSO) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [I Do](https://open.spotify.com/album/4Qdapsj5nkoSYyvWbg8Thd) | 3:18 | 2022-01-14 |  |
 | [I Feel So Bad](https://open.spotify.com/track/6SqX9J8tXk7rXaspk7GWX1) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Ephemerals](https://open.spotify.com/artist/3iKatcdLBE1YxiAyvcow4w) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:26 | 2022-02-18 | 2022-04-02 |
-| [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 | 2022-01-14 |  |
+| [I Follow](https://open.spotify.com/track/1OMFpwCfs1AgmT2hrkVv1P) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [I Follow](https://open.spotify.com/album/1SBx5Hh7eJFDiOrajWXud3) | 2:48 | 2022-01-14 | 2023-03-11 |
 | [I Got U](https://open.spotify.com/track/4r8hRPbidDIoDPphxi78aY) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5F47pY1Lmj3DXPg1mzLjkE) | 4:45 | 2022-01-14 | 2022-04-21 |
 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 | 2022-07-22 | 2022-09-24 |
 | [I Just Died In Your Arms Tonight](https://open.spotify.com/track/6wGJqxCSM2Ooo3171l1uch) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [I Just Died In Your Arms Tonight](https://open.spotify.com/album/55EjSFq0Z4J4uYe974KkXD) | 2:42 | 2022-01-14 | 2022-07-29 |
@@ -465,6 +465,7 @@
 | [Skyline](https://open.spotify.com/track/0HkwDCJIbWijtfKg63gQBJ) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [Skyline](https://open.spotify.com/album/0IHRNvSnQan6KNZQgupPvP) | 2:43 | 2022-01-14 | 2022-09-03 |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2022-04-01 | 2022-07-29 |
 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good to Me \(Radio Edit\)](https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj) | 3:46 | 2022-01-14 | 2022-05-14 |
+| [Sober](https://open.spotify.com/track/623LXv9UubijvwS7FBjiVh) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7p1RDJXlQRetuFhUOk3Byn) | 2:48 | 2023-02-10 |  |
 | [Sober](https://open.spotify.com/track/7AaaVPT66ppeUh2dhhbUz0) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7IY5brRxmhOk0DrxQ37YPF) | 2:48 | 2022-01-14 | 2023-02-06 |
 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 | 2022-01-14 | 2022-09-03 |
 | [Someone You Loved](https://open.spotify.com/track/1acOxwadqwCMqSTho4Vh0B) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [Someone You Loved](https://open.spotify.com/album/3hZU2fpkYh4RSzx62pdDDk) | 2:34 | 2022-09-09 |  |

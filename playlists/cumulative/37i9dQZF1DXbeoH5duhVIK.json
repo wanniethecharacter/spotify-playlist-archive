@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/0POApPsK9OvPSr0n4gB5CN"
+      },
+      "artists": [
+        {
+          "name": "Zarah Mahler",
+          "url": "https://open.spotify.com/artist/718rfojS47AiuJOPIXBWFw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271946,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/16WFEyH9qkdCcLkBe5Rx2k"
+    },
+    {
+      "album": {
         "name": "Citizen of Glass",
         "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },

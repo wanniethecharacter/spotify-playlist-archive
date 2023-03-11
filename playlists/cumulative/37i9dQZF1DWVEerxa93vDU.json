@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Dormendi",
+        "url": "https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146601,
+      "name": "Dormendi",
+      "url": "https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL"
+    },
+    {
+      "album": {
         "name": "Dream In Color",
         "url": "https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU"
       },

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 120873,
+  "num_followers": 120890,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMGQ3ZjU5MmQ0ZmM1NDVjNWEyM2I4N2EwZmNhYTkwODMz",
+  "snapshot_id": "MTY3ODQ0MTkwMSwwMDAwMDAwMGY3MWNjMjU0YmU0YjNhMjdhNzk1MDBiNTM1MGU4ODVm",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -161,6 +161,26 @@
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
+      "added_at": "2023-03-10 09:51:16",
+      "album": {
+        "name": "Friends (feat. Tim Ayre)",
+        "url": "https://open.spotify.com/album/1XYpFKvCy2bL6XyuhAJKVl"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Friends (feat. Tim Ayre)",
+      "url": "https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC"
+    },
+    {
       "added_at": "2023-03-09 23:00:00",
       "album": {
         "name": "Don\u2019t Hate Me",
@@ -291,6 +311,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Roses N Guns",
         "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
       },
@@ -328,7 +364,7 @@
       "added_at": "2023-03-09 23:00:00",
       "album": {
         "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
       },
       "artists": [
         {
@@ -338,7 +374,7 @@
       ],
       "duration_ms": 187632,
       "name": "Even It Out",
-      "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -643,22 +679,6 @@
       "duration_ms": 199384,
       "name": "Baby from Atlanta",
       "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
     },
     {
       "added_at": "2023-03-09 23:00:00",

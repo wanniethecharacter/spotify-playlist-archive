@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Skrillex.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring OBLVYN",
   "name": "creamy",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 253333,
       "name": "A Drowning Cry",
       "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
+    },
+    {
+      "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "album": {
@@ -676,6 +694,24 @@
       "duration_ms": 240666,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5QBB6vLewAk62JW9NiWOOR"
+    },
+    {
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
     },
     {
       "album": {
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 137647,
       "name": "Dish",
       "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
@@ -3490,7 +3526,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213817,
       "name": "Kids",
       "url": "https://open.spotify.com/track/3239MORF3cZc3hqTKU7qhJ"
@@ -3770,7 +3806,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 139486,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/5Dnh9RY6HYq1UKXgmqdeRW"
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201680,
       "name": "Night Goggles - Rome in Silver Remix",
       "url": "https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z"
@@ -4993,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Someone You Can Count On",
+        "url": "https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173609,
+      "name": "Rewind.. (But I Love You)",
+      "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0lRqKAf7bzegVWpTWArHMo"
       },
@@ -5734,7 +5788,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"

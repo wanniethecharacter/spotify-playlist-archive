@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 32029,
+  "num_followers": 32075,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDdkZGVkYTVjNGQ1MGYxZGU0NGIxMWMwOGY5NWE2Yzc0",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDIxZDU2NWM3NGZlZmM0ZTBhZDE0YzE3MjMwM2I5NTE1",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Calypso Way",
-        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Poor but Ambitious",
-      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsonians (1930 - 1960), Vol.1",
         "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 179773,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/4QV64XiqdMv1034h8Csp2X"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Calypso Way",
+        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Poor but Ambitious",
+      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -391,18 +391,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Best Music of Trinidad - Calypso and Parang Classics",
-        "url": "https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz"
+        "name": "The Man Who Never Ever Worried",
+        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "The Great Honourable Lord Pretender",
+          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
         }
       ],
-      "duration_ms": 176880,
-      "name": "One Morning",
-      "url": "https://open.spotify.com/track/6N8UUBvP8x2AP6PIBpghdV"
+      "duration_ms": 403800,
+      "name": "Move Yuh Foot",
+      "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -419,22 +419,6 @@
       "duration_ms": 155400,
       "name": "No Melda",
       "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "The Man Who Never Ever Worried",
-        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
-      },
-      "artists": [
-        {
-          "name": "The Great Honourable Lord Pretender",
-          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
-        }
-      ],
-      "duration_ms": 403800,
-      "name": "Move Yuh Foot",
-      "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -503,6 +487,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "The Man Who Never Ever Worried",
+        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
+      },
+      "artists": [
+        {
+          "name": "The Great Honourable Lord Pretender",
+          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
+        }
+      ],
+      "duration_ms": 317720,
+      "name": "Illegitimate Children",
+      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s",
         "url": "https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 164546,
       "name": "Atomic Energy",
       "url": "https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "The Man Who Never Ever Worried",
-        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
-      },
-      "artists": [
-        {
-          "name": "The Great Honourable Lord Pretender",
-          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
-        }
-      ],
-      "duration_ms": 317720,
-      "name": "Illegitimate Children",
-      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -615,22 +599,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Legends",
-        "url": "https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Belasco",
-          "url": "https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Blow Wind Blow",
-      "url": "https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -652,6 +620,22 @@
       },
       "artists": [
         {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "One Morning",
+      "url": "https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso - Best of Trinidad",
+        "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
+      },
+      "artists": [
+        {
           "name": "Lord Pretender",
           "url": "https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa"
         }
@@ -659,6 +643,22 @@
       "duration_ms": 146400,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Legends",
+        "url": "https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Belasco",
+          "url": "https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Blow Wind Blow",
+      "url": "https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj"
     }
   ],
   "unique_name": "Caribbean Calypso",

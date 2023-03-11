@@ -1,12 +1,12 @@
 {
   "description": "01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100",
-  "num_followers": 143582,
+  "num_followers": 143863,
   "original_name": "metaverses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTI2NjA4NCwwMDAwMDAwMDZhYjRiOGJjMThjMzA3MTM1MjkxZjIzNWEzMDdhNWY2",
+  "snapshot_id": "MTY3NTI2NjA4NCwwMDAwMDAwMDFhNjhhNzdiMTEwMjc1ZDU3MmNlZjYxMzg5OTFlNDUz",
   "tracks": [
     {
       "added_at": "2022-12-20 18:28:30",
@@ -328,7 +328,7 @@
       "added_at": "2022-12-20 18:28:30",
       "album": {
         "name": "Disaster",
-        "url": "https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag"
+        "url": "https://open.spotify.com/album/4pe0uLLtb4nB0G1CzlPbSV"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
         }
       ],
-      "duration_ms": 84138,
+      "duration_ms": 84172,
       "name": "Disaster",
-      "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
+      "url": "https://open.spotify.com/track/5Uz9ZPw5u13ngnstN00ZJq"
     },
     {
       "added_at": "2022-12-20 18:28:30",

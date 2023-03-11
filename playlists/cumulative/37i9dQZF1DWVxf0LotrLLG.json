@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Kali Uchis",
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Marco Mares",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "Conquistar El Planeta",
+      "url": "https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs"
+    },
+    {
+      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -474,7 +496,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
@@ -637,6 +659,24 @@
     },
     {
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
+    },
+    {
+      "album": {
         "name": "Ozu Vivo (Live)",
         "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
       },
@@ -710,6 +750,24 @@
       "duration_ms": 154170,
       "name": "Disfruta tu viernes",
       "url": "https://open.spotify.com/track/6WvOAqhYXXfxWWN8BTEQyX"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente me acuerdo mucho de tu casa",
+        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Don Chicho",
+      "url": "https://open.spotify.com/track/1J2KRMZcbzaRBI7bhh1L07"
     },
     {
       "album": {
@@ -790,6 +848,24 @@
       "duration_ms": 113986,
       "name": "El Le\u00f3n De La Manada",
       "url": "https://open.spotify.com/track/2zmue4FlRe9CsuNX0HbU98"
+    },
+    {
+      "album": {
+        "name": "NOHAUS",
+        "url": "https://open.spotify.com/album/37ii5gmB9PGE3iiSfQFmXd"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/09cnFicu5YNYHGyLdZV71F"
     },
     {
       "album": {
@@ -959,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda Antes del D\u00eda",
+        "url": "https://open.spotify.com/album/64kvdyNV6IEJNreCVl4GlT"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196074,
+      "name": "Fog\u00f3n",
+      "url": "https://open.spotify.com/track/0SuMeetAuZ5shCVqNMKSQi"
+    },
+    {
+      "album": {
         "name": "Private Suite (Vol. 1)",
         "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
@@ -1071,6 +1165,28 @@
     },
     {
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Borja",
+          "url": "https://open.spotify.com/artist/5gQn8QHEDibTqR7iVLKrGl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "i lied",
+      "url": "https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm"
+    },
+    {
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -1122,6 +1238,24 @@
       "duration_ms": 282747,
       "name": "La Canci\u00f3n para el Fin del Mundo",
       "url": "https://open.spotify.com/track/6wITIFXjeyh2FOTvSENrfa"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente me acuerdo mucho de tu casa",
+        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268810,
+      "name": "La Liga",
+      "url": "https://open.spotify.com/track/6UQTe9BzsgLaqWXxSV7lEQ"
     },
     {
       "album": {
@@ -1290,6 +1424,24 @@
       "duration_ms": 151304,
       "name": "LISBOA",
       "url": "https://open.spotify.com/track/50naDXYjnGlLgrE7yUxsok"
+    },
+    {
+      "album": {
+        "name": "NOHAUS",
+        "url": "https://open.spotify.com/album/37ii5gmB9PGE3iiSfQFmXd"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/3j2mL897gir3DWVN4JFHdp"
     },
     {
       "album": {
@@ -1526,6 +1678,28 @@
       "duration_ms": 193986,
       "name": "Nicotina",
       "url": "https://open.spotify.com/track/5qqLUk39VlGb3EiwImpM1h"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda Antes del D\u00eda",
+        "url": "https://open.spotify.com/album/64kvdyNV6IEJNreCVl4GlT"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Don Carmelo",
+          "url": "https://open.spotify.com/artist/40JGx0uMilA6xnCKTl8m7Q"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194870,
+      "name": "No Hay Se\u00f1al",
+      "url": "https://open.spotify.com/track/3v6JTq29JwEKfQiOWIbqX1"
     },
     {
       "album": {
@@ -2029,6 +2203,46 @@
     },
     {
       "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/0E9Vj1K5Lq1Zubvb9JZLjE"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191806,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/2oVJ40hTrZAmr3UJareeii"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente me acuerdo mucho de tu casa",
+        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        },
+        {
+          "name": "Gutinho",
+          "url": "https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230874,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o"
+    },
+    {
+      "album": {
         "name": "Sincer\u00e1ndome",
         "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
@@ -2106,6 +2320,24 @@
       "duration_ms": 200506,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
+    },
+    {
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
     },
     {
       "album": {
@@ -2444,6 +2676,24 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "album": {
+        "name": "NOHAUS",
+        "url": "https://open.spotify.com/album/37ii5gmB9PGE3iiSfQFmXd"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177664,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5knnjphwRuByl9N7o3DohY"
     },
     {
       "album": {

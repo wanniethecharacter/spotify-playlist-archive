@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 191125,
       "name": "\u0e19\u0e49\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/0unRRE5iY2faIR2HV2aGpF"
@@ -8530,7 +8530,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 245853,
       "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
@@ -8798,6 +8798,24 @@
       "duration_ms": 219500,
       "name": "\u0e22\u0e34\u0e48\u0e07\u0e43\u0e01\u0e25\u0e49\u0e22\u0e34\u0e48\u0e07\u0e40\u0e01\u0e47\u0e1a",
       "url": "https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285584,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
     },
     {
       "album": {

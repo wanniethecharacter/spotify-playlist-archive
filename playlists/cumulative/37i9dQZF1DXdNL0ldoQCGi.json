@@ -156,7 +156,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 142006,
       "name": "202 - Speed",
       "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 154701,
       "name": "Bombonzinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 104223,
       "name": "Bora Bill ( Speed Up )",
       "url": "https://open.spotify.com/track/0AYpmDJgiWUZeFyNRQNYOL"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 129776,
       "name": "Bota Em Voc\u00ea Machuca (feat. Flow Key, Bernax e DJ RD)",
       "url": "https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 151341,
       "name": "Deixa Escondido (Speed) - Remix",
       "url": "https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189800,
       "name": "Digo ou N\u00e3o Digo - Ao Vivo",
       "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 188264,
       "name": "Eu Vou Deixar de Ser Besta",
       "url": "https://open.spotify.com/track/6S7bf78ghkbMHu0DIyY8on"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -2636,6 +2636,24 @@
       "duration_ms": 181626,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "album": {
+        "name": "If We Ever Broke Up",
+        "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "If We Ever Broke Up",
+      "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
       "album": {
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147751,
       "name": "Mantenha Dist\u00e2ncia",
       "url": "https://open.spotify.com/track/7oodfOYg0KH2LtjM0FBgb7"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234193,
       "name": "Meca Cereja",
       "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144294,
       "name": "Meia Noite",
       "url": "https://open.spotify.com/track/09K1zzSVtouqzXBvAlmIG5"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 179439,
       "name": "Meio P\u00e1",
       "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
@@ -4278,7 +4296,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 275706,
       "name": "Onda Onda (Olha a Onda)",
       "url": "https://open.spotify.com/track/4ohps6RKcqCWMfK8GFcYE5"
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 371269,
       "name": "Pagode da Gica - Lagrimas V\u00e3o e Vem / Deixa Tudo Como T\u00e1 / Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/7kxMt5StiYL1VX8rJqAXgg"
@@ -4606,6 +4624,24 @@
       "duration_ms": 319466,
       "name": "Partition",
       "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+    },
+    {
+      "album": {
+        "name": "Passe Livre",
+        "url": "https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd"
+      },
+      "artists": [
+        {
+          "name": "Nilson Neto",
+          "url": "https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173758,
+      "name": "Passe Livre",
+      "url": "https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH"
     },
     {
       "album": {
@@ -4976,7 +5012,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 138129,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/6KgPTk8J2i1DOTSGvwhLPM"
@@ -5718,7 +5754,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 112941,
       "name": "Soca Fofo",
       "url": "https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq"
@@ -5830,7 +5866,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 137000,
       "name": "Sorrisin de Puto",
       "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
@@ -6086,7 +6122,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 158446,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/410dcrVCOdgxRDVWmgselj"
@@ -6242,7 +6278,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204013,
       "name": "That's My Girl",
       "url": "https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od"
@@ -6742,7 +6778,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 162000,
       "name": "Vou Viver Pra Ver",
       "url": "https://open.spotify.com/track/1vA9ABK1CiAyQXjAnnyqOs"

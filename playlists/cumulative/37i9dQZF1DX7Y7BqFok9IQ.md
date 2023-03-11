@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-196 songs - 12 hr 16 min
+198 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,9 +59,10 @@
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2020-10-16 |  |
 | [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 | 2022-10-28 |  |
 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 | 2022-06-24 |  |
+| [Got No Right](https://open.spotify.com/track/5RKSda8mBCmCeoGugTFfVZ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 2:48 | 2023-03-10 |  |
 | [Gotta Be Movin’](https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:35 | 2021-09-10 | 2022-12-10 |
 | [Gotta Be Movin’](https://open.spotify.com/track/6n9CPTtFd6DeOpWnP57O9i) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Gotta Be Movin'](https://open.spotify.com/album/2JWnNwLCTdvnMH081yhjAz) | 3:35 | 2021-09-10 | 2022-07-29 |
-| [Guitar man](https://open.spotify.com/track/3BhAkzC9yc0NaTfrP0l33x) | [Vag\-a\-bond](https://open.spotify.com/artist/2rJlT6KV1ue0gjauQQmeSa) | [Guitar man](https://open.spotify.com/album/11ZqxnXTJSfGSBEmb4TvnD) | 2:02 | 2023-03-03 |  |
+| [Guitar man](https://open.spotify.com/track/3BhAkzC9yc0NaTfrP0l33x) | [Vag\-a\-bond](https://open.spotify.com/artist/2rJlT6KV1ue0gjauQQmeSa) | [Guitar man](https://open.spotify.com/album/11ZqxnXTJSfGSBEmb4TvnD) | 2:02 | 2023-03-03 | 2023-03-11 |
 | [Gypsy Woman](https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE) | [Jonathan Tyler & The Northern Lights](https://open.spotify.com/artist/0ojbcl4680K7tn6aPicIaP) | [Hot Trottin'](https://open.spotify.com/album/1Nd6QhAWTbOlVQjKf3wYQY) | 4:15 | 2022-02-11 |  |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-09-03 | 2022-09-10 |
 | [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 | 2020-10-16 |  |
@@ -90,7 +91,7 @@
 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 | 2021-02-19 |  |
 | [In Stride](https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/7b11AjtUEnyIJfSVqSmY16) | 3:47 | 2021-02-19 | 2022-07-28 |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-04-30 | 2022-07-29 |
-| [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-04-30 |  |
+| [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-04-30 | 2023-03-11 |
 | [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 | 2022-10-28 |  |
 | [Into The Midnight Sun](https://open.spotify.com/track/4aGwqnQRU1nQuDuqGkNnoR) | [Electric Boys](https://open.spotify.com/artist/0zRRk9Oe6owoIi3cY5yWk4) | [Into The Midnight Sun](https://open.spotify.com/album/4tV6FOGhLdQHSospIkbDfc) | 3:54 | 2022-04-26 |  |
 | [Just Takes Time](https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/52jRQHJzlln2SkAfYQnLQC) | 3:09 | 2022-06-03 |  |
@@ -127,6 +128,7 @@
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
 | [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 |  |
+| [One Of A Kind](https://open.spotify.com/track/58EZbAbfLjnsfS5gBFVgnF) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [One Of A Kind](https://open.spotify.com/album/28VUOeKPDCNxr4I1vxDz2h) | 3:13 | 2023-03-10 |  |
 | [One Thing I Feared](https://open.spotify.com/track/1KK0CRO47v2pYmKfct9GbD) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/1yxopMV9t0m7g1W5fdpA7s) | 4:02 | 2021-04-30 |  |
 | [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 |  |
 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 | 2022-08-12 |  |

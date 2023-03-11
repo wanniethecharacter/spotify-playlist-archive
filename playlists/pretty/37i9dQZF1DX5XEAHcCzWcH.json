@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 21939,
+  "num_followers": 21987,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDg0NGNiNDM0MjI1N2JhNTdiOGZhOTBiNmY2OWRjODlm",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGRlZTNjOTA4ZjVjODc4MjQxMWUzMzZiNjRkODI0NzBk",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -919,6 +919,30 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Journeys To The Heart Of The Blues",
+        "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        },
+        {
+          "name": "Bruce Katz",
+          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
+        },
+        {
+          "name": "Giles Robson",
+          "url": "https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "Mean Old Train",
+      "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Tribute: Delmark's 65th Anniversary",
         "url": "https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 152000,
       "name": "Pocketful Of Money",
       "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Journeys To The Heart Of The Blues",
-        "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        },
-        {
-          "name": "Bruce Katz",
-          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
-        },
-        {
-          "name": "Giles Robson",
-          "url": "https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Mean Old Train",
-      "url": "https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax"
     },
     {
       "added_at": "2022-05-13 10:49:08",

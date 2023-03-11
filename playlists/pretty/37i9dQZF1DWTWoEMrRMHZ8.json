@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Julia Mestre",
-  "num_followers": 335466,
+  "num_followers": 335575,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg3MjgyMCwwMDAwMDAwMDMzYjkzZDVkYWNiMWMwMGJkNjEwZDg0NjhjMjdmN2I1",
+  "snapshot_id": "MTY3Nzg3MjgyMCwwMDAwMDAwMGY2Yzk2MWM4MWM4MmFhNzNlYjJmZDMzNzU4NTg1ZWE2",
   "tracks": [
     {
       "added_at": "2023-03-03 19:46:59",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Um P\u00f4r do Sol Na Praia",
-        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 188415,
-      "name": "Um P\u00f4r do Sol Na Praia",
-      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 191164,
       "name": "\u00cdndia",
       "url": "https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "Um P\u00f4r do Sol Na Praia",
+        "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 188415,
+      "name": "Um P\u00f4r do Sol Na Praia",
+      "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "saudade boa",
+      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
         "name": "Baby (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 187178,
       "name": "Baby - Ao Vivo",
       "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "saudade boa",
-      "url": "https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 222186,
       "name": "Lisboa",
       "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
         "name": "SIM SIM SIM",
         "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
       },
@@ -471,22 +491,22 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
       "artists": [
         {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+      "duration_ms": 154208,
+      "name": "Lua de Garrafa",
+      "url": "https://open.spotify.com/track/4bqLjdIEdMMBUFLrTFDJVa"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -571,26 +591,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 154208,
-      "name": "Lua de Garrafa",
-      "url": "https://open.spotify.com/track/4bqLjdIEdMMBUFLrTFDJVa"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Bloco Do Silva #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 191418,
       "name": "Paula e Bebeto",
       "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -923,26 +923,22 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Tocando Em Frente",
-        "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
+        "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
+        "url": "https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2"
       },
       "artists": [
         {
-          "name": "Renato Teixeira",
-          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         },
         {
-          "name": "Raimundo Fagner",
-          "url": "https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2"
-        },
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 243764,
-      "name": "Tocando Em Frente",
-      "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+      "duration_ms": 228709,
+      "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
+      "url": "https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -963,22 +959,26 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
-        "url": "https://open.spotify.com/album/6XN1f9w4y3OuBqu0t2Qwe2"
+        "name": "Tocando Em Frente",
+        "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Raimundo Fagner",
+          "url": "https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2"
+        },
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
         }
       ],
-      "duration_ms": 228709,
-      "name": "Para Lennon e McCartney / Cita\u00e7\u00e3o: O Vento",
-      "url": "https://open.spotify.com/track/5wWVluHjM6PUU68gNSkbYm"
+      "duration_ms": 243764,
+      "name": "Tocando Em Frente",
+      "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "O Caderno",
+      "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
         "name": "Voa Vagalume",
         "url": "https://open.spotify.com/album/4FIzrE1QwsiRdtFuq78p2z"
       },
@@ -1411,26 +1431,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "O Caderno",
-      "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
         "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
-        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        }
-      ],
-      "duration_ms": 202638,
-      "name": "N\u00e3o Identificado",
-      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Essa Pele Marcada 4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 359706,
       "name": "Conviver - Ao Vivo",
       "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "Caetano Veloso Al\u00e9m do \"Transa\"",
+        "url": "https://open.spotify.com/album/7s6smTPWq4DbNGixbI9BLX"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "N\u00e3o Identificado",
+      "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
+        "name": "Gosto Meio Doce",
+        "url": "https://open.spotify.com/album/4As0kPkfqnw2gcqbNDMWO4"
+      },
+      "artists": [
+        {
+          "name": "Nina Maia",
+          "url": "https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy"
+        },
+        {
+          "name": "Chica Barreto",
+          "url": "https://open.spotify.com/artist/7ERHt1GTLvzWW3Qyni8lZy"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Gosto Meio Doce",
+      "url": "https://open.spotify.com/track/06UgqT9hnyaf3Zxz5QjQVi"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
         "name": "Nossos Planos",
         "url": "https://open.spotify.com/album/41cZmMfLF4mjtAcVJYYdRQ"
       },
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2023-03-03 19:46:59",
       "album": {
-        "name": "Gosto Meio Doce",
-        "url": "https://open.spotify.com/album/4As0kPkfqnw2gcqbNDMWO4"
-      },
-      "artists": [
-        {
-          "name": "Nina Maia",
-          "url": "https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy"
-        },
-        {
-          "name": "Chica Barreto",
-          "url": "https://open.spotify.com/artist/7ERHt1GTLvzWW3Qyni8lZy"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Gosto Meio Doce",
-      "url": "https://open.spotify.com/track/06UgqT9hnyaf3Zxz5QjQVi"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
         "name": "Ef\u00eamera (Remix)",
         "url": "https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G"
       },
@@ -1663,26 +1663,6 @@
       "duration_ms": 244809,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea - Remix",
       "url": "https://open.spotify.com/track/5w6lysYJvK9IVBwzs8xm8G"
-    },
-    {
-      "added_at": "2023-03-03 19:46:59",
-      "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-03-03 19:46:59",
@@ -1719,6 +1699,26 @@
       "duration_ms": 205800,
       "name": "On",
       "url": "https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33"
+    },
+    {
+      "added_at": "2023-03-03 19:46:59",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-03-03 19:46:59",

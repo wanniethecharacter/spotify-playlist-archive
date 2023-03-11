@@ -4,7 +4,7 @@
 
 > Ibiza season is back for 2022\. Let's dance!
 
-120 songs - 7 hr 47 min
+121 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-08-26 |  |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-08-26 |  |
 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 | 2022-08-26 |  |
-| [Wait](https://open.spotify.com/track/0xRflBVc8IbRXvuCMtAOpX) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/2ZwZWiZLS9dEFUS08IZR6O) | 6:31 | 2022-08-26 |  |
+| [Wait](https://open.spotify.com/track/0xRflBVc8IbRXvuCMtAOpX) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/2ZwZWiZLS9dEFUS08IZR6O) | 6:31 | 2022-08-26 | 2023-03-11 |
+| [Wait feat\. Fritz Helder](https://open.spotify.com/track/6UDlAXM5IdygV4YzGb37T3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/6ar2JvS2nst9YFwJ5td3cw) | 6:31 | 2022-08-26 |  |
 | [We Back](https://open.spotify.com/track/2iBhkMErE3uUN0h8PEZdB1) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270), [Rileasa Slaves](https://open.spotify.com/artist/6hmC2zCfacf0G0u7jMkBlB) | [We Back](https://open.spotify.com/album/2oFRsgPtTNtWwN4DG0AC2n) | 2:41 | 2022-08-26 |  |
 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-08-26 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2022-08-26 |  |

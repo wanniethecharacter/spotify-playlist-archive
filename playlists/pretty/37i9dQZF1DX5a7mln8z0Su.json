@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5392,
+  "num_followers": 5394,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMDFlOTM3NzAzMjFmNDBhYmQ4MDE1ZmJiMDE2ZDg1NmFi",
+  "snapshot_id": "MTY3NzIzNTAwNSwwMDAwMDAwMDdkYjgzZGQ4MzNhOTgyZGNmYTgyYWY1MWY0NDg0MWIz",
   "tracks": [
     {
       "added_at": "2023-02-24 10:36:44",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "bimil:ier vol.6 \"Cloudy\"",
+        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 192293,
       "name": "Die For You (feat. Kelsey Kuan)",
       "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "bimil:ier vol.6 \"Cloudy\"",
-        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "Hold tight",
         "url": "https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ"
       },
@@ -699,6 +715,22 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Go Back \uc9d1\uc5d0",
+      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
+    },
+    {
+      "added_at": "2023-02-24 10:36:44",
+      "album": {
         "name": "Last Night (feat. DD7)",
         "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
       },
@@ -715,38 +747,6 @@
       "duration_ms": 184736,
       "name": "Last Night (feat. DD7)",
       "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2023-02-24 10:36:44",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "Go Back \uc9d1\uc5d0",
-      "url": "https://open.spotify.com/track/197OXtsiu7HujhhXYvJjEt"
     },
     {
       "added_at": "2023-02-24 10:36:44",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-24 10:36:44",
       "album": {
-        "name": "I Mean You",
-        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
       "artists": [
         {
-          "name": "Diana",
-          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
         }
       ],
-      "duration_ms": 195150,
-      "name": "I Mean You",
-      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

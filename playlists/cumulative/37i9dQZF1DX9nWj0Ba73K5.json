@@ -1134,10 +1134,36 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205290,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ"
+    },
+    {
+      "album": {
+        "name": "Girl Crush",
+        "url": "https://open.spotify.com/album/5xYMK6JwHqIc0TCg6rB3tF"
+      },
+      "artists": [
+        {
+          "name": "Luke Laird",
+          "url": "https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        },
+        {
+          "name": "Barry Dean",
+          "url": "https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220124,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/0S5hQtbXJXfzQjXCPASHtZ"
     },
     {
       "album": {

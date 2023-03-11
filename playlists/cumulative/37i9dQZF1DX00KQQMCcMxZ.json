@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "In the Midst of Nature",
+        "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
+      },
+      "artists": [
+        {
+          "name": "Neoaves",
+          "url": "https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121345,
+      "name": "In the Midst of Nature",
+      "url": "https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw"
+    },
+    {
+      "album": {
         "name": "Rain Forest Bird Sounds",
         "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 140610,
       "name": "Summer Breeze Bird",
       "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"

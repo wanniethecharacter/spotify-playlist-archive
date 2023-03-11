@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,112 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,122 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 26 | [You Don't Know \- Special Remix](https://open.spotify.com/track/5vA6h1EpoCwqDpg1NyU7GE) | [Serious Intention](https://open.spotify.com/artist/4ujvWktT7I5RaDVWCiohjS) | [You Don't Know](https://open.spotify.com/album/3ibVYaJ4bKSoNQVan9WPmS) | 8:18 |
 | 27 | [Let Me Love You for Tonight \- House Club Version](https://open.spotify.com/track/3M2eKHfiVbAcdVbXq2vuHl) | [Kariya](https://open.spotify.com/artist/2v7BAefOHtrwbwIaeSrznH) | [Let Me Love You for Tonight](https://open.spotify.com/album/4O98lK9544U20ateVtGfaX) | 6:18 |
 | 28 | [Do You Feel Me](https://open.spotify.com/track/4Zx7dq5F1Zr3AIFv23uE0d) | [New York's Finest](https://open.spotify.com/artist/4VmSmg7wFRxvvzmAPtNaNg) | [Bassline: The Comp'](https://open.spotify.com/album/5wFzFToDwgoGBfdD49kvOJ) | 6:49 |
-| 29 | [Heard It All Before \- Radio Edit](https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [90s R&B Classics](https://open.spotify.com/album/68BFQDpibItUS8NGYPfJLh) | 3:59 |
+| 29 | [Heard It All Before \- Radio Edit](https://open.spotify.com/track/49JDPR0rbu7nf4oNfwVzdP) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Heard It All Before](https://open.spotify.com/album/2jETz64r6PWPhEUHI8OAl7) | 3:59 |
 | 30 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 31 | [The Boy Is Mine \- Radio Edit](https://open.spotify.com/track/2rwDzx2nCWfQze7nsR2SOF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine: 90s R'n'B](https://open.spotify.com/album/58sOAY5xeDAodYOkIGegJM) | 4:00 |
 | 32 | [Greatest Hit](https://open.spotify.com/track/4kox25GnFPcvrZWXvbB3Ar) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [Anniemal](https://open.spotify.com/album/3LN3dGIFGEqTjTDwTFFCj6) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MTY3NTIxNTU4NywwMDAwMDAwMDhjZDcyOTUwNjZiNmQ4MzJlYWIyYzRjZTZmNzk2MmE0`
+Snapshot ID: `MTY3NTIxNTU4NywwMDAwMDAwMDViYzg2YTY1NjgzZTJiNGI0Mzg3OGRiMWM4OWNmZTQ2`

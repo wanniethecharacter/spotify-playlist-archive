@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,313 likes - 85 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,833 likes - 85 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 57 | [HYSTERIC CARAVAN](https://open.spotify.com/track/6j6ndhPYXdE2p4PD1Bljiv) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [HYSTERIC CARAVAN](https://open.spotify.com/album/0rEOEfJikdn5Klb8dKK1za) | 3:59 |
 | 58 | [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 |
 | 59 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 |
-| 60 | [Gift](https://open.spotify.com/track/2cTeMPC6HqGeJAa5sPH6XO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/1wIRhWPNmHZ5ncApXMDAiT) | 3:13 |
+| 60 | [Gift](https://open.spotify.com/track/19nxapLc7uFm0kII0uOp8M) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 3:14 |
 | 61 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 |
 | 62 | [Ashita no Katachi](https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Ashita no Katachi](https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6) | 4:33 |
 | 63 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Dawn](https://open.spotify.com/track/2NmEYIZ24bLuxQGFKXfkPP) | [Sir Vanity](https://open.spotify.com/artist/7HAVj2cCdBRXq6BYf1C6qA) | [midnight sun](https://open.spotify.com/album/5XYyr4HDb5s7f6lGrtooI4) | 3:38 |
 | 85 | [SEIEN](https://open.spotify.com/track/42o1jncT5EodHI9TP6J3f5) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [SEIEN](https://open.spotify.com/album/0U6PwfdcTKaLaHKyIWGl16) | 3:26 |
 
-Snapshot ID: `MTY3ODIwNjE1OCwwMDAwMDAwMDExMmQwNjZhZmUxODVjNWVjNjFiOWFjZDBhYWY3MGUy`
+Snapshot ID: `MTY3ODIwNjE1OCwwMDAwMDAwMDFkMmRkNDYxZjFjNDRmMGNlY2JkODVmMTBmZTg3NTY5`

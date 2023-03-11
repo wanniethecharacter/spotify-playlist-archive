@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Kelsea Ballerini
+> Pop country hits of today and tomorrow\. Cover: Sam Hunt
 
 211 songs - 11 hr 2 min
 

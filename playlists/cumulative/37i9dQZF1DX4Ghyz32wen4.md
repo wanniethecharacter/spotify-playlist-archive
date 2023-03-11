@@ -4,10 +4,11 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Nsqk en portada.
 
-88 songs - 4 hr 47 min
+90 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [19 HORAS](https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [19 HORAS](https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud) | 2:54 | 2023-03-10 |  |
 | [</3](https://open.spotify.com/track/3zJelOfPDV2RG1VGrt6zF7) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:32 | 2022-04-25 |  |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-04-25 |  |
 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 | 2022-04-25 |  |
@@ -39,6 +40,7 @@
 | [Eres un Arte](https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos) | [Derian](https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr), [Deack Lopez](https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo) | [Eres un Arte](https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR) | 3:53 | 2023-01-27 |  |
 | [Fango](https://open.spotify.com/track/4cIRzRikDWfeFskgAbC13R) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Fango](https://open.spotify.com/album/31vollZPe01eJhqLhugezp) | 3:03 | 2022-04-25 |  |
 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 | 2022-04-25 |  |
+| [flores](https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [juan punto](https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW) | [flores](https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj) | 2:27 | 2023-03-10 |  |
 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 | 2022-04-25 |  |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-04-25 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2022-04-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from The Weeknd.",
-  "num_followers": 3656979,
+  "num_followers": 3661313,
   "original_name": "This Is The Weeknd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NzkwNywwMDAwMDAwMDQ4NjZiN2ZkNGFlNTg2OTQ1NGRjYTAxODgzYTFlNWI1",
+  "snapshot_id": "MTY3ODM3NzkwNywwMDAwMDAwMGJlZmNmY2M2ZGRmMzBkNDllM2VjODQ4MjMxMDkxZTk4",
   "tracks": [
     {
       "added_at": "2023-03-09 16:05:07",
@@ -559,8 +559,8 @@
     {
       "added_at": "2023-03-09 16:05:07",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 323746,
-      "name": "Wicked Games",
-      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
+      "duration_ms": 325305,
+      "name": "Wicked Games - Original",
+      "url": "https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl"
     },
     {
       "added_at": "2023-03-09 16:05:07",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-03-09 16:05:07",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 405213,
-      "name": "House Of Balloons / Glass Table Girls",
-      "url": "https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA"
+      "duration_ms": 407315,
+      "name": "House Of Balloons / Glass Table Girls - Original",
+      "url": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV"
     },
     {
       "added_at": "2023-03-09 16:05:07",

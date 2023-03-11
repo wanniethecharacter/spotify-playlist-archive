@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 319819,
+  "num_followers": 319853,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDJmY2ZiNGM0ZjRjZWEzYTBiMTE1NDQzZWQyYjg2NzVm",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDZjNGM0ZjgwNmY0OGZjZWZiOGIzMDM3OWEyOTIxZjA2",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Z\u00e9lia Duncan",
         "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 170800,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte (\u00e1lbum Comentado)",
         "url": "https://open.spotify.com/album/1M3RZvnxDHr86aXG0eXIZS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6vARbzVXg90V8fYmgks5u3"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Asa Morena",
-        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
-      },
-      "artists": [
-        {
-          "name": "Zizi Possi",
-          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Asa Morena",
-      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Primeira Vez",
         "url": "https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193125,
       "name": "Primeira Vez",
       "url": "https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Asa Morena",
+        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
+      },
+      "artists": [
+        {
+          "name": "Zizi Possi",
+          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Asa Morena",
+      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
-      },
-      "artists": [
-        {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
+      },
+      "artists": [
+        {
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Louca",
-        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Louca",
-      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Louca",
+        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Louca",
+      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "TODXS",
+        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Hitz\u00e3o da Porra",
         "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 183933,
       "name": "Quem Vai Quem Vem",
       "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "TODXS",
-        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
     },
     {
       "added_at": "2022-10-07 03:01:33",

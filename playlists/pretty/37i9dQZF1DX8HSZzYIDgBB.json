@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29397,
+  "num_followers": 29408,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMGRlYzZmNTJiNGFhZjFmMDFmZGZkNGM3NTA1ZjcwMjUy",
+  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMDVkYjIzZWEzZWRmMTk4YTc4MmQyODY1YjZjYTcwYWY2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX"
     },
     {
-      "added_at": "2023-03-10 01:02:26",
+      "added_at": "2023-03-11 01:10:45",
       "album": {
         "name": "I Want 2",
         "url": "https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj"
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+    },
+    {
       "added_at": "2022-11-03 18:26:02",
       "album": {
         "name": "Mientras Tanto",
@@ -283,22 +299,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
     },
     {
-      "added_at": "2022-04-20 18:21:19",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
-    },
-    {
       "added_at": "2022-04-09 05:01:42",
       "album": {
         "name": "Diablo",
@@ -563,6 +547,22 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2022-04-20 18:21:19",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -805,6 +789,22 @@
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
+    },
+    {
       "added_at": "2022-03-30 03:09:53",
       "album": {
         "name": "El Sonido Nuevo de",
@@ -819,26 +819,6 @@
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
-    },
-    {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Coraz\u00f3n Usado",
-        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Isabel Aladro",
-          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
-        }
-      ],
-      "duration_ms": 232241,
-      "name": "Coraz\u00f3n Usado",
-      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
     },
     {
       "added_at": "2022-07-11 18:35:10",
@@ -863,6 +843,26 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Coraz\u00f3n Usado",
+        "url": "https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Isabel Aladro",
+          "url": "https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607"
+        }
+      ],
+      "duration_ms": 232241,
+      "name": "Coraz\u00f3n Usado",
+      "url": "https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
+      "added_at": "2021-11-10 05:48:01",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
       "added_at": "2022-09-02 05:18:03",
       "album": {
         "name": "la noche de ayer",
@@ -983,22 +999,6 @@
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
-      "added_at": "2021-11-10 05:48:01",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2022-08-12 14:23:28",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
-      "added_at": "2022-04-09 05:10:17",
-      "album": {
-        "name": "El Mirador",
-        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Cumbia Peninsula",
-      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
-    },
-    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "JEVI",
@@ -1339,6 +1323,22 @@
       "duration_ms": 185440,
       "name": "Pa' Siempre No Es Na",
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
+    },
+    {
+      "added_at": "2022-04-09 05:10:17",
+      "album": {
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Cumbia Peninsula",
+      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 235311,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
+    },
+    {
       "added_at": "2022-04-05 15:50:31",
       "album": {
         "name": "ELCANO",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "El Vacile Del T\u00edo",
         "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
       },
@@ -1593,6 +1593,22 @@
       "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
     },
     {
+      "added_at": "2022-01-21 16:05:39",
+      "album": {
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
+    },
+    {
       "added_at": "2022-08-13 02:49:48",
       "album": {
         "name": "No la Controles",
@@ -1611,22 +1627,6 @@
       "duration_ms": 205114,
       "name": "No la Controles",
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
-    },
-    {
-      "added_at": "2022-01-21 16:05:39",
-      "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
     },
     {
       "added_at": "2021-10-05 16:26:53",

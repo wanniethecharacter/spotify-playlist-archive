@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Nia Archives
 
-165 songs - 8 hr 38 min
+166 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [The Club Is Jumpin'](https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [The Club Is Jumpin'](https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T) | 2:15 | 2022-12-08 | 2023-01-13 |
 | [The Freaks](https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a) | 4:15 | 2023-03-09 |  |
 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 | 2023-02-16 | 2023-03-10 |
-| [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 | 2023-03-09 |  |
+| [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 | 2023-03-09 | 2023-03-11 |
+| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-09 |  |
 | [The Parade](https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [The Parade](https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa) | 2:38 | 2022-12-08 | 2023-01-20 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-12-08 | 2023-01-13 |
 | [Too Late For Love](https://open.spotify.com/track/5AnFltV45uUTHmRIzHvzUh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Too Late For Love](https://open.spotify.com/album/69MFUAZ9z6yxkUqmPahJIN) | 2:42 | 2022-12-08 | 2022-12-16 |

@@ -3777,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Mysterium Tremendum",
+        "url": "https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4"
+      },
+      "artists": [
+        {
+          "name": "Hideous Divinity",
+          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278833,
+      "name": "Mysterium Tremendum",
+      "url": "https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX"
+    },
+    {
+      "album": {
         "name": "Nauseating Oblivion",
         "url": "https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a"
       },
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 285000,
       "name": "Night of the Blasphemy",
       "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 281443,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
@@ -5690,6 +5708,24 @@
       "duration_ms": 257898,
       "name": "Tides of Glass",
       "url": "https://open.spotify.com/track/48HhbpVOPnKvJBKo23rZfz"
+    },
+    {
+      "album": {
+        "name": "Tilbake Til Opprinnelsen",
+        "url": "https://open.spotify.com/album/4seH77vBDdWdCsIVG3OgzN"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375793,
+      "name": "Tilbake Til Opprinnelsen",
+      "url": "https://open.spotify.com/track/1zIu37Rj840KEAtDl6FYbJ"
     },
     {
       "album": {

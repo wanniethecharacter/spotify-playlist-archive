@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-270 songs - 16 hr 57 min
+271 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Keep It Close](https://open.spotify.com/track/2E4awT2B9kuIPkiVezOqsh) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:40 | 2022-07-22 |  |
 | [Keep It Close](https://open.spotify.com/track/6Mxb9ZguHzhND7GiTkWJiu) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Keep It Close](https://open.spotify.com/album/2BVhMXXpSpDWFEnpC6Y07w) | 3:40 | 2021-12-17 | 2022-07-29 |
 | [Leadfoot](https://open.spotify.com/track/2JiVNVjC8W02EZ9Nmp4rNP) | [No Sinner](https://open.spotify.com/artist/4tU4lol6tCmomJNksFxR5z) | [Leadfoot](https://open.spotify.com/album/2YrXPO1FUqr0Ybq04AweFa) | 4:05 | 2021-12-17 | 2022-07-23 |
+| [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 |  |
 | [Let You Go](https://open.spotify.com/track/2p8vubDBdUmbbdNWtC1Ots) | [Great Peacock](https://open.spotify.com/artist/5PMyfGJxTdk91f1MxHw7Uv) | [Let You Go](https://open.spotify.com/album/1p61uyfOlNgnejxbP2jMXZ) | 4:46 | 2021-12-17 |  |
 | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/track/5eoKQlJjP6A8JKjJVAcLUw) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Lift Me Up \(Leave Me Here\)](https://open.spotify.com/album/5wakVnN6GdcJVP4K7jpRS4) | 3:21 | 2021-12-17 |  |
 | [Lightning Strike](https://open.spotify.com/track/5QN2EOIp6XFXCV85dOp35H) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Lightning Strike](https://open.spotify.com/album/3x9chN0T0Z4D5wwFNmy2lc) | 2:58 | 2021-12-17 |  |

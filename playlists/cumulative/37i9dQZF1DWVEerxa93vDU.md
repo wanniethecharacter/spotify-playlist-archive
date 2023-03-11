@@ -4,7 +4,7 @@
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-293 songs - 12 hr 20 min
+294 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Delta](https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Delta](https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN) | 2:24 | 2022-08-30 |  |
 | [Distance](https://open.spotify.com/track/3NywRjjYjyrTjCvV1CcPjD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Distance](https://open.spotify.com/album/3Jal7rGnVgw21HuUs14Knd) | 2:26 | 2021-12-14 | 2022-01-06 |
 | [Dolceacqua](https://open.spotify.com/track/7sj2OB0LdX9mvFm0Cpw9yV) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Dolceacqua](https://open.spotify.com/album/6bF6ADAd24GmL6cvTABqp8) | 2:09 | 2021-12-14 |  |
+| [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-03-10 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2021-12-14 | 2022-02-17 |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-03-30 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2021-12-14 |  |

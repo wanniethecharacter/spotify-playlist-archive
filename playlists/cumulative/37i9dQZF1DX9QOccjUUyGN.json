@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147580,
       "name": "Bolso Cheio",
       "url": "https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Champagne & Sunshine",
+        "url": "https://open.spotify.com/album/2FHLh36bVOhm7x844IHmvw"
+      },
+      "artists": [
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184999,
+      "name": "Champagne & Sunshine",
+      "url": "https://open.spotify.com/track/2o6nViNDO36NyyhVWjEUK7"
+    },
+    {
+      "album": {
         "name": "Chave de Cadeia",
         "url": "https://open.spotify.com/album/4KpvRhz2VZaqtCACmRmJ5g"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 133631,
       "name": "Cora\u00e7\u00e3o Vazio",
       "url": "https://open.spotify.com/track/5bzPLOmAJgn3rPizh2G5Ug"
@@ -2905,6 +2923,32 @@
     },
     {
       "album": {
+        "name": "F\u00e3",
+        "url": "https://open.spotify.com/album/3WBC1ntZv7zXEuVknpZoFg"
+      },
+      "artists": [
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
+        },
+        {
+          "name": "BigJow",
+          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
+        },
+        {
+          "name": "Curioso Beats",
+          "url": "https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203777,
+      "name": "F\u00e3",
+      "url": "https://open.spotify.com/track/6yvcMMKuVWYPBcUuSaWz2W"
+    },
+    {
+      "album": {
         "name": "F\u00e9rias",
         "url": "https://open.spotify.com/album/33CGvmrOEkm99DsvYxZxNG"
       },
@@ -2956,7 +3000,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144244,
       "name": "Gato Preto",
       "url": "https://open.spotify.com/track/0CADoVzBZ1Vho6InM9i1no"
@@ -4472,7 +4516,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 211445,
       "name": "Na Press\u00e3o / Cora\u00e7\u00e3o Na Porta",
       "url": "https://open.spotify.com/track/2HZwILqL7J4EhVNYlIBr5S"
@@ -5607,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "Pussy da Bitch",
+        "url": "https://open.spotify.com/album/4E1Pn0bOoljLCm6zH8BrYP"
+      },
+      "artists": [
+        {
+          "name": "drocke",
+          "url": "https://open.spotify.com/artist/2Vxj17qIRPH1Q6e7M1Sj8a"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pussy da Bitch",
+      "url": "https://open.spotify.com/track/5dz1cPnV8WIoNONemhapkf"
+    },
+    {
+      "album": {
         "name": "Quando Ela Vem",
         "url": "https://open.spotify.com/album/2HWUCUFaPTLTeXd0qcca3B"
       },
@@ -6352,6 +6418,28 @@
       "duration_ms": 124000,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/73hXBSX5xJM5YzPB3yy4ck"
+    },
+    {
+      "album": {
+        "name": "Soldado de Verdade",
+        "url": "https://open.spotify.com/album/3MztsqTOJNWsSNQZphFXiQ"
+      },
+      "artists": [
+        {
+          "name": "MC Neg\u00e3o da BL",
+          "url": "https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Soldado de Verdade",
+      "url": "https://open.spotify.com/track/0xHcewTylOkfyBrZZsNWvA"
     },
     {
       "album": {

@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
+    },
+    {
+      "album": {
         "name": "Chris Tomlin & Friends: Summer EP",
         "url": "https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z"
       },
@@ -1724,6 +1746,28 @@
       "duration_ms": 250626,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li"
+    },
+    {
+      "album": {
+        "name": "52 | This Year",
+        "url": "https://open.spotify.com/album/7f0SnVZqIxSDo3VJTstFR3"
+      },
+      "artists": [
+        {
+          "name": "Kristian Bush",
+          "url": "https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A"
+        },
+        {
+          "name": "Billy Pilgrim",
+          "url": "https://open.spotify.com/artist/4rMdzVjq1qqizATeZrjn6l"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245288,
+      "name": "Longneck With Jesus",
+      "url": "https://open.spotify.com/track/0coShWRXnFrgUMgqvU00gr"
     },
     {
       "album": {
@@ -3286,6 +3330,28 @@
       "duration_ms": 209397,
       "name": "WOMAN AT THE WELL",
       "url": "https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v"
+    },
+    {
+      "album": {
+        "name": "Won't Let Me Go (Acoustic)",
+        "url": "https://open.spotify.com/album/5Mz35pU0IaPfSqqzIYJFRJ"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        },
+        {
+          "name": "Brennley Brown",
+          "url": "https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Won't Let Me Go - Acoustic",
+      "url": "https://open.spotify.com/track/2RcEwMtSmmhNIjNCDr5aT7"
     },
     {
       "album": {

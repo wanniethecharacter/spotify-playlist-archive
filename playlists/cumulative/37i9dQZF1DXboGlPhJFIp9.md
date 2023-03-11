@@ -4,14 +4,16 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-123 songs - 6 hr 9 min
+127 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Slow Unfolding](https://open.spotify.com/track/283CXTP5kLLRC91U8TVOtH) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [A Slow Unfolding](https://open.spotify.com/album/4QV9wjpvDo6h8VlzxbSJxZ) | 2:33 | 2022-10-28 |  |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2022-07-15 |
 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
+| [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2023-03-10 |  |
 | [BLIND](https://open.spotify.com/track/5NlOyaEtji1DNwsWiOjmXP) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [BLIND](https://open.spotify.com/album/3N6aevLWDHClADfBe8MY0X) | 2:01 | 2023-02-25 |  |
+| [Blue Hour](https://open.spotify.com/track/2B8K5m8XwCz2MJvahACTjD) | [Pireas](https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd) | [Blue Hour](https://open.spotify.com/album/6nrN4FXdPFJBUk7QO8HJdk) | 2:20 | 2023-03-10 |  |
 | [Blue Pearl](https://open.spotify.com/track/6khHWpOIcKjA71xz5BWi9h) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Blue Pearl](https://open.spotify.com/album/4Zo1Q2PXOGtV2OirdktdYY) | 2:49 | 2022-09-23 |  |
 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 | 2022-05-13 |  |
 | [Boy Meets World](https://open.spotify.com/track/0r049w4eKLL1dEdZ6xZJYZ) | [Ladderbreak](https://open.spotify.com/artist/0GxMDb96WYvDodwqMfeSwe) | [Cerro](https://open.spotify.com/album/0kXdiTfDJNzAqefh5NBFQy) | 3:41 | 2022-05-13 |  |
@@ -52,6 +54,7 @@
 | [Heavy Sun](https://open.spotify.com/track/3Qpwi2wStbfsZBmULlVFpS) | [Appletrove](https://open.spotify.com/artist/0FkbvhIhFy46IGyR4Ah1Pd) | [Sometimes I Wish](https://open.spotify.com/album/64swfOKUaHH7FCD7QdEBnW) | 2:49 | 2022-05-13 |  |
 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 | 2022-05-13 |  |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2022-05-13 |  |
+| [Hour after hour](https://open.spotify.com/track/5xYlTG06pio4DfoHozkPl0) | [Evolution of Stars](https://open.spotify.com/artist/3Xwj9Vdgj0oqWEsUcSAoMz) | [Hour after hour](https://open.spotify.com/album/3P1DbeVK23UHm8D4Pz1Qo6) | 2:46 | 2023-03-10 |  |
 | [Humility](https://open.spotify.com/track/1735HNwXBqKdNN45fVr0Gp) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Humility](https://open.spotify.com/album/1AkyFuT4waQ9t6wvCMKzdJ) | 2:25 | 2022-12-09 |  |
 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 | 2022-05-13 |  |
 | [Interweave](https://open.spotify.com/track/6LvmN1802Bk6Tcem36utnB) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Interweave](https://open.spotify.com/album/2HMXhnCNU1aDzIigeKLySH) | 2:20 | 2022-06-24 |  |
@@ -76,6 +79,7 @@
 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 | 2022-05-13 |  |
 | [No Wonder](https://open.spotify.com/track/68bPNGdjaLmXDxv80kKs8H) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [No Wonder](https://open.spotify.com/album/1AyHHEzGeR5jaM9c4qt8hw) | 2:27 | 2023-01-06 |  |
 | [Oceans](https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Oceans](https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV) | 2:16 | 2022-08-19 |  |
+| [OCEANS](https://open.spotify.com/track/3RPNs1wcYZD5yKgHCK16ch) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [OCEANS](https://open.spotify.com/album/6MH6fWQQUoD3jBjFxXINu0) | 2:48 | 2023-03-10 |  |
 | [Off\-the\-grid](https://open.spotify.com/track/1a47PzbWf3RBhPAbjK5RgY) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Off\-the\-grid](https://open.spotify.com/album/2MYrltn860rph6b6Qx4ypm) | 2:33 | 2022-12-23 |  |
 | [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 |  |
 | [On Eagle's Wings](https://open.spotify.com/track/1ocwTeXjR7EkkXEyix92Ma) | [Axione](https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC) | [On Eagle's Wings](https://open.spotify.com/album/1ARB7c723GVVygELT8DzoS) | 2:31 | 2023-02-25 |  |
@@ -86,7 +90,7 @@
 | [One Step](https://open.spotify.com/track/3TR4OoqzX947WgOxG1d5F3) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Let Me Play For You](https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj) | 2:24 | 2023-02-25 |  |
 | [Over the Highlands](https://open.spotify.com/track/0YnGWHjeqvBxbdf1T2RXbM) | [Stim Rush](https://open.spotify.com/artist/6oauPLbeRb1ShwhY7dzRUn) | [Expanse](https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho) | 3:10 | 2022-05-13 |  |
 | [Pathways](https://open.spotify.com/track/4xDlA5m82NK3cPFBED5ttv) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Pathways](https://open.spotify.com/album/61FPjJzbfrVssH6ELwer5Z) | 3:20 | 2022-05-13 |  |
-| [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 |  |
+| [Phoenicia](https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb) | [Lester Simon Trio](https://open.spotify.com/artist/4QKlnta4dWJLNF1yE94FF8) | [Phoenicia](https://open.spotify.com/album/1xYqWYfJaUuSa4AHdItMuR) | 4:18 | 2022-05-13 | 2023-03-11 |
 | [PROVENZA \- Guitar](https://open.spotify.com/track/7j2LbOo50jIVChXZsxyFn2) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Éxitos Latinos \(Guitar\)](https://open.spotify.com/album/1QThiTr0gwlXNDP5oW9NGN) | 3:56 | 2023-01-20 |  |
 | [remembrance](https://open.spotify.com/track/5NFybpngup7caMPSMiJ5ZO) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [remembrance](https://open.spotify.com/album/5CodeMIZq9ynQ0hSa4YHRw) | 3:15 | 2022-12-16 |  |
 | [Rest Assured](https://open.spotify.com/track/78TN3sJg3D4PL2QQScW0Fn) | [La Acacia](https://open.spotify.com/artist/5G9yqrjh885YlBh921HYc7) | [Rest Assured](https://open.spotify.com/album/1atqyuFA0PaM6mCZ2aOE72) | 2:44 | 2022-10-28 |  |
@@ -119,7 +123,7 @@
 | [Taylor](https://open.spotify.com/track/5e9j1O0uzn49EYU5JswarF) | [Joe Castle](https://open.spotify.com/artist/5QPm2OdKelGlQ0OKgvT78z) | [Reflections](https://open.spotify.com/album/34DSq25KJCQJ7tlOhVfeLE) | 3:07 | 2022-05-13 |  |
 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 | 2022-05-13 |  |
 | [The Journey](https://open.spotify.com/track/1XcOci00g6G98QaDipUiPb) | [Jimmie Stills](https://open.spotify.com/artist/64FYFlv9Z4qfU4rXS6Ri5E) | [The Actress](https://open.spotify.com/album/2VOcYwupehwQHrQieOWbCH) | 3:12 | 2022-05-13 | 2023-01-20 |
-| [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 |  |
+| [The Kind Journeyman](https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g) | [Timestain](https://open.spotify.com/artist/3x4Wg2JsXrfZkMbfP0giOU) | [Ghost Town](https://open.spotify.com/album/2ceYok3cY1JTWnIP12B7u8) | 2:40 | 2022-05-13 | 2023-03-11 |
 | [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 | 2022-05-13 |  |
 | [Time Capsule](https://open.spotify.com/track/3a2aJxxr1gwXnQXzdij1K2) | [Shawn Moe](https://open.spotify.com/artist/4J11X0SKdQw8qEsDMXJxug) | [Time Capsule](https://open.spotify.com/album/0utIoHGnEg9loR0CPo7Xfr) | 2:12 | 2023-02-25 |  |
 | [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 | 2022-07-08 |  |

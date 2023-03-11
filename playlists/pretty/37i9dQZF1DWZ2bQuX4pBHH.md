@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 
 > Essential tracks of Shah Rukh Khan, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,672 likes - 60 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,794 likes - 60 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2bQuX4pBHH.md) - [plain]
 | 56 | [Tujhe Dekha To \(From "Dilwale Dulhania Le Jayenge"\)](https://open.spotify.com/track/6FZrX6epdqcaQHx9LFRcuf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:03 |
 | 57 | [San Sanana](https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Hema Sardesai](https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:55 |
 | 58 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/619BqiArColRhmckgCGoG3) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:12 |
-| 59 | [Aisi Deewangi \(From "Deewana"\)](https://open.spotify.com/track/4KOyzA5gEZhSPzgorU9gKK) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Best of Bollywood Singers \- Shaan & Vinod Rathod](https://open.spotify.com/album/0Lxd3NYjNrYFQXXS7S1wrf) | 6:55 |
-| 60 | [Issaqbaazi](https://open.spotify.com/track/31xUIiUCZxruoNhour84BR) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:20 |
+| 59 | [Issaqbaazi](https://open.spotify.com/track/31xUIiUCZxruoNhour84BR) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Zero](https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf) | 5:20 |
+| 60 | [Aisi Deewangi \(From "Deewana"\)](https://open.spotify.com/track/4KOyzA5gEZhSPzgorU9gKK) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Best of Bollywood Singers \- Shaan & Vinod Rathod](https://open.spotify.com/album/0Lxd3NYjNrYFQXXS7S1wrf) | 6:55 |
 
-Snapshot ID: `MTY3NjQ2MDkxOSwwMDAwMDAwMGMxMDdlNjMxMGU4MjU1MjNjMDllMzk4MGNjNmFkNTBi`
+Snapshot ID: `MTY3NjQ2MDkxOSwwMDAwMDAwMDc3MjE0YTFiZGJkYTMxMzI4NTBmM2MwOTZkOTkxMTJh`

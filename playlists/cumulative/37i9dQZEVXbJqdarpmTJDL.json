@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 199269,
       "name": "ALITHEIA",
       "url": "https://open.spotify.com/track/03x0o1jOLLiGMyN0SgjtVM"
@@ -13875,6 +13875,28 @@
     },
     {
       "album": {
+        "name": "MYSTIKA",
+        "url": "https://open.spotify.com/album/0wIaS437a0pKj0Niy3PHqz"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163030,
+      "name": "MYSTIKA",
+      "url": "https://open.spotify.com/track/0wSr8ysRGt83Z58ilyhWdD"
+    },
+    {
+      "album": {
         "name": "Mystiko",
         "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
       },
@@ -16928,7 +16950,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169351,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/2Rpfa4gDFr3q96himB2c3m"
@@ -18060,7 +18082,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"

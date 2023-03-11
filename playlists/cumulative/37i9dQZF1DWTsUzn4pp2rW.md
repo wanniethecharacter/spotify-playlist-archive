@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-268 songs - 17 hr 20 min
+269 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Leave Me Be](https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE) | 4:41 | 2022-05-20 | 2022-07-31 |
 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 | 2021-11-19 | 2022-12-08 |
 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 | 2021-11-19 | 2022-08-12 |
-| [Lime](https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Sorrows Into Silk](https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB) | 2:18 | 2021-11-19 |  |
+| [Lime](https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Sorrows Into Silk](https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB) | 2:18 | 2021-11-19 | 2023-03-11 |
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2021-11-19 |  |
 | [Live Without You](https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 1:31 | 2021-11-19 |  |
 | [Loneliness](https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Loneliness](https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd) | 3:05 | 2021-11-19 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW) | 3:10 | 2022-06-08 | 2022-07-29 |
 | [Something My Heart Trusts](https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Something My Heart Trusts](https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw) | 4:37 | 2022-06-22 |  |
 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 | 2021-11-19 |  |
+| [Somewhere Over The Rainbow](https://open.spotify.com/track/0XtrAxuinvQ9qrlSr2rzPN) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Sofia Källgren](https://open.spotify.com/artist/09OnYkvpmVXXKqr2yHAIuL), [Magnus Johansson](https://open.spotify.com/artist/5GQ7Kzcksxq6fWEoLWKbnz) | [Somewhere Over The Rainbow](https://open.spotify.com/album/337Z0b0xL3IXpfnvgpfm0H) | 4:34 | 2023-03-01 |  |
 | [Song Like Ours](https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU) | [Jazzy D](https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR), [Angela Gooden](https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm) | [Song Like Ours](https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q) | 4:58 | 2021-11-19 | 2022-11-25 |
 | [Sorry](https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Sorry](https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p) | 4:09 | 2021-11-19 | 2022-11-25 |
 | [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 | 2021-11-19 | 2022-11-15 |

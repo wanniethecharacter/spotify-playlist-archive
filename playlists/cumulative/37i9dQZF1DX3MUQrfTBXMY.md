@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Encore
 
-177 songs - 14 hr 46 min
+178 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Biday Shur](https://open.spotify.com/track/23Mz2CJBQBqfeen2wtqQCm) | [Greatest News of All Time](https://open.spotify.com/artist/0WE323uSiupYVvsNjH2BTS), [sadishahnewaz](https://open.spotify.com/artist/3F6p3o5g8lVjxlyo6NKqus) | [Biday Shur](https://open.spotify.com/album/08dDfGxp6qZzyAMTnHA18I) | 3:35 | 2022-09-09 | 2023-03-08 |
 | [Bijoyer Gan](https://open.spotify.com/track/4fO6kQvF1BtjW2tpaUIamd) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Dhrubok](https://open.spotify.com/album/3zCNTxHE3jnV2RNwHhErGI) | 3:46 | 2023-02-17 | 2023-03-01 |
 | [Biporit](https://open.spotify.com/track/3PvHtgctQj93os8wwyt4ZE) | [12 AM](https://open.spotify.com/artist/0iSj43HCLPRUKnJjVIfgXT) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 3:47 | 2022-06-16 | 2023-02-18 |
+| [Biprotip](https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:51 | 2023-03-10 |  |
 | [Bishonno Shundor](https://open.spotify.com/track/4yg5KwOtT3UUjdlKR7zSnf) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Bishonno Shundor](https://open.spotify.com/album/10aPVBagHNw3J0nJK3IIZG) | 5:54 | 2022-11-30 |  |
 | [Biyogantok](https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6) | [Tahsan](https://open.spotify.com/artist/69Tu9c0t0IOf0ipXnE74sQ) | [Biyogantok](https://open.spotify.com/album/4Zyvcf7CpmYATwEhAXGo3h) | 5:31 | 2022-06-16 | 2023-01-21 |
 | [Boka pakhi](https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Rongmistree](https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k) | 5:51 | 2023-02-28 |  |

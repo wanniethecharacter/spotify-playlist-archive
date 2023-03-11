@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 76873,
+  "num_followers": 77016,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMGI2ZjMyOGZmYzhlNGRmYmY5NTczNjUyODZhZDk3MGM3",
+  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDk5NDVjMzk1OGExOTU1Mjc2NWRlMTZkNDQ1NDJiYWFh",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Seven Day Jesus",
-        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
-      },
-      "artists": [
-        {
-          "name": "Seven Day Jesus",
-          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
-        }
-      ],
-      "duration_ms": 210768,
-      "name": "Butterfly - Seven Day Jesus Album Version",
-      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Best Of Plumb",
         "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 246106,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Seven Day Jesus",
+        "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
+      },
+      "artists": [
+        {
+          "name": "Seven Day Jesus",
+          "url": "https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa"
+        }
+      ],
+      "duration_ms": 210768,
+      "name": "Butterfly - Seven Day Jesus Album Version",
+      "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Larue",
-        "url": "https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly"
-      },
-      "artists": [
-        {
-          "name": "LaRue",
-          "url": "https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 202333,
       "name": "Why Do I Do",
       "url": "https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Larue",
+        "url": "https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly"
+      },
+      "artists": [
+        {
+          "name": "LaRue",
+          "url": "https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2"
     },
     {
       "added_at": "2023-02-01 04:53:20",

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-479 songs - 1 day 4 hr 59 min
+481 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aiming Up](https://open.spotify.com/track/4Biz6kWjg6lHwupqnpqhJ7) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Another Tape](https://open.spotify.com/album/6LknJNvTsZpTeZhFstYPKG) | 3:50 | 2022-09-26 | 2023-01-02 |
 | [Aiming Up](https://open.spotify.com/track/7mQ5ho9YddYEMBd6qbSkQH) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Aiming Up](https://open.spotify.com/album/2tnVzZQXQTM6x9TyjDStuJ) | 3:50 | 2022-03-30 | 2022-04-19 |
 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 | 2022-03-30 | 2022-04-20 |
-| [Alive \(feat\. Bing Ji Ling\)](https://open.spotify.com/track/6hqdBOgpC58Hsq0kzQlhju) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Bing Ji Ling](https://open.spotify.com/artist/4sIafgKDXEcNYhttAcg9R3) | [Just Landed](https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG) | 4:56 | 2021-12-30 |  |
+| [Alive \(feat\. Bing Ji Ling\)](https://open.spotify.com/track/6hqdBOgpC58Hsq0kzQlhju) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Bing Ji Ling](https://open.spotify.com/artist/4sIafgKDXEcNYhttAcg9R3) | [Just Landed](https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG) | 4:56 | 2021-12-30 | 2023-03-11 |
 | [All Day, All Night](https://open.spotify.com/track/0H9PHWhpMI7LEhZu6U9Cfb) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like You Mean It](https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi) | 2:11 | 2021-12-16 | 2022-12-29 |
 | [All The Time \(feat\. Muroki\)](https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:08 | 2022-01-07 | 2022-04-20 |
 | [Alright](https://open.spotify.com/track/3HnQE5qyk3egTWCreicuOf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/6e2X313opvmQbWCvHdlADs) | 4:35 | 2022-03-30 | 2022-04-16 |
@@ -75,6 +75,7 @@
 | [Can You Get to That](https://open.spotify.com/track/2liDEMyPVzDDLXKUnyiznA) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/5p9GTYAPSgc5C1ck9ZbnMk) | 2:51 | 2022-03-30 | 2022-04-20 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2021-12-16 | 2023-01-09 |
 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 | 2021-12-16 | 2022-07-24 |
+| [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2023-03-11 |  |
 | [Carl Sagan](https://open.spotify.com/track/24GCf1A4pOTEDDcBponpjn) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:52 | 2022-09-26 |  |
 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 | 2022-03-30 |  |
 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm), [Hip Dozer](https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 | 2022-03-30 | 2022-12-29 |
@@ -152,6 +153,7 @@
 | [Get You Back](https://open.spotify.com/track/6Ecfs0LIfbnRFjBx8dnguQ) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Man About Town](https://open.spotify.com/album/6qOF2qnkC0ci4wAhp3XiKD) | 3:36 | 2022-03-30 | 2022-04-18 |
 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 | 2021-12-16 | 2022-07-28 |
 | [Give It Back](https://open.spotify.com/track/7oJDnoQE8C1MbqFc8rQ2uD) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Revolve](https://open.spotify.com/album/5ctAVzIFDn5VMOyceGi2tN) | 4:05 | 2022-03-30 | 2022-04-20 |
+| [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2023-03-11 |  |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-16 | 2022-07-28 |
 | [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2022-12-28 |  |
 | [God Knows](https://open.spotify.com/track/0lrucYudLJu3JSdEiTlH7W) | [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [God Knows](https://open.spotify.com/album/2aGGPFNEdfhACrXIi5LScM) | 3:42 | 2022-03-30 | 2022-04-18 |
@@ -233,7 +235,7 @@
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2022-02-23 | 2023-02-22 |
 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2022-04-19 |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2022-06-08 |
-| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 |  |
+| [Lazy Nina](https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q) | [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Pulse \(Expanded Edition\)](https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4) | 5:26 | 2022-03-30 | 2023-03-11 |
 | [Lesson Learnt](https://open.spotify.com/track/0ibr9W60zg3lSVIClr2tWG) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 2:18 | 2022-03-30 | 2022-04-19 |
 | [Lesson Learnt](https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 2:18 | 2022-07-26 | 2023-02-14 |
 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |

@@ -378,7 +378,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 277333,
       "name": "AY CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk"
@@ -1160,6 +1160,24 @@
       "duration_ms": 263680,
       "name": "La Orquesta",
       "url": "https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV"
+    },
+    {
+      "album": {
+        "name": "Papito por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250868,
+      "name": "La Tetita",
+      "url": "https://open.spotify.com/track/6cGW9ZgtrFHMGMKsco9MC2"
     },
     {
       "album": {

@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Aquela Cena",
+        "url": "https://open.spotify.com/album/0XTUKf4KX5r9BSWQWobRkw"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Aquela Cena",
+      "url": "https://open.spotify.com/track/37RqcDhvyB7ciWYXruB5Sp"
+    },
+    {
+      "album": {
         "name": "Ariana",
         "url": "https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ"
       },
@@ -650,7 +672,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172874,
       "name": "Beija e Arranha",
       "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
@@ -720,7 +742,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187530,
       "name": "Bitches Love Drift",
       "url": "https://open.spotify.com/track/4EV9GgS6sclpSM1uEQOLAe"
@@ -768,7 +790,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 160597,
       "name": "Bola do Olho",
       "url": "https://open.spotify.com/track/7qYBvQ6BjDcOJGLWRk8DLz"
@@ -1110,6 +1132,28 @@
       "duration_ms": 191562,
       "name": "C\u00ea t\u00e1 bem (Remix)",
       "url": "https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX"
+    },
+    {
+      "album": {
+        "name": "Das Antigas",
+        "url": "https://open.spotify.com/album/4Sm03oxHTtYBtt7HADhsKV"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123245,
+      "name": "Das Antigas",
+      "url": "https://open.spotify.com/track/1ByeNKjZYQvD4zXEzWa25V"
     },
     {
       "album": {
@@ -1691,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "Facin",
+        "url": "https://open.spotify.com/album/0tui6HWVGM6NNqkvRMWTJa"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196591,
+      "name": "Facin",
+      "url": "https://open.spotify.com/track/5vekaggDvplAwbrrG2vpyg"
+    },
+    {
+      "album": {
         "name": "Fala Meu Nome",
         "url": "https://open.spotify.com/album/0GXHeKI60SntLBSCld7uiB"
       },
@@ -1746,7 +1812,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 146632,
       "name": "FANFIC",
       "url": "https://open.spotify.com/track/0468vx9SCE18yxtWyYKM6r"
@@ -1894,10 +1960,32 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 180743,
       "name": "Foda Que Ela \u00c9 Linda",
       "url": "https://open.spotify.com/track/0rHct5QPUUlNEQml8GfglW"
+    },
+    {
+      "album": {
+        "name": "Foda Que Ela \u00c9 Linda",
+        "url": "https://open.spotify.com/album/69931yO4I6653FXLnb2WA7"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Tifli",
+          "url": "https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180743,
+      "name": "Foda Que Ela \u00c9 Linda",
+      "url": "https://open.spotify.com/track/6M0V7t6udJAOBLnHcjb2Wp"
     },
     {
       "album": {
@@ -1920,7 +2008,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172819,
       "name": "Fofoca",
       "url": "https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f"
@@ -2387,6 +2475,32 @@
     },
     {
       "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/0iY7kJHcRhssf1e9L306Zq"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/6mYwLgUdqQ9KxmSM0XYM8v"
+    },
+    {
+      "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
@@ -2442,7 +2556,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172029,
       "name": "Mais Um Trago",
       "url": "https://open.spotify.com/track/38Ykj18FJ3YyyyVRIAFaxO"
@@ -2734,6 +2848,28 @@
       "duration_ms": 207608,
       "name": "MINHA MULHER",
       "url": "https://open.spotify.com/track/3geQbVRLtHqhJXMNbJHmPo"
+    },
+    {
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Modo Avi\u00e3o",
+      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
     },
     {
       "album": {
@@ -3386,7 +3522,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 198408,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6elpDIHMkVz82eRatb9tsj"
@@ -3868,6 +4004,32 @@
       "duration_ms": 167090,
       "name": "Rei de Gelo",
       "url": "https://open.spotify.com/track/0qW5Y9jLq21f6FqqsSfaPD"
+    },
+    {
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6yCVx7USfDYQ4Futxuv4aJ"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/4Snrydvw7yvw5JdmWmVHiB"
     },
     {
       "album": {

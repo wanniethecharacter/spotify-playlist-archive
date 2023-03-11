@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 
 > chill vibes ♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,301 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,519 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pdfPOj4HBA.md) - [plain]
 | 45 | [All Tinted](https://open.spotify.com/track/5T5zdXB8MNCGFTspLY45rN) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [All Tinted](https://open.spotify.com/album/2oAx5hF8vyIQoHgeASn5tE) | 3:18 |
 | 46 | [On Me](https://open.spotify.com/track/1VTF2L9xSLpPs4qjLbYW2f) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [On Me](https://open.spotify.com/album/0z8w8HFm5pMNauf8NctcWj) | 2:28 |
 | 47 | [Remember Summer Days \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [杏里 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz) | 3:46 |
-| 48 | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/track/670E2HDx684Yq0rhf84CQc) | [Monaldin](https://open.spotify.com/artist/1Ngs1vi6M75StypXQdB6su), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Femme Like U \(feat\. Emma Peters\)](https://open.spotify.com/album/4JLvy9j6VMshaXXGsRt7lp) | 2:17 |
+| 48 | [Femme Like U](https://open.spotify.com/track/670E2HDx684Yq0rhf84CQc) | [Monaldin](https://open.spotify.com/artist/1Ngs1vi6M75StypXQdB6su), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Femme Like U](https://open.spotify.com/album/4JLvy9j6VMshaXXGsRt7lp) | 2:17 |
 | 49 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
 | 50 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 51 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 |

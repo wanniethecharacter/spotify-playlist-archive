@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Odelia Sabrina
 
-1,597 songs - 4 day 1 hr 48 min
+1,598 songs - 4 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,8 @@
 | [Cinta Pertama](https://open.spotify.com/track/1gI2xetuQPTvB2AAQ9WxtV) | [Seterusunyi](https://open.spotify.com/artist/4hdw2oTip0FIPxEZkq9fZf), [Vega Antares](https://open.spotify.com/artist/3V2FnFodLNcHCTMDs2r7Y6) | [Cinta Pertama](https://open.spotify.com/album/1QvlVzNUV18HfD0m6Ef9gy) | 5:01 | 2022-05-19 | 2022-06-03 |
 | [Cinta Sampai Surga](https://open.spotify.com/track/0Xg6GhhMFlSMneHEdJElWO) | [Glenca Chysara](https://open.spotify.com/artist/3Qirb89c1qrMLDCotsVhXj), [Rendi](https://open.spotify.com/artist/6TSA3DKTvX0ENbA9nlOtuv) | [Cinta Sampai Surga](https://open.spotify.com/album/6qDqpbYh9gNSpGEoTriSHm) | 4:02 | 2022-09-22 | 2022-10-14 |
 | [Cinta Sebenarnya](https://open.spotify.com/track/6zUD40BDyo1UfdVc9kTHC7) | [Rama Nugraha](https://open.spotify.com/artist/0MwXv6xKTY6BDY7JSzFTrv) | [Cinta Sebenarnya](https://open.spotify.com/album/5MLdBX4Q1uX1kYcDvRz7kt) | 3:59 | 2022-01-13 | 2022-01-28 |
-| [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/track/69TVRrVsckWmAKzAlttolX) | [Aliya](https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY) | [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/album/0qFBTxljDnnGPTAVYpKC5u) | 2:35 | 2023-03-09 |  |
+| [Cinta Sederhana](https://open.spotify.com/track/0gKHFUjIP4w4lb81Suyc0H) | [Aliya](https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY) | [Cinta Sederhana](https://open.spotify.com/album/56C4AlB4tjz34QvEmKuEWl) | 3:52 | 2023-03-10 |  |
+| [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/track/69TVRrVsckWmAKzAlttolX) | [Aliya](https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY) | [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/album/0qFBTxljDnnGPTAVYpKC5u) | 2:35 | 2023-03-09 | 2023-03-11 |
 | [Cinta Segitiga](https://open.spotify.com/track/0RlDAeJcKcDF9XEx8Yrwec) | [Egha De Latoya](https://open.spotify.com/artist/4ty4E2G4r2XErvJfvwK4zO) | [Cinta Segitiga](https://open.spotify.com/album/4HWyTXf4KPuNW5fHuDfIsm) | 3:46 | 2022-05-12 | 2022-05-27 |
 | [Cinta Tanpa Tatap](https://open.spotify.com/track/0IHZSxpeAix09DFX5sTC4g) | [Last Sound](https://open.spotify.com/artist/1zCg486ge8SoC1HhVgIX92) | [Cinta Tanpa Tatap](https://open.spotify.com/album/1DT32jwQHNUZzLGWbEmXvi) | 3:54 | 2022-03-31 | 2022-04-15 |
 | [Cinta Tiada Batas](https://open.spotify.com/track/44eaCuGcfusDtWnp8xqt5h) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Cinta Tiada Batas](https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT) | 4:05 | 2022-02-24 | 2022-03-11 |
@@ -1107,7 +1108,7 @@
 | [Rangkul](https://open.spotify.com/track/2csPrVRSlKInRbgxqCt4NH) | [Teressa Deandra](https://open.spotify.com/artist/5sX4FgCdqLUpFcaq3Bsa0e) | [Rangkul](https://open.spotify.com/album/4a8500Fd6JhVUMjLSPbjBe) | 2:27 | 2022-03-11 | 2022-03-25 |
 | [Rasa](https://open.spotify.com/track/27XBXZxG8hCgXWsVTqLy6b) | [MoissIsYours](https://open.spotify.com/artist/2Am7cxLqM4r5RTHkGUvfgH) | [Rasa](https://open.spotify.com/album/4Q1zDd6AYBldx6P4rNdB2m) | 2:29 | 2022-09-09 | 2022-09-23 |
 | [Rasa Kita](https://open.spotify.com/track/2TJ4akmkBol45Ef2chLzix) | [Glenis Calya](https://open.spotify.com/artist/3RrK3KZuJubFBb6zFsl95K) | [Rasa Kita](https://open.spotify.com/album/1O8SqcfDrYVPknnn60BgBI) | 4:31 | 2022-08-25 | 2022-09-09 |
-| [Rasa Tak Biasa](https://open.spotify.com/track/0iXEpRbtHPSuwHqVazwBrH) | [Gisela Sabrina](https://open.spotify.com/artist/78oJHg4VcVmtPcdH2LP2z5) | [Rasa Tak Biasa](https://open.spotify.com/album/7CM3ToTIkU8PMJmn4NC2wq) | 3:58 | 2023-03-09 |  |
+| [Rasa Tak Biasa](https://open.spotify.com/track/0iXEpRbtHPSuwHqVazwBrH) | [Gisela Sabrina](https://open.spotify.com/artist/3qSA2bcj5wWZ9sYCbn5fMF) | [Rasa Tak Biasa](https://open.spotify.com/album/7CM3ToTIkU8PMJmn4NC2wq) | 3:58 | 2023-03-09 |  |
 | [Ready to go](https://open.spotify.com/track/0doSCONZlLHSDWaZsXwzz4) | [Symptom](https://open.spotify.com/artist/2D5Y7wbixsOczerpFlNv1h) | [Ready to go](https://open.spotify.com/album/4FEcRijRvvlT6xO0rYiIzo) | 2:24 | 2022-05-26 | 2022-06-17 |
 | [REAL SHIT](https://open.spotify.com/track/1tVzKme2nlJiTTa01QLRG7) | [$$B Marly](https://open.spotify.com/artist/66pradcdFkbg4YWdvEoAWg), [inzaghi](https://open.spotify.com/artist/1sSWe7u5HGQ1NXtaxJ6tiI) | [REAL SHIT](https://open.spotify.com/album/6CBtJDwoUUEZ0kSNxXIgcq) | 2:34 | 2022-01-27 | 2022-02-11 |
 | [Reality Show \- Funky Groove Remix](https://open.spotify.com/track/70HcdgxuMcVb0pzl2dhwT5) | [Sorenza Nuryanti](https://open.spotify.com/artist/3UtnHWhOJ3UXTyuWmdFqUN) | [Reality Show](https://open.spotify.com/album/1C5cEMy3nDJs5n3LilOJ9f) | 3:05 | 2022-05-19 | 2022-06-03 |

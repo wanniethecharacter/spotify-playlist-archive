@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Living",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  Gilberto Daza y Sergio Luis Rodr\u00edquez",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -876,6 +876,32 @@
       "duration_ms": 245628,
       "name": "Barca ft. Pauneto",
       "url": "https://open.spotify.com/track/52tCAOA00qEvkcsfLSHqX0"
+    },
+    {
+      "album": {
+        "name": "Barra Libre",
+        "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
+      },
+      "artists": [
+        {
+          "name": "Nueva Raza",
+          "url": "https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0"
+        },
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Barra Libre",
+      "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
     },
     {
       "album": {
@@ -1959,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "El Vallenato Se Hizo En El Cielo",
+        "url": "https://open.spotify.com/album/55DJMVVDfU0onoLET3nRYL"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230012,
+      "name": "Dios Es Bueno",
+      "url": "https://open.spotify.com/track/4o5eigcocInKgfuWXjBRzJ"
+    },
+    {
+      "album": {
         "name": "Dios Es la Vuelta",
         "url": "https://open.spotify.com/album/33fM34n6OZE12cOKUlJm9M"
       },
@@ -2210,7 +2258,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 225930,
       "name": "El Dise\u00f1ador",
       "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
@@ -2294,7 +2342,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 309400,
       "name": "El Justo Vivir\u00e1 Por Fe",
       "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
@@ -2378,6 +2426,24 @@
       "duration_ms": 208000,
       "name": "El Nombre de Jes\u00fas",
       "url": "https://open.spotify.com/track/3qcfwaXbHtluMq2qEhkYGK"
+    },
+    {
+      "album": {
+        "name": "Acerqu\u00e9monos",
+        "url": "https://open.spotify.com/album/3dWRgcWgaBCY18uyPDBSA5"
+      },
+      "artists": [
+        {
+          "name": "Francisco Orantes",
+          "url": "https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176348,
+      "name": "El Poder de la Lengua",
+      "url": "https://open.spotify.com/track/6JfKR3tfEPvuxnOOEuJdbl"
     },
     {
       "album": {
@@ -4116,7 +4182,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182717,
       "name": "Me Has Sostenido",
       "url": "https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ"
@@ -4444,6 +4510,24 @@
       "duration_ms": 192276,
       "name": "Miles De Canciones",
       "url": "https://open.spotify.com/track/42gVcsJ9U1fSbxtukx5A7b"
+    },
+    {
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/2HhLV8haJsCasFUU5XppEi"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272375,
+      "name": "Mirar\u00e9 al Rey",
+      "url": "https://open.spotify.com/track/2nbbn4N4hhGP9GJ5aB3DLE"
     },
     {
       "album": {
@@ -4867,6 +4951,32 @@
     },
     {
       "album": {
+        "name": "No Other Place Is Higher (No Hay Lugar M\u00e1s Alto) [Live]",
+        "url": "https://open.spotify.com/album/70hQlXfdGSJVAVrkHguQH7"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Marya Ad\u00e9",
+          "url": "https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549180,
+      "name": "No Other Place Is Higher (No Hay Lugar M\u00e1s Alto) - Live",
+      "url": "https://open.spotify.com/track/3ULNSGnunCeYaINoPgej2D"
+    },
+    {
+      "album": {
         "name": "No Te Creo",
         "url": "https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb"
       },
@@ -5228,7 +5338,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201000,
       "name": "Poema - Remix",
       "url": "https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k"
@@ -6642,7 +6752,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 302149,
       "name": "Te seguir\u00e9",
       "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"

@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 371133,
+  "num_followers": 371368,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMDZmNWRkYTlhNjBjYWE0MTljMWM3MzA3ZmRjNjE5YTM3",
+  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMGI5MzlhYTEyYmQ0MDIyOGQwMmUwNGY1Y2Y5Mjc0OTBk",
   "tracks": [
     {
       "added_at": "2023-03-03 12:27:30",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Gvnman Shift",
-        "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Gvnman Shift",
-      "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "So Mi Like It",
         "url": "https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 153213,
       "name": "So Mi Like It",
       "url": "https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Gvnman Shift",
+        "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Gvnman Shift",
+      "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Asafa Powell: Train For Speed",
-        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Tempted To Touch",
-      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Ambala",
         "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 142080,
       "name": "Ambala",
       "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Asafa Powell: Train For Speed",
+        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
+      },
+      "artists": [
+        {
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Tempted To Touch",
+      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Mi Nuh Know",
-        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
+        "name": "Big Chune",
+        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
         }
       ],
-      "duration_ms": 146886,
-      "name": "Mi Nuh Know",
-      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
+      "duration_ms": 163352,
+      "name": "Big Chune",
+      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Big Chune",
-        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
+        "name": "Mi Nuh Know",
+        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "IamNuhRush",
-          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         }
       ],
-      "duration_ms": 163352,
-      "name": "Big Chune",
-      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
+      "duration_ms": 146886,
+      "name": "Mi Nuh Know",
+      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1112,13 +1112,13 @@
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Deport Them",
-      "url": "https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG"
+      "duration_ms": 169986,
+      "name": "Dat Sexy Body",
+      "url": "https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1128,13 +1128,13 @@
       },
       "artists": [
         {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 169986,
-      "name": "Dat Sexy Body",
-      "url": "https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0"
+      "duration_ms": 188933,
+      "name": "Deport Them",
+      "url": "https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Riddim Driven: Applause",
-        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Bun Fi Bun",
         "url": "https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 197142,
       "name": "Bun Fi Bun",
       "url": "https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Riddim Driven: Applause",
+        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "All 2 Myself",
-        "url": "https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "All 2 Myself",
-      "url": "https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Ghetto Story (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 252893,
       "name": "Vitamin S",
       "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "All 2 Myself",
+        "url": "https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "All 2 Myself",
+      "url": "https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Riddim Driven: Smash",
+        "url": "https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Dutty Wine",
+      "url": "https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Buzz Riddim",
         "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Riddim Driven: Smash",
-        "url": "https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh"
+        "name": "Protect Me",
+        "url": "https://open.spotify.com/album/5DPhF3aIVWGMOngl5IBVYq"
       },
       "artists": [
         {
-          "name": "Tony Matterhorn",
-          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Dutty Wine",
-      "url": "https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW"
+      "duration_ms": 173576,
+      "name": "Protect Me",
+      "url": "https://open.spotify.com/track/7y6HITUoZv9iCCE6LJxtXf"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Protect Me",
-        "url": "https://open.spotify.com/album/5DPhF3aIVWGMOngl5IBVYq"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 173576,
-      "name": "Protect Me",
-      "url": "https://open.spotify.com/track/7y6HITUoZv9iCCE6LJxtXf"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Elegance (Remix)",
         "url": "https://open.spotify.com/album/7ExVCJjWl0QaOoLOLpv1IE"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 234858,
       "name": "Elegance (Remix)",
       "url": "https://open.spotify.com/track/6dJRflqO0CBFUmTpdOKy0L"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Infiltrate",
-      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Best in '09",
+        "url": "https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 88120,
+      "name": "Do You Mind",
+      "url": "https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Hot Wuk 12\"",
         "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
       },
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Best in '09",
-        "url": "https://open.spotify.com/album/0zoxOALXc0b2mKAtlSyBQe"
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
       },
       "artists": [
         {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 88120,
-      "name": "Do You Mind",
-      "url": "https://open.spotify.com/track/2nQ5CtkYZ2ufJNP3C4BL0I"
+      "duration_ms": 207053,
+      "name": "Infiltrate",
+      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
     },
     {
       "added_at": "2023-03-03 12:27:30",

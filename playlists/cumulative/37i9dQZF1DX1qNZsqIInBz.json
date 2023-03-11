@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 192080,
       "name": "BEAT EM DOWN",
       "url": "https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "FANTASIA",
+        "url": "https://open.spotify.com/album/4I5ybDugkUxiJd2D5fwwTr"
+      },
+      "artists": [
+        {
+          "name": "OXXXIDE",
+          "url": "https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141127,
+      "name": "FANTASIA",
+      "url": "https://open.spotify.com/track/5ZN7Ryh3gWfYGwn7zHmktL"
+    },
+    {
+      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn"
       },
@@ -778,6 +796,28 @@
       "duration_ms": 196572,
       "name": "flashback",
       "url": "https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw"
+    },
+    {
+      "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP"
+      },
+      "artists": [
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        },
+        {
+          "name": "svlient",
+          "url": "https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181294,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB"
     },
     {
       "album": {
@@ -1010,7 +1050,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176981,
       "name": "HYPERPHONK",
       "url": "https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT"
@@ -1202,6 +1242,24 @@
       "duration_ms": 186370,
       "name": "Lost Orion",
       "url": "https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM"
+      },
+      "artists": [
+        {
+          "name": "TTM",
+          "url": "https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV"
     },
     {
       "album": {
@@ -2310,7 +2368,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 145481,
       "name": "The Creeps",
       "url": "https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P"

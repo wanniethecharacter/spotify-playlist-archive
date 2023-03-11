@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Sweet Pill
 
-91 songs - 4 hr 54 min
+92 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 |  |
 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 |  |
 | [Headrush](https://open.spotify.com/track/1Zh96LVaAF6rHKCMVtWm1z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Sunk](https://open.spotify.com/album/7uNDF4pj1USgZTDTazd0j9) | 2:42 | 2022-11-25 |  |
-| [Heck](https://open.spotify.com/track/7q7vCKmFmGLhhPmFo3DNpw) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:58 | 2022-11-25 |  |
+| [Heck](https://open.spotify.com/track/7q7vCKmFmGLhhPmFo3DNpw) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:58 | 2022-11-25 | 2023-03-11 |
 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 | 2022-11-25 |  |
 | [I found a date for the holidays \(maybe\)](https://open.spotify.com/track/43KBew1XbpDRXTgZweVAoH) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [I found a date for the holidays \(maybe\)](https://open.spotify.com/album/5BT2nAqcagyoRFooZnr46L) | 2:42 | 2022-11-25 |  |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-11-25 |  |
@@ -75,6 +75,7 @@
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 | 2023-02-12 |
 | [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 |  |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-11-25 |  |
+| [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-03-10 |  |
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 |  |
 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 | 2022-11-25 |  |
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2022-11-25 |  |
@@ -86,7 +87,7 @@
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-11-25 |  |
 | [Talk to Strangers](https://open.spotify.com/track/0RPuTw2dsCs8W4jAdlyxac) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Talk to Strangers](https://open.spotify.com/album/0eHCt4oUTdI8426acSlDBq) | 2:46 | 2023-02-11 |  |
 | [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 | 2022-11-25 |  |
-| [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 |  |
+| [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 |  |
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 |  |
 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 | 2022-11-25 |  |

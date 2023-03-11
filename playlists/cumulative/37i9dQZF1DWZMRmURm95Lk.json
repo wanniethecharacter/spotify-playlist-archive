@@ -2787,21 +2787,13 @@
     },
     {
       "album": {
-        "name": "Mani sporche",
+        "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
       "artists": [
         {
           "name": "Lovegang126",
           "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        },
-        {
-          "name": "Nino Brown",
-          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
         },
         {
           "name": "Franco126",
@@ -2818,13 +2810,21 @@
         {
           "name": "Lil Kvneki",
           "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
         }
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 197227,
-      "name": "Mani sporche",
+      "name": "Mani sporche - feat. Gianni Bismark & Lil Kvneki",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
     },
     {

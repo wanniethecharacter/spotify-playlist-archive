@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "Addicted to you",
+        "url": "https://open.spotify.com/album/2jDXwEnAZcRswFdxufO8gY"
+      },
+      "artists": [
+        {
+          "name": "Colone",
+          "url": "https://open.spotify.com/artist/0pQGruzS2qDKZKC2brjxA9"
+        },
+        {
+          "name": "Lim3",
+          "url": "https://open.spotify.com/artist/1Sr5Z8blDO7kSnwiK3qxfi"
+        },
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Addicted to you",
+      "url": "https://open.spotify.com/track/6YRxaKuVqSSjZzUnoBqYZk"
+    },
+    {
+      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
@@ -768,6 +794,32 @@
       "duration_ms": 153244,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/5vvzQCWYPzFX0qKoDLGcGx"
+    },
+    {
+      "album": {
+        "name": "Cups (Drunk in Love Pt. 2)",
+        "url": "https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "Edward V",
+          "url": "https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163617,
+      "name": "Cups (Drunk in Love Pt. 2)",
+      "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
     },
     {
       "album": {
@@ -1440,7 +1492,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
@@ -1700,7 +1752,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 158571,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
@@ -2640,7 +2692,7 @@
           "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148714,
@@ -3084,7 +3136,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 146372,
       "name": "Nobody To Love (with Loren Gray)",
       "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
@@ -3180,6 +3232,32 @@
       "duration_ms": 171780,
       "name": "On And On",
       "url": "https://open.spotify.com/track/70n69mBQ7kaNPHpky7UEpF"
+    },
+    {
+      "album": {
+        "name": "One And Only",
+        "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "Money For Nothing",
+          "url": "https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123934,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
     },
     {
       "album": {
@@ -4065,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5AHAWbu3w5lx7i6M5Ox3Ii"
+      },
+      "artists": [
+        {
+          "name": "Nikita Rise",
+          "url": "https://open.spotify.com/artist/3JbIreZsuOKpswi0Bjtk9g"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4Dicl4UZdgarU082FDHfrq"
+    },
+    {
+      "album": {
         "name": "Southside Island",
         "url": "https://open.spotify.com/album/7Ilv1tyYDtnbXW94NqxDFy"
       },
@@ -4600,7 +4696,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189543,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"

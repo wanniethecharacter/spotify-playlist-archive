@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Maud Elka
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,488 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,557 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Quart d’heure](https://open.spotify.com/track/2oDiYffqlWKYwLtKdDmKqD) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Quart d’heure](https://open.spotify.com/album/7mg7WFBAuTHetVMBrvHfFR) | 3:08 |
 | 40 | [Ailleurs](https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Ailleurs](https://open.spotify.com/album/4Qsy1FwQVGeYD2JkZKUZPH) | 2:09 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGI3ZTU5MmE4MjMxMzZlYTdlMWI2YzJhMTBlMTU1ZDJh`
+Snapshot ID: `MTY3ODQ0MDQwNywwMDAwMDAwMDg5NDE1Y2M2YmM3MjFmMTE4OTQyMWY2NmE5N2U3NDZk`

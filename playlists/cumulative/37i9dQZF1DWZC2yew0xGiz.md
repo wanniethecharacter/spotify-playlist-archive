@@ -4,7 +4,7 @@
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-39 songs - 2 hr 56 min
+40 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Friday](https://open.spotify.com/track/13AvIMuWOBUWGBhWGIHb6N) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 3:49 | 2021-02-02 |  |
 | [Get It Up \- From The Columbia Motion Picture "Poetic Justice"](https://open.spotify.com/track/1zzmsLdx09eAIsB51QGkeJ) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 4:23 | 2021-02-02 |  |
 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 | 2021-02-02 |  |
-| [Gonna Give It To Ya](https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:51 | 2021-02-02 |  |
+| [Gonna Give It To Ya](https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:51 | 2021-02-02 | 2023-03-11 |
+| [Gonna Give It To Ya](https://open.spotify.com/track/12LKTGOxhik5p08cIpaa6t) | [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:51 | 2021-02-02 |  |
 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 | 2021-02-02 |  |
 | [I Wanna Sex You Up \- Single Mix](https://open.spotify.com/track/3lsse1FoSHnNXc6y0jHxvd) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 3:56 | 2021-02-02 |  |
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2021-02-02 |  |

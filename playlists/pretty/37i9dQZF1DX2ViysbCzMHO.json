@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 116118,
+  "num_followers": 116227,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGRmOTZjMTBmMTU0NDUyMTRhMTYxOWFhMGI5MGZiYzNj",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGMxMWQ2MDkzYTZhMGNiYTdmYWM1YjE1NGIzNzFkMDJj",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Cowboy In Me (Yellowstone Edition)",
-        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 217676,
-      "name": "The Cowboy In Me - Yellowstone Edition",
-      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "The Cowboy In Me (Yellowstone Edition)",
+        "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217676,
+      "name": "The Cowboy In Me - Yellowstone Edition",
+      "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Long Live Cowgirls (Me and a Fiddle)",
-        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Long Live Cowgirls - Me and a Fiddle",
-      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 161052,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Prayed For You (Wedding Version)",
-        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Prayed For You - Wedding Version",
-      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Prayed For You (Wedding Version)",
+        "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Prayed For You - Wedding Version",
+      "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I Can Tell You're Small Town (The Back Home Version)",
-        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
+        "name": "The Acoustic Sessions",
+        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
       },
       "artists": [
         {
-          "name": "Noah Hicks",
-          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Charles Kelley",
+          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
         }
       ],
-      "duration_ms": 181947,
-      "name": "I Can Tell You're Small Town (The Back Home Version)",
-      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
+      "duration_ms": 198026,
+      "name": "Here Tonight - The Acoustic Sessions",
+      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Acoustic Sessions",
-        "url": "https://open.spotify.com/album/6ELrULx8DT9j6j5DJWyUkZ"
+        "name": "I Can Tell You're Small Town (The Back Home Version)",
+        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        },
-        {
-          "name": "Charles Kelley",
-          "url": "https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC"
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Here Tonight - The Acoustic Sessions",
-      "url": "https://open.spotify.com/track/0cNzDnav21HiLyYDvldKUO"
+      "duration_ms": 181947,
+      "name": "I Can Tell You're Small Town (The Back Home Version)",
+      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+        "name": "Truth Is (Acoustic)",
+        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+      "duration_ms": 171818,
+      "name": "Truth Is - Acoustic",
+      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Be The Whiskey (Acoustic)",
-        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 182027,
-      "name": "Be The Whiskey - Acoustic",
-      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Truth Is (Acoustic)",
-        "url": "https://open.spotify.com/album/6SvdzgAk9PpKjsUjgF5gCH"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Truth Is - Acoustic",
-      "url": "https://open.spotify.com/track/1zYWbiwLIoVdl53KwH60DT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Be The Whiskey (Acoustic)",
+        "url": "https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 182027,
+      "name": "Be The Whiskey - Acoustic",
+      "url": "https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Almost Maybes (Acoustic)",
-        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Almost Maybes - Acoustic",
-      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Austin (Acoustic)",
         "url": "https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 226179,
       "name": "Austin - Acoustic",
       "url": "https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     },
     {
       "added_at": "2023-03-03 05:00:00",

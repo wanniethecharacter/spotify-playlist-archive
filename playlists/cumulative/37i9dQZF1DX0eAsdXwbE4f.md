@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-112 songs - 4 hr 54 min
+113 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Birds in Rain Drizzle](https://open.spotify.com/track/65s31uOH0Fz0ZXkIOVAZ54) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Birds and Rain Ambience](https://open.spotify.com/album/6KX6htV3TsEmlfU7z9xE0F) | 2:20 | 2021-11-11 |  |
 | [Birds In Rain Sounds](https://open.spotify.com/track/058rowztUHSMcRaoV1WW7h) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Birds In Rain Sounds](https://open.spotify.com/album/7FNqm12dXIkN0wEO3zHGPc) | 2:43 | 2022-02-21 |  |
 | [Birds in the Rain](https://open.spotify.com/track/4Vq2DNGyQl6WCg0rNMJoaU) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:43 | 2021-11-11 |  |
+| [Birds in the Spring Rain](https://open.spotify.com/track/74HzxCRcYQLHC1CoBwc3gF) | [Jane Quin](https://open.spotify.com/artist/5LByymUnsM8FuuYIEUhI8o) | [Birds in the Spring Rain](https://open.spotify.com/album/0FJndSgck0RqNeMZAzxvmB) | 2:06 | 2023-03-03 |  |
 | [Birds Love Rain](https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 | 2021-11-11 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2021-11-11 |  |
 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 | 2022-02-16 |  |
@@ -48,7 +49,7 @@
 | [Heavy Rain](https://open.spotify.com/track/2TELIKNRpPNkMSnuSq1XNj) | [The Rain Factory](https://open.spotify.com/artist/49vl57hBAlm48azTd4iCsN) | [Sleep Rain](https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs) | 3:30 | 2021-11-11 |  |
 | [Hummingbird Song](https://open.spotify.com/track/7r79M5K5fyQtCaHV42XyKa) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Hummingbird Song](https://open.spotify.com/album/1fwsA7tNImY1FXpDgTxFFZ) | 2:38 | 2021-11-11 |  |
 | [In Harmony with the Rain](https://open.spotify.com/track/5KIFUG7h4FZGEDvAvLTbqX) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:54 | 2021-11-11 |  |
-| [Intense Rain & Bird Chirping](https://open.spotify.com/track/4ASnUaTj0YzEdaSIlCt836) | [True World Sounds](https://open.spotify.com/artist/7mVD7jiuXi6IjoqUYheL4c) | [Intense Rain & Bird Chirping](https://open.spotify.com/album/7FAGDSgG6pyg9jGWtPdvo4) | 2:24 | 2021-11-11 |  |
+| [Intense Rain & Bird Chirping](https://open.spotify.com/track/4ASnUaTj0YzEdaSIlCt836) | [True World Sounds](https://open.spotify.com/artist/7mVD7jiuXi6IjoqUYheL4c) | [Intense Rain & Bird Chirping](https://open.spotify.com/album/7FAGDSgG6pyg9jGWtPdvo4) | 2:24 | 2021-11-11 | 2023-03-11 |
 | [Jungle Rain & Birds](https://open.spotify.com/track/6f1Xrs3WGd8UE8tGF3Gh20) | [Pure Nature Noises](https://open.spotify.com/artist/0rr1c1cUGaS1C9spij8eUr) | [Rainy Forest & Bird Sounds](https://open.spotify.com/album/0VZMstdc1LIkO6P3VHj1Mg) | 2:13 | 2021-11-11 |  |
 | [Jungle Wasteland](https://open.spotify.com/track/5uXeQrLdjkB1Uqb0Or1lem) | [Talia Jones](https://open.spotify.com/artist/3UVCy86aCGcOjbofqiVA2b) | [Raindrops Of Birds](https://open.spotify.com/album/1Kquvvc71ZmmOzEGIuyNsQ) | 2:24 | 2021-11-11 |  |
 | [Light Rain](https://open.spotify.com/track/7tNdcQPVXvHKDywFLDlOfa) | [Mell Green](https://open.spotify.com/artist/0mDIlJmQo8555BMKf6V7GJ) | [Light Rain](https://open.spotify.com/album/33fiUxCaehMkxrxeTKdZ2x) | 2:26 | 2021-11-11 |  |

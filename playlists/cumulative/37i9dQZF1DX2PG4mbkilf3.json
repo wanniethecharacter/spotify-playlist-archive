@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186585,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/3Yw1sQIaJvUZjS4QNt4qrl"
@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/4bCBQNr0cmDJ7DCOhRlDM5"
+      },
+      "artists": [
+        {
+          "name": "B.ROB",
+          "url": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/4k2upKKu83q3kMVS1LkTGc"
+    },
+    {
+      "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
@@ -2898,6 +2916,24 @@
       "duration_ms": 231538,
       "name": "Ernesto - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0cjhPcpQ6jTA5UPO9ELwNT"
+    },
+    {
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/5XdsQoTtfVkslUD8PyxaOb"
+      },
+      "artists": [
+        {
+          "name": "Victoria Yoi",
+          "url": "https://open.spotify.com/artist/3qDaumbNDX2IrizHdita3T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/7y4cTaMSl4WZLEExL25HHy"
     },
     {
       "album": {
@@ -4838,6 +4874,24 @@
       "duration_ms": 188132,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum"
+    },
+    {
+      "album": {
+        "name": "Into Nirvana",
+        "url": "https://open.spotify.com/album/23yroNvqRYGmbbl0YXPsS5"
+      },
+      "artists": [
+        {
+          "name": "SPIRITSAVER",
+          "url": "https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159896,
+      "name": "Into Nirvana",
+      "url": "https://open.spotify.com/track/3c5vdnAI4NMrTDwBvEOmoh"
     },
     {
       "album": {
@@ -7332,7 +7386,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 129130,
       "name": "Peace & Money",
       "url": "https://open.spotify.com/track/0DbxgVFpS8nVimTRfjodv6"
@@ -7480,7 +7534,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207732,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/5uLE6WpZJBLYmoJ7Ge4lSt"
@@ -8159,6 +8213,28 @@
     },
     {
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/0WPZCaNaRBFJCJqVCHMZvs"
+      },
+      "artists": [
+        {
+          "name": "LISE",
+          "url": "https://open.spotify.com/artist/3dHRLZ9iTiUDiPNc4P6GU1"
+        },
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207229,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3jU2yNiDqZWl4q5O6WJfmq"
+    },
+    {
+      "album": {
         "name": "SEALED",
         "url": "https://open.spotify.com/album/0Dvd00aVRh1EiAXNUBcQ68"
       },
@@ -8822,7 +8898,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187916,
       "name": "Soul N Me",
       "url": "https://open.spotify.com/track/5THyG13rOAd20KQurY6DM6"

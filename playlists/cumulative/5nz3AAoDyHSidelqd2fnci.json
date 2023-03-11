@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 226653,
       "name": "A Past and Future Secret - Remastered 2007",
       "url": "https://open.spotify.com/track/4CzY52FYCfd0WCA2ZbwXS8"
+    },
+    {
+      "album": {
+        "name": "Fever (Tour Edition)",
+        "url": "https://open.spotify.com/album/5jx8tY8uKTYHYmhxkEmw7n"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "A Place Where You Belong",
+      "url": "https://open.spotify.com/track/49MrcsjUxbf56bFSp3c8G2"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161441,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4vUTDiEyjTcpFMNOkcrjep"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234760,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/2wmLiiSelOVhU0Hfb0R6EV"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 238142,
       "name": "America (Celldweller Remix) [Bonus Track]",
       "url": "https://open.spotify.com/track/5X158MBxve3Qi9HzJQujrK"
@@ -185,6 +203,42 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6PfpFynKzUEFitHt7BwcVL"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6wwQGRSdFANEyk9KkIrCQP"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
+    },
+    {
+      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -232,7 +286,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 241226,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/0ZQP53JjEi16mmMtFv4afu"
@@ -311,6 +365,46 @@
     },
     {
       "album": {
+        "name": "7th Symphony",
+        "url": "https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Gavin Rossdale",
+          "url": "https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "End of Me",
+      "url": "https://open.spotify.com/track/6LTO5XEIQZxg2Awn3p6xeN"
+    },
+    {
+      "album": {
+        "name": "First Daze Here (Reissue)",
+        "url": "https://open.spotify.com/album/0GM6MDeaoFAFZj2GSnjV6J"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "Forever My Queen",
+      "url": "https://open.spotify.com/track/2Zoi3cGA6SW4NXHzGQzhAe"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -358,10 +452,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 317289,
       "name": "Got My Mind Set On You - Extended Version",
       "url": "https://open.spotify.com/track/6miUySWi347iIJyz7ETo6m"
+    },
+    {
+      "album": {
+        "name": "New Demons",
+        "url": "https://open.spotify.com/album/0ofEcqNFO5GCb9mYwGbOXL"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53560,
+      "name": "Initialization Sequence",
+      "url": "https://open.spotify.com/track/5XRudtFV1XrzVETUVuJbZc"
     },
     {
       "album": {
@@ -412,7 +524,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 178285,
       "name": "Majalca",
       "url": "https://open.spotify.com/track/4IcvsDVsftpVFrPqqVy99V"
@@ -434,6 +546,24 @@
       "duration_ms": 216732,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2rdIbS7BQCGNKuhuED3Xyx"
+    },
+    {
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Mi Novia Tiene B\u00edceps - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7kRhtWodPO1Oi0UVuj7Dob"
     },
     {
       "album": {
@@ -473,6 +603,24 @@
     },
     {
       "album": {
+        "name": "night at the bar",
+        "url": "https://open.spotify.com/album/3C4yn2Z7k4kImGRGokxzbr"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138926,
+      "name": "night at the bar",
+      "url": "https://open.spotify.com/track/4X9IBwnP5PPLGM1iUATF5t"
+    },
+    {
+      "album": {
         "name": "Et Tu, Brute ?",
         "url": "https://open.spotify.com/album/1BvrJtiq4cbbCkj0I2gkmo"
       },
@@ -484,7 +632,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 181900,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5BgO84DnydOmjtSriVHvYa"
@@ -502,7 +650,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 96693,
       "name": "Return Of The Fly",
       "url": "https://open.spotify.com/track/0mWwoJf3MLLZtnHH1VlxPM"
@@ -574,10 +722,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 344186,
       "name": "Ten Thousand Feet",
       "url": "https://open.spotify.com/track/3wcnWZU7iLFh3H2XD3voPU"
+    },
+    {
+      "album": {
+        "name": "The Pale Emperor (Deluxe)",
+        "url": "https://open.spotify.com/album/3EaXUU967ApUUxMm7SWtGN"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256323,
+      "name": "The Devil Beneath My Feet",
+      "url": "https://open.spotify.com/track/5UYGdq7onasyve2DTPKi8k"
     },
     {
       "album": {
@@ -599,6 +765,24 @@
     },
     {
       "album": {
+        "name": "The Book of Souls",
+        "url": "https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813713,
+      "name": "The Red and the Black",
+      "url": "https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC"
+    },
+    {
+      "album": {
         "name": "Trickin'",
         "url": "https://open.spotify.com/album/3321dSMSdH1wJN929uP1TF"
       },
@@ -610,10 +794,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144372,
       "name": "Trickin'",
       "url": "https://open.spotify.com/track/06BMFPUT2iNtnzlpMnwOQ8"
+    },
+    {
+      "album": {
+        "name": "Unlove Me",
+        "url": "https://open.spotify.com/album/0APyDpteAPwWPxGmwhLDw8"
+      },
+      "artists": [
+        {
+          "name": "NOVALU",
+          "url": "https://open.spotify.com/artist/6WW932bJ0s12prfQgFyzTG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Unlove Me",
+      "url": "https://open.spotify.com/track/7fX4KLKk1dtCUHa9AT1bco"
     },
     {
       "album": {
@@ -628,7 +830,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 292093,
       "name": "Why Rock?",
       "url": "https://open.spotify.com/track/50iQXqoGdZXQGLHvR1yRb8"
@@ -650,6 +852,24 @@
       "duration_ms": 166895,
       "name": "Worms",
       "url": "https://open.spotify.com/track/3vxEgwQPiXqF2FK3hL79BL"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     }
   ],
   "url": "https://open.spotify.com/playlist/5nz3AAoDyHSidelqd2fnci"

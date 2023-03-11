@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/1U7BenRoyJVYOzEmt6o8uI"
+      },
+      "artists": [
+        {
+          "name": "Shana Cleveland",
+          "url": "https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "Mayonnaise",
+      "url": "https://open.spotify.com/track/2lSAqPR6AjU2rmeB6VnszB"
+    },
+    {
+      "album": {
         "name": "Sugarbread",
         "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
       },

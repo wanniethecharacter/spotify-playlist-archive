@@ -1607,6 +1607,32 @@
     },
     {
       "album": {
+        "name": "Katha Venuka Katha",
+        "url": "https://open.spotify.com/album/2jFleBZRXrLDcBHKACAucc"
+      },
+      "artists": [
+        {
+          "name": "Shravan Bharadwaj",
+          "url": "https://open.spotify.com/artist/4NJ8t2GbuELfOCiLIfVVOW"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ninnu Choosi Choodanga",
+      "url": "https://open.spotify.com/track/5ab5N1AiyDJBxZ1237eBqS"
+    },
+    {
+      "album": {
         "name": "Sridevi Shoban Babu",
         "url": "https://open.spotify.com/album/0MJhgnMFGR6DlPVWdm48yJ"
       },

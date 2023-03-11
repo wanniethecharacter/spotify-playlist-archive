@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-558 songs - 23 hr 50 min
+559 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2022-05-27 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-05-27 |  |
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-05-27 | 2022-09-24 |
-| [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-27 |  |
+| [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-27 | 2023-03-11 |
 | [Memoir](https://open.spotify.com/track/6VVNMAwMNKSUcHOsvXsi1d) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Memoir](https://open.spotify.com/album/3JBl5z5I7CHQeVh1JV62RB) | 2:27 | 2022-05-27 | 2022-09-24 |
 | [Memories](https://open.spotify.com/track/14ThDvcp8xYaSj9LFlDnJk) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Memories](https://open.spotify.com/album/4ss6KnP645o4i24DLltoR7) | 2:49 | 2022-05-27 | 2022-07-21 |
 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-05-27 |  |
@@ -472,6 +472,7 @@
 | [The Calm I Feel With You](https://open.spotify.com/track/79ipXyEKejaMsqMc3VMwYA) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Calm I Feel With You](https://open.spotify.com/album/0XKTyN8365BXT1ONPgtGDZ) | 2:24 | 2022-05-27 | 2022-09-24 |
 | [The County](https://open.spotify.com/track/6eU3N3kZUse3wUbhnrPtsl) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 2:35 | 2022-05-27 | 2022-09-24 |
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-05-27 | 2023-02-15 |
+| [The Farewell](https://open.spotify.com/track/2Mc7mVrymhooU24Hitf5D7) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1G1ATtg73fL1UQnCcGAHg6) | 2:48 | 2023-03-06 |  |
 | [The Fisherman's Daughter](https://open.spotify.com/track/54l2gnlMDdSLTWClTb0ZaQ) | [Alexander Bennet](https://open.spotify.com/artist/5lFnOYOGN0nii1bCJyORgV) | [The Fisherman's Daughter](https://open.spotify.com/album/1ABsnOGYyAVq6xHVhWESiI) | 2:12 | 2022-05-27 | 2022-09-24 |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-05-27 |  |
 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 | 2022-05-27 | 2022-09-24 |

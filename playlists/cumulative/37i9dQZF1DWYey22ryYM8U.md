@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Marshmello & Manuel Turizo
 
-271 songs - 17 hr 41 min
+272 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [Amor A Primera Vista](https://open.spotify.com/track/1E7RHPXA9sZ30qfms18J7J) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor A Primera Vista](https://open.spotify.com/album/2UMbhed3WWoe88zIkyvWvG) | 3:41 | 2021-12-03 | 2022-02-15 |
 | [Amor Bonito](https://open.spotify.com/track/6fxlcTylxj06V5MRoCdtKP) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Amor Bonito](https://open.spotify.com/album/4YhXCbDmaXP7eWL51RA5cD) | 2:54 | 2021-12-03 | 2022-02-15 |
 | [Amor De Una Noche \(feat\. Julio Voltio\) \- Remix Version](https://open.spotify.com/track/6B9r2hH46YbSEvnivmeF5C) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [Julio Voltio](https://open.spotify.com/artist/0eHWAfgyxZWAKR6NZ8nsd9) | [I Love Salsa \(re\-release\)](https://open.spotify.com/album/4nGpYxZxPjnqD2zJQCyGzB) | 4:27 | 2021-12-03 | 2022-02-15 |
+| [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-11 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-02-14 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-02-14 |  |
 | [Aventurero](https://open.spotify.com/track/5nwKrZxqJST4jFgYf9TuBx) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/26dpAQy9hpsW0bIiA0FSdb) | 3:29 | 2021-12-03 | 2022-02-12 |
-| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 |  |
+| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 | 2023-03-11 |
 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 | 2022-02-14 |  |
 | [Añoranza](https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y) | [Tiempo Al Tiempo](https://open.spotify.com/album/6mJu7gLuQ4nHVNrwc0Zgkx) | 4:51 | 2021-12-03 | 2022-02-14 |
 | [Años Luz](https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:40 | 2021-12-03 | 2022-02-15 |

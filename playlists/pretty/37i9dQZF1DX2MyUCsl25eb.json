@@ -1,13 +1,45 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 976927,
+  "num_followers": 976924,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDNmYjFhN2JlNWRiYjYzNzg0OTliODdjODIxZjVlZGY0",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDU5ODk4ZGM1M2UwYzAyYzBlMzZjNjQxZGQ0OWRiYmZh",
   "tracks": [
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "The Best That I Have",
+      "url": "https://open.spotify.com/track/4mon8EZmM3yJ1Ky7pfh770"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 200261,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/6PctdJn0tMlRtWUDtVZEW4"
+    },
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
@@ -29,6 +61,78 @@
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Spark of Light",
+        "url": "https://open.spotify.com/album/50T9NPuqSjDqZdzg9KabwE"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Spark of Light",
+      "url": "https://open.spotify.com/track/4REYfEDOiGi1p6YwY9KjPP"
+    },
+    {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Home For My Heart",
+        "url": "https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158598,
+      "name": "Home For My Heart",
+      "url": "https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
+    },
+    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Raincatchers",
@@ -43,6 +147,22 @@
       "duration_ms": 239550,
       "name": "Raincatchers",
       "url": "https://open.spotify.com/track/6StoqrO6Hm52RQaQMUrotJ"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 231551,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -61,20 +181,20 @@
       "url": "https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
+      "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G"
+        "name": "way after forever",
+        "url": "https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
         }
       ],
-      "duration_ms": 200173,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
+      "duration_ms": 173662,
+      "name": "way after forever",
+      "url": "https://open.spotify.com/track/0uhGgihlgkmAGZvp93rUwm"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1193,22 +1313,6 @@
       "url": "https://open.spotify.com/track/7FEUENNMyyXkHcjLN6VSLA"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Sunday In Heaven",
@@ -1259,22 +1363,6 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "5 Minutes",
-        "url": "https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "5 Minutes",
-      "url": "https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1409,30 +1497,6 @@
       "url": "https://open.spotify.com/track/0fsHUAkn0JFj4xLn4aRPs4"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Vanilla Sky",
-        "url": "https://open.spotify.com/album/43wSUB1aMQyWYcL6TPJmOG"
-      },
-      "artists": [
-        {
-          "name": "The Carmen Show",
-          "url": "https://open.spotify.com/artist/5z1PxeWFRjLp1rAAGtVps5"
-        },
-        {
-          "name": "Lou Berry",
-          "url": "https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ"
-        },
-        {
-          "name": "Eylia",
-          "url": "https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30"
-        }
-      ],
-      "duration_ms": 253308,
-      "name": "Vanilla Sky",
-      "url": "https://open.spotify.com/track/6z1yCeOuf5m0fUdzFnnHnC"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Carving Canyons",
@@ -1495,54 +1559,6 @@
       "duration_ms": 201463,
       "name": "I Just Want a Lover",
       "url": "https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "What Does Sorry Mean",
-        "url": "https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf"
-      },
-      "artists": [
-        {
-          "name": "Madison Kozak",
-          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "What Does Sorry Mean",
-      "url": "https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Horsepower For The Streets",
-        "url": "https://open.spotify.com/album/6aOPINvqY1tVRMpBWQsujr"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "You Make Me Feel This Way",
-      "url": "https://open.spotify.com/track/3WP8SQMQ6fzlE3kitho7X6"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Like I Am",
-        "url": "https://open.spotify.com/album/6pC64owlnDVzlsYDvIPFTb"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 301386,
-      "name": "Like I Am",
-      "url": "https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 188310,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Winslow Gardens",
-        "url": "https://open.spotify.com/album/5GR11i1LhkoU7qhuAXCbE0"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Winslow Gardens",
-      "url": "https://open.spotify.com/track/7vcoR1NEuU7BmX3IjCRDOk"
     },
     {
       "added_at": "2023-02-17 05:01:00",

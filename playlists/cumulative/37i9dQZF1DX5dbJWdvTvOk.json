@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Adelita",
+        "url": "https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124087,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9"
+    },
+    {
+      "album": {
         "name": "Albarrac\u00edn",
         "url": "https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 166074,
       "name": "Andromeda Shimmer",
       "url": "https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml"
@@ -326,6 +344,24 @@
       "duration_ms": 253662,
       "name": "Beber",
       "url": "https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d"
+    },
+    {
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172729,
+      "name": "Before You go",
+      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
     },
     {
       "album": {
@@ -628,7 +664,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 146875,
       "name": "Canci\u00f3n A Solas",
       "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185820,
       "name": "Chiapas",
       "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
@@ -964,6 +1000,24 @@
       "duration_ms": 146181,
       "name": "Davos",
       "url": "https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc"
+    },
+    {
+      "album": {
+        "name": "Demelza",
+        "url": "https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP"
+      },
+      "artists": [
+        {
+          "name": "Francisco Chavez",
+          "url": "https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205817,
+      "name": "Demelza",
+      "url": "https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW"
     },
     {
       "album": {
@@ -1320,7 +1374,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 153473,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj"
@@ -1583,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Hearst Castle",
+        "url": "https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Hearst Castle",
+      "url": "https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk"
+    },
+    {
+      "album": {
         "name": "Hold Back The River",
         "url": "https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH"
       },
@@ -1619,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Lake Varna",
+        "url": "https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112897,
+      "name": "How Far Have We Come",
+      "url": "https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6"
+    },
+    {
+      "album": {
         "name": "I Never Really Lost You",
         "url": "https://open.spotify.com/album/5NB6PAUks28HbiKhYl09DI"
       },
@@ -1630,7 +1720,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217946,
       "name": "I Never Really Lost You",
       "url": "https://open.spotify.com/track/5ktW8oGQimLO9EE7mPdkrc"
@@ -1760,7 +1850,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 248000,
       "name": "Just One Step At A Time",
       "url": "https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD"
@@ -2013,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Long Story",
+        "url": "https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Femi",
+          "url": "https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125095,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON"
+    },
+    {
+      "album": {
         "name": "Longing for Light",
         "url": "https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank"
       },
@@ -2204,7 +2312,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 135505,
       "name": "Montesinho",
       "url": "https://open.spotify.com/track/5AzYGfl2BlQS2xDy63NcoL"
@@ -2294,7 +2402,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 261433,
       "name": "Nachtfalke",
       "url": "https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k"
@@ -2744,7 +2852,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186763,
       "name": "san luca",
       "url": "https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu"
@@ -2896,6 +3004,24 @@
       "duration_ms": 193245,
       "name": "Shifrin",
       "url": "https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU"
+    },
+    {
+      "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
     },
     {
       "album": {
@@ -3184,6 +3310,24 @@
       "duration_ms": 157088,
       "name": "The Air Portal",
       "url": "https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv"
+    },
+    {
+      "album": {
+        "name": "The Airport",
+        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150404,
+      "name": "The Airport",
+      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
     },
     {
       "album": {
@@ -3548,7 +3692,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 163923,
       "name": "Viajando Solo",
       "url": "https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX"

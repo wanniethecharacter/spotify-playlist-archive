@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Feist",
+  "description": "A laid-back trip in the folk scene. Cover: Rufus Wainwright",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 285115,
       "name": "17",
       "url": "https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f"
+    },
+    {
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/4gnavG8BfBoQsfQTsp9TS5"
+      },
+      "artists": [
+        {
+          "name": "Kris Ulrich",
+          "url": "https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/1TtU43aOawXo1HSMtASG1x"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 170235,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c"
@@ -128,6 +146,28 @@
       "duration_ms": 205920,
       "name": "All Dressed Up",
       "url": "https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/56SM0Astc88nwn9KA6KM7n"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        },
+        {
+          "name": "Cinzia & The Eclipse",
+          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216013,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z"
     },
     {
       "album": {
@@ -964,7 +1004,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182083,
       "name": "Concussion",
       "url": "https://open.spotify.com/track/44QZDutuB7stlBUk7fH5O3"
@@ -1004,6 +1044,24 @@
       "duration_ms": 205517,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/2vovZwFq9eACQxg13nf0FM"
+    },
+    {
+      "album": {
+        "name": "Thank You for Trying: ACT I & II",
+        "url": "https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q"
+      },
+      "artists": [
+        {
+          "name": "Ten Kills the Pack",
+          "url": "https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252602,
+      "name": "Critics (Fifty Bucks)",
+      "url": "https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf"
     },
     {
       "album": {
@@ -1232,6 +1290,28 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "album": {
+        "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/7MAmoUXsgLUzc887kZcX46"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Down in the Willow Garden (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF"
     },
     {
       "album": {
@@ -1592,7 +1672,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189920,
       "name": "Every Little Heart",
       "url": "https://open.spotify.com/track/7rn9elPfuViahibddSfGdn"
@@ -1700,7 +1780,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207513,
       "name": "Explain It",
       "url": "https://open.spotify.com/track/7HUmzWxcmldnjewITpD5xb"
@@ -1873,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Wisconsin",
+        "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Fish Out of Water",
+      "url": "https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg"
+    },
+    {
+      "album": {
         "name": "Fix It for You",
         "url": "https://open.spotify.com/album/6iGDbmsiSqnsQunzgqaUWC"
       },
@@ -1963,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "For the Sake of Comedy",
+        "url": "https://open.spotify.com/album/3N3HmTL9LTCRHzB7T2rUKu"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216951,
+      "name": "For the Sake of Comedy",
+      "url": "https://open.spotify.com/track/7m34UcmXaQzdpOUl71WUsR"
+    },
+    {
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
       },
@@ -2028,7 +2144,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 244841,
       "name": "Get Well",
       "url": "https://open.spotify.com/track/3TLoHaTjiHZa8smASRwzXk"
@@ -2314,7 +2430,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 301506,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
@@ -2434,6 +2550,24 @@
       "duration_ms": 276000,
       "name": "How I See It",
       "url": "https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj"
+    },
+    {
+      "album": {
+        "name": "I Can't Get My Head Around You",
+        "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW"
     },
     {
       "album": {
@@ -2758,7 +2892,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176973,
       "name": "Jericho Beach",
       "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
@@ -2820,6 +2954,28 @@
       "duration_ms": 186748,
       "name": "Joint Account",
       "url": "https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm"
+    },
+    {
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278765,
+      "name": "juro que vi flores (feat. Silvia P\u00e9rez Cruz)",
+      "url": "https://open.spotify.com/track/52xOiplF4RbYstcdHhWL1l"
     },
     {
       "album": {
@@ -3548,7 +3704,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 159061,
       "name": "Never Not Sunday",
       "url": "https://open.spotify.com/track/0I4MoWFuqj48cBzbIMgZ6D"
@@ -3804,7 +3960,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 188364,
       "name": "On Your Way - Acoustic",
       "url": "https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ"
@@ -3822,7 +3978,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 135730,
       "name": "One Bird Calling",
       "url": "https://open.spotify.com/track/4GzJ0pIpiIl3lkVVEL4ZLq"
@@ -5223,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Rivals EP",
+        "url": "https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68480,
+      "name": "The Mess",
+      "url": "https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL"
+    },
+    {
+      "album": {
         "name": "Lavender Days",
         "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
       },
@@ -5436,7 +5610,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186168,
       "name": "This Is How We Move",
       "url": "https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt"
@@ -5530,7 +5704,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 190520,
       "name": "tout \u00e7a",
       "url": "https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX"
@@ -5704,6 +5878,24 @@
       "duration_ms": 280720,
       "name": "Us All",
       "url": "https://open.spotify.com/track/5jKrSVPHA7sfhpBgLYaH4v"
+    },
+    {
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "album": {
@@ -6143,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194608,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2"
+    },
+    {
+      "album": {
         "name": "You Could Be Free",
         "url": "https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl"
       },
@@ -6158,6 +6368,24 @@
       "duration_ms": 187360,
       "name": "You Could Be Free",
       "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"
+    },
+    {
+      "album": {
+        "name": "Sanctity of Silence",
+        "url": "https://open.spotify.com/album/2x9gBZX2IKiF9TnkgQVUdk"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243623,
+      "name": "You Got a Hold on Me",
+      "url": "https://open.spotify.com/track/69VKlOVP8NBMnKcnqB3jdX"
     },
     {
       "album": {

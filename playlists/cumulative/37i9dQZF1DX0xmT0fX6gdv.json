@@ -5,6 +5,68 @@
   "tracks": [
     {
       "album": {
+        "name": "Bebeto 20",
+        "url": "https://open.spotify.com/album/3Ag6ZKeKAuvxvGWVdZR97G"
+      },
+      "artists": [
+        {
+          "name": "Bebeto",
+          "url": "https://open.spotify.com/artist/7s6K4YGtN6umad2vEORNM4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271772,
+      "name": "A La Louca",
+      "url": "https://open.spotify.com/track/23lccGseZyEwefnHGH4Dxk"
+    },
+    {
+      "album": {
+        "name": "Not One, Not Two",
+        "url": "https://open.spotify.com/album/0C5QSW6AG8bgWs733MviDo"
+      },
+      "artists": [
+        {
+          "name": "Y B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/1rKSITDFjGyptpcCRSDJy7"
+        },
+        {
+          "name": "Yumurta",
+          "url": "https://open.spotify.com/artist/77PdcLUnBbC6R3QDuNIT96"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129173,
+      "name": "A Large Room Full of People",
+      "url": "https://open.spotify.com/track/6PJaqnYYE3AV9jGNev3xGk"
+    },
+    {
+      "album": {
+        "name": "\u0663 (Trois)",
+        "url": "https://open.spotify.com/album/7v2WkOUlCmdAefZ2DSRSzC"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Khnafer Lazhar",
+          "url": "https://open.spotify.com/artist/2BtPC9IyXKBLSPKDTWO9ce"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Acid Chawi",
+      "url": "https://open.spotify.com/track/2MvgUyQSRAWAP7R0DfYEXC"
+    },
+    {
+      "album": {
         "name": "At Home",
         "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
       },
@@ -52,7 +114,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 325250,
       "name": "Alien - House Mix",
       "url": "https://open.spotify.com/track/48bvfhEvFOpPG0vytehFai"
@@ -114,7 +176,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 239090,
       "name": "Atfalouna - Version",
       "url": "https://open.spotify.com/track/5kWgw70JEjlZRinQfHTyNl"
@@ -154,7 +216,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 312986,
       "name": "Bal",
       "url": "https://open.spotify.com/track/12q47DxU96xOrC7Io9D9tQ"
@@ -230,7 +292,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 388500,
       "name": "Brooklyn Nights - Fantastic Man Remix",
       "url": "https://open.spotify.com/track/3TmL1VQzZsWy6raigHAmNn"
@@ -266,7 +328,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212880,
       "name": "Capture",
       "url": "https://open.spotify.com/track/37vnC2MWiloM6rGAjNDmxm"
@@ -306,6 +368,24 @@
       "duration_ms": 795768,
       "name": "Chasing It",
       "url": "https://open.spotify.com/track/0ZX46fIoKOoGMwuhZDNcGx"
+    },
+    {
+      "album": {
+        "name": "Flashlights On Love",
+        "url": "https://open.spotify.com/album/6aqDHVPH6FAlNSqr1hlj8P"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Erbay",
+          "url": "https://open.spotify.com/artist/584BtJGKoe10AgSJsKq8nX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399640,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/0uIwwhkQYdxoujs257eZu2"
     },
     {
       "album": {
@@ -418,7 +498,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 339136,
       "name": "Disko Marak",
       "url": "https://open.spotify.com/track/5SfcX7BLBLKv1NftO4dfXS"
@@ -440,7 +520,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 579724,
       "name": "Djanfa Magni - Bosq's Afro Disco Mix",
       "url": "https://open.spotify.com/track/1ezHsXxfjYtD0g1oyQc0gP"
@@ -570,10 +650,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 279874,
       "name": "El Fen",
       "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
+    },
+    {
+      "album": {
+        "name": "El awama",
+        "url": "https://open.spotify.com/album/3Nj5YDTvPhY3BCTr7RfizR"
+      },
+      "artists": [
+        {
+          "name": "Cheb Kader",
+          "url": "https://open.spotify.com/artist/6EB4XzIj8t9JSMy5zyEJi3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "En'ssel fik",
+      "url": "https://open.spotify.com/track/3OF4DzzQROXmqGEs3l5PRE"
     },
     {
       "album": {
@@ -745,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Todas sus grabaciones en Hispavox (1966-1969) [Remastered 2015]",
+        "url": "https://open.spotify.com/album/5mFdQz7Hq7GcprMgnJ2hvU"
+      },
+      "artists": [
+        {
+          "name": "Los Pasos",
+          "url": "https://open.spotify.com/artist/6iHnHe4RMUaGQjtIRjYyuK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250013,
+      "name": "Habibi - 2015 Remaster",
+      "url": "https://open.spotify.com/track/615dCtcrqPmPnRZzvtwU6W"
+    },
+    {
+      "album": {
         "name": "Hearing Damage",
         "url": "https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f"
       },
@@ -778,7 +894,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 290380,
       "name": "Here Come The Warm Dreads",
       "url": "https://open.spotify.com/track/1kd268bxUJsXWYNeng2CDZ"
@@ -796,7 +912,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 214160,
       "name": "Hey Matthew",
       "url": "https://open.spotify.com/track/1NwZV2bnxgSxmPQYOZjZyR"
@@ -850,10 +966,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 315239,
       "name": "Hotel of The Lake, 1990",
       "url": "https://open.spotify.com/track/67CGqrmYKmK0xQv5Cuayn4"
+    },
+    {
+      "album": {
+        "name": "Sacred Love Meditations",
+        "url": "https://open.spotify.com/album/2nKrJd8kzt4xZT9C7PgXot"
+      },
+      "artists": [
+        {
+          "name": "Mirabai Ceiba",
+          "url": "https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723586,
+      "name": "Humee Hum - The Other Is You",
+      "url": "https://open.spotify.com/track/1MWDQSB6vmVPjF9SAQINvt"
     },
     {
       "album": {
@@ -872,7 +1006,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 515999,
       "name": "I'm Going to Go - Instrumental Plant Mix",
       "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
@@ -890,7 +1024,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 298367,
       "name": "Idris",
       "url": "https://open.spotify.com/track/4QpJkTKAoUAyPAhOvWJo4c"
@@ -966,7 +1100,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 299155,
       "name": "K\u00fcnefe (Vocal Version)",
       "url": "https://open.spotify.com/track/5wRgakxpeT7wpJY9c2hItq"
@@ -988,7 +1122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 271600,
       "name": "Laila O Laila - Qurbani / Soundtrack Version",
       "url": "https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y"
@@ -1082,7 +1216,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212527,
       "name": "Listo Medellin Cabina 8",
       "url": "https://open.spotify.com/track/0sLbBFsjpE5oCAMzVwBgyX"
@@ -1118,7 +1252,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 238803,
       "name": "Logarithms",
       "url": "https://open.spotify.com/track/55eB2kzt92aUx7zIhtyBwo"
@@ -1154,7 +1288,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 310383,
       "name": "Magic Weapons Hills - Original mix",
       "url": "https://open.spotify.com/track/1Zorpv8ukf2qVXKEgyYZ5f"
@@ -1172,7 +1306,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 669413,
       "name": "Make 1, 2 - Gem Spa Dub",
       "url": "https://open.spotify.com/track/55EpEpSXsDJLjgQfJVylcb"
@@ -1226,7 +1360,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 215840,
       "name": "Mets Neidude Vahel",
       "url": "https://open.spotify.com/track/5yBweTimEmr4GYmo6WJ0l3"
@@ -1248,6 +1382,24 @@
       "duration_ms": 279506,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/1o9KelvWxt3M3AlN0OPtP4"
+    },
+    {
+      "album": {
+        "name": "Mood Dance",
+        "url": "https://open.spotify.com/album/2dyfZXK8q8mnyU96wy2MVt"
+      },
+      "artists": [
+        {
+          "name": "dj_2button",
+          "url": "https://open.spotify.com/artist/4oGIm95d02eoZBEqrU96Zj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445834,
+      "name": "Mood Dance",
+      "url": "https://open.spotify.com/track/1tTJ9uBV4ktKZWA4oFwRWI"
     },
     {
       "album": {
@@ -1364,7 +1516,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 311692,
       "name": "Nasnusa",
       "url": "https://open.spotify.com/track/25VsX5GaM7gjWnbgjQXk7o"
@@ -1448,7 +1600,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 364013,
       "name": "Odio Sem Valor",
       "url": "https://open.spotify.com/track/1x3Ugr5PjHwf9hJgxHwTIB"
@@ -1484,7 +1636,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203253,
       "name": "Palmiers En Pots",
       "url": "https://open.spotify.com/track/6AyEI8KkUd03s5vKMnAJTN"
@@ -1506,7 +1658,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 372631,
       "name": "Pepper on the Tongue",
       "url": "https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6"
@@ -1524,7 +1676,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 159066,
       "name": "Pigs... (In There)",
       "url": "https://open.spotify.com/track/5637hDKbBVrncMGEDYKA2d"
@@ -1634,7 +1786,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 300000,
       "name": "Raibotic Love / \u0627\u0644\u062d\u0628 \u0627\u0644\u0631\u0627\u064a\u0628\u0648\u062a\u064a",
       "url": "https://open.spotify.com/track/0T4aAdEHCyzegUKOn1vOPF"
@@ -1710,7 +1862,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 326083,
       "name": "Riso Amaro",
       "url": "https://open.spotify.com/track/4j973PEBfwmvvPEot0TyNC"
@@ -1790,7 +1942,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 389561,
       "name": "Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/6E8P3PeM76bGMYNtYFDyGI"
@@ -1812,6 +1964,24 @@
       "duration_ms": 241093,
       "name": "She's Got A Gun - Instrumental Club Mix / Remastered 2005",
       "url": "https://open.spotify.com/track/0KwSc45seVIWRH0Q5qmOJe"
+    },
+    {
+      "album": {
+        "name": "More Of That Frightful Oompty Boompty Music",
+        "url": "https://open.spotify.com/album/1VlCcaQhG62osTrvRWjJVd"
+      },
+      "artists": [
+        {
+          "name": "Mehmet Aslan",
+          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357818,
+      "name": "Shizowaves",
+      "url": "https://open.spotify.com/track/6SpprrswgwoIqn4yRgIFBq"
     },
     {
       "album": {
@@ -1996,7 +2166,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 195000,
       "name": "Tha Sou Kano Kapsonaki",
       "url": "https://open.spotify.com/track/2NUoyRMIm58LC5y88KXqhN"
@@ -2014,7 +2184,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 219727,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
@@ -2068,7 +2238,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 408637,
       "name": "Transe \u00e9mois",
       "url": "https://open.spotify.com/track/6zTSw4t6mIR59n9lx9rs7K"
@@ -2147,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Vikram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2e0ISrWjj9fJZnAKV6S0o5"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254254,
+      "name": "Vikram Vikram",
+      "url": "https://open.spotify.com/track/6iUI6Hqb8AqWbE8KlpX5BS"
+    },
+    {
+      "album": {
         "name": "The Blank Generation - Blank Tapes NYC 1971 - 1985",
         "url": "https://open.spotify.com/album/2uE83QfrfQ2kN1SilFddni"
       },
@@ -2198,7 +2386,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 316800,
       "name": "What I Mean",
       "url": "https://open.spotify.com/track/263v6jKCxZwTVGlNHtQHLz"
@@ -2216,7 +2404,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 292800,
       "name": "Wicked Sitar",
       "url": "https://open.spotify.com/track/2XK0J86q3FqP6m7n7NgCYU"

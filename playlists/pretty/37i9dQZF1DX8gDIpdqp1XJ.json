@@ -1,13 +1,37 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 850349,
+  "num_followers": 850729,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI5MzAwMSwwMDAwMDAwMGFkM2Q3MGE5Y2FiZDBhYmM2YzdiYmFjZjRmYTlmMjM5",
+  "snapshot_id": "MTY3ODQ3MDA5MSwwMDAwMDAwMGMwN2NjNzk5N2JmMGM3NGMwYzNhNzI5N2JkNWViYzc0",
   "tracks": [
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Gabo's Last Resort / Hyakutake",
+        "url": "https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "duration_ms": 228825,
+      "name": "Gabo's Last Resort",
+      "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
+    },
     {
       "added_at": "2023-03-06 15:29:49",
       "album": {
@@ -23,22 +47,6 @@
       "duration_ms": 203380,
       "name": "Vega",
       "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
-    },
-    {
-      "added_at": "2023-03-07 16:25:44",
-      "album": {
-        "name": "Low Lights and Throwback Tunes",
-        "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
-      },
-      "artists": [
-        {
-          "name": "common goldfish",
-          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
-        }
-      ],
-      "duration_ms": 247949,
-      "name": "Low Lights and Throwback Tunes",
-      "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
     },
     {
       "added_at": "2023-03-06 15:37:43",
@@ -89,6 +97,38 @@
       "url": "https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
+        "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 168786,
+      "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
+      "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
+    },
+    {
+      "added_at": "2023-03-07 16:25:44",
+      "album": {
+        "name": "Low Lights and Throwback Tunes",
+        "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
+      },
+      "artists": [
+        {
+          "name": "common goldfish",
+          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
+        }
+      ],
+      "duration_ms": 247949,
+      "name": "Low Lights and Throwback Tunes",
+      "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
+    },
+    {
       "added_at": "2023-01-27 22:29:52",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -119,6 +159,22 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Heaven Surrounds Us Like a Hood",
+        "url": "https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Heaven Surrounds Us Like a Hood",
+      "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -169,6 +225,22 @@
       "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Failed at Math(s)",
+      "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"
+    },
+    {
       "added_at": "2023-03-06 15:51:23",
       "album": {
         "name": "Waiting",
@@ -203,6 +275,22 @@
       "duration_ms": 176040,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6BmOUlxE0nuvMgpizNfehS"
+    },
+    {
+      "added_at": "2023-03-10 17:38:59",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-03-06 15:11:21",
@@ -417,6 +505,22 @@
       "url": "https://open.spotify.com/track/4JXicRysL3kGWGRV1UFFmC"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Camden Town",
+        "url": "https://open.spotify.com/album/3YSncxIJ5IIOfe88FHVzQM"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "duration_ms": 235271,
+      "name": "Camden Town",
+      "url": "https://open.spotify.com/track/5yyiFYQX6Zw4oeYR2b3Cxx"
+    },
+    {
       "added_at": "2022-12-16 05:09:00",
       "album": {
         "name": "Let It Pass",
@@ -500,13 +604,29 @@
       },
       "artists": [
         {
-          "name": "KALI",
+          "name": "Superfan",
           "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
         }
       ],
       "duration_ms": 254399,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2023-03-10 17:41:31",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 272157,
+      "name": "Chateau (Feel Alright)",
+      "url": "https://open.spotify.com/track/3vjs2MDHoF9xhylNg6Y9un"
     },
     {
       "added_at": "2023-03-06 15:11:21",
@@ -635,6 +755,22 @@
       "duration_ms": 300999,
       "name": "This Heart of Mine",
       "url": "https://open.spotify.com/track/6EC0epWBuexiJYzfvRGVga"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Rosemary Hemphill",
+        "url": "https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 311282,
+      "name": "Rosemary Hemphill",
+      "url": "https://open.spotify.com/track/63FnpR9gIfFkpGMK2v6DAl"
     },
     {
       "added_at": "2023-02-22 20:24:05",
@@ -965,22 +1101,6 @@
       "url": "https://open.spotify.com/track/0pPriiSNZ0ZuTVsWZbPuph"
     },
     {
-      "added_at": "2023-03-06 15:11:21",
-      "album": {
-        "name": "Deep in Thought",
-        "url": "https://open.spotify.com/album/7HvToLnaATPKifUgdKGBT0"
-      },
-      "artists": [
-        {
-          "name": "South of France",
-          "url": "https://open.spotify.com/artist/0sBxk1gyQM4VN1j1pS01GJ"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Deep in Thought",
-      "url": "https://open.spotify.com/track/0FeNQSPv57L6ZomDDLSjMb"
-    },
-    {
       "added_at": "2023-01-27 22:29:52",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -1131,22 +1251,6 @@
       "duration_ms": 140880,
       "name": "Heart Break Escape",
       "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
-    },
-    {
-      "added_at": "2023-02-09 19:17:14",
-      "album": {
-        "name": "We Might Not Be Friends After This",
-        "url": "https://open.spotify.com/album/6fivd6PMKJaYncQrPLfMzh"
-      },
-      "artists": [
-        {
-          "name": "Alton Allen",
-          "url": "https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq"
-        }
-      ],
-      "duration_ms": 280278,
-      "name": "Miracle Mile",
-      "url": "https://open.spotify.com/track/3QkQvfVhWMMmc1yD0xBDhj"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1407,22 +1511,6 @@
     {
       "added_at": "2023-03-06 15:11:21",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/1Y72pUjm0HQ55whwr44QV9"
-      },
-      "artists": [
-        {
-          "name": "Ian Reynold",
-          "url": "https://open.spotify.com/artist/1SwN9zqne93a9eXrlr0tr1"
-        }
-      ],
-      "duration_ms": 227790,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4jDYPVKZd7V9h5Pll27BRv"
-    },
-    {
-      "added_at": "2023-03-06 15:11:21",
-      "album": {
         "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
         "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
       },
@@ -1555,38 +1643,6 @@
     {
       "added_at": "2023-01-27 22:29:52",
       "album": {
-        "name": "Hot New Things",
-        "url": "https://open.spotify.com/album/38ppkMSKnqkm6H29gEJAZS"
-      },
-      "artists": [
-        {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "Hot New Things",
-      "url": "https://open.spotify.com/track/3mHYiEpLo5HjiaHg5P87yu"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/6DtOiwEsQh4liA9UK0xqBB"
-      },
-      "artists": [
-        {
-          "name": "Charlie Myles",
-          "url": "https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/4nTR8KBN9mu1Yjy7P6K29l"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
         "name": "Be Yourself",
         "url": "https://open.spotify.com/album/4uQjXmaXCFSdrVDqOPKelo"
       },
@@ -1599,26 +1655,6 @@
       "duration_ms": 178527,
       "name": "Be Yourself",
       "url": "https://open.spotify.com/track/2GV1Oif2Y3jDk380qfgsz8"
-    },
-    {
-      "added_at": "2023-01-27 22:29:52",
-      "album": {
-        "name": "Already Know (Volleyball Remix)",
-        "url": "https://open.spotify.com/album/0eqZaPPUsQYWgLC83u3FW6"
-      },
-      "artists": [
-        {
-          "name": "adam brian paul",
-          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
-        },
-        {
-          "name": "Volleyball",
-          "url": "https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Already Know - Volleyball Remix",
-      "url": "https://open.spotify.com/track/4W8aC3CNYy0OJjSMmFntLp"
     },
     {
       "added_at": "2023-01-27 22:29:52",
@@ -1651,54 +1687,6 @@
       "duration_ms": 205880,
       "name": "Blossoms",
       "url": "https://open.spotify.com/track/35mGoqObgsLbl91JQVYHic"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Rakiya Su Katamam b/w Leylim Ley",
-        "url": "https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220142,
-      "name": "Rak\u0131ya Su Katamam",
-      "url": "https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC"
-    },
-    {
-      "added_at": "2022-12-16 05:09:00",
-      "album": {
-        "name": "Green Again",
-        "url": "https://open.spotify.com/album/1djc8byesAMHdmPQnezRjz"
-      },
-      "artists": [
-        {
-          "name": "Caraml",
-          "url": "https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Green Again",
-      "url": "https://open.spotify.com/track/2w2iYbQq4HjDw1kraCnDDA"
-    },
-    {
-      "added_at": "2023-01-06 06:05:00",
-      "album": {
-        "name": "Then Leave",
-        "url": "https://open.spotify.com/album/3kZNRD0GaK65dYFaZ5bEJ7"
-      },
-      "artists": [
-        {
-          "name": "Jacob Chatelain",
-          "url": "https://open.spotify.com/artist/7hqvVXvpltopYfz6SjwPhk"
-        }
-      ],
-      "duration_ms": 199592,
-      "name": "Then Leave",
-      "url": "https://open.spotify.com/track/4V0N4RO5HampcPLYpUwJK9"
     }
   ],
   "unique_name": "Modern Psychedelia",

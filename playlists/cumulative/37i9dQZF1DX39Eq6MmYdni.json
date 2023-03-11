@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 121690,
       "name": "All The Good Die Young",
       "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 162142,
       "name": "Before The Next Teardrop Falls",
       "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 150160,
       "name": "Chivo Tatemado - En Vivo",
       "url": "https://open.spotify.com/track/6U207u3B4SLqShzWtoslWe"
@@ -282,6 +282,28 @@
       "duration_ms": 188764,
       "name": "Devu\u00e9lveme a Mi Chica",
       "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+    },
+    {
+      "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "album": {
@@ -434,7 +456,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
@@ -594,7 +616,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 170600,
       "name": "Lo Dice El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203410,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/5pKPM9W3sfUjXrqfczJGVf"
@@ -686,7 +708,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 184666,
       "name": "Me gustas - En vivo",
       "url": "https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca"
@@ -770,7 +792,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 182603,
       "name": "Mi Tesoro (En Vivo)",
       "url": "https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af"
@@ -810,7 +832,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 143360,
       "name": "Ni\u00f1a Del Destino",
       "url": "https://open.spotify.com/track/2qw6rZeBqI6x6CJcdREYaR"
@@ -857,6 +879,24 @@
     },
     {
       "album": {
+        "name": "P.O.V",
+        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117760,
+      "name": "P.O.V",
+      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
+    },
+    {
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -886,10 +926,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217600,
       "name": "Power",
       "url": "https://open.spotify.com/track/1hSrp2LyVkM94tHCjgXFcP"
+    },
+    {
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6uKXucI9pipi5LysfKkoU9"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/3pr7Km3C87u8fLwdSCXosy"
     },
     {
       "album": {
@@ -948,7 +1006,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 209111,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
@@ -1014,6 +1072,28 @@
       "duration_ms": 152340,
       "name": "Sin Parar",
       "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
+    },
+    {
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
     },
     {
       "album": {
@@ -1090,7 +1170,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 192026,
       "name": "VUELVE",
       "url": "https://open.spotify.com/track/3YadGCBjSGDedx1DY1J6na"

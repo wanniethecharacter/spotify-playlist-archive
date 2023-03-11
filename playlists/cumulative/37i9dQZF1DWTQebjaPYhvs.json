@@ -2242,10 +2242,32 @@
       ],
       "date_added": "2019-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 330001,
       "name": "Outlaw Shit",
       "url": "https://open.spotify.com/track/0xXclRFq5QAkSk5WAsrXHF"
+    },
+    {
+      "album": {
+        "name": "Waylon Forever",
+        "url": "https://open.spotify.com/album/4hFmvqPVhvOgFssTpFQHHu"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "The .357s",
+          "url": "https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c"
+        }
+      ],
+      "date_added": "2019-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330001,
+      "name": "Outlaw Shit",
+      "url": "https://open.spotify.com/track/6hPyZ1hZK8j73Ezf6qHotf"
     },
     {
       "album": {

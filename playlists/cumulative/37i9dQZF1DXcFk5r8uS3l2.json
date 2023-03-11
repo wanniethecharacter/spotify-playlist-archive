@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: The War and Treaty",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 103077,
       "name": "4 Edward",
       "url": "https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w"
@@ -56,6 +56,32 @@
       "duration_ms": 80976,
       "name": "61 South",
       "url": "https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA"
+    },
+    {
+      "album": {
+        "name": "A Thousand Heartaches",
+        "url": "https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300240,
+      "name": "A Thousand Heartaches",
+      "url": "https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU"
     },
     {
       "album": {
@@ -204,6 +230,24 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf"
     },
     {
       "album": {
@@ -532,7 +576,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 335160,
       "name": "Blank Page",
       "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
@@ -630,7 +674,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
@@ -890,7 +934,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
@@ -930,7 +974,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210546,
       "name": "Dark Roses (Live From Sunset Sound)",
       "url": "https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3"
@@ -1060,7 +1104,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 270706,
       "name": "Empire State Express",
       "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
@@ -1132,7 +1176,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 137413,
       "name": "Feels so Bad - Previously Unreleased Take",
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
@@ -1276,7 +1320,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 191124,
       "name": "Full Throttle",
       "url": "https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3"
@@ -1589,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260959,
+      "name": "Have You A Heart",
+      "url": "https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU"
+    },
+    {
+      "album": {
         "name": "Heart by Heart",
         "url": "https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv"
       },
@@ -1654,7 +1716,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 184826,
       "name": "History Repeats",
       "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
@@ -2030,7 +2092,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 293960,
       "name": "I Walk On Guilded Splinters",
       "url": "https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f"
@@ -2253,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Keep Off of You",
+        "url": "https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184870,
+      "name": "Keep Off of You",
+      "url": "https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37"
+    },
+    {
+      "album": {
         "name": "I Hear You Knocking",
         "url": "https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK"
       },
@@ -2304,6 +2384,24 @@
       "duration_ms": 252363,
       "name": "L'hotel Serein",
       "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
+    },
+    {
+      "album": {
+        "name": "The Big Bottle of Joy",
+        "url": "https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr"
     },
     {
       "album": {
@@ -2390,10 +2488,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 235338,
       "name": "Little Liars",
       "url": "https://open.spotify.com/track/7lzylsUdfeuPqLO2Fmypv2"
+    },
+    {
+      "album": {
+        "name": "Little White Lies (Stripped Back)",
+        "url": "https://open.spotify.com/album/0XF5GRWo02OlsvnzXlM398"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        },
+        {
+          "name": "Joshua Quimby",
+          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Little White Lies - Stripped Back",
+      "url": "https://open.spotify.com/track/5zNEdMjH38ll8AmDYhRW4X"
     },
     {
       "album": {
@@ -2610,7 +2730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
@@ -2628,7 +2748,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 216106,
       "name": "Malibu Man",
       "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
@@ -2988,7 +3108,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0"
@@ -3028,6 +3148,24 @@
       "duration_ms": 302120,
       "name": "Order out of Chaos",
       "url": "https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI"
+    },
+    {
+      "album": {
+        "name": "Over the Hill",
+        "url": "https://open.spotify.com/album/5XS21bnArLJ4pDjdfUNsOU"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205945,
+      "name": "Over the Hill",
+      "url": "https://open.spotify.com/track/6EnF6UDdLryXtMIYot9eOe"
     },
     {
       "album": {
@@ -3794,7 +3932,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
@@ -3852,7 +3990,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
@@ -3918,7 +4056,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176722,
       "name": "Stranger Blues (feat. Dashawn Hickman)",
       "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
@@ -3936,7 +4074,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
@@ -4026,7 +4164,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
@@ -4170,7 +4308,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 215705,
       "name": "The Map",
       "url": "https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp"
@@ -4242,7 +4380,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201466,
       "name": "These Hands",
       "url": "https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu"
@@ -4358,7 +4496,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 314117,
       "name": "Through The Darkest Night",
       "url": "https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd"
@@ -4416,7 +4554,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 296387,
       "name": "To Rise You Gotta Fall",
       "url": "https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE"
@@ -4474,7 +4612,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 244536,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
@@ -4546,7 +4684,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 179531,
       "name": "Walls",
       "url": "https://open.spotify.com/track/5NWLUYw5Ibr1NpSH0wBuQJ"
@@ -4698,7 +4836,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 274573,
       "name": "Whiskey & Wonder",
       "url": "https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM"
@@ -4810,7 +4948,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 299613,
       "name": "Written Or Spoken",
       "url": "https://open.spotify.com/track/6lAsmZVg5f5F3FJKOz0zGE"

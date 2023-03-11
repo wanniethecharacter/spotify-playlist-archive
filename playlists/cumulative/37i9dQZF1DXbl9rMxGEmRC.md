@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-351 songs - 1 day 6 hr 32 min
+353 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,17 +216,18 @@
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 |  |
 | [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
+| [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 | 2023-03-10 |  |
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 | 2022-07-29 |
 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 | 2022-10-21 | 2022-11-26 |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 | 2022-10-28 |
-| [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 |  |
+| [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 | 2023-03-11 |
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-03-19 |
 | [Noblesse Oblige Richesse Oblige](https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [There's Always Blood At The End Of The Road](https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4) | 5:06 | 2022-01-14 | 2022-07-25 |
 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 | 2022-02-11 | 2022-04-23 |
-| [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 |  |
+| [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 | 2023-03-11 |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
@@ -322,6 +323,7 @@
 | [Through Eternal Fields](https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG) | 5:54 | 2021-12-17 | 2022-04-15 |
 | [Through the Broken Lens](https://open.spotify.com/track/43eTNu7zmkpkwIzSyPv5YV) | [Thy Kingdom Will Burn](https://open.spotify.com/artist/3NF3YgS5HwEFVfGoAnoWoR) | [The Void and the Vengeance](https://open.spotify.com/album/45rbnOL3ib6suQNFN3cnmt) | 5:44 | 2022-05-20 | 2022-07-29 |
 | [Tides of Glass](https://open.spotify.com/track/48HhbpVOPnKvJBKo23rZfz) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Tides of Glass](https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl) | 4:17 | 2022-09-01 | 2022-11-19 |
+| [Tilbake Til Opprinnelsen](https://open.spotify.com/track/1zIu37Rj840KEAtDl6FYbJ) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Tilbake Til Opprinnelsen](https://open.spotify.com/album/4seH77vBDdWdCsIVG3OgzN) | 6:15 | 2023-03-10 |  |
 | [Till Valhall \- Svitjod Edition](https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Till Valhall](https://open.spotify.com/album/6xgmB5t5CUzD47ppBQg2CY) | 3:43 | 2021-12-17 | 2022-01-22 |
 | [Totentanz \- Dance Macabre](https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Totentanz \- Dance Macabre](https://open.spotify.com/album/5XZO6D5qfdUyYkSWt6ezoa) | 3:40 | 2022-04-15 | 2022-05-28 |
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 | 2022-07-27 |

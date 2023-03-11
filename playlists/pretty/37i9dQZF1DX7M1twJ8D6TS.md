@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,716 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,779 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,24 +55,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 45 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 |
 | 46 | [You, Me and a Bottle](https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Hellbent](https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib) | 3:13 |
 | 47 | [Javelina](https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Javelina](https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq) | 3:28 |
-| 48 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 |
-| 49 | [Kill a Man](https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 5:19 |
+| 48 | [Kill a Man](https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 5:19 |
+| 49 | [Can Down](https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Can Down](https://open.spotify.com/album/42exaEEpqgK20M7sFz6dIF) | 3:08 |
 | 50 | [Unwanted Man](https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:16 |
 | 51 | [Around Forever](https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:45 |
 | 52 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
 | 53 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
 | 54 | [No Vacancy](https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O) | 4:04 |
 | 55 | [I'm Not Alright](https://open.spotify.com/track/3PURovRKyJaBmgzPfmMJ4O) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Palo Duro](https://open.spotify.com/album/7Itz6S4CkB1xRb7649weHa) | 3:21 |
-| 56 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
-| 57 | [Hey Baby](https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Hey Baby](https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu) | 4:47 |
+| 56 | [Hey Baby](https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Hey Baby](https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu) | 4:47 |
+| 57 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
 | 58 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 |
 | 59 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 60 | [Sticks and Stones](https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side A\)](https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D) | 3:30 |
 | 61 | [Queen for a Night](https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [One Light Town](https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa) | 3:16 |
-| 62 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
-| 63 | [Bad Reputation](https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Bad Reputation](https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw) | 3:39 |
-| 64 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
-| 65 | [Settle Me Down](https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Settle Me Down](https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY) | 2:57 |
+| 62 | [Bad Reputation](https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Bad Reputation](https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw) | 3:39 |
+| 63 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
+| 64 | [Settle Me Down](https://open.spotify.com/track/3G6oU2xKe6pTiUzEXh1Nxt) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Settle Me Down](https://open.spotify.com/album/6xTLQhjUBGvO1p3tvdfHIY) | 2:57 |
+| 65 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
 | 66 | [Boots](https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [American Soul](https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe) | 3:09 |
 | 67 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
 | 68 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 75 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 76 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 |
 | 77 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 |
-| 78 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 |
-| 79 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
-| 80 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
+| 78 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
+| 79 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
+| 80 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 |
 | 81 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
 | 82 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
-| 83 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
+| 83 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
 | 84 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
-| 85 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
+| 85 | [I Didn't Think About Rain](https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [I Didn't Think About Rain](https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO) | 4:12 |
 | 86 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 |
 | 87 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 88 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 99 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
 | 100 | [Honky Tonk On](https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Red Dirt Texas](https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28) | 3:26 |
 
-Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMDNkYzYxYzU0NzBmMTYzOWQxZjc1MTMxOTVmMGM1YWE0`
+Snapshot ID: `MTY3NjA0NTU0OCwwMDAwMDAwMGNhODg0NTYxMWY5MTQyYmY1ZDhiZTBjZDAzZjA1YWVl`

@@ -635,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Big Band Theory Season2",
+        "url": "https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb"
+      },
+      "artists": [
+        {
+          "name": "Akriti Kakkar",
+          "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247033,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0"
+    },
+    {
+      "album": {
         "name": "Heere Heere",
         "url": "https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2"
       },

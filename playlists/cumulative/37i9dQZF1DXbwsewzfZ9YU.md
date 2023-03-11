@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> open the pit\. cover: DRAIN
+> open the pit\. cover: Drug Church
 
-77 songs - 3 hr 20 min
+79 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-24 |  |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2023-02-24 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 | 2023-02-24 |  |
-| [Big Disappointment](https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [All Roads Lead To The Gun \(Deluxe\)](https://open.spotify.com/album/6bAXgNDkSgTZRvl5mUlHFq) | 2:34 | 2023-02-24 |  |
+| [Big Disappointment](https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [All Roads Lead To The Gun \(Deluxe\)](https://open.spotify.com/album/6bAXgNDkSgTZRvl5mUlHFq) | 2:34 | 2023-02-24 | 2023-03-11 |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2023-02-24 |  |
 | [Brain Wavez](https://open.spotify.com/track/0zGdvQEepg73ROZtkO3mw9) | [Mindz Eye](https://open.spotify.com/artist/7G5bKSZiqDTuhK4j8OIM9d) | [True Blue](https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ) | 2:29 | 2023-02-24 |  |
 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 | 2023-02-24 |  |
@@ -33,7 +33,7 @@
 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-24 |  |
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-02-24 |  |
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 |  |
-| [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2023-02-24 |  |
+| [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2023-02-24 | 2023-03-11 |
 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2023-02-24 |  |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 |  |
 | [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 |  |
@@ -43,12 +43,14 @@
 | [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 |  |
 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 | 2023-02-24 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2023-02-24 |  |
+| [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-03-10 |  |
 | [Life's Cold Grasp](https://open.spotify.com/track/2LPIlwH2FVqDXJZuffexj5) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk) | [2022 Promo](https://open.spotify.com/album/2hoK0gIkA5qLjBoGH6mfiN) | 2:55 | 2023-02-24 |  |
 | [Like A Sickness](https://open.spotify.com/track/0E3LY4IzJldhjtjXyA2YCZ) | [Carbonite](https://open.spotify.com/artist/5I9pUosfnguHmqabb3okuQ) | [Like A Sickness](https://open.spotify.com/album/7KUUQV2UQ0wMmwCIgbx9di) | 2:45 | 2023-02-24 |  |
-| [Lust For Destruction](https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Good To Feel](https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr) | 1:53 | 2023-02-24 |  |
+| [Lust For Destruction](https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Good To Feel](https://open.spotify.com/album/3xi1s4oxx0TiyuF6Mulucr) | 1:53 | 2023-02-24 | 2023-03-11 |
 | [Magazine Beach](https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 1:26 | 2023-02-24 |  |
 | [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 |  |
 | [Modern Fatigue](https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke) | [Long Knife](https://open.spotify.com/artist/3SsyiDM90YglLgxOXaaJCA) | [Curb Stomp Earth](https://open.spotify.com/album/7LziAYYYgbI8Hdn7UrqKoV) | 2:40 | 2023-02-24 |  |
+| [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 | 2023-02-24 |  |
@@ -77,7 +79,7 @@
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 |  |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |
 | [Wash Away](https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr) | [Ambleside](https://open.spotify.com/artist/7Fr8MbK08l3g9yHrXb4j4Y) | [Shape Me](https://open.spotify.com/album/4CrsYa4aZEQtJz3843zt31) | 3:27 | 2023-02-24 |  |
-| [Watch You Burn](https://open.spotify.com/track/7594pRzG619BLW7yfMpkXA) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Watch You Burn](https://open.spotify.com/album/5jKlC0zbXWS7DbKCdf81gv) | 2:35 | 2023-02-24 |  |
+| [Watch You Burn](https://open.spotify.com/track/7594pRzG619BLW7yfMpkXA) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Watch You Burn](https://open.spotify.com/album/5jKlC0zbXWS7DbKCdf81gv) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 | 2023-02-24 |  |
 | [What You Sow](https://open.spotify.com/track/33nuEEW9RV5qj5iLE4eLZV) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Lavender](https://open.spotify.com/album/1KpGu5Pu9B3XlAW4Q9t9ho) | 1:31 | 2023-02-24 |  |
 | [Where I'm From](https://open.spotify.com/track/2L03e7IgbVjttShHSSXiv4) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Where I'm From](https://open.spotify.com/album/4NqYpVo6K4eU4mi1g62p4m) | 2:20 | 2023-02-24 |  |

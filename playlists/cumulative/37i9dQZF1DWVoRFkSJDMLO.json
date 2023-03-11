@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Lojay \ud83c\uddf3\ud83c\uddec ",
+  "description": "Inspired by African drums. Cover: Nicki Minaj \ud83c\uddf9\ud83c\uddf9 ",
   "name": "Crxss Current",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Grand",
+        "url": "https://open.spotify.com/album/3j97TkyvnE7BkqwGHoDJ9g"
+      },
+      "artists": [
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Dj Crown Prince",
+          "url": "https://open.spotify.com/artist/63r2ySCZiTpWUem62loolj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "100 Grand",
+      "url": "https://open.spotify.com/track/0JU1OY5mpOJOJa4B8WgT3E"
+    },
     {
       "album": {
         "name": "16CHOPPA (feat. Nardo Wick)",
@@ -1249,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "bo card (things i need)",
+        "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "bo card (things i need)",
+      "url": "https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY"
+    },
+    {
+      "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
       },
@@ -1348,6 +1388,28 @@
       "duration_ms": 170165,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/6t55BIP9cRvssIxNYnnRYV"
+    },
+    {
+      "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/1mAh2El18qMQk03NOOq0K9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Bright Future",
+      "url": "https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R"
     },
     {
       "album": {
@@ -1843,6 +1905,28 @@
     },
     {
       "album": {
+        "name": "Dancehall Need Mi",
+        "url": "https://open.spotify.com/album/5FEuBK4x9fChECilvRHeq7"
+      },
+      "artists": [
+        {
+          "name": "Laa Lee",
+          "url": "https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "Dancehall Need Mi",
+      "url": "https://open.spotify.com/track/3BmircqF5zplm6dGNjGP0e"
+    },
+    {
+      "album": {
         "name": "Dats Gadzilla",
         "url": "https://open.spotify.com/album/0DmqZPBWat944nB0vuvWRN"
       },
@@ -2242,7 +2326,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 167810,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/3EG1YH81iN2eJFTTfGrVaW"
@@ -2402,7 +2486,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172363,
       "name": "Floating",
       "url": "https://open.spotify.com/track/2IgPFsdwzYSkP1Hayc0t7U"
@@ -2504,6 +2588,24 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6"
+    },
+    {
+      "album": {
+        "name": "Frsh Drop",
+        "url": "https://open.spotify.com/album/1eGmt06ZMVmJCY67XA282d"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Frsh Drop",
+      "url": "https://open.spotify.com/track/3pTse5fiJ8jCU4q0SBqFwd"
     },
     {
       "album": {
@@ -3410,7 +3512,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 307606,
       "name": "Injabulo",
       "url": "https://open.spotify.com/track/6yqUbRQXmeCtpBBookikSB"
@@ -4322,7 +4424,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 152476,
       "name": "LOVE IS TA TA TA (CMJ EDIT)",
       "url": "https://open.spotify.com/track/4Uef0YPadMwk87klVk0aVf"
@@ -4468,7 +4570,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 125094,
       "name": "Mek She",
       "url": "https://open.spotify.com/track/4z94T1JRS8ZjmmGoGNtIhv"
@@ -4742,6 +4844,32 @@
       "duration_ms": 192624,
       "name": "Ne doute pas",
       "url": "https://open.spotify.com/track/4Lyyzr02Rl5qgWhuFno1G3"
+    },
+    {
+      "album": {
+        "name": "Never Let Go Remix Part II",
+        "url": "https://open.spotify.com/album/04g4rxICTQelrPMRhbEFsQ"
+      },
+      "artists": [
+        {
+          "name": "DJ FiiFii",
+          "url": "https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257071,
+      "name": "Never Let Go Remix Part II",
+      "url": "https://open.spotify.com/track/7eFyuht8qmDQ1p1spSEBoH"
     },
     {
       "album": {
@@ -5682,7 +5810,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176415,
       "name": "Please Don't Call Me",
       "url": "https://open.spotify.com/track/33f7oDxnVKjpVYfQopD1P7"
@@ -5748,10 +5876,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147093,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
     },
     {
       "album": {
@@ -6190,7 +6340,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 177600,
       "name": "Sail Out",
       "url": "https://open.spotify.com/track/3iZ1OHXoxYzHaICxr7IOmF"
@@ -6892,6 +7042,24 @@
       "duration_ms": 173906,
       "name": "Straight To The Moon",
       "url": "https://open.spotify.com/track/7KAUmjBuc9AnuJoC7dRhjY"
+    },
+    {
+      "album": {
+        "name": "Lost Files",
+        "url": "https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Strings Attached",
+      "url": "https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s"
     },
     {
       "album": {

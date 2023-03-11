@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 522120,
+  "num_followers": 522115,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDlhZjI0NDI4ZWNlNDcxMTY2NzE2MGM2MmQ3MzdiMGI5",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDFmMzY1ODMwMWUxODdlYjJlOTM1OTE0NGJjM2M5ZTRj",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Charlie Brown Holiday Hits",
-        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 185573,
       "name": "What's This?",
       "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -359,38 +359,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "The Essential Eartha Kitt",
-        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
       },
@@ -403,6 +371,22 @@
       "duration_ms": 222640,
       "name": "Libre Soy",
       "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -455,6 +439,22 @@
       "duration_ms": 135443,
       "name": "Futile Devices (Doveman Remix)",
       "url": "https://open.spotify.com/track/5iR8v6fTc33LDo2t4w3342"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Dr. Seuss' How The Grinch Stole Christmas",
-        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
-      "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Dr. Seuss' How The Grinch Stole Christmas",
+        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
+      "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -831,18 +831,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "This Christmas - Songs From The Motion Picture",
-        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        },
+        {
+          "name": "Rocky Roberts",
+          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
         }
       ],
-      "duration_ms": 197560,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
+      "duration_ms": 173693,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/008wXvCVu8W8vCbq5VQDlC"
     }
   ],
   "unique_name": "Soundtracks \u00c9picos",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
-  "num_followers": 252,
+  "num_followers": 316,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDYwODYzYTBjM2U0NDI0MTBjODAzYzk0ZWE3NGQ5OGJm",
+  "snapshot_id": "MTY3NzgxOTY2MCwwMDAwMDAwMDc3MzY1YzZkZDU0ZDJhMmYxZTBhOGQzOGY1YmZjNGQ5",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "2 time zones (feat. Night Lovell)",
-      "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "EXCEPTIONAL",
         "url": "https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 137739,
       "name": "EXCEPTIONAL",
       "url": "https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "2 time zones (feat. Night Lovell)",
+      "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Jupiter & Mars",
+        "url": "https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Jupiter & Mars",
+      "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 198520,
       "name": "Everywhere We Go",
       "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Jupiter & Mars",
-        "url": "https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Jupiter & Mars",
-      "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-03-03 05:01:00",

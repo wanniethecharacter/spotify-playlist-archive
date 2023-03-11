@@ -4,13 +4,14 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Karley Scott Collins
 
-257 songs - 13 hr 34 min
+260 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1%](https://open.spotify.com/track/01AN52vVHlK1yAaLRmzhYg) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [1%](https://open.spotify.com/album/416Dl4wvYbJOLSWzXwfrUr) | 2:49 | 2021-12-31 |  |
 | [18](https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [18](https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt) | 2:54 | 2022-09-16 |  |
 | [22 Red Flags](https://open.spotify.com/track/5PZYR79HGE6k3giI384I7w) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [22 Red Flags](https://open.spotify.com/album/7pS5QcODadoyl9Y05FKAl7) | 2:51 | 2021-12-31 | 2022-01-08 |
+| [25 To Life](https://open.spotify.com/track/4EeowIiHBakhTYerquNYwk) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [25 To Life](https://open.spotify.com/album/6NAaVXozJrH4OcL79VASRV) | 3:26 | 2023-03-10 |  |
 | [Addicted](https://open.spotify.com/track/5SZRA1aAqnHBUt5edqY8OM) | [Marisa McKaye](https://open.spotify.com/artist/0fHHqRhyzE4VquF6JrYGar) | [Addicted](https://open.spotify.com/album/5K8BnbzuEmhfWDkj4m6gzU) | 3:36 | 2021-12-31 | 2022-02-12 |
 | [Ain't Gonna Lie](https://open.spotify.com/track/1htLrwuSGkNj90H9u6tSQx) | [Lauren Hall](https://open.spotify.com/artist/2Qb27JzTmCKVBDmeaiEvCf) | [Ain't Gonna Lie](https://open.spotify.com/album/0pZrdfFqbFsHu9UZG99M5O) | 3:10 | 2021-12-31 | 2023-01-14 |
 | [Ain't Got A Shot](https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/1ai40yy9DyrO8YxyI31zm6) | 3:23 | 2021-12-31 | 2022-02-12 |
@@ -86,6 +87,7 @@
 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 | 2021-12-31 |  |
 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 | 2021-12-31 |  |
 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-01-28 | 2022-07-02 |
+| [Hate Me](https://open.spotify.com/track/3ICvHsbfVNSw0lYsPq81ao) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Hate Me](https://open.spotify.com/album/2cO5M6ZN4NoPNppgOAsFuN) | 2:54 | 2023-03-10 |  |
 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 | 2022-02-11 | 2022-08-02 |
 | [Heartbreak Girl](https://open.spotify.com/track/30usOzYWz8pd8Y00FjTW2P) | [Willie Morrison](https://open.spotify.com/artist/1TLEakWAFDv8bQeDW0zr0W) | [Heartbreak Girl](https://open.spotify.com/album/4T5vSBPKdp289Hm6YSoBgB) | 3:02 | 2021-12-31 | 2022-02-12 |
 | [Heavenly](https://open.spotify.com/track/0fx1Oyto2wN6gLenluWyYJ) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Heavenly](https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X) | 3:12 | 2023-03-01 |  |
@@ -150,6 +152,7 @@
 | [Mama Ain't Jesus](https://open.spotify.com/track/3ELOyDhZUfHmPyPqcyzGs6) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Mama Ain't Jesus](https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy) | 3:11 | 2021-12-31 |  |
 | [Me & the Bar](https://open.spotify.com/track/33x0whf3VnrG1mNBhJfteu) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Me & the Bar](https://open.spotify.com/album/76UjGdURpADH42GpnXnR23) | 3:01 | 2022-01-21 |  |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |
+| [Me Or My Hometown](https://open.spotify.com/track/3Pfbtcb3ZWJgZ0qExAapzq) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Me Or My Hometown](https://open.spotify.com/album/72SbgvMWSRI5S5PzlcDdHN) | 3:28 | 2023-03-10 |  |
 | [Memories](https://open.spotify.com/track/180x7QSS94PEVrJnLMYTV2) | [Jordan Rager](https://open.spotify.com/artist/4XoYsecWoLIoV66HEbt365) | [Memories](https://open.spotify.com/album/2RIyH2pNBgdBkdudi7FXFt) | 3:11 | 2021-12-31 |  |
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-14 |  |
 | [Mirror Mirror](https://open.spotify.com/track/5wPtqoXt8zNzahGo8ddVBz) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Mirror Mirror](https://open.spotify.com/album/2piO0gBC50BNPmipi0ngdg) | 3:28 | 2023-01-13 |  |

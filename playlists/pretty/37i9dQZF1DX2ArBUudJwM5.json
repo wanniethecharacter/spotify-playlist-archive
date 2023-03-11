@@ -1,12 +1,12 @@
 {
   "description": "Subamos el volumen a las mujeres . Co-curada por Maria Becerra.",
-  "num_followers": 26070,
+  "num_followers": 26090,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyNjA0MiwwMDAwMDAwMDA4MmFkMTM5ZjFjMjk1NTdlNDZhNGYzZTVlNDU1ZGRm",
+  "snapshot_id": "MTY3ODEyNjA0MiwwMDAwMDAwMDc2MjA0NzU3NTkyMjczOTE2MWZkZDc0ZmI5MTU4ZjZj",
   "tracks": [
     {
       "added_at": "2023-03-01 13:21:38",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-03-01 13:21:38",
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Flower Power",
+      "url": "https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU"
+    },
+    {
+      "added_at": "2023-03-01 13:21:38",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/57uuWnwvILadWNMwTVOdZY"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 284050,
       "name": "Carajo",
       "url": "https://open.spotify.com/track/77AKXWSJHnHscFfovjvFJI"
-    },
-    {
-      "added_at": "2023-03-01 13:21:38",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Flower Power",
-      "url": "https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU"
     },
     {
       "added_at": "2023-03-01 13:21:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-01 13:21:38",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 176525,
-      "name": "PERREO PA LAS NENAS",
-      "url": "https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk"
-    },
-    {
-      "added_at": "2023-03-01 13:21:38",
-      "album": {
         "name": "Libres",
         "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-03-01 13:21:38",
       "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 176525,
+      "name": "PERREO PA LAS NENAS",
+      "url": "https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk"
+    },
+    {
+      "added_at": "2023-03-01 13:21:38",
+      "album": {
         "name": "ROMANCE MIXTAPE 2",
         "url": "https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk"
       },
@@ -654,10 +654,6 @@
         {
           "name": "Lara91k",
           "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        },
-        {
-          "name": "Percii",
-          "url": "https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd"
         }
       ],
       "duration_ms": 91554,

@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-113 songs - 4 hr 58 min
+117 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [apartmnt](https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [apartmnt](https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ) | 1:34 | 2022-12-04 | 2023-02-18 |
 | [battle](https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [battle](https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx) | 1:17 | 2023-03-07 |  |
 | [before i go](https://open.spotify.com/track/7oRWfs4HVAglIlSK7ytUuf) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [psychosis](https://open.spotify.com/album/42gnvKERgMw72qxGnEIEhN) | 2:15 | 2022-12-16 |  |
+| [better off dead](https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [better off dead](https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd) | 2:42 | 2023-03-10 |  |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-04 |  |
 | [bittersweet teeth](https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [NOT A TOY](https://open.spotify.com/artist/7uiWgFc6g98QsoDKotM3T4) | [bittersweet teeth \(alternate versions\)](https://open.spotify.com/album/795wZH8JkFop6dDOFYXkN6) | 2:22 | 2023-02-24 |  |
 | [Bloodshot](https://open.spotify.com/track/6bMmTX6kZkCatybG4ZvYB1) | [Bad Mustache](https://open.spotify.com/artist/1n9tiAnBj5vzukpcEOaZzE) | [Bloodshot](https://open.spotify.com/album/4J9gyTFX77422CnsEpv7jG) | 2:31 | 2022-12-04 | 2023-02-18 |
@@ -48,9 +49,11 @@
 | [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-12-04 |  |
 | [harder than it looks softer than youd think](https://open.spotify.com/track/1FVnwCTrxcmukBmTk5XdkZ) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX) | [harder than it looks softer than youd think](https://open.spotify.com/album/13sdluulDSOsUuL1DgXOR6) | 2:40 | 2023-01-06 | 2023-02-18 |
 | [Heavy Jacket](https://open.spotify.com/track/5NxwAYPr4gyc7gLmhZHwAl) | [Peech.](https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk), [Xedrin](https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG) | [Heavy Jacket](https://open.spotify.com/album/6hLHsUqzVj6Z4fpzynQckd) | 2:44 | 2023-01-27 |  |
+| [highscore!](https://open.spotify.com/track/2crXnfUgYV2a5yfMWOmQdT) | [cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc) | [highscore!](https://open.spotify.com/album/11mhTCGVCQjg2t13MXHRcX) | 3:47 | 2023-03-10 |  |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 |  |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 | 2023-03-02 |
+| [I can't save myself](https://open.spotify.com/track/44o1dpWuXgNN56hKOJLnUX) | [yung van](https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [don't change the channel](https://open.spotify.com/album/0UO2ggBcfUbwZwjWR7JTWO) | 3:01 | 2023-03-10 |  |
 | [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 | 2023-02-10 |  |
 | [i dont wna cry \(haste\)](https://open.spotify.com/track/6RKeESxpM58GCfR5eRdfzY) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i dont wna cry](https://open.spotify.com/album/5AIZKUZZW9RE3xhTf64h39) | 2:01 | 2023-02-22 |  |
 | [I Thought I Saw An Astronaut](https://open.spotify.com/track/2oun4Gfgac2SEbdpDTAQgF) | [props](https://open.spotify.com/artist/5O7LMWE0xWgM0NzbsJdckR) | [songs](https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3) | 2:18 | 2022-12-04 | 2023-03-04 |
@@ -80,6 +83,7 @@
 | [Pity Sex](https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Pity Sex](https://open.spotify.com/album/3yDIN8i4A80HKZLhXN5mP4) | 2:39 | 2023-01-27 |  |
 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 | 2022-12-04 | 2023-02-18 |
 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 | 2023-03-01 |  |
+| [prettynames](https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [prettynames](https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN) | 2:41 | 2023-03-10 |  |
 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 | 2022-12-04 |  |
 | [punk rock](https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [punk rock](https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis) | 2:22 | 2023-03-01 |  |
 | [Punksong](https://open.spotify.com/track/190XbsoF6JNbXk1K3ltQWk) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [memoryland](https://open.spotify.com/album/1afj4IR9BrWY65bk8kCglF) | 1:33 | 2022-12-04 | 2022-12-10 |

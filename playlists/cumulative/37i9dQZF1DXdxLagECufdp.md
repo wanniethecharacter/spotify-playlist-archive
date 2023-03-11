@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-144 songs - 9 hr 14 min
+145 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 | 2021-09-10 | 2023-01-07 |
 | [Kalasnjikov](https://open.spotify.com/track/6OlCJxmWri50RLA1CrBYZ6) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Slobodan Salijevic](https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL) | [Ederlezi](https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2) | 4:48 | 2021-09-10 |  |
 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 | 2021-09-10 |  |
+| [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 | 2023-01-07 |  |
 | [Khade sukar / How Beautiful](https://open.spotify.com/track/7eKAyiTCUGL9e4JpF63iep) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/1b9GWIbKBQLRCAXFhLOHgA) | 3:27 | 2023-01-07 | 2023-03-02 |
 | [Khelipe Cheasa](https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa) | [Boban i Marko Markovic Orkestar](https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs) | [Devla](https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx) | 3:45 | 2023-01-07 |  |
 | [Kingdom Come](https://open.spotify.com/track/5jiJYFm6YBqRJ0sLbwmezm) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/6A7uB5OoxomiuSO4TvOXDB) | 4:12 | 2021-09-10 | 2022-07-18 |
@@ -89,7 +90,7 @@
 | [Love Theme From ''the Godfather''](https://open.spotify.com/track/6kGuBfdelOjChMdvfQj5o0) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/album/6bFTe8iHkVGuu6hyhXmbEi) | 3:43 | 2021-09-10 | 2022-07-27 |
 | [Lëkïxï Ëjts](https://open.spotify.com/track/5BQQ6iaZ16xhI46IvlBUVQ) | [LOS PREAM](https://open.spotify.com/artist/2YSwwTeuf7ytDyxsSEpylH) | [Lëkïxï Ëjts](https://open.spotify.com/album/36Rcp540rFEhN1QkTdmQv1) | 4:32 | 2023-01-07 |  |
 | [Mahalageasca \- Shantel DUB](https://open.spotify.com/track/1rhlWjJHCgxCWetBwQyiKH) | [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA), [Mahala Rai Banda](https://open.spotify.com/artist/5eFcEnUv0A83EIHKVrXzg4) | [Shantology // The Bucovina Club Years](https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b) | 4:18 | 2021-09-10 |  |
-| [Malabares](https://open.spotify.com/track/1xBX2iazuZNqTnT2iPeB2A) | [Rumbaristas](https://open.spotify.com/artist/1lCsy1LgNCjBXrmfoAFvUr), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Malabares](https://open.spotify.com/album/6D4LjqR31YQ8OV4W3Wu0tR) | 3:11 | 2023-02-22 |  |
+| [Malabares](https://open.spotify.com/track/1xBX2iazuZNqTnT2iPeB2A) | [Rumbaristas](https://open.spotify.com/artist/1lCsy1LgNCjBXrmfoAFvUr), [Joan Garriga i el Mariatxi galàctic](https://open.spotify.com/artist/0EQqEBz10VJZ8QHaJweeNE) | [Malabares](https://open.spotify.com/album/6D4LjqR31YQ8OV4W3Wu0tR) | 3:11 | 2023-02-22 | 2023-03-11 |
 | [Malinalli](https://open.spotify.com/track/2BEXRY7Vefd38vrqjxo2kC) | [Diablocalavera](https://open.spotify.com/artist/3BCryyGZjvAmv20TUlNLfW) | [Malinalli](https://open.spotify.com/album/4BrDp9xZrnfvoZwasH3iLP) | 3:41 | 2021-09-10 | 2022-07-28 |
 | [Marajà \- 2018 Remaster](https://open.spotify.com/track/70EXIyETxgloAlVkRbO2H9) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Canzoni a manovella \(2018 Remaster\)](https://open.spotify.com/album/7AYil3edcAVcb7nfyf0Tn7) | 3:25 | 2021-09-10 | 2022-07-29 |
 | [Marrakumbiah](https://open.spotify.com/track/0KQQDKtaplRyuTerGLQxt0) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/0k3EsxNDJTIJtI44S8a6XD) | 3:45 | 2021-09-10 | 2022-07-26 |

@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "TEAM 15:00",
+          "url": "https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "12:30",
+      "url": "https://open.spotify.com/track/1zWHJqSRlyXOIpxmvhLKhF"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "TEAM 8:00",
+          "url": "https://open.spotify.com/artist/18dzwxwxMH7ZUrW6ILGFRc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145213,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/2jdI7mFoybIVPo4ALN7w63"
+    },
+    {
+      "album": {
         "name": "PEAK TIME - Survival Round",
         "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
       },
@@ -290,6 +326,24 @@
       "duration_ms": 179693,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/4ljZRhdhJhAMLCS2BNuakN"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "TEAM 7:00",
+          "url": "https://open.spotify.com/artist/2UFo4oEsxKVnhEGgVon9hS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/7Eqlekbk5iiYs6DHwheKjk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYjqIbceAHm0"

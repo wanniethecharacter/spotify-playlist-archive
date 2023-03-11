@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-176 songs - 10 hr 45 min
+179 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-04-01 |  |
 | [God's Been Good To Me](https://open.spotify.com/track/6Ieljz21ViDbNsGkI91lKT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:38 | 2021-12-10 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-12-10 |  |
+| [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-10 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-10 |  |
 | [Got Me \(feat\. Shane & Shane\)](https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:55 | 2021-12-10 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 | 2021-12-10 |  |
@@ -97,6 +98,7 @@
 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 | 2022-07-15 |  |
 | [Long Black Train](https://open.spotify.com/track/48Qs4WAbfw6ZC7xApFoLkW) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Country Songs With Color In The Title](https://open.spotify.com/album/23YMyZJ5Uxm2ydPuCo2FO3) | 4:10 | 2022-11-04 | 2022-11-13 |
 | [Long Black Train](https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT) | 4:10 | 2021-12-10 | 2022-07-29 |
+| [Longneck With Jesus](https://open.spotify.com/track/0coShWRXnFrgUMgqvU00gr) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A), [Billy Pilgrim](https://open.spotify.com/artist/4rMdzVjq1qqizATeZrjn6l) | [52 \| This Year](https://open.spotify.com/album/7f0SnVZqIxSDo3VJTstFR3) | 4:05 | 2023-03-10 |  |
 | [Lookin' for You](https://open.spotify.com/track/7nDImE3NrWzpmOb3r2oV50) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Lookin' for You](https://open.spotify.com/album/4RKHZ5tvicbNXz4EXbiARq) | 3:45 | 2022-09-09 |  |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
@@ -180,6 +182,7 @@
 | [Who You Are](https://open.spotify.com/track/6AbFsKUHKy3ua32eZmA1wv) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY), [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Who You Are](https://open.spotify.com/album/4765xGMEoI3u2OOrNtNqQx) | 3:22 | 2022-02-25 |  |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN) | 3:50 | 2021-12-10 |  |
 | [WOMAN AT THE WELL](https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [WOMAN AT THE WELL](https://open.spotify.com/album/24Yth0NqR6gEVUhMyMHKiG) | 3:29 | 2021-12-10 |  |
+| [Won't Let Me Go \- Acoustic](https://open.spotify.com/track/2RcEwMtSmmhNIjNCDr5aT7) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Won't Let Me Go \(Acoustic\)](https://open.spotify.com/album/5Mz35pU0IaPfSqqzIYJFRJ) | 3:53 | 2023-03-10 |  |
 | [Working On Sunday](https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Working On Sunday](https://open.spotify.com/album/3dPIlZag9xByUbPjvaO7ji) | 3:20 | 2021-12-10 |  |
 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 | 2022-04-15 |  |
 | [You Are](https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Deluxe\)](https://open.spotify.com/album/65CKmXE033WDzwrn9mrAZI) | 2:56 | 2022-08-12 |  |

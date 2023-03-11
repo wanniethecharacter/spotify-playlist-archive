@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "The Last Rockabilly",
+        "url": "https://open.spotify.com/album/3fRaDR9AaKWjJZHcYKQc22"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262038,
+      "name": "The Last Rockabilly",
+      "url": "https://open.spotify.com/track/0N7xhtiFCCcVvWj6wLX80h"
+    },
+    {
+      "album": {
         "name": "Days of Being Wild",
         "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
       },

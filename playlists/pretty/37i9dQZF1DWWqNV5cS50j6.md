@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > binki makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,243 likes - 92 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,309 likes - 92 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hotel Window](https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Hotel Window](https://open.spotify.com/album/70V1XTdSN8pc0oxy6qjnWm) | 2:03 |
-| 2 | [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
+| 2 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 3 | [Hypnotized \(with skaiwater\)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 |
 | 4 | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/album/2FIbisWv6Q7QZVvevvCE3G) | 3:07 |
 | 5 | [Gray](https://open.spotify.com/track/5hm5tkdeZXi3O3mF5vf7Br) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Gray](https://open.spotify.com/album/1uJrYZjJX6KC7loEOaqPVF) | 3:02 |
 | 6 | [TONY ON THE RADIO](https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [TONY ON THE RADIO](https://open.spotify.com/album/0yJdceZ9PO3J7LVe8jnbx6) | 3:18 |
 | 7 | [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 |
-| 8 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 |
+| 8 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 9 | [TEMPTRESS](https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr) | 3:07 |
 | 10 | [Billboard](https://open.spotify.com/track/0SgtsW3aGMqLXyUkIcTCSv) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Billboard](https://open.spotify.com/album/64kyKS3pe5GlZ3fSGlrFJa) | 1:51 |
 | 11 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 37 | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mamacita \(feat\. A$AP Rocky\)](https://open.spotify.com/album/1CUFZqHw7rcz4IPij6jKD0) | 3:05 |
 | 38 | [Coca Cola](https://open.spotify.com/track/7CxbBqDi1LdfsQX2v3OYgN) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Where Have All the Flowers Gone?](https://open.spotify.com/album/39JWmffb0CchVAr9AMyY7I) | 3:05 |
 | 39 | [poison](https://open.spotify.com/track/7FWy60eMeO9QB5FiPpfJQY) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Joe Aste](https://open.spotify.com/artist/2Q9smGKHVW5FyCzt1VcGpP) | [poison spacegirl!](https://open.spotify.com/album/1TrLITatn8B9YzxPC5Ct8l) | 1:53 |
-| 40 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
+| 40 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 41 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
 | 42 | [Pass Me By \- Harrison Patrick Smith Remix](https://open.spotify.com/track/5cziJucAGfuHrFcFuZIIb8) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Harrison Patrick Smith](https://open.spotify.com/artist/1YBW3PHQIezuY0pAKZwWNA) | [Pass Me By \(Harrison Patrick Smith Remix\)](https://open.spotify.com/album/23izxUr4N6GpIcwMe9LsEr) | 3:53 |
 | 43 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 91 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 | 92 | [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 |
 
-Snapshot ID: `MTY3ODEyODI3NCwwMDAwMDAwMDJlNmFiNDA3MDI0NzgzY2E1MmM2ODA1MWRiMjhiYzEw`
+Snapshot ID: `MTY3ODQ4MTgwNywwMDAwMDAwMGRmODU2YzYyYmRlZWQzNjNhYTRhNzdlZDI1NTI0OWU4`

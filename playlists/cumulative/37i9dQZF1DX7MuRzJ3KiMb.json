@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 166000,
       "name": "Me Quieres Como Soy",
       "url": "https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84"
@@ -2240,6 +2240,24 @@
       "duration_ms": 189000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/08S8EziI1G7mKlpLppezs1"
+    },
+    {
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
     },
     {
       "album": {

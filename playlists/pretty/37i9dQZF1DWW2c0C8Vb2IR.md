@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,793 likes - 52 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,809 likes - 52 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 5 | [Everything I Wanted](https://open.spotify.com/track/3LHbt7huVUksOWF3PPvXNH) | [Jacob Gurevitsch](https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH) | [Everything I Wanted](https://open.spotify.com/album/5JDM4gq5BMEw9HTvlMEcsO) | 3:43 |
 | 6 | [Mirage](https://open.spotify.com/track/504JluU0SrgimOW69mwCYx) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL) | [Mirage](https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v) | 3:17 |
 | 7 | [Art's Song \- Live at Sweet Basil](https://open.spotify.com/track/5oI1k2BnxQVBCqpJUOQloy) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [Art's Song \(Live at Sweet Basil\)](https://open.spotify.com/album/2pD6kcjBFsefsoGBeoRZeS) | 5:57 |
-| 8 | [The Path of Most Resistance](https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [The Path of Most Resistance](https://open.spotify.com/album/2TnQd8ft8eUGGBUoPWMhUq) | 5:39 |
+| 8 | [The Path of Most Resistance](https://open.spotify.com/track/00hGkGDjuexWzGsr9mTPAD) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Polish Encounter](https://open.spotify.com/album/2Rds7Q5z3Xueh7y1x0CSnm) | 5:39 |
 | 9 | [The Feeling of Jazz](https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Feeling of Jazz](https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1) | 4:52 |
 | 10 | [Sagitario](https://open.spotify.com/track/5VfXnShYlySzT3XezkvwZM) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Sagitario](https://open.spotify.com/album/1YuxPKVxPa6nFrnTiGg9m1) | 2:23 |
 | 11 | [Heartstrings](https://open.spotify.com/track/3cJWrW8nLx1bq1CGKF2QTC) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Heartstrings](https://open.spotify.com/album/5UYFLZHT30xbqPup8ypkTD) | 2:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 51 | [Moon Of Jupiter](https://open.spotify.com/track/0i29tZsf4LM2q9r6oVXz1X) | [Selen Gülün](https://open.spotify.com/artist/4HlDQ8vm3OLtReb4UgN5mO), [Serhan Erkol](https://open.spotify.com/artist/6qliCB7jNpZcsqYc3GnjWa), [Engin Recepoğulları](https://open.spotify.com/artist/4KXlkx7J3ZIzpGWozLZIVA), [Barış Ertürk](https://open.spotify.com/artist/0vakstoWiu2K5UqgBmTvRb), [Halil İbrahim Işık](https://open.spotify.com/artist/4DuJDvN6cJ8r0zKnCqaYlj), [Bulut Gülen](https://open.spotify.com/artist/5JyBBYYX9dTs6rC4cut6aC), [Ozan Musluoğlu](https://open.spotify.com/artist/7lZ9lK65nq3qXjWXGUY2S5), [Berke Özgümüş](https://open.spotify.com/artist/3c5c66eaAuGfUNRL6nFJgD) | [Blue Band](https://open.spotify.com/album/5939KCMmCK8EOZFRm0ZYsq) | 5:19 |
 | 52 | [Ganesh](https://open.spotify.com/track/0fzWIwccx9sTChLTMXt2mG) | [Karl Berger](https://open.spotify.com/artist/52moXqtWO6xU1tPREt3fvn), [Kirk Knuffke](https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Matt Wilson](https://open.spotify.com/artist/1IwEgeKYEzh9CBKd6SUH0m) | [Heart is a Melody](https://open.spotify.com/album/0zOM1VW2XpFRr2Xy3qO2uS) | 8:18 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDgwNzMwYTJmNGUzN2E5MGQ1YWVjMzZlZTc4ZGZjNDg1`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDNmY2FlNzc2ZWUyN2JiNzYxZmQ3YTdmODdiZTFkNGFm`

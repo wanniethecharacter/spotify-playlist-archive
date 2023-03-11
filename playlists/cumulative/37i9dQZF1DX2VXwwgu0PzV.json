@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Limoblaze",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Rehmahz",
   "name": "Youth Service",
   "tracks": [
     {
@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "All Praise",
+        "url": "https://open.spotify.com/album/05dhDZ8PFLjyLQ1hw1Dgc1"
+      },
+      "artists": [
+        {
+          "name": "Senz",
+          "url": "https://open.spotify.com/artist/0sFh3JCmyuSZrPRwwdkTDH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201359,
+      "name": "All Praise",
+      "url": "https://open.spotify.com/track/3BsOTPBMlPsjA9dApbFuXM"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/5Mw6o78l98BRNFrARStgZw"
       },
@@ -174,7 +192,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 266031,
       "name": "Blessed of God",
       "url": "https://open.spotify.com/track/42qV5TLfQt10pmq3gHWvty"
@@ -236,6 +254,32 @@
       "duration_ms": 182000,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/2lxAUhTqw3phdpVHJSHTMJ"
+    },
+    {
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/6Jw54f06s0F3jYmZO1mihv"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201691,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/1SllW19Y1RKHN4YJv6y4t8"
     },
     {
       "album": {
@@ -1102,7 +1146,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210240,
       "name": "Light",
       "url": "https://open.spotify.com/track/3qhey3FEUDA5tXp1shihSo"
@@ -1350,7 +1394,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 190270,
       "name": "No Shaking",
       "url": "https://open.spotify.com/track/3hX5hkaCtRp6Lf0rTVt6yj"
@@ -1380,6 +1424,32 @@
       "duration_ms": 156521,
       "name": "Normally",
       "url": "https://open.spotify.com/track/43PP6uQTCCX6l3csbG3iVR"
+    },
+    {
+      "album": {
+        "name": "NOTHING",
+        "url": "https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168326,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO"
     },
     {
       "album": {
@@ -1697,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "See Through",
+        "url": "https://open.spotify.com/album/1FMC6QVrilzxAK4KDiqcdd"
+      },
+      "artists": [
+        {
+          "name": "Kiara June",
+          "url": "https://open.spotify.com/artist/2S4vQOSLKWXr8m9DC1LISx"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198539,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/2sfe0Khk1sfs2oErNb3j1n"
+    },
+    {
+      "album": {
         "name": "Shambala",
         "url": "https://open.spotify.com/album/416S4BiBdjC3TcVBT0sT12"
       },
@@ -1808,7 +1900,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 164336,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M"

@@ -4,7 +4,7 @@
 
 > ¡Brillando baldosa! Foto: Juan Carlos Ensamble
 
-91 songs - 6 hr 48 min
+92 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Conmoción](https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM) | [Conmoción Orquesta](https://open.spotify.com/artist/2IStcUgrPfLfTXDjrhdjnd) | [La Cara del Gato](https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq) | 5:00 | 2022-06-24 |  |
 | [Curao en Salsa](https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy) | [Curao En Salsa](https://open.spotify.com/artist/6olL7cjgBRwpBZIphKCV5b) | [Salsa para el Bailador, Vol\. 1](https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv) | 4:50 | 2022-06-24 |  |
 | [Dale al Bombo](https://open.spotify.com/track/7HFYqi1uV3xEK5cb0mOHsG) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [John Jairo Murillo](https://open.spotify.com/artist/4Sc7BeVNdVXKK6C6GfIso2) | [Discos Fuentes Collection](https://open.spotify.com/album/6htjT2LFUcEEL0U2bN2DB3) | 3:43 | 2022-06-24 |  |
-| [De Colores](https://open.spotify.com/track/2HB4hGBTrYHQgAvvt3r7lG) | [Charlie Cajares](https://open.spotify.com/artist/7AHnrMxuIM62HBdnUdAv2x) | [De Colores](https://open.spotify.com/album/2PApxhZo2B9DLlGjeRDzsy) | 4:09 | 2022-06-24 |  |
+| [De Colores](https://open.spotify.com/track/2HB4hGBTrYHQgAvvt3r7lG) | [Charlie Cajares](https://open.spotify.com/artist/7AHnrMxuIM62HBdnUdAv2x) | [De Colores](https://open.spotify.com/album/2PApxhZo2B9DLlGjeRDzsy) | 4:09 | 2022-06-24 | 2023-03-11 |
 | [Del Montón](https://open.spotify.com/track/6OHgGc8ukpD0jvdAKgToFO) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [Ay Doctor \- Son Tus Perjúmenes Mujer](https://open.spotify.com/album/3YtuLLbUXHCwkqBuSaiggu) | 3:20 | 2022-06-24 |  |
 | [Del Montón](https://open.spotify.com/track/3WZO66MwtTU5gG1AjKHhAE) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b) | [Música Tropical de Colombia, Vol\. 10](https://open.spotify.com/album/796vZzmhjoEVYddOjT7apS) | 3:22 | 2022-06-24 | 2022-11-14 |
 | [Devórame Otra Vez](https://open.spotify.com/track/1JOaoxY1MAPUg41HvDW2vu) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Tributo 7 / 80](https://open.spotify.com/album/0BOyJjTxR09DlNQxIV292R) | 4:16 | 2022-06-24 |  |
@@ -42,6 +42,7 @@
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 | 2022-06-24 |  |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/7AP6g4nvKOreFz2heQ8LxQ) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Oro de la Salsa, Vol\. 10](https://open.spotify.com/album/3dEPTYpaoZuUP11ucZUZ08) | 5:12 | 2022-06-24 | 2022-11-14 |
 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 | 2022-06-24 |  |
+| [Hagamos Lo Que Diga el Corazón \- Versión Sinfónica](https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Hagamos Lo Que Diga el Corazón \(Versión Sinfónica\)](https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2) | 5:38 | 2023-03-10 |  |
 | [Herencia Taína](https://open.spotify.com/track/629c9wMP8VDhq3VhUeaIiD) | [Marea Brava Orquesta](https://open.spotify.com/artist/6CnhNwAiuTppiZo7xLRqzG) | [Pa' Ti y Pa' Mi](https://open.spotify.com/album/23xGV7gv77nP015aIbmvEk) | 4:36 | 2022-06-24 |  |
 | [Juan](https://open.spotify.com/track/4cou0fuQJ6O64pgPp5liuR) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 3:51 | 2022-06-24 |  |
 | [La Flor de los Lindos Campos](https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [La Flor de los Lindos Campos](https://open.spotify.com/album/2BUtJVFArByIESwG092wHR) | 3:53 | 2022-06-24 |  |

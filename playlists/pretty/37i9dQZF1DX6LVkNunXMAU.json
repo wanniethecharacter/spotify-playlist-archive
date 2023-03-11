@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53675,
+  "num_followers": 53680,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMDRlNmI3YWYzNGExNWVhZmJmN2M3NjQ0ODU2OTIzZWE0",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGM3MzBjMGNjNmQ2ZTcxYzVmYmI5Y2MwZDUwNTcwMzAw",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+        "name": "31 de Febrero",
+        "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
         }
       ],
-      "duration_ms": 161302,
-      "name": "A la Primera",
-      "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
+      "duration_ms": 189396,
+      "name": "31 de Febrero",
+      "url": "https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "31 de Febrero",
-        "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
       },
       "artists": [
         {
-          "name": "LoLo",
-          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 189396,
-      "name": "31 de Febrero",
-      "url": "https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T"
+      "duration_ms": 161302,
+      "name": "A la Primera",
+      "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Como un Guiri en Barcelona",
-        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Como un Guiri en Barcelona",
-      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Sin Compromiso",
         "url": "https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+        "name": "Como un Guiri en Barcelona",
+        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
       },
       "artists": [
         {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+      "duration_ms": 200973,
+      "name": "Como un Guiri en Barcelona",
+      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1059,6 +1043,22 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Helen K",
+        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 178656,
+      "name": "Helen K",
+      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tranki Town",
         "url": "https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Helen K",
-        "url": "https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 178656,
-      "name": "Helen K",
-      "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "Todo el D\u00eda Loca",
-      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 145636,
       "name": "Cartas a Walter Xen\u00f3n",
       "url": "https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Todo el D\u00eda Loca",
+      "url": "https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev"
     },
     {
       "added_at": "2022-11-11 21:41:34",

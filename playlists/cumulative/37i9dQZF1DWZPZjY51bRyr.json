@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154751,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
+    },
+    {
+      "album": {
         "name": "Aura Sound Bath",
         "url": "https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo"
       },
@@ -344,6 +362,24 @@
       "duration_ms": 216084,
       "name": "Breathe With Me",
       "url": "https://open.spotify.com/track/5Yg8xfu4paQ3HLeYsHYL3A"
+    },
+    {
+      "album": {
+        "name": "BYND TME",
+        "url": "https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao"
+      },
+      "artists": [
+        {
+          "name": "Nico Via",
+          "url": "https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "BYND TME",
+      "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
     },
     {
       "album": {
@@ -1049,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Perfect State Of Mind",
+        "url": "https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b"
+      },
+      "artists": [
+        {
+          "name": "Pine River",
+          "url": "https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155774,
+      "name": "Perfect State Of Mind",
+      "url": "https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ"
+    },
+    {
+      "album": {
         "name": "Tantra",
         "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
       },
@@ -1352,6 +1406,24 @@
       "duration_ms": 157912,
       "name": "Sky Lights",
       "url": "https://open.spotify.com/track/7HToCQy3ObwcSCpEEjkX7x"
+    },
+    {
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Sl\u00e1inte! All the right music to fuel your St. Patrick's Day.",
-  "name": "St. Patrick's Day 2022",
+  "name": "St. Patrick's Day 2023",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189560,
       "name": "After All",
       "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 262269,
       "name": "All the Lies That You Told Me",
       "url": "https://open.spotify.com/track/4qu2IyoDGSc7tZEZeyYTBi"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213160,
       "name": "Always Come Back To Your Love",
       "url": "https://open.spotify.com/track/5EVXjGtSm65oYpRQpwPjm0"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 261079,
       "name": "An Ocean and a Rock",
       "url": "https://open.spotify.com/track/0qzJpg2kSBAuwH5EsqWa7p"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213114,
       "name": "Bear Claws",
       "url": "https://open.spotify.com/track/3lJIMpVTbmEwUXy0m4U9lU"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187320,
       "name": "Big Sur",
       "url": "https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 159053,
       "name": "Carolina Rua",
       "url": "https://open.spotify.com/track/0HtnnFYNOfPSSSdeGYXlnd"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 249009,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/60toINmwSQZUomYR08Ru8M"
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Fisherman's Blues",
+        "url": "https://open.spotify.com/album/0lIGBQj12ehBETiO01zUZx"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Fisherman's Blues - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6aWZmnIsIgwyeUIOmRGL5m"
+    },
+    {
+      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/22pfCAdDOgyC2JfSi5OwxT"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 216266,
       "name": "Flying Without Wings",
       "url": "https://open.spotify.com/track/1pDylAt4nUPy2r72KRQDYX"
@@ -959,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Live at Oxegen 2008",
+        "url": "https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq"
+      },
+      "artists": [
+        {
+          "name": "Mundy",
+          "url": "https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240453,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8"
+    },
+    {
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210200,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
@@ -1049,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "At Their Very Best Live",
+        "url": "https://open.spotify.com/album/1izln1wMAOFer2o0MIpLrY"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Tones",
+          "url": "https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3Lw9Idcf0blvxUyhLLvwd1"
+    },
+    {
+      "album": {
         "name": "Only Ticket Home",
         "url": "https://open.spotify.com/album/1j1gfzcvAoQb2IJenqVQ3v"
       },
@@ -1096,7 +1150,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213389,
       "name": "Here Come the Good Times",
       "url": "https://open.spotify.com/track/5KRNa3Vk8uyHMS2coxs7Vx"
@@ -1478,7 +1532,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207720,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/6TJZBDP3ZVAAoNpS8OzRyr"
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 261413,
       "name": "Only When I Sleep",
       "url": "https://open.spotify.com/track/36DztiNpSIH5ZHTwmqthHW"
@@ -1796,7 +1850,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 270573,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd"
@@ -1904,7 +1958,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 206960,
       "name": "Power Over Me",
       "url": "https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs"
@@ -1976,7 +2030,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 242866,
       "name": "Put the Message in the Box",
       "url": "https://open.spotify.com/track/6xAqyW01AhfNSXB4sJCCWI"
@@ -1994,10 +2048,28 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 257120,
       "name": "Raglan Road",
       "url": "https://open.spotify.com/track/54DmRTsE2YlhxxdO82DiJX"
+    },
+    {
+      "album": {
+        "name": "40 Years",
+        "url": "https://open.spotify.com/album/2Tuo3kdSBjECGxu5Wowftu"
+      },
+      "artists": [
+        {
+          "name": "The Dubliners",
+          "url": "https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257093,
+      "name": "Raglan Road",
+      "url": "https://open.spotify.com/track/1ahYzmBVbrogM1bLR6StOz"
     },
     {
       "album": {
@@ -2102,7 +2174,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204920,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/4XQgdczvOapXHBiMc5ovlo"
@@ -2318,7 +2390,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 206200,
       "name": "Songs of Love",
       "url": "https://open.spotify.com/track/6KSO43CfvMfcowS1Jd4JAb"
@@ -2498,7 +2570,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 156920,
       "name": "Thank You for the Days",
       "url": "https://open.spotify.com/track/55FZPAx031YcfhW1ZCN1nG"
@@ -2716,7 +2788,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
@@ -2778,6 +2850,24 @@
       "duration_ms": 131493,
       "name": "The Parting Glass (with Tommy Makem)",
       "url": "https://open.spotify.com/track/5BdasEKX5aW3BKSgVK54EH"
+    },
+    {
+      "album": {
+        "name": "La Collection des Inoubliables Chansons de Pubs Irlandais, Vol. 1",
+        "url": "https://open.spotify.com/album/6iU8XhpeMbVSn0oZb836yE"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299133,
+      "name": "The Rare Auld Times",
+      "url": "https://open.spotify.com/track/3qUAGcInwQbX3zGnVnSDEf"
     },
     {
       "album": {
@@ -2883,6 +2973,42 @@
     },
     {
       "album": {
+        "name": "Working Class Hero",
+        "url": "https://open.spotify.com/album/2lc1ut7QDxSHYoILcYWiHN"
+      },
+      "artists": [
+        {
+          "name": "Luke Kelly",
+          "url": "https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381786,
+      "name": "The Town I Loved So Well",
+      "url": "https://open.spotify.com/track/3xyTkzFLATzDmN214fuxsR"
+    },
+    {
+      "album": {
+        "name": "This Is the Sea (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302826,
+      "name": "The Whole of the Moon - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
+    },
+    {
+      "album": {
         "name": "Nobody Knows: The Best of Paul Brady",
         "url": "https://open.spotify.com/album/0za3APQTWyMluh7o4qHOf8"
       },
@@ -2984,7 +3110,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
@@ -3020,7 +3146,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 232826,
       "name": "When You're Looking Like That - Single Remix",
       "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
@@ -3042,7 +3168,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189213,
       "name": "Where's Me Jumper?",
       "url": "https://open.spotify.com/track/1PWkvrHtJI1TLfnZDWDf2u"
@@ -3152,7 +3278,7 @@
       ],
       "date_added": "2021-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 345186,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav"

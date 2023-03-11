@@ -522,10 +522,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 238052,
       "name": "I'm Gonna Get You - Radio Edit",
       "url": "https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN"
+    },
+    {
+      "album": {
+        "name": "Audacious, Vol. 5",
+        "url": "https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg"
+      },
+      "artists": [
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        },
+        {
+          "name": "Jessica Sutta",
+          "url": "https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238052,
+      "name": "I'm Gonna Get You - Radio Edit",
+      "url": "https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a"
     },
     {
       "album": {

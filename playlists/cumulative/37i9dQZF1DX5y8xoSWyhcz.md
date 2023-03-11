@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. nemahsis on the cover.
 
-1,034 songs - 2 day 5 hr 6 min
+1,035 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-07-31 | 2021-10-16 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-04-24 | 2021-06-12 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-10-29\* | 2021-02-12 |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |
 | [Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Quarterback](https://open.spotify.com/album/1C51Uu0mo7y96PKMVKkNpU) | 3:00 | 2021-02-20 | 2021-06-19 |
 | [queen st](https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [queen st](https://open.spotify.com/album/1Zw3TjtEff6LALfHLqOKRe) | 2:10 | 2022-01-21 | 2022-05-28 |
 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 | 2021-08-21 | 2021-09-04 |
@@ -762,7 +763,7 @@
 | [Sarasota](https://open.spotify.com/track/4Ho8wIkfHfTKVXuoHZxvTE) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sarasota](https://open.spotify.com/album/3HVKSq7jlAFdGoZjxc3tp5) | 2:55 | 2022-04-01 | 2022-04-09 |
 | [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 | 2022-05-13 | 2022-10-14 |
 | [Satellite](https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:04 | 2022-10-07 | 2023-02-11 |
-| [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-22 |  |
+| [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 | 2022-04-22 | 2023-03-11 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-05-15 | 2021-06-27 |
 | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [say it over \(feat\. Cautious Clay\)](https://open.spotify.com/album/66wHES29CUsAIaWHkusEka) | 3:58 | 2020-10-29\* | 2020-11-14 |
 | [Say Less](https://open.spotify.com/track/0C0mdumf7sO63zRFyBCXmo) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Say Less](https://open.spotify.com/album/4pRXYx8SnrrUBADBLwSbff) | 3:26 | 2022-06-10 | 2022-09-24 |

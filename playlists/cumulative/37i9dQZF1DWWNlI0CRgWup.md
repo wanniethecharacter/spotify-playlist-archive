@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Stéphane
+> Découvrez notre sélection des artistes à suivre\. Photo : Luther
 
-90 songs - 4 hr 48 min
+95 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,12 @@
 | [Filage et faits](https://open.spotify.com/track/2FeFLCNEoZSFB9H9cAY5at) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Filage et faits](https://open.spotify.com/album/0LXyoJhbPZkfv5LQKqfqtC) | 3:05 | 2021-12-02 | 2022-02-08 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-01-24 |  |
-| [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 | 2022-11-24 |  |
+| [Génération](https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Génération](https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh) | 2:52 | 2023-03-10 |  |
+| [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 | 2022-11-24 | 2023-03-11 |
 | [Horizon](https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Horizon](https://open.spotify.com/album/3J9bxDC6kdRXJDopIvb9cQ) | 3:18 | 2022-05-16 | 2022-06-18 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-07 |  |
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2022-06-10 |  |
-| [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 |  |
+| [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 | 2023-03-11 |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-03-24 | 2022-06-11 |
 | [La Macarena](https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:07 | 2022-03-24 | 2022-04-15 |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-02-03 | 2022-05-17 |
@@ -57,18 +58,21 @@
 | [Les dormantes](https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Les dormantes](https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q) | 3:18 | 2022-11-24 |  |
 | [Les gens qui doutent](https://open.spotify.com/track/7fsnHdB8abooTvR7bkhWXh) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Les gens qui doutent](https://open.spotify.com/album/4qa4kWwOe8wH1SRrE4kx7U) | 3:16 | 2022-04-14 | 2022-06-11 |
 | [Ma meilleure vie](https://open.spotify.com/track/1qKrfVLSMse9xdSqccbidX) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Ma meilleure vie](https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj) | 4:20 | 2021-12-02 | 2022-02-08 |
+| [Ma Terre](https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Ma Terre](https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN) | 2:54 | 2023-03-10 |  |
+| [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-03-10 |  |
 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 | 2022-06-10 |  |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 | 2022-03-25 |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 |  |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 |  |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 |  |
+| [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 | 2023-03-10 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-11-24 |  |
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 | 2022-09-30 |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-29 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
-| [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-10 |  |
+| [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-10 | 2023-03-11 |
 | [postcard from Paris](https://open.spotify.com/track/08jQ7tWtdGYteyCmzFmv8r) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:04 | 2022-06-10 | 2022-06-18 |
 | [Que tout s'danse](https://open.spotify.com/track/5btPpAAwVyA8bRc3Ol8gqQ) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À nous](https://open.spotify.com/album/2dCJ1XBaEXo7JX38wXFJrm) | 3:34 | 2021-12-02 | 2022-03-25 |
 | [Rayons Gamma](https://open.spotify.com/track/3vk4CWWFlo1UAjCFG6ctZq) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Rayons Gamma](https://open.spotify.com/album/6ehX4nmU1nqwljgu7ZPbbn) | 3:15 | 2022-02-07 | 2022-06-11 |
@@ -93,9 +97,10 @@
 | [Téco](https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Téco](https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN) | 2:42 | 2022-02-03 | 2022-02-08 |
 | [Vega](https://open.spotify.com/track/4lT57AWvtIWIc8kEhqjD06) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Vega](https://open.spotify.com/album/7KPtPt18RqcaqqZvFarHjG) | 4:00 | 2021-12-02 | 2022-01-15 |
 | [Vieux](https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Rendez\-vous](https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC) | 2:56 | 2022-06-10 | 2022-09-30 |
-| [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2022-11-24 |  |
+| [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2022-11-24 | 2023-03-11 |
 | [Vue sur la mer](https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Enfant roi](https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI) | 2:34 | 2022-02-07 | 2022-09-30 |
-| [y'a rien de plus chiant que la joie](https://open.spotify.com/track/2qpfUuhooMWT7m3o6Jg0CB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [y'a rien de plus chiant que la joie](https://open.spotify.com/album/1ApHah4ETKmbD3pSpO9mBB) | 2:13 | 2023-01-24 |  |
+| [y'a rien de plus chiant que la joie](https://open.spotify.com/track/2qpfUuhooMWT7m3o6Jg0CB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [y'a rien de plus chiant que la joie](https://open.spotify.com/album/1ApHah4ETKmbD3pSpO9mBB) | 2:13 | 2023-01-24 | 2023-03-11 |
+| [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-03-10 |  |
 | [Été brûlant](https://open.spotify.com/track/5ZYNSdAGH1znlbUXqt8T84) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x), [Sandra Nicolle](https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll) | [Été brûlant](https://open.spotify.com/album/3H7feFG23ok09jr6Mby8MY) | 2:54 | 2022-02-03 | 2022-02-08 |
 | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/track/02PO29J9Hjay8TPbyDskVH) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [ᛋ\. INSPIRÉ DE FAITS RÉELS \#4](https://open.spotify.com/album/027Oju4gY9xUnDqgAdavpT) | 3:12 | 2022-04-14 | 2022-08-11 |
 

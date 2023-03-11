@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6673,
+  "num_followers": 6683,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDc4MDg4NDQ3ZGFlODc4NmQ4ZGMxNzllNGIxODc0NDJi",
+  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDEzYjE2Nzg1MmI4M2U1Mjc4MDc1ZWVlNDQwYmQ2Mjgz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -833,20 +833,24 @@
       "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "Citizens of Boomtown (Deluxe)",
-        "url": "https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm"
+        "name": "High Vibe Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt"
       },
       "artists": [
         {
-          "name": "The Boomtown Rats",
-          "url": "https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9"
+          "name": "DJ Taz Rashid",
+          "url": "https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx"
+        },
+        {
+          "name": "KR3TURE",
+          "url": "https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu"
         }
       ],
-      "duration_ms": 361306,
-      "name": "K.I.S.S. - Remix",
-      "url": "https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ"
+      "duration_ms": 229110,
+      "name": "Love Me - KR3TURE Remix",
+      "url": "https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S"
     }
   ],
   "unique_name": "Bluestronica",

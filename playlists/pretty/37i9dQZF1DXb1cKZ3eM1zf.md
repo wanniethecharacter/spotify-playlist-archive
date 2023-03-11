@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,120 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,132 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,7 +245,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 235 | [Dream All Day](https://open.spotify.com/track/6NQ9hBc6yra6j9fMbnMTS7) | [The Posies](https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam) | [Frosting On The Beater](https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3) | 3:04 |
 | 236 | [Age of Panic](https://open.spotify.com/track/6JA0MXHzaaJBG1eIbWAW3d) | [Senser](https://open.spotify.com/artist/2x3n60ukOull9yln5m080E) | [Senser Stacked up XX](https://open.spotify.com/album/303SfM4fCrqwqnsSCQG8bV) | 4:08 |
 | 237 | [Lily Was Here](https://open.spotify.com/track/2uT3aswFopLTgJ4QtixmcJ) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Dulfer Live In Amsterdam](https://open.spotify.com/album/2HnQWddlLB66gvtkXvhqW1) | 5:23 |
-| 238 | [Down Man](https://open.spotify.com/track/11ygR5HZFXjtQIF3ggvwvr) | [Brainbox](https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/3k1adw3i30pKxxzm7XFYj5) | 2:35 |
+| 238 | [Down Man](https://open.spotify.com/track/756HNdU6TFW8hctr7iNddD) | [Brainbox](https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5) | [Singles & B\-sides 1969\-1971](https://open.spotify.com/album/0xeaZGSk7XZS6HIwxSKdCK) | 2:34 |
 | 239 | [Sure 'Nuff 'n' Yes, I Do \- Mono](https://open.spotify.com/track/7bBI9bYuWpip6arxDtlHhx) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Safe as Milk \(Mono\)](https://open.spotify.com/album/3P1Jk29mthJZRumq0HrCdq) | 2:11 |
 | 240 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 | 241 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 499 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 500 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
 
-Snapshot ID: `MTY3NzMxNTk2MCwwMDAwMDAwMDAzM2NlZmRmNmRlM2JhYWIxZTVkZjA2ZTE3MjFhZWQy`
+Snapshot ID: `MTY3NzMxNTk2MCwwMDAwMDAwMDExZmNmYjkyYTkxYTEyMWE1YzA3MTdmZWI0NzRjODBi`

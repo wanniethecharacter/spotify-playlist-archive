@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 264814,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG"
@@ -4243,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/15mlyFocsUp6NsURCb8MI4"
+    },
+    {
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1yFYrWlcucrG2gI2AzowyP"
       },
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 214204,
       "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
       "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
@@ -5470,6 +5488,24 @@
       "duration_ms": 310760,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6FAsJDkg4y5JSWP9ZMKlDj"
     },
     {
       "album": {

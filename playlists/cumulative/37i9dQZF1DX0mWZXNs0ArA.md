@@ -4,7 +4,7 @@
 
 > 150%
 
-173 songs - 7 hr 30 min
+174 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Stranded \- Sped Up](https://open.spotify.com/track/2kTUAhtgq8ZFacu37QbAnB) | [Keno Carter](https://open.spotify.com/artist/3njjFO9Dqt73ww33mCT8Ua), [dray tyg](https://open.spotify.com/artist/30aAOvtwTUh7fK8epTWqro) | [Stranded](https://open.spotify.com/album/2MNi9oHEvD6y25bzPvzBb9) | 2:36 | 2023-03-03 |  |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 |  |
 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 | 2022-09-27 |  |
-| [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 |  |
+| [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 | 2023-03-11 |
+| [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/5wXLg0zTYulEeNZ8wSZn6U) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/7vaREwP3zsWPRNxnFyzhQv) | 1:35 | 2023-01-18 |  |
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-01-27 |  |
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-06 | 2022-12-14 |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 | 2022-12-18 |

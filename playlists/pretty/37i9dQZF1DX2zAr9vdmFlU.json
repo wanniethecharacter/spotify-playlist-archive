@@ -1,15 +1,15 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 374350,
+  "num_followers": 374507,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIyMzg0NiwwMDAwMDAwMDEzMTAwMDVkOTk4NWYyYTc1NjFiODRmODExYjBiNWY5",
+  "snapshot_id": "MTY3ODIyMzg0NiwwMDAwMDAwMDVlZjQ2OTNkNzk1YzJlMDUxMjE0MjA1NmI2MTFiMmQx",
   "tracks": [
     {
-      "added_at": "2023-03-10 01:14:07",
+      "added_at": "2023-03-11 00:28:27",
       "album": {
         "name": "Zona De Perigo",
         "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
         "name": "A Lo Cubano",
         "url": "https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 243696,
       "name": "A Lo Cubano",
       "url": "https://open.spotify.com/track/5RHsMuIxbJhGJoyd8DYmn8"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 200303,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 235200,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 200303,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -787,18 +787,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+        "name": "Curita",
+        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
         }
       ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+      "duration_ms": 206065,
+      "name": "Curita",
+      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -819,22 +823,18 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Curita",
-        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 206065,
-      "name": "Curita",
-      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "En Medio Del Jard\u00edn",
+        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "En Medio Del Jard\u00edn",
+      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "Ay\u00fadame Inspiraci\u00f3n",
         "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 247504,
       "name": "Ay\u00fadame Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
-        "name": "En Medio Del Jard\u00edn",
-        "url": "https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "En Medio Del Jard\u00edn",
-      "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "Solterona",
+        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "Solterona",
+      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1399,6 +1415,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "Calentura: Toque (Captain Planet Remixes)",
         "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
@@ -1419,38 +1451,6 @@
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
-        "name": "Solterona",
-        "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "Solterona",
-      "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "Lady Mandona",
         "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
       },
@@ -1607,26 +1623,6 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Caliventura Remixes",
-        "url": "https://open.spotify.com/album/23gAnvV6e81mxkSNxc5sUD"
-      },
-      "artists": [
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
-        },
-        {
-          "name": "DJ Day",
-          "url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T"
-        }
-      ],
-      "duration_ms": 300163,
-      "name": "Mas Pan - DJ Day Remix",
-      "url": "https://open.spotify.com/track/0inc22aCFp3gQvrC8LbDaf"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
         "name": "La del bar",
         "url": "https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi"
       },
@@ -1643,18 +1639,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+        "name": "Caliventura Remixes",
+        "url": "https://open.spotify.com/album/23gAnvV6e81mxkSNxc5sUD"
       },
       "artists": [
         {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+        },
+        {
+          "name": "DJ Day",
+          "url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T"
         }
       ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+      "duration_ms": 300163,
+      "name": "Mas Pan - DJ Day Remix",
+      "url": "https://open.spotify.com/track/0inc22aCFp3gQvrC8LbDaf"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
-        "name": "Bajofondo Tango Club",
-        "url": "https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM"
+        "name": "Para Llevar",
+        "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
       "artists": [
         {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        },
+        {
+          "name": "Vakero",
+          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
         }
       ],
-      "duration_ms": 278080,
-      "name": "Naranjo En Flor",
-      "url": "https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9"
+      "duration_ms": 172411,
+      "name": "Para Llevar",
+      "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
     },
     {
       "added_at": "2023-03-07 21:16:17",
@@ -1727,6 +1731,22 @@
     {
       "added_at": "2023-03-07 21:16:17",
       "album": {
+        "name": "Bajofondo Tango Club",
+        "url": "https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9"
+    },
+    {
+      "added_at": "2023-03-07 21:16:17",
+      "album": {
         "name": "The Carnival Samba",
         "url": "https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 287293,
       "name": "Cattin' Latin",
       "url": "https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl"
-    },
-    {
-      "added_at": "2023-03-07 21:16:17",
-      "album": {
-        "name": "Para Llevar",
-        "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        },
-        {
-          "name": "Vakero",
-          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
-        }
-      ],
-      "duration_ms": 172411,
-      "name": "Para Llevar",
-      "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
     }
   ],
   "unique_name": "Latin Dinner",

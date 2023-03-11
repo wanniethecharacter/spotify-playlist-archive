@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Coupdekat
 
-828 songs - 1 day 20 hr 46 min
+829 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,8 @@
 | [It's My Birthday](https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [It's My Birthday](https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI) | 2:50 | 2023-01-04 | 2023-01-12 |
 | [i’ve been](https://open.spotify.com/track/1TXfXqlJQ6YXqXku8Uv3O4) | [xeikia](https://open.spotify.com/artist/0xVkriOBIF4Z5Ov3oK8tVv) | [throwaways](https://open.spotify.com/album/4b2lAg2VvRgp0n274pRADD) | 2:18 | 2022-06-22 | 2022-07-21 |
 | [Jacket](https://open.spotify.com/track/1dvZ5M0ZFaSWJI3Y5U6s7J) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Jacket](https://open.spotify.com/album/2soKn44dzEe1649DoFUpCs) | 3:44 | 2022-10-19 | 2022-11-24 |
-| [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-18 |  |
+| [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-18 | 2023-03-11 |
+| [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 | 2023-03-09 |  |
 | [Jenny](https://open.spotify.com/track/4xjVOnjX4WuKYLvOJRRH90) | [esmerelda](https://open.spotify.com/artist/4DhDDf2DoOm6wSTJtiKQ6A) | [Jenny](https://open.spotify.com/album/2Y3KFqgNmr2Pua5WGHd58L) | 3:19 | 2022-01-05 | 2022-01-29 |
 | [Jet Plane 5000](https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [Jet Plane 5000](https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ) | 2:44 | 2022-06-29 | 2023-01-05 |
 | [Job Done](https://open.spotify.com/track/4keoX75UEWCO0wDVhaFIOM) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI), [Ty Healy](https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1), [FFWIH](https://open.spotify.com/artist/5GySQJuL97QAzc1F0VpgLU) | [The Fresh Organic](https://open.spotify.com/album/3erQdHlfzhMAnwko7Eii5F) | 4:00 | 2022-03-10 | 2022-04-07 |

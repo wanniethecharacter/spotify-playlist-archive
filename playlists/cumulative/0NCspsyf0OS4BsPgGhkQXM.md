@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-703 songs - 1 day 14 hr 27 min
+704 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Antidote](https://open.spotify.com/track/4abpXJR8JbbUcvse4ahiQn) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 2:36 | 2022-09-02 | 2022-11-24 |
 | [Anxious](https://open.spotify.com/track/3oHu4UWGFkZ44PcBGELEdf) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 2:40 | 2022-01-14 | 2022-06-04 |
 | [Anywhere You Want](https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j) | 3:02 | 2022-08-26 | 2022-10-08 |
+| [Aperture](https://open.spotify.com/track/3sSWpHdkiwuZaS7tPdDJig) | [Rev Lane](https://open.spotify.com/artist/5FikemeDBPnFrW5mL7dAOd), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu), [Nick Yorko](https://open.spotify.com/artist/0Kp37dYTLzLkV9EndnDsHZ), [418](https://open.spotify.com/artist/0gFaXWb7YkFAGj8bVJLpjh) | [Aperture](https://open.spotify.com/album/6rWp0YzgUDib50H6zYQVCy) | 3:52 | 2023-03-10 |  |
 | [Apex](https://open.spotify.com/track/1XA70LvTgplYtHMzgB8N3A) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Apex](https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A) | 3:26 | 2023-03-03 |  |
 | [Apogee](https://open.spotify.com/track/783dzFJfeOk2UeayUPZ6Ct) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Apogee](https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH) | 4:17 | 2022-01-14 | 2022-09-15 |
 | [Apollo](https://open.spotify.com/track/19obumBjyuSJdlY7RFBwn6) | [YL](https://open.spotify.com/artist/15nuHLW9M5qmHl7k6zyHr3), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Apollo](https://open.spotify.com/album/430Gcc2DdJiWPXQ6yhpJNS) | 2:57 | 2022-11-28 | 2023-01-14 |

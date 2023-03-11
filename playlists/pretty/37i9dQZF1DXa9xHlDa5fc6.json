@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 430340,
+  "num_followers": 430437,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDU1ZjNkOWIxMjMxNjBhNWU5Y2I2YWM1ZGU2NzViMjIx",
+  "snapshot_id": "MTY3NzIxNDg2MCwwMDAwMDAwMDY3OTI2MjY2MjdmMWM5MGNjMTY1ODg5N2EyYjNjOTBh",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Black Bear",
-        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 241119,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Black Bear",
+        "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 241119,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Blossom (Deluxe)",
         "url": "https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 255160,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Nervous System",
-      "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Indigo Puff",
         "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 231721,
       "name": "Indigo Puff",
       "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "The Days We Had",
-        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "Something Here",
-      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Hold On Baby",
         "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 233088,
       "name": "Let Us Die",
       "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "The Days We Had",
+        "url": "https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Something Here",
+      "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Magic Valley",
-        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 300030,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 155000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Magic Valley",
+        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 300030,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 273671,
-      "name": "Method to the Madness",
-      "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 185317,
       "name": "Stay Out Of It",
       "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 273671,
+      "name": "Method to the Madness",
+      "url": "https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "I Don't Think I Can Do This Anymore",
         "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
         "name": "Just Say When (Version 2.0)",
         "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 224343,
       "name": "Just Say When (Version 2.0)",
       "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Young Blood EP",
-        "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
-      },
-      "artists": [
-        {
-          "name": "Saint Raymond",
-          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "As We Are Now",
-      "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 251872,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Young Blood EP",
+        "url": "https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi"
+      },
+      "artists": [
+        {
+          "name": "Saint Raymond",
+          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "As We Are Now",
+      "url": "https://open.spotify.com/track/0auccbirOSgf38celsAEJA"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Cinema Love",
-        "url": "https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7"
-      },
-      "artists": [
-        {
-          "name": "Patrick Martin",
-          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Cinema Love",
-      "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Cinema Love",
+        "url": "https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Martin",
+          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Cinema Love",
+      "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "More Than Fine",
-        "url": "https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 207940,
-      "name": "More Than Fine",
-      "url": "https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Talking in Circles",
         "url": "https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 227121,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "More Than Fine",
+        "url": "https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 207940,
+      "name": "More Than Fine",
+      "url": "https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Painting of a Panic Attack (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
       "artists": [
         {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
+      "duration_ms": 241866,
+      "name": "Turn Your Love",
+      "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
     }
   ],
   "unique_name": "License To Chill",

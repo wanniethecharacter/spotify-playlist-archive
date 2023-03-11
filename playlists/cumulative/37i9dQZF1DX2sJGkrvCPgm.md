@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-299 songs - 18 hr 49 min
+300 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/6xQucpY9ELAnkaQH5Fjtxs) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [God With Us](https://open.spotify.com/album/769hv10bfheMCJViVIr0YD) | 4:38 | 2021-12-24 | 2022-11-05 |
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/177jEwUqgmdmw6uccm6SfJ) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:08 | 2021-12-24 |  |
 | [Cradle to the Cross](https://open.spotify.com/track/1MnJZRyH2DZ1v3y8l1vJ2p) | [Nathan Tasker](https://open.spotify.com/artist/6mtl2Fq8W3dAjjwa0JSlDB) | [A Star\. a Stable\. a Saviour](https://open.spotify.com/album/5ZwuzV5Jf69ztsS7mUtgVo) | 3:40 | 2021-12-24 | 2022-07-22 |
-| [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-24 |  |
+| [Diddly Squat](https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:05 | 2022-12-11 |  |
+| [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 | 2021-12-24 | 2023-03-11 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 | 2021-12-24 |  |
 | [Easier \(The Song Of The Wiseman\)](https://open.spotify.com/track/6jvBNOWclw8xK6vPwGCvpP) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Christmas Stories: Repeat The Sounding Joy](https://open.spotify.com/album/6etDHwbarfZB28dwYHBbJc) | 3:42 | 2021-12-24 | 2022-07-23 |
 | [Emmanuel](https://open.spotify.com/track/0j4Ijq2a5axXMCzWA51tu0) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Christmas Eve in Bethlehem](https://open.spotify.com/album/6CWrbkVYhETLuzaDze33yo) | 4:20 | 2021-12-24 | 2022-11-15 |
@@ -142,7 +143,7 @@
 | [In the Bleak Mid Winter \(All I Can Do\) \- Edit](https://open.spotify.com/track/6HZZBfALYl5XO3sTggthHw) | [Cathy Burton](https://open.spotify.com/artist/34ejTUpXgcgk63yNgmOspG) | [In the Bleak Midwinter \(All I Can Do\)](https://open.spotify.com/album/7ybOF0hOhyNhofQXBAToNw) | 2:58 | 2021-12-24 | 2022-07-22 |
 | [In the Bleak Midwinter](https://open.spotify.com/track/3HhJXoQwER0UpyjpnyZvz6) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Christmas](https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L) | 4:42 | 2021-12-24 | 2022-07-28 |
 | [Into The Silent Night](https://open.spotify.com/track/46uvLymiSHV7NvrUOFWU2t) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \| The EP](https://open.spotify.com/album/1CVBbMq1j6uDcoMtlsuOt8) | 3:18 | 2021-12-24 | 2022-07-27 |
-| [Into the Silent Night](https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \(Extended\)](https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB) | 3:18 | 2021-12-24 |  |
+| [Into the Silent Night](https://open.spotify.com/track/4iO58g1avsDxYztLwpyCg6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Into The Silent Night \(Extended\)](https://open.spotify.com/album/72K9NLsisYGlynNMb1ywMB) | 3:18 | 2021-12-24 | 2023-03-11 |
 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/3Sffhn79iVVjfgogafj3ZY) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [This Is Christmas](https://open.spotify.com/album/7KTrKAVMqIlNV3fVmj47hl) | 3:31 | 2021-12-24 | 2022-07-22 |
 | [It Came Upon A Midnight Clear \(Holy Holy\)](https://open.spotify.com/track/2uIX9lKJrvJjyey5s1k3j9) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Receive Our King](https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy) | 4:11 | 2021-12-24 | 2022-07-24 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/0mjtSPDx6jMwSsY4sZLBEf) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Christmas](https://open.spotify.com/album/1LsZFNhBypbzpUBMC6zCKM) | 2:40 | 2021-12-24 | 2022-07-15 |
@@ -213,7 +214,7 @@
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [O Come, O Come Emmanuel](https://open.spotify.com/album/2kdiLHWZvTSx4rc0z5BVaS) | 2:43 | 2022-11-26 |  |
 | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [O Come, O Come Emmanuel \(feat\. IAMSON\)](https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw) | 3:27 | 2022-11-26 |  |
 | [O Come, O Come Emmanuel \- Live](https://open.spotify.com/track/7LsbDRyc93aBzxLXCHzLpr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 3:49 | 2021-12-24 | 2022-07-29 |
-| [O Come, O Come, Emmanuel](https://open.spotify.com/track/6ETev8u6Hb3YqToPpmTRMl) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 1:37 | 2021-12-24 | 2022-11-22 |
+| [O Come, O Come, Emmanuel](https://open.spotify.com/track/6ETev8u6Hb3YqToPpmTRMl) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 1:37 | 2021-12-24 |  |
 | [O Holy Night](https://open.spotify.com/track/1HZR4uepSSlHZlSVsvAYIb) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL) | [Capturing Christmas](https://open.spotify.com/album/22Fsx6NsKFNVGdBPZm3nfT) | 3:49 | 2021-12-24 | 2022-07-09 |
 | [O Holy Night](https://open.spotify.com/track/0Z2tPnz4xjlqSzS2v4Ehlb) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [O Holy Night](https://open.spotify.com/album/18A6dWxk3ZavJbYdlO8Fgd) | 3:53 | 2021-12-24 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/6nf8KmoyumSOyNOIBsKCgV) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Christmas](https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L) | 7:07 | 2021-12-24 | 2022-07-26 |

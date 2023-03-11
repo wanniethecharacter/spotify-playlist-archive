@@ -264,10 +264,32 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 291400,
       "name": "Gonna Give It To Ya",
       "url": "https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De"
+    },
+    {
+      "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "Jewell",
+          "url": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+        },
+        {
+          "name": "Aaron Hall",
+          "url": "https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291613,
+      "name": "Gonna Give It To Ya",
+      "url": "https://open.spotify.com/track/12LKTGOxhik5p08cIpaa6t"
     },
     {
       "album": {

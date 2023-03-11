@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-177 songs - 10 hr 31 min
+178 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [My Winter Wonderland](https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-11-30 |  |
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-20 |  |
+| [One Day in December](https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G) | [ON](https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3) | [One Day in December](https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N) | 2:37 | 2023-01-10 |  |
 | [One More Christmas \- English Version](https://open.spotify.com/track/0RhSRYfO6hV3MknwZXqfqI) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [One More Christmas](https://open.spotify.com/album/7HtVuZLHiklL7oREgMht8d) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 | 2021-12-21 |  |
 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 | 2021-12-21 | 2022-12-20 |
@@ -126,7 +127,7 @@
 | [Shhhh](https://open.spotify.com/track/3QtbPhZDz5tH830gBQAgFL) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:48 | 2021-12-21 | 2022-07-27 |
 | [Silent Night](https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Silent Night](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) | 3:25 | 2021-12-21 | 2023-03-04 |
 | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/track/0SONv4gf53rhrmJlcfkPhG) | [Twelvey](https://open.spotify.com/artist/2JtstlAho4m0Uh0sqK0X1I), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk), [크리시베어](https://open.spotify.com/artist/7jBjViEdMm00HGSDW8oA1f) | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/album/02ptXuktZkDkxWMbGF5ETF) | 2:52 | 2021-12-21 | 2022-07-29 |
-| [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2023-01-10 |  |
+| [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2023-01-10 | 2023-03-11 |
 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 | 2021-12-21 |  |
 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/2R9WJNssa0syWlYmoytmMo) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 | 2021-12-21 | 2022-07-29 |
 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 | 2021-12-21 |  |

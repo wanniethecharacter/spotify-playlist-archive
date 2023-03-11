@@ -1839,6 +1839,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Sangue Bom, Pt.3",
+        "url": "https://open.spotify.com/album/0AZPtRuZ0lHTZPUGmf2Ead"
+      },
+      "artists": [
+        {
+          "name": "Realidade Cruel",
+          "url": "https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF"
+        },
+        {
+          "name": "DMN",
+          "url": "https://open.spotify.com/artist/3uyCb9gtdnzyXxdActGeJN"
+        },
+        {
+          "name": "Face da Morte",
+          "url": "https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436062,
+      "name": "S\u00f3 Sangue Bom, Pt.3",
+      "url": "https://open.spotify.com/track/4jUFFvH5CMEq5xAB9JZf4h"
+    },
+    {
+      "album": {
         "name": "Es\u00fa",
         "url": "https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc"
       },

@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Humansongs",
+        "url": "https://open.spotify.com/album/4q72QP5wsuf6xIRTpMRYpT"
+      },
+      "artists": [
+        {
+          "name": "Po-uta",
+          "url": "https://open.spotify.com/artist/1tyhOQeX7Ey2LbbzEiB9Zv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216997,
+      "name": "Humansongs",
+      "url": "https://open.spotify.com/track/4EbQ4fLF9Z9zFQECyATkuC"
+    },
+    {
+      "album": {
         "name": "Hypervelocity (from HARDCORE UTOPIA 2)",
         "url": "https://open.spotify.com/album/5dmR3SVzYAYpn9uss8yA3l"
       },
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203524,
       "name": "Sweet Treasure",
       "url": "https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte"

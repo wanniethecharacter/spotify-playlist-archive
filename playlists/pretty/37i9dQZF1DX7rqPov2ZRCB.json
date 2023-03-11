@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 59872,
+  "num_followers": 59909,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDc5YWE3Y2Y4NGQ2YmQ2NWY5NWMyN2RmYTliN2QwMGMz",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGFjMTAxNmNmNzVhNWY3MmY4YmUyM2ZkNTAxYjg5MWY3",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -751,18 +751,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Coraz\u00f3n Bonito",
-        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
         }
       ],
-      "duration_ms": 385680,
-      "name": "Se Fue La Bola",
-      "url": "https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA"
+      "duration_ms": 256625,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -787,18 +787,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+        "name": "Coraz\u00f3n Bonito",
+        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
       },
       "artists": [
         {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 256625,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW"
+      "duration_ms": 385680,
+      "name": "Se Fue La Bola",
+      "url": "https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA"
     },
     {
       "added_at": "2019-09-09 17:49:24",

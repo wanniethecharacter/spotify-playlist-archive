@@ -4,7 +4,7 @@
 
 > Come on Girls, it's Time to get Ready and Glow!<br/>Cover : Rashi Khanna
 
-113 songs - 8 hr 34 min
+114 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [Seramal Ponal](https://open.spotify.com/track/0FTPiuMAGuvXVjeXh7g8ot) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Gulaebaghavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6hIef0WDHP7AuYPVnOslXG) | 5:11 | 2021-06-24 | 2022-10-19 |
 | [Sevatha Pulla](https://open.spotify.com/track/2436qFo91myUvcU2l1lVFI) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Theeran Adhigaaram Ondru](https://open.spotify.com/album/64OQ2PzSo9idwKf0dCMScA) | 3:54 | 2021-06-24 | 2022-10-19 |
 | [Sevatha Pulla](https://open.spotify.com/track/4qXLKjGhBqIlqtamTbkkCa) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Theeran Adhigaaram Ondru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BSjjfC3IQH9RooUCNQapw) | 3:54 | 2021-06-24 | 2022-07-29 |
-| [Sha La La](https://open.spotify.com/track/7i2chhxNX6wjdkEKkAWv31) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 4:30 | 2022-10-18 |  |
+| [Sha La La](https://open.spotify.com/track/7i2chhxNX6wjdkEKkAWv31) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 4:30 | 2022-10-18 | 2023-03-11 |
 | [Sha La La \(From "Gilli"\)](https://open.spotify.com/track/0JGMhbLkIiaJaCPgQromV8) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Asin and Thrisha Hits](https://open.spotify.com/album/2Sb4IOxmP6zYyfeqklDwEG) | 4:28 | 2022-10-18 | 2022-11-13 |
+| [Sha La Laa](https://open.spotify.com/track/5GhRvLKKV59kaghwsgeDzx) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4z4Lj02JTAgMGTATtnVwWY) | 4:30 | 2022-10-18 |  |
 | [Sirikkadhey](https://open.spotify.com/track/4NQBqInyE7zvjIiP4j1dmy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 4:05 | 2021-06-24 |  |
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-06-24 |  |
 | [Sontha Kuralil Paada](https://open.spotify.com/track/2zU4ZND0TMhsSZEmt3Inkw) | [Bharatwaj](https://open.spotify.com/artist/3UlHdzcHA5C04IKmJgv3FL), [Pop Shalini](https://open.spotify.com/artist/5wXcLr5v9cv5IAPkcFBvBT) | [Amarkalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7EYzkq2qHReND6bmnMvsPZ) | 4:59 | 2022-10-18 |  |

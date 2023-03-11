@@ -1,13 +1,29 @@
 {
   "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ms Ambar, Masta Quba y Delfina Dib en portada.",
-  "num_followers": 51400,
+  "num_followers": 51420,
   "original_name": "Femcees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGE0NGNhMjI0NWJkZjg3OGE1MDJmMmY2ZDFlZWVlZWQz",
+  "snapshot_id": "MTY3ODQ2MjgxMSwwMDAwMDAwMDUxZDI2ZjZkNWNhZmQyNDM0NzY5YWZjYTZiNDczZjZl",
   "tracks": [
+    {
+      "added_at": "2023-03-10 15:40:11",
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
     {
       "added_at": "2023-03-03 06:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 224619,
       "name": "\u00daltimamente",
       "url": "https://open.spotify.com/track/0TkvjgWhJWu3jvcmTaAKWE"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/14Siry6ZDhLo3y1pWXJ09X"
+      },
+      "artists": [
+        {
+          "name": "R O A",
+          "url": "https://open.spotify.com/artist/1VnD5vQ8lEQM4dKMOfv4tI"
+        }
+      ],
+      "duration_ms": 156691,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2BNw1WhGHgPvVYKh94AH1j"
     },
     {
       "added_at": "2023-03-03 06:00:00",
@@ -69,6 +101,26 @@
       "url": "https://open.spotify.com/track/2L5z9XcA1PCxUOJ3W24tnX"
     },
     {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Mayki Graff",
+          "url": "https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
+    },
+    {
       "added_at": "2023-02-10 06:00:00",
       "album": {
         "name": "Thug Love",
@@ -109,6 +161,46 @@
       "url": "https://open.spotify.com/track/0yLLnTgrfYyqrFRGmQIFJJ"
     },
     {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "FreeStyle Battle",
+        "url": "https://open.spotify.com/album/5n8ZkO6LW3bxWhtpuYfrR6"
+      },
+      "artists": [
+        {
+          "name": "Martha Heredia",
+          "url": "https://open.spotify.com/artist/4NVLjSxgnzrCweDkMWUTEv"
+        },
+        {
+          "name": "MelyMel",
+          "url": "https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Freestyle Battle",
+      "url": "https://open.spotify.com/track/3UHBsNMEmsFDGkFamrPNKa"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "Aceites esenciales",
+        "url": "https://open.spotify.com/album/51gPyD9UEAiHAQeLTGNfBg"
+      },
+      "artists": [
+        {
+          "name": "Julieta Larrosa",
+          "url": "https://open.spotify.com/artist/6IYScRoqT3BSICdCljiLkR"
+        },
+        {
+          "name": "Tavo Rose",
+          "url": "https://open.spotify.com/artist/7C02prLnhrlwQgy4xTl1lo"
+        }
+      ],
+      "duration_ms": 197062,
+      "name": "Aceites esenciales",
+      "url": "https://open.spotify.com/track/2t6KjDdCifTrEaHVCXowfT"
+    },
+    {
       "added_at": "2023-02-24 17:39:14",
       "album": {
         "name": "Toda La Noche",
@@ -143,6 +235,26 @@
       "duration_ms": 192346,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0WCXYkB1XAObQU5MwNfi3r"
+    },
+    {
+      "added_at": "2023-03-10 06:00:00",
+      "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "juan punto",
+          "url": "https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
     },
     {
       "added_at": "2023-02-24 17:39:14",
@@ -545,30 +657,6 @@
       "url": "https://open.spotify.com/track/7CzCpXNO8W4ngY2zJGtIHw"
     },
     {
-      "added_at": "2023-01-13 04:03:33",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "MarieV",
-          "url": "https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa"
-        },
-        {
-          "name": "Bad Panda",
-          "url": "https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "Renacer",
-      "url": "https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN"
-    },
-    {
       "added_at": "2022-10-16 09:03:00",
       "album": {
         "name": "Mala Rodr\u00edguez / Lujo Ib\u00e9rico",
@@ -851,22 +939,6 @@
     {
       "added_at": "2022-10-16 09:03:00",
       "album": {
-        "name": "Que Si Me Ves",
-        "url": "https://open.spotify.com/album/6jtwPwLF9kyYPczMayydIB"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 187122,
-      "name": "Que Si Me Ves",
-      "url": "https://open.spotify.com/track/5j0RE87fQ7NmMe5jFPsSIZ"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
         "name": "YAS\u00c9",
         "url": "https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo"
       },
@@ -927,42 +999,6 @@
     {
       "added_at": "2022-10-16 09:03:00",
       "album": {
-        "name": "Eyeliner de Katana",
-        "url": "https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW"
-      },
-      "artists": [
-        {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 121657,
-      "name": "Eyeliner de Katana",
-      "url": "https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "Perfidia",
-        "url": "https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564"
-      },
-      "artists": [
-        {
-          "name": "Elane",
-          "url": "https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
         "name": "Mujer De Fuego",
         "url": "https://open.spotify.com/album/70JgCMpy5oRmrNSXUWegPY"
       },
@@ -979,22 +1015,6 @@
       "duration_ms": 216106,
       "name": "No Puedes Parar",
       "url": "https://open.spotify.com/track/0S6bK0SXy9NZxidqc2SERP"
-    },
-    {
-      "added_at": "2022-11-25 02:27:35",
-      "album": {
-        "name": "Beefsito",
-        "url": "https://open.spotify.com/album/036cMzsW5hypPpnLvvGjzM"
-      },
-      "artists": [
-        {
-          "name": "Plata Shail",
-          "url": "https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Beefsito",
-      "url": "https://open.spotify.com/track/0P9sHPhoFbflHX4E71QwfN"
     },
     {
       "added_at": "2022-10-16 09:03:00",
@@ -1079,22 +1099,6 @@
     {
       "added_at": "2022-10-16 09:03:00",
       "album": {
-        "name": "90's",
-        "url": "https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 138342,
-      "name": "90's",
-      "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/54kfGMDwPORd3iBxg7Biaf"
       },
@@ -1123,98 +1127,6 @@
       "duration_ms": 174545,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "Arte y Terrorismo",
-        "url": "https://open.spotify.com/album/7pK4Gd3Rti0OWr82uRJ4IB"
-      },
-      "artists": [
-        {
-          "name": "IRA",
-          "url": "https://open.spotify.com/artist/4SFufo8OG7wyneSSj2F5UY"
-        }
-      ],
-      "duration_ms": 205660,
-      "name": "En la Boca del Lobo",
-      "url": "https://open.spotify.com/track/5OkeYRvjJXLTlQwDIC12e9"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "A Machete Voy (Vol.3)",
-        "url": "https://open.spotify.com/album/7qbK6qcbc1Bddxwb7yvgHp"
-      },
-      "artists": [
-        {
-          "name": "Machete en Boca",
-          "url": "https://open.spotify.com/artist/26ggle1808llWoAdfbKHoi"
-        }
-      ],
-      "duration_ms": 202297,
-      "name": "A Machete Voy",
-      "url": "https://open.spotify.com/track/2wr6BtudgpHlNE6D6cDfVR"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "Arrepent\u00edo",
-        "url": "https://open.spotify.com/album/5Tof0SEOU9DsgKDustwSgp"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "Juicy BAE",
-          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Arrepent\u00edo",
-      "url": "https://open.spotify.com/track/3vrwBbEWUh43drfQSXcVmZ"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "Madre M\u00eda",
-        "url": "https://open.spotify.com/album/6mWj8CTUKbpTqYHmJShw7j"
-      },
-      "artists": [
-        {
-          "name": "Beelial",
-          "url": "https://open.spotify.com/artist/04iTZQYr3kP61HCOBZPz7k"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Madre M\u00eda",
-      "url": "https://open.spotify.com/track/4wREpwAeOahQ37NBO47QqT"
-    },
-    {
-      "added_at": "2022-10-16 09:03:00",
-      "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2022-10-16 09:03:00",
@@ -1751,22 +1663,6 @@
       "duration_ms": 180801,
       "name": "Clean",
       "url": "https://open.spotify.com/track/4q9np9mNabLYcWcnl73Vfw"
-    },
-    {
-      "added_at": "2022-11-25 00:19:43",
-      "album": {
-        "name": "Si\u00e9ntelo",
-        "url": "https://open.spotify.com/album/5RyjVm7MbDW2wBAj7MZCnk"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Dioz",
-          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Si\u00e9ntelo",
-      "url": "https://open.spotify.com/track/4TV10FOELGJGeySkhEtCAY"
     },
     {
       "added_at": "2022-11-08 01:32:07",

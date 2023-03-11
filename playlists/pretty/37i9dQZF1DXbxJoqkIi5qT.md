@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxJoqkIi5qT.md) - [plain]
 
 > "I use my art to gain perspective and find peace\. The journey is in the destination\. Take in the view, you deserve it." Cover: Hayley Kiyoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 36 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005 likes - 36 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pink Pony Club](https://open.spotify.com/track/6IFjVdrrtV3MngDnP89bHM) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/3PKq6CrZYLvkNvTLD5DO4x) | 4:18 |
+| 1 | [Pink Pony Club](https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy) | 4:18 |
 | 2 | [panorama](https://open.spotify.com/track/7CM0JwhONajGpNY2a2KIra) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:55 |
 | 3 | [underground](https://open.spotify.com/track/66uhzvDIDLsvFgOKyEHS4e) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:55 |
 | 4 | [Lucky](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:26 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxJoqkIi5qT.md) - [plain]
 | 35 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 36 | [Handmade Heaven](https://open.spotify.com/track/554KgAoTw8cGS40oSbmTeG) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:29 |
 
-Snapshot ID: `MTY2NDkyMDM2NywwMDAwMDAwMDRkMmVjNGNlMzU1YWZmMzlkM2IwNTliMDc3ZmQ2Zjg4`
+Snapshot ID: `MTY2NDkyMDM2NywwMDAwMDAwMDZmYjFhNDA5YjA3NTIzZWNkZTEwYWUwNDcxOTNhYzhi`

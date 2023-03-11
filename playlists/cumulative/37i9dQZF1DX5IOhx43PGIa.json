@@ -3333,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Didn't Love You",
+        "url": "https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p"
+      },
+      "artists": [
+        {
+          "name": "Ashley Mehta",
+          "url": "https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189214,
+      "name": "I Wish I Didn't Love You",
+      "url": "https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg"
+    },
+    {
+      "album": {
         "name": "i'm having a hard time being myself",
         "url": "https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09"
       },
@@ -5863,6 +5881,24 @@
     },
     {
       "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "SET ME FREE (ENG)",
+      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
+    },
+    {
+      "album": {
         "name": "Shade of Yellow",
         "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
       },
@@ -6138,7 +6174,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 138000,
       "name": "Smile",
       "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
@@ -6730,7 +6766,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 289618,
       "name": "That XX - Spotify Singles",
       "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"

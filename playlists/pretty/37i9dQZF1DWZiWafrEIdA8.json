@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6740,
+  "num_followers": 6746,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMDcwMjI1MGJkNmFlOWVhY2I4MDc3ODYzZDFmMjMzNjg1",
+  "snapshot_id": "MTY3NzIyODcyNiwwMDAwMDAwMGNiYzJjNWMyNDk1ZTA0N2QwYmNlZTg3NzlkNjNkNjY1",
   "tracks": [
     {
       "added_at": "2023-01-25 01:27:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "X (Butterfly)",
-        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "X (Butterfly)",
-      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/7CzfSGBBmfFwiw1bHD9r6k"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
+        "name": "X (Butterfly)",
+        "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "X (Butterfly)",
+      "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
         "name": "Show Me the Money 777 Semi Final",
         "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 192437,
-      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2023-01-25 01:27:19",
@@ -739,22 +735,6 @@
     {
       "added_at": "2023-01-25 01:27:19",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2023-01-25 01:27:19",
-      "album": {
         "name": "School Rapper4 Final",
         "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2023-01-25 01:27:19",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 192437,
+      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
     },
     {
       "added_at": "2023-01-25 01:27:19",

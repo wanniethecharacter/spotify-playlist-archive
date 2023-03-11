@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 28442,
+  "num_followers": 28456,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMDU5MWI2Yjc1NmUxMDZmYTczMjJmOTBkN2M1YTE5NGZk",
+  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMGNiZDc0MmVlMWE5ODc2NmU2ZGU3NjRlNDhlYTlhMzAw",
   "tracks": [
     {
       "added_at": "2023-01-10 16:44:09",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
         "name": "The Sun Is Up Forever",
         "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1021,7 +1021,7 @@
         }
       ],
       "duration_ms": 282177,
-      "name": "Love and Hate in a Different Time - Demo",
+      "name": "Love and Hate in a Different Time - Original",
       "url": "https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB"
     },
     {
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Isolation Tapes",
         "url": "https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 210226,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 186582,
       "name": "Please Love Me Again",
       "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
     },
     {
       "added_at": "2023-01-10 16:44:09",

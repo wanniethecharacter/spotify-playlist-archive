@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/4N8sGdobDOI1hr8wkh4GiX"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Quartett",
+          "url": "https://open.spotify.com/artist/2VTqmf8ZEe2Y4cKztXkr9D"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196962,
+      "name": "Open Strings",
+      "url": "https://open.spotify.com/track/3jLBuRxptJldqqWHpEPa3p"
+    },
+    {
+      "album": {
         "name": "African Heritage Symphonic Series, Vol. 1",
         "url": "https://open.spotify.com/album/2uWmtnkepfi7rZLijWYDhU"
       },

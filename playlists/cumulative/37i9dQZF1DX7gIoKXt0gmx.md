@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠
 
-250 songs - 15 hr 2 min
+252 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Shot Down](https://open.spotify.com/track/58nciIyr5vKpUJkUXXkxCq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Shot Down](https://open.spotify.com/album/1aL0tA9ErudUMrpaFnyP9v) | 3:29 | 2019-05-26\* | 2022-04-16 |
 | [Shot For Me](https://open.spotify.com/track/6k7b4mcxLP5HPo6hNoXoM6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 3:44 | 2019-06-19\* | 2022-04-16 |
 | [Slow Down \(feat\. Masego\)](https://open.spotify.com/track/08kLpLmjmhpDHOLgllAd4T) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [MANTIC](https://open.spotify.com/album/79XZHjSZloC8UIUMT1g5JM) | 2:59 | 2020-08-22 | 2020-09-05 |
-| [Smoking on my Ex Pack](https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:23 | 2022-12-14 |  |
+| [Smoking on my Ex Pack](https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:23 | 2022-12-14 | 2023-03-11 |
 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 | 2022-10-13 |  |
 | [Sober](https://open.spotify.com/track/6olUplztLFFfU7fMYmFXOP) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/5GBcqixIFDPEom7AUNbFiM) | 4:12 | 2019-05-26\* | 2022-05-09 |
 | [Sober](https://open.spotify.com/track/2btSEZQYeD2NSiK6JXvFEr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/6pARE4D96LSb7HbXp2xjfY) | 4:12 | 2022-10-26 | 2022-11-14 |
@@ -236,6 +236,7 @@
 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 | 2022-04-29 |  |
 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 | 2019-05-26\* |  |
 | [Tuscan Leather](https://open.spotify.com/track/4maiFhzsjmLQfla0OJfPJJ) | [Brent Ewing](https://open.spotify.com/artist/2gDCNElfgzrOIaC8sVACnC) | [Tuscan Leather](https://open.spotify.com/album/6D4llfWMNiN8Q6ojvbM6Xu) | 2:54 | 2020-11-11 | 2022-07-29 |
+| [Ultimatum](https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or) | 2:34 | 2023-03-10 |  |
 | [Unfair](https://open.spotify.com/track/7880kQRPye3cc9ZExlssbn) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Unfair](https://open.spotify.com/album/30P7uijkdF3ldKDKMGV4Gf) | 3:29 | 2021-05-21 | 2022-07-29 |
 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 | 2023-02-24 |  |
 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 | 2019-08-04 | 2019-10-29 |
@@ -249,7 +250,8 @@
 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2022-10-13 |  |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-07-29 |
 | [Wicked Games](https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:01 | 2022-10-05 |  |
-| [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2019-06-19\* |  |
+| [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2019-06-19\* | 2023-03-11 |
+| [Wicked Games \- Original](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 | 2023-03-10 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Wish You Were Here](https://open.spotify.com/album/5dGg5xBwmtNksRRfic2r9y) | 3:09 | 2022-11-25 | 2022-12-03 |
 | [With Me](https://open.spotify.com/track/6AIte2Iej1QKlaofpjCzW1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 6:59 | 2019-05-26\* | 2019-06-19 |
 | [With You](https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:15 | 2019-05-26\* | 2019-06-19 |

@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-236 songs - 14 hr 50 min
+237 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [We Might Be Dead by Tomorrow](https://open.spotify.com/track/4miKDdaWW78mKwx6TIvOa0) | [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [I Thought I Was an Alien](https://open.spotify.com/album/5j1fOdeSPZqREZNTi3n0Hg) | 2:41 | 2022-11-17 |  |
 | [What is Love](https://open.spotify.com/track/4A6P00wP3iWxLNZKgpSq5g) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Plays Well with Others](https://open.spotify.com/album/28Rakm6UmmV7k934RKl46M) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [What Is Love ft\. Dylan LeBlanc](https://open.spotify.com/track/0lNiVU3MHSeFyrRVB0sz2R) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 3:14 | 2022-05-02 |  |
+| [What's It Like to Love Me](https://open.spotify.com/track/7iPZU1Fiob0druLxmRcz89) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [What's It Like to Love Me](https://open.spotify.com/album/0Q2sSdWmiUptVSo4HXea6K) | 3:54 | 2023-03-10 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2021-10-08 |  |
 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 | 2022-05-02 | 2022-11-13 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-05-02 |  |

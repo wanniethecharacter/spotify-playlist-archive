@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Northern Cree.",
+  "description": "A free space for Indigenous creators. Currently curated by Elisapie.",
   "name": "Indigenous",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 242173,
       "name": "2nd Intertribal",
       "url": "https://open.spotify.com/track/1HBhkPPK0nh86Rsvk3SkI1"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 275925,
       "name": "37 Sat: Men's Traditional - Live",
       "url": "https://open.spotify.com/track/06Pvgl2BW93vsHoGrc8ez7"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 125893,
       "name": "AANNGIQ",
       "url": "https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX"
@@ -168,6 +168,24 @@
       "duration_ms": 177093,
       "name": "Aishinetau",
       "url": "https://open.spotify.com/track/2LuxBDc4v3GJRdJyTaOUqF"
+    },
+    {
+      "album": {
+        "name": "I'm Lost in the City",
+        "url": "https://open.spotify.com/album/4goqttV3yu4Ko0VnUizuqP"
+      },
+      "artists": [
+        {
+          "name": "John Angaiak",
+          "url": "https://open.spotify.com/artist/7FOyXMa0HKrW38OLFDcAND"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Ak'a Tamaani",
+      "url": "https://open.spotify.com/track/0xxLdkS3wOtboXnsqzacNh"
     },
     {
       "album": {
@@ -247,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "William Tagoona",
+          "url": "https://open.spotify.com/artist/14gHKMS3VeLznrTZil2zGl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Anaanaga",
+      "url": "https://open.spotify.com/track/6PyXvacCdnHaKDvK0AjJlg"
+    },
+    {
+      "album": {
         "name": "Fish Out Of Water",
         "url": "https://open.spotify.com/album/19p44DReGTs1Q8TvWZF8Iy"
       },
@@ -262,6 +298,24 @@
       "duration_ms": 221696,
       "name": "Ancestor",
       "url": "https://open.spotify.com/track/2f5CrLj19TVmORQCd8iicx"
+    },
+    {
+      "album": {
+        "name": "Sinnaktuq",
+        "url": "https://open.spotify.com/album/71mBekmIBnu7S6T6ylBkKV"
+      },
+      "artists": [
+        {
+          "name": "Northern Haze",
+          "url": "https://open.spotify.com/artist/7p3iETLZU2U0cNLGRMWMqm"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124451,
+      "name": "Anivunga",
+      "url": "https://open.spotify.com/track/6KeILsw4yoGqn5tByGByMX"
     },
     {
       "album": {
@@ -301,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Nive Sings!",
+        "url": "https://open.spotify.com/album/4JB0E00zkwU1vSsSJsS4Cr"
+      },
+      "artists": [
+        {
+          "name": "Nive Nielsen & The Deer Children",
+          "url": "https://open.spotify.com/artist/05Giz5AaXwS9HSsxuzviNY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "Aqqusernit",
+      "url": "https://open.spotify.com/track/5jGrkBBZqzoaXrlndf436l"
+    },
+    {
+      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -312,10 +384,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 205636,
       "name": "Arnaq",
       "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
+    },
+    {
+      "album": {
+        "name": "Asanaqigavit",
+        "url": "https://open.spotify.com/album/56o8wpDs9OCbfrnjen44A2"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Lyberth",
+          "url": "https://open.spotify.com/artist/57Qb5XTIwCoy1ulGDHTWiR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286213,
+      "name": "Asanaqigavit/Du Er S\u00e5 K\u00e6rlig",
+      "url": "https://open.spotify.com/track/38jd4iEZaefLbxIrDFoHIW"
     },
     {
       "album": {
@@ -490,7 +580,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 258266,
       "name": "Beautiful Flower",
       "url": "https://open.spotify.com/track/1ZR7ae5i4nOZtdd5myZgXB"
@@ -882,7 +972,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 296373,
       "name": "Dancing Angel",
       "url": "https://open.spotify.com/track/087I18FxRJFbqRGivajCti"
@@ -1056,7 +1146,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 209004,
       "name": "Dunetown Slide",
       "url": "https://open.spotify.com/track/2NeURYZqZgwhhRju5aswGw"
@@ -1132,6 +1222,24 @@
       "duration_ms": 218265,
       "name": "Eka Patshitenimu",
       "url": "https://open.spotify.com/track/3MlZfcV2aXIEwii8aYJ6eK"
+    },
+    {
+      "album": {
+        "name": "Ancestors Call",
+        "url": "https://open.spotify.com/album/6dl1bRIrWYiQkmG5WQDrmi"
+      },
+      "artists": [
+        {
+          "name": "Huun-Huur-Tu",
+          "url": "https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Eki Attar",
+      "url": "https://open.spotify.com/track/3S6RmFF5mDEVHrO3BSQHO6"
     },
     {
       "album": {
@@ -1263,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Sugluk",
+          "url": "https://open.spotify.com/artist/7aUEnke20y9Y16DOlW9w50"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168093,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/00evBpL6QjdSC8RRN22t0f"
+    },
+    {
+      "album": {
         "name": "Burn Me Down",
         "url": "https://open.spotify.com/album/16Ic2gzlDMPhBZXSCX0AxF"
       },
@@ -1386,10 +1512,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 121658,
       "name": "Foot Slide (Live)",
       "url": "https://open.spotify.com/track/6bmQjyPS4c857hUyOJKrlO"
+    },
+    {
+      "album": {
+        "name": "Sedna",
+        "url": "https://open.spotify.com/album/31GEU4ydpqEpOLRTlA2TFk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Fraser",
+          "url": "https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2J36ck8FvDg9tuHK4GZLiH"
     },
     {
       "album": {
@@ -1458,7 +1602,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 291090,
       "name": "From the Woods (Live)",
       "url": "https://open.spotify.com/track/5mYt68yIc393AHmPfo8mhy"
@@ -1700,7 +1844,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185500,
       "name": "Have A Good Time",
       "url": "https://open.spotify.com/track/4eqwB392ObTEaW73VZXtSA"
@@ -1776,7 +1920,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 277853,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/08z7zkypoM8zxHhv8neQYh"
@@ -1834,7 +1978,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 317246,
       "name": "Hopelessly Devoted",
       "url": "https://open.spotify.com/track/0Eb3tICoNACheLIXbMFfs4"
@@ -1968,7 +2112,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 249313,
       "name": "I Miss you",
       "url": "https://open.spotify.com/track/46QjuiF8mQIILVN7ILFJpY"
@@ -1986,7 +2130,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 238000,
       "name": "I Would\u2019ve Loved You More",
       "url": "https://open.spotify.com/track/1BGSzjc8Dv05RbQImM1YQ4"
@@ -2276,10 +2420,44 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213765,
       "name": "Kaskina Mamo: Intertribal - Live",
       "url": "https://open.spotify.com/track/2iA0lgGa2LbZMV90I1k9jz"
+    },
+    {
+      "album": {
+        "name": "Canada: Inuit Games and Songs",
+        "url": "https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Pudloo Mageeta",
+          "url": "https://open.spotify.com/artist/32IsJ3YVTAhYm4iytdN7MJ"
+        },
+        {
+          "name": "Temegeak Pitaulassie",
+          "url": "https://open.spotify.com/artist/3TEXUYjtHpUqH86NWFEB0O"
+        },
+        {
+          "name": "Napache Samaejuk Pootoogook",
+          "url": "https://open.spotify.com/artist/2BrVaL2xpbmMVkvJ6DAQAC"
+        },
+        {
+          "name": "Marie Apaqaq",
+          "url": "https://open.spotify.com/artist/0rYybSRMU6GjXVrVb8qvWD"
+        },
+        {
+          "name": "Soria Eyituk",
+          "url": "https://open.spotify.com/artist/3c8NJ6JFFdzi6N9vxj7QSA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96666,
+      "name": "Katajjait on \"Hamma\" And Its Variants: Baffin Land / Hudson Bay / Baffin Land",
+      "url": "https://open.spotify.com/track/6qJozUlX1ao31KQHb4aWoK"
     },
     {
       "album": {
@@ -2334,7 +2512,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 285426,
       "name": "K\u00f4skona P\u00eekiskwewin",
       "url": "https://open.spotify.com/track/5rBcIi6ZdfyqiP6abupeGz"
@@ -2370,7 +2548,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 183191,
       "name": "Late Marvin Calfrobes",
       "url": "https://open.spotify.com/track/5tPjtdhCTdhCEtHzwXtkWX"
@@ -2428,6 +2606,24 @@
       "duration_ms": 138543,
       "name": "Lead Me",
       "url": "https://open.spotify.com/track/72uGh0Kew94ALlcrO0OmhV"
+    },
+    {
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3AohlVPhmSulLxNSldid1A"
+      },
+      "artists": [
+        {
+          "name": "Otyken",
+          "url": "https://open.spotify.com/artist/63tficClWA0HEI8bnlbA2l"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177457,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/7yNKY8kI688WENDOAGZDqc"
     },
     {
       "album": {
@@ -2522,7 +2718,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 265534,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/6nhb4fevnd4U1cYJsVPnGJ"
@@ -2827,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Eal\u00e1n",
+        "url": "https://open.spotify.com/album/5XhnWsmzORt5ZIqAbrIdwl"
+      },
+      "artists": [
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143447,
+      "name": "M\u00e1ze",
+      "url": "https://open.spotify.com/track/2GKG7ViAwDQ3y4S8ATKB0R"
+    },
+    {
+      "album": {
         "name": "Natives Coming",
         "url": "https://open.spotify.com/album/1p12ug4xuZLrTLeZKmly2P"
       },
@@ -3016,7 +3230,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234720,
       "name": "Okimaw Piyisiw Nikamowin",
       "url": "https://open.spotify.com/track/6I8x7p2cO0Dy43pf8U1C0G"
@@ -3153,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Deep Snow",
+        "url": "https://open.spotify.com/album/3K5waztJmPmPxsMnpuCenO"
+      },
+      "artists": [
+        {
+          "name": "Simon Lynge",
+          "url": "https://open.spotify.com/artist/0jc7KP4FUYBw0Y82VoLBWH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238175,
+      "name": "Paper Thin",
+      "url": "https://open.spotify.com/track/2Mv8kbev82bQMn5CjlubBz"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0rGSN3nxc4AEbpuk6is2HU"
       },
@@ -3240,7 +3472,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 272996,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/5lWhP1YEkQSZbuopm9Sisk"
@@ -3294,7 +3526,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 251609,
       "name": "Pow-Wow Song",
       "url": "https://open.spotify.com/track/5uFsV1AIMF0YYCaKKKce85"
@@ -3312,10 +3544,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 176826,
       "name": "Pt III",
       "url": "https://open.spotify.com/track/3t7VXM76fvoNg2WmrMSZP4"
+    },
+    {
+      "album": {
+        "name": "Qanormita ippa !?",
+        "url": "https://open.spotify.com/album/3mqMWGfh3LhiS0gcP6VyVY"
+      },
+      "artists": [
+        {
+          "name": "FINNi",
+          "url": "https://open.spotify.com/artist/19CUaPvd08HE0VJphmug1i"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198612,
+      "name": "Qanormita ippa !?",
+      "url": "https://open.spotify.com/track/55qOiI8MLYXflx099WKy8k"
     },
     {
       "album": {
@@ -3352,6 +3602,24 @@
       "duration_ms": 259435,
       "name": "qaumajuapik",
       "url": "https://open.spotify.com/track/2yyFJti9vmhHFwqgfC37zv"
+    },
+    {
+      "album": {
+        "name": "Qaumariaq",
+        "url": "https://open.spotify.com/album/4BMMtvCdpmt1Vi92mUEV65"
+      },
+      "artists": [
+        {
+          "name": "The Trade-Offs",
+          "url": "https://open.spotify.com/artist/1MnrJrblGPojuCBRGDisvK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Qaumariaq",
+      "url": "https://open.spotify.com/track/0l7aujB6vAnhJQ8YvD4ZhN"
     },
     {
       "album": {
@@ -3556,7 +3824,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 220405,
       "name": "Red Rock Woman",
       "url": "https://open.spotify.com/track/0WV1ymweEVHOTkjz6rGhCj"
@@ -3574,7 +3842,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 244373,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5W19eOXQEY4qPkbGfdCrYf"
@@ -3839,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Side A / Side B",
+        "url": "https://open.spotify.com/album/02dmZq3r8VBbnmwMDC0m9N"
+      },
+      "artists": [
+        {
+          "name": "Pamyua",
+          "url": "https://open.spotify.com/artist/2M8PVNl4h0SpE23a6Z6BOW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84679,
+      "name": "Seal Hunt (Version A)",
+      "url": "https://open.spotify.com/track/2wp1tmLadHVWLbozNI8NbL"
+    },
+    {
+      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV"
       },
@@ -3875,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Canada: Inuit Games and Songs",
+        "url": "https://open.spotify.com/album/6B49DDXbbaQf2mc3jmVmpX"
+      },
+      "artists": [
+        {
+          "name": "Zachariasi Tarkiapik",
+          "url": "https://open.spotify.com/artist/2z3PLddIFv7UjSZJuyHVkb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Shaman Song (Ungava Bay)",
+      "url": "https://open.spotify.com/track/1AxYezRbc5AfdupFZygUmZ"
+    },
+    {
+      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -3890,6 +4194,24 @@
       "duration_ms": 287573,
       "name": "Showdown At Big Sky",
       "url": "https://open.spotify.com/track/024l9PlvWWPaCTfRO6LZ88"
+    },
+    {
+      "album": {
+        "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+        "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
+      },
+      "artists": [
+        {
+          "name": "Sikumiut",
+          "url": "https://open.spotify.com/artist/2H1t2WqXOOcuY2qlEHjlck"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138040,
+      "name": "Sikumiut",
+      "url": "https://open.spotify.com/track/14QGC8TQtKMPOCbr2sVn2z"
     },
     {
       "album": {
@@ -3940,7 +4262,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201640,
       "name": "Sing It",
       "url": "https://open.spotify.com/track/0SoNkKIHdI7p4J4qUGex2m"
@@ -3980,7 +4302,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 256295,
       "name": "Sing Pretty",
       "url": "https://open.spotify.com/track/6kwQz9zsKmorAscwxB9haw"
@@ -4052,7 +4374,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207600,
       "name": "Smooth Moves",
       "url": "https://open.spotify.com/track/3tVWS21BPIMUs9R3l8xhq7"
@@ -4225,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Arctic Rose",
+        "url": "https://open.spotify.com/album/7hE3zREXjhJ10LtamRp3jm"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242426,
+      "name": "Song Of The Land",
+      "url": "https://open.spotify.com/track/0JS61l6afk4vYcCbrNl7OJ"
+    },
+    {
+      "album": {
         "name": "Fire Fleet And Candlelight",
         "url": "https://open.spotify.com/album/00BbQk8JTzSQBEuZAQz5oV"
       },
@@ -4254,7 +4594,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234346,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/0GNhvfd6vACzeUrgCn9AHC"
@@ -4326,7 +4666,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208511,
       "name": "Storytelling Warrior",
       "url": "https://open.spotify.com/track/60XKJNgKm2DVll5Ov8m3Hv"
@@ -4452,7 +4792,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169400,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4JMWpqIVYpInU2W4NfvVhL"
@@ -4780,7 +5120,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 250746,
       "name": "True Love (Imagine)",
       "url": "https://open.spotify.com/track/6DhnmXKg9fzAw7UX41ZucU"
@@ -4805,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "World Music From The Cold Seas",
+        "url": "https://open.spotify.com/album/1CRTUPPs3Em8PKA0LqBovb"
+      },
+      "artists": [
+        {
+          "name": "Sume",
+          "url": "https://open.spotify.com/artist/36wVKG3ZpPyTcpp4i46ECV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "Upernaaq",
+      "url": "https://open.spotify.com/track/4FTmCjTknB3lnw7vLB8fWU"
+    },
+    {
+      "album": {
         "name": "Mukuuin",
         "url": "https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn"
       },
@@ -4820,6 +5178,42 @@
       "duration_ms": 226572,
       "name": "Upime",
       "url": "https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE"
+    },
+    {
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+    },
+    {
+      "album": {
+        "name": "Idjagie\u200b\u0111\u200bas \u2013 In the Hand of the Night",
+        "url": "https://open.spotify.com/album/71NUvwXvBdk08xcACG4UoM"
+      },
+      "artists": [
+        {
+          "name": "Mari Boine",
+          "url": "https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287520,
+      "name": "Vuoi Vuoi Mu",
+      "url": "https://open.spotify.com/track/7HhLIVmJREKStoJXtacUIS"
     },
     {
       "album": {
@@ -4888,7 +5282,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 251625,
       "name": "Wanbli",
       "url": "https://open.spotify.com/track/1apXbWpl0e2SPC5B5cBI3L"
@@ -4953,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Spirit Child",
+        "url": "https://open.spotify.com/album/22w9yuze0FnbT89YfbiOev"
+      },
+      "artists": [
+        {
+          "name": "Willie Thrasher",
+          "url": "https://open.spotify.com/artist/1tQFd76V3HmxyEWwv8JN5k"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "We Got to Take You Higher",
+      "url": "https://open.spotify.com/track/2WcovutiyPAqdbnwdgxrKl"
+    },
+    {
+      "album": {
         "name": "We Miss You (Sean Beaver Remix)",
         "url": "https://open.spotify.com/album/4chBf9agF2O7kB3tbZjM8z"
       },
@@ -5008,7 +5420,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 294866,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/0ILizPkBVtWWXAbCM0Y1h6"
@@ -5030,6 +5442,28 @@
       "duration_ms": 213893,
       "name": "When the Smoke Clears",
       "url": "https://open.spotify.com/track/17D8lsAphSGap4aXz4b8SR"
+    },
+    {
+      "album": {
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        },
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
+      "url": "https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA"
     },
     {
       "album": {

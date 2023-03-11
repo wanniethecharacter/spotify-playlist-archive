@@ -1,12 +1,12 @@
 {
   "description": "binki makes anti pop",
-  "num_followers": 695243,
+  "num_followers": 695309,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyODI3NCwwMDAwMDAwMDJlNmFiNDA3MDI0NzgzY2E1MmM2ODA1MWRiMjhiYzEw",
+  "snapshot_id": "MTY3ODQ4MTgwNywwMDAwMDAwMGRmODU2YzYyYmRlZWQzNjNhYTRhNzdlZDI1NTI0OWU4",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -27,7 +27,7 @@
     {
       "added_at": "2023-03-06 18:44:34",
       "album": {
-        "name": ">one",
+        "name": ">one (greater than one)",
         "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
       "artists": [
@@ -41,7 +41,7 @@
         }
       ],
       "duration_ms": 130666,
-      "name": ">one",
+      "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
@@ -129,20 +129,20 @@
       "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-03-10 20:56:47",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
         }
       ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -692,7 +692,7 @@
       },
       "artists": [
         {
-          "name": "KALI",
+          "name": "Superfan",
           "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
         }
       ],

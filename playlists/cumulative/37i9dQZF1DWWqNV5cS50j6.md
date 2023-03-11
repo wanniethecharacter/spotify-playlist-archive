@@ -4,7 +4,7 @@
 
 > binki makes anti pop
 
-1,291 songs - 2 day 14 hr 17 min
+1,292 songs - 2 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-10-07 | 2023-03-02 |
 | [99](https://open.spotify.com/track/0tSODck0WpgVJH29GTNpp8) | [RILEY THE MUSICIAN](https://open.spotify.com/artist/16DcOXjCP2hheroOZ3dPMD) | [99](https://open.spotify.com/album/7fuUhTpZJssmFiEpyPtiAi) | 3:01 | 2021-02-20 | 2021-05-15 |
 | [99' pollen](https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [99' pollen](https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi) | 3:11 | 2022-06-24 | 2022-11-17 |
-| [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-06 |  |
+| [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-06 |  |
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-07-01 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-07-13 | 2021-07-31 |
@@ -548,7 +548,7 @@
 | [i got it](https://open.spotify.com/track/09MQjbV6eiOAMmL3Uwus6P) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [i got it](https://open.spotify.com/album/0DPNAxqZmxsG5cIIRu1mUq) | 3:33 | 2022-03-22 | 2022-07-01 |
 | [I Have a List of Names](https://open.spotify.com/track/4DeXZXlvnz7lUzsAaeIUCa) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [I Have a List of Names](https://open.spotify.com/album/5MxEXcfCMhQpXQPCA1WQmL) | 2:56 | 2021-01-30 | 2021-10-16 |
 | [I Heard You Bought a Gun](https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [you'll be dead before you know it](https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj) | 2:26 | 2022-03-29 | 2022-05-12 |
-| [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 | 2023-01-06 |  |
+| [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 | 2023-01-06 |  |
 | [i love smoking mid](https://open.spotify.com/track/24jh3QWWVvdSCF6ljPhiqi) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [i love smoking mid](https://open.spotify.com/album/1AI9pv49V3Hli3d8tLAvne) | 1:54 | 2023-01-20 |  |
 | [i might like u](https://open.spotify.com/track/2DI4mFhCkWoVK5fyLv9q4v) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Midnight](https://open.spotify.com/album/2awUCq0Bf4VWSGQrSxl1Eb) | 2:15 | 2020-11-20 | 2021-05-03 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-09-24 | 2021-10-12 |
@@ -618,7 +618,7 @@
 | [Kismet](https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Kismet](https://open.spotify.com/album/516DgQVkrtnV5vmQ5SOxPu) | 2:51 | 2020-10-13\* | 2020-11-03 |
 | [kora](https://open.spotify.com/track/76sfncHLblimgAGJYEYLQn) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [kora](https://open.spotify.com/album/5yfGKNCwibrh4GLVC5dLyc) | 4:42 | 2021-10-09 | 2021-10-16 |
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-02-27 | 2021-10-14 |
-| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 |  |
+| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2023-03-11 |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-03-29 | 2022-04-08 |
 | [Last Night!](https://open.spotify.com/track/4RxkErsYUmi1WyjGQvIrxH) | [Gaff](https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ) | [Last Night!](https://open.spotify.com/album/0P7Ws5NtZDmCZuKM8iOkEB) | 2:57 | 2020-10-13\* | 2021-02-13 |
 | [LATE NIGHT](https://open.spotify.com/track/4nMh9zhSlFnUj6vF8mG7IM) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [LATE NIGHT](https://open.spotify.com/album/4zjkHnGvh38hYeGAf7jFG7) | 5:08 | 2020-12-22 | 2021-02-20 |
@@ -1083,6 +1083,7 @@
 | [SUPER TUESDAY!](https://open.spotify.com/track/7FavLZuFJ4hSuRzSPJLGBM) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/2xApp3I0BDU0THUdaxEq26) | 2:58 | 2020-12-12 | 2021-02-27 |
 | [SUPERSOMA](https://open.spotify.com/track/5vDcs1FIAN79cELRo0P2SB) | [SomaDina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [SUPERSOMA](https://open.spotify.com/album/1cPTRUcMrR1jAww0uW8D8Y) | 2:51 | 2021-10-29 | 2022-03-01 |
 | [Supersonic](https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8) | 2:29 | 2021-03-14 | 2022-02-23 |
+| [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 | 2023-03-10 |  |
 | [Survive!](https://open.spotify.com/track/03W83WDgC2Zkzx4liPDyK4) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Survive!](https://open.spotify.com/album/1ac41OS72zPXCmvEiSo590) | 2:48 | 2021-09-24 | 2021-10-16 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2022-11-17 |
 | [SWEETBABYRAE](https://open.spotify.com/track/6MNTsxexrJEsDW4fSEAiXS) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX) | [SWEETBABYRAE](https://open.spotify.com/album/5lM0nji3ybQGwNhHOoxIrJ) | 2:43 | 2021-08-07 | 2021-10-16 |

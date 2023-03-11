@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 135721,
+  "num_followers": 135702,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMDY3MDgzYjQxNjQ3MGVkNjZlNjcxYWZjZTA3NDA0MjAx",
+  "snapshot_id": "MTY3MTIwODQ0OSwwMDAwMDAwMGNhZTA4NmMyZWQzZjBhNzE4M2U5NTI3OWM0ODU0MDI5",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Christmas Together",
+        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
+      },
+      "artists": [
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Darling, It's Cold Out",
         "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 182702,
       "name": "All We Need",
       "url": "https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Christmas Together",
-        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
-      },
-      "artists": [
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "A Walk Off the Earth Christmas",
+        "url": "https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 135840,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Christmas at Home",
         "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 206421,
       "name": "Christmas at Home",
       "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "A Walk Off the Earth Christmas",
-        "url": "https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 135840,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "The Bells Are Ringing",
+        "url": "https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "The Bells Are Ringing",
+      "url": "https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Coming Home (For Christmas)",
         "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 249708,
       "name": "The Banister Bough",
       "url": "https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "The Bells Are Ringing",
-        "url": "https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ"
-      },
-      "artists": [
-        {
-          "name": "Classified",
-          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "The Bells Are Ringing",
-      "url": "https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Spirit Of Christmas",
-        "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 134360,
-      "name": "Little Toy Trains",
-      "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/0gCud9oDVuzmBRpVLg5EUG"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Spirit Of Christmas",
+        "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 134360,
+      "name": "Little Toy Trains",
+      "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Rockin\u2019 Around the Christmas Tree",
         "url": "https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 120934,
       "name": "Rockin\u2019 Around the Christmas Tree",
       "url": "https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "The Ballad of Mrs. Claus",
+        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "The Ballad of Mrs. Claus",
+      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "The Ballad of Mrs. Claus",
-        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "The Ballad of Mrs. Claus",
-      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "River City Christmas",
         "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "The Last Christmas (We Ever Spend Apart)",
-        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 207581,
-      "name": "The Last Christmas (We Ever Spend Apart)",
-      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "One More Day of Christmas / Do You Hear What I Hear",
         "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 162749,
       "name": "One More Day of Christmas",
       "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "The Last Christmas (We Ever Spend Apart)",
+        "url": "https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 207581,
+      "name": "The Last Christmas (We Ever Spend Apart)",
+      "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "A Merrie Christmas to You",
-        "url": "https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai"
-      },
-      "artists": [
-        {
-          "name": "Blue Rodeo",
-          "url": "https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Don't You Know It's Christmas",
         "url": "https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 217746,
       "name": "Don't You Know It's Christmas",
       "url": "https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "A Merrie Christmas to You",
+        "url": "https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai"
+      },
+      "artists": [
+        {
+          "name": "Blue Rodeo",
+          "url": "https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo"
     }
   ],
   "unique_name": "Christmas in Canada",

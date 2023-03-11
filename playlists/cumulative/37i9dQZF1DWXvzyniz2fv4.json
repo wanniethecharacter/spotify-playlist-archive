@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 126400,
       "name": "Deixar Rolar",
       "url": "https://open.spotify.com/track/7ljVYvTPJZqGzvF55lBU3u"
@@ -1232,10 +1232,36 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 214490,
       "name": "Mais um Som de Amor",
       "url": "https://open.spotify.com/track/1LUXuBHT3gaB6KiPxCdN8h"
+    },
+    {
+      "album": {
+        "name": "Mais um Som de Amor",
+        "url": "https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Bella Mattar",
+          "url": "https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214490,
+      "name": "Mais um Som de Amor",
+      "url": "https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux"
     },
     {
       "album": {
@@ -1472,6 +1498,36 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "album": {
+        "name": "Muleke Solto",
+        "url": "https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210553,
+      "name": "Muleke Solto",
+      "url": "https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV"
     },
     {
       "album": {

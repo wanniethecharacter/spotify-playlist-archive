@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Polodared, Royal 44, Fleeky Bang, YEOHO\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-828 songs - 1 day 22 hr 0 min
+829 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,6 +791,7 @@
 | [What Time Is It? \[From "PIZZA BREAK X yovng trucker \(FIRST BITE 004\)"\]](https://open.spotify.com/track/5ScYxHfWuJY5YjpjGcNpz9) | [yovng trucker](https://open.spotify.com/artist/1AyPDHfatxyPxU02gzrXbI), [EUROKO PIZZA](https://open.spotify.com/artist/4WJ1Ns4cWOOyfT5FumNLTU) | [What Time Is It? \[From "PIZZA BREAK X yovng trucker \(FIRST BITE 004\)"\]](https://open.spotify.com/album/1SucSM0IsVAbLb3cmnhOgY) | 2:51 | 2022-02-03 | 2022-04-21 |
 | [WHAT U DO](https://open.spotify.com/track/6YhawaZDHNWsuBZycJ63jy) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [The Django Tape](https://open.spotify.com/album/6Yo6vAyVddGndzLoNx1QK7) | 2:44 | 2022-08-27 | 2022-10-08 |
 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII) | 4:32 | 2021-12-21 | 2022-07-07 |
+| [WHIP! \- Spotify Singles](https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex) | 2:32 | 2023-03-10 |  |
 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 | 2022-02-14 | 2022-07-06 |
 | [Whistle \(Prod\. GroovyRoom\) \(Feat\. Sik\-K, Mirani\)](https://open.spotify.com/track/44ltZBbeCjk9wIediYkHNy) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:44 | 2022-09-06 | 2023-01-03 |
 | [White BM](https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [White BM](https://open.spotify.com/album/0GFtMSnGLQFWyByeinsZet) | 2:31 | 2023-01-20 |  |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-145 songs - 12 hr 59 min
+147 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 | 2022-05-17 |  |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2022-05-17 |  |
 | [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 |  |
-| [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 |  |
+| [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Azad](https://open.spotify.com/track/3mDv3HRVNlPyJGLJvg8y8T) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Azad](https://open.spotify.com/album/6LGwxJSIMkEa0kWDzaBEOT) | 4:40 | 2022-05-17 |  |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 |  |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
@@ -54,6 +54,7 @@
 | [Indian Tales \- Love Is in the Rain](https://open.spotify.com/track/0ZNiFizgSeQD2TRizooZmi) | [TaTTu](https://open.spotify.com/artist/4Zc5H6d1KUN7dQRGnuFXb3) | [Indian Tales \- Love Is in the Rain](https://open.spotify.com/album/7K7uUezjpNgIIOD5XFEywB) | 4:06 | 2022-05-17 | 2023-01-21 |
 | [Inteha](https://open.spotify.com/track/6QGi3529oKAbfObXWmWz95) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Tajasvi Sharma](https://open.spotify.com/artist/5EZnpkJGZLrfIeBnI0R6Ud) | [Inteha](https://open.spotify.com/album/7eD79Gc6BzP8BoAmYxQpru) | 4:16 | 2022-05-17 |  |
 | [ISOLATED \(Part 2\)](https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Arghadeep Barua](https://open.spotify.com/artist/76zwIgoC4iyxTnLTeGiwUv), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [ISOLATED \(Part 2\)](https://open.spotify.com/album/5gMeHUxcnHEpR87wyWAJBD) | 3:47 | 2022-05-17 |  |
+| [Ja Ja Re Apne](https://open.spotify.com/track/3COq2ajX5JKwferXjUWWLz) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Ja Ja Re Apne](https://open.spotify.com/album/4ho7R4LOcEWXen96udRpTr) | 4:54 | 2023-03-10 |  |
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 |  |
@@ -105,6 +106,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 |  |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 |  |
+| [Purvi](https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Purvi](https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V) | 4:24 | 2023-03-10 |  |
 | [Raah Piya](https://open.spotify.com/track/0ixfdWFlkqjbgTRsCLm7cQ) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 7:04 | 2022-05-17 |  |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-05-17 |  |
 | [Raanjhanaa](https://open.spotify.com/track/2EM5e2WiPfjKS3BK0JrzIH) | [Rudra Majumder](https://open.spotify.com/artist/6JblbbuaCCT2CHWDlbtDXM), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Raanjhanaa](https://open.spotify.com/album/3FJWP2lkzVIX5jbsabqOuX) | 2:50 | 2022-12-19 |  |

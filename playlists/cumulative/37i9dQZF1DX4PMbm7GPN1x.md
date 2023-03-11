@@ -4,10 +4,11 @@
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-74 songs - 6 hr 57 min
+74 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 0:00 | 2021-11-16 |  |
 | [Aa Dekhen Zara \- Rocky / Soundtrack Version](https://open.spotify.com/track/3Q3MZLhtL4CLCq93jjWNK8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky](https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT) | 8:33 | 2022-06-08 |  |
 | [Aa Dekhen Zara \- Rocky / Soundtrack Version](https://open.spotify.com/track/7s1Odw7sA12CNoHxC5W2lZ) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky \(OST\)](https://open.spotify.com/album/04dWBlKMk8EMs1uVKfF0ZT) | 8:33 | 2021-11-16 | 2022-07-29 |
 | [Aafat](https://open.spotify.com/track/4WIxDOCtF0ACdsoItOHZUp) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Maut Ka Saya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sGWyphxDQjVm14xjtRAgW) | 4:15 | 2021-11-16 |  |
@@ -75,7 +76,6 @@
 | [Tonight Pyar Karo \- Dilwaala / Soundtrack Version](https://open.spotify.com/track/319BDWEAkwIc3EaP3CkHHj) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Dilwaala](https://open.spotify.com/album/3STlTkACurScBBxK9wyt8r) | 7:15 | 2021-11-16 |  |
 | [Tum Jo Bhi Ho Dil Aaj Do](https://open.spotify.com/track/5ZFPhhC4tVf0KLeDlU9MzB) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 7:09 | 2021-11-16 |  |
 | [Tum Tum Tumba](https://open.spotify.com/track/7bzrGfL5fxDUDZ7YBAkHnn) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DopdM49kMb2zMFOcXHooH) | 8:29 | 2021-11-16 |  |
-| [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 | 2021-11-16 |  |
 | [Udi Baba](https://open.spotify.com/track/4cdy3F7hCRFN8HvVIdOFTq) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Vidhaata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw) | 6:23 | 2021-11-16 |  |
 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 | 2021-11-16 |  |
 | [Yaad Aa Raha Hai](https://open.spotify.com/track/6yFTQlxD9y9nVABZ2WxP16) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer/Tarzan/Kasam Paida Karnewale Ki](https://open.spotify.com/album/7Lt7b4UQwuGE2r6BslPNwZ) | 6:22 | 2021-11-16 | 2022-07-29 |

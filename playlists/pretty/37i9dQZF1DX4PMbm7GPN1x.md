@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,259 likes - 49 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,281 likes - 49 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 46 | [Osa Osa \- Meri Adalat / Soundtrack Version](https://open.spotify.com/track/794cBypJQISQCorrG7kQVX) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Meri Adalat](https://open.spotify.com/album/6lBnhdidEpordUsA3GooWS) | 6:59 |
 | 47 | [Bongo Bongo](https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:05 |
 | 48 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
-| 49 | [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 |
+| 49 | [](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 0:00 |
 
 Snapshot ID: `MTY3ODM1NDk2OSwwMDAwMDAwMDZkMjQ1NDU0NmQwMjI4YTMyMGUzODM1MjBhZjg1OGM5`

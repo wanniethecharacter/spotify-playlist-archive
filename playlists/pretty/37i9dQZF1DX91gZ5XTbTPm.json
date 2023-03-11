@@ -1,53 +1,13 @@
 {
   "description": "The Midwest is always on time. Cover: Kash Doll",
-  "num_followers": 103149,
+  "num_followers": 103187,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDcyMzNiOWEyYTUzZWQ3Y2YwMmZjNTg2ZTBlMzdlM2I4",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDgxY2ZkMDZhMGFiMzJjZjQxMDY5ZmI5NWZjZDRjN2Mx",
   "tracks": [
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Pretty Girls Walk (Remix)",
-        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
@@ -67,42 +27,6 @@
       "duration_ms": 153392,
       "name": "Ron Artest",
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "RiskTaker D-Boy",
-          "url": "https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu"
-        },
-        {
-          "name": "DJBJ 3525",
-          "url": "https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "OH BOY",
-      "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -141,6 +65,78 @@
       "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "RiskTaker D-Boy",
+          "url": "https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu"
+        },
+        {
+          "name": "DJBJ 3525",
+          "url": "https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "OH BOY",
+      "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Pretty Girls Walk (Remix)",
+        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Raining",
@@ -165,76 +161,36 @@
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-02-21 16:21:10",
       "album": {
-        "name": "MOB",
-        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+        "name": "2 Effortless",
+        "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
         }
       ],
-      "duration_ms": 133953,
-      "name": "Wonderful Wayne & Jackie Boy",
-      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+      "duration_ms": 103961,
+      "name": "H.L.F.",
+      "url": "https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+        "name": "Where The Shooters Be 2",
+        "url": "https://open.spotify.com/album/3Dh9beBJOjHIeIvwJBGgcf"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "MANSION MUSIK",
-        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+      "duration_ms": 102946,
+      "name": "Skipper",
+      "url": "https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -259,6 +215,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Out On Bond",
+        "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 80352,
+      "name": "Out On Bond",
+      "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Way Too Petty",
         "url": "https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF"
       },
@@ -271,6 +243,134 @@
       "duration_ms": 132238,
       "name": "Way Too Petty",
       "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "MOB",
+        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Wonderful Wayne & Jackie Boy",
+      "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Love Sosa",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Up On Us",
+        "url": "https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        }
+      ],
+      "duration_ms": 179349,
+      "name": "Up On Us",
+      "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Ghost Mode",
+        "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
+      },
+      "artists": [
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 171700,
+      "name": "Ex Dealer Flow 2 (feat. Jeezy)",
+      "url": "https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd"
+    },
+    {
+      "added_at": "2022-10-07 04:15:29",
+      "album": {
+        "name": "Creepers",
+        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 111020,
+      "name": "Creepers",
+      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -287,38 +387,6 @@
       "duration_ms": 170360,
       "name": "Flavors",
       "url": "https://open.spotify.com/track/6ffUQiIPOH1LkWrgWXIx7I"
-    },
-    {
-      "added_at": "2023-02-21 16:21:10",
-      "album": {
-        "name": "2 Effortless",
-        "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
-      },
-      "artists": [
-        {
-          "name": "E the profit",
-          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
-        }
-      ],
-      "duration_ms": 103961,
-      "name": "H.L.F.",
-      "url": "https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Out On Bond",
-        "url": "https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi"
-      },
-      "artists": [
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 80352,
-      "name": "Out On Bond",
-      "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -405,42 +473,6 @@
       "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Where The Shooters Be 2",
-        "url": "https://open.spotify.com/album/3Dh9beBJOjHIeIvwJBGgcf"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 102946,
-      "name": "Skipper",
-      "url": "https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Ghost Mode",
-        "url": "https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL"
-      },
-      "artists": [
-        {
-          "name": "Payroll Giovanni",
-          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "Ex Dealer Flow 2 (feat. Jeezy)",
-      "url": "https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Rich Junkie (feat. Skilla Baby)",
@@ -515,22 +547,6 @@
       "duration_ms": 195044,
       "name": "Pressikan",
       "url": "https://open.spotify.com/track/2N0wDFXjS97UybI2ellIEu"
-    },
-    {
-      "added_at": "2022-10-07 04:15:29",
-      "album": {
-        "name": "Creepers",
-        "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 111020,
-      "name": "Creepers",
-      "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 134965,
       "name": "France",
       "url": "https://open.spotify.com/track/65Gf1uF8aFtsIPQ8S9EvL9"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "I'm the Bag",
-        "url": "https://open.spotify.com/album/1m2gjLVruReTBQgtFAYrFR"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 116484,
-      "name": "I'm the Bag",
-      "url": "https://open.spotify.com/track/5hLTaD7ZuEtDOkfETWkhlD"
     },
     {
       "added_at": "2023-01-27 21:00:52",
@@ -847,22 +847,6 @@
       "duration_ms": 143396,
       "name": "Klosure",
       "url": "https://open.spotify.com/track/5JWemdcN2Tzdy1ElYYvSqM"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Kisses 2 The Sky",
-        "url": "https://open.spotify.com/album/4N5RzCT2MXXQIBG8hPKkR2"
-      },
-      "artists": [
-        {
-          "name": "GANG51E JUNE",
-          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "Kisses 2 The Sky",
-      "url": "https://open.spotify.com/track/57tQyT1vK21C6Z0lbMu64E"
     },
     {
       "added_at": "2022-12-16 07:30:15",

@@ -668,10 +668,28 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 239253,
       "name": "Heard It All Before - Radio Edit",
       "url": "https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ"
+    },
+    {
+      "album": {
+        "name": "Heard It All Before",
+        "url": "https://open.spotify.com/album/2jETz64r6PWPhEUHI8OAl7"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239253,
+      "name": "Heard It All Before - Radio Edit",
+      "url": "https://open.spotify.com/track/49JDPR0rbu7nf4oNfwVzdP"
     },
     {
       "album": {

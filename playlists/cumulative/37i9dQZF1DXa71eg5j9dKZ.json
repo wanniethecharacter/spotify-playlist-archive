@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Romy",
+  "description": "The home for alternative electronic music. Cover: Nia Archives",
   "name": "Altar",
   "tracks": [
     {
@@ -854,6 +854,28 @@
       "duration_ms": 321420,
       "name": "Aspect",
       "url": "https://open.spotify.com/track/0naxsHkorKM1kWJIy93AYD"
+    },
+    {
+      "album": {
+        "name": "Assumptions (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
       "album": {
@@ -2475,6 +2497,28 @@
     },
     {
       "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/6ssAIdfMYHAZL5V7K6K1NS"
       },
@@ -2807,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Domenico",
+        "url": "https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298500,
+      "name": "Domenico",
+      "url": "https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/6E6Ma1phFlnclk3qufofPd"
       },
@@ -2844,6 +2906,24 @@
       "duration_ms": 255801,
       "name": "Don't Feel Like It Did",
       "url": "https://open.spotify.com/track/2Njk9hdRJl25Oj4RWMEGSz"
+    },
+    {
+      "album": {
+        "name": "Don't Feel Like It Did",
+        "url": "https://open.spotify.com/album/5nPeuJ15GFeZubz45WGGs9"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255801,
+      "name": "Don't Feel Like It Did",
+      "url": "https://open.spotify.com/track/6vOcwMb8ynSGooHuBC4cX6"
     },
     {
       "album": {
@@ -3566,7 +3646,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 146720,
       "name": "f1 racer (ft. KU\u010cKA)",
       "url": "https://open.spotify.com/track/52Pyhmuoxg9LmxO6L4qnsA"
@@ -5036,7 +5116,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 129375,
       "name": "Hungry (For Love)",
       "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
@@ -5524,7 +5604,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 200493,
       "name": "Jaws",
       "url": "https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc"
@@ -7912,7 +7992,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 360077,
       "name": "Organ Belta",
       "url": "https://open.spotify.com/track/0Uo3ri0yFn2iUh2c3Z54uO"
@@ -8406,7 +8486,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 277239,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
@@ -10312,7 +10392,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 199876,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/4g8jAI4REmgqoE9aDZwFZi"

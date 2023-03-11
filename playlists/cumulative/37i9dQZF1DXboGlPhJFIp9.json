@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Andromeda Shimmer",
+        "url": "https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB"
+      },
+      "artists": [
+        {
+          "name": "Under The Zodiac",
+          "url": "https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166074,
+      "name": "Andromeda Shimmer",
+      "url": "https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml"
+    },
+    {
+      "album": {
         "name": "BLIND",
         "url": "https://open.spotify.com/album/3N6aevLWDHClADfBe8MY0X"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 121600,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5NlOyaEtji1DNwsWiOjmXP"
+    },
+    {
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/6nrN4FXdPFJBUk7QO8HJdk"
+      },
+      "artists": [
+        {
+          "name": "Pireas",
+          "url": "https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140803,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/2B8K5m8XwCz2MJvahACTjD"
     },
     {
       "album": {
@@ -801,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Hour after hour",
+        "url": "https://open.spotify.com/album/3P1DbeVK23UHm8D4Pz1Qo6"
+      },
+      "artists": [
+        {
+          "name": "Evolution of Stars",
+          "url": "https://open.spotify.com/artist/3Xwj9Vdgj0oqWEsUcSAoMz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Hour after hour",
+      "url": "https://open.spotify.com/track/5xYlTG06pio4DfoHozkPl0"
+    },
+    {
+      "album": {
         "name": "Humility",
         "url": "https://open.spotify.com/album/1AkyFuT4waQ9t6wvCMKzdJ"
       },
@@ -1241,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "OCEANS",
+        "url": "https://open.spotify.com/album/6MH6fWQQUoD3jBjFxXINu0"
+      },
+      "artists": [
+        {
+          "name": "Ambians",
+          "url": "https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168740,
+      "name": "OCEANS",
+      "url": "https://open.spotify.com/track/3RPNs1wcYZD5yKgHCK16ch"
+    },
+    {
+      "album": {
         "name": "Off-the-grid",
         "url": "https://open.spotify.com/album/2MYrltn860rph6b6Qx4ypm"
       },
@@ -1432,7 +1504,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 258088,
       "name": "Phoenicia",
       "url": "https://open.spotify.com/track/5d09BHHm15tqsHaEHkILOb"
@@ -2026,7 +2098,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 160629,
       "name": "The Kind Journeyman",
       "url": "https://open.spotify.com/track/2CgGcJ3cBHQJhhK2pqcm8g"

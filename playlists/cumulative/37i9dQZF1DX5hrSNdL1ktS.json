@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 192000,
       "name": "ANDROMEDA",
       "url": "https://open.spotify.com/track/4hTcgF76AM6PaGLLUWvdkE"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 184000,
       "name": "Como Ni\u00f1os",
       "url": "https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE"
@@ -572,10 +572,32 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
     },
     {
       "album": {
@@ -626,7 +648,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169173,
       "name": "El Party",
       "url": "https://open.spotify.com/track/6pcMRZwjqZKNxWCPL5Sn3s"
@@ -731,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Mayki Graff",
+          "url": "https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
+    },
+    {
+      "album": {
         "name": "EMOJI",
         "url": "https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u"
       },
@@ -749,6 +793,28 @@
     },
     {
       "album": {
+        "name": "Ganesha",
+        "url": "https://open.spotify.com/album/6P5QiUhURvxvGem6JSVptJ"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "Naity OG",
+          "url": "https://open.spotify.com/artist/1D47r3MM6EJjF5wXg4bgrq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170009,
+      "name": "Ganesha",
+      "url": "https://open.spotify.com/track/1ufbFwNUXXTCryd01tGkgQ"
+    },
+    {
+      "album": {
         "name": "Gato",
         "url": "https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd"
       },
@@ -764,6 +830,24 @@
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
+    },
+    {
+      "album": {
+        "name": "Esto No Es Un \u00c1lbum",
+        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
+      },
+      "artists": [
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158013,
+      "name": "Gr\u00e1bate",
+      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "album": {
@@ -1008,7 +1092,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 158666,
       "name": "Jake Long",
       "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
@@ -1248,7 +1332,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 122774,
       "name": "Likes",
       "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
@@ -1432,6 +1516,28 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+    },
+    {
+      "album": {
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/4LUdJhSmbKnHWx6rB8VE9o"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Redd",
+          "url": "https://open.spotify.com/artist/31GF1eKsBlAF7fI8vOl6S9"
+        },
+        {
+          "name": "KIDD YELO",
+          "url": "https://open.spotify.com/artist/0sdj4UyFMxfpcMmhnRN0nN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/3X9oUSuyz0xL0OXTFc2Th0"
     },
     {
       "album": {
@@ -1664,7 +1770,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185091,
       "name": "Me Tientas (Remix)",
       "url": "https://open.spotify.com/track/7hGC3efqpsKwxEKGVNL8KH"
@@ -2226,7 +2332,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 170450,
       "name": "Prisionero",
       "url": "https://open.spotify.com/track/2engG3iABkqRUGSHMDr55i"
@@ -2277,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/5TISislibAEZK9Mj9Vnna2"
+      },
+      "artists": [
+        {
+          "name": "Gotex",
+          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Rico",
+      "url": "https://open.spotify.com/track/787or1cPCE5pxKvS1JMP0K"
+    },
+    {
+      "album": {
         "name": "Rkt",
         "url": "https://open.spotify.com/album/3kGB4NVBhJH02h2OhW67EF"
       },
@@ -2296,7 +2420,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186250,
       "name": "Rkt",
       "url": "https://open.spotify.com/track/6kunqLryu0TFabC9x798tW"
@@ -2582,6 +2706,24 @@
       "duration_ms": 134893,
       "name": "Solteras",
       "url": "https://open.spotify.com/track/3NNOr3YRkdiYF1Jvfq8Nin"
+    },
+    {
+      "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0E1Nc3dSYYoB7jSnsnMIj9"
+      },
+      "artists": [
+        {
+          "name": "Hybert Daniel",
+          "url": "https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/38ge3FHjBNYndRflShWbEG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-101 songs - 6 hr 12 min
+102 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [I Feel Like I'm Drowning](https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [A 20 Something Fuck](https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1) | 3:05 | 2023-03-02 |  |
 | [i like the devil](https://open.spotify.com/track/5Q42MkhwFsuM8uk8wkHTR7) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [WOMB](https://open.spotify.com/album/7mm8NRdr4E5gNGYAL0RoaZ) | 2:55 | 2023-03-02 |  |
 | [If We Listen](https://open.spotify.com/track/0lRRB0Iq6I8uVxv3untAza) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [Bleak Midwinter](https://open.spotify.com/album/7slEjB8JYcqG5pvIZvjcrM) | 4:16 | 2023-03-02 |  |
+| [In the Dark](https://open.spotify.com/track/16WFEyH9qkdCcLkBe5Rx2k) | [Zarah Mahler](https://open.spotify.com/artist/718rfojS47AiuJOPIXBWFw) | [In the Dark](https://open.spotify.com/album/0POApPsK9OvPSr0n4gB5CN) | 4:31 | 2023-03-10 |  |
 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 | 2023-03-02 |  |
 | [Jean\-Paul Groove](https://open.spotify.com/track/2SDSYUklJmP4F9nWbV5AgQ) | [Ex\-Aequo](https://open.spotify.com/artist/7BCXsQgOn5a9AW2HlTd5xb) | [Jean\-Paul Groove](https://open.spotify.com/album/4qGe58S8QSyfurghTib8LK) | 2:54 | 2023-03-02 |  |
 | [L'amour](https://open.spotify.com/track/00JRUvdwqCvf2sWeKbYdS9) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:26 | 2023-03-02 |  |

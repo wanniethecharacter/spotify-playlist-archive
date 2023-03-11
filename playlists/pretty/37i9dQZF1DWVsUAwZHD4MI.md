@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,007 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,038 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 56 | [Gotta Let You Go \- Original '95 Club Mix](https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR) | 6:22 |
 | 57 | [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 |
 | 58 | [Lo tek massacre](https://open.spotify.com/track/0B0e0FZ8FYGJ6uqUc3lEN7) | [Kim](https://open.spotify.com/artist/0VgI6DYUxqxSQ110X1Na3s) | [Improvisations à la galerie du pop up](https://open.spotify.com/album/5QoU3qy0qdMfoOVGdWEHLR) | 9:24 |
-| 59 | [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/5wAmqHwD5TGM7ETiJnwFPT) | 3:28 |
+| 59 | [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/3gsLvZziN9ghF1mjxjM7h7) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/10XMQQHJnnknfCJqpyUSkn) | 3:28 |
 | 60 | [Love Me Still](https://open.spotify.com/track/372TjIX9F2p8WXOs7zaPYd) | [J!mmy](https://open.spotify.com/artist/5EKRIE9OkMU5e5l5kbWAQa), [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Love Me Still](https://open.spotify.com/album/4uA5ljpobuwL5AhtEubmSG) | 3:12 |
 | 61 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 62 | [Tic](https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB) | 2:10 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 78 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MTY2ODE2NDY1MywwMDAwMDAwMGNkYjE3NmI4M2RiN2Y2OGEwOWNkODEwNTNmY2VmZjFj`
+Snapshot ID: `MTY2ODE2NDY1MywwMDAwMDAwMDRiOWViZjI4ZWU5MjQxMjAxNDg3MTVmNWNmNzJlMGMx`

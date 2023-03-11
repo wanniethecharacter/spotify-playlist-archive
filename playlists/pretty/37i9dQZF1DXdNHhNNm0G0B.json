@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 69592,
+  "num_followers": 69617,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMDAxMTg2ZGRkZTc2NjgzZWI1Zjg3M2Y1NzczY2MwZWU4",
+  "snapshot_id": "MTY3Nzg2NzA4NywwMDAwMDAwMGUwMmYzZjFhNDNlMWIwNDNhNTY0MmViNTZhMTQzYWFm",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Alberta",
-      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Alberta",
+      "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Covered Tracks: Vol. 2",
-        "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 263999,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 208173,
       "name": "Spike Driver Blues",
       "url": "https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Covered Tracks: Vol. 2",
+        "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Live in Forl\u00ec, Italy 1982",
-        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
-      },
-      "artists": [
-        {
-          "name": "Robbie Basho",
-          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
-        }
-      ],
-      "duration_ms": 282981,
-      "name": "Clair de lune (For Twelve-String) [Live]",
-      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Legs to Make us Longer",
         "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 260253,
       "name": "Can the Gwot Save Us?",
       "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Live in Forl\u00ec, Italy 1982",
+        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Basho",
+          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "Clair de lune (For Twelve-String) [Live]",
+      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Down in Mississippi",
         "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203453,
       "name": "Down in Mississippi",
       "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 525080,
       "name": "Ain't Nobody High Raga",
       "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
+        "name": "In the Morning Twilight",
+        "url": "https://open.spotify.com/album/3xOp11fmqGp0EBz05MPX0T"
+      },
+      "artists": [
+        {
+          "name": "Steffen Basho-Junghans",
+          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "In the Morning Twilight",
+      "url": "https://open.spotify.com/track/6vbE4tm7csOqDlSxsAzCtO"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
         "name": "Blowin' The Fuses",
         "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 177120,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/3xOp11fmqGp0EBz05MPX0T"
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
       },
       "artists": [
         {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
         }
       ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/6vbE4tm7csOqDlSxsAzCtO"
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Bottom's Up",
-        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+        "name": "Seasonal Hire",
+        "url": "https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz"
       },
       "artists": [
         {
-          "name": "Will Harrison",
-          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "The Black Twig Pickers",
+          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
         }
       ],
-      "duration_ms": 172383,
-      "name": "Good Timin'",
-      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+      "duration_ms": 983850,
+      "name": "Seasonal Hire",
+      "url": "https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Seasonal Hire",
-        "url": "https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz"
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
       "artists": [
         {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        },
-        {
-          "name": "The Black Twig Pickers",
-          "url": "https://open.spotify.com/artist/5M49KBg6FogkxrK5NAGzpa"
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
         }
       ],
-      "duration_ms": 983850,
-      "name": "Seasonal Hire",
-      "url": "https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh"
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "There Is a Place in This Old Town",
-      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 186591,
       "name": "The Man From Nowhere",
       "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "There Is a Place in This Old Town",
+      "url": "https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Hurt Me",
-        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lynch",
-          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
-        }
-      ],
-      "duration_ms": 155319,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
         }
       ],
-      "duration_ms": 316048,
-      "name": "Dodge City",
-      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1231,6 +1215,22 @@
       "duration_ms": 172747,
       "name": "Cruel Old World",
       "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 316048,
+      "name": "Dodge City",
+      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     },
     {
       "added_at": "2023-03-03 18:11:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-03 18:11:27",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Long River (Allegheny)",
-      "url": "https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE"
-    },
-    {
-      "added_at": "2023-03-03 18:11:27",
-      "album": {
         "name": "The Best Of Cannon's Jug Stompers",
         "url": "https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 186906,
       "name": "Heart Breakin' Blues",
       "url": "https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9"
+    },
+    {
+      "added_at": "2023-03-03 18:11:27",
+      "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "She Ain't Nowhere - Remastered",
+      "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

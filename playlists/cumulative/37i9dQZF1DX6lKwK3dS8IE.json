@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Death Machine / White Ghosts",
+        "url": "https://open.spotify.com/album/3mVxKF8QO4dbGAZK958ZW7"
+      },
+      "artists": [
+        {
+          "name": "AJJ",
+          "url": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113103,
+      "name": "Death Machine",
+      "url": "https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr"
+    },
+    {
+      "album": {
         "name": "Revel in the Rubble",
         "url": "https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf"
       },

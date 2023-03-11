@@ -112,7 +112,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 165576,
       "name": "6.5 Pap\u00e1",
       "url": "https://open.spotify.com/track/4AGkM2FEoejzLmLmlJqXqH"
@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Endorfina",
+        "url": "https://open.spotify.com/album/10aNOp2gug1lB3DIBJZSlo"
+      },
+      "artists": [
+        {
+          "name": "IVAN$ITO",
+          "url": "https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139090,
+      "name": "Endorfina",
+      "url": "https://open.spotify.com/track/1UUFVfl4t9YFhmyMX5BdXz"
+    },
+    {
+      "album": {
         "name": "Entre Envidia Y Muerte",
         "url": "https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 156831,
       "name": "Favo",
       "url": "https://open.spotify.com/track/7z5iQNr1rwjY0SXc883vZd"
@@ -2074,6 +2092,28 @@
       "duration_ms": 236287,
       "name": "Perco Con Mari - Remastered",
       "url": "https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J"
+    },
+    {
+      "album": {
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "PFQG",
+      "url": "https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc"
     },
     {
       "album": {

@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Fuck the World (feat. Boslen)",
+        "url": "https://open.spotify.com/album/6ZTXNtbfkNghi8H69m36JU"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Fuck the World (feat. Boslen)",
+      "url": "https://open.spotify.com/track/2tQtz7I7B8bHJyVsh3pdsu"
+    },
+    {
+      "album": {
         "name": "Emma Peters (Remixed)",
         "url": "https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP"
       },

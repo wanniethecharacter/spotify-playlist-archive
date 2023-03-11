@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Gayance",
+  "description": "Proudly marching to the beat of their own drum. Cover: Mandaworld",
   "name": "Outliers",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 194125,
       "name": "Alice",
       "url": "https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 270585,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4"
@@ -870,6 +870,50 @@
       "duration_ms": 187564,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/7k0KWTgeElluItD61B9aYc"
+    },
+    {
+      "album": {
+        "name": "Assumptions (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288097,
+      "name": "Assumptions - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
+    },
+    {
+      "album": {
+        "name": "at the rave with my friends",
+        "url": "https://open.spotify.com/album/6ZhLas7sMAyS98IypuUJOT"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "at the rave with my friends",
+      "url": "https://open.spotify.com/track/2TTtiZDspLBtORpnzWApjh"
     },
     {
       "album": {
@@ -1618,7 +1662,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -2538,7 +2582,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 180000,
       "name": "Constrictor",
       "url": "https://open.spotify.com/track/60SqKl7HkUVzFkhKGNJrAJ"
@@ -2560,6 +2604,24 @@
       "duration_ms": 182250,
       "name": "Coochie (a bedtime story)",
       "url": "https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg"
+    },
+    {
+      "album": {
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "album": {
@@ -4030,10 +4092,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Failed at Math(s)",
+      "url": "https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp"
     },
     {
       "album": {
@@ -4514,7 +4594,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
@@ -7408,7 +7488,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
@@ -7792,6 +7872,24 @@
       "duration_ms": 197153,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t"
+    },
+    {
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249160,
+      "name": "MADLY",
+      "url": "https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH"
     },
     {
       "album": {
@@ -9144,7 +9242,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205296,
       "name": "Off-White",
       "url": "https://open.spotify.com/track/1ferB8CRX6M9J1Nzk8tN4f"
@@ -9218,6 +9316,28 @@
       "duration_ms": 234857,
       "name": "Oh Really? (feat. Kiefer)",
       "url": "https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW"
+    },
+    {
+      "album": {
+        "name": "Oj & prosecco",
+        "url": "https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh"
+      },
+      "artists": [
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Oj & prosecco",
+      "url": "https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi"
     },
     {
       "album": {
@@ -9298,7 +9418,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 183788,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/0nV76bXUJRqT9QaYTWxW5M"
@@ -10834,7 +10954,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 213892,
       "name": "Sentiments nouveaux",
       "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
@@ -11040,6 +11160,24 @@
       "duration_ms": 151714,
       "name": "SHELL",
       "url": "https://open.spotify.com/track/3tYkvqIjHFS8O56DrWGYvO"
+    },
+    {
+      "album": {
+        "name": "Shibari",
+        "url": "https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf"
+      },
+      "artists": [
+        {
+          "name": "Featurette",
+          "url": "https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151831,
+      "name": "Shibari",
+      "url": "https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1"
     },
     {
       "album": {
@@ -11826,6 +11964,24 @@
       "duration_ms": 397058,
       "name": "Sundowners - Original",
       "url": "https://open.spotify.com/track/6j0hSPmXjrTSS0AoOA0TsC"
+    },
+    {
+      "album": {
+        "name": "Sunrise Bang Ur Head Against Tha Wall",
+        "url": "https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Sunrise Bang Ur Head Against Tha Wall",
+      "url": "https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz"
     },
     {
       "album": {
@@ -12879,6 +13035,28 @@
     },
     {
       "album": {
+        "name": "Ultimatum (object blue Remix)",
+        "url": "https://open.spotify.com/album/50wsbIbUGgl6aafYjqFC3Y"
+      },
+      "artists": [
+        {
+          "name": "Eden Samara",
+          "url": "https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi"
+        },
+        {
+          "name": "Object Blue",
+          "url": "https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Ultimatum - object blue Remix",
+      "url": "https://open.spotify.com/track/3yfrF3obqRL206DdSScscB"
+    },
+    {
+      "album": {
         "name": "You Don't Understand",
         "url": "https://open.spotify.com/album/0QwBq75ljzkUJjO6qcNAVK"
       },
@@ -12912,6 +13090,28 @@
       "duration_ms": 127637,
       "name": "UNCLEAR",
       "url": "https://open.spotify.com/track/4bs78Oz3BO0cTkEoQZiqwS"
+    },
+    {
+      "album": {
+        "name": "Under the Stars (tender spring Remix)",
+        "url": "https://open.spotify.com/album/1BtMQvo0WZHgqAYnGvVnGK"
+      },
+      "artists": [
+        {
+          "name": "SCayos",
+          "url": "https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a"
+        },
+        {
+          "name": "tender spring",
+          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121424,
+      "name": "Under the Stars - tender spring Remix",
+      "url": "https://open.spotify.com/track/4zrmv11pGkXHsK1LahgtrQ"
     },
     {
       "album": {
@@ -13148,6 +13348,28 @@
       "duration_ms": 251360,
       "name": "Voyage en Europe - TDJ Remix",
       "url": "https://open.spotify.com/track/5hWKNmayPtKecMxIVTf4oN"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140556,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0"
     },
     {
       "album": {
@@ -13894,7 +14116,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 157466,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"

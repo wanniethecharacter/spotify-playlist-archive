@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-353 songs - 21 hr 12 min
+354 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [I'm free](https://open.spotify.com/track/4dolgjnfj6gJgTqw8FyalQ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:18 | 2023-01-25 |  |
 | [I'm in Love \(feat\. ひかり\)](https://open.spotify.com/track/0avfRyE7LW0stz9pN7Orv9) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [I'm in Love \(feat\. ひかり\)](https://open.spotify.com/album/4Al6ZtK3etnVZmJBfNj5Bv) | 4:49 | 2022-03-31 | 2022-04-13 |
 | [If You Wanna \- Gianni Brezzo Remix](https://open.spotify.com/track/6RH0mdNeoDS7B0E0f2Y47V) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Brand New Choice](https://open.spotify.com/album/1gjsVpD6VbEVDsvoit7J4I) | 4:57 | 2021-12-23 | 2022-04-19 |
+| [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-09 |  |
 | [IN PINK \(feat\. Mndsgn\)](https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:45 | 2021-12-23 | 2022-07-19 |
 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 | 2022-02-03 | 2022-07-17 |
 | [Inferno](https://open.spotify.com/track/5Qg1StPjfDnTY42zF7i02d) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:24 | 2021-12-23 | 2022-07-09 |
@@ -352,7 +353,7 @@
 | [You and Me](https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Rising With It](https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4) | 3:56 | 2021-12-23 | 2022-07-29 |
 | [You My Love](https://open.spotify.com/track/3BTbCM8cSXGBxcOlEEgAnk) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [You My Love](https://open.spotify.com/album/4Zb0LnNvbbarHvz6UDNy9d) | 4:29 | 2022-03-24 | 2022-04-20 |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 |  |
-| [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-03-31 |  |
+| [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-03-31 | 2023-03-11 |
 | [Ziptied](https://open.spotify.com/track/1I3SVKHjJGINkfUJDKheP0) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [Ziptied](https://open.spotify.com/album/38EVuAtx4bc0YgU8H4Owkp) | 3:12 | 2022-03-31 | 2022-04-15 |
 | [Zuum!](https://open.spotify.com/track/21qw6LY4MLuQPwDVNoiym2) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [Zuum!](https://open.spotify.com/album/4eKOMCWd47RGigNxX7jAs1) | 2:28 | 2022-03-24 | 2022-04-10 |
 | [£ Me](https://open.spotify.com/track/7CZNwUtYX1JxJTXYX2TJGP) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 3:00 | 2022-03-24 | 2022-04-07 |

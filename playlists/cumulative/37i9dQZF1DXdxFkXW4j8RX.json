@@ -432,7 +432,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 221027,
       "name": "Champurria (Mestizo - Mestiza)",
       "url": "https://open.spotify.com/track/5JQSEd9TCQjv3QhWJji5lQ"
@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Cuentos",
+        "url": "https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192630,
+      "name": "Cuentos",
+      "url": "https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ"
+    },
+    {
+      "album": {
         "name": "DA KNOWLEDGE",
         "url": "https://open.spotify.com/album/6YkpmJ3cNCP6F3BwPO7sZ1"
       },
@@ -546,6 +568,28 @@
       "duration_ms": 190909,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5lXgD4rhegsXgu1e0B3z3l"
+    },
+    {
+      "album": {
+        "name": "De Donde Vengo",
+        "url": "https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb"
+      },
+      "artists": [
+        {
+          "name": "Rapacortes",
+          "url": "https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM"
+        },
+        {
+          "name": "Kainos Mc",
+          "url": "https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204340,
+      "name": "De Donde Vengo",
+      "url": "https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL"
     },
     {
       "album": {
@@ -1888,7 +1932,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
@@ -2727,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Tiempo al tiempo",
+        "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Tiempo al tiempo",
+      "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
+    },
+    {
+      "album": {
         "name": "Tiempo de Reflexionar (Qu\u00e9date en Casa)",
         "url": "https://open.spotify.com/album/1qVZotaHWQMQAKwldzElz4"
       },
@@ -2940,7 +3002,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 170679,
       "name": "T\u00e9tricx$",
       "url": "https://open.spotify.com/track/0teOgWoByMLd6hZwUr4EtP"

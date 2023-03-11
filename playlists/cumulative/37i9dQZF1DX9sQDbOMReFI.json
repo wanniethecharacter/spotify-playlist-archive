@@ -71,6 +71,36 @@
     },
     {
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
+      "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
+    },
+    {
+      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee"
       },
@@ -788,10 +818,28 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259279,
       "name": "Getto Jam",
       "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Gin and Juice",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
       "album": {
@@ -810,7 +858,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 211493,
       "name": "Gin N Juice (feat. Dat Nigga Daz)",
       "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
@@ -1248,7 +1296,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 294266,
       "name": "Late Night Hype",
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
@@ -1314,6 +1362,32 @@
       "duration_ms": 204440,
       "name": "Let's Play House",
       "url": "https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez"
+    },
+    {
+      "album": {
+        "name": "Dogg Food",
+        "url": "https://open.spotify.com/album/7ckn7E8vMphRkOhbAsMY1W"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Let's Play House",
+      "url": "https://open.spotify.com/track/0CMgg7xeATgHXd9MmpO6rU"
     },
     {
       "album": {
@@ -1488,7 +1562,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 290272,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
@@ -2218,6 +2292,24 @@
       "duration_ms": 246320,
       "name": "Who Am I (What's My Name)?",
       "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "album": {

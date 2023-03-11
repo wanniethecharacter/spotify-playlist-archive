@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1163765,
+  "num_followers": 1163927,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE5NDM2MSwwMDAwMDAwMGNlNDE5NmIwZmYxMzFjMzA1NGE2NWY2NzAyMjk5MGVj",
+  "snapshot_id": "MTY3ODE5NDM2MSwwMDAwMDAwMDFkMTk4YWVmZWMzZmQ2OTI1YjUxYzUzOTUzOTMyNGJi",
   "tracks": [
     {
       "added_at": "2023-03-07 13:06:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -783,22 +783,6 @@
       "duration_ms": 280706,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -879,6 +863,22 @@
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "True Love: A Celebration Of Cole Porter",
-        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
         "name": "On Holiday",
         "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "Night Songs II",
-        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
+        "name": "True Love: A Celebration Of Cole Porter",
+        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Moonlight Becomes You",
-      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+      "duration_ms": 209040,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
+        "name": "Night Songs II",
+        "url": "https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Moonlight Becomes You",
+      "url": "https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
         "name": "Secrets of My Heart",
         "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
       },
@@ -1139,38 +1139,6 @@
       "duration_ms": 229365,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1207,6 +1175,38 @@
       "duration_ms": 423013,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
         "name": "Partners",
         "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 250293,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2023-03-07 13:06:01",

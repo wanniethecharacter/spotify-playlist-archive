@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "One Day in December",
+        "url": "https://open.spotify.com/album/0ZZTeU4ov4MizoljxXjL2N"
+      },
+      "artists": [
+        {
+          "name": "ON",
+          "url": "https://open.spotify.com/artist/7pXZtQ6CdS3SQx3WDK8jW3"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "One Day in December",
+      "url": "https://open.spotify.com/track/3YCr2GzVVrz4LiKNUAPW6G"
+    },
+    {
+      "album": {
         "name": "One More Christmas",
         "url": "https://open.spotify.com/album/7HtVuZLHiklL7oREgMht8d"
       },
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 241080,
       "name": "Snow on Christmas",
       "url": "https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf"

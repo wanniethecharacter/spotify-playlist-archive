@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 254062,
+  "num_followers": 254081,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzMxNjcwNTA4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzMxNzYyNDcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Malibu Barbie",
         "url": "https://open.spotify.com/album/61CxqMQJVXSEQ2OUahKLK7"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0KMDkQbcglNudXuynwKMs6"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Gladiator",
         "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "No we\u017a",
         "url": "https://open.spotify.com/album/16SwwG2WbR6XBJb1xIJ04A"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/6Yq2Dnb5Gre9mAT0TEDiZx"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Lata Dwudzieste",
+        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "mori",
+      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H"
@@ -133,43 +149,7 @@
       "url": "https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Sidehoe",
-        "url": "https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        },
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 149169,
-      "name": "Sidehoe",
-      "url": "https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Lata Dwudzieste",
-        "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "mori",
-      "url": "https://open.spotify.com/track/2yxPqxHbj1L7vrCpHLtAcG"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "RODZINNY BIZNES",
         "url": "https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS"
@@ -197,27 +177,7 @@
       "url": "https://open.spotify.com/track/3Nqxx5fdl3FQlrk3zarRmA"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "magister sztuki",
-        "url": "https://open.spotify.com/album/5QjZEBY9WELhCQ2tOksiUT"
-      },
-      "artists": [
-        {
-          "name": "Kuban",
-          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
-        },
-        {
-          "name": "Favst",
-          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "magister sztuki",
-      "url": "https://open.spotify.com/track/1sQqDjbK3WcL0YCWb5t8jt"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "na okr\u0105g\u0142o",
         "url": "https://open.spotify.com/album/27zm8Roybp6es20WcH2uRd"
@@ -237,27 +197,47 @@
       "url": "https://open.spotify.com/track/4JmaOG7bfj1uNv8jEUg0Ce"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "Na jedna karte",
-        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
+        "name": "Sidehoe",
+        "url": "https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof"
       },
       "artists": [
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
         },
         {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
         }
       ],
-      "duration_ms": 165212,
-      "name": "Na jedna karte",
-      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
+      "duration_ms": 149169,
+      "name": "Sidehoe",
+      "url": "https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "magister sztuki",
+        "url": "https://open.spotify.com/album/5QjZEBY9WELhCQ2tOksiUT"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "magister sztuki",
+      "url": "https://open.spotify.com/track/1sQqDjbK3WcL0YCWb5t8jt"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "STYXXX",
         "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
@@ -281,27 +261,27 @@
       "url": "https://open.spotify.com/track/3ebV1wNl0sJZUMkS7T7K2g"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "Die For You (Remix)",
-        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+        "name": "Na jedna karte",
+        "url": "https://open.spotify.com/album/2WROFAMlXSu0nLDq28gLBr"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
         }
       ],
-      "duration_ms": 232857,
-      "name": "Die For You - Remix",
-      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+      "duration_ms": 165212,
+      "name": "Na jedna karte",
+      "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Prywatny bal",
         "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
@@ -317,27 +297,7 @@
       "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Patocelebryta",
-        "url": "https://open.spotify.com/album/28oMY1PWkfD2IZsWWfJ95o"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Sergiusz",
-          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Patocelebryta",
-      "url": "https://open.spotify.com/track/3nn1Mv6qPxnWYGYgwM0QW0"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Dotyk (Touch)",
         "url": "https://open.spotify.com/album/6XnNf4aM00NPAyuWxnyqlV"
@@ -357,7 +317,7 @@
       "url": "https://open.spotify.com/track/6UOHjZeSsR2buBhgGOWFc5"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "sanah \u015bpiewa Poezyje",
         "url": "https://open.spotify.com/album/4SZGigZqeHALaTyIrYisrv"
@@ -373,7 +333,7 @@
       "url": "https://open.spotify.com/track/384lHduuDsrR4HPUwR3fG4"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "nigdy wi\u0119cej 2022",
         "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
@@ -397,23 +357,27 @@
       "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "M\u0141ODY PADEREWSKI",
-        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
+        "name": "Hop",
+        "url": "https://open.spotify.com/album/2ZdUQDDDPUAWxX4zHj2Mq9"
       },
       "artists": [
         {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
         }
       ],
-      "duration_ms": 130285,
-      "name": "M\u0141ODY PADEREWSKI",
-      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
+      "duration_ms": 157714,
+      "name": "Hop",
+      "url": "https://open.spotify.com/track/6KdJ4FS5l7OOi73CGgtEM3"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "21 gram\u00f3w",
         "url": "https://open.spotify.com/album/3eYaSWOJrnkDpEbeWfZYHB"
@@ -429,7 +393,63 @@
       "url": "https://open.spotify.com/track/7hjgi04fCipBXq5NAB1ulo"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Die For You (Remix)",
+        "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Die For You - Remix",
+      "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Gelenda",
+        "url": "https://open.spotify.com/album/2Z56nY7iJ2lZJHHSb1QVei"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 154006,
+      "name": "Gelenda",
+      "url": "https://open.spotify.com/track/4HrdpcNAQ7HJMGggot07Rs"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "2 IZOTEKI",
+        "url": "https://open.spotify.com/album/16mdDaDKY0X8Kg1NusHtPC"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 158881,
+      "name": "2 IZOTEKI",
+      "url": "https://open.spotify.com/track/6NQ83ioZQLARpVmW3mVA7C"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Wielka szkoda",
         "url": "https://open.spotify.com/album/4pKzTSCKXIIzSJFGa4UJR2"
@@ -449,10 +469,10 @@
       "url": "https://open.spotify.com/track/1zwN0wYkc1uGVJHmcNqvBF"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "2 IZOTEKI",
-        "url": "https://open.spotify.com/album/16mdDaDKY0X8Kg1NusHtPC"
+        "name": "M\u0141ODY PADEREWSKI",
+        "url": "https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss"
       },
       "artists": [
         {
@@ -460,12 +480,12 @@
           "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
         }
       ],
-      "duration_ms": 158881,
-      "name": "2 IZOTEKI",
-      "url": "https://open.spotify.com/track/6NQ83ioZQLARpVmW3mVA7C"
+      "duration_ms": 130285,
+      "name": "M\u0141ODY PADEREWSKI",
+      "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
@@ -485,7 +505,27 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Patocelebryta",
+        "url": "https://open.spotify.com/album/28oMY1PWkfD2IZsWWfJ95o"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Patocelebryta",
+      "url": "https://open.spotify.com/track/3nn1Mv6qPxnWYGYgwM0QW0"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "DOPEHOUSE MIXTAPE",
         "url": "https://open.spotify.com/album/6ELqUBxrTSFFjaTratUXMI"
@@ -505,7 +545,7 @@
       "url": "https://open.spotify.com/track/3f9Ugg030LDe0p6ospTORC"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Tak naprawd\u0119",
         "url": "https://open.spotify.com/album/3YW0mDl7sNIsBuHuRV0hsN"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/0VKXLo6QFc2uys7Sb37lgH"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Discopolo",
         "url": "https://open.spotify.com/album/7f5COz1uzLJ3Yy7WzH2HUz"
@@ -573,7 +613,7 @@
       "url": "https://open.spotify.com/track/09m29we7x9tgxyo6f3OQ87"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
@@ -593,7 +633,23 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "RiRi",
+      "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Cheese",
         "url": "https://open.spotify.com/album/7FGl28nS7AfxS7LPt1RJEE"
@@ -609,7 +665,7 @@
       "url": "https://open.spotify.com/track/7FubfjHvE6djudDLnco2nA"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
@@ -629,39 +685,7 @@
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "najlepszy dzie\u0144 w moim \u017cyciu",
-        "url": "https://open.spotify.com/album/1OZUaI8foVsLMTOIdWQx7C"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "najlepszy dzie\u0144 w moim \u017cyciu",
-      "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ"
-      },
-      "artists": [
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "RiRi",
-      "url": "https://open.spotify.com/track/5YvL3ytkusKcM5ozxD9fKN"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -681,35 +705,47 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "STYXXX",
-        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
+        "name": "najlepszy dzie\u0144 w moim \u017cyciu",
+        "url": "https://open.spotify.com/album/1OZUaI8foVsLMTOIdWQx7C"
       },
       "artists": [
         {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
-        },
-        {
-          "name": "Kronkel Dom",
-          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
-        },
-        {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Wilk",
-      "url": "https://open.spotify.com/track/2ul6VavZhoe1JGQ3wR9s5c"
+      "duration_ms": 251500,
+      "name": "najlepszy dzie\u0144 w moim \u017cyciu",
+      "url": "https://open.spotify.com/track/1U5tyGeq6tFW6WNTmPluvx"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "TW\u00d3J WZROK",
+        "url": "https://open.spotify.com/album/3erTapSt7iQVCYCCSpt2VS"
+      },
+      "artists": [
+        {
+          "name": "GENZIE",
+          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
+        },
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        }
+      ],
+      "duration_ms": 188347,
+      "name": "TW\u00d3J WZROK",
+      "url": "https://open.spotify.com/track/4AqDNYLDdAUkLp57vzBtLz"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Deszcz",
         "url": "https://open.spotify.com/album/4V0G3Ei1qrzO0WtwLPpDQb"
@@ -753,47 +789,7 @@
       "url": "https://open.spotify.com/track/1IadUEX6oWa8vLbk1QKcjN"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "POCZT\u00d3WKA Z WWA, LATO '19",
-        "url": "https://open.spotify.com/album/0NswGrMDNxBGq6DwAnIdU1"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "CZ\u0141OWIEK Z DZIUR\u0104 ZAMIAST KRTANI",
-      "url": "https://open.spotify.com/track/3FaQgxX3YENJdih4LIQhFF"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "TW\u00d3J WZROK",
-        "url": "https://open.spotify.com/album/3erTapSt7iQVCYCCSpt2VS"
-      },
-      "artists": [
-        {
-          "name": "GENZIE",
-          "url": "https://open.spotify.com/artist/66NiiFgb74HLBN1A5ylO5t"
-        },
-        {
-          "name": "Hi Hania",
-          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
-        },
-        {
-          "name": "\u015awie\u017cy",
-          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
-        }
-      ],
-      "duration_ms": 188347,
-      "name": "TW\u00d3J WZROK",
-      "url": "https://open.spotify.com/track/4AqDNYLDdAUkLp57vzBtLz"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -817,31 +813,51 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "Moonrock",
-        "url": "https://open.spotify.com/album/6yAjUB6YzKf8UGic2LO0pC"
+        "name": "POCZT\u00d3WKA Z WWA, LATO '19",
+        "url": "https://open.spotify.com/album/0NswGrMDNxBGq6DwAnIdU1"
       },
       "artists": [
         {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Worek",
-          "url": "https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb"
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
         }
       ],
-      "duration_ms": 152967,
-      "name": "Moonrock",
-      "url": "https://open.spotify.com/track/0wjEqyMMRTiC5He6tSkyAN"
+      "duration_ms": 248400,
+      "name": "CZ\u0141OWIEK Z DZIUR\u0104 ZAMIAST KRTANI",
+      "url": "https://open.spotify.com/track/3FaQgxX3YENJdih4LIQhFF"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "STYXXX",
+        "url": "https://open.spotify.com/album/0jK4Jnbd1PylwYTh8SJkS7"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Wilk",
+      "url": "https://open.spotify.com/track/2ul6VavZhoe1JGQ3wR9s5c"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "p\u0142omie\u0144",
         "url": "https://open.spotify.com/album/1B0Q2dNoUotf3QYQpdIK6m"
@@ -857,23 +873,23 @@
       "url": "https://open.spotify.com/track/2XxNDVlXUbv4FuF3jbPkLt"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
-        "name": "Herbata Z Imbirem",
-        "url": "https://open.spotify.com/album/0CzfjraDKlqESf0bIRtKj2"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 136618,
-      "name": "Herbata Z Imbirem",
-      "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Lata Dwudzieste",
         "url": "https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj"
@@ -889,7 +905,111 @@
       "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Herbata Z Imbirem",
+        "url": "https://open.spotify.com/album/0CzfjraDKlqESf0bIRtKj2"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Herbata Z Imbirem",
+      "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Ground Zero",
+        "url": "https://open.spotify.com/album/6TLQqwdXW3qCE6IQKjcmhS"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        }
+      ],
+      "duration_ms": 178004,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/5qBLfeAGlgGGsckKhsMWpF"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "Rarara",
+        "url": "https://open.spotify.com/album/2OqUTL50aaiUwf7s3QY7IZ"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Rarara",
+      "url": "https://open.spotify.com/track/08sMDBcjUBXWV99gZI092C"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "Wi\u0119cej \u017bycia",
         "url": "https://open.spotify.com/album/1H1uwQyzqIXe6bKhUMV572"
@@ -913,115 +1033,7 @@
       "url": "https://open.spotify.com/track/7jfzIhYB7SedhNUtdsaXhl"
     },
     {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Rarara",
-        "url": "https://open.spotify.com/album/2OqUTL50aaiUwf7s3QY7IZ"
-      },
-      "artists": [
-        {
-          "name": "Miszel",
-          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
-        },
-        {
-          "name": "Kabe",
-          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Rarara",
-      "url": "https://open.spotify.com/track/08sMDBcjUBXWV99gZI092C"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
+      "added_at": "2023-03-10 11:21:12",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -1039,26 +1051,6 @@
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
-    },
-    {
-      "added_at": "2023-03-09 09:48:28",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     }
   ],
   "unique_name": "Top 50 - Poland",

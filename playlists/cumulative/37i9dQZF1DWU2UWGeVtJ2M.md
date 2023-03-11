@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-273 songs - 15 hr 3 min
+274 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2022-07-25 |  |
 | [Dummy](https://open.spotify.com/track/5JbwQffYY41WnmZiRw39aw) | [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Dummy](https://open.spotify.com/album/4mvX5gtx89KvTmjGKS3YUK) | 3:03 | 2022-06-20 | 2022-06-28 |
-| [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2022-10-03 |  |
+| [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2022-10-03 | 2023-03-11 |
 | [end of summer](https://open.spotify.com/track/41Y2sKD6964zZsVKcVdfIA) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Nathania](https://open.spotify.com/artist/3GGFoDJb13etkq2DgQ4cMw) | [end of summer](https://open.spotify.com/album/0cPA5U89O8Zq7lS258nRSt) | 3:05 | 2022-07-04 | 2022-07-24 |
 | [Escape](https://open.spotify.com/track/0Rio1XB0bbSmUXSMZdwBx2) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable EP](https://open.spotify.com/album/5YYiz5bHi70KHeaMJwbIXw) | 3:15 | 2022-06-20 | 2022-06-26 |
 | [Eyes](https://open.spotify.com/track/4dxtD1otvF1JdycGwCK9ns) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Vivid](https://open.spotify.com/album/6xdFPvtm4YKclLHnWxFLJM) | 2:58 | 2022-06-06 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 | 2022-07-25 |  |
 | [Tell Me Why](https://open.spotify.com/track/0qBV27lkQHQ3A4wGiSx7xB) | [RILEY](https://open.spotify.com/artist/38SHprY6NUd8O9LyWJ4hg4), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Tell Me Why](https://open.spotify.com/album/4L1Seg0eLOrj9fOhmyhEkc) | 3:17 | 2022-06-06 | 2022-07-29 |
 | [Temporary](https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Temporary](https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF) | 2:04 | 2022-07-25 | 2022-07-27 |
+| [Terrapin](https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP) | 4:38 | 2023-03-06 |  |
 | [The Angels](https://open.spotify.com/track/6XwDVNiqXI6WrhlVJYdPLu) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [The Angels](https://open.spotify.com/album/1ZdaNHouyJBXKES1AxjFAV) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-07-25 |  |
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-18 |  |

@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=7ZBC78cQReWxx83z4DpS2Q">Nikita Kering'</a>
 
-116 songs - 6 hr 33 min
+117 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 |  |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 |  |
-| [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 |  |
+| [Ecstasy](https://open.spotify.com/track/14UFNgoMLPrQ9MXA8NrBBo) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 3:25 | 2023-03-03 |  |
+| [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 | 2023-03-11 |
 | [Energy](https://open.spotify.com/track/6sJkcyfnB4rGAzBvsGTgbG) | [Sage](https://open.spotify.com/artist/4sVEio8QOitlX4YgXi7OL1) | [Energy](https://open.spotify.com/album/0KfDwp9CEl1LbqZgQE2DmM) | 2:47 | 2021-12-28 | 2022-07-01 |
 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 | 2022-02-04 | 2022-11-04 |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 |  |

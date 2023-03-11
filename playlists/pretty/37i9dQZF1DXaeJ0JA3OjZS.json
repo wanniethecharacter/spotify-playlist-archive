@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 31448,
+  "num_followers": 31662,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGYwNjI2ZWU1ZDhkZmExNzA1NjAwYTY3Y2VjZjE2Zjli",
+  "snapshot_id": "MTY1OTM5NjE2MSwwMDAwMDAwMGRjZTI3OThiN2Y5MmE1OWM3NmU3NGNkNTU5MTJhNzBk",
   "tracks": [
     {
       "added_at": "2022-08-01 23:22:41",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos Finos III",
-        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
+        "name": "One Dashing Eagle",
+        "url": "https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi"
       },
       "artists": [
         {
-          "name": "Oscar Solis Y Su Banda Magistral",
-          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 222020,
-      "name": "El Nuevo Comandante",
-      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
+      "duration_ms": 224130,
+      "name": "One Dashing Eagle",
+      "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "One Dashing Eagle",
-        "url": "https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi"
+        "name": "Corridos Finos III",
+        "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Oscar Solis Y Su Banda Magistral",
+          "url": "https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8"
         }
       ],
-      "duration_ms": 224130,
-      "name": "One Dashing Eagle",
-      "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
+      "duration_ms": 222020,
+      "name": "El Nuevo Comandante",
+      "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 131291,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
     },
     {
       "added_at": "2022-08-01 23:22:41",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-01 23:22:41",
       "album": {
-        "name": "El Rey De Los Coleaderos",
-        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "El Rey De Los Coleaderos",
-      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
-    },
-    {
-      "added_at": "2022-08-01 23:22:41",
-      "album": {
         "name": "Corridos de Caballos y Gallos",
         "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 191961,
       "name": "El Rengo del Gallo Giro",
       "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
+    },
+    {
+      "added_at": "2022-08-01 23:22:41",
+      "album": {
+        "name": "El Rey De Los Coleaderos",
+        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "El Rey De Los Coleaderos",
+      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
     },
     {
       "added_at": "2022-08-01 23:22:41",

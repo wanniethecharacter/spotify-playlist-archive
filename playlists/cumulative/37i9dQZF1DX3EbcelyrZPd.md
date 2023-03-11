@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Ali Kiba
+> Get your fill of vibes straight out of Tanzania\. Cover: Navy Kenzo
 
-219 songs - 12 hr 24 min
+220 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Loyalty \(feat\. Marioo & Nandy\)](https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Slave Becomes A King](https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO) | 3:25 | 2021-06-25 | 2022-08-12 |
 | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Maan Meri Jaan \(African Version\)](https://open.spotify.com/album/0qyUqa11Zf6m5hXjogpSo9) | 3:22 | 2023-02-23 |  |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2021-10-14 | 2022-02-25 |
+| [Madness](https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Most People Want This](https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx) | 2:35 | 2023-03-10 |  |
 | [Magical](https://open.spotify.com/track/48vs5A0PgEI38s6r92lwsC) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Romantic](https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq) | 3:04 | 2022-09-23 |  |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |
 | [Make it bounce \(Katika\)](https://open.spotify.com/track/6t6MpkK03yHwcK6S4L1pMR) | [iiCons](https://open.spotify.com/artist/4NcqeUfjUFtjSdpjd14gbQ) | [Make it bounce \(Katika\)](https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5) | 2:57 | 2022-05-12 | 2022-07-15 |
@@ -165,7 +166,7 @@
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
 | [Papaa](https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ) | [Papaa](https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk) | 2:13 | 2022-07-07 | 2022-10-08 |
-| [Papapu](https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Papapu](https://open.spotify.com/album/5vdqcmLs5OOvJzv0vilk09) | 4:36 | 2022-07-21 |  |
+| [Papapu](https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Papapu](https://open.spotify.com/album/5vdqcmLs5OOvJzv0vilk09) | 4:36 | 2022-07-21 | 2023-03-11 |
 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 | 2021-11-25 | 2022-09-02 |
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 | 2023-02-10 |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |

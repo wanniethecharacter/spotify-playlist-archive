@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-342 songs - 19 hr 47 min
+343 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Hikikomori \- Demo](https://open.spotify.com/track/1K3M3RJfmZMXFJCLgmZ20G) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori \(Demo\)](https://open.spotify.com/album/4027xzvj07q4QmomfSk4SZ) | 2:42 | 2022-01-07 | 2022-07-29 |
 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 | 2022-07-14 |  |
 | [Homesick \(feat\. SOUNDR\) \- Au5 Remix](https://open.spotify.com/track/7aA8Hu2kgv4IApwWcuc7wQ) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X), [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Lost \(Deluxe\)](https://open.spotify.com/album/2YMISnv5vo4Z2iY8L1zaIQ) | 4:08 | 2022-01-07 | 2022-07-29 |
+| [Humansongs](https://open.spotify.com/track/4EbQ4fLF9Z9zFQECyATkuC) | [Po\-uta](https://open.spotify.com/artist/1tyhOQeX7Ey2LbbzEiB9Zv) | [Humansongs](https://open.spotify.com/album/4q72QP5wsuf6xIRTpMRYpT) | 3:36 | 2023-03-10 |  |
 | [Hypervelocity \(from HARDCORE UTOPIA 2\)](https://open.spotify.com/track/7aSAkpmPssSngNdpuod8Dh) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [Hypervelocity \(from HARDCORE UTOPIA 2\)](https://open.spotify.com/album/5dmR3SVzYAYpn9uss8yA3l) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2022-01-07 |  |
 | [I Don’t Think I Can Do This Again \(with Clairo\)](https://open.spotify.com/track/3udJxehBCZ27wRO9gSum4B) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [I Don’t Think I Can Do This Again](https://open.spotify.com/album/2PMTYwJd3ui0erw8OJMvC4) | 3:41 | 2022-03-11 |  |
@@ -303,7 +304,7 @@
 | [summit](https://open.spotify.com/track/5YxZZPdass8697BMQbm6A6) | [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [summit](https://open.spotify.com/album/6SkjJR21boyeC30Nj9dEsz) | 4:37 | 2022-01-07 | 2022-08-08 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-07-27 |
 | [Surprise](https://open.spotify.com/track/0V565sTVfuwu7Zca8QidrE) | [cute girls doing cute things](https://open.spotify.com/artist/7a0SE5n7aPUDD3OlAg0hly) | [Surprise](https://open.spotify.com/album/4FPOmFxwmscTMAPGNcjtjH) | 2:53 | 2022-03-11 |  |
-| [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 |  |
+| [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 | 2023-03-11 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2022-01-07 | 2022-07-26 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-14 | 2022-08-18 |
 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 |  |

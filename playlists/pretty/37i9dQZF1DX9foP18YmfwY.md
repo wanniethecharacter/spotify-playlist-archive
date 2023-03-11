@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Missionário Shalom, Entretons
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,373 likes - 70 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,473 likes - 70 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 2 | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Maria Passa à Frente \(feat\. Gusttavo Lima\)](https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k) | 4:44 |
 | 3 | [Ao Monte](https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Ao Monte](https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2) | 6:08 |
 | 4 | [Casa](https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Casa](https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk) | 4:59 |
-| 5 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 |
-| 6 | [Queima de Novo \- Live](https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Deus É Poderoso pra Fazer: Live Session](https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm) | 8:38 |
+| 5 | [Queima de Novo \- Live](https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Deus É Poderoso pra Fazer: Live Session](https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm) | 8:38 |
+| 6 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 |
 | 7 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 |
 | 8 | [Para Sempre Cantarei \- Ao Vivo](https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Para Sempre Cantarei](https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew) | 5:21 |
 | 9 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 48 | [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 |
 | 49 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 |
 | 50 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
-| 51 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
+| 51 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
 | 52 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 |
-| 53 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
+| 53 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 |
 | 54 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 55 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 |
 | 56 | [Reinflama](https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL) | [Flavinho](https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4) | [Reinflama](https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I) | 3:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 |
 | 70 | [Confio em Ti](https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Confio em Ti](https://open.spotify.com/album/2U294zEFql410JNg2dVPf9) | 4:23 |
 
-Snapshot ID: `MTY3NzIzNzI4MSwwMDAwMDAwMDQ0NjgzM2Q4OWRlYzc2MTYxNDUwMTA1MTM0M2U3NjRh`
+Snapshot ID: `MTY3NzIzNzI4MSwwMDAwMDAwMGVkZTVmM2ZjY2JkYTEzZWMzZGU1YmNjNTczNDJhZTk4`

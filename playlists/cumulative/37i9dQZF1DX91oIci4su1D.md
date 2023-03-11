@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-564 songs - 1 day 10 hr 44 min
+565 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Gratitude](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Gratitude](https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj) | 3:53 | 2022-04-15 | 2022-10-08 |
 | [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/0csxaKH8pDLL39JSy6rpGX) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2023-03-04 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
-| [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 |  |
+| [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 | 2023-03-11 |
 | [Halcyon](https://open.spotify.com/track/1UwdPwhkyr8X4lr0HAoKMV) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Halcyon / Mirage](https://open.spotify.com/album/5poQ53iK8aEysv02gdjWkZ) | 3:45 | 2022-11-25 |  |
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-15 | 2022-04-19 |
 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 | 2023-01-20 |  |
@@ -325,6 +325,7 @@
 | [Midnight Sun](https://open.spotify.com/track/0YAYFl6Nsj6nYrTYKaIj2g) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy), [Dave Raval](https://open.spotify.com/artist/3MtctuuM4lt9jFuVA8zZxg) | [Midnight Sun](https://open.spotify.com/album/6xuGSr1yn3W4vIgaQ4oOQe) | 3:26 | 2022-10-14 |  |
 | [Militia](https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby) | [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Militia](https://open.spotify.com/album/6vyYIItTUALUcBmCGreLRp) | 3:30 | 2022-01-21 | 2022-07-08 |
 | [Million Stars](https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Million Stars](https://open.spotify.com/album/3WUx199WAQBeSOxSkPftCh) | 3:36 | 2022-12-23 |  |
+| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-10 |  |
 | [Mirage](https://open.spotify.com/track/2XMtuYlrbRPmQJUlR3vrvb) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Mirage](https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc) | 3:38 | 2022-09-02 |  |
 | [Mirage \(Original Mix\)](https://open.spotify.com/track/0emwsfGaEzF8czB33tYo8D) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD) | [Mirage](https://open.spotify.com/album/0H5L396lTc0JhHwZ3x3Vwe) | 3:59 | 2022-01-21 | 2023-02-25 |
 | [Moment](https://open.spotify.com/track/1OhNIHWABDYC8KE7EF3YOK) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Anven](https://open.spotify.com/artist/1vViVD7zHBwKdnkLtNaZg9) | [Moment](https://open.spotify.com/album/0axXxvjQtWnKTvYfpwBFnX) | 3:11 | 2021-12-17 | 2022-05-28 |

@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 222713,
+  "num_followers": 223010,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMGZkMDZhYjNkZDIwNDkzNDM5M2FmMThlMjk5ZDMxNDlk",
+  "snapshot_id": "MTY3Nzg2MTAxNCwwMDAwMDAwMDQzMjQ5NDQ5ZDI0ZjJiY2Y3NGI0MzY3MTQ4OWEwNmZi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -173,6 +173,22 @@
       "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Handshakes With Snakes",
+        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Handshakes With Snakes",
+      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
+    },
+    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "VAMPIR",
@@ -195,22 +211,6 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Handshakes With Snakes",
-        "url": "https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "Handshakes With Snakes",
-      "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -273,24 +273,20 @@
       "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
+      "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Don't Wait",
-        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
       },
       "artists": [
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        },
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 128371,
-      "name": "Don't Wait",
-      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -309,20 +305,24 @@
       "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
+      "added_at": "2023-02-09 19:59:28",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
         }
       ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
+      "duration_ms": 128371,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "As They Bloom",
-        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
+        "name": "I Spit On Your Grave",
+        "url": "https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4"
       },
       "artists": [
         {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
         }
       ],
-      "duration_ms": 237259,
-      "name": "As They Bloom",
-      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "I Spit On Your Grave",
-        "url": "https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4"
+        "name": "As They Bloom",
+        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
       },
       "artists": [
         {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 219686,
-      "name": "I Spit On Your Grave",
-      "url": "https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26"
+      "duration_ms": 237259,
+      "name": "As They Bloom",
+      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -561,6 +561,34 @@
       "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "ANTAGONIST RETURNS",
+        "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
+      },
+      "artists": [
+        {
+          "name": "The Worst of Us",
+          "url": "https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
+        },
+        {
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
+        },
+        {
+          "name": "THE AKUMA",
+          "url": "https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW"
+        }
+      ],
+      "duration_ms": 217308,
+      "name": "ANTAGONIST RETURNS",
+      "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Sun Up To Sun Down (Remix)",
@@ -595,34 +623,6 @@
       "duration_ms": 282920,
       "name": "Yuve Yuve Yu",
       "url": "https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "ANTAGONIST RETURNS",
-        "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
-      },
-      "artists": [
-        {
-          "name": "The Worst of Us",
-          "url": "https://open.spotify.com/artist/42VxcSRld3QR7Rmv7m97RW"
-        },
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
-        },
-        {
-          "name": "TOKYO ROSE",
-          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
-        },
-        {
-          "name": "THE AKUMA",
-          "url": "https://open.spotify.com/artist/20kxwZ3KtZExRwq4s9IXZW"
-        }
-      ],
-      "duration_ms": 217308,
-      "name": "ANTAGONIST RETURNS",
-      "url": "https://open.spotify.com/track/2tCwpWtQsAFGafn1tZCcfm"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "saw BONES",
-        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
-      },
-      "artists": [
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "saw BONES",
-      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "They Fear Us",
         "url": "https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "saw BONES",
+        "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
+      },
+      "artists": [
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "saw BONES",
+      "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Blood Year",
         "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 393026,
       "name": "Arluck",
       "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Into The Void",
         "url": "https://open.spotify.com/album/4NJtkDQbFepS3gzXRNCTwL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210927,
       "name": "Into The Void - Single Edit",
       "url": "https://open.spotify.com/track/7wrnCfwFrQtfj3JRl4c0uy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1113,26 +1113,6 @@
       "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "REB00T MYSELF (feat. Tired Violence)",
-        "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
-      },
-      "artists": [
-        {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
-        },
-        {
-          "name": "Tired Violence",
-          "url": "https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "REB00T MYSELF (feat. Tired Violence)",
-      "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "Rust on the Gates of Heaven",
@@ -1147,22 +1127,6 @@
       "duration_ms": 331015,
       "name": "Shrinking Violet",
       "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "be no one",
-        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
-      },
-      "artists": [
-        {
-          "name": "Sepha.",
-          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
-        }
-      ],
-      "duration_ms": 261206,
-      "name": "be no one",
-      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1187,6 +1151,42 @@
       "duration_ms": 202105,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6lBIyFHLLDe30Rg4kvt9Kw"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "be no one",
+        "url": "https://open.spotify.com/album/0ibbUkk4eihYg6X9qZdwNv"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 261206,
+      "name": "be no one",
+      "url": "https://open.spotify.com/track/0fVNG78xrpckyKseNP5XBv"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "REB00T MYSELF (feat. Tired Violence)",
+        "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
+      },
+      "artists": [
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        },
+        {
+          "name": "Tired Violence",
+          "url": "https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "REB00T MYSELF (feat. Tired Violence)",
+      "url": "https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "80486DX",
         "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "\u00c1mr",
+        "url": "https://open.spotify.com/album/5w24JkPfkFs4PPVSnrzO1y"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Arcana Imperii",
+      "url": "https://open.spotify.com/track/3Vv0Lsh8rGZZSckd5PsOzd"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "ABYSS",
+        "url": "https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "duration_ms": 151911,
+      "name": "ABYSS",
+      "url": "https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Providencia",
         "url": "https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 444306,
       "name": "Providencia III - La Flora Que Crece Alrededor de Nuestras Catedrales",
       "url": "https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
-      },
-      "artists": [
-        {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     }
   ],
   "unique_name": "Alternative Metal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,244 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,233 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,6 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 36 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 37 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 | 38 | [Part Time Lover](https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:06 |
-| 39 | [Gonna Give It To Ya](https://open.spotify.com/track/2oqXUzTy8Pt1FMXrsdD4De) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:51 |
+| 39 | [Gonna Give It To Ya](https://open.spotify.com/track/12LKTGOxhik5p08cIpaa6t) | [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:51 |
 
-Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMGYwYzI2MjQ0YjQ4YzI1NDczNzA0YWZmNmQ1MjJhNDY1`
+Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMGQ4NzAyODdlODNlMzczMjQ3OTg3ZDBmNGYwOTM4ZDll`

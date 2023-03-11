@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-68 songs - 4 hr 31 min
+69 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ek Meri Akh Kashni](https://open.spotify.com/track/77B95qDRO4z5x4Rs1hYrO5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Hits of Surinder Kaur, Vol\. 1 & 2](https://open.spotify.com/album/0u8nU0LaB5vUHuEZ8jG9gI) | 3:26 | 2022-11-09 | 2022-11-13 |
 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 | 2022-07-16 |  |
 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/7nSVPEAgUFEMq84e9yIDsA) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music Of Punjab,Vol\. 1](https://open.spotify.com/album/7DVAPTaRl06o1qEMTG7jIA) | 3:22 | 2021-11-03 | 2022-07-29 |
+| [Heer](https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 4:07 | 2023-03-10 |  |
 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 | 2021-11-03 |  |
 | [Ikk Kudi \- Reprised Version](https://open.spotify.com/track/0gPW9v2NYGnWzhz5I06ajD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Udta Punjab](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 4:07 | 2021-11-03 |  |
 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 | 2022-03-03 |  |

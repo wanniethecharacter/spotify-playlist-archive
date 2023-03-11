@@ -1124,7 +1124,7 @@
           "url": "https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 269473,
@@ -1382,6 +1382,24 @@
       "duration_ms": 182787,
       "name": "Night Alive",
       "url": "https://open.spotify.com/track/71P8b7sfVjM9rIIJUhSvsD"
+    },
+    {
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
           "url": "https://open.spotify.com/artist/4puf0OYh6mMjTRFuprvekt"
         }
       ],
-      "date_added": "2023-03-08",
+      "date_added": "2023-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180000,
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 250211,
       "name": "Strange Harvest",
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"

@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49679,
+  "num_followers": 49687,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDZhMDUwZjBiNmVmNTgxZDFlODNhOTZhZmI4MGU4NTQ1",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDU0MjY4MTQ2ZWRiM2Y0ZDAyYmRlODBmZWVkOWZmNjZl",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Akimbo Alogo",
-        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Mitchell",
-          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Go For Soda",
-      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Akimbo Alogo",
+        "url": "https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Mitchell",
+          "url": "https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Go For Soda",
+      "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -823,6 +823,22 @@
       "duration_ms": 219853,
       "name": "Electric Pow Wow Drum",
       "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Boy In The Box",
         "url": "https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN"
       },
@@ -955,38 +955,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "How Far Shallow Takes You",
-        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Paint It Black",
-      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
-        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
-      },
-      "artists": [
-        {
-          "name": "Big Wreck",
-          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
-        }
-      ],
-      "duration_ms": 304906,
-      "name": "That Song",
-      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -1003,34 +971,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
+        "name": "How Far Shallow Takes You",
+        "url": "https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW"
       },
       "artists": [
         {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Raise A Little Hell",
-      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "American Woman",
-        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+      "duration_ms": 196106,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1051,6 +1003,38 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
+        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
+        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "American Woman",
+        "url": "https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 345013,
       "name": "Hello, I'm In Delaware",
       "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
+      },
+      "artists": [
+        {
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Raise A Little Hell",
+      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
     },
     {
       "added_at": "2022-09-13 21:55:44",

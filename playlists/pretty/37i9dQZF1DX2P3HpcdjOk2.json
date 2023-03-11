@@ -1,12 +1,12 @@
 {
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
-  "num_followers": 67886,
+  "num_followers": 68042,
   "original_name": "Glam Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDNhZjIwMGExMWNlM2JkMGZjMDBmOTUyOTliMGI2YzVm",
+  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDAyNzgwNThiNzI5MDE3ZDZhODI0MGVlZTdlZTdlODNm",
   "tracks": [
     {
       "added_at": "2022-11-17 16:01:17",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "Smash and Grab",
-        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
       },
       "artists": [
         {
-          "name": "Racey",
-          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
         }
       ],
-      "duration_ms": 207480,
-      "name": "Some Girls",
-      "url": "https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX"
+      "duration_ms": 329466,
+      "name": "In Every Dream Home A Heartache",
+      "url": "https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH"
     },
     {
       "added_at": "2022-11-17 16:01:17",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
+        "name": "Smash and Grab",
+        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
       },
       "artists": [
         {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+          "name": "Racey",
+          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
         }
       ],
-      "duration_ms": 329466,
-      "name": "In Every Dream Home A Heartache",
-      "url": "https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH"
+      "duration_ms": 207480,
+      "name": "Some Girls",
+      "url": "https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX"
     },
     {
       "added_at": "2022-11-17 16:01:17",

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-390 songs - 23 hr 2 min
+392 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Falaise de malaise](https://open.spotify.com/track/0Vgi5K94psHDQEfYWfkTje) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Falaise de malaise](https://open.spotify.com/album/3HI9GAaoFVfIm08lICX6Rm) | 3:24 | 2021-08-11 | 2021-10-01 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 | 2022-04-16 |
 | [Feu de forêt](https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:40 | 2021-01-03\* | 2022-07-29 |
-| [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 |  |
+| [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-03-11 |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
 | [File d'attente](https://open.spotify.com/track/5bKR5u7anmLED2AmivuVsR) | [David Marin](https://open.spotify.com/artist/4uzgr1qYBaIRZVCilj6vcU) | [File d'attente](https://open.spotify.com/album/6Gl0JODD6VE3Ubgs1ZZu8f) | 3:38 | 2021-07-19 | 2021-09-20 |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
@@ -113,6 +113,7 @@
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 |  |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
+| [Frisbee & marmelade](https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 3:24 | 2023-03-10 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 |  |
@@ -246,7 +247,7 @@
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 |  |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
-| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 |  |
+| [Mille et un](https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR) | 3:34 | 2022-07-08 | 2023-03-11 |
 | [Mille et un](https://open.spotify.com/track/4zxigPiHkizg6tHTDkC8GW) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Mille et un \- Single](https://open.spotify.com/album/2IIFewmPDob11DbgFCE7kq) | 3:34 | 2021-01-15 | 2022-07-29 |
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
@@ -373,6 +374,7 @@
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 |  |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-10-02 | 2022-07-29 |
 | [une minute](https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 4:08 | 2021-01-03\* | 2022-01-29 |
+| [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 | 2023-03-10 |  |
 | [Va falloir](https://open.spotify.com/track/2D4an0KduaNqR2HiKWxqbG) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Rick et les Bons Moments](https://open.spotify.com/album/1ndMy6KKQdBjsnnuvilkYi) | 4:15 | 2021-01-03\* | 2021-05-07 |
 | [Vagabond](https://open.spotify.com/track/24gdUgRzZk9K0Ch1wX1ldz) | [Anthony Roberge](https://open.spotify.com/artist/5GJ5EP7Wf5P2uRPy33k90R) | [Vagabond](https://open.spotify.com/album/56TXorWIpaSTRang2qquaf) | 2:37 | 2021-01-03\* | 2021-05-08 |
 | [Vagabond du nord](https://open.spotify.com/track/3cfllOZykdvoFblApcYcdv) | [Gabriel LaForest](https://open.spotify.com/artist/1TB6hkaU7lzD4QD5Cj88Aw) | [Vagabond du nord](https://open.spotify.com/album/3HMlrg0fCAKJFW3ziISJWK) | 3:50 | 2021-02-26 | 2021-05-08 |

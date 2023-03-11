@@ -1420,7 +1420,7 @@
     {
       "album": {
         "name": "chill oil",
-        "url": "https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6"
+        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
       },
       "artists": [
         {
@@ -1435,6 +1435,28 @@
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155454,
+      "name": "chill oil",
+      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
+    },
+    {
+      "album": {
+        "name": "chill oil",
+        "url": "https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
       "duration_ms": 155454,
       "name": "chill oil",
       "url": "https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR"
@@ -7022,10 +7044,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 127824,
       "name": "Passage - KNOTT ADD VIBES",
       "url": "https://open.spotify.com/track/59njcdgyK8AOZG6FINwv8R"
+    },
+    {
+      "album": {
+        "name": "Passage (KNOTT ADD VIBES)",
+        "url": "https://open.spotify.com/album/7wBEl65P75MYTxo9R7Sequ"
+      },
+      "artists": [
+        {
+          "name": "KNOTT",
+          "url": "https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127824,
+      "name": "Passage - KNOTT ADD VIBES",
+      "url": "https://open.spotify.com/track/5p7i7uM9HcXdOy6TCH0NXt"
     },
     {
       "album": {
@@ -8128,7 +8168,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
@@ -8218,7 +8258,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
@@ -9802,7 +9842,7 @@
     {
       "album": {
         "name": "Trip to nowhere",
-        "url": "https://open.spotify.com/album/4sqH9xvHvcGKLLTpV5EaG1"
+        "url": "https://open.spotify.com/album/5M7bZFaERTCVnXLONy7BSb"
       },
       "artists": [
         {
@@ -9817,6 +9857,28 @@
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Trip to nowhere",
+      "url": "https://open.spotify.com/track/3coM0MQwvOgwAx2Lndy3PC"
+    },
+    {
+      "album": {
+        "name": "Trip to nowhere",
+        "url": "https://open.spotify.com/album/4sqH9xvHvcGKLLTpV5EaG1"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        },
+        {
+          "name": "Kenichi Fukushima",
+          "url": "https://open.spotify.com/artist/1DyrMs3GFURTTbnF7lGtVc"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
       "duration_ms": 186500,
       "name": "Trip to nowhere",
       "url": "https://open.spotify.com/track/4ufRs4N50gTPxfwfW7k56r"

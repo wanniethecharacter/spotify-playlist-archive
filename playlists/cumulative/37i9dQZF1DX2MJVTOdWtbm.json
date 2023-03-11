@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
+  "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
   "name": "Latin R&B",
   "tracks": [
     {
@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00e9rcate a m\u00ed",
+        "url": "https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "Ross J. Rodrigo",
+          "url": "https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ac\u00e9rcate a m\u00ed",
+      "url": "https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD"
+    },
+    {
+      "album": {
         "name": "Aj\u00e1",
         "url": "https://open.spotify.com/album/1qEiCOKtTqYhPjZrism2Ie"
       },
@@ -140,6 +162,24 @@
       "duration_ms": 142453,
       "name": "Aj\u00e1",
       "url": "https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl"
+    },
+    {
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     },
     {
       "album": {
@@ -252,7 +292,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 163124,
       "name": "Amor No Correspondido",
       "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
@@ -624,7 +664,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201230,
       "name": "Cerquita del Mar",
       "url": "https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo"
@@ -1434,7 +1474,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185293,
       "name": "el vuelo",
       "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
@@ -2103,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "La Musa",
+        "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101739,
+      "name": "La Musa",
+      "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "album": {
         "name": "La Original",
         "url": "https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr"
       },
@@ -2332,7 +2390,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 137794,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
@@ -2513,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
@@ -2679,6 +2755,32 @@
     },
     {
       "album": {
+        "name": "Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "album": {
         "name": "nada que decir",
         "url": "https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK"
       },
@@ -2726,7 +2828,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 163516,
       "name": "Nela",
       "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
@@ -2806,6 +2908,24 @@
       "duration_ms": 273023,
       "name": "No Es Cierto",
       "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
+    },
+    {
+      "album": {
+        "name": "No Fui Solo Yo",
+        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202942,
+      "name": "No Fui Solo Yo",
+      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
     },
     {
       "album": {
@@ -2890,6 +3010,24 @@
       "duration_ms": 160000,
       "name": "No Pero S\u00ed",
       "url": "https://open.spotify.com/track/4S2ZWFS0PbSMbXGXkjqhEB"
+    },
+    {
+      "album": {
+        "name": "NO TE DEJO EN VISTO",
+        "url": "https://open.spotify.com/album/3bLyFrD9ik2NoFSqty1f07"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176675,
+      "name": "NO TE DEJO EN VISTO",
+      "url": "https://open.spotify.com/track/7G3uxNsW5iRcO7ITwFf9YO"
     },
     {
       "album": {
@@ -3456,7 +3594,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 150000,
       "name": "QUIEN ES ESA",
       "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
@@ -3648,7 +3786,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 156477,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"

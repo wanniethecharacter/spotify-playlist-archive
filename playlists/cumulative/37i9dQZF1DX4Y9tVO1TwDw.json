@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-16",
-  "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Kali Uchis",
+  "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Eddie Zuko",
   "name": "MADE",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186000,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/0s0911eZbCQY93FjUYmTRr"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "La Ingenua",
+        "url": "https://open.spotify.com/album/7F9ZVsDDH12Z7L0sQULRt5"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217072,
+      "name": "La Ingenua",
+      "url": "https://open.spotify.com/track/4WuGyMWj0g7BO5WfiDyVJU"
+    },
+    {
+      "album": {
         "name": "Lost Tribes",
         "url": "https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm"
       },
@@ -1440,6 +1458,24 @@
       "duration_ms": 155439,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreaming",
+        "url": "https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW"
+      },
+      "artists": [
+        {
+          "name": "Karina Magallon",
+          "url": "https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Lucid Dreaming",
+      "url": "https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq"
     },
     {
       "album": {
@@ -1945,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -2053,6 +2107,28 @@
     },
     {
       "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+    },
+    {
+      "album": {
         "name": "Si Te Preguntan...",
         "url": "https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9"
       },
@@ -2152,7 +2228,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212727,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2Gkjiu3HPOcK4qVDFRdrCE"
@@ -2524,7 +2600,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186000,
       "name": "Zarna",
       "url": "https://open.spotify.com/track/2m3x9amJXUtxD12K3ZuaAg"

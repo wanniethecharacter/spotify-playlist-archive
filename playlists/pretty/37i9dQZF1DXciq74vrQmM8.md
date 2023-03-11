@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. delilah bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,488 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,692 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 80 | [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 |
 
-Snapshot ID: `MTY3ODQwNjQwMCwwMDAwMDAwMGY0OTZhNDY2NWQ2MzFhODI2M2EwMTNjNGQwNGM1MjMw`
+Snapshot ID: `MTY3ODQ0NTMxMSwwMDAwMDAwMDQzMzEwNmI0NzkwNjdmNGYxZjg4ZmUzODY5YzcwMzZk`

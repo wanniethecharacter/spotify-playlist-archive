@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-637 songs - 1 day 11 hr 55 min
+638 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-08 | 2022-11-12 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-24 | 2023-02-01 |
+| [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-03-10 |  |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-24 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-07 | 2023-01-13 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-04-07 | 2021-05-06 |
@@ -506,7 +507,7 @@
 | [מה אברך](https://open.spotify.com/track/4JOXC3BL0NAZOCVL4zOEUv) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0Wes9s8uPfGDGJhT1DGJyC) | 4:01 | 2022-05-05 | 2022-05-07 |
 | [מה אברך](https://open.spotify.com/track/4NAts5vLoJITCYBheIUp8g) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0iM8ysKXxOALiYIYEY2YQY) | 4:04 | 2021-04-16 | 2021-04-17 |
 | [מה אתה רוצה](https://open.spotify.com/track/1inqeo4qN7t9nSPiwZtR82) | [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo) | [מה אתה רוצה](https://open.spotify.com/album/1tpJxzwq6ElBS8cKXe61nW) | 2:26 | 2021-03-27\* | 2021-07-09 |
-| [מה עובר לך בראש](https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [מה עובר לך בראש](https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3) | 2:33 | 2022-08-24 | 2023-03-04 |
+| [מה עובר לך בראש](https://open.spotify.com/track/6d8ZHsSyTg6ABLkWNCZdSy) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [מה עובר לך בראש](https://open.spotify.com/album/4ggLAyFiTb8YnEuFQ85oq3) | 2:33 | 2022-08-24 |  |
 | [מה פספסתי](https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מה פספסתי](https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe) | 2:19 | 2021-12-16 | 2022-12-25 |
 | [מה קרה](https://open.spotify.com/track/5j36y0eeE3I7kCBYIsKqBF) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מה קרה](https://open.spotify.com/album/7gbA698J3JWJsomCqxR1o9) | 2:23 | 2022-01-03 | 2022-03-27 |
 | [מה שנפל מהידיים](https://open.spotify.com/track/3Q1bZ5hE0mOKSyTN96deya) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [The 8](https://open.spotify.com/album/5dMa0I7cyLtXLn47oxGpph) | 3:01 | 2021-03-27\* | 2021-06-27 |
@@ -551,7 +552,7 @@
 | [סביבון סוב סוב סוב](https://open.spotify.com/track/58NBSNdG8s0jSikjPRmdjS) | [Hana Laszlo](https://open.spotify.com/artist/6cp8bVNeuwo43R1Z0eyn7y) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:43 | 2021-11-30 | 2022-12-21 |
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2022-10-07 |
-| [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 |  |
+| [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 | 2023-03-11 |
 | [סהרה + לבדי](https://open.spotify.com/track/6Tfl8NsXQSMRsTBjgdWtHs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סהרה + לבדי](https://open.spotify.com/album/57d2RFiCo2VlaqonKO51g7) | 3:58 | 2023-03-01 | 2023-03-03 |
 | [סהרה \- Live](https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [סהרה \(Live\)](https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk) | 4:32 | 2022-07-29 |  |
 | [סוף של כל סיפור](https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [סוף של כל סיפור](https://open.spotify.com/album/2Id1zXgJuXAXSe2xzBGJST) | 3:17 | 2022-01-20 | 2022-02-13 |
@@ -629,7 +630,7 @@
 | [שמש](https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [שמש](https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U) | 3:58 | 2021-08-25 | 2023-02-20 |
 | [שני ילדים בעולם](https://open.spotify.com/track/3qWDOGP2SBMLQ3nzMIkNbz) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [שני ילדים בעולם](https://open.spotify.com/album/0LtCEsb3XEhynpgFLiWcLV) | 3:06 | 2021-03-27\* | 2021-09-26 |
 | [שער הרחמים](https://open.spotify.com/track/6OVPuT8LP83moqJYC1GpDm) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:46 | 2022-05-05 | 2022-05-07 |
-| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 |  |
+| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 | 2023-03-11 |
 | [שקיעות אדומות](https://open.spotify.com/track/74pfNNxGlwSyokwtqxHcDa) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שקיעות אדומות](https://open.spotify.com/album/4xfBD4GDwXMPHczd2pts2j) | 3:32 | 2021-03-27\* | 2021-12-07 |
 | [שרק תחייך](https://open.spotify.com/track/7vn9SIc4NraLuIMzUeCK2o) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [שרק תחייך](https://open.spotify.com/album/07tEZylbG1KjXkvzsRnLqb) | 3:16 | 2021-03-27\* | 2021-07-10 |
 | [תחנונים](https://open.spotify.com/track/4FgSWdbZCkJwQ10XWJzH3X) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 3:42 | 2023-02-23 | 2023-02-27 |

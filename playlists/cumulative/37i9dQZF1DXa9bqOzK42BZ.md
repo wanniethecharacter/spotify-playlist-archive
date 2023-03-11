@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-68 songs - 7 hr 16 min
+70 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 |  |
 | [Mtawala](https://open.spotify.com/track/37MDQQIuuJ7PXp5WmxJ4Ud) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mtawala](https://open.spotify.com/album/0GMXCuggw4s5gBQ9X9LhT2) | 4:54 | 2022-06-24 |  |
 | [Mungu Mwenye Nguvu](https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR) | [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Mungu Mwenye Nguvu](https://open.spotify.com/album/2rNVMn4XGUtZewH3WfZNGm) | 7:32 | 2022-06-24 |  |
+| [Naogopa](https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 4:36 | 2023-03-10 |  |
 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 | 2022-06-24 |  |
-| [Nasema Asante](https://open.spotify.com/track/7qNQyLCGokzNJvntxK9bSs) | [Sarah K](https://open.spotify.com/artist/3FHjTaYYx0pFSyPUMnbjyv) | [Nasema Asante](https://open.spotify.com/album/6kjOtcXq1MuBrCDsKqSyKI) | 7:24 | 2022-06-24 |  |
+| [Nasema Asante](https://open.spotify.com/track/7qNQyLCGokzNJvntxK9bSs) | [Sarah K](https://open.spotify.com/artist/3FHjTaYYx0pFSyPUMnbjyv) | [Nasema Asante](https://open.spotify.com/album/6kjOtcXq1MuBrCDsKqSyKI) | 7:24 | 2022-06-24 | 2023-03-11 |
 | [Natamani Wamebarikiwa](https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E) | [Pastor Anthony Musembi J.C.C\. Mombasa](https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1) | [Pacato Worship](https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg) | 7:00 | 2022-06-24 |  |
 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 | 2022-06-24 |  |
 | [Ni Nani Kama Weuwe](https://open.spotify.com/track/26VzXnAUdVTAAoLVyHeM2b) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Jina La Yesu](https://open.spotify.com/album/7h1suDcb3w0runnyrV1Wfq) | 4:46 | 2022-06-24 |  |
@@ -68,8 +69,9 @@
 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2022-06-24 |  |
 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2022-06-24 | 2022-11-13 |
 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 | 2022-06-24 |  |
-| [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 |  |
+| [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 | 2023-03-11 |
 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 | 2022-06-24 |  |
+| [Wewe Ni Mungu](https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 3:35 | 2023-03-10 |  |
 | [Wewe Ni Zaidi](https://open.spotify.com/track/6tbeRA24xQkjvqB7nmqcfo) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:20 | 2022-06-24 |  |
 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 | 2022-06-24 |  |
 | [Yatupasa Kushukuru](https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 4:43 | 2022-06-24 |  |

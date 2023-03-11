@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-610 songs - 1 day 6 hr 55 min
+611 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Avaz Avaz](https://open.spotify.com/track/1bYbiK0GZbRoCw8S2nq4pw) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 2:22 | 2021-05-30 | 2021-05-31 |
 | [Aynen Öyle](https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Aynen Öyle](https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68) | 2:33 | 2021-09-10 | 2022-01-23 |
 | [Ağlattın](https://open.spotify.com/track/0MH7sKCOu2bk8RSbC6GAP7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağlattın](https://open.spotify.com/album/4sruFA5F7yG1sYAs5lcI9z) | 3:00 | 2022-02-12 | 2022-04-13 |
-| [Ağlaya Ağlaya](https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ağlaya Ağlaya](https://open.spotify.com/album/7fm45WtDtRH4ucgurU9BW0) | 3:24 | 2022-11-08 | 2023-03-07 |
+| [Ağlaya Ağlaya](https://open.spotify.com/track/6TnN1PLNMaIBvnUB8mdVT1) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ağlaya Ağlaya](https://open.spotify.com/album/7fm45WtDtRH4ucgurU9BW0) | 3:24 | 2022-11-08 |  |
 | [Aşk Sadece Anlayana](https://open.spotify.com/track/62nygHWpn3wLwnZmJ8keVs) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aşk Sadece Anlayana](https://open.spotify.com/album/77Mq4lxs2TAQi4goqZgEaK) | 2:01 | 2022-05-14 | 2022-12-04 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/3UPrUZ9mJWEPjXzgF7GS8f) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/6xXxBbSVqa27Wsk04DacTb) | 3:43 | 2022-01-10 | 2022-02-03 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/6cygxIDSnHZtXI6LoidQdl) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Yaşım Çocuk](https://open.spotify.com/album/1rNrR7VKloorfaGSqunZoM) | 3:43 | 2021-09-14 | 2021-09-19 |
@@ -155,7 +155,7 @@
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dayanamam](https://open.spotify.com/track/4V7xs605t9EWS81GSbP1il) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Dayanamam](https://open.spotify.com/album/3tV1CUeVadMIGv7idVrBtv) | 2:37 | 2022-12-10 | 2022-12-20 |
 | [deniyorum, ama](https://open.spotify.com/track/4yhO1qzAICkyoN0w2P2Za4) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [deniyorum, ama](https://open.spotify.com/album/59jm1W5RpcgHVuyymSn3nL) | 3:05 | 2022-12-16 |  |
-| [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* |  |
+| [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* | 2023-03-11 |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
@@ -388,6 +388,7 @@
 | [Memur](https://open.spotify.com/track/3fYaXsoqjyXl23azMihWBZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Memur](https://open.spotify.com/album/1O8TqhH7uk03m7OJ1GkjfQ) | 2:44 | 2021-04-26 | 2021-05-07 |
 | [Mercedes\-Benz](https://open.spotify.com/track/6KXCI6kj8Pj5zaJWcpXzKd) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Mercedes\-Benz](https://open.spotify.com/album/0xiWift9upRyhr0Yu8YZtO) | 2:37 | 2021-05-29 | 2021-08-21 |
 | [Merhamet Yok](https://open.spotify.com/track/4uygtPMHsP9DBlJUb7um4s) | [Orkundk](https://open.spotify.com/artist/6D4pFxSoZkmJJnFUtSkWum), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Merhamet Yok](https://open.spotify.com/album/72iWjIqFHLOdSwWOucXKWk) | 3:14 | 2021-04-05 | 2021-04-11 |
+| [MERVE \- Masada Chivas](https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z) | 2:39 | 2023-03-10 |  |
 | [Mesafe](https://open.spotify.com/track/68DrWFjKkrn2W3mkIRP3bc) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Mesafe](https://open.spotify.com/album/1bp7hCG7HxaJ0kUjD3eykN) | 5:01 | 2021-03-27\* | 2021-05-23 |
 | [METEOR](https://open.spotify.com/track/4LsPjyty35CPGnvgy4aybJ) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [METEOR](https://open.spotify.com/album/7zzqGk0dc86AYRtcLE532V) | 2:10 | 2021-04-18 | 2021-04-19 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
@@ -547,7 +548,7 @@
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 | 2022-11-25 |
 | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/track/2Pe8d9oClBgLkkz2N35AiN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/album/1aa3sNKu8ulpGRTBVl2ck2) | 2:24 | 2022-08-26 |  |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2022-09-10 | 2023-01-03 |
-| [Unuttun mu Beni](https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Öptüm](https://open.spotify.com/album/1hOFeE5hZYxIO72UKhnrWS) | 4:10 | 2023-03-07 |  |
+| [Unuttun mu Beni](https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Öptüm](https://open.spotify.com/album/1hOFeE5hZYxIO72UKhnrWS) | 4:10 | 2023-03-07 | 2023-03-11 |
 | [Unutulacak Dünler](https://open.spotify.com/track/3aXTeIVnDvo2MT1xLTdGK3) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [HİZA](https://open.spotify.com/album/730v11m4FWgDUnl9Gte19s) | 4:55 | 2021-03-27\* | 2021-05-03 |
 | [UZAK](https://open.spotify.com/track/4WcONHiiZh1pCILKIVOsPc) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:35 | 2021-06-13 | 2021-06-19 |
 | [Uzak Ol](https://open.spotify.com/track/3UtxLgkmTZZkPr6scOEglC) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Uzak Ol](https://open.spotify.com/album/690HvmsEBKLv5gsKdoZdVi) | 2:57 | 2021-03-27\* | 2021-07-04 |

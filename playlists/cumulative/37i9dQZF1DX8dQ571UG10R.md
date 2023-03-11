@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-66 songs - 4 hr 36 min
+67 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Esse é o melhor Rap do Levi](https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [Esse é o melhor Rap do Levi](https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF) | 2:43 | 2022-02-22 |  |
 | [Estilo Ninja](https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO) | 3:26 | 2022-02-22 | 2022-11-12 |
 | [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 | 2022-05-27 |  |
-| [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 | 2022-02-22 |  |
+| [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 | 2022-02-22 | 2023-03-11 |
 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 | 2022-02-22 |  |
 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/2QAbWL5uhxEJmv28GJEkzr) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 | 2022-02-22 |  |
 | [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 | 2022-05-27 |  |
@@ -68,6 +68,7 @@
 | [Tipo Kisame](https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Kisame](https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3) | 3:11 | 2022-02-22 |  |
 | [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 | 2022-02-22 |  |
 | [Tipo Madara](https://open.spotify.com/track/5X4H4ZCxjwHFuj5CMtgJ6s) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Madara](https://open.spotify.com/album/7drkyFzSw3TI0sg7JPlynu) | 3:18 | 2022-02-22 |  |
+| [Tipo Merus](https://open.spotify.com/track/1mGOmr1USqOYEkGKymzmIQ) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Merus](https://open.spotify.com/album/75LVPBkmocAq32tQhXqG7k) | 3:12 | 2023-03-10 |  |
 | [Tipo Narutin](https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Narutin](https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF) | 3:08 | 2022-02-22 |  |
 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 | 2022-02-22 |  |
 | [Tipo Tobirama](https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobirama](https://open.spotify.com/album/1dAqa80c24lQQyj0sdObb7) | 2:40 | 2022-02-22 |  |

@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-150 songs - 9 hr 25 min
+151 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hawái \(Post\-Punk\)](https://open.spotify.com/track/6QuHQ5AVWQwuO4Xssh7yz7) | [Saúl De los Santos](https://open.spotify.com/artist/3nlOVgapNG6OFRYxtTrIPA) | [Hawái \(Post\-Punk\)](https://open.spotify.com/album/71Igp4XPm15cNCXYdCVxmU) | 3:28 | 2022-04-26 |  |
 | [Historia](https://open.spotify.com/track/0t0n9or0W1VHgxQmsM6gBt) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm) | 3:17 | 2022-04-26 | 2022-07-29 |
 | [Historia](https://open.spotify.com/track/4NSZG57YtWfNbNH4ZUD7DE) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:17 | 2022-04-26 |  |
+| [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 | 2023-03-10 |  |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 | 2022-01-28 | 2022-07-29 |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 | 2022-01-28 |  |
 | [Ignis](https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ignis](https://open.spotify.com/album/3T2ngs2uRrlCWvG6t2mfvQ) | 3:19 | 2022-01-28 | 2023-01-07 |

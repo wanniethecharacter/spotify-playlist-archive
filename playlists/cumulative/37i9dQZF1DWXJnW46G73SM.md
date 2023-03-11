@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: زاب ثروت، ساري هاني، هادز و امير عيد
 
-367 songs - 21 hr 27 min
+369 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Batasif Ala Al Taakhir](https://open.spotify.com/track/6UdCrARuFgY9HOujIpKp7v) | [Foulah Al Jazairiyah](https://open.spotify.com/artist/3oKCS4wPK5jUc1liywVGMG) | [Batasif Ala Al Taakhir](https://open.spotify.com/album/5i2RPeIet2dw9yR3D3VsaU) | 3:33 | 2021-12-23 | 2022-01-21 |
 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 | 2023-01-25 | 2023-03-08 |
 | [Betaa Zaman](https://open.spotify.com/track/3tRFSAqNZRSi3tW09dVGNW) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Betaa Zaman](https://open.spotify.com/album/7pyyEiSY1qrUO6JXOrcPpK) | 4:10 | 2021-12-23 | 2022-03-10 |
-| [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 |  |
+| [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 | 2023-03-11 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-12 | 2023-02-24 |
 | [CARTHA](https://open.spotify.com/track/3GjlJCtdD4VTuXSPB9WTWJ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [CARTHA](https://open.spotify.com/album/4ivmPNd6b6xmwNJN2iXzOH) | 2:25 | 2022-05-03 | 2022-05-22 |
 | [CHAPTER V: FADAKI](https://open.spotify.com/track/7bLqMAFFxl3NcMS1AJXyaA) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78), [Rahal](https://open.spotify.com/artist/6NwB6r8M14oNy747uzGj7Q) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:32 | 2023-02-14 |  |
@@ -108,7 +108,7 @@
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 | 2022-09-29 |
 | [Enty Helwa](https://open.spotify.com/track/5V6SbJmwZowWofLMZYzMjI) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Enty Helwa](https://open.spotify.com/album/5MPMR67fgV8BzuIHD5UO88) | 2:27 | 2022-10-13 | 2023-01-03 |
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
-| [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-02 |  |
+| [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-02 | 2023-03-11 |
 | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/track/5OFdNtPy9sgIw7UMkKhpLn) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/album/7IxVks2oX1JIfmX23Fp2Nh) | 3:33 | 2022-12-15 | 2023-02-10 |
 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 | 2021-12-23 | 2022-01-28 |
 | [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 | 2023-01-31 | 2023-03-08 |
@@ -181,6 +181,7 @@
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |
 | [lawen hayatak](https://open.spotify.com/track/0SlWoAV4uthRhahfVpQk8D) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [lawen hayatak](https://open.spotify.com/album/0ZAYYAv1gKfSLzIKoUpZk1) | 4:02 | 2023-01-06 | 2023-02-17 |
 | [Layali Taweela](https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:58 | 2021-12-29 | 2022-03-18 |
+| [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 | 2023-03-10 |  |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-01 | 2022-05-19 |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
 | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/track/6XqswjwRHsf5DMSdxEhFSm) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/album/2kSwBV93jeWgrbYcLUVXHV) | 3:45 | 2022-10-26 | 2023-01-08 |
@@ -297,6 +298,7 @@
 | [Ye'zeek](https://open.spotify.com/track/7kqEwWWW4pseVr6AsXT0zz) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Ye'zeek](https://open.spotify.com/album/0IdEgfAZnIdRLaoje0yEmK) | 4:38 | 2022-02-01 | 2022-05-19 |
 | [Yegy Menha / Men Film Hashtag Gawwzny](https://open.spotify.com/track/4WyUnySbjZajrRUm9fAzWo) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Yegy Menha / Men Film Hashtag Gawwzny](https://open.spotify.com/album/13GIt02TWZjixo3i26W9hM) | 3:10 | 2022-10-27 | 2023-01-20 |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2022-02-17 | 2022-06-03 |
+| [آلة الزمن](https://open.spotify.com/track/5LMtt9rEaPrhgQDx7TpgJS) | [Mohamed Attia](https://open.spotify.com/artist/2mANCpyw2C2TpO5rj4zV9N) | [آلة الزمن](https://open.spotify.com/album/5TmXAuVfi9PhRA0CvjzcLX) | 3:08 | 2023-03-10 |  |
 | [أتعدي حدودي](https://open.spotify.com/track/4KSLhwP4wUyGoSe2Wj2p0v) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [أتعدي حدودي](https://open.spotify.com/album/6GIKO9KvzuF4njYBJIYNot) | 4:21 | 2022-06-02 | 2022-08-26 |
 | [أحلامي مش بالليل](https://open.spotify.com/track/74ot8VQfzMdaLtNt53uwFR) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [أحلامي مش بالليل](https://open.spotify.com/album/3db6y1DVSHkcHUw84mR7F1) | 2:53 | 2022-11-03 | 2023-01-20 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 | 2022-10-28 |

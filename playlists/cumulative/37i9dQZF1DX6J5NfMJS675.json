@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369880,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234546,
       "name": "Colonia",
       "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
@@ -1592,6 +1610,24 @@
       "duration_ms": 387807,
       "name": "Control - Original Mix",
       "url": "https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356818,
+      "name": "Cooper",
+      "url": "https://open.spotify.com/track/38hnYtXG45goEMLWKqQ5Il"
     },
     {
       "album": {
@@ -3514,7 +3550,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 411940,
       "name": "HEY DJ",
       "url": "https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv"
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 302686,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/0rRktaJzIA6OYB82s6r8jz"
@@ -4401,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Life Moves Fast",
+        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233673,
+      "name": "Life Moves Fast",
+      "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
+    },
+    {
+      "album": {
         "name": "Light In The Dark",
         "url": "https://open.spotify.com/album/4r2co3jicUbmgAKlYMIsl3"
       },
@@ -4528,7 +4582,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 468529,
       "name": "Love Those Who Fight",
       "url": "https://open.spotify.com/track/6JzuVyRDL8QwQKAQjL2BLk"
@@ -4550,7 +4604,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 329188,
       "name": "Luzifer - feat. Ufo361",
       "url": "https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg"
@@ -5093,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Never Go Back To Sleep",
+        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Never Go Back To Sleep",
+      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
+    },
+    {
+      "album": {
         "name": "Never Stop",
         "url": "https://open.spotify.com/album/1iMA7zXdxdjpCRzwm6NPMM"
       },
@@ -5427,6 +5499,24 @@
     },
     {
       "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4ErEn5Ay9peV0PHF1AmtMn"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429204,
+      "name": "Once Again - Original Mix",
+      "url": "https://open.spotify.com/track/3N81FqYBsJLkPyuzHdqgUA"
+    },
+    {
+      "album": {
         "name": "SCHIMMER HALLE EP",
         "url": "https://open.spotify.com/album/5ZtuWCYke7LOQ5rNndNsGY"
       },
@@ -5522,6 +5612,28 @@
       "duration_ms": 374000,
       "name": "Paranormal - Original Mix",
       "url": "https://open.spotify.com/track/7BPw1L2hMs2quFOFw13SeI"
+    },
+    {
+      "album": {
+        "name": "Babylonia",
+        "url": "https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        },
+        {
+          "name": "ParteNope",
+          "url": "https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311670,
+      "name": "Perzechella",
+      "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
     },
     {
       "album": {
@@ -6044,7 +6156,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 401165,
       "name": "Reddo",
       "url": "https://open.spotify.com/track/6TDGXhuLnKwiSQ5WxRufAo"
@@ -6637,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Silence Your Mind",
+        "url": "https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240538,
+      "name": "Silence Your Mind",
+      "url": "https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF"
+    },
+    {
+      "album": {
         "name": "Simplicity",
         "url": "https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB"
       },
@@ -7012,7 +7142,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234130,
       "name": "Techno in Space (Edit)",
       "url": "https://open.spotify.com/track/6SBOX5kbw63zSG4GODenAO"
@@ -8403,6 +8533,24 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/62uKgZ2NsAbc6XFG2jRui0"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5nwL8tSlpy4T6XLb0NdzVW"
+    },
+    {
+      "album": {
         "name": "Watchers of the Sky EP",
         "url": "https://open.spotify.com/album/5BjUCt0Vil1F5gWBKeumT3"
       },
@@ -8712,7 +8860,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 414545,
       "name": "You Are Mine - Original Mix",
       "url": "https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5"

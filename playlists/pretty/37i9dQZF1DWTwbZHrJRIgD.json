@@ -1,12 +1,12 @@
 {
   "description": "Let these happy tunes put a smile on your face. Cover - Dear Zindagi",
-  "num_followers": 157155,
+  "num_followers": 157594,
   "original_name": "Happy Vibes ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyODIwMCwwMDAwMDAwMGI1N2Y5ZjQyOWRiMTliYzY2YWUzMzg3NTczZDUyNTY2",
+  "snapshot_id": "MTY3NzgyODIwMCwwMDAwMDAwMDQ3Mzk5NzhiZDVmN2Y1MjBkOWY1N2RhZWMxYzBkYTQy",
   "tracks": [
     {
       "added_at": "2023-03-03 07:23:20",
@@ -277,7 +277,7 @@
         }
       ],
       "duration_ms": 266278,
-      "name": "Mileya Mileya (From \"Happy Ending)",
+      "name": "Mileya Mileya",
       "url": "https://open.spotify.com/track/2KpxQeRbF8ei9u1BeAOdBL"
     },
     {
@@ -975,8 +975,8 @@
     {
       "added_at": "2023-03-03 07:23:20",
       "album": {
-        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v"
+        "name": "Love Aaj Kal",
+        "url": "https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf"
       },
       "artists": [
         {
@@ -986,15 +986,11 @@
         {
           "name": "Sunidhi Chauhan",
           "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
       "duration_ms": 257440,
-      "name": "Chor Bazari",
-      "url": "https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor"
+      "name": "Chor Bazari (From \"Love Aaj Kal \")",
+      "url": "https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr"
     },
     {
       "added_at": "2023-03-03 07:23:20",

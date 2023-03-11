@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2037280,
+  "num_followers": 2037512,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTMxOTgsMWVkZWExNzQxZjY4MjNkZDVmYmU5ODgxYzFlYjU4NTA2NmIxMzIzOA==",
+  "snapshot_id": "MTMyMDAsM2U2MDc5ZDk0OTkxN2MzMzU0M2FhYThkZmFkMDBjMzUwODU3YWQ0Yw==",
   "tracks": [
     {
       "added_at": "2023-03-06 03:11:58",
@@ -443,6 +443,34 @@
       "duration_ms": 141098,
       "name": "Ur Perfect I Hate It",
       "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
+    },
+    {
+      "added_at": "2023-03-10 15:44:04",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/6rWp0YzgUDib50H6zYQVCy"
+      },
+      "artists": [
+        {
+          "name": "Rev Lane",
+          "url": "https://open.spotify.com/artist/5FikemeDBPnFrW5mL7dAOd"
+        },
+        {
+          "name": "Gunpoint",
+          "url": "https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu"
+        },
+        {
+          "name": "Nick Yorko",
+          "url": "https://open.spotify.com/artist/0Kp37dYTLzLkV9EndnDsHZ"
+        },
+        {
+          "name": "418",
+          "url": "https://open.spotify.com/artist/0gFaXWb7YkFAGj8bVJLpjh"
+        }
+      ],
+      "duration_ms": 232584,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/3sSWpHdkiwuZaS7tPdDJig"
     },
     {
       "added_at": "2023-03-06 03:11:58",

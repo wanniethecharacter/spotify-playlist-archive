@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Miley Cyrus
 
-294 songs - 15 hr 28 min
+296 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Outside of Town](https://open.spotify.com/track/1Tavucpw0XO90ODhWzcYST) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Outside of Town](https://open.spotify.com/album/4fESdemqdOvImBKPwC5XGp) | 4:46 | 2023-02-24 | 2023-03-03 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 | 2023-03-03 |
 | [Pa Pa Pa](https://open.spotify.com/track/5zFv1IbxFVOcKutfkVUDCu) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu) | [Pa Pa Pa](https://open.spotify.com/album/2bF9iZ0Vx4WfntnXMYzCFZ) | 1:36 | 2023-03-09 |  |
-| [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepherd](https://open.spotify.com/artist/7JATQ4iReEoimQFZPIjxF5) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 | 2023-03-09 |  |
+| [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepard](https://open.spotify.com/artist/5iYhkPU2FLcywV0y7n7Kt6) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 | 2023-03-09 |  |
 | [Paranoid](https://open.spotify.com/track/46bGW7GOIBT808Y0ZbMkTR) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Capo Di Tutti](https://open.spotify.com/album/0NwC2X9EvL5fjLo6JXfcvK) | 3:57 | 2023-03-09 |  |
 | [Parfum](https://open.spotify.com/track/5fqAohRCfxIzqw5IuUtBiS) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online/Offline](https://open.spotify.com/album/75jQXhlYruuc9JkLZBIVax) | 2:42 | 2023-02-24 | 2023-03-03 |
 | [Passionate \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Just For Clarity 2](https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE) | 2:50 | 2023-03-09 |  |
@@ -227,6 +227,7 @@
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-02 | 2023-03-10 |
 | [Sad On Sad](https://open.spotify.com/track/58tCKnmneWSVpCc6w4CKtf) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Sad On Sad](https://open.spotify.com/album/39s5APgYt8nAuHlpPbJkpi) | 3:29 | 2023-03-09 |  |
 | [San Francisco](https://open.spotify.com/track/26dnaMgClvgHgL70NSxL52) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Start Something](https://open.spotify.com/album/746egjhePjhE4dieLRcXvD) | 3:54 | 2023-03-02 | 2023-03-10 |
+| [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-09 |  |
 | [Shades Of Love \(feat\. The Joy\) \- Edit](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\) \[Edit\]](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-02-24 | 2023-03-03 |
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-02-24 | 2023-03-03 |
 | [Short up Shorts](https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:34 | 2023-02-24 | 2023-03-03 |
@@ -255,7 +256,8 @@
 | [Tell Me](https://open.spotify.com/track/3oAWeNXMlwbYx7pYyEsf0Q) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Seven](https://open.spotify.com/album/2oEAhLufIRgzr9MRfsak68) | 3:39 | 2023-03-02 | 2023-03-10 |
 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 | 2023-02-24 | 2023-03-03 |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-09 |  |
-| [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 | 2023-03-09 |  |
+| [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 | 2023-03-09 | 2023-03-11 |
+| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-09 |  |
 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 | 2023-03-09 |  |
 | [The Others](https://open.spotify.com/track/4mIdFTIezUhjuuDooUpIg2) | [Postcards From Mars](https://open.spotify.com/artist/7IXOXREuu6HjgHbHvNjjFO) | [The Others](https://open.spotify.com/album/3m8fuouNdEcXNwKJOe7kRm) | 5:55 | 2023-02-24 | 2023-03-03 |
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-24 | 2023-03-03 |

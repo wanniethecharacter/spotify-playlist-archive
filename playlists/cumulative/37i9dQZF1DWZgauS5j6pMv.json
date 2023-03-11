@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "7 Days, 9 years",
+        "url": "https://open.spotify.com/album/1ZXXU6AMHyMC2JwMwcuTqM"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142653,
+      "name": "7 Days, 9 years",
+      "url": "https://open.spotify.com/track/4yVGTqkczx3D0CSjBgOynw"
+    },
+    {
+      "album": {
         "name": "AA Side Single",
         "url": "https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN"
       },
@@ -4185,6 +4203,28 @@
     },
     {
       "album": {
+        "name": "Rollin' (Love Will Be Here)",
+        "url": "https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290637,
+      "name": "Rollin' (Love Will Be Here)",
+      "url": "https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg"
+    },
+    {
+      "album": {
         "name": "Running For Cover",
         "url": "https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX"
       },
@@ -4676,7 +4716,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207856,
       "name": "Sun Ray",
       "url": "https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq"
@@ -4858,7 +4898,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 165900,
       "name": "The Funk Prevails",
       "url": "https://open.spotify.com/track/1GBlKpgFl7gYxfoooq0il6"
@@ -5488,6 +5528,24 @@
       "duration_ms": 300040,
       "name": "WKND",
       "url": "https://open.spotify.com/track/4P0HTrVdkcKjnqNrEarf7T"
+    },
+    {
+      "album": {
+        "name": "Words With You",
+        "url": "https://open.spotify.com/album/6VmLEG6NQAuAXcVc1tjmg6"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235320,
+      "name": "Words With You",
+      "url": "https://open.spotify.com/track/5l8uDdlOiOJSFaojO6ZsbG"
     },
     {
       "album": {

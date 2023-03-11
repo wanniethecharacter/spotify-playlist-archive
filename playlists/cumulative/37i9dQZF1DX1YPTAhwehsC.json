@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 126720,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4bjAZhQQAsanXd6VGMmydN"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 215065,
       "name": "Bigger and Bigger",
       "url": "https://open.spotify.com/track/1N4kT5sgp2AE5smdqtaIU3"
@@ -2278,6 +2278,24 @@
       "duration_ms": 214187,
       "name": "Derrick Boleman",
       "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
+    },
+    {
+      "album": {
+        "name": "Devil's Work 2",
+        "url": "https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301445,
+      "name": "Devil's Work 2",
+      "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
     },
     {
       "album": {
@@ -3825,6 +3843,28 @@
     },
     {
       "album": {
+        "name": "GNARLY! (WITH ARMANI WHITE)",
+        "url": "https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147695,
+      "name": "GNARLY! (WITH ARMANI WHITE)",
+      "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
+    },
+    {
+      "album": {
         "name": "GO KUU (feat. Rayy Balla)",
         "url": "https://open.spotify.com/album/72MrteVGW8VJBK3VSDLB8z"
       },
@@ -5100,7 +5140,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 195293,
       "name": "Killer Bs",
       "url": "https://open.spotify.com/track/0Lm1lIulmYFTbom8IawHP1"
@@ -5250,6 +5290,28 @@
       "duration_ms": 150996,
       "name": "LBS",
       "url": "https://open.spotify.com/track/58WSRZe9jL2zTMyHsPA11g"
+    },
+    {
+      "album": {
+        "name": "Pain Provided Profit",
+        "url": "https://open.spotify.com/album/6CN9tFUX2EQIMakX86sN3R"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Jae Skeese",
+          "url": "https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Le Chop",
+      "url": "https://open.spotify.com/track/1N6lBW01dWgpsnfIYzeA7S"
     },
     {
       "album": {
@@ -5572,7 +5634,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 195996,
       "name": "Losing Control - pt. 2",
       "url": "https://open.spotify.com/track/7kwpZsCHroIUYvzjP1Hdaq"
@@ -6120,7 +6182,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 102352,
       "name": "MISSED IT",
       "url": "https://open.spotify.com/track/19JKdEbG7txfZxXoQJo3Pl"
@@ -6296,6 +6358,24 @@
       "duration_ms": 168720,
       "name": "Mountains (with Fivio Foreign & Young M.A)",
       "url": "https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5gGGPT54RzsFtdyjtfxQrm"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101772,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10"
     },
     {
       "album": {
@@ -7812,7 +7892,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 145007,
       "name": "PSA feat. Kyle Richh",
       "url": "https://open.spotify.com/track/0LHzdbZcQxANth09pZzeRn"
@@ -9220,7 +9300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161760,
       "name": "Slime-U-Out (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm"
@@ -9268,6 +9348,24 @@
       "duration_ms": 164608,
       "name": "Sniper Gang Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo"
+    },
+    {
+      "album": {
+        "name": "So DISRESPECTFUL",
+        "url": "https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121386,
+      "name": "So DISRESPECTFUL",
+      "url": "https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231"
     },
     {
       "album": {
@@ -9839,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "THE BOOK OF ENOCH",
+        "url": "https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo"
+      },
+      "artists": [
+        {
+          "name": "Armani Jordan",
+          "url": "https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "THE BOOK OF ENOCH",
+      "url": "https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa"
+    },
+    {
+      "album": {
         "name": "The Facts (feat. Young Devyn)",
         "url": "https://open.spotify.com/album/7B2yY2hUEafca5pbgyWi9t"
       },
@@ -10400,7 +10516,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189544,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/2KF1l4TqQ1e6NiblLyrnWC"
@@ -10762,6 +10878,28 @@
       "duration_ms": 255188,
       "name": "We Go Up (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/4o1WfX3N1GXDFsPCCDldYb"
+    },
+    {
+      "album": {
+        "name": "We On It (feat. Dboylo)",
+        "url": "https://open.spotify.com/album/5usObWbEH1bp2esxkRuoHk"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Dboylo",
+          "url": "https://open.spotify.com/artist/3B8UdBdI65YuIjUd8Ei0TM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "We On It (feat. Dboylo)",
+      "url": "https://open.spotify.com/track/6t6vAKG0JJocfZ1CFYZoMM"
     },
     {
       "album": {
@@ -11300,6 +11438,32 @@
       "duration_ms": 123552,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/4GWO4LeUE6fc4V5WVQ2MhQ"
+    },
+    {
+      "album": {
+        "name": "Back In My Prime",
+        "url": "https://open.spotify.com/album/0ni3klsEFpBZLUPi0ecYlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Hitmaka",
+          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "YKTV (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"
     },
     {
       "album": {

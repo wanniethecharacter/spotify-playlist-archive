@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "As Is",
+        "url": "https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo"
+      },
+      "artists": [
+        {
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148575,
+      "name": "As Is",
+      "url": "https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/1jqK0dSq52xEQBCg88FWh5"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 132000,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/2n6mF6xULADljCtpQkFnyc"
@@ -611,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Blank Page",
+        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335160,
+      "name": "Blank Page",
+      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
+    },
+    {
+      "album": {
         "name": "Blindsided",
         "url": "https://open.spotify.com/album/21NvjYBnFikMWyL3fUY0jg"
       },
@@ -662,6 +698,24 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "album": {
+        "name": "Blueberry Puff",
+        "url": "https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160639,
+      "name": "Blueberry Puff",
+      "url": "https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487"
     },
     {
       "album": {
@@ -1136,7 +1190,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 135493,
       "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
       "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
@@ -2412,7 +2466,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 192368,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/1YVmpBp53G1trEySVwJJPP"
@@ -4364,7 +4418,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 223786,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB"
@@ -6062,6 +6116,24 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
+    },
+    {
+      "album": {
+        "name": "Wood, Fire, Water, and Air",
+        "url": "https://open.spotify.com/album/4KkbIGJ5fogLAW1Po0o3X6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289093,
+      "name": "Who Made You?",
+      "url": "https://open.spotify.com/track/2NsixmlhcdY2aHxvMou0vb"
     },
     {
       "album": {

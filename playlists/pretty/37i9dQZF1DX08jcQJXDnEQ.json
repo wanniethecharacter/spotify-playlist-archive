@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 776618,
+  "num_followers": 777362,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY4NDMzNCwwMDAwMDAwMGQ4OGY3Y2VjYWFhZTgwNWRmN2FhOTQ2M2Y3MzgyYTE4",
+  "snapshot_id": "MTY3NzY4NDMzNCwwMDAwMDAwMGU2ZTBmZWMxYzc0NWQ2ODEwNWZkYmUyYTNlYWQzODlk",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 320520,
-      "name": "Dead Skin Mask",
-      "url": "https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Empire - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 321573,
       "name": "Jet City Woman - Remastered 2003",
       "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 320520,
+      "name": "Dead Skin Mask",
+      "url": "https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 355933,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "The Downward Spiral",
         "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 355933,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
     },
     {
       "added_at": "2023-03-01 15:25:34",

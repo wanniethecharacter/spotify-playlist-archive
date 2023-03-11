@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172729,
+      "name": "Before You go",
+      "url": "https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s"
+    },
+    {
+      "album": {
         "name": "Bela Vista",
         "url": "https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 150000,
       "name": "Easy On The Road Ahead",
       "url": "https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF"
@@ -1194,6 +1212,24 @@
       "duration_ms": 137808,
       "name": "Featherlight",
       "url": "https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154862,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v"
     },
     {
       "album": {
@@ -1594,6 +1630,24 @@
       "duration_ms": 109493,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/5vpRsRSqIETB8HiHzoJ9lV"
+    },
+    {
+      "album": {
+        "name": "Highway 62",
+        "url": "https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161074,
+      "name": "Highway 62",
+      "url": "https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G"
     },
     {
       "album": {
@@ -3289,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Sleeping In",
+        "url": "https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5"
+    },
+    {
+      "album": {
         "name": "Soft Echoes",
         "url": "https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV"
       },
@@ -4182,7 +4254,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161600,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp"
@@ -4344,7 +4416,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 140643,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG"

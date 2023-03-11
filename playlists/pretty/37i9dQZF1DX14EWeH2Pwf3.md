@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Rondodasosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,949 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,467 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 45 | [Need U 2Nite \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/4cfwlJOM85bCQ8drN9iY1r) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 2:41 |
 | 46 | [Caribe](https://open.spotify.com/track/5by3TCFHK3YRQzxpR9PcZ0) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Brando Luis](https://open.spotify.com/artist/4TPwT1hZ52JFhjpvIo7HIQ) | [Quanto Manca](https://open.spotify.com/album/4zxnDWLdTfs3UnOkPqaziK) | 2:20 |
 | 47 | [Triste \(feat\. Neima Ezza & Ernia\)](https://open.spotify.com/track/0yDjNkN0xMqiUm6NjvdLuH) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 3:10 |
-| 48 | [Marciapiedi](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Marciapiedi](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
+| 48 | [Marciapiedi \- feat\. Gemitaiz](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg), [Il Tre Beats](https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
 | 49 | [Bussola](https://open.spotify.com/track/2kNF8cF9KQhmGxNrVm8PAi) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Bussola](https://open.spotify.com/album/7AzZyWqZpsUP8HwwvL9CTZ) | 3:03 |
 | 50 | [CONTROL](https://open.spotify.com/track/4zw24KjosETzCFREA46qqB) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [CONTROL](https://open.spotify.com/album/3eiLSLT9OvnTjCgqUQrh4K) | 3:18 |
 

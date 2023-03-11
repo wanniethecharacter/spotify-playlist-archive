@@ -2,14 +2,14 @@
 
 ### [badass](https://open.spotify.com/playlist/37i9dQZF1DX2I7Ykltk83m)
 
-> killer songs from badass artists\. Cover: Madison Cunningham
+> killer songs from badass artists\. Cover: Tommy Lefroy
 
-328 songs - 19 hr 53 min
+329 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 2 4 3](https://open.spotify.com/track/7andc0MirzCmIlkcCjjJmV) | [Ohmme](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [3 2 4 3](https://open.spotify.com/album/7kFjHLW3eG86u87pUzCFIr) | 4:05 | 2021-11-14 | 2022-07-28 |
-| [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-05-20 |  |
+| [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-05-20 | 2023-03-11 |
 | [4th of july](https://open.spotify.com/track/703z4Q7y8h8tkTkON7qdwZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/76sAkYMfB4nu07luXtqMe1) | 2:56 | 2021-11-14 | 2022-07-29 |
 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 | 2022-04-15 |  |
 | [A Thousand Words](https://open.spotify.com/track/19kwQlRCSD21rRDRIRxJ6k) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [A Thousand Words](https://open.spotify.com/album/6M9ok7MDxoVgwddI71BbMY) | 2:31 | 2021-11-14 | 2022-04-24 |
@@ -330,6 +330,7 @@
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2023-01-27 |  |
 | [Wonder](https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Wonder](https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa) | 2:11 | 2021-11-14 | 2022-07-27 |
 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 | 2021-11-14 |  |
+| [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/3jE1H7U8EFjj8wcYPMtKuY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Write A List of Things To Look Forward To](https://open.spotify.com/album/0Agc23wEgrRlf0CgmZMWxn) | 2:48 | 2021-11-14 | 2022-07-29 |
 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 | 2022-05-20 |  |
 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 | 2021-11-14 |  |

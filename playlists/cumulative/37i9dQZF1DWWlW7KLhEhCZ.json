@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Ryu the Runner",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Kyan",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 106177,
       "name": "#Fodaseaspritelimpa",
       "url": "https://open.spotify.com/track/4Ip9LC27z5SAAEHmKKENXX"
@@ -1469,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Fique Chapado, Permane\u00e7a Produtivo",
+        "url": "https://open.spotify.com/album/3GwZgBO2aaQluZQceR62bU"
+      },
+      "artists": [
+        {
+          "name": "sickobabyxo",
+          "url": "https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL"
+        },
+        {
+          "name": "BEBELSITO TREM",
+          "url": "https://open.spotify.com/artist/449SywvqxRgl24dnRpsNqz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Bebeto & Rom\u00e1rio",
+      "url": "https://open.spotify.com/track/2v8EsK2tTltGaWLr6L4fZV"
+    },
+    {
+      "album": {
         "name": "Beethoven",
         "url": "https://open.spotify.com/album/3PW7uYiR7eRKCDw1wCEcM5"
       },
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 159000,
       "name": "Bicho Solto",
       "url": "https://open.spotify.com/track/1hppsF1Yb1WNuMK28Boguc"
@@ -1712,7 +1734,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 162951,
       "name": "Bonnie e Clyde",
       "url": "https://open.spotify.com/track/3V0bMTZ3vJVOTmdpzQotIn"
@@ -2562,7 +2584,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 183737,
       "name": "Cine-Freestyle",
       "url": "https://open.spotify.com/track/3iUTq5OLnMmkmLvS9wpvYL"
@@ -7295,6 +7317,32 @@
     },
     {
       "album": {
+        "name": "Me Sinto Bem",
+        "url": "https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x"
+      },
+      "artists": [
+        {
+          "name": "Andreo",
+          "url": "https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO"
+        },
+        {
+          "name": "Mc Vet\u00e3o",
+          "url": "https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167431,
+      "name": "Me Sinto Bem",
+      "url": "https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY"
+    },
+    {
+      "album": {
         "name": "Melhor Dia 8: Confia",
         "url": "https://open.spotify.com/album/2XvscC4yr3gfdHFwfngGSZ"
       },
@@ -7578,6 +7626,28 @@
       "duration_ms": 145000,
       "name": "Meu Bando",
       "url": "https://open.spotify.com/track/4dOP4aYvF9XwEMGHfKPY8y"
+    },
+    {
+      "album": {
+        "name": "Meu Mano",
+        "url": "https://open.spotify.com/album/6mLaNWEL9zZZCZHYSAULX3"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Meu Mano",
+      "url": "https://open.spotify.com/track/6n8gyRpIzZGMhdGtthKPno"
     },
     {
       "album": {
@@ -10484,7 +10554,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147272,
       "name": "Ruas de Ouro",
       "url": "https://open.spotify.com/track/4IJA58RtObxhAfN735VeGy"
@@ -10902,6 +10972,32 @@
       "duration_ms": 171428,
       "name": "Sexo Terapia",
       "url": "https://open.spotify.com/track/6dJvdQ1ZGRXFhcBCVN6nFd"
+    },
+    {
+      "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2IIIkZeIddAl4kzecD8Up0"
+      },
+      "artists": [
+        {
+          "name": "BlakkClout",
+          "url": "https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq"
+        },
+        {
+          "name": "Jovem Lucy",
+          "url": "https://open.spotify.com/artist/0hBRC3XcpaS7YnZyQCLw7Y"
+        },
+        {
+          "name": "FJOTA",
+          "url": "https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s"
     },
     {
       "album": {
@@ -11541,6 +11637,32 @@
     },
     {
       "album": {
+        "name": "Teresina Freestyle",
+        "url": "https://open.spotify.com/album/25NOjBfC8zNXCQ21Xf1oQ0"
+      },
+      "artists": [
+        {
+          "name": "D3cker",
+          "url": "https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx"
+        },
+        {
+          "name": "Gabriel Dourado",
+          "url": "https://open.spotify.com/artist/4M5eskqFFQH6WyoVvI5UU2"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138571,
+      "name": "Teresina Freestyle",
+      "url": "https://open.spotify.com/track/1utfhB5GPYBy3Z67waSsSv"
+    },
+    {
+      "album": {
         "name": "Testing",
         "url": "https://open.spotify.com/album/2yHzkoNxQ4wZFrTB4d4GjF"
       },
@@ -11932,6 +12054,32 @@
       "duration_ms": 201398,
       "name": "Tropa do Mais Novo",
       "url": "https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW"
+    },
+    {
+      "album": {
+        "name": "Tropa do Mant\u00e9m",
+        "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tropa do Mant\u00e9m",
+      "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
     },
     {
       "album": {
@@ -12978,7 +13126,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 167586,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/6jmSTtldKhEMkZWq6XZRAb"

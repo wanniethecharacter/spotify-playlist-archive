@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,464 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,516 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 25 | [Imperfections](https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Imperfections](https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf) | 2:46 |
 | 26 | [Dior Kicks](https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [BL Tha Hook Slaya](https://open.spotify.com/artist/7fNtLOQqt7xawYGAVMt4DJ), [Skirdle Sparta](https://open.spotify.com/artist/6ipyegbx9d7n8iGBmDtw0n) | [Dior Kicks](https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt) | 3:27 |
 | 27 | [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 |
-| 28 | [Brrrp](https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Brrrp](https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm) | 2:41 |
+| 28 | [Brrrp](https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [John Coop](https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG) | [Brrrp](https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm) | 2:41 |
 | 29 | [Hostage](https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 3:16 |
 | 30 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |
 | 31 | [Sweet Love](https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6) | 3:13 |

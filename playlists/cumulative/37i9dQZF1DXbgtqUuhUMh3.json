@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 198315,
       "name": "Betshoof Alamat",
       "url": "https://open.spotify.com/track/22cuGWNOX0pEj6JcvcPGVp"
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 251359,
       "name": "Independent",
       "url": "https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8"
@@ -3468,6 +3468,28 @@
       "duration_ms": 177061,
       "name": "Lay Your Head On Me",
       "url": "https://open.spotify.com/track/6LnzT3oONtqj8e2G3YwXgU"
+    },
+    {
+      "album": {
+        "name": "Laykoon",
+        "url": "https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8"
+      },
+      "artists": [
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        },
+        {
+          "name": "Rashed Muzik",
+          "url": "https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Laykoon",
+      "url": "https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi"
     },
     {
       "album": {
@@ -6290,6 +6312,24 @@
       "duration_ms": 142662,
       "name": "\u0627\u0644\u0648\u0631\u0648\u062f",
       "url": "https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV"
+    },
+    {
+      "album": {
+        "name": "ELWOROUD",
+        "url": "https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR"
+      },
+      "artists": [
+        {
+          "name": "Xena Elshazlii",
+          "url": "https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142662,
+      "name": "\u0627\u0644\u0648\u0631\u0648\u062f",
+      "url": "https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS"
     },
     {
       "album": {

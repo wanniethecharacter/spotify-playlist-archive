@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-125 songs - 5 hr 36 min
+126 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1L5Y2IEkzzKHY5IpONH3po) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/4GWoodiAMapPzgitxYvygx) | 2:43 | 2022-07-08 |  |
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 | 2022-07-29 |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 | 2023-02-04 |
+| [Meia Nove](https://open.spotify.com/track/2Acp2ceOl3UEtdOqbZhR4M) | [Karla Eduarda](https://open.spotify.com/artist/3aOHEK1FMbgwRTTab4ZvNu), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Meia Nove](https://open.spotify.com/album/052UliwFtnf0RkIqDBDNGp) | 3:32 | 2023-03-10 |  |
 | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 |  |
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 | 2023-02-11 |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
@@ -104,7 +105,7 @@
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 |  |
 | [Qual Teu Preço](https://open.spotify.com/track/5DkIcaWxMPhmKRHwotewgI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Qual Teu Preço](https://open.spotify.com/album/40AYtqXg2H4S0Q37slXaBK) | 2:35 | 2022-09-23 |  |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 |  |
-| [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 |  |
+| [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 |  |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 | 2022-11-12 |
 | [Remember](https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Remember](https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47) | 2:01 | 2022-08-05 | 2022-09-03 |

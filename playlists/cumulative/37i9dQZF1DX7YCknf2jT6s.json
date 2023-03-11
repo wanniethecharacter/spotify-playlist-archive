@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Brandee Younger",
+  "description": "New jazz for open minds. Cover: Nubya Garcia (London Brew)",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2258,6 +2258,24 @@
       "duration_ms": 284516,
       "name": "Blues for Bristol",
       "url": "https://open.spotify.com/track/6u0n7Rb8AzIN5OvKyIp99m"
+    },
+    {
+      "album": {
+        "name": "The Art of Intimacy, Vol. 2: His Muse",
+        "url": "https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400053,
+      "name": "Blues in Sophistication",
+      "url": "https://open.spotify.com/track/35MKOZi76NeP8SAkYeemjA"
     },
     {
       "album": {
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 419173,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/1x1f1fX20QJpQ2ta8ZCH1k"
@@ -6454,7 +6472,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 371883,
       "name": "I Was an American Boy",
       "url": "https://open.spotify.com/track/111yyU1pjWcR40cMMaRxY4"
@@ -6573,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "If It's Magic",
+        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209338,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
+    },
+    {
+      "album": {
         "name": "In Mauve",
         "url": "https://open.spotify.com/album/0OxstTPHYHn8F9aHNSaiC1"
       },
@@ -6668,6 +6704,24 @@
       "duration_ms": 367146,
       "name": "In Tense",
       "url": "https://open.spotify.com/track/2qpyrz2kv2VawTwTHmV2iO"
+    },
+    {
+      "album": {
+        "name": "In The Sky: Expansion",
+        "url": "https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384973,
+      "name": "In The Sky: Expansion",
+      "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
     },
     {
       "album": {
@@ -7908,7 +7962,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 278200,
       "name": "Limu, Limu, Lima",
       "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
@@ -8258,6 +8312,28 @@
       "duration_ms": 577400,
       "name": "Loro",
       "url": "https://open.spotify.com/track/3CoEswc1RNl99WbIIDceZF"
+    },
+    {
+      "album": {
+        "name": "Polish Encounter",
+        "url": "https://open.spotify.com/album/2Rds7Q5z3Xueh7y1x0CSnm"
+      },
+      "artists": [
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "Loss",
+      "url": "https://open.spotify.com/track/726tHsbqcNhVLckl5TpdCj"
     },
     {
       "album": {
@@ -8886,7 +8962,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 194614,
       "name": "Miles Chases New Voodoo In The Church - Single Edit",
       "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
@@ -10661,6 +10737,32 @@
     },
     {
       "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/0gyhPuSxDzaGZ39E4epAqV"
+      },
+      "artists": [
+        {
+          "name": "Jane Bunnett and Maqueque",
+          "url": "https://open.spotify.com/artist/2YydgUGvEtKROYUAdcRPY9"
+        },
+        {
+          "name": "Jane Bunnett",
+          "url": "https://open.spotify.com/artist/5e09vxGJza9YFmRVvCiFKB"
+        },
+        {
+          "name": "Maqueque",
+          "url": "https://open.spotify.com/artist/2hHC4RiFmBNewOAWyRAepd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205525,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/346gVViqfzwcq7iy5mckIi"
+    },
+    {
+      "album": {
         "name": "Portrommet",
         "url": "https://open.spotify.com/album/0dIX5Fo56YwWzuyWv6vucl"
       },
@@ -11151,6 +11253,72 @@
     },
     {
       "album": {
+        "name": "Raven Flies Low",
+        "url": "https://open.spotify.com/album/2wFfhmqzJPaccEYQ82n4GU"
+      },
+      "artists": [
+        {
+          "name": "London Brew",
+          "url": "https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb"
+        },
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Tom Herbert",
+          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Nikolaj Torp Larsen",
+          "url": "https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        },
+        {
+          "name": "Nick Ramm",
+          "url": "https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL"
+        },
+        {
+          "name": "Dan See",
+          "url": "https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux"
+        },
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
+        },
+        {
+          "name": "Martin Terefe",
+          "url": "https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218244,
+      "name": "Raven Flies Low [Feat. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe] - Single Edit",
+      "url": "https://open.spotify.com/track/4uIsRHhz5M7uT7YV0LDoQD"
+    },
+    {
+      "album": {
         "name": "Red Lightning",
         "url": "https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C"
       },
@@ -11356,7 +11524,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 328640,
       "name": "Respected Destroyer",
       "url": "https://open.spotify.com/track/42FymjHJKVuwrIP02t7QWo"
@@ -11824,6 +11992,24 @@
       "duration_ms": 218559,
       "name": "Scorpion",
       "url": "https://open.spotify.com/track/24Bwts94Yx0aqN9xS5E0pQ"
+    },
+    {
+      "album": {
+        "name": "Search for Peace",
+        "url": "https://open.spotify.com/album/3MPQi7p3q7d2m2dPLMWBcN"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396453,
+      "name": "Search for Peace",
+      "url": "https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3"
     },
     {
       "album": {
@@ -12376,7 +12562,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 319053,
       "name": "Slow Hot Wind",
       "url": "https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai"
@@ -12792,6 +12978,40 @@
       "duration_ms": 229542,
       "name": "Spring's Theme",
       "url": "https://open.spotify.com/track/6HD2CBxIxy8ONoSvpZgvCj"
+    },
+    {
+      "album": {
+        "name": "St. Thomas",
+        "url": "https://open.spotify.com/album/7JHSmlAPa3irrsXKxoINjo"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "The Soul Rebels",
+          "url": "https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz"
+        },
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Weedie Braimah",
+          "url": "https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193475,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/5vN1pZMDbS5VGRozNSEQP6"
     },
     {
       "album": {
@@ -15440,7 +15660,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161600,
       "name": "Twinkles",
       "url": "https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7"
@@ -15556,6 +15776,24 @@
       "duration_ms": 312333,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/1CdFAAgq4NisqVRDfyD8YV"
+    },
+    {
+      "album": {
+        "name": "Un Poco Loco",
+        "url": "https://open.spotify.com/album/40UiTs1vzcSOnKUz8sIGbi"
+      },
+      "artists": [
+        {
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311729,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/4MYy4v2SBgzBSYQ0vg5NEE"
     },
     {
       "album": {
@@ -15822,7 +16060,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 255072,
       "name": "Vinci",
       "url": "https://open.spotify.com/track/1uh9hMItOMtSlXkZG2lutn"
@@ -16732,7 +16970,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 238569,
       "name": "You're A Girl For One Man Only",
       "url": "https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud"

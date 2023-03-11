@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 97220,
+  "num_followers": 97264,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NTcyMSwwMDAwMDAwMDdkZTNkMzEyMjE2ZjRhNTU1N2RlMTMxNGQzYmNhMDUx",
+  "snapshot_id": "MTY3Nzg4NTcyMSwwMDAwMDAwMDEzNzUzNzJlNzM0Zjc4MzAyN2U5YTM4YjkyNjMyZTA1",
   "tracks": [
     {
       "added_at": "2023-03-03 23:22:01",
@@ -751,6 +751,30 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "Tropa de Jesus Eletro",
+        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Igor Dj",
+          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
+        },
+        {
+          "name": "Junior Souto",
+          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
+        }
+      ],
+      "duration_ms": 165418,
+      "name": "Tropa de Jesus Eletro",
+      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "N\u00e3o Me Deixar\u00e1s",
         "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 184320,
       "name": "N\u00e3o Me Deixar\u00e1s",
       "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "Dias de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Bruno Jovita",
-          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Dias de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -819,6 +819,30 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
+        "name": "Dias de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Bruno Jovita",
+          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Dias de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
-        "name": "O Vazio",
-        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
-        },
-        {
-          "name": "Eduardo Vieira",
-          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "O Vazio",
-      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -887,26 +887,26 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Tropa de Jesus Eletro",
-        "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
+        "name": "O Vazio",
+        "url": "https://open.spotify.com/album/4ZI91akPur3MNxlqMZQS6a"
       },
       "artists": [
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Igor Dj",
-          "url": "https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw"
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
         },
         {
-          "name": "Junior Souto",
-          "url": "https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2"
+          "name": "Eduardo Vieira",
+          "url": "https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN"
         }
       ],
-      "duration_ms": 165418,
-      "name": "Tropa de Jesus Eletro",
-      "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
+      "duration_ms": 176746,
+      "name": "O Vazio",
+      "url": "https://open.spotify.com/track/2s2ESedcH3wZLrYCOSL7eT"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -935,22 +935,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl"
       },
       "artists": [
         {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
         },
         {
-          "name": "Fabio Martin",
-          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 266797,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
+      "duration_ms": 165000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -983,22 +983,22 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/3MChRzTGZ69uEyDa76Qusl"
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9"
       },
       "artists": [
         {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Fabio Martin",
+          "url": "https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/3gkNnS1ANFvOKhji7QEGoa"
+      "duration_ms": 266797,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj"
     },
     {
       "added_at": "2023-03-03 23:22:01",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-03-03 23:22:01",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2023-03-03 23:22:01",
-      "album": {
         "name": "Novo Lar",
         "url": "https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 246315,
       "name": "Novo Lar",
       "url": "https://open.spotify.com/track/6Oxh5rxRzj9cDuTxtDbKXc"
+    },
+    {
+      "added_at": "2023-03-03 23:22:01",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2023-03-03 23:22:01",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Arrolladora Banda El Lim\u00f3n en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
   "name": "Banda 2023",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 229587,
       "name": "Amor Limosnero (En Vivo)",
       "url": "https://open.spotify.com/track/2tqmeTpYtfTMxofTVUBADN"
@@ -310,7 +310,7 @@
           "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232820,
@@ -1366,7 +1366,7 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164933,
@@ -1448,6 +1448,24 @@
       "duration_ms": 160400,
       "name": "Fiestas, Tragos, Noche Loca",
       "url": "https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ"
+    },
+    {
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
     },
     {
       "album": {
@@ -1615,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Hoy Me Puse A Tomar",
+        "url": "https://open.spotify.com/album/7kmd08ir57Dian9BkXRNFf"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Hoy Me Puse A Tomar",
+      "url": "https://open.spotify.com/track/4jSkQnOKZ55MSpejX7yBfZ"
+    },
+    {
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -1655,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "XV Aniversario",
+        "url": "https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159538,
+      "name": "Jugaste a Quererme",
+      "url": "https://open.spotify.com/track/5gQROsI8b7Hn3p0U942kR6"
+    },
+    {
+      "album": {
         "name": "Junto A Ti",
         "url": "https://open.spotify.com/album/4zaF7FTjaWsxhyJejJvcT5"
       },
@@ -1691,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146756,
+      "name": "La Bruja - Radio Edit",
+      "url": "https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP"
+    },
+    {
+      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -1722,7 +1794,7 @@
           "url": "https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202026,
@@ -2204,7 +2276,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 200910,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/64OY74RUbqyz3EpoekFl6g"
@@ -2530,7 +2602,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 143133,
       "name": "No Se Lo Deseo a Nadie",
       "url": "https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g"
@@ -2791,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Pero Te Vas A Arrepentir",
+        "url": "https://open.spotify.com/album/12O8waJUg99SP7cm4km7aW"
+      },
+      "artists": [
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195961,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7epY80eh6qbpHQ197ya3yZ"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -2969,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "Prefiero Estar Muerto",
+        "url": "https://open.spotify.com/album/6b227pi8A1XHMFZkU4aWyl"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Prefiero Estar Muerto",
+      "url": "https://open.spotify.com/track/1Nco4JRyvxxcehIcgDmQUe"
+    },
+    {
+      "album": {
         "name": "Ajeno",
         "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
       },
@@ -3144,7 +3256,7 @@
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223695,
@@ -3278,7 +3390,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
@@ -3374,7 +3486,7 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "date_added": "2023-02-23",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188511,
@@ -3394,7 +3506,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 211027,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/7sjjwdWVgR08hqeS0NubhM"
@@ -3656,7 +3768,7 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220746,
@@ -3826,7 +3938,7 @@
           "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214684,
@@ -3888,7 +4000,7 @@
           "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
         }
       ],
-      "date_added": "2023-02-18",
+      "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207625,
@@ -4082,7 +4194,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204266,
       "name": "Ya Estuvo Suave",
       "url": "https://open.spotify.com/track/4biDENf02zmdKNU6kbFIFZ"

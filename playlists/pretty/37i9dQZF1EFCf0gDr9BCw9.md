@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 143 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 143 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 26 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
 | 27 | [Northern Lights \- The Queen's Suite](https://open.spotify.com/track/39KaSaPlBMuQMM5lKML0VZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:31 |
 | 28 | [Pt\. II\-Blues to Be There \- Live](https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 7:09 |
-| 29 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 |
-| 30 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
+| 29 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
+| 30 | [You Better Know It \- 2004 Remaster](https://open.spotify.com/track/76d5GR4aO4HZqb8NQGQzq2) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:25 |
 | 31 | [Midriff](https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:51 |
 | 32 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 |
 | 33 | [Clementine](https://open.spotify.com/track/1Wi7jbwmHDnGKl8eymwcBt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:40 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 109 | [Blossom](https://open.spotify.com/track/6lz6Jryza3yur1ryPt0Xw3) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 2:29 |
 | 110 | [Take It Slow](https://open.spotify.com/track/0H9a4zpizfYCJfSGZF0a0G) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 3: Studio Sessions New York, 1962](https://open.spotify.com/album/2oXIDWgIOizWWqy97bAhl4) | 2:57 |
 | 111 | [Too Late](https://open.spotify.com/track/1r5kJWlDcyCp6KS9Y9HA9m) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz) | [Black Moonlight Vol\. 5](https://open.spotify.com/album/2ItDs63YW6pRY08EjXLb7j) | 3:11 |
-| 112 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
-| 113 | [Cashmere Cutie](https://open.spotify.com/track/0ERpyYWqiHtWNQKHWOWKIn) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:16 |
+| 112 | [Cashmere Cutie](https://open.spotify.com/track/0ERpyYWqiHtWNQKHWOWKIn) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:16 |
+| 113 | [Coffee and Kisses](https://open.spotify.com/track/0ursbi6z3JFL0Tndox3C0a) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:10 |
 | 114 | [A Lonely CoEd](https://open.spotify.com/track/05D9j2TH4OAXUkgEJwGBz4) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 3:18 |
 | 115 | [There Was Nobody Looking](https://open.spotify.com/track/0I9tEYd8foW37GdzmIPuvo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 2:57 |
 | 116 | [Swing Dance](https://open.spotify.com/track/6V2L2VdpeDURO7qTlSdc3Z) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:33 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 142 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 143 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc5NzM0NDEsMDAwMDAwMDA5YWFjMTkyNDE1ZTM4OWUzNmVlZjM0NDk5ZmUzODRjYQ==`
+Snapshot ID: `Mjc5NzQ4ODEsMDAwMDAwMDA3MDAyMDNlNzVlMjU4MTY0OGRmZDM4MjRiZjg0NzljMA==`

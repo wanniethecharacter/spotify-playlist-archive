@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,353 likes - 68 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,462 likes - 68 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

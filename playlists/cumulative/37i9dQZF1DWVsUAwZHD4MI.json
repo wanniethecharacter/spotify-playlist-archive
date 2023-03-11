@@ -1584,10 +1584,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208960,
       "name": "Silver Surfer - Original Short Mix",
       "url": "https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM"
+    },
+    {
+      "album": {
+        "name": "Silver Surfer",
+        "url": "https://open.spotify.com/album/10XMQQHJnnknfCJqpyUSkn"
+      },
+      "artists": [
+        {
+          "name": "Hardy Hard",
+          "url": "https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "Silver Surfer - Original Short Mix",
+      "url": "https://open.spotify.com/track/3gsLvZziN9ghF1mjxjM7h7"
     },
     {
       "album": {

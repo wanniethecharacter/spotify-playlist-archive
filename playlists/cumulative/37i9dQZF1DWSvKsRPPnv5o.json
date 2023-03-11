@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147155,
       "name": "Action",
       "url": "https://open.spotify.com/track/2Ed3C4ZFO2SK8A4mnJSdMQ"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 158362,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae"
@@ -2429,6 +2429,32 @@
     },
     {
       "album": {
+        "name": "Hot Shot: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4rHF6VN1sUUjKHZu2rgVYG"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138367,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0S7UB8za4I1YMGxVVamCeO"
+    },
+    {
+      "album": {
         "name": "Face no Book",
         "url": "https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw"
       },
@@ -2534,6 +2560,28 @@
       "duration_ms": 144410,
       "name": "Fareal",
       "url": "https://open.spotify.com/track/4Du4omwisfR2FHo9SkivzE"
+    },
+    {
+      "album": {
+        "name": "Hotboiiz:4L",
+        "url": "https://open.spotify.com/album/2g0gYRnewHwt4unRqznlRo"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        },
+        {
+          "name": "FREDOBAGZ",
+          "url": "https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fear Factor",
+      "url": "https://open.spotify.com/track/244X0ypfFdSFT5uSpfoREj"
     },
     {
       "album": {
@@ -2900,6 +2948,32 @@
       "duration_ms": 146285,
       "name": "GEEKALEEK (feat. Cash Kidd)",
       "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
+    },
+    {
+      "album": {
+        "name": "Just For Clarity 2",
+        "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182655,
+      "name": "Ghetto Cinderella (feat. Mustard & Terrace Martin)",
+      "url": "https://open.spotify.com/track/3jGy6nqGMcsBvjN6G3TC0S"
     },
     {
       "album": {
@@ -5140,7 +5214,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 188733,
       "name": "Name Ring Bells",
       "url": "https://open.spotify.com/track/60isa06LcZlUAaPsWKhuov"
@@ -5974,6 +6048,28 @@
       "duration_ms": 149288,
       "name": "PARTY WITH THE GANG (feat. P-LO & FREDOBAGZ)",
       "url": "https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx"
+    },
+    {
+      "album": {
+        "name": "Just For Clarity 2",
+        "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Passionate (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
     },
     {
       "album": {
@@ -7908,7 +8004,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171493,
       "name": "What It Cost Us",
       "url": "https://open.spotify.com/track/4sEcRUHvz58OD9PrRfzgtU"

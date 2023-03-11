@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. In cover, Generic Animal!
 
-334 songs - 18 hr 35 min
+336 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [FLOWER POWER](https://open.spotify.com/track/7AJ00s3H7TehVRdPN8ANou) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [FLOWER POWER](https://open.spotify.com/album/64R18cc1rLixwFQvTMKqLW) | 2:32 | 2022-12-15 | 2023-03-10 |
 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 | 2022-05-09 | 2022-06-24 |
 | [Forever](https://open.spotify.com/track/0QCYEkX0MfJkvVEOr6Up08) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Forever](https://open.spotify.com/album/0NHAE4I0u0YpbAlDj8KRl0) | 2:43 | 2022-05-09 | 2022-06-10 |
+| [Forever](https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI) | [simmcat](https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j) | [Forever](https://open.spotify.com/album/6LpWr2WlPPxAlhV37JDVU7) | 2:22 | 2023-03-10 |  |
 | [Fragili](https://open.spotify.com/track/7d322WMHpY6G4GHV6bas2Y) | [Alessandro Baronciani](https://open.spotify.com/artist/7pLL31FfCScLXL47auT67u), [RAGAZZAcd](https://open.spotify.com/artist/6lTvJHqB7bNnL7YCmeFNQp), [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [RAGAZZAcd](https://open.spotify.com/album/5biGGXXcg1SwYrzq5aeH15) | 3:19 | 2023-02-23 |  |
 | [Franco Panini](https://open.spotify.com/track/2rs9NJEszvoO27Y7nOtseo) | [The Junction](https://open.spotify.com/artist/2cqOnMxNuwhIwkMQBgj5J2) | [Franco Panini](https://open.spotify.com/album/6xYnxLBEx4JjuS7Bm7Ocur) | 3:31 | 2022-12-15 | 2023-01-11 |
 | [Freddo Inverno](https://open.spotify.com/track/7qh7Vn7b8xANVrNHSOKaHg) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Freddo Inverno](https://open.spotify.com/album/3x4zhsXgv8pzod8dFC1nvB) | 3:44 | 2023-03-02 |  |
@@ -321,6 +322,7 @@
 | [Un istante](https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Un istante](https://open.spotify.com/album/2T1psFrFRJaV1SStNt2aHy) | 3:24 | 2022-06-23 | 2022-07-29 |
 | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/track/2RIpuPWfnNgXF7eQBaugdA) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/album/2xEiFuPfW9NcYYn44f1fIP) | 2:54 | 2022-05-09 | 2022-05-13 |
 | [Una festa](https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [GOSSIP!](https://open.spotify.com/album/4oMB0omyxPz000ZHH4oesR) | 3:28 | 2022-05-09 | 2022-06-10 |
+| [Una guerra da perdere](https://open.spotify.com/track/04EumUGooPGl61ogNI4fiN) | [EX POLVERE](https://open.spotify.com/artist/4gxwFXp6NjVvRyqM5KQyzb) | [Una guerra da perdere](https://open.spotify.com/album/6HmjiLUlkcrNdX9mAMoiKs) | 3:40 | 2023-03-10 |  |
 | [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 | 2022-08-05 |
 | [VADO DI MATTO](https://open.spotify.com/track/6ENWZUAwZJBazFJqMu2wWq) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VADO DI MATTO](https://open.spotify.com/album/0kUAowt4UlLQK2NSYZ9wXf) | 2:15 | 2023-02-02 |  |
 | [Valanga](https://open.spotify.com/track/6cqwc1pyl5i48tBCxGgEvS) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [Valanga](https://open.spotify.com/album/0Uzr5FEyRVTN2WuilSQZ0Q) | 3:31 | 2022-06-09 | 2022-11-11 |

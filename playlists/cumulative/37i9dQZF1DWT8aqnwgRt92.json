@@ -1814,10 +1814,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 193543,
       "name": "Gift",
       "url": "https://open.spotify.com/track/2cTeMPC6HqGeJAa5sPH6XO"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/19nxapLc7uFm0kII0uOp8M"
     },
     {
       "album": {

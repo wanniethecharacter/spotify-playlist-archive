@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 55760,
+  "num_followers": 55832,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGUzYWJhNmY1NGI5NWVmNmQxMDY3MjZkODJjOWYzZjk0",
+  "snapshot_id": "MTYzODg5Njg2OCwwMDAwMDAwMGJlOTYwYmRiYzUxYWJiMjc0NDAyNTZiMzY0NWZiNDVm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Malpractice",
-        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
       "artists": [
         {
-          "name": "Dr. Feelgood",
-          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
+      "duration_ms": 223840,
+      "name": "Blue Moanin'",
+      "url": "https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+        "name": "Malpractice",
+        "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
       },
       "artists": [
         {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+          "name": "Dr. Feelgood",
+          "url": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Blue Moanin'",
-      "url": "https://open.spotify.com/track/33DnCxTMS3xPD3Xr8tEva5"
+      "duration_ms": 240866,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
     },
     {
       "added_at": "2020-12-01 05:01:00",

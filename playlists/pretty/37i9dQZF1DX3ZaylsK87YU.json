@@ -1,29 +1,13 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 26461,
+  "num_followers": 26672,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5NjM5NSwwMDAwMDAwMGJkZjdhYjI3MDE4OWVlYzA3ZjRlYzBiYWRhYzRmZWFi",
+  "snapshot_id": "MTY3NjY5NjM5NSwwMDAwMDAwMGVkOGUzYjZlNWFhNjhmZDczNGUwMDllYzA0Y2NlYmJl",
   "tracks": [
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Atlas: I",
-        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 180086,
-      "name": "You Are Enough",
-      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
-    },
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 333386,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Atlas: I",
+        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 180086,
+      "name": "You Are Enough",
+      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Live at the Banks House",
-        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
-      },
-      "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 376093,
-      "name": "Nothing I Hold on to (Live)",
-      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 264680,
       "name": "Fall Afresh",
       "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Limbs & Branches",
         "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 283986,
       "name": "The House Of God, Forever",
       "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Be Thou My Vision",
-        "url": "https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv"
-      },
-      "artists": [
-        {
-          "name": "Norton Hall Band",
-          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Counting Every Blessing",
         "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 302780,
       "name": "Counting Every Blessing",
       "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Be Thou My Vision",
+        "url": "https://open.spotify.com/album/27ZlsmMgJgbtLM7XzQQXKv"
+      },
+      "artists": [
+        {
+          "name": "Norton Hall Band",
+          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/4TALuYddLLmJDM14GkhSmG"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 438200,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Posters",
         "url": "https://open.spotify.com/album/41mwyfJfSsfuELRYdC0q6v"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Only King Forever",
-        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+        "name": "Messenger Hymns, Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
         }
       ],
-      "duration_ms": 438200,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
+      "duration_ms": 234801,
+      "name": "Christ the Sure and Steady Anchor",
+      "url": "https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1419,22 +1435,6 @@
       "duration_ms": 490453,
       "name": "Let It Happen (Live) [feat. Andrea Marie]",
       "url": "https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Messenger Hymns, Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/00AuuN8Eba5KnPauBSOT6w"
-      },
-      "artists": [
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        }
-      ],
-      "duration_ms": 234801,
-      "name": "Christ the Sure and Steady Anchor",
-      "url": "https://open.spotify.com/track/4Pq8VwiL1XA7MfpmDhY7dw"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 207487,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 482386,
       "name": "Since Your Love (Live) [feat. Brandon Hampton]",
       "url": "https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 207487,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Come Behold the Wondrous Mystery - Single",
+        "url": "https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Come Behold the Wondrous Mystery",
+      "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Amazing Grace (feat. Alex Boy\u00e9)",
         "url": "https://open.spotify.com/album/4dFzU6vymLHbnhu9toGD6e"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 240719,
       "name": "Amazing Grace (feat. Alex Boy\u00e9)",
       "url": "https://open.spotify.com/track/0Vsda24FRm3DL3lFxj6kUg"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Come Behold the Wondrous Mystery - Single",
-        "url": "https://open.spotify.com/album/28AvjBNITOjVYY283l9kWr"
-      },
-      "artists": [
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Come Behold the Wondrous Mystery",
-      "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
     },
     {
       "added_at": "2023-02-18 04:59:55",

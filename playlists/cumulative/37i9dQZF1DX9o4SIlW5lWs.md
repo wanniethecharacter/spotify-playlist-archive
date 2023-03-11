@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-284 songs - 16 hr 20 min
+285 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 | 2022-03-11 |  |
 | [Amor Secreto](https://open.spotify.com/track/54Jr171k3fvsYRcuy6G7qi) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mi Corazón Canta para Vos](https://open.spotify.com/album/3a8kuLV7GUW3tDNBNsGC7L) | 3:18 | 2022-04-01 | 2022-06-10 |
 | [Amor y Deudas](https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Amor y Deudas](https://open.spotify.com/album/7lt8y2dL66EVdZtlSJcbaY) | 4:20 | 2022-01-21 | 2022-06-17 |
-| [Así Era Ella](https://open.spotify.com/track/26ykEHxWfZU1UfupwrHp4K) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Así Era Ella](https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA) | 3:06 | 2023-03-04 |  |
+| [Así Era Ella](https://open.spotify.com/track/26ykEHxWfZU1UfupwrHp4K) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Así Era Ella](https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA) | 3:06 | 2023-03-04 | 2023-03-11 |
 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 |  |
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-01-21 | 2022-07-13 |
@@ -270,6 +270,7 @@
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-22 |  |
 | [Volver a Vernos](https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Volver a Vernos](https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn) | 2:51 | 2022-01-21 |  |
 | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 |  |
+| [Y Yo Sin Ti](https://open.spotify.com/track/6ZafhodntQlhMfzHOwlmxw) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Y Yo Sin Ti](https://open.spotify.com/album/2hWhnJTo0ollElLB8rPIjR) | 3:04 | 2023-03-10 |  |
 | [Ya Fue](https://open.spotify.com/track/4ZG6OIlBkKrSGTUgXyp0l7) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Ya Fue](https://open.spotify.com/album/1qg4HdLx0TOOeQjwFGNfwn) | 2:23 | 2022-03-11 | 2022-04-16 |
 | [Ya Llegó el Sabor](https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:37 | 2022-01-14 |  |
 | [Ya Me Entere](https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Grupo Oxigeno](https://open.spotify.com/artist/6w5pguQ6jVMJJ9f5JkNpUp) | [Ya Me Enteré](https://open.spotify.com/album/2gFnDWTl31Zr4jfQ5qIR12) | 3:33 | 2022-01-14 | 2022-07-07 |

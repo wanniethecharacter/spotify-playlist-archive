@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-241 songs - 11 hr 2 min
+245 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 |  |
 | [Beautitude](https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Beautitude](https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY) | 1:59 | 2023-01-20 |  |
 | [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 |  |
+| [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 |  |
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2022-05-13 |  |
 | [Belonging to the Woods](https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Belonging to the Woods](https://open.spotify.com/album/5MXiLVQY1I0dRkCK0wCGv2) | 3:24 | 2022-05-13 | 2022-10-07 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 |  |
@@ -61,7 +62,7 @@
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 | 2022-10-07 |
 | [Dust and Ashes \- Guitar Instrumental](https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Behind the Breastbone \(Instrumentals\)](https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro) | 3:22 | 2022-09-02 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 |  |
-| [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 |  |
+| [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 | 2023-03-11 |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 |  |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
 | [Etude](https://open.spotify.com/track/3b0fiwh8g5UubvOVlEWJSx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Etude](https://open.spotify.com/album/6tgFS8XA8GXQswzyNHS6jf) | 2:27 | 2022-05-13 | 2022-07-15 |
@@ -74,6 +75,7 @@
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-05-13 |  |
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 |  |
+| [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 |  |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-05-13 |  |
 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 | 2022-05-13 |  |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-05-13 |  |
@@ -96,6 +98,7 @@
 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 | 2022-05-13 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-05-13 |  |
 | [High Tide](https://open.spotify.com/track/5vpRsRSqIETB8HiHzoJ9lV) | [Danny Black](https://open.spotify.com/artist/1acLmH4vW6PaaqDCDyNf46) | [Adventure Soundtrack](https://open.spotify.com/album/5yLqVDYBeB03t52Nm0myXi) | 1:49 | 2022-05-13 | 2022-06-10 |
+| [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 |  |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 |  |
 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 | 2022-05-13 | 2022-10-07 |
 | [Hummingbirds](https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Hummingbirds](https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp) | 2:16 | 2022-12-23 |  |
@@ -190,6 +193,7 @@
 | [Silver City](https://open.spotify.com/track/3xTZpkPtRwNZ4XSyx53cuo) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:59 | 2022-05-13 | 2022-06-10 |
 | [Sky](https://open.spotify.com/track/3TemtSpYdgJcDU6SotuNXV) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/3B4PBBGRzwgC7rEvljwBZ0) | 1:53 | 2022-10-28 |  |
 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-11-05 |
+| [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 |  |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
@@ -239,7 +243,7 @@
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |
 | [Weavers](https://open.spotify.com/track/0fwI77XIC0gcpfU6h0il8v) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Mirror](https://open.spotify.com/album/1eajczC71VdUgRAakjJfw8) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 |  |
-| [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-05-13 |  |
+| [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-05-13 | 2023-03-11 |
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2022-05-13 |  |
 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 | 2022-05-13 |  |
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-05-13 |  |
@@ -248,6 +252,6 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
 | [You Will Never Understand](https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [You Will Never Understand](https://open.spotify.com/album/3br5iGGaBreqQ9OjcT9osL) | 4:32 | 2022-05-13 |  |
-| [You're The Inspiration](https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [You're The Inspiration](https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU) | 2:20 | 2022-11-18 |  |
+| [You're The Inspiration](https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [You're The Inspiration](https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU) | 2:20 | 2022-11-18 | 2023-03-11 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

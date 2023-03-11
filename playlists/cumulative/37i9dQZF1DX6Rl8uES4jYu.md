@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-357 songs - 20 hr 16 min
+358 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Nobody Like You](https://open.spotify.com/track/5kX95xAwtGRyaUZ7tA8667) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Aeti](https://open.spotify.com/artist/50bfLCs5ENl8mBrCoLm1db), [Lazy Rabbit](https://open.spotify.com/artist/2uNxuo3RX8KvYxkLRX0zey), [Mia Maxima](https://open.spotify.com/artist/2kWiNS9kFVYMvtt3DyPkDH) | [Everybody Falls in the Summer \(Radio Edit\)](https://open.spotify.com/album/59tSHK2znJI63MbIKR5726) | 3:22 | 2020-11-13 | 2022-03-26 |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2020-11-13 | 2022-03-26 |
 | [not enough](https://open.spotify.com/track/1xREjbxyVJFRFbpJoXYAhC) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [not enough](https://open.spotify.com/album/07BI1QtOpvjf16cDV7RzcG) | 2:56 | 2022-07-29 | 2022-08-31 |
-| [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-09-23 |  |
+| [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-09-23 | 2023-03-11 |
 | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9) | 3:25 | 2022-06-03 | 2022-08-14 |
 | [Now We're Cooking](https://open.spotify.com/track/5B9kAjQ1JEdaQvhLsBVxjk) | [Duke & The Dry Cleaners](https://open.spotify.com/artist/4EYbEpiFV6S1ox4cWHvjlf) | [Now We're Cooking](https://open.spotify.com/album/6BM83Q7baNXxiiLAUEGGFb) | 3:33 | 2021-09-21 | 2022-04-19 |
 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 | 2022-10-28 | 2022-11-05 |
@@ -301,6 +301,7 @@
 | [Suzi Traffic](https://open.spotify.com/track/4UdrF91coQA4tsM330r7Co) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [John McCallum](https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4) | [Suzi Traffic \(feat\. John McCallum\)](https://open.spotify.com/album/2YPl9BkjKX2BDpACizbZbE) | 3:45 | 2021-04-30 | 2022-04-21 |
 | [Sweetside](https://open.spotify.com/track/3kPk8kOFxof26yVHTnjk1j) | [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Something Real](https://open.spotify.com/album/78FB3PeyghAmRSTnW8wy6E) | 4:06 | 2022-09-30 | 2022-10-15 |
 | [Switch](https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:16 | 2021-09-21 | 2023-02-18 |
+| [Takin' It Back](https://open.spotify.com/track/4CEXKHS4LuDqJkfDSlORRW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:21 | 2023-03-10 |  |
 | [Tango](https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Tango](https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y) | 5:04 | 2021-08-13 | 2023-02-18 |
 | [Tasty](https://open.spotify.com/track/64wAH19hAGbzdmrRoBzAcq) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Tasty](https://open.spotify.com/album/2FhDuCjm4ORGS3plmUm8Pv) | 2:55 | 2021-08-06 | 2022-06-29 |
 | [Telepathic Woman](https://open.spotify.com/track/1tb8XxJNsGXG79ynep6Fem) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 4:42 | 2020-11-13 | 2022-03-23 |

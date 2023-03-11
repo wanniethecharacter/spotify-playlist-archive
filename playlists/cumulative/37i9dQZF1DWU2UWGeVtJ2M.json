@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169733,
       "name": "Eight",
       "url": "https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA"
@@ -4348,6 +4348,24 @@
       "duration_ms": 124811,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
     },
     {
       "album": {

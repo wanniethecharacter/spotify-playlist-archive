@@ -41,7 +41,7 @@
     },
     {
       "album": {
-        "name": ">one",
+        "name": ">one (greater than one)",
         "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
       },
       "artists": [
@@ -58,7 +58,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 130666,
-      "name": ">one",
+      "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {

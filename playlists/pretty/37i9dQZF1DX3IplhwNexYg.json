@@ -1,15 +1,15 @@
 {
   "description": "The best in current indie rock. Cover: Etta Marcus",
-  "num_followers": 110944,
+  "num_followers": 110937,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDYwYTAxMzg1NTE4NzQzOGMwNzEyNWU4ZjYwYjVhODU5",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDA4NTU3NDliZmU0NjgzN2Y1MmFkMDgwMmVlMzIzNDZi",
   "tracks": [
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "Heart-Shaped Bruise",
         "url": "https://open.spotify.com/album/1uzFv8mv9cidZxIztJLBmy"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3poXkdY1Jti4QPmJprD8kG"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "Moths",
         "url": "https://open.spotify.com/album/6ToN4up7FEIeWVChNt8ppv"
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Do You Wanna Talk",
-        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 146392,
-      "name": "Do You Wanna Talk",
-      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 204407,
       "name": "Struggle - Single Version",
       "url": "https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Do You Wanna Talk",
+        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -501,7 +501,23 @@
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+    },
+    {
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "Swampy & Sombre Two",
         "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
@@ -517,20 +533,20 @@
       "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
-        "name": "Sofa King",
-        "url": "https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk"
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -579,22 +595,6 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2023-03-10 00:35:38",
-      "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 242737,
+      "name": "I Was Neon",
+      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
         "name": "Sitting Pretty",
         "url": "https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 242737,
-      "name": "I Was Neon",
-      "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 236586,
       "name": "Fading Like A Picture",
       "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 268906,
       "name": "Roman Holiday",
       "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "My Very Best",
-        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
       },
       "artists": [
         {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 197333,
-      "name": "My Very Best",
-      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
+      "duration_ms": 231600,
+      "name": "SCARING ME",
+      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio"
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
       "artists": [
         {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 231600,
-      "name": "SCARING ME",
-      "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ"
     },
     {
-      "added_at": "2023-03-10 00:35:38",
+      "added_at": "2023-03-11 01:15:37",
       "album": {
         "name": "What You Did",
         "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 231684,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
-    },
-    {
-      "added_at": "2023-02-10 00:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-02-10 00:00:00",
       "album": {
-        "name": "It's Just A Bit Of Blood",
-        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 286520,
-      "name": "It's Just A Bit Of Blood",
-      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
+      "duration_ms": 231684,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
     },
     {
       "added_at": "2023-02-10 00:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 189466,
       "name": "Wayfinding",
       "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
+    },
+    {
+      "added_at": "2023-02-10 00:00:00",
+      "album": {
+        "name": "It's Just A Bit Of Blood",
+        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "It's Just A Bit Of Blood",
+      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
     },
     {
       "added_at": "2023-02-10 00:00:00",

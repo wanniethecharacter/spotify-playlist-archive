@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-198 songs - 12 hr 19 min
+199 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 | 2022-03-11 |  |
 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 | 2023-02-14 |  |
 | [Colibrí](https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Colibrí](https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu) | 4:16 | 2022-06-24 | 2023-01-08 |
+| [Colibrí](https://open.spotify.com/track/7bIFPb94suPK06tT2vTgQR) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:16 | 2023-03-02 |  |
 | [Corriente](https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Juan Amaya](https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu) | [Corriente](https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY) | 5:01 | 2022-03-11 | 2022-07-29 |
 | [Cuando Estés Afuera](https://open.spotify.com/track/6lufSpRfVJ6ti4agfEKcTe) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Cuando Estés Afuera](https://open.spotify.com/album/6OvcqMULlmwvsexzpLHKbt) | 3:31 | 2022-03-11 | 2022-06-25 |
 | [Cuervos en la Cuerda](https://open.spotify.com/track/7xGNkB16AWcaSFg4YBdn6h) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Revólver Plateado](https://open.spotify.com/album/1se6mj1XApyGtdDtyc08Qf) | 3:30 | 2022-03-11 | 2022-07-29 |
@@ -83,7 +84,7 @@
 | [Gemas](https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1) | 3:38 | 2022-03-11 | 2022-07-28 |
 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 | 2022-03-11 | 2022-09-27 |
 | [Hacia la Noche](https://open.spotify.com/track/4WcRew9JOPLtM6TfOKABKg) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1b7wcyINye4qF7MMNcYP7Y) | 3:55 | 2022-03-11 | 2022-07-29 |
-| [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 | 2022-06-24 |  |
+| [Hacia la Noche](https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL) | 3:55 | 2022-06-24 | 2023-03-11 |
 | [Himno a los Solitarios](https://open.spotify.com/track/7D4KfqQBGYPRbunFMdxHgZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer \(Deluxe Edition\)](https://open.spotify.com/album/5W9BId7OXCwbjLcOAbRo5T) | 3:52 | 2022-03-11 | 2022-07-29 |
 | [Hokha \(Remix\)](https://open.spotify.com/track/1JQXqdELlVXmimifDwZnbW) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0) | [Hokha \(Remix\)](https://open.spotify.com/album/1153fdVhaewa6wjdXgF2EA) | 5:00 | 2022-03-11 | 2022-06-10 |
 | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/track/07YsLu2GcHWybEgbQlvnXL) | [Carlos Elliot](https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0), [Red Hoop Tribe](https://open.spotify.com/artist/0WCz8oBvZpusRexGRtd0E8) | [Hoop of Life \(Lakota Way\)](https://open.spotify.com/album/4PcXorSyOBOFPurHVY4BaZ) | 5:56 | 2022-06-24 | 2022-07-29 |

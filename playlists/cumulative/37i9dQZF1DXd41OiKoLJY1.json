@@ -3399,6 +3399,28 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2WQU5nu0FV6qYe6AUOBbCq"
+      },
+      "artists": [
+        {
+          "name": "Philly Nick",
+          "url": "https://open.spotify.com/artist/6ZZIuxXZHgHU9Ad3yRaxj5"
+        },
+        {
+          "name": "1400",
+          "url": "https://open.spotify.com/artist/3khYSaUr7GBHWZY0ZdzbQr"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138513,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/19UN16mgucQdQ1dlj6WG6o"
+    },
+    {
+      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/5zhJX9t6XULs5ro6UglO61"
       },

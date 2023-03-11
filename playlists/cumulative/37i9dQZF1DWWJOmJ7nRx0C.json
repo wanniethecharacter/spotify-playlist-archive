@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Dorothy",
+  "description": "The hardest songs, loud. Very loud. Cover: Story Of The Year",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -182,6 +182,28 @@
       "duration_ms": 192092,
       "name": "A Shot in the Dark",
       "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
+    },
+    {
+      "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266427,
+      "name": "A Thousand Shades (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz"
     },
     {
       "album": {
@@ -1136,6 +1158,42 @@
       "duration_ms": 217000,
       "name": "Blast off!!",
       "url": "https://open.spotify.com/track/1JmuSDG7aC2aXu8A7iISyC"
+    },
+    {
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/2n5ZiDcOHT4B3tVrswA5xU"
+      },
+      "artists": [
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/5ixSIPslhHootnIhXb4hLN"
+    },
+    {
+      "album": {
+        "name": "BLOODPUDDLE",
+        "url": "https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "BLOODPUDDLE",
+      "url": "https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO"
     },
     {
       "album": {
@@ -3241,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "DOGMA",
+        "url": "https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr"
+      },
+      "artists": [
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166892,
+      "name": "DOGMA",
+      "url": "https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw"
+    },
+    {
+      "album": {
         "name": "New Age Filth",
         "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
       },
@@ -3310,7 +3386,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
@@ -4591,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3GMKkw7aQfIO3lGFg6jK76"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/52mt7K5dPckj5TD2XzZwj2"
+    },
+    {
+      "album": {
         "name": "Gotta Get Outta Here",
         "url": "https://open.spotify.com/album/2jMO1lQAno6IGeRuwOFmAR"
       },
@@ -5427,6 +5521,24 @@
     },
     {
       "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207139,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW"
+    },
+    {
+      "album": {
         "name": "If Darkness Had a Son",
         "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
       },
@@ -5478,10 +5590,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 215154,
       "name": "Immortalize",
       "url": "https://open.spotify.com/track/1AR0d9urAEX4a1WdTzmbKz"
+    },
+    {
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290356,
+      "name": "Imperial Heretic",
+      "url": "https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7"
     },
     {
       "album": {
@@ -6222,6 +6352,24 @@
       "duration_ms": 205974,
       "name": "Let You Down (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/0TwK4x6GMaX8oXj8kRocku"
+    },
+    {
+      "album": {
+        "name": "Lets Go",
+        "url": "https://open.spotify.com/album/7f8VPd0sSK9RaDywtguiqE"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159343,
+      "name": "Lets Go",
+      "url": "https://open.spotify.com/track/2Huoe7IkblyOcQZP3No6uH"
     },
     {
       "album": {
@@ -7132,7 +7280,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
@@ -7548,7 +7696,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 280206,
       "name": "One of Those Days (feat. Eric Clapton)",
       "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
@@ -8526,6 +8674,24 @@
       "duration_ms": 202339,
       "name": "RECOVER",
       "url": "https://open.spotify.com/track/2k7lPTbMXcVLDoHqTE2Yzt"
+    },
+    {
+      "album": {
+        "name": "Red Fur",
+        "url": "https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc"
+      },
+      "artists": [
+        {
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Red Fur",
+      "url": "https://open.spotify.com/track/1jj922BgyJexH19yoHd23L"
     },
     {
       "album": {
@@ -10520,7 +10686,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182407,
       "name": "The Delicate Nature",
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"

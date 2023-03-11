@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 58929,
+  "num_followers": 58976,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMGM0NTliYjMwM2UwYzNmYjM0MDgyMDk5ODIwN2RkMDll",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDgyOWVmMmFmODA3NjNmN2ZhZGNmYjk4NTQ1YmFkNTNk",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -331,8 +331,8 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 886733,
-      "name": "Romances (Voy a apagar la luz / Contigo aprend\u00ed / Por debajo de la mesa / El reloj / Sabor a m\u00ed / La gloria eres t\u00fa / B\u00e9same mucho) - En vivo",
-      "url": "https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu"
+      "duration_ms": 141600,
+      "name": "El Rey - En Vivo",
+      "url": "https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Eso Y M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Enamorada En Vivo",
         "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 189853,
       "name": "Llorar - En Vivo",
       "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Eso Y M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Con Ustedes... Car10s Rivera en Vivo",
-        "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 293693,
-      "name": "La Malague\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
         "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 181613,
       "name": "Porqu\u00e9 No Le Calas - Live",
       "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Con Ustedes... Car10s Rivera en Vivo",
+        "url": "https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 293693,
+      "name": "La Malague\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Hit Parade",
-        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 191733,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
+      "duration_ms": 187440,
+      "name": "Un Idiota - En Vivo",
+      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+        "name": "Mariachi Hit Parade",
+        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Un Idiota - En Vivo",
-      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
+      "duration_ms": 191733,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -667,6 +667,22 @@
       "duration_ms": 256640,
       "name": "Albur De Amor - En Vivo",
       "url": "https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mujeres con Mariachi",
+        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "La Gran Se\u00f1ora - Live",
+      "url": "https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -703,34 +719,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mujeres con Mariachi",
-        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 230133,
-      "name": "La Gran Se\u00f1ora - Live",
-      "url": "https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Mariachi Ranchera Y Tradicional",
-        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 307626,
-      "name": "Sufriendo a Solas",
-      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
+      "duration_ms": 223546,
+      "name": "Secreto De Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -808,15 +808,15 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Secreto De Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4dmRntbw2COWNacQzUWt6q"
+      "duration_ms": 199640,
+      "name": "Estuve - En Vivo",
+      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
     },
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Hit Parade",
-        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
+        "name": "Mariachi Ranchera Y Tradicional",
+        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
       },
       "artists": [
         {
@@ -824,41 +824,9 @@
           "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 138213,
-      "name": "En El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Cartas Marcadas - En Vivo",
-      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
+      "duration_ms": 307626,
+      "name": "Sufriendo a Solas",
+      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -879,18 +847,34 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Estuve - En Vivo",
-      "url": "https://open.spotify.com/track/3FYqBFgxf9xTSqOv07BVSy"
+      "duration_ms": 250200,
+      "name": "Cartas Marcadas - En Vivo",
+      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -907,6 +891,22 @@
       "duration_ms": 236186,
       "name": "Tatuajes - En Vivo",
       "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mariachi Hit Parade",
+        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "En El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -959,8 +959,8 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 141600,
-      "name": "El Rey - En Vivo",
-      "url": "https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc"
+      "duration_ms": 886733,
+      "name": "Romances (Voy a apagar la luz / Contigo aprend\u00ed / Por debajo de la mesa / El reloj / Sabor a m\u00ed / La gloria eres t\u00fa / B\u00e9same mucho) - En vivo",
+      "url": "https://open.spotify.com/track/7exfNBa2ZlzKKDikpyGyKu"
     },
     {
       "added_at": "2021-12-29 23:15:19",

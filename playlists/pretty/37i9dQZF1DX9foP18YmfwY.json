@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Mission\u00e1rio Shalom, Entretons",
-  "num_followers": 289373,
+  "num_followers": 289473,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMDQ0NjgzM2Q4OWRlYzc2MTYxNDUwMTA1MTM0M2U3NjRh",
+  "snapshot_id": "MTY3NzIzNzI4MSwwMDAwMDAwMGVkZTVmM2ZjY2JkYTEzZWMzZGU1YmNjNTczNDJhZTk4",
   "tracks": [
     {
       "added_at": "2023-02-10 12:28:24",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
+        "name": "Deus \u00c9 Poderoso pra Fazer: Live Session",
+        "url": "https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 518067,
+      "name": "Queima de Novo - Live",
+      "url": "https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq"
+    },
+    {
+      "added_at": "2023-02-10 12:28:24",
+      "album": {
         "name": "Jardim",
         "url": "https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 494000,
       "name": "Jardim",
       "url": "https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW"
-    },
-    {
-      "added_at": "2023-02-10 12:28:24",
-      "album": {
-        "name": "Deus \u00c9 Poderoso pra Fazer: Live Session",
-        "url": "https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 518067,
-      "name": "Queima de Novo - Live",
-      "url": "https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
-      "added_at": "2023-03-10 01:42:01",
+      "added_at": "2023-03-11 00:52:11",
       "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Seja Bem-Vindo Jesus",
-        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
       },
       "artists": [
         {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
         }
       ],
-      "duration_ms": 310704,
-      "name": "Seja Bem-Vindo Jesus",
-      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-02-10 12:28:24",
       "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+        "name": "Seja Bem-Vindo Jesus",
+        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
       },
       "artists": [
         {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
         }
       ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
+      "duration_ms": 310704,
+      "name": "Seja Bem-Vindo Jesus",
+      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
     },
     {
       "added_at": "2023-02-10 12:28:24",
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
-      "added_at": "2023-03-10 01:42:01",
+      "added_at": "2023-03-11 00:52:11",
       "album": {
         "name": "Ana e Maria",
         "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"

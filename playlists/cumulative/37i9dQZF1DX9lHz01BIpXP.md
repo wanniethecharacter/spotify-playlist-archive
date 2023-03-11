@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=YNc\-DzqzRwSJsd\-XlNmQ1w">Loufi</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=Zk6M2stsT62zTnwJushTtw">Biggy</a> & <a href="https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY?si=ZTe3AACjR8qjV7UWhwKDrw">Angie oeh</a>
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 |  |
 | [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 |  |
 | [Dala wat jy moet \- Radio Edit](https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Irshaad](https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10), [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam) | [Dala wat jy moet](https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3) | 3:50 | 2022-09-08 |  |
+| [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-10 |  |
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 |  |
 | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 |  |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 |  |
@@ -71,7 +72,7 @@
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 |  |
 | [There It Is](https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:03 | 2022-09-08 |  |
 | [VAAK](https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1) | [JAYD?N](https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5), [Ello\-Jay](https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp) | [VAAK](https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI) | 2:09 | 2022-12-08 |  |
-| [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 |  |
+| [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 | 2023-03-11 |
 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 |  |
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 |  |
 | [Wesbank Bloei](https://open.spotify.com/track/25DeMB5fLrhgiGWKvVb083) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Wesbank Bloei](https://open.spotify.com/album/0bo1Peg9WhB0rV0HNRK5Ss) | 3:13 | 2022-09-08 | 2023-02-10 |

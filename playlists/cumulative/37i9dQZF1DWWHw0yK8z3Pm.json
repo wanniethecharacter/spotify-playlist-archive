@@ -88,10 +88,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 239360,
       "name": "Acre of Land",
       "url": "https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2"
+    },
+    {
+      "album": {
+        "name": "Across the Hall",
+        "url": "https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "Across the Hall",
+      "url": "https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA"
     },
     {
       "album": {
@@ -1041,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+    },
+    {
+      "album": {
         "name": "Deadman",
         "url": "https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa"
       },
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207058,
       "name": "I Would Be Me",
       "url": "https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS"
@@ -2776,7 +2816,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 249728,
       "name": "Next Somewhere",
       "url": "https://open.spotify.com/track/2BUHojp3DLIExIWPB7fHCZ"
@@ -3944,6 +3984,40 @@
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy"
+    },
+    {
+      "album": {
+        "name": "Tough Country",
+        "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
+      },
+      "artists": [
+        {
+          "name": "The Panhandlers",
+          "url": "https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        },
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243120,
+      "name": "Tough Country",
+      "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
     },
     {
       "album": {

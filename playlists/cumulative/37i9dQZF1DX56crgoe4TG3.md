@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-192 songs - 12 hr 14 min
+196 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,9 @@
 | [Gin and Juice](https://open.spotify.com/track/6CeszonFOlgp7HiawTSqCu) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/2Ril3zeU3IlvS6e4NQLWd2) | 6:23 | 2022-05-27 |  |
 | [Gin and Juice](https://open.spotify.com/track/7v7ytRZIWuZuNxXSGwxIhK) | [The Gourds](https://open.spotify.com/artist/2gk28RNJaPStV8BnugHYpF) | [Shinebox](https://open.spotify.com/album/6tqUpnBCm5rYkmVdHfJjzP) | 6:23 | 2021-08-20 | 2022-07-29 |
 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 | 2023-02-03 |  |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm) | 4:29 | 2023-03-10 |  |
 | [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 | 2023-02-24 |  |
+| [Hand In My Pocket](https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Hand In My Pocket](https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx) | 2:41 | 2023-03-10 |  |
 | [Happy](https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Keepin' it Beefy](https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH) | 3:38 | 2021-08-20 | 2022-01-22 |
 | [Hey Ya](https://open.spotify.com/track/0ELVXVHz8aPgwLySfkDn8e) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Obadiah Parker Live](https://open.spotify.com/album/4xjHVgg9DgYhV1UVJhDlKO) | 4:27 | 2021-08-20 | 2022-07-29 |
 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 | 2022-05-27 |  |
@@ -135,6 +137,7 @@
 | [Old Man](https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:11 | 2022-05-27 |  |
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-08-20 |  |
 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 | 2022-09-30 |  |
+| [On the Turning Away](https://open.spotify.com/track/3TRR5kid8vTvIxBv5IC8Of) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [On the Turning Away](https://open.spotify.com/album/3LoKsXW9FpjbUbZBGtQ9Vr) | 3:06 | 2023-03-10 |  |
 | [Outbound Plane](https://open.spotify.com/track/2Dx0LnWpxdKyKlYPMNiaUn) | [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Outbound Plane](https://open.spotify.com/album/0ekHYaKNRyLh7AfizfVNY7) | 3:49 | 2022-07-29 |  |
 | [Pinball Wizard](https://open.spotify.com/track/3wWmZKqmJkQEdsfIsncoFz) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/30JWrDVhcL9nXRPEantke9) | 3:43 | 2021-08-20 | 2022-07-29 |
 | [Pinball Wizard](https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/5ALFsEy1iZE8Megoyj77IW) | 3:43 | 2022-05-27 |  |
@@ -161,6 +164,7 @@
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-08-20 | 2022-01-08 |
 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 |  |
 | [Summer's End](https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Summer's End](https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH) | 3:48 | 2021-08-20 |  |
+| [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh) | 3:34 | 2023-03-10 |  |
 | [Superstition](https://open.spotify.com/track/3TXIXYKb8c6Lj6v7TcU0gB) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/32VCMTj1IgIsP9UqsOKKeC) | 3:21 | 2021-08-20 | 2022-07-29 |
 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 | 2022-05-27 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns N' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 | 2021-08-20 |  |

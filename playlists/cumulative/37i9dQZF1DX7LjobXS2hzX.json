@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Miley Cyrus",
+  "description": "Voici les hits du moment. Photo: Rema, Selena Gomez",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 225253,
       "name": "Cr\u00e9puscule",
       "url": "https://open.spotify.com/track/3SqaQQ3WiaKNO64iZbotqj"
@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/3SrVZQpgpvIaQ1HErGygdQ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161019,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/1Edza42w05Qq7cz5K6r658"
+    },
+    {
+      "album": {
         "name": "Funambule",
         "url": "https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 154977,
       "name": "Funambule",
       "url": "https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 181613,
       "name": "Future Ex",
       "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
@@ -1462,6 +1480,24 @@
       "duration_ms": 148015,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "album": {
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
@@ -1790,7 +1826,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 141631,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm"
@@ -2021,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kzBeKrnyzKrDC5JaVCrJW"
       },
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217493,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/2E6QMP1mJcyD319Izd5mIK"
@@ -2486,7 +2544,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 185293,
       "name": "On a mis d\u2019la lumi\u00e8re",
       "url": "https://open.spotify.com/track/44q2BOX0z5eN7F1EpCRKjP"
@@ -2934,10 +2992,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 123311,
       "name": "Sad Happy Ending",
       "url": "https://open.spotify.com/track/3Gz3geFaUtKSYOR1d7i5zF"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216186,
+      "name": "Sex To Me",
+      "url": "https://open.spotify.com/track/5VYxtmyTV8ZSMLLt6PMyYu"
     },
     {
       "album": {

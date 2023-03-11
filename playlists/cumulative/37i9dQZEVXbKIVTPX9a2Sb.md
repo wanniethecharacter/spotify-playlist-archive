@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,201 songs - 2 day 13 hr 14 min
+1,202 songs - 2 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,7 +649,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-11 | 2021-09-03 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-16 | 2022-03-27 |
 | [MR.FEAT](https://open.spotify.com/track/7wNLwWq38WGJd4qhvdv8kd) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [MR.FEAT](https://open.spotify.com/album/7dusW7yTQtKOXT4MAbqCVv) | 3:15 | 2023-02-08 | 2023-02-14 |
-| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-31 |  |
+| [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-07-31 | 2023-03-11 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-06-03 |
 | [MY](https://open.spotify.com/track/1rWrrEAVMu8E0uP9rBFpWo) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt) | [XYZ](https://open.spotify.com/album/2AIugwH8RPAikyhx2MOxlL) | 2:50 | 2023-02-03 | 2023-02-05 |
 | [MY](https://open.spotify.com/track/5MCYkfAfAk1moFtzSoZkgC) | [Yael](https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz) | [MY](https://open.spotify.com/album/4VqzNBTmuowZ5ZqjiWKeol) | 3:01 | 2022-02-16 | 2022-08-11 |
@@ -1040,6 +1040,7 @@
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-10-31 | 2022-04-13 |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2021-10-18 | 2021-10-31 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-31 | 2021-06-09 |
+| [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-10 |  |
 | [Traphouse](https://open.spotify.com/track/0rc4QASgHGFMLzeOKOfYtH) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 2:07 | 2023-02-21 | 2023-03-05 |
 | [TRAPPIN LONELY](https://open.spotify.com/track/2wzELRaOAvUjhJoSkcJTKT) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [TRAPPIN LONELY](https://open.spotify.com/album/0tbXCibxgpS2zFZTABRmmn) | 2:26 | 2022-05-30 | 2022-06-01 |
 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 | 2022-11-05 | 2022-11-07 |

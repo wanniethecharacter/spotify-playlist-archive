@@ -774,10 +774,36 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 104693,
       "name": "Kabadi",
       "url": "https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep"
+    },
+    {
+      "album": {
+        "name": "Ghilli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4z4Lj02JTAgMGTATtnVwWY"
+      },
+      "artists": [
+        {
+          "name": "Vidyasagar",
+          "url": "https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5"
+        },
+        {
+          "name": "Maran",
+          "url": "https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ"
+        },
+        {
+          "name": "Jayamoorthy",
+          "url": "https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104333,
+      "name": "Kabadi",
+      "url": "https://open.spotify.com/track/0jxmBpNYgkyy50CGQjH9a1"
     },
     {
       "album": {
@@ -1298,7 +1324,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 157880,
       "name": "Pokkiri Theme",
       "url": "https://open.spotify.com/track/72kMYIVcqEnJKCC9p4GH2d"
@@ -1476,7 +1502,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92400,
       "name": "S3 Vetta (Theme Music)",
       "url": "https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am"
@@ -1494,7 +1520,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 92400,
       "name": "S3 Vetta (Theme Music)",
       "url": "https://open.spotify.com/track/73DlBWrcBuetKprQ4bJ7wO"
@@ -2228,6 +2254,24 @@
       "duration_ms": 91285,
       "name": "Whistle Theme (From \"Valimai\")",
       "url": "https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm"
+    },
+    {
+      "album": {
+        "name": "Hits of Mani Sharma",
+        "url": "https://open.spotify.com/album/3ML3D2fO7nA1UoKN8jYIP5"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "Yuthame (Theme) (From \"Pokkiri\")",
+      "url": "https://open.spotify.com/track/4xjaNv5CVb1HCwe1Jkwyj2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ"

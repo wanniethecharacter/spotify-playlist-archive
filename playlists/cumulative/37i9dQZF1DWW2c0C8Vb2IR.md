@@ -4,7 +4,7 @@
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-1,973 songs - 6 day 17 hr 47 min
+1,974 songs - 6 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1706,7 +1706,8 @@
 | [The New Money Spyder](https://open.spotify.com/track/4zkMUy3xQPBAHlNSqChYcI) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [The New Money Spyder](https://open.spotify.com/album/2JrnD28Xk3w8GdqYsSpbQ5) | 3:32 | 2022-06-24 | 2022-07-02 |
 | [The Open Door](https://open.spotify.com/track/5jRIBkj02iGZZjIVfO2z4G) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Open Door](https://open.spotify.com/album/1iMk3S2GRTbgOJS7SQSgVi) | 4:57 | 2022-10-07 | 2022-10-15 |
 | [The Other Side](https://open.spotify.com/track/6QQhvz6gvWh6r9SJLkWDPi) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Other Side](https://open.spotify.com/album/1h1lCBNb4OinPezoP17VBW) | 3:38 | 2022-02-25 | 2022-03-05 |
-| [The Path of Most Resistance](https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [The Path of Most Resistance](https://open.spotify.com/album/2TnQd8ft8eUGGBUoPWMhUq) | 5:39 | 2022-11-25 |  |
+| [The Path of Most Resistance](https://open.spotify.com/track/00hGkGDjuexWzGsr9mTPAD) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Polish Encounter](https://open.spotify.com/album/2Rds7Q5z3Xueh7y1x0CSnm) | 5:39 | 2022-11-25 |  |
+| [The Path of Most Resistance](https://open.spotify.com/track/65qXRjqb5xYRIr5AcSeFPm) | [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [The Path of Most Resistance](https://open.spotify.com/album/2TnQd8ft8eUGGBUoPWMhUq) | 5:39 | 2022-11-25 | 2023-03-11 |
 | [The Pioneers](https://open.spotify.com/track/6aUm3x3eDyWWi7vn4stopF) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:42 | 2022-11-11 | 2022-11-26 |
 | [The Plagwitz Drum Incident](https://open.spotify.com/track/24LZN2v7ycUVh0Y6jrcfIb) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [The Plagwitz Drum Incident](https://open.spotify.com/album/2xixdZN83xvd0IaUnsWO7W) | 10:23 | 2022-04-01 | 2022-04-09 |
 | [The Point](https://open.spotify.com/track/0cDLhszLOZtmbvONCagOcN) | [Times 4](https://open.spotify.com/artist/3x6PACKJFODRuFEVlYMLJN), [Lincoln Adler](https://open.spotify.com/artist/6QLoQBVmeZqyQKZthtH7Bp), [Greg Sankovich](https://open.spotify.com/artist/0rqY1u2KZuHFp791pxBWAm), [Kevin Lofton](https://open.spotify.com/artist/5l5yllvqPVTZCgxsNyEZvV), [Maurice Miles](https://open.spotify.com/artist/3dIZUrzgkKMjPduOcctyDi) | [Frame of Mind](https://open.spotify.com/album/5KGIXlm5VRcIeZ8wfACdpc) | 8:06 | 2022-01-21 | 2022-02-12 |

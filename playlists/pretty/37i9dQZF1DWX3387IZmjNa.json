@@ -1,48 +1,32 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Dess Dior",
-  "num_followers": 1963137,
+  "num_followers": 1963629,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMGFmZTYwZDgxNDA0ODhjZjg2MjA5ZDg3MzNkNDljNzc5",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGZmZjVjODYxYjA1NzZkNjljYzcyN2Y0NTIyYzFhYzIy",
   "tracks": [
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Favorite Song",
-        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+        "name": "Feed Tha Streets III",
+        "url": "https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji"
       },
       "artists": [
         {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 208630,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
-    },
-    {
-      "added_at": "2022-10-18 02:56:45",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+      "duration_ms": 169005,
+      "name": "#1 Freak (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/0tgAhrvNPhSyMZR0wWbv6Z"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -63,6 +47,42 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "3AM in Oakland",
+        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "3AM in Oakland",
+      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
+    },
+    {
+      "added_at": "2022-10-18 02:56:45",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -87,26 +107,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "4 Me (feat. Kali Uchis)",
-        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "4 Me (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "HO4ME",
         "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
       },
@@ -127,22 +127,6 @@
       "duration_ms": 235711,
       "name": "HO4ME",
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "3AM in Oakland",
-        "url": "https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "3AM in Oakland",
-      "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -203,6 +187,94 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Secrets (feat. Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Secrets (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Till We Drop",
+        "url": "https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Till We Drop",
+      "url": "https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Favorite Song",
+        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 208630,
+      "name": "Favorite Song",
+      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "4 Me (feat. Kali Uchis)",
+        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Her Old Friends",
+        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 256117,
+      "name": "Her Old Friends",
+      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -223,46 +295,6 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 208373,
-      "name": "If I Had (feat. Charlie Wilson)",
-      "url": "https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Secrets (feat. Mariah the Scientist)",
-        "url": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Secrets (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -381,26 +413,6 @@
       "url": "https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Feed Tha Streets III",
-        "url": "https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 169005,
-      "name": "#1 Freak (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0tgAhrvNPhSyMZR0wWbv6Z"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "It's Only Me",
@@ -417,36 +429,20 @@
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2022-12-23 05:00:00",
       "album": {
-        "name": "Till We Drop",
-        "url": "https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW"
+        "name": "Blinded By Death (Deluxe)",
+        "url": "https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl"
       },
       "artists": [
         {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
         }
       ],
-      "duration_ms": 149733,
-      "name": "Till We Drop",
-      "url": "https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Her Old Friends",
-        "url": "https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 256117,
-      "name": "Her Old Friends",
-      "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
+      "duration_ms": 155759,
+      "name": "Writing My Wrongs",
+      "url": "https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -483,6 +479,26 @@
       "duration_ms": 163892,
       "name": "JUST FRIENDS ?",
       "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "If I Had (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -529,6 +545,30 @@
       "url": "https://open.spotify.com/track/0Ad3j3QJ7W3nxeLG3w189u"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Back In My Prime",
+        "url": "https://open.spotify.com/album/0ni3klsEFpBZLUPi0ecYlu"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Hitmaka",
+          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "YKTV (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"
+    },
+    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Quickie",
@@ -565,22 +605,6 @@
       "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
-      "album": {
-        "name": "Blinded By Death (Deluxe)",
-        "url": "https://open.spotify.com/album/4iGNig0GVOAe6wsQXEJVfl"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        }
-      ],
-      "duration_ms": 155759,
-      "name": "Writing My Wrongs",
-      "url": "https://open.spotify.com/track/1yXCWJQfYF8ff7XcUzwcCy"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "They Don't Know",
@@ -615,26 +639,6 @@
       "duration_ms": 121130,
       "name": "Magic Potion",
       "url": "https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Hide & Seek (Rema Remix)",
-        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Hide & Seek - Rema Remix",
-      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -675,6 +679,26 @@
       "duration_ms": 163310,
       "name": "Already Know",
       "url": "https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hide & Seek (Rema Remix)",
+        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Hide & Seek - Rema Remix",
+      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -899,26 +923,6 @@
       "duration_ms": 156521,
       "name": "Keep Calling",
       "url": "https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Wild ASF",
-        "url": "https://open.spotify.com/album/6ozSqsjmFAuBi7B3GPJ8xJ"
-      },
-      "artists": [
-        {
-          "name": "Duece Uno",
-          "url": "https://open.spotify.com/artist/1PdCdnAjBXPeCFhBMlhjBt"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 150048,
-      "name": "Wild ASF",
-      "url": "https://open.spotify.com/track/4Q8QYInISjCTYQXVpy29iN"
     },
     {
       "added_at": "2023-01-20 05:00:00",

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-206 songs - 15 hr 43 min
+212 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Pollen](https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le) | 7:50 | 2022-10-15 |  |
 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 | 2022-01-07 |  |
 | [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 |  |
+| [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 |  |
 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 |  |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2022-12-30 |  |
@@ -164,6 +165,7 @@
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-12-30 |  |
 | [su sa](https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [su sa](https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j) | 3:32 | 2022-01-07 |  |
 | [SUNNYSIDE OF THE WATER/水と光](https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 3:07 | 2022-12-30 |  |
+| [Sweltering Drive](https://open.spotify.com/track/5BuOxxrd7WIgWMIO4pYVFQ) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Sweltering Drive](https://open.spotify.com/album/2QahlDidj7CrgCmRF4TTuv) | 3:54 | 2023-03-11 |  |
 | [Tea House](https://open.spotify.com/track/77HFkDRYAxTTjEQxUSEwFg) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:50 | 2022-01-07 |  |
 | [The Big Blue Star Impossible to Imagine](https://open.spotify.com/track/4yKd720PDsj6ZadrmJ9ESa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 4:31 | 2023-03-03 |  |
 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 | 2022-07-22 |  |
@@ -178,8 +180,10 @@
 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2022-12-30 |  |
 | [Tokiori](https://open.spotify.com/track/5agITFAPA4Y0zuSUHTDwf4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Huwa](https://open.spotify.com/album/0w7XCXbHXRfTSixvZCdCHr) | 3:16 | 2022-01-07 | 2022-02-23 |
 | [Tomoshibi](https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 7:00 | 2022-12-30 |  |
+| [Tsukamu](https://open.spotify.com/track/2bQUrDK1UsJpdERbyX5ElU) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Tsukamu](https://open.spotify.com/album/2dgAWmc93VxlOIHoDuxp4l) | 2:54 | 2023-03-11 |  |
 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Tugboat](https://open.spotify.com/track/7HHyF48vLPvF9jPIt16OXS) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Magic Hour](https://open.spotify.com/album/1OoQkcRJonsT1nluNMbZtd) | 1:33 | 2022-01-07 |  |
+| [Twilight Glow Of The Sky](https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [The Long Night in Winter Light](https://open.spotify.com/album/7ts5pWYsvPBiEunCLHuXD3) | 3:55 | 2023-03-11 |  |
 | [Twilight Sea](https://open.spotify.com/track/1yuOuQsQf1Lnz0OFAXfahW) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 6:05 | 2022-01-07 |  |
 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 |  |
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
@@ -191,7 +195,9 @@
 | [Until the End of the World](https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Horizon, Volume 1](https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV) | 6:04 | 2022-12-30 |  |
 | [Uprise](https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr) | [Keigo Tanaka](https://open.spotify.com/artist/6t4tsh9Xx0oPZQayHbxLb3) | [Uprise](https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2) | 8:15 | 2022-03-25 |  |
 | [Veil](https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:06 | 2022-10-15 |  |
+| [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 | 2023-03-11 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
+| [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 |  |
 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 | 2022-01-07 |  |
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 48614,
+  "num_followers": 48720,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDQxMWJhNjhkMzRlYjExNWY5OGEwNDMyM2FlYWZlOGQ5",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDRmMDUxZDE1NjBjZTlhYWZkNmMyODY1MDQ0OTI5YWQ0",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Pink Pony Club",
-        "url": "https://open.spotify.com/album/3PKq6CrZYLvkNvTLD5DO4x"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/6IFjVdrrtV3MngDnP89bHM"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Glory (Deluxe)",
         "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
       },
@@ -1563,6 +1531,22 @@
       "duration_ms": 214080,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1675,6 +1659,22 @@
       "duration_ms": 251320,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
     }
   ],
   "unique_name": "Deserved",

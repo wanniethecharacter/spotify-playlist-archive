@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 25745,
+  "num_followers": 25817,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDVlMGJkYjc3N2MxNWYyZjI2MjE0M2RlZmY1ZjJkNWZk",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDBjODAzYjRkMDAyNTgxN2IwMDhiZGQ4MDg5Y2NkZjE4",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
+      },
+      "artists": [
+        {
+          "name": "Max Torres",
+          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7"
-      },
-      "artists": [
-        {
-          "name": "Max Torres",
-          "url": "https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Nunca Te Dir\u00e9 Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Tumbas",
-      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Solo Salsa",
         "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 215118,
       "name": "Como la Quiero Cuanto la Extra\u00f1o",
       "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 261472,
+      "name": "Punta a Punta",
+      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "14 Ca\u00f1onazos Bailables 2001",
         "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261472,
-      "name": "Punta a Punta",
-      "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Hermanos Cartagena",
+        "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Cartagena",
+          "url": "https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF"
+        }
+      ],
+      "duration_ms": 241186,
+      "name": "Nadie Quien Te Quiera",
+      "url": "https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "\u00a1Para Bailar!",
         "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 204604,
       "name": "Sobre las Olas",
       "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Hermanos Cartagena",
-        "url": "https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE"
-      },
-      "artists": [
-        {
-          "name": "Antonio Cartagena",
-          "url": "https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF"
-        }
-      ],
-      "duration_ms": 241186,
-      "name": "Nadie Quien Te Quiera",
-      "url": "https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "\u00a1Para Bailar!",
-        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Morist Jimenez",
-          "url": "https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Dime Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Tremendo Trio",
         "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 347893,
       "name": "Nadie Se Salva De La Rumba",
       "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "\u00a1Para Bailar!",
+        "url": "https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Morist Jimenez",
+          "url": "https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Dime Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Las Cale\u00f1as Son Como las Flores",
-      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Al Son Que Me Toquen, Vol. 1",
         "url": "https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 258800,
       "name": "El Apartamento",
       "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
-      },
-      "artists": [
-        {
-          "name": "Los Nemus Del Pacifico",
-          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Castigala",
-      "url": "https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Salsa Party",
         "url": "https://open.spotify.com/album/1TValj7DVZHROOw512dZoL"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 411653,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/7zxIFIYzslVWU9ffktKNrU"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "duration_ms": 276533,
+      "name": "Castigala",
+      "url": "https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "S\u00f3lo para Mujeres",
-        "url": "https://open.spotify.com/album/60riLMQ2svEvrzZz0rDhhG"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "Cara de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/7tYwvcNB0s9JOCstnqwWBt"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 280693,
       "name": "Este Amor",
       "url": "https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "S\u00f3lo para Mujeres",
+        "url": "https://open.spotify.com/album/60riLMQ2svEvrzZz0rDhhG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Cara de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/7tYwvcNB0s9JOCstnqwWBt"
     },
     {
       "added_at": "2022-08-02 22:53:13",

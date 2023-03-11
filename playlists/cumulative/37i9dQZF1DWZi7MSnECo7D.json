@@ -1963,6 +1963,28 @@
     },
     {
       "album": {
+        "name": "Espa\u00e7o",
+        "url": "https://open.spotify.com/album/6Eqw1khsQ5TUcekYMqbuaR"
+      },
+      "artists": [
+        {
+          "name": "Truno",
+          "url": "https://open.spotify.com/artist/7L3mzGXS63zp79NOHXwUqV"
+        },
+        {
+          "name": "Chediak",
+          "url": "https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117428,
+      "name": "Espa\u00e7o",
+      "url": "https://open.spotify.com/track/67KhBNkSVEYTK9cPCq3QT8"
+    },
+    {
+      "album": {
         "name": "Espelho Infinito",
         "url": "https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB"
       },
@@ -2102,6 +2124,24 @@
       "duration_ms": 161333,
       "name": "Eu Ainda Te Quero",
       "url": "https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG"
+    },
+    {
+      "album": {
+        "name": "Eu e a Sol",
+        "url": "https://open.spotify.com/album/6eDhs68qKc5kWVW2tiEPOR"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110366,
+      "name": "Eu e a Sol",
+      "url": "https://open.spotify.com/track/0TY0EFe6tuqAY9bsuHqZeF"
     },
     {
       "album": {
@@ -2816,6 +2856,24 @@
       "duration_ms": 261678,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/48AzQaxVmEx9HCu6jfagDd"
+    },
+    {
+      "album": {
+        "name": "Longe",
+        "url": "https://open.spotify.com/album/7mRz40l7AZVQfNZtuwwe7h"
+      },
+      "artists": [
+        {
+          "name": "C\u00edcero",
+          "url": "https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Longe",
+      "url": "https://open.spotify.com/track/1aC2Sh3pqlzydr1dsoi6v0"
     },
     {
       "album": {

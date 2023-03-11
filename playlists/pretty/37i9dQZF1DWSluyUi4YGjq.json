@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 40213,
+  "num_followers": 40642,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzOTk0NiwwMDAwMDAwMDQwOTE4NDAzMTgwZWUyZjgwYmJkMmYzMTYzODc4Y2Ji",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDBlZjIxZjIzMTk0ZmVmYjA5Yjk0NGZmYWU1MTEyZjg3",
   "tracks": [
     {
       "added_at": "2023-01-12 03:08:14",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Everything Else Matters",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "taste of concrete",
@@ -665,20 +665,20 @@
       "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Twin Plagues",
-        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 148453,
-      "name": "Handsome Man",
-      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
-    },
-    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -743,6 +727,38 @@
       "duration_ms": 281746,
       "name": "Air Supply",
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2023-02-09 20:06:26",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
+      },
+      "artists": [
+        {
+          "name": "Estrada",
+          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
+        }
+      ],
+      "duration_ms": 247045,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Handsome Man",
+      "url": "https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -779,22 +795,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Despondent Transponder",
         "url": "https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -905,20 +921,20 @@
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
-      "added_at": "2021-12-08 15:59:07",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Death Spells",
-        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
       "artists": [
         {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 387065,
-      "name": "Drag Me into the Woods",
-      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -937,20 +953,36 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2021-12-08 15:59:07",
       "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
       },
       "artists": [
         {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+          "name": "Holy Fawn",
+          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
         }
       ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+      "duration_ms": 387065,
+      "name": "Drag Me into the Woods",
+      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -985,24 +1017,20 @@
       "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2022-09-21 00:43:29",
       "album": {
-        "name": "Clinging to the Ground",
-        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
       "artists": [
         {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        },
-        {
-          "name": "Rew",
-          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Clinging to the Ground",
-      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1025,36 +1053,24 @@
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+        "name": "Clinging to the Ground",
+        "url": "https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2022-09-21 00:43:29",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        },
         {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+          "name": "Rew",
+          "url": "https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT"
         }
       ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+      "duration_ms": 239500,
+      "name": "Clinging to the Ground",
+      "url": "https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1093,22 +1109,6 @@
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "All We've Ever Known",
-        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 183221,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Lesser Matters",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-09 20:06:26",
       "album": {
-        "name": "Citrus",
-        "url": "https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye"
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK"
       },
       "artists": [
         {
-          "name": "Asobi Seksu",
-          "url": "https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62"
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
         }
       ],
-      "duration_ms": 257173,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
+      "duration_ms": 183221,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4saJggfntxQyb3Ro8mk03U"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1155,6 +1155,22 @@
       "duration_ms": 234706,
       "name": "In Your Way",
       "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye"
+      },
+      "artists": [
+        {
+          "name": "Asobi Seksu",
+          "url": "https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1203,22 +1219,6 @@
       "duration_ms": 150309,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
-    },
-    {
-      "added_at": "2023-02-09 20:06:26",
-      "album": {
-        "name": "bb",
-        "url": "https://open.spotify.com/album/5lZGM1KnsNUviOenuiil1h"
-      },
-      "artists": [
-        {
-          "name": "Laveda",
-          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
-        }
-      ],
-      "duration_ms": 161225,
-      "name": "bb",
-      "url": "https://open.spotify.com/track/0BwlbW42QQj8xHABX53WVi"
     }
   ],
   "unique_name": "Shoegaze Now",

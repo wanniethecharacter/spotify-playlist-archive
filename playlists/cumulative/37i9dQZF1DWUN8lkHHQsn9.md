@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Izabela Zabielska
 
-95 songs - 5 hr 37 min
+98 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ciała Niebieskie](https://open.spotify.com/track/1vX60GfNMXm4ghISGo7QBe) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Ciała Niebieskie](https://open.spotify.com/album/6QHFF4bgTFpmy6aNMo6PLE) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 |  |
 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 | 2022-06-01 |  |
+| [Cloud 9](https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Cloud 9](https://open.spotify.com/album/6sGcAgeoGQnbSaiHo77leq) | 3:02 | 2023-03-10 |  |
 | [Czar](https://open.spotify.com/track/2sbSjNpFbHpVvgiJkDOA03) | [Antonina](https://open.spotify.com/artist/0kG8pgFRDYXphEkcRTReNS) | [Czar](https://open.spotify.com/album/6mbc9q7Kvg63UKFtTM4nbr) | 2:45 | 2021-06-22 | 2022-06-01 |
 | [Daj mi jeszcze jedną szansę](https://open.spotify.com/track/3VHXHfcl9ovXKzfycuZr1k) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Daj mi jeszcze jedną szansę](https://open.spotify.com/album/7gWLqkWIShjmmRj4VsT1ro) | 2:52 | 2023-01-24 |  |
 | [Dinozaury i kosmici](https://open.spotify.com/track/6uVAkbq5J7t3mLRrOJtiXI) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Dinozaury i kosmici](https://open.spotify.com/album/5jV4eT6gey4jo3Sr9e9ACL) | 3:57 | 2022-06-01 | 2022-06-14 |
@@ -46,7 +47,7 @@
 | [Lowcost](https://open.spotify.com/track/3a3nbc4trOMB2SNUWzmPn7) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/38qGUVS5YFVqArJRocg0b4) | 3:40 | 2021-06-22 | 2022-06-01 |
 | [Lowcost](https://open.spotify.com/track/56NJBkLZKU0viA3DtcZl06) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [Who the F\*\*\* is Dawid Grzelak?](https://open.spotify.com/album/5qrC1OMKnrMezDlitDquLF) | 3:40 | 2022-06-01 | 2022-06-11 |
 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 | 2022-06-01 |  |
-| [Menago](https://open.spotify.com/track/6SfceDE3wkCJwrhY39I2lj) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Menago](https://open.spotify.com/album/0Y7mVCIvGcX3TcfJaulQnE) | 2:56 | 2023-01-24 |  |
+| [Menago](https://open.spotify.com/track/6SfceDE3wkCJwrhY39I2lj) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Menago](https://open.spotify.com/album/0Y7mVCIvGcX3TcfJaulQnE) | 2:56 | 2023-01-24 | 2023-03-11 |
 | [Miasto na W](https://open.spotify.com/track/2kRkTXrB0ffACOUaiOY3sJ) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Miasto na W](https://open.spotify.com/album/4EqMnPG6WLzc0MRWFm6Q0A) | 3:09 | 2021-06-22 | 2022-06-01 |
 | [Miło Cię Poznać](https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Miło Cię Poznać](https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri) | 3:31 | 2022-06-01 |  |
 | [NAJGORSZE RZECZY](https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [ATAK](https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z) | 4:34 | 2021-06-22 | 2022-06-01 |
@@ -67,6 +68,8 @@
 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 | 2022-06-17 |  |
 | [Pole widzenia](https://open.spotify.com/track/2KBI2VONoml1wM1ScD7KMN) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP), [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC) | [Pole widzenia](https://open.spotify.com/album/6bl1FEqOKPWvg6t51xmyP6) | 3:05 | 2021-06-22 | 2022-06-01 |
 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 | 2022-06-01 |  |
+| [Poranki są do dupy](https://open.spotify.com/track/6oLxMtabyKBVpeItMBPSND) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Poranki są do dupy](https://open.spotify.com/album/3TecZo5L4k0SYXuHGlqYvD) | 2:35 | 2023-03-10 |  |
+| [powiedz, że to blef](https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [powiedz, że to blef](https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7) | 2:33 | 2023-03-10 |  |
 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 | 2023-01-24 |  |
 | [priorytetem](https://open.spotify.com/track/1mFqDcaUxiLXNTKDLXyiWD) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [priorytetem](https://open.spotify.com/album/0vRIm5pGMLhANYjfNcopGB) | 3:10 | 2022-06-01 | 2023-01-25 |
 | [profet](https://open.spotify.com/track/69dZdSGn4LTC5ZKpoJxkAf) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [CISZA W BLOKU](https://open.spotify.com/album/0fIAR61jSqd4pjpWrsCRbb) | 4:16 | 2021-06-22 | 2022-06-01 |

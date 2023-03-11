@@ -811,6 +811,36 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/6rWp0YzgUDib50H6zYQVCy"
+      },
+      "artists": [
+        {
+          "name": "Rev Lane",
+          "url": "https://open.spotify.com/artist/5FikemeDBPnFrW5mL7dAOd"
+        },
+        {
+          "name": "Gunpoint",
+          "url": "https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu"
+        },
+        {
+          "name": "Nick Yorko",
+          "url": "https://open.spotify.com/artist/0Kp37dYTLzLkV9EndnDsHZ"
+        },
+        {
+          "name": "418",
+          "url": "https://open.spotify.com/artist/0gFaXWb7YkFAGj8bVJLpjh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232584,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/3sSWpHdkiwuZaS7tPdDJig"
+    },
+    {
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A"
       },

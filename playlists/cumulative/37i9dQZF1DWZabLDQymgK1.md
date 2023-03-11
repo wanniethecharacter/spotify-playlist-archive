@@ -4,7 +4,7 @@
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-67 songs - 6 hr 13 min
+68 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Heads High](https://open.spotify.com/track/0LotB1fTYcGZOWpTlAVtX6) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Trojan Classic Jamaican Sounds Since 1968](https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE) | 3:24 | 2021-06-02 | 2022-11-13 |
 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 | 2021-06-02 |  |
 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 | 2021-06-02 | 2022-07-29 |
-| [Heard It All Before \- Radio Edit](https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [90s R&B Classics](https://open.spotify.com/album/68BFQDpibItUS8NGYPfJLh) | 3:59 | 2021-06-02 |  |
+| [Heard It All Before \- Radio Edit](https://open.spotify.com/track/0RyUnFQa4HxFxDa2tjGsAJ) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [90s R&B Classics](https://open.spotify.com/album/68BFQDpibItUS8NGYPfJLh) | 3:59 | 2021-06-02 | 2023-03-11 |
+| [Heard It All Before \- Radio Edit](https://open.spotify.com/track/49JDPR0rbu7nf4oNfwVzdP) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Heard It All Before](https://open.spotify.com/album/2jETz64r6PWPhEUHI8OAl7) | 3:59 | 2021-06-02 |  |
 | [Hold It/Control It](https://open.spotify.com/track/7wQdeiZwrwMdJTwuw4syaH) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Crasher](https://open.spotify.com/album/7nhRhJ0XUNWt5malAs9q67) | 6:42 | 2021-06-02 |  |
 | [Homosapien](https://open.spotify.com/track/7gBZxDfVolYTmpJ8eBCU68) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Homosapien](https://open.spotify.com/album/59sf1CK6QyJ5DDaeru4xqG) | 4:34 | 2021-06-02 |  |
 | [Homosapien](https://open.spotify.com/track/6u6guT1xiBrbaEaQSPl4NW) | [Pete Shelley](https://open.spotify.com/artist/7r2lG8Ui6vGHAgsKlE8Hd8) | [Island Records Post Punk Box Set \- Out Come The Freaks](https://open.spotify.com/album/0THgn0SNHFx0tqqYqQlt4R) | 4:34 | 2021-06-02 | 2022-07-29 |

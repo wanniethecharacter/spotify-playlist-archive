@@ -1,13 +1,33 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 14543,
+  "num_followers": 14570,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwMDQ2MCwwMDAwMDAwMDAxYjdhMDg3NTI2MTI2MTRhZjc5NTM2ZjI0OGM4Yzhh",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDQ4OGVhOGQyMWUwZjlhNDA3YTRjNTBjZDRhY2ExMDIw",
   "tracks": [
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Call It Off",
+        "url": "https://open.spotify.com/album/13xSjcoiBHNOAnYkJQ4AR1"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Video Nights",
+          "url": "https://open.spotify.com/artist/25lQA9QzH1WbgK4aBcKZd4"
+        }
+      ],
+      "duration_ms": 222874,
+      "name": "Call It Off",
+      "url": "https://open.spotify.com/track/4hICLdEON5p8wJB9Mz6Qss"
+    },
     {
       "added_at": "2023-02-03 05:01:00",
       "album": {

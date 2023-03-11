@@ -1172,6 +1172,24 @@
     {
       "album": {
         "name": "R\u00e1v\u00e1gok A Zongor\u00e1ra/Hit The Piano",
+        "url": "https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Khade sukar / How Beautiful",
+      "url": "https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB"
+    },
+    {
+      "album": {
+        "name": "R\u00e1v\u00e1gok A Zongor\u00e1ra/Hit The Piano",
         "url": "https://open.spotify.com/album/1b9GWIbKBQLRCAXFhLOHgA"
       },
       "artists": [
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 191192,
       "name": "Malabares",
       "url": "https://open.spotify.com/track/1xBX2iazuZNqTnT2iPeB2A"

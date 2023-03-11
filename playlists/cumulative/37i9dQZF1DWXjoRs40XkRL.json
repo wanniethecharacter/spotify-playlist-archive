@@ -192,7 +192,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 218931,
       "name": "Anjuman",
       "url": "https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf"
@@ -930,6 +930,28 @@
       "duration_ms": 227529,
       "name": "ISOLATED (Part 2)",
       "url": "https://open.spotify.com/track/37rIyfXlSeU4pALUVZ0XDO"
+    },
+    {
+      "album": {
+        "name": "Ja Ja Re Apne",
+        "url": "https://open.spotify.com/album/4ho7R4LOcEWXen96udRpTr"
+      },
+      "artists": [
+        {
+          "name": "RaagNRocks",
+          "url": "https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY"
+        },
+        {
+          "name": "Nabanita Goswami",
+          "url": "https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294013,
+      "name": "Ja Ja Re Apne",
+      "url": "https://open.spotify.com/track/3COq2ajX5JKwferXjUWWLz"
     },
     {
       "album": {
@@ -2004,6 +2026,24 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "album": {
+        "name": "Purvi",
+        "url": "https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V"
+      },
+      "artists": [
+        {
+          "name": "Naad",
+          "url": "https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264316,
+      "name": "Purvi",
+      "url": "https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy"
     },
     {
       "album": {

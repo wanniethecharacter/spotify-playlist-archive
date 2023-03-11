@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Yellow Brick Road",
+        "url": "https://open.spotify.com/album/1XtucozRRB6IZq6m8vj8nm"
+      },
+      "artists": [
+        {
+          "name": "Fireside Collective",
+          "url": "https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3V0vJXkBDGEZsG2mMzm32S"
+    },
+    {
+      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1368,6 +1386,24 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "album": {
+        "name": "Hand In My Pocket",
+        "url": "https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ashton",
+          "url": "https://open.spotify.com/artist/53t38sKooUEyyENANtticX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Hand In My Pocket",
+      "url": "https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O"
     },
     {
       "album": {
@@ -2379,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "On the Turning Away",
+        "url": "https://open.spotify.com/album/3LoKsXW9FpjbUbZBGtQ9Vr"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186538,
+      "name": "On the Turning Away",
+      "url": "https://open.spotify.com/track/3TRR5kid8vTvIxBv5IC8Of"
+    },
+    {
+      "album": {
         "name": "Outbound Plane",
         "url": "https://open.spotify.com/album/0ekHYaKNRyLh7AfizfVNY7"
       },
@@ -2876,6 +2930,24 @@
       "duration_ms": 228352,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T"
+    },
+    {
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "album": {

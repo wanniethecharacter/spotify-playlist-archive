@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Polo G, Future",
+  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Lil Uzi Vert",
   "name": "Rap Internazionale",
   "tracks": [
     {
@@ -372,6 +372,36 @@
       "duration_ms": 170653,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
+    },
+    {
+      "album": {
+        "name": "Adwokat Diabla",
+        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236910,
+      "name": "Ay Lala (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/7IFuCdfzWR9bKgIoOqJE4j"
     },
     {
       "album": {
@@ -3418,7 +3448,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 155008,
       "name": "Online",
       "url": "https://open.spotify.com/track/3wIUf2ssPffFAUoIR4F1Tm"
@@ -4150,7 +4180,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 213975,
       "name": "Right On",
       "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
@@ -5538,7 +5568,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 231000,
       "name": "Ya Salam",
       "url": "https://open.spotify.com/track/7dlVtBCBmYt4Hl0fsQd9MP"

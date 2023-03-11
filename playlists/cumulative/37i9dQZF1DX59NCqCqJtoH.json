@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 84176,
       "name": "i don't feel part of the world anymore",
       "url": "https://open.spotify.com/track/11iiMB7TmFTtaXT4YJAltw"
@@ -4612,7 +4612,7 @@
           "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
         }
       ],
-      "date_added": "2023-02-26",
+      "date_added": "2023-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151533,
@@ -5052,6 +5052,24 @@
       "duration_ms": 98638,
       "name": "just friends now",
       "url": "https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v"
+    },
+    {
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176775,
+      "name": "keep our love alive",
+      "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
     },
     {
       "album": {
@@ -6966,7 +6984,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204770,
       "name": "party favor",
       "url": "https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe"
@@ -10258,6 +10276,24 @@
       "duration_ms": 124415,
       "name": "Words Ain't Enough",
       "url": "https://open.spotify.com/track/7lMzNAybmy1UNPsgflbVcE"
+    },
+    {
+      "album": {
+        "name": "Would you do it again?",
+        "url": "https://open.spotify.com/album/3lPAuwRmYdKEQa71owI4ol"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147870,
+      "name": "Would you do it again?",
+      "url": "https://open.spotify.com/track/5IhOaFkIHZmRZmcBDoOZjQ"
     },
     {
       "album": {

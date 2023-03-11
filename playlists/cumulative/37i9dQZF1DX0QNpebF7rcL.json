@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "I Can't Stop Lovin'",
+        "url": "https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "I Can't Stop Lovin'",
+      "url": "https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH"
+    },
+    {
+      "album": {
         "name": "I Feel So Good",
         "url": "https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd"
       },
@@ -2512,6 +2530,24 @@
       "duration_ms": 223706,
       "name": "Make Me Feel Alright",
       "url": "https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC"
     },
     {
       "album": {
@@ -3304,7 +3340,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 348760,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"

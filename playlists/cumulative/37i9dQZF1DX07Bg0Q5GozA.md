@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Róisín Murphy
 
-235 songs - 18 hr 0 min
+237 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2022-12-30 | 2023-01-02 |
 | [echo](https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [echo](https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz) | 3:13 | 2022-12-15 | 2023-02-03 |
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2022-12-15 | 2023-01-21 |
-| [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2023-03-09 |  |
+| [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2023-03-09 | 2023-03-11 |
+| [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 |  |
 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 | 2022-12-30 | 2023-01-02 |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2022-12-15 |  |
 | [Fever](https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Fever](https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y) | 3:48 | 2023-02-16 |  |
@@ -148,7 +149,8 @@
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-03-09 |  |
 | [Music Makes Me High](https://open.spotify.com/track/4o8ssGZ37z8S93zHTNfDlD) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:21 | 2022-12-30 | 2023-01-02 |
 | [My City's On Fire \- Notre Dame Remix \- Radio Edit](https://open.spotify.com/track/2V7s6NWYiHT7yvMivPW71P) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [My City's On Fire \(Notre Dame Remix\)](https://open.spotify.com/album/0fZMpwgE9Pv8uyCmmMCN8M) | 3:08 | 2022-12-15 | 2023-01-27 |
-| [Never Die](https://open.spotify.com/track/4u1g2yCTl6gIv7HGNTi58a) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/2rZXF8wrJLM87k5ManxrOe) | 3:22 | 2023-03-09 |  |
+| [Never Die](https://open.spotify.com/track/4u1g2yCTl6gIv7HGNTi58a) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/2rZXF8wrJLM87k5ManxrOe) | 3:22 | 2023-03-09 | 2023-03-11 |
+| [Never Die](https://open.spotify.com/track/5Sjl43G665Bah8bFETiyoh) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/4lQcEVTUVjhE4wxyxhl4k7) | 3:22 | 2023-03-09 |  |
 | [Never Gonna Leave You](https://open.spotify.com/track/6DLIA4CxJsCYISx81qob0H) | [Evans Pyramid](https://open.spotify.com/artist/2ijYZS5zsEoQGMGsSpmgmZ) | [Evans Pyramid \(1978 \- 1994\)](https://open.spotify.com/album/7gEoz89vHAIRNZOflbjG7A) | 6:45 | 2022-12-30 | 2023-01-02 |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-02 | 2023-02-24 |
 | [No Answer](https://open.spotify.com/track/1Mn00Kq0cBXgksYJ3ERnwc) | [Badger](https://open.spotify.com/artist/7jZEOpObouf2ZhYvf38dLW) | [No Answer](https://open.spotify.com/album/0kBKYtFUusBMfhHMF6tR6H) | 5:43 | 2022-12-15 |  |

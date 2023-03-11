@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Are You Okay?",
+        "url": "https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Are You Okay?",
+      "url": "https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy"
+    },
+    {
+      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/1VU9JM0ZkihXjpKgq32XOs"
       },
@@ -1184,6 +1202,24 @@
       "duration_ms": 187586,
       "name": "Back To The Radio",
       "url": "https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN"
+    },
+    {
+      "album": {
+        "name": "Back To This",
+        "url": "https://open.spotify.com/album/2nv8JpceboLnk5WIHJaTXE"
+      },
+      "artists": [
+        {
+          "name": "Alaska Reid",
+          "url": "https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Back To This",
+      "url": "https://open.spotify.com/track/6S3FfGti4KjL8wIamymaep"
     },
     {
       "album": {
@@ -3988,7 +4024,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171345,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
@@ -4334,6 +4370,24 @@
       "duration_ms": 162800,
       "name": "end of my street",
       "url": "https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr"
+    },
+    {
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/3Uk2RgzeIgWWGwCqa7vbv3"
+      },
+      "artists": [
+        {
+          "name": "Sunfruits",
+          "url": "https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211977,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/3SQ80sfeRoBbqnsp4X9KZn"
     },
     {
       "album": {
@@ -4726,7 +4780,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 175506,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/5Ois32EzRt9Pl1f7OKVQI8"
@@ -4998,6 +5052,24 @@
       "duration_ms": 187506,
       "name": "Flake",
       "url": "https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI"
+    },
+    {
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "album": {
@@ -6436,7 +6508,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161536,
       "name": "Holding You",
       "url": "https://open.spotify.com/track/0eq57jxRER9R6yo2p5bhn5"
@@ -7608,7 +7680,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
@@ -8397,6 +8469,24 @@
     },
     {
       "album": {
+        "name": "Liminal Bliss",
+        "url": "https://open.spotify.com/album/2Re8nPKprztJvXmVCAi6gw"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202433,
+      "name": "Liminal Bliss",
+      "url": "https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5"
+    },
+    {
+      "album": {
         "name": "Little Mermaid",
         "url": "https://open.spotify.com/album/4a4wMP1NHc7Bv78rocACxu"
       },
@@ -8768,7 +8858,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 168593,
       "name": "Mark Mothersbaugh Alterego",
       "url": "https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5"
@@ -8956,6 +9046,24 @@
       "duration_ms": 156000,
       "name": "Miss Carolina (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/0QkPOadK79NBJtlG8R6JMF"
+    },
+    {
+      "album": {
+        "name": "Making You Up",
+        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219595,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
     },
     {
       "album": {
@@ -9742,7 +9850,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 206569,
       "name": "Nowhere, LA",
       "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
@@ -9760,7 +9868,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 174843,
       "name": "Nowheresville",
       "url": "https://open.spotify.com/track/6eCA6XPUfROV71NtlJ8jHy"
@@ -10114,7 +10222,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 372773,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
@@ -10396,7 +10504,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 241271,
       "name": "Pieces of Gold",
       "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
@@ -10472,7 +10580,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 114538,
       "name": "Pop Song 2",
       "url": "https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS"
@@ -11319,6 +11427,28 @@
     },
     {
       "album": {
+        "name": "Scaredy's World",
+        "url": "https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151864,
+      "name": "Scaredy's World",
+      "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
+    },
+    {
+      "album": {
         "name": "Secrecies (feat. Sam Austins)",
         "url": "https://open.spotify.com/album/5WIvpIJC1h2TtBgWxBGMbl"
       },
@@ -11338,6 +11468,24 @@
       "duration_ms": 138302,
       "name": "Secrecies - feat. Sam Austins",
       "url": "https://open.spotify.com/track/7AWh93e0k1acHt94cW1Fbl"
+    },
+    {
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/6fARki7lNpZLU5evUM2gbn"
+      },
+      "artists": [
+        {
+          "name": "Jacklen Ro",
+          "url": "https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/7K0T7UwNqY46WC0MD6fEhr"
     },
     {
       "album": {
@@ -11518,6 +11666,24 @@
       "duration_ms": 223686,
       "name": "show me the world",
       "url": "https://open.spotify.com/track/2bhQAiXklxR9embnqP8Jig"
+    },
+    {
+      "album": {
+        "name": "Shrapnel",
+        "url": "https://open.spotify.com/album/3KXLjYoXnh0yqH6J94s6Ce"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Shrapnel",
+      "url": "https://open.spotify.com/track/1ADmIBKMDRcs6Cfj2Xe0XJ"
     },
     {
       "album": {
@@ -12774,6 +12940,24 @@
       "duration_ms": 220767,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
+    },
+    {
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
     },
     {
       "album": {

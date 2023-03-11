@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-195 songs - 13 hr 16 min
+196 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Madness](https://open.spotify.com/track/00ZJlTq0TVZCNxOUHRc8GM) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness Guarantee](https://open.spotify.com/album/4sI93ECsXC1eCBtYZk9IUT) | 3:31 | 2021-10-08 | 2022-11-14 |
 | [Madness](https://open.spotify.com/track/0XVQTr58DZbLUcjacnTp8k) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness](https://open.spotify.com/album/4SxovxXXvcl71iE9ptyJKF) | 3:31 | 2021-10-08 | 2022-07-29 |
 | [Madness](https://open.spotify.com/track/3pZcPE0ugJCI6zu5scIjp5) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness](https://open.spotify.com/album/3o33GGQ8CEqEl1PV0pUduC) | 3:31 | 2021-10-08 |  |
+| [Mayonnaise](https://open.spotify.com/track/2lSAqPR6AjU2rmeB6VnszB) | [Shana Cleveland](https://open.spotify.com/artist/5E6dR5oDjhT39zr1YuXRq0) | [Manzanita](https://open.spotify.com/album/1U7BenRoyJVYOzEmt6o8uI) | 2:57 | 2023-03-10 |  |
 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-03-06 |  |
 | [Mice](https://open.spotify.com/track/1wcAKUbAyMRy0uSsFbyiCv) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:04 | 2023-03-03 |  |
 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 | 2021-10-08 |  |

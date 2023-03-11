@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Róisín Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,661 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,746 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 17 | [Blind](https://open.spotify.com/track/3KKalMU2yzeLs6b1lq3wcZ) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX), [Heinrich](https://open.spotify.com/artist/0wun1JnzKmylaykmjfrthP), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [Blind](https://open.spotify.com/album/4Iy4FqDgV23VdAXm8xLqfQ) | 2:58 |
 | 18 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
 | 19 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 |
-| 20 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 |
+| 20 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
 | 21 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 |
 | 22 | [Burnt](https://open.spotify.com/track/6eLzChQUSXqnd487IjL4Ij) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Burnt](https://open.spotify.com/album/3l7CheSXopJ5hnWEKUyiDo) | 3:11 |
 | 23 | [Wolf \- Boys Noize Remix](https://open.spotify.com/track/1cNQtla3jWus7dSwfJV1oG) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Wolf \(Boys Noize Remix\)](https://open.spotify.com/album/6sx8z31IKn73hte9q9SzyI) | 5:01 |
-| 24 | [Never Die](https://open.spotify.com/track/4u1g2yCTl6gIv7HGNTi58a) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/2rZXF8wrJLM87k5ManxrOe) | 3:22 |
+| 24 | [Never Die](https://open.spotify.com/track/5Sjl43G665Bah8bFETiyoh) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/4lQcEVTUVjhE4wxyxhl4k7) | 3:22 |
 | 25 | [The Touch](https://open.spotify.com/track/7EO5QmpN4VfJ17zIBvsB64) | [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Arude](https://open.spotify.com/artist/3jvLVdebZznGhPcOcOFKd9) | [The Touch](https://open.spotify.com/album/55VFscrTtQWEu1hnVQvqum) | 7:01 |
 | 26 | [Waterfall](https://open.spotify.com/track/4fPbI1iRkmQcJaghebMG2u) | [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Waterfall](https://open.spotify.com/album/2R41dEy2THxQO6FJcqBZF8) | 4:56 |
 | 27 | [Disappear](https://open.spotify.com/track/0gPaNDbghFIURQyB2B8Law) | [Solmai](https://open.spotify.com/artist/7s4j2Ibf6aF6SxugL4iCMq), [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Disappear](https://open.spotify.com/album/1XlpzFMMJZuYrkgi6u8yZ4) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [A Place To Lie](https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [A Place To Lie](https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM) | 5:23 |
 | 75 | [I Know, I Know](https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I Know, I Know](https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz) | 2:33 |
 
-Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMDM1YWU5M2ZhNWI3MWNiNzVjMWU3ZTlmMTllMjA2MDY4`
+Snapshot ID: `MTY3ODQwMjg2MCwwMDAwMDAwMGMzZmZmYWE2MDI1Y2E2YzdkZTA1NTAyNjQ4MWNiYjNj`

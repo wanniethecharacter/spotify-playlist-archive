@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 189931,
+  "num_followers": 190014,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDMzMWFkZDFmOGRiMTFkMmE0MDUyMmE5MjFmODkwZTUx",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDRjNjI2NTY0MzYwYTlmMjg3MTJiZjkyZDJhYzhlNzMw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "What We Want, What We Get",
-        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 209880,
       "name": "Girl of My Dreams",
       "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "What We Want, What We Get",
+        "url": "https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Me Like I Am",
         "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Faith Hope Love Repeat",
         "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 241800,
       "name": "Faith Hope Love Repeat",
       "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "As for Me and My House",
-        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
-      },
-      "artists": [
-        {
-          "name": "John Waller",
-          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "The Marriage Prayer",
-      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -811,6 +795,22 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "As for Me and My House",
+        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "The Marriage Prayer",
+      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",

@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-208 songs - 15 hr 19 min
+209 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Afternoon Delight](https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:23 | 2021-12-27 | 2022-07-08 |
 | [Amends](https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Jeff Lorber](https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 3:24 | 2021-12-27 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/5or7bhNB7mwNombgXS0uGe) | [Claudia Hayden](https://open.spotify.com/artist/4lzzp29eEkgngB0b4mJ8DB) | [Angels We Have Heard on High](https://open.spotify.com/album/2YS6UVIYHERGUP4oZp3Sog) | 4:13 | 2021-12-27 | 2022-04-21 |
-| [Around the Block](https://open.spotify.com/track/2Q5tHXr0obkhR9YhZR5DXB) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Urban Troubadour](https://open.spotify.com/album/3rdEQhJDA24YWXnd5q3SoS) | 3:42 | 2021-12-27 |  |
+| [Around the Block](https://open.spotify.com/track/2Q5tHXr0obkhR9YhZR5DXB) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH) | [Urban Troubadour](https://open.spotify.com/album/3rdEQhJDA24YWXnd5q3SoS) | 3:42 | 2021-12-27 | 2023-03-11 |
 | [Avenue](https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Undercover](https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi) | 3:58 | 2022-04-11 |  |
 | [Bass Trap](https://open.spotify.com/track/7JvhchmlEIuIe3khtfXp3q) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Bass Trap](https://open.spotify.com/album/7wsE5XmD3gfXiitBYGghqM) | 4:42 | 2022-01-03 |  |
 | [Be Without You](https://open.spotify.com/track/1UYEHqcLocejcFqMcfAeKd) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Goin' All Out](https://open.spotify.com/album/1Paim9uNhDf7w6XC1Bj0GE) | 4:07 | 2022-04-11 | 2022-04-21 |
@@ -82,6 +82,7 @@
 | [Golden](https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Rite of Passage](https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A) | 3:46 | 2022-04-11 | 2022-10-01 |
 | [Groovin' J](https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4) | [Jacob Webb](https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko) | [I'm Coming Home](https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU) | 4:26 | 2021-12-27 |  |
 | [Gypsy Soul](https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j) | [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Gypsy Soul](https://open.spotify.com/album/0WyQBIWa6UGuBRhq3IsKld) | 3:42 | 2022-04-11 | 2023-01-04 |
+| [Happy Go Lucky](https://open.spotify.com/track/1vr8HYGVMK0lQn7DgLPewS) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 8](https://open.spotify.com/album/1HAH0iyAYIFMOmD6AqGmDP) | 4:13 | 2023-03-09 |  |
 | [Happy Go Lucky](https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Paul Hardcastle 8](https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU) | 4:14 | 2021-12-27 | 2022-07-24 |
 | [Heading Wes](https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ) | 3:21 | 2022-08-15 |  |
 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 | 2022-04-11 | 2022-04-21 |

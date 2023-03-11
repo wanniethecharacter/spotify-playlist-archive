@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11397,
+  "num_followers": 11421,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMGE4YjRlOTA3MTkxOGVkYzA5M2VmMDY0NWVjYzI5NjI5",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDJlMTdhNzRlNzYxZGE5ZjQ1OWMzZDVlODMzOGU5OWYw",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
-      "added_at": "2023-03-10 01:42:45",
+      "added_at": "2023-03-11 01:42:42",
       "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "SOLO DAY",
+        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "SOLO DAY",
+      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "SOLO DAY",
-        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "SOLO DAY",
-      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2023-03-10 01:42:45",
+      "added_at": "2023-03-11 01:42:42",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "SOULBYSEL Compilation 04",
         "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 124572,
       "name": "Donut",
       "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn"
     },
     {
       "added_at": "2023-02-14 07:48:55",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
+        "name": "Fashion Hoarder",
+        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "duration_ms": 187061,
+      "name": "Fashion Hoarder",
+      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
         "name": "lazygirl",
         "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 235624,
       "name": "Miss Korea",
       "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
-        "name": "Fashion Hoarder",
-        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        }
-      ],
-      "duration_ms": 187061,
-      "name": "Fashion Hoarder",
-      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

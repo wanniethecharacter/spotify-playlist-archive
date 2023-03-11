@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Artist: Cheat Codes",
+  "description": "Country gone wild! You never know what you're gonna get. Artist: Morgan Wallen",
   "name": "Wild Country",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 156720,
       "name": "Ain't Enough Cowboy",
       "url": "https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
     },
     {
       "album": {
@@ -4247,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "No Tellin'",
+        "url": "https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187182,
+      "name": "No Tellin'",
+      "url": "https://open.spotify.com/track/2AA15YjJYN07vp0avGn4oG"
+    },
+    {
+      "album": {
         "name": "No Time Soon",
         "url": "https://open.spotify.com/album/5YIuA9nL4oWw2H0Vp6p2Qi"
       },
@@ -4578,6 +4614,24 @@
       "duration_ms": 178040,
       "name": "Remember Her Name",
       "url": "https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU"
+    },
+    {
+      "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173685,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE"
     },
     {
       "album": {
@@ -4920,7 +4974,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208189,
       "name": "Slow Cookin'",
       "url": "https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX"
@@ -6240,7 +6294,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"

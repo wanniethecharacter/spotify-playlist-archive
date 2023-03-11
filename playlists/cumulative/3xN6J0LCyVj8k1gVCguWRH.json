@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "name": "Barack Obama\u2019s Summer Playlist 2022",
+  "name": "Barack Obama\u2019s Summer Playlist 2023",
   "tracks": [
     {
       "album": {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 134265,
       "name": "007",
       "url": "https://open.spotify.com/track/0G0on4KEOd6h11ZqqPFSkO"
@@ -1334,6 +1334,28 @@
       "duration_ms": 172258,
       "name": "Ain't Nobody Else - Secondcity Remix",
       "url": "https://open.spotify.com/track/2um02GweX2Z5OBeyiN0BLU"
+    },
+    {
+      "album": {
+        "name": "Al son de las balas",
+        "url": "https://open.spotify.com/album/1IIjTWBOpUPY06sMQSjQ5r"
+      },
+      "artists": [
+        {
+          "name": "Anna Ferrer",
+          "url": "https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z"
+        },
+        {
+          "name": "Dani L\u00f3pez",
+          "url": "https://open.spotify.com/artist/12bYlNcUnyMzMUAEldwuRD"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242260,
+      "name": "Al son de las balas",
+      "url": "https://open.spotify.com/track/6oqnhrAWlGEvcFj8mLj8ut"
     },
     {
       "album": {
@@ -4387,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Jus' Brown (Remastered)",
+        "url": "https://open.spotify.com/album/7mCe1hnVqz8ftqlf0oU8yE"
+      },
+      "artists": [
+        {
+          "name": "Justin Nathanielson",
+          "url": "https://open.spotify.com/artist/62KQpTUOiT9nHHmgDXYzQF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "Blue Sea (Remastered)",
+      "url": "https://open.spotify.com/track/3IArEiFaXvk8LttR2sinYG"
+    },
+    {
+      "album": {
         "name": "Blue Summer",
         "url": "https://open.spotify.com/album/2IVRvZcfdk3RpVPtfarSQd"
       },
@@ -4919,6 +4959,24 @@
     },
     {
       "album": {
+        "name": "Breaking My Heart",
+        "url": "https://open.spotify.com/album/12k8bwBwRgfr1OjF2iVUZJ"
+      },
+      "artists": [
+        {
+          "name": "QUEEVA",
+          "url": "https://open.spotify.com/artist/7BDSrECxsc6RyFL2qFkomJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217412,
+      "name": "Breaking My Heart",
+      "url": "https://open.spotify.com/track/5vHNr6c97TVKBtTNufeiLN"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/4SjEzj8IbG9y9i9sycSMLz"
       },
@@ -5168,7 +5226,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 198000,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/76PKF2Ihe21IVbkBL5htzw"
@@ -5948,6 +6006,24 @@
       "duration_ms": 190800,
       "name": "Can't Wait To See Ya",
       "url": "https://open.spotify.com/track/13NyxhxOJQhlg2dIic5hgr"
+    },
+    {
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z"
+      },
+      "artists": [
+        {
+          "name": "Drea",
+          "url": "https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "candid",
+      "url": "https://open.spotify.com/track/6oPXVymb5rwtgJ7DcyimkP"
     },
     {
       "album": {
@@ -7828,7 +7904,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 168874,
       "name": "Cross My Heart I Hope U Die",
       "url": "https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ"
@@ -8800,7 +8876,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 200795,
       "name": "Desert Bloom",
       "url": "https://open.spotify.com/track/4Q03tgBgVmoJa4LV2UGogX"
@@ -15656,7 +15732,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 276000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4EKq47ixXqIbrzC9TSzSHD"
@@ -15834,6 +15910,28 @@
       "duration_ms": 168388,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/4WUTad1s35LMNC3buMafIo"
+    },
+    {
+      "album": {
+        "name": "How I Loved You",
+        "url": "https://open.spotify.com/album/1E4Cb2EOjg0fPloaeNumoe"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        },
+        {
+          "name": "Amy Millan",
+          "url": "https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273773,
+      "name": "How I Loved You",
+      "url": "https://open.spotify.com/track/0v5L68lrpE6KwjA24ATQnX"
     },
     {
       "album": {
@@ -16403,6 +16501,24 @@
     },
     {
       "album": {
+        "name": "I Hope You Find Whatever You Are Looking For",
+        "url": "https://open.spotify.com/album/3XS2cFBWDOuNTo6Aw3b2yp"
+      },
+      "artists": [
+        {
+          "name": "Future Someone",
+          "url": "https://open.spotify.com/artist/1ZcEKvq5UBx8vbuO99aokI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "I Hope You Find Whatever You Are Looking For",
+      "url": "https://open.spotify.com/track/149i2TjDuCrcC9gyFABY3l"
+    },
+    {
+      "album": {
         "name": "The South Side of Soul Street: The Minaret Soul Singles 1967-1976",
         "url": "https://open.spotify.com/album/5Lk0i4EVwVtAuOmQUPTcFO"
       },
@@ -16678,7 +16794,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203333,
       "name": "I Wanna Love You (For the Night)",
       "url": "https://open.spotify.com/track/0z2z16nbFx6heThyp02CIQ"
@@ -17080,6 +17196,24 @@
       "duration_ms": 335490,
       "name": "If You Double Frown",
       "url": "https://open.spotify.com/track/3r7qXhbEbEv8Oj05CV5RWJ"
+    },
+    {
+      "album": {
+        "name": "if your world Is gone",
+        "url": "https://open.spotify.com/album/6MPkHIwXCwpWdV2MXXiPzH"
+      },
+      "artists": [
+        {
+          "name": "Danielle Apicella",
+          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "if your world Is gone",
+      "url": "https://open.spotify.com/track/17SVwFgW10HnP2zsP29DCf"
     },
     {
       "album": {
@@ -19273,6 +19407,24 @@
     },
     {
       "album": {
+        "name": "Laundry List",
+        "url": "https://open.spotify.com/album/6vgRxXTws20fPGe059hmkR"
+      },
+      "artists": [
+        {
+          "name": "Scott Goldbaum",
+          "url": "https://open.spotify.com/artist/1y3khOcJKFFr62eMqZyQy7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227359,
+      "name": "Laundry List",
+      "url": "https://open.spotify.com/track/4nj0yUKpDNzF1UdfFXJmUP"
+    },
+    {
+      "album": {
         "name": "Lava",
         "url": "https://open.spotify.com/album/5XJY6MAzMt0rcAXjR4LPNO"
       },
@@ -20784,7 +20936,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182000,
       "name": "Love In Abundance",
       "url": "https://open.spotify.com/track/7lZJLUHPkPeNPk5ln3P3kj"
@@ -21387,6 +21539,24 @@
     },
     {
       "album": {
+        "name": "Lying in LA",
+        "url": "https://open.spotify.com/album/1yeqhDrt1cYPozPCDad8IE"
+      },
+      "artists": [
+        {
+          "name": "Britta",
+          "url": "https://open.spotify.com/artist/3t9YsSNIpCBQ6jrdaa8zA2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "Lying in LA",
+      "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
       },
@@ -21572,6 +21742,24 @@
       "duration_ms": 243000,
       "name": "Make Me Good",
       "url": "https://open.spotify.com/track/3GTbHljscEF7MKkbobn6xQ"
+    },
+    {
+      "album": {
+        "name": "Make The World Go Away",
+        "url": "https://open.spotify.com/album/6ShhPTB3n5cudXdwhUMOYT"
+      },
+      "artists": [
+        {
+          "name": "Bruce Sudano",
+          "url": "https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212659,
+      "name": "Make The World Go Away",
+      "url": "https://open.spotify.com/track/35VKy1zrVoI1J15bG1lHqq"
     },
     {
       "album": {
@@ -23466,7 +23654,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 211200,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn"
@@ -28174,7 +28362,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 154964,
       "name": "REWIND",
       "url": "https://open.spotify.com/track/4hnAHyIpmizaRT4zAYewBz"
@@ -32567,6 +32755,24 @@
     },
     {
       "album": {
+        "name": "Swallowed Up In Space",
+        "url": "https://open.spotify.com/album/5etv3hkp6lxgaVMVCKkK2D"
+      },
+      "artists": [
+        {
+          "name": "Little Lies",
+          "url": "https://open.spotify.com/artist/1iqg3wZBy6NqCXRhnEFNqZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Swallowed Up In Space",
+      "url": "https://open.spotify.com/track/6zUh0SQ7SPx30vbr3plUZU"
+    },
+    {
+      "album": {
         "name": "Swang",
         "url": "https://open.spotify.com/album/7fEWbBJBd4SdvjVEh5fszo"
       },
@@ -35430,6 +35636,24 @@
       "duration_ms": 166683,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6uIhiWsucUZpfuyNkBB0RF"
+    },
+    {
+      "album": {
+        "name": "Tu nombre",
+        "url": "https://open.spotify.com/album/3dnJS9waEofvjfxsbB7VND"
+      },
+      "artists": [
+        {
+          "name": "Martina",
+          "url": "https://open.spotify.com/artist/0xDan7eKYZRxnWQKJ10FsI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187088,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/2eNI3eRtrNKJgl0uJkY8cU"
     },
     {
       "album": {

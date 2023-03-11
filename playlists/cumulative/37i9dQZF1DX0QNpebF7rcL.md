@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Taj Mahal
 
-256 songs - 17 hr 23 min
+258 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [How Long](https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How Long](https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I) | 3:31 | 2021-03-26 | 2022-04-23 |
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-01-28 |  |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
+| [I Can't Stop Lovin'](https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ) | [I Can't Stop Lovin'](https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb) | 3:17 | 2023-03-10 |  |
 | [I Feel So Good](https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [I Feel So Good](https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd) | 3:36 | 2021-01-15 | 2022-04-23 |
 | [I Let My Guitar Do The Talking](https://open.spotify.com/track/3Zg7MMTH1e5xARor2JDKki) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Let My Guitar Do The Talking](https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq) | 4:26 | 2022-09-16 | 2023-02-11 |
 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 | 2022-06-10 |  |
@@ -139,6 +140,7 @@
 | [Lucky Guy](https://open.spotify.com/track/6MBT2rtlyXmTcZqYEAvmjL) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 4:32 | 2021-04-13 | 2022-04-23 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2022-02-25 | 2022-05-28 |
 | [Make Me Feel Alright](https://open.spotify.com/track/6m8QC3Gs7MAQJDQdFGjdme) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:43 | 2021-05-21 | 2022-06-04 |
+| [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 | 2023-03-10 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 |  |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |
@@ -180,7 +182,7 @@
 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 |  |
 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 | 2022-09-16 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
-| [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 |  |
+| [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 | 2023-03-11 |
 | [Sand Castles](https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 3:16 | 2022-02-25 |  |
 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/5RDKXNErtcfCtNXGQPCynO) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail part I](https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh) | 4:57 | 2021-11-05 | 2022-01-29 |
 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 | 2021-07-23 |  |

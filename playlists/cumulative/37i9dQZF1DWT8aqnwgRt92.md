@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-543 songs - 1 day 10 hr 39 min
+544 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [geki](https://open.spotify.com/track/0pNibb6CapyORpwvkbpFEm) | [zonji](https://open.spotify.com/artist/5mAHChNntfSXlZA1MvfWmv) | [geki](https://open.spotify.com/album/4yHPXYnI5USQhghoflfuac) | 4:05 | 2022-07-19 | 2022-10-05 |
 | [Gen Ai Yugi](https://open.spotify.com/track/3l2xktQvGgo9fNsb6SzaNw) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Gen Ai Yugi](https://open.spotify.com/album/2hdx95aAzVO3DE4brSpH3a) | 3:48 | 2022-09-29 | 2023-01-04 |
 | [Get Wild](https://open.spotify.com/track/5G48nS1vgkQherzj2bHE3F) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [MIYAVIVERSE \- Anima \-](https://open.spotify.com/album/60rJiOVY3wSlVwV7fB5HRB) | 4:34 | 2022-11-22 | 2023-01-11 |
-| [Gift](https://open.spotify.com/track/2cTeMPC6HqGeJAa5sPH6XO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/1wIRhWPNmHZ5ncApXMDAiT) | 3:13 | 2023-01-10 |  |
+| [Gift](https://open.spotify.com/track/2cTeMPC6HqGeJAa5sPH6XO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/1wIRhWPNmHZ5ncApXMDAiT) | 3:13 | 2023-01-10 | 2023-03-11 |
+| [Gift](https://open.spotify.com/track/19nxapLc7uFm0kII0uOp8M) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Gift](https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy) | 3:14 | 2023-03-07 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-05-28 | 2022-07-27 |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-07-26 | 2022-10-19 |
 | [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-06-28 | 2022-07-06 |

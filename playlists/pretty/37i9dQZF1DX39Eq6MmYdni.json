@@ -1,191 +1,15 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Bo Bundy",
-  "num_followers": 2200,
+  "num_followers": 2242,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgwNzIzMCwwMDAwMDAwMDYyMzU3NDFiMzQ2ZmFiYmIzMmI1MmJjNmQyZmMwZDM4",
+  "snapshot_id": "MTY3ODQ3NDA1OCwwMDAwMDAwMDMzMGVmZTA0MTYxYzJhOTQ2NjBlMWUyN2VhNjViOWUz",
   "tracks": [
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 162142,
-      "name": "Before The Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "El Paso Del Takuache",
-        "url": "https://open.spotify.com/album/78vX2XhNb2r2XIlKxjb1tA"
-      },
-      "artists": [
-        {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        },
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 127756,
-      "name": "El Paso Del Takuache",
-      "url": "https://open.spotify.com/track/1nGV2dsyvEERSd980EZ4e3"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sin Parar",
-        "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Jesus Ojeda",
-          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
-        }
-      ],
-      "duration_ms": 152340,
-      "name": "Sin Parar",
-      "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Chiquita Bonita",
-        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Chiquita Bonita",
-      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "En Vivo Desde Cuadra El Alamo",
-        "url": "https://open.spotify.com/album/2ncCGrHwvWn4uhWkIhy9lo"
-      },
-      "artists": [
-        {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
-        }
-      ],
-      "duration_ms": 187970,
-      "name": "Fue Un Placer Conocerte",
-      "url": "https://open.spotify.com/track/0eIes8zppnvfSSz9x4pnF9"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -201,7 +25,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -221,7 +45,27 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
@@ -241,7 +85,7 @@
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
@@ -261,27 +105,7 @@
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Inseparables",
-        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Inseparables",
-      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
@@ -301,7 +125,27 @@
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -321,7 +165,27 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
@@ -337,7 +201,7 @@
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "En Paris",
         "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
@@ -357,47 +221,27 @@
       "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
-        "name": "Nena Ven",
-        "url": "https://open.spotify.com/album/0VowgdMO0zg5SAsvTvFTb3"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "473 Music",
-          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Nena Ven",
-      "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
@@ -421,27 +265,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "JGL",
         "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
@@ -461,7 +285,59 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "P.O.V",
+        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 117760,
+      "name": "P.O.V",
+      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
@@ -485,7 +361,7 @@
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
@@ -505,7 +381,7 @@
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
@@ -525,7 +401,7 @@
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Da\u00f1ado (Deluxe)",
         "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
@@ -541,7 +417,27 @@
       "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
@@ -557,39 +453,7 @@
       "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Reflejo Nuevo (Vol. 2)",
-        "url": "https://open.spotify.com/album/2IQmLAtsUIO2ftjId0yq3J"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Ni\u00f1a Del Destino",
-      "url": "https://open.spotify.com/track/2qw6rZeBqI6x6CJcdREYaR"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "VUELVE",
-        "url": "https://open.spotify.com/album/67iW8im1aB9TqlHrHxSqiX"
-      },
-      "artists": [
-        {
-          "name": "Guapo Mafioso",
-          "url": "https://open.spotify.com/artist/6qtQo5MNDq83A1EFwV9c7a"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "VUELVE",
-      "url": "https://open.spotify.com/track/3YadGCBjSGDedx1DY1J6na"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
@@ -609,7 +473,7 @@
       "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
@@ -625,7 +489,7 @@
       "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Enloquecido",
         "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
@@ -641,47 +505,43 @@
       "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+        "name": "Inseparables",
+        "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         },
         {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+      "duration_ms": 171724,
+      "name": "Inseparables",
+      "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
       },
       "artists": [
         {
-          "name": "La Furia del Bravo",
-          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 169993,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
@@ -705,7 +565,7 @@
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Que nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
@@ -721,75 +581,27 @@
       "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
-        "name": "All The Good Die Young",
-        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
+        "name": "Sin Parar",
+        "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
       },
       "artists": [
         {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "All The Good Die Young",
-      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5KwcQ04KPcKSG5EJD0RHtj"
-      },
-      "artists": [
-        {
-          "name": "xBValentine",
-          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1hSrp2LyVkM94tHCjgXFcP"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Chivo Tatemado (En Vivo)",
-        "url": "https://open.spotify.com/album/4OagC3XpInN33XfWNbuvnQ"
-      },
-      "artists": [
-        {
-          "name": "El De La H",
-          "url": "https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1"
-        }
-      ],
-      "duration_ms": 150160,
-      "name": "Chivo Tatemado - En Vivo",
-      "url": "https://open.spotify.com/track/6U207u3B4SLqShzWtoslWe"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/6pw6ppJNOmpkwPwwaCNVZB"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Diamante Perez",
-          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+          "name": "Jesus Ojeda",
+          "url": "https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr"
         }
       ],
-      "duration_ms": 203410,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/5pKPM9W3sfUjXrqfczJGVf"
+      "duration_ms": 152340,
+      "name": "Sin Parar",
+      "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Tirando la H",
         "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
@@ -805,7 +617,7 @@
       "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "V\u00e1monos a Marte",
         "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
@@ -825,7 +637,23 @@
       "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Corridos y Sentimientos (Vol 2)",
         "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
@@ -841,7 +669,7 @@
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "First Of The Year",
         "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
@@ -857,23 +685,7 @@
       "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Beses a Quien Beses",
-        "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 177845,
-      "name": "Beses a Quien Beses",
-      "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Nivelado",
         "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
@@ -893,7 +705,7 @@
       "url": "https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
@@ -909,7 +721,43 @@
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Nena Ven",
+        "url": "https://open.spotify.com/album/0VowgdMO0zg5SAsvTvFTb3"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Nena Ven",
+      "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Mi Tesoro (En Vivo)",
+        "url": "https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 182603,
+      "name": "Mi Tesoro (En Vivo)",
+      "url": "https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -923,6 +771,170 @@
       "duration_ms": 188736,
       "name": "Por las Ma\u00f1anas - En Vivo",
       "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Lo Dice El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Me gustas (En Vivo)",
+        "url": "https://open.spotify.com/album/2ZTFSE5lFqFYrlHZOiwiL1"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Me gustas - En vivo",
+      "url": "https://open.spotify.com/track/6N4zfmOVZfMDddZDCRjmca"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Beses a Quien Beses",
+        "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 177845,
+      "name": "Beses a Quien Beses",
+      "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 169993,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6uKXucI9pipi5LysfKkoU9"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/3pr7Km3C87u8fLwdSCXosy"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "El Paso Del Takuache",
+        "url": "https://open.spotify.com/album/78vX2XhNb2r2XIlKxjb1tA"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 127756,
+      "name": "El Paso Del Takuache",
+      "url": "https://open.spotify.com/track/1nGV2dsyvEERSd980EZ4e3"
+    },
+    {
+      "added_at": "2023-03-10 18:47:38",
+      "album": {
+        "name": "En Vivo Desde Cuadra El Alamo",
+        "url": "https://open.spotify.com/album/2ncCGrHwvWn4uhWkIhy9lo"
+      },
+      "artists": [
+        {
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+        }
+      ],
+      "duration_ms": 187970,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/0eIes8zppnvfSSz9x4pnF9"
     }
   ],
   "unique_name": "Rompiendo: Texas",

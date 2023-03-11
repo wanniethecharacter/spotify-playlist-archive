@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "open the pit. cover: DRAIN",
+  "description": "open the pit. cover: Drug Church",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 154996,
       "name": "Big Disappointment",
       "url": "https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 112800,
       "name": "Fun's Over",
       "url": "https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Knife in the Dirt",
+        "url": "https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Knife in the Dirt",
+      "url": "https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v"
+    },
+    {
+      "album": {
         "name": "2022 Promo",
         "url": "https://open.spotify.com/album/2hoK0gIkA5qLjBoGH6mfiN"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 113420,
       "name": "Lust For Destruction",
       "url": "https://open.spotify.com/track/5bB9QzD925TajYC4ZoSJ5P"
@@ -740,6 +758,24 @@
       "duration_ms": 160784,
       "name": "Modern Fatigue",
       "url": "https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke"
+    },
+    {
+      "album": {
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "album": {
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 155600,
       "name": "Watch You Burn",
       "url": "https://open.spotify.com/track/7594pRzG619BLW7yfMpkXA"

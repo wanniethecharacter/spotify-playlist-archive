@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 559903,
       "name": "Medley Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
       "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
@@ -2294,6 +2294,32 @@
       "duration_ms": 180145,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq"
+    },
+    {
+      "album": {
+        "name": "Tropa do Mant\u00e9m",
+        "url": "https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tropa do Mant\u00e9m",
+      "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
     },
     {
       "album": {

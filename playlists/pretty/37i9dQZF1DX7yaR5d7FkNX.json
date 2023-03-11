@@ -1,13 +1,29 @@
 {
   "description": "Disfrutemos del amor en los tiempos del rock.",
-  "num_followers": 105006,
+  "num_followers": 105124,
   "original_name": "Rocanlovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGQ5ZDk5OTZkMzZiN2Q0YTg1OGY1MDFlZjRlYmM3MzE5",
+  "snapshot_id": "MTY3ODQ2MDYzMCwwMDAwMDAwMDgxM2FlMGUyMmE2MDExY2ZhZjhkNmRhNjlmOWZlZWMy",
   "tracks": [
+    {
+      "added_at": "2023-03-10 15:03:50",
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
+    },
     {
       "added_at": "2023-02-17 18:00:16",
       "album": {

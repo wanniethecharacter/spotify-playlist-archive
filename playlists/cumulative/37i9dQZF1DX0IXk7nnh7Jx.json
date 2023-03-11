@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: Lani Rose",
+  "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: Forrest Frank",
   "name": "Indie Spirit",
   "tracks": [
     {
@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "fruit",
+        "url": "https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "fruit",
+      "url": "https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65"
+    },
+    {
+      "album": {
         "name": "Fullness Of God",
         "url": "https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc"
       },
@@ -2336,6 +2358,24 @@
       "duration_ms": 311530,
       "name": "Lead Me (Among the Ruins)",
       "url": "https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1"
+    },
+    {
+      "album": {
+        "name": "LIFT MY HANDS",
+        "url": "https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "LIFT MY HANDS",
+      "url": "https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ"
     },
     {
       "album": {
@@ -3518,7 +3558,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 148269,
       "name": "Satchmo",
       "url": "https://open.spotify.com/track/71V7G1re50nQU2l8q87gvq"
@@ -3590,7 +3630,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208767,
       "name": "Self Righteous",
       "url": "https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB"
@@ -3702,7 +3742,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 98400,
       "name": "Something You Once Knew",
       "url": "https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7"
@@ -3844,6 +3884,28 @@
       "duration_ms": 204479,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
+    },
+    {
+      "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203375,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei"
     },
     {
       "album": {

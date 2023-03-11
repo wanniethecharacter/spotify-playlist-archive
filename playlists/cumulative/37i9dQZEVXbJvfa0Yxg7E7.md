@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-995 songs - 2 day 4 hr 5 min
+996 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,7 +868,7 @@
 | [Stjernestøv](https://open.spotify.com/track/5e1pZcqnNAh0J2ECKYl0lb) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Stjernestøv](https://open.spotify.com/album/0e6rIEZZNyzuCBAGFdxKVK) | 3:18 | 2021-11-30 | 2021-12-30 |
 | [Strangers Again](https://open.spotify.com/track/3pGUnWmt9D5edB46cQ30MO) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Strangers Again](https://open.spotify.com/album/3NRWnIuanobC7JBHyyOaKN) | 2:37 | 2021-08-29 | 2021-09-26 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-26 |
-| [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-04 |  |
+| [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-04 | 2023-03-11 |
 | [Suksé 2022 \(Hjemmesmæck\)](https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn) | [Sportsalleen](https://open.spotify.com/artist/7fOtaGYi9Mrft9xjRXqRAA), [gangCBang](https://open.spotify.com/artist/7CQi6Efv5Jjzi9KegiAGf4) | [Suksé 2022 \(Hjemmesmæck\)](https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF) | 2:26 | 2022-01-16 | 2022-06-10 |
 | [Summer Feeling \(feat\. Jonah Kagen\)](https://open.spotify.com/track/4jH0H1tAbxva2ILJYNOmqs) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Summer Feeling \(feat\. Jonah Kagen\)](https://open.spotify.com/album/5rNdbGQg68Y8lHtOgEfvfa) | 3:00 | 2021-08-22 | 2021-08-27 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-22 | 2021-08-31 |
@@ -925,6 +925,7 @@
 | [ting som ILU](https://open.spotify.com/track/5XBabaoZyfI0jhk0M5ze6I) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [ting som ILU](https://open.spotify.com/album/2fxfTt8FWwzXaCRnXA2tav) | 2:19 | 2021-09-12 | 2021-09-15 |
 | [tinnsoldater](https://open.spotify.com/track/0A44yfrrP231Uc47GDlwvC) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [tinnsoldater](https://open.spotify.com/album/6TY9daq0sCs60R9uRbKhc5) | 2:47 | 2022-04-23 | 2022-04-25 |
 | [Tipp Topp](https://open.spotify.com/track/6Xa36bTWPOC9ju4dQHguci) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:51 | 2022-04-07 | 2022-04-10 |
+| [tjueto \(demo\)](https://open.spotify.com/track/7kSxVn8HvKeHwW3o7W0M2S) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tjueto \(demo\)](https://open.spotify.com/album/7eiqpMZ6fowsUS8Zvu1mdv) | 1:51 | 2023-03-10 |  |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-26 |
 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 | 2023-02-25 | 2023-02-28 |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-05-30 |

@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 560306,
       "name": "A chantar m'er",
       "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 348920,
       "name": "A chantar m'er de so qu'eu no volria",
       "url": "https://open.spotify.com/track/3IGG2SFSp9RNWd71YaT3Wc"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 358440,
       "name": "De quanqu'on peut: fol.28, De quanqu'on peut belle et bonne estrener (ballade)",
       "url": "https://open.spotify.com/track/6tED8oiimuT1YRszBmzh4L"
@@ -6808,7 +6808,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 180666,
       "name": "He who wishes to praise a good lady",
       "url": "https://open.spotify.com/track/6dozczwNmPQeHney5UmsFd"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -10574,7 +10574,7 @@
       ],
       "date_added": "2019-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 180173,
       "name": "Musa Goes To Heaven",
       "url": "https://open.spotify.com/track/76KkFIB0UXHytAkJ8Vs5tu"
@@ -11934,7 +11934,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -12876,7 +12876,7 @@
       ],
       "date_added": "2020-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 674047,
       "name": "Puisque la mort (Ballade (6v-7r)",
       "url": "https://open.spotify.com/track/3YzRSkvfGSg3Do0CcDKg9N"
@@ -13026,7 +13026,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Quand je voy yver...",
       "url": "https://open.spotify.com/track/1dtFpdFr4hsboiZHCxWeHr"
@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 289800,
       "name": "Renverdie",
       "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"
@@ -13628,6 +13628,32 @@
       "duration_ms": 209870,
       "name": "Rex Tua Nolo Munera",
       "url": "https://open.spotify.com/track/0LK41qzzz2EylaGpx3rWMA"
+    },
+    {
+      "album": {
+        "name": "Regina",
+        "url": "https://open.spotify.com/album/5druj6EoBtNLqutwdQuiD8"
+      },
+      "artists": [
+        {
+          "name": "Adam de la Halle",
+          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
+        },
+        {
+          "name": "Capella de Ministrers",
+          "url": "https://open.spotify.com/artist/2jOvK1TyxIca3pb50lHX9V"
+        },
+        {
+          "name": "Carles Magraner",
+          "url": "https://open.spotify.com/artist/2I8XJUpNoIU9Q6XapyIoOl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Robins m\u00b4aime - Jeu de Robin et Marion",
+      "url": "https://open.spotify.com/track/3UO8RwcMFCp70lbqKOyX70"
     },
     {
       "album": {
@@ -14942,7 +14968,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 255066,
       "name": "Trai-ri deluriau, Robin m'aime",
       "url": "https://open.spotify.com/track/6ajlhguNohurx8cV1HYlvZ"

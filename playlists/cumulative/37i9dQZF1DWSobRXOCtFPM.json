@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks - celebrating his brand new LP \"Electronic Generations\" with you. From Carl: \"I made this entirely live, by jamming with my machines and recording the tracks as I played them. Alongside this I\u2019ve included a live EP \"Mindset\" made in collaboration with the legendary Christopher Coe and I\u2019ve added a bunch of tracks by live electronic artists that have inspired me whilst on this new adventure in live electronic performance! Enjoy!\" Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
+  "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl Cox</a>' favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Carl Cox' track IDs",
   "tracks": [
     {
@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Tomahawk",
+        "url": "https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju"
+      },
+      "artists": [
+        {
+          "name": "Aitor Ronda",
+          "url": "https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312888,
+      "name": "Crazy Horse",
+      "url": "https://open.spotify.com/track/0ymvHKdaBgeKiLk2bHXsmf"
+    },
+    {
+      "album": {
         "name": "Post Acid",
         "url": "https://open.spotify.com/album/4EyLOQZyYgJ4VawL5Ek8wB"
       },
@@ -853,6 +875,64 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/201Ljpa6Leh9SI985pENyV"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5Mxq5cd9xreH7HbycVJG8y"
+    },
+    {
+      "album": {
+        "name": "Hanenda",
+        "url": "https://open.spotify.com/album/6c6wNHBXboXaj2vcURIyLa"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Hanenda",
+      "url": "https://open.spotify.com/track/2Eiw18v2R0vACwOFgTSG0w"
+    },
+    {
+      "album": {
+        "name": "Hanenda",
+        "url": "https://open.spotify.com/album/6c6wNHBXboXaj2vcURIyLa"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210883,
+      "name": "Hanenda (Will Clarke Remix)",
+      "url": "https://open.spotify.com/track/1htVW56DyJrH2uZMfNCw19"
+    },
+    {
+      "album": {
         "name": "Blisss",
         "url": "https://open.spotify.com/album/67QO6UzoSlFcsPTuQR0FCJ"
       },
@@ -886,6 +966,28 @@
       "duration_ms": 333536,
       "name": "Heads Up",
       "url": "https://open.spotify.com/track/3sx86w6WDkC66U4GQ0uyfM"
+    },
+    {
+      "album": {
+        "name": "Hector Small",
+        "url": "https://open.spotify.com/album/5aPusQmJM24s53AH6nseJu"
+      },
+      "artists": [
+        {
+          "name": "Fabrication",
+          "url": "https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy"
+        },
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Hector Small - Rory Marshall Remix",
+      "url": "https://open.spotify.com/track/41blw5g28HvLPJjMgStgCb"
     },
     {
       "album": {
@@ -1088,6 +1190,46 @@
       "duration_ms": 416071,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/5TLCWDk3OqCe9mTPEJFbgU"
+    },
+    {
+      "album": {
+        "name": "Intentionally",
+        "url": "https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376386,
+      "name": "Intentionally",
+      "url": "https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q"
+    },
+    {
+      "album": {
+        "name": "Intentionally",
+        "url": "https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370610,
+      "name": "Intentionally - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 102779,
+  "num_followers": 102795,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDVlMWUxOTExOGZiMWQ3NzkzNjdlNzZkMGUwYWUyMjMy",
+  "snapshot_id": "MTY3Nzc2MjAwMCwwMDAwMDAwMDJmZGUyNDdhNzUwZTIzZjI1MmZkZDUxOWJjNjMxNTVk",
   "tracks": [
     {
       "added_at": "2023-02-09 13:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "Don\u2019t Get Too Close",
         "url": "https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "TIOLI",
-        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
-      },
-      "artists": [
-        {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 278561,
-      "name": "TIOLI",
-      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
+        "name": "TIOLI",
+        "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "duration_ms": 278561,
+      "name": "TIOLI",
+      "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "Cellular",
         "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 213441,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Call of the Whipbird",
         "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+        "name": "Someone Close",
+        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 213441,
-      "name": "Clavicle",
-      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+      "duration_ms": 492316,
+      "name": "Someone Close",
+      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -799,22 +815,6 @@
       "duration_ms": 270536,
       "name": "Closure (feat. Helena)",
       "url": "https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Someone Close",
-        "url": "https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 492316,
-      "name": "Someone Close",
-      "url": "https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Setting Sun",
         "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 213760,
       "name": "meserole",
       "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-02-09 13:00:00",
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
-      "added_at": "2023-03-10 00:50:43",
+      "added_at": "2023-03-11 01:06:19",
       "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-02-09 13:00:00",
       "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+    },
+    {
+      "added_at": "2023-02-09 13:00:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 261874,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW"
-    },
-    {
-      "added_at": "2023-02-09 13:00:00",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-02-09 13:00:00",

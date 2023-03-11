@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,725 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,819 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 43 | [Ferveção](https://open.spotify.com/track/5R1h9ssiMJIDFAeEzGj9G0) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Para todas as mulheres que já rimei](https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD) | 3:02 |
 | 44 | [Como a chuva cai](https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Como a chuva cai](https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R) | 2:32 |
 | 45 | [Gatinha](https://open.spotify.com/track/3fFP5qW0JBpqcSJ14XFNKU) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ) | [Gatinha](https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW) | 3:15 |
-| 46 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
-| 47 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
+| 46 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
+| 47 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
 | 48 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
 | 49 | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Xeque\-Mate \(feat\. Paiva Prod\)](https://open.spotify.com/album/2Dbj2cJCZs8E77JG5ED1C1) | 2:51 |
 | 50 | [Obrigado, Mãe.](https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Obrigado, Mãe.](https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [Clima Diferente](https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Clima Diferente](https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig) | 3:30 |
 
-Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMDgzZDk5ZTg1YWNlYWQ5ZjNhNzE5N2E3MzIyMDZjMTEw`
+Snapshot ID: `MTY3NjI5NTQ3NiwwMDAwMDAwMGYzZjUzYjBiYmU4ZWNhYzYzOTBiOTU2OTZmYTFkZDkw`

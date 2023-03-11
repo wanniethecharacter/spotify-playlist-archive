@@ -1,13 +1,61 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here",
-  "num_followers": 2379,
+  "num_followers": 2389,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5MjQ3MywwMDAwMDAwMDU2YWI0ZTlhN2YwMzNhMjE2MTNlMmEzNGNkOGNhMmVk",
+  "snapshot_id": "MTY3ODQyNzk4MSwwMDAwMDAwMGExYjI3NDEzMzUzMWFhM2VmZGNmOGU5ZGU0OTVlYTk1",
   "tracks": [
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Coeur \u00e0 Coeur",
+        "url": "https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kubuya",
+          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+        }
+      ],
+      "duration_ms": 309864,
+      "name": "Moyo Wangu",
+      "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Umenibeba",
+        "url": "https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB"
+      },
+      "artists": [
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG"
+        }
+      ],
+      "duration_ms": 334266,
+      "name": "Egemeo",
+      "url": "https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ"
+    },
+    {
+      "added_at": "2023-03-10 05:59:41",
+      "album": {
+        "name": "Niko Sawa",
+        "url": "https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 215047,
+      "name": "Wewe Ni Mungu",
+      "url": "https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md"
+    },
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
@@ -27,18 +75,18 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Coeur \u00e0 Coeur",
-        "url": "https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh"
+        "name": "Chanzo (Live)",
+        "url": "https://open.spotify.com/album/3GuJna16plebttcjo2CWWG"
       },
       "artists": [
         {
-          "name": "Patrick Kubuya",
-          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu"
         }
       ],
-      "duration_ms": 309864,
-      "name": "Moyo Wangu",
-      "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
+      "duration_ms": 582283,
+      "name": "Chanzo - Live",
+      "url": "https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -59,38 +107,6 @@
       "duration_ms": 402267,
       "name": "Shwari",
       "url": "https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Umenibeba",
-        "url": "https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB"
-      },
-      "artists": [
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG"
-        }
-      ],
-      "duration_ms": 334266,
-      "name": "Egemeo",
-      "url": "https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Chanzo (Live)",
-        "url": "https://open.spotify.com/album/3GuJna16plebttcjo2CWWG"
-      },
-      "artists": [
-        {
-          "name": "Rehema Simfukwe",
-          "url": "https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu"
-        }
-      ],
-      "duration_ms": 582283,
-      "name": "Chanzo - Live",
-      "url": "https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Nasema Asante",
-        "url": "https://open.spotify.com/album/6kjOtcXq1MuBrCDsKqSyKI"
-      },
-      "artists": [
-        {
-          "name": "Sarah K",
-          "url": "https://open.spotify.com/artist/3FHjTaYYx0pFSyPUMnbjyv"
-        }
-      ],
-      "duration_ms": 444662,
-      "name": "Nasema Asante",
-      "url": "https://open.spotify.com/track/7qNQyLCGokzNJvntxK9bSs"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
         "name": "Bwana Yesu",
         "url": "https://open.spotify.com/album/1PYHRwXBXzZ4Kz60MUB6OS"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 410906,
       "name": "I Have Tasted / Nimeonja",
       "url": "https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv"
+    },
+    {
+      "added_at": "2023-03-10 05:59:41",
+      "album": {
+        "name": "Niko Sawa",
+        "url": "https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 276279,
+      "name": "Naogopa",
+      "url": "https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -751,22 +767,6 @@
       "duration_ms": 165537,
       "name": "Nikumbushe Yehova",
       "url": "https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Walivuka Bahari",
-        "url": "https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP"
-      },
-      "artists": [
-        {
-          "name": "Angaza Singers",
-          "url": "https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM"
-        }
-      ],
-      "duration_ms": 395293,
-      "name": "Walivuka Bahari",
-      "url": "https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz"
     },
     {
       "added_at": "2022-06-24 17:41:13",

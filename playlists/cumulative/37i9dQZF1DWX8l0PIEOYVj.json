@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+    },
+    {
+      "album": {
         "name": "A Million Miles",
         "url": "https://open.spotify.com/album/4ltKsW9EWbYFkVCRfsvXl2"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 387200,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204387,
       "name": "Cold",
       "url": "https://open.spotify.com/track/37U9aGziz2mwqDKuoAO0D0"
@@ -3131,6 +3149,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213036,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
+    },
+    {
+      "album": {
         "name": "Hollow Eyes (feat. EKE)",
         "url": "https://open.spotify.com/album/0xgNljaerSZIHuRpZKav5F"
       },
@@ -3602,6 +3642,24 @@
       "duration_ms": 186052,
       "name": "Journey",
       "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
+    },
+    {
+      "album": {
+        "name": "JSYK",
+        "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228922,
+      "name": "JSYK",
+      "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
     },
     {
       "album": {
@@ -6564,7 +6622,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 200888,
       "name": "UNKNOWN",
       "url": "https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN"

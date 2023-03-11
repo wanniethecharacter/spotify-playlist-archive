@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,472 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,481 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 38 | [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 |
 | 39 | [Awake](https://open.spotify.com/track/7guEhnyNRwRqeb1Sw1hx0a) | [JC Brooks & The Uptown Sound](https://open.spotify.com/artist/1ZAYCA0KFAMMwOgVDOOQh6) | [Want More](https://open.spotify.com/album/6VdpIrhunw6UkYYnmYq626) | 3:20 |
 | 40 | [By My Side](https://open.spotify.com/track/6QF8BEta1IcrPi0eigAGWY) | [Kat Wright](https://open.spotify.com/artist/3FX6ZjUpCoJOwsxleWx2ci) | [By My Side](https://open.spotify.com/album/1Qi9oI1lVDTZQL3gFikBIH) | 6:07 |
-| 41 | [One Last Song](https://open.spotify.com/track/39Q20GZHKK0IK8oKkhfxiJ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:12 |
+| 41 | [One Last Song](https://open.spotify.com/track/29LBE8uz4KJiz3GHchMymj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Crowd Pleasers \(Vol\. II\)](https://open.spotify.com/album/4IYvONnERqFE2zpZ6sBeZ8) | 3:15 |
 | 42 | [Welcome 2 America](https://open.spotify.com/track/2St53T2Yitx2E3gA674RP0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh) | 5:23 |
 | 43 | [My House](https://open.spotify.com/track/0IhrMl9LOHL1paaHQO630g) | [Sister Sparrow](https://open.spotify.com/artist/5kah03Pzp6s8eD8vRIhdfL) | [Fowl Play](https://open.spotify.com/album/2CAXZqrg3m9xJ6FrkHbSqU) | 7:01 |
 | 44 | [Giver](https://open.spotify.com/track/4zmhbFzPgE28eJN8OU4lL5) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [The Suffers](https://open.spotify.com/album/1mqd47Zj7XrAKfiDi99TcG) | 7:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 | 49 | [Your Love Will Blow Me Away When My Heart Aches](https://open.spotify.com/track/7mTXXQLhBp3W0UCx4bLfYf) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:03 |
 | 50 | [I'd Rather Go Blind](https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Loving You More…In The Spirit Of Etta James](https://open.spotify.com/album/5SCIDpdnpyjDm2bjCj8cuF) | 4:11 |
 
-Snapshot ID: `MTY3NzMxNTY0MiwwMDAwMDAwMDg1YTJkY2RlNjlkNTViYWQwOThmNDkwNTU2ZjA4ZjAx`
+Snapshot ID: `MTY3NzMxNTY0MiwwMDAwMDAwMDVlNDYxNjc4Nzg0MmYxMDczMGNhZjQ0ZjNkN2IyYWFj`

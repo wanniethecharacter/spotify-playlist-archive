@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/1mAh2El18qMQk03NOOq0K9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211045,
+      "name": "Bright Future",
+      "url": "https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R"
+    },
+    {
+      "album": {
         "name": "Bubble It",
         "url": "https://open.spotify.com/album/6Fz02VzDbrRtfDpyTwKq45"
       },
@@ -984,6 +1006,32 @@
       "duration_ms": 203145,
       "name": "Can\u00b4t Deny",
       "url": "https://open.spotify.com/track/3yWzMaLEFlnXF1TnOp39Kx"
+    },
+    {
+      "album": {
+        "name": "Suffer For Beauty",
+        "url": "https://open.spotify.com/album/6KHJY7nfgchDTdcPNDF6gj"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Shaney Jay",
+          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
+        },
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Catchy",
+      "url": "https://open.spotify.com/track/3npcOa13gwr54V0alfcNip"
     },
     {
       "album": {
@@ -3608,7 +3656,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 190384,
       "name": "Mine (feat. Boslen)",
       "url": "https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv"
@@ -4234,6 +4282,32 @@
       "duration_ms": 246323,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
+    },
+    {
+      "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150534,
+      "name": "Ogogoro (with Bas & Ayra Starr)",
+      "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 325178,
+  "num_followers": 325744,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMDU5MGYzN2FmY2E1ZWVkM2M0Mjc5NGJhZDA4Mjg2MmRm",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMGI2MmMwYzk1ODgyNzkyYTQzNDNjODJlNGRhNzFkMTdi",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
-      },
-      "artists": [
-        {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Pretty Green Eyes (Remixes)",
-        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Pretty Green Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Mr. Vain Recall",
         "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213413,
       "name": "Mr. Vain Recall - Radio Edit",
       "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Pretty Green Eyes (Remixes)",
+        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Pretty Green Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "It Just Won't Do",
-        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
-      },
-      "artists": [
-        {
-          "name": "Tim Deluxe",
-          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
-        },
-        {
-          "name": "Sam Obernik",
-          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "It Just Won't Do - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "It Just Won't Do",
+        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
+      },
+      "artists": [
+        {
+          "name": "Tim Deluxe",
+          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
+        },
+        {
+          "name": "Sam Obernik",
+          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "It Just Won't Do - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "LOL (International version)",
-        "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
-      },
-      "artists": [
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Boten Anna - Radio edit",
-      "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "20 Years of Hardcore (Remastered)",
         "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 215506,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "LOL (International version)",
+        "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Boten Anna - Radio edit",
+      "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "20 Years of Hardcore (Remastered)",
-        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Vicious Delicious",
         "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 192400,
       "name": "Welcome to the Club - Video Edit",
       "url": "https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "20 Years of Hardcore (Remastered)",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
     },
     {
       "added_at": "2021-04-29 18:40:15",

@@ -2531,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/0FwOjWiSfr5pQ9sAVrSLdq"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213036,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/52OBoIBBYB9R9UiIbWHKgF"
+    },
+    {
+      "album": {
         "name": "Homesick (feat. SOUNDR)",
         "url": "https://open.spotify.com/album/14bud7QbOvXC0FhVBarz1y"
       },
@@ -3670,6 +3692,28 @@
       "duration_ms": 292005,
       "name": "Miss You (feat. GG Magree) - Seven Lions and Gem & Tauri Remix",
       "url": "https://open.spotify.com/track/2NUG19cLueD671fKgtGpIp"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/5i1JWD1UbiURo8JlguXhym"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Maria Lynn",
+          "url": "https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197471,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Y3rH662UDCRPkZe1KUOyM"
     },
     {
       "album": {

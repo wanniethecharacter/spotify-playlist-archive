@@ -4993,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "Cinta Sederhana",
+        "url": "https://open.spotify.com/album/56C4AlB4tjz34QvEmKuEWl"
+      },
+      "artists": [
+        {
+          "name": "Aliya",
+          "url": "https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232064,
+      "name": "Cinta Sederhana",
+      "url": "https://open.spotify.com/track/0gKHFUjIP4w4lb81Suyc0H"
+    },
+    {
+      "album": {
         "name": "Cinta Sederhana (Sped Up)",
         "url": "https://open.spotify.com/album/0qFBTxljDnnGPTAVYpKC5u"
       },
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 155324,
       "name": "Cinta Sederhana (Sped Up)",
       "url": "https://open.spotify.com/track/69TVRrVsckWmAKzAlttolX"
@@ -20645,7 +20663,7 @@
       "artists": [
         {
           "name": "Gisela Sabrina",
-          "url": "https://open.spotify.com/artist/78oJHg4VcVmtPcdH2LP2z5"
+          "url": "https://open.spotify.com/artist/3qSA2bcj5wWZ9sYCbn5fMF"
         }
       ],
       "date_added": "2023-03-09",

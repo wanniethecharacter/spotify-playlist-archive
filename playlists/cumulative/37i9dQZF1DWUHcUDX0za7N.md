@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=ZjgNEgYXSzqquSyDO8Ak7g" > Rema </a>
+> Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=j11QL6MsRaSneLxTbjw4Eg" > Zlatan </a>
 
-157 songs - 7 hr 40 min
+159 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2023-01-27 |  |
 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2022-12-02 | 2023-02-24 |
 | [Never stopping](https://open.spotify.com/track/7bsexASUxrALdLNClTjjvJ) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [World Citizens](https://open.spotify.com/album/7rQGIVZH1sptr2Hq3Lqcy4) | 3:06 | 2022-06-23 |  |
+| [New Wave](https://open.spotify.com/track/7HEvEpAXXzeqyb4VWbrGUS) | [Boy Rey](https://open.spotify.com/artist/1JPIT8C5kRpF7whVGxSGf9) | [New Wave](https://open.spotify.com/album/716KuiFuvH1gsBkE7j1J1I) | 2:30 | 2023-03-11 |  |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 |  |
 | [Nobody](https://open.spotify.com/track/3FM1mMiAxyK5cAw1molDtw) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Codename, Vol\. 1](https://open.spotify.com/album/5xwIkodIxjHymcGMLQDhrI) | 4:34 | 2022-10-14 | 2022-10-29 |
 | [O Di Dan Dan](https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [O Di Dan Dan](https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh) | 2:15 | 2022-09-30 | 2022-11-19 |
@@ -98,6 +99,7 @@
 | [Ogini](https://open.spotify.com/track/67B82yul6EbtJGI1owyzjn) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Prettyboy D\-O](https://open.spotify.com/artist/0FkhtN9D0FYqWSdXDeNRjf) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 3:37 | 2022-10-14 | 2022-10-29 |
 | [Okwaraji](https://open.spotify.com/track/4ghRDR6c8VNISdVTCQ5FK4) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 2:45 | 2022-06-09 | 2022-10-14 |
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2022-06-09 |  |
+| [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 | 2023-03-11 |  |
 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 | 2022-06-09 |  |
 | [OPPS](https://open.spotify.com/track/4yTwUVvSIjB62K5iQH56hi) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN2](https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g) | 2:27 | 2022-10-14 | 2022-10-29 |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-10-14 | 2022-10-29 |

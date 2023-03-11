@@ -4,7 +4,7 @@
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-210 songs - 11 hr 22 min
+211 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-05-11 | 2022-07-27 |
 | [Detente un Minuto Ahí](https://open.spotify.com/track/1NazYV92RJ30amONk5h94G) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 3:17 | 2022-05-11 | 2022-06-26 |
 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 | 2022-08-26 |  |
-| [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 | 2022-05-13 |  |
+| [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 | 2022-05-13 | 2023-03-11 |
 | [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 | 2022-05-12 | 2022-07-22 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-10-01 | 2022-05-12 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-29 |  |
@@ -124,6 +124,7 @@
 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 | 2022-05-13 |  |
 | [My Love](https://open.spotify.com/track/4KmnnsobuU6kmhmdsR5qPl) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [My Love](https://open.spotify.com/album/3anKkRkQCaPcQV1jYxM42V) | 4:33 | 2022-05-13 | 2022-07-15 |
 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 | 2022-05-13 | 2023-02-28 |
+| [Más Tarde \- Remix](https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA) | 3:26 | 2022-05-13 |  |
 | [Nina](https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:36 | 2022-05-11 | 2022-07-26 |
 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 | 2022-05-09 |  |
 | [no me caigo tan bien](https://open.spotify.com/track/5cRxATH6YHeZ6MMlYF47vQ) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [no me caigo tan bien](https://open.spotify.com/album/4au2XrsSvknKfEX76fwfFI) | 3:28 | 2022-05-13 |  |
@@ -189,7 +190,7 @@
 | [Traba](https://open.spotify.com/track/6x2usVVVUamw3zS0D8k2NH) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Traba](https://open.spotify.com/album/38WD7AXRLhPQnLN1AO7j02) | 2:42 | 2022-05-13 | 2022-07-20 |
 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 | 2022-05-11 | 2022-07-25 |
 | [Tu](https://open.spotify.com/track/7npuLuI1b4NocURonjI1bB) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Tu](https://open.spotify.com/album/4oD1tOn7QCHpM4seVmUxmI) | 2:23 | 2022-05-13 | 2022-07-28 |
-| [Tumbando Avión](https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Tumbando Avión](https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m) | 3:00 | 2022-05-13 |  |
+| [Tumbando Avión](https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Tumbando Avión](https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m) | 3:00 | 2022-05-13 | 2023-03-11 |
 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 | 2021-10-01 | 2022-05-12 |
 | [Ténis Nuevos](https://open.spotify.com/track/5QyRPUTB2OIXmQd9ovrrFV) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Tácto](https://open.spotify.com/album/1IP1x69fYxKkWt7K64Rzia) | 3:07 | 2021-10-01 | 2022-05-12 |
 | [tú vales la pena](https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tú vales la pena](https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r) | 2:27 | 2022-05-13 |  |
@@ -206,7 +207,7 @@
 | [Venus](https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Venus](https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML) | 2:29 | 2021-10-01 | 2022-05-10 |
 | [Viva la Muerte](https://open.spotify.com/track/2CY8G2Z8Ek5puK1cnrmwEA) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:18 | 2022-05-11 | 2022-07-21 |
 | [Volando](https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volando](https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp) | 3:38 | 2021-10-01 | 2022-05-10 |
-| [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-05-09 | 2022-10-07 |
+| [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-05-09 |  |
 | [Vraiment](https://open.spotify.com/track/0jIQK9Tu4oBOsErqtyIrIL) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Vraiment](https://open.spotify.com/album/0uVskkVbzIcbao9Nl7okhk) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 | 2022-08-01 |  |
 | [WiFi](https://open.spotify.com/track/2EagRPSXniHG3HAzQd8HUb) | [Nicole Gatti](https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE) | [WiFi](https://open.spotify.com/album/7j9bryut6U7Qxc0Z4zHLFZ) | 2:11 | 2021-10-01 | 2022-05-11 |

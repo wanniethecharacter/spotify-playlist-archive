@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Al Cien",
+        "url": "https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Al Cien",
+      "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
+    },
+    {
+      "album": {
         "name": "Algo",
         "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
       },
@@ -212,6 +230,28 @@
       "duration_ms": 265798,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY"
+    },
+    {
+      "album": {
+        "name": "Amanecer (Remix)",
+        "url": "https://open.spotify.com/album/6ZbUkmIv5ERQf4oBE3yeR9"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Nereidas",
+          "url": "https://open.spotify.com/artist/3p22S9AiD01Izt8PBnGM94"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258389,
+      "name": "Amanecer (Remix)",
+      "url": "https://open.spotify.com/track/7tsbii6if5V9TPrkbsms84"
     },
     {
       "album": {
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 174117,
       "name": "Fin Del Mundo (with Bratty)",
       "url": "https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46"
@@ -2898,7 +2938,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 190806,
       "name": "Para Hacernos Bien",
       "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
@@ -3064,7 +3104,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259579,
       "name": "Prometimos No Hablar",
       "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
@@ -3317,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Si Me Voy (with The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203219,
+      "name": "Si Me Voy (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
+    },
+    {
+      "album": {
         "name": "Siempre Hago Lo Que Quiero",
         "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
       },
@@ -3394,6 +3456,24 @@
       "duration_ms": 155178,
       "name": "SIN DISFRAZ",
       "url": "https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X"
+    },
+    {
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/5XosYQ98MymeBJn3AOEApq"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/7Lcesyphe3BaJ9NrUn7VD4"
     },
     {
       "album": {
@@ -4150,7 +4230,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201000,
       "name": "Yo Me Quedo Aqu\u00ed",
       "url": "https://open.spotify.com/track/72byZ3SN2ADeGNjajCnnmL"

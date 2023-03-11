@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-236 songs - 15 hr 45 min
+237 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Fool's Gold](https://open.spotify.com/track/4IDfUKIqEuz5CZ3f0liZJU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/0lX1RLCTIOp8WnkeYstp7E) | 4:14 | 2018-11-26 | 2022-07-29 |
 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2018-11-26 |  |
 | [Forest Friends](https://open.spotify.com/track/1nQPMlAgZLSA3nxzIm15SS) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Belonging](https://open.spotify.com/album/4Vcaz8PUgRuo0BR36zKeLU) | 3:09 | 2022-12-14 |  |
-| [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Dntel](https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS) | [Glen Rose Formation](https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d) | 4:01 | 2018-11-26 |  |
+| [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Dntel](https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS) | [Glen Rose Formation](https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d) | 4:01 | 2018-11-26 | 2023-03-11 |
 | [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/track/4NyFRhY6gSuGa9bGGEf7eu) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Dntel](https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS) | [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/album/2QY5TnzpoHNViRpOvcccNh) | 4:01 | 2018-11-26 | 2022-07-29 |
 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/59cCr3aMohdsVwKFig5Ukf) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/2j8FTdrsfSRZE0dWCBmuEL) | 5:34 | 2018-11-26 | 2022-07-29 |
 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 | 2018-11-26 |  |
@@ -128,6 +128,7 @@
 | [Love Songs For Robots](https://open.spotify.com/track/3XlDJDs3udH7l0H7bwk0WY) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/6ssJcFWde5qznoMHGM0XOs) | 3:37 | 2018-11-26 | 2022-07-27 |
 | [Low Roar](https://open.spotify.com/track/2kFvFeOcF299uiOJlP7at5) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/2j8FTdrsfSRZE0dWCBmuEL) | 2:13 | 2018-11-26 | 2022-07-29 |
 | [Low Roar](https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 2:15 | 2018-11-26 |  |
+| [Made of Gold](https://open.spotify.com/track/1yh8cy4ClLCsdak8zoXyzk) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/5ftpS0zCFMmiDOkh9xcSJb) | 3:49 | 2022-12-14 |  |
 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 | 2018-11-26 | 2023-03-05 |
 | [Made of gold](https://open.spotify.com/track/5SRdU8ZiqR39RDEy4yku1K) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Made of gold](https://open.spotify.com/album/1TAMyTk1JChX1SubkwvT13) | 3:49 | 2018-11-26 | 2022-07-29 |
 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:30 | 2018-11-26 |  |

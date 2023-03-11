@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Monica and James Fortune",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Kierra Sheard",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -224,6 +224,36 @@
       "duration_ms": 206696,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/72NT5RRg8eGfulRgc101uc"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (Always)",
+        "url": "https://open.spotify.com/album/4iESmBCklPuETbVUW7yenz"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Jalen Seawright",
+          "url": "https://open.spotify.com/artist/5puI4C97ehRfRMIYD1jmdY"
+        },
+        {
+          "name": "Alina Oliver Emeribe",
+          "url": "https://open.spotify.com/artist/58ESnXSGitotN6hVfgUVTK"
+        },
+        {
+          "name": "Marv Hudgins",
+          "url": "https://open.spotify.com/artist/6IoG49XANg9rJ8pZM94b58"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358723,
+      "name": "Amazing Grace (Always)",
+      "url": "https://open.spotify.com/track/1cQgvWzXSr3VZmWUbrlY3D"
     },
     {
       "album": {
@@ -1302,7 +1332,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
@@ -1444,6 +1474,28 @@
       "duration_ms": 417810,
       "name": "Great I Am (feat. Quinton Elliott)",
       "url": "https://open.spotify.com/track/4VnOugKAXQPtoKU3lJZwBj"
+    },
+    {
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Greater",
+      "url": "https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J"
     },
     {
       "album": {
@@ -1712,7 +1764,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 273882,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3W1pqFKzE6Boihiw2MIk63"
@@ -1730,7 +1782,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 247301,
       "name": "Heartbeat - Live",
       "url": "https://open.spotify.com/track/6CQ6A3rlDDBUYXHONUDvPs"
@@ -1944,7 +1996,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 339733,
       "name": "HOLY ONLY (feat. Tony Fresh & Chaquanna Iman)",
       "url": "https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj"
@@ -3027,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
+    },
+    {
+      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/26OAP8RE487nB7xuP7KiDk"
       },
@@ -3991,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "Revive",
+        "url": "https://open.spotify.com/album/6qUJolH9x84t6qqWuy9QtT"
+      },
+      "artists": [
+        {
+          "name": "Harold Chaala",
+          "url": "https://open.spotify.com/artist/7vj4QLlLebqFdqs9iveykh"
+        },
+        {
+          "name": "Dr Tumi",
+          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273518,
+      "name": "Revive (Radio Edit)",
+      "url": "https://open.spotify.com/track/5wtY6vXRZIBZ0sTVs7yZ2W"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/1zvRvvWd3VHXROLpdUnIux"
       },
@@ -4533,6 +4625,32 @@
     },
     {
       "album": {
+        "name": "Tent Revival",
+        "url": "https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "D'Nar",
+          "url": "https://open.spotify.com/artist/6WRb0UlH4FZ3Hpt2YlMKbA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "TENT REVIVAL (feat. D'Nar)",
+      "url": "https://open.spotify.com/track/5d90SkHPZcxWyr0EQzW9ki"
+    },
+    {
+      "album": {
         "name": "TENT REVIVAL (feat. D'Nar)",
         "url": "https://open.spotify.com/album/76kz6M6P3vyw0r83q9SOJk"
       },
@@ -4678,7 +4796,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 397786,
       "name": "The 4th Man",
       "url": "https://open.spotify.com/track/78aypN49XOCv12qx2v35wE"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Joanne Shaw Taylor is taking over to share tracks of her new album, alongside current blues favorites.",
-  "name": "In the Name of the Blues: Joanne Shaw Taylor Takeover",
+  "description": "Marc Broussard is taking over to share tracks of her new album, alongside current blues favorites.",
+  "name": "In the Name of the Blues: Marc Broussard Takeover",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 202013,
       "name": "45 Jukebox",
       "url": "https://open.spotify.com/track/2phu5Xd3OOUJFAp7T0Ongm"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 181093,
       "name": "Ain\u2019t Killed Me Yet",
       "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
@@ -56,6 +56,24 @@
       "duration_ms": 189866,
       "name": "All Ice No Whiskey",
       "url": "https://open.spotify.com/track/7autbXYzSQAs0y1lQMhmnk"
+    },
+    {
+      "album": {
+        "name": "The Essential Otis Rush",
+        "url": "https://open.spotify.com/album/2xRWG3ikjf8O1tiQxJCW68"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/1byVRm4sDYsfObNNcnhswR"
     },
     {
       "album": {
@@ -140,10 +158,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 229426,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/7ke0huD5jHpsQBq9REm7jh"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Ball N' Chain",
+      "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
     },
     {
       "album": {
@@ -158,7 +194,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 279659,
       "name": "Black Hat Woman",
       "url": "https://open.spotify.com/track/3C2s5HctrhjEFtcvmTX3rz"
@@ -194,7 +230,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 301760,
       "name": "Black Roses",
       "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
@@ -230,7 +266,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 202218,
       "name": "Can't Get Right",
       "url": "https://open.spotify.com/track/6wQ1ooG7rEpoMlfG1iB6R7"
@@ -277,6 +313,42 @@
     },
     {
       "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/10W125nMbncRGcXRBoACOx"
+    },
+    {
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -310,6 +382,28 @@
       "duration_ms": 295440,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/1yxjaC8bqy31Cs7BrwCKz0"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Roddie Romero",
+          "url": "https://open.spotify.com/artist/5IG6Wzebie6bXLY5llyQAq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/4mmUSRPppHYZFzNSDuz59U"
     },
     {
       "album": {
@@ -371,6 +465,42 @@
     },
     {
       "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Don't Go No Farther - Single Version",
+      "url": "https://open.spotify.com/track/2uN2QIBpyfP88G8Y1gtkgY"
+    },
+    {
+      "album": {
+        "name": "Koko Taylor",
+        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167826,
+      "name": "Don't Mess With The Messer",
+      "url": "https://open.spotify.com/track/78jS82EbGZvIFXHdn1DTo4"
+    },
+    {
+      "album": {
         "name": "Blues Without You",
         "url": "https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr"
       },
@@ -382,10 +512,68 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 309653,
       "name": "Don't Put Your Dreams To Bed",
       "url": "https://open.spotify.com/track/5iaTOmdWMK5FZGaJF6dWyx"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/0wZPMFvHYfK2oFCj6T1JcD"
+    },
+    {
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347360,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2knqdlYKjS0J27lYyyRllU"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
     },
     {
       "album": {
@@ -425,6 +613,60 @@
     },
     {
       "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/0e1C16f86nHtO2bcXHdmFk"
+    },
+    {
+      "album": {
+        "name": "Empty Promises (Live)",
+        "url": "https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469445,
+      "name": "Empty Promises - Live",
+      "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
+    },
+    {
+      "album": {
+        "name": "Ol' Glory (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05c5kcU0gbJkAC7UDUOD61"
+      },
+      "artists": [
+        {
+          "name": "JJ Grey & Mofro",
+          "url": "https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Every Minute",
+      "url": "https://open.spotify.com/track/4A9FShhkUGSpTcXZUVkHdv"
+    },
+    {
+      "album": {
         "name": "Shine a Light on Me Brother",
         "url": "https://open.spotify.com/album/6SmC4gYKqblwijbM7Y5Lzl"
       },
@@ -454,7 +696,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 202413,
       "name": "Everything You Got",
       "url": "https://open.spotify.com/track/55Hl99Zml2F8kUBSlvVMAs"
@@ -476,10 +718,46 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 293000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5cfVfwth8tyKufK9EbLMwi"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj"
+      },
+      "artists": [
+        {
+          "name": "Bywater Call",
+          "url": "https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Falls Away",
+      "url": "https://open.spotify.com/track/6RewKTPLmEw46R29LjemGn"
+    },
+    {
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
     },
     {
       "album": {
@@ -498,7 +776,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 228520,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/7HtqkL0QR9KI7jHeG8u9Go"
@@ -556,7 +834,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 237441,
       "name": "Gathering Deep",
       "url": "https://open.spotify.com/track/23BauLTQEKroy2wNpcWUMI"
@@ -592,7 +870,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 234211,
       "name": "Georgia Off My Mind",
       "url": "https://open.spotify.com/track/2se33uCsb88PVwbp6ESNGb"
@@ -628,7 +906,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 178436,
       "name": "Gone For Good",
       "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
@@ -650,6 +928,24 @@
       "duration_ms": 257160,
       "name": "Hanging On A Loser",
       "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
+    },
+    {
+      "album": {
+        "name": "Heartache by the Pound",
+        "url": "https://open.spotify.com/album/6nOqRJiti1k8xh2q5nImZy"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Heartache by the Pound",
+      "url": "https://open.spotify.com/track/1T2B06AtdwFAtGaPdavLp0"
     },
     {
       "album": {
@@ -749,6 +1045,68 @@
     },
     {
       "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "J.J. Grey",
+          "url": "https://open.spotify.com/artist/2uAduWnHf7kmOLazXpsGl1"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300906,
+      "name": "I Asked For Water",
+      "url": "https://open.spotify.com/track/5COAvjKtgDamkky67pthsv"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318480,
+      "name": "I Like To Live The Love",
+      "url": "https://open.spotify.com/track/5b9Uld39K1HFG5ijkg1BJh"
+    },
+    {
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -804,10 +1162,64 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 215803,
       "name": "I Want My Soul Back",
       "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288066,
+      "name": "I'd Rather Drink Muddy Water",
+      "url": "https://open.spotify.com/track/0gEvWvPJF0grVRmz4ltLaK"
+    },
+    {
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/5Usb6LCElvXJ0dWFEs4hvf"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305773,
+      "name": "I've Got To Use My Imagination",
+      "url": "https://open.spotify.com/track/0qpdB0frb5EGZsH4ShNCIu"
     },
     {
       "album": {
@@ -822,10 +1234,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 352666,
       "name": "If It Wasn't for the Blues",
       "url": "https://open.spotify.com/track/6G2dRb7d8MTl5M5d6tijrs"
+    },
+    {
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287640,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA"
     },
     {
       "album": {
@@ -840,7 +1274,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 227240,
       "name": "Jumpin\u2019 For Joy",
       "url": "https://open.spotify.com/track/1TsyrqBU8mBom6RzjcvHx4"
@@ -858,7 +1292,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 280880,
       "name": "Just No Getting Over You (Dream Cruise)",
       "url": "https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP"
@@ -905,6 +1339,42 @@
     },
     {
       "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Laundromat Blues",
+      "url": "https://open.spotify.com/track/23mic51yKD9gVlAqvlcCMA"
+    },
+    {
+      "album": {
+        "name": "Big Bill Broonzy Sings",
+        "url": "https://open.spotify.com/album/6CIFmXtGi9usvr4Xb2hHJm"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Broonzy",
+          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189994,
+      "name": "Letter to My Baby",
+      "url": "https://open.spotify.com/track/3oDSvCsjMDV346ndVBJk7P"
+    },
+    {
+      "album": {
         "name": "Lissa's Song",
         "url": "https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU"
       },
@@ -938,6 +1408,72 @@
       "duration_ms": 222962,
       "name": "Living Hell",
       "url": "https://open.spotify.com/track/3PbaBsybQB6lZ485KBZnfG"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Locked Up In Jail (Prison Blues)",
+      "url": "https://open.spotify.com/track/2P9hQYr96lpRFKcXvnS3Wv"
+    },
+    {
+      "album": {
+        "name": "No Mercy In This Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186907,
+      "name": "Love And Trust",
+      "url": "https://open.spotify.com/track/2gRrJwLNO70Vo7h9VECLFa"
+    },
+    {
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Bobby Junior",
+          "url": "https://open.spotify.com/artist/19Nysw0xUI7SeFfu5YPBFb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Love, The Time Is Now",
+      "url": "https://open.spotify.com/track/2Q0hoSQVjyzyRbzNKzCRB7"
     },
     {
       "album": {
@@ -988,7 +1524,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 194906,
       "name": "Make Myself Me Again",
       "url": "https://open.spotify.com/track/3Z1k5umdX3YORNYhLYSbiL"
@@ -1046,10 +1582,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 188546,
       "name": "Missionary Man",
       "url": "https://open.spotify.com/track/0Iu485UCmLMjGgpZVgKxXo"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209475,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
     },
     {
       "album": {
@@ -1068,10 +1622,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 199873,
       "name": "Mount up on the Wings of the King",
       "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
+    },
+    {
+      "album": {
+        "name": "Blues Without You",
+        "url": "https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431026,
+      "name": "Mr. Easy",
+      "url": "https://open.spotify.com/track/6sGFSp3BJMI03ivhZ1z5dC"
     },
     {
       "album": {
@@ -1090,7 +1666,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 246384,
       "name": "My Girl is a Heartbreak (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/58zptEfJeRDFeNeOf2t2H0"
@@ -1126,7 +1702,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
@@ -1144,7 +1720,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 216893,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9"
@@ -1180,10 +1756,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 288373,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/50OoBWjN5GttCSP6tXFW3E"
+    },
+    {
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "One Bourbon, One Scotch, One Beer",
+      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
     },
     {
       "album": {
@@ -1270,7 +1864,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 225293,
       "name": "River Town Trip",
       "url": "https://open.spotify.com/track/4p8VYnLBT0iu7AGnhj3wyH"
@@ -1306,7 +1900,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 345765,
       "name": "Rollin' On (Live in Austin)",
       "url": "https://open.spotify.com/track/6iQUQL8hVaWVElypEnkxaM"
@@ -1324,10 +1918,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 229626,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/5gcywIXvvUnNf8Qx08vZ7m"
+    },
+    {
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "album": {
@@ -1378,7 +1990,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 225786,
       "name": "She's A Fighter",
       "url": "https://open.spotify.com/track/4FFqcj4j3IvjpY9rLMLwTF"
@@ -1414,10 +2026,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        },
+        {
+          "name": "Harvey Fuqua",
+          "url": "https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Spoonful - Single Version",
+      "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
     },
     {
       "album": {
@@ -1432,7 +2066,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 294500,
       "name": "Storms from My Eyes",
       "url": "https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj"
@@ -1450,7 +2084,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 249106,
       "name": "Strong as Steel",
       "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
@@ -1490,6 +2124,24 @@
       "duration_ms": 257094,
       "name": "Sunshine City",
       "url": "https://open.spotify.com/track/6gUbMFFKZtiEq4c9C4GfT4"
+    },
+    {
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "album": {
@@ -1537,6 +2189,28 @@
     },
     {
       "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1"
+    },
+    {
+      "album": {
         "name": "The Heart That Never Waits",
         "url": "https://open.spotify.com/album/6SX2nIztLCFIYH9UMABV7R"
       },
@@ -1566,7 +2240,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 242773,
       "name": "The Leaving Kind",
       "url": "https://open.spotify.com/track/4vvLCWBKXE1QuHA0VJIlFZ"
@@ -1624,7 +2298,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203493,
       "name": "Then There's You",
       "url": "https://open.spotify.com/track/2kb3RTDrnPRph4LoVgIRFV"
@@ -1642,7 +2316,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 231666,
       "name": "Through Being Blue Over You",
       "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
@@ -1660,7 +2334,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 270293,
       "name": "Ties That Bind",
       "url": "https://open.spotify.com/track/0YxtTa43y10dkX0z0tbJap"
@@ -1696,7 +2370,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 427773,
       "name": "Too Close To The Fire",
       "url": "https://open.spotify.com/track/4vZG2IFIOGPQSqj2CSKCH2"
@@ -1718,7 +2392,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
@@ -1754,7 +2428,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 348040,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL"
@@ -1790,7 +2464,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 218345,
       "name": "Walk On",
       "url": "https://open.spotify.com/track/76082CCgwMgL5TSInQkC8A"
@@ -1815,6 +2489,28 @@
     },
     {
       "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+    },
+    {
+      "album": {
         "name": "Shining in the Half Light",
         "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
       },
@@ -1826,7 +2522,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
@@ -1848,7 +2544,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 294200,
       "name": "Won't Be Fooled Again",
       "url": "https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z"
@@ -1866,10 +2562,46 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 305360,
       "name": "Wrapped up, Tangled up in the Blues",
       "url": "https://open.spotify.com/track/05hQRjl1TbYuUtMpjvFb0u"
+    },
+    {
+      "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+    },
+    {
+      "album": {
+        "name": "Soulblazz (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/6TP2Ywx3CUbAm0c1Pf08O4"
+      },
+      "artists": [
+        {
+          "name": "Natalia M. King",
+          "url": "https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262327,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/6KqAiHZ6YEi6NekDUpl9Bh"
     },
     {
       "album": {

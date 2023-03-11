@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Alcolirykos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,315 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,534 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 |
 | 2 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
 | 3 | [Alzypher Vol\. 10](https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alzypher Vol\. 10](https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd) | 3:02 |
-| 4 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
+| 4 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
 | 5 | [Una Calada](https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Una Calada](https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn) | 3:14 |
 | 6 | [De Todo Un Poco](https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [De Todo Un Poco](https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC) | 3:15 |
 | 7 | [Fly](https://open.spotify.com/track/1h0HwPZPmXruxfzZuEwi7G) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Homies & Beaches](https://open.spotify.com/album/5zUU3TfeoCVuUnbU81IkKV) | 3:27 |

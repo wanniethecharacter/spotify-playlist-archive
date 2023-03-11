@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 6 hr 59 min
+113 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-09-05 | 2022-11-12 |
 | [Sexy](https://open.spotify.com/track/5otjyptz6ykhmFGUYbIqoC) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sexy](https://open.spotify.com/album/63McTMWQqhbjJ9VUH46Tob) | 2:39 | 2022-09-05 |  |
 | [SI QUIERES](https://open.spotify.com/track/5D4dCLzLPENujlx7fXLLP4) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [SI QUIERES](https://open.spotify.com/album/10abBenjM5Q4ZLGsq3qNnS) | 2:15 | 2022-09-05 |  |
-| [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/5wAmqHwD5TGM7ETiJnwFPT) | 3:28 | 2022-09-05 |  |
+| [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/5wAmqHwD5TGM7ETiJnwFPT) | 3:28 | 2022-09-05 | 2023-03-11 |
+| [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/3gsLvZziN9ghF1mjxjM7h7) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/10XMQQHJnnknfCJqpyUSkn) | 3:28 | 2022-11-11 |  |
 | [Six Seven Times](https://open.spotify.com/track/2jknEB3TLUX5vEaLI4gttE) | [Flunk](https://open.spotify.com/artist/1Tz1kM5vFyBpzD22fHW609) | [Morning Star](https://open.spotify.com/album/5CcQRGb2CV6AofHROdyvHg) | 4:38 | 2022-09-05 |  |
 | [slipping through](https://open.spotify.com/track/3WjnzIoKOXzc6ACN6josm3) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe), [Phossa](https://open.spotify.com/artist/6AU0w0tbAckR0HR5PQ0GCa) | [slipping through](https://open.spotify.com/album/63CB1rmFQCIuyB6uBs06h2) | 3:41 | 2022-11-11 |  |
 | [Softic Dnb](https://open.spotify.com/track/2Jv4UqZIYSubikMXCBKIfd) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI) | 3:41 | 2022-09-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: shame",
+  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: The Nude Party",
   "name": "Noisy",
   "tracks": [
     {
@@ -420,6 +420,24 @@
       "duration_ms": 509146,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/35q5Q5szEL8lr1VbKrc6ri"
+    },
+    {
+      "album": {
+        "name": "Barley",
+        "url": "https://open.spotify.com/album/52iaofjBnrsriZOMnzijkZ"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209021,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/27XmeyUl26m0KYMJx1Blsb"
     },
     {
       "album": {
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144546,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7vhd7HIEQ3Kv7RJnajhJyl"
@@ -2005,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Everywhere is War (feat. Conor Oberst)",
+        "url": "https://open.spotify.com/album/2BNSVrjHOZaPBQQLzQH9s6"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194565,
+      "name": "Everywhere is War",
+      "url": "https://open.spotify.com/track/6UF5dU8SOiegM5f5u0mh7v"
+    },
+    {
+      "album": {
         "name": "Expendables",
         "url": "https://open.spotify.com/album/2k0kblfQyMpcgwYoaPNpOw"
       },
@@ -2218,6 +2258,24 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
+    },
+    {
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "album": {
@@ -2592,7 +2650,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 297906,
       "name": "Good Will Hunting",
       "url": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24"
@@ -3908,7 +3966,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 142894,
       "name": "Let Me Be Normal",
       "url": "https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD"
@@ -4096,6 +4154,24 @@
       "duration_ms": 190735,
       "name": "Madge's Declaration",
       "url": "https://open.spotify.com/track/547Ad3KBxWgNCmLbot2vf5"
+    },
+    {
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
       "album": {
@@ -5376,10 +5452,28 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 284597,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E"
+    },
+    {
+      "album": {
+        "name": "Rides On",
+        "url": "https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284597,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW"
     },
     {
       "album": {
@@ -5812,6 +5906,24 @@
       "duration_ms": 328625,
       "name": "Shelter Song",
       "url": "https://open.spotify.com/track/75NDBTcRmJ8yWUw2bDItHx"
+    },
+    {
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "album": {
@@ -6258,7 +6370,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 208171,
       "name": "Teen Beat",
       "url": "https://open.spotify.com/track/3HyhlfFMzfXjcDzI061LAM"
@@ -6864,7 +6976,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 199732,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
@@ -6936,7 +7048,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 115228,
       "name": "Tuning In",
       "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"

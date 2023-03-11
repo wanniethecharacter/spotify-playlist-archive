@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 46712,
+  "num_followers": 46808,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzE2MywwMDAwMDAwMDkzYWJhZDYyYzRkOTE4ZGUzYmI0ZDY0OTExMDUzMzM4",
+  "snapshot_id": "MTY3Nzg2NzE2MywwMDAwMDAwMDFmMDRkNjk2NTRjNWJiZTQwOTNiNzE2MjQzYWViOGIz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:27:42",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "What Am I To You?",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Black Leaves",
         "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 104280,
       "name": "Black Leaves",
       "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 313093,
-      "name": "I'll Take Care Of You",
-      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Sticking With It",
         "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 182813,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 313093,
+      "name": "I'll Take Care Of You",
+      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Hope And Desire",
-        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Loving You Is Sweeter Than Ever",
-      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Love, Death & In Between",
-        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+        "name": "Hope And Desire",
+        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
       },
       "artists": [
         {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Will o' the Wisp",
-      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
+      "duration_ms": 237600,
+      "name": "Loving You Is Sweeter Than Ever",
+      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -539,6 +523,22 @@
       "duration_ms": 199306,
       "name": "Forget What I Said",
       "url": "https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Love, Death & In Between",
+        "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Will o' the Wisp",
+      "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Live At Blues Alley",
         "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 349066,
       "name": "Stormy Monday",
       "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "I Know - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Other Side of Goodbye",
         "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
@@ -959,22 +943,6 @@
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -995,22 +963,50 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Better Days (feat. Dave Fenley)",
-        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
       "artists": [
         {
-          "name": "The Hello Darlins",
-          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
-        },
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 243880,
-      "name": "Better Days (feat. Dave Fenley)",
-      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Gunsmoke Blues (feat. Jason Isbell)",
-        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
         }
       ],
-      "duration_ms": 188973,
-      "name": "Gunsmoke Blues (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1151,6 +1147,26 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1183,22 +1199,6 @@
       "duration_ms": 295346,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-02-24 17:27:42",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-02-24 17:27:42",
       "album": {
-        "name": "Dinah Washington Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
-    },
-    {
-      "added_at": "2023-02-24 17:27:42",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 208167,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/68hRjnbmGNKjGObSdmB5ZL"
+    },
+    {
+      "added_at": "2023-02-24 17:27:42",
+      "album": {
+        "name": "Dinah Washington Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
     },
     {
       "added_at": "2023-02-24 17:27:42",

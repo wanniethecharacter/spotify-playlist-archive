@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 81358,
+  "num_followers": 81404,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGU4Njg2YjM2Nzk3NTJiOGE5NTIyODE3OTA0MDU3NTgz",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDg4OTk3OGM0MTYwYjdlYjM4Y2JiYWJmZDM1ODZiMmI5",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -399,26 +399,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vuelve a So\u00f1ar - EP",
-        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
-      },
-      "artists": [
-        {
-          "name": "Vito Vasquez",
-          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 222229,
-      "name": "Llegare (Remastered) [feat. Zeri]",
-      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Eres Merecedor",
         "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 221393,
       "name": "Eres Merecedor",
       "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Vuelve a So\u00f1ar - EP",
+        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
+      },
+      "artists": [
+        {
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 222229,
+      "name": "Llegare (Remastered) [feat. Zeri]",
+      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
     },
     {
       "added_at": "2020-11-24 13:23:55",

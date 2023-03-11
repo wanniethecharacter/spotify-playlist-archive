@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Z\u00f6elle en portada.",
-  "num_followers": 94216,
+  "num_followers": 94249,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM5OTQwNSwwMDAwMDAwMGEzMzE2ZmNlY2YwYjIwMTU5YmJiMDk0OWFhOTA4MWRh",
+  "snapshot_id": "MTY3ODQ2MjYxMCwwMDAwMDAwMDgyNGM4MjhjMGYzMWY1NGZlZmE0ZmE2MTNmZTkzODA2",
   "tracks": [
     {
       "added_at": "2023-03-09 22:02:47",
@@ -197,6 +197,42 @@
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
+      "added_at": "2023-03-11 01:08:06",
+      "album": {
+        "name": "flores",
+        "url": "https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "juan punto",
+          "url": "https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "flores",
+      "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
+    },
+    {
+      "added_at": "2023-03-11 01:08:06",
+      "album": {
+        "name": "19 HORAS",
+        "url": "https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "19 HORAS",
+      "url": "https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG"
+    },
+    {
       "added_at": "2023-03-09 22:02:47",
       "album": {
         "name": "NOW",
@@ -255,6 +291,26 @@
     {
       "added_at": "2023-03-09 22:02:47",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Emy Soul",
+          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
+        }
+      ],
+      "duration_ms": 191849,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -299,26 +355,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Emy Soul",
-          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
-        }
-      ],
-      "duration_ms": 191849,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
     },
     {
       "added_at": "2023-03-09 22:02:47",
@@ -415,6 +451,22 @@
     {
       "added_at": "2023-03-09 22:02:47",
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 183912,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -431,22 +483,6 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 183912,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu"
     },
     {
       "added_at": "2023-03-09 22:02:47",
@@ -691,22 +727,6 @@
     {
       "added_at": "2023-03-09 22:02:47",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
       },
@@ -719,6 +739,22 @@
       "duration_ms": 203636,
       "name": "Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q"
+    },
+    {
+      "added_at": "2023-03-09 22:02:47",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-03-09 22:02:47",
@@ -899,46 +935,6 @@
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 215777,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2023-03-09 22:02:47",
-      "album": {
-        "name": "Ten Cuidao'",
-        "url": "https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Ten Cuidao'",
-      "url": "https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp"
     }
   ],
   "unique_name": "R&B Latino",

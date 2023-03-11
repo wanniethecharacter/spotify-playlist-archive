@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 147000,
       "name": "cobain",
       "url": "https://open.spotify.com/track/6UCyTD4sziYX3Mj7RL668j"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187328,
       "name": "Cold Game (feat. Seddy Hendrinx)",
       "url": "https://open.spotify.com/track/3T1VE0Ek4a9rEPRuzbdN3Y"
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Devil's Work 2",
+        "url": "https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301445,
+      "name": "Devil's Work 2",
+      "url": "https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve"
+    },
+    {
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE"
       },
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 145574,
       "name": "divots",
       "url": "https://open.spotify.com/track/50XjCcjHRT43RVPgNA5kgV"
@@ -4269,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133537,
+      "name": "I Drove By Your House Today",
+      "url": "https://open.spotify.com/track/1Yljpc1emcSGyVlhNF9dIH"
+    },
+    {
+      "album": {
         "name": "SKYDIVE",
         "url": "https://open.spotify.com/album/5CDvJEDkcU8RsH5Xo8ZBJ0"
       },
@@ -4612,7 +4648,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 196363,
       "name": "Jupiter & Mars",
       "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
@@ -5561,6 +5597,28 @@
     },
     {
       "album": {
+        "name": "Hot Shot: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4rHF6VN1sUUjKHZu2rgVYG"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Mind Body Soul",
+      "url": "https://open.spotify.com/track/3E7R7axwaBBbTNwycIYLVF"
+    },
+    {
+      "album": {
         "name": "Money For Dummies",
         "url": "https://open.spotify.com/album/6hzpnXuANSTGRpIztwRjFa"
       },
@@ -6018,7 +6076,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 184380,
       "name": "Nuri",
       "url": "https://open.spotify.com/track/4dnO4Zq13moH46pBfMIV73"
@@ -6048,6 +6106,28 @@
       "duration_ms": 125706,
       "name": "Odd Ways",
       "url": "https://open.spotify.com/track/5WUNkJYMnVFVuhnAISp1WC"
+    },
+    {
+      "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
     },
     {
       "album": {
@@ -6524,7 +6604,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 100000,
       "name": "PENNYWISE",
       "url": "https://open.spotify.com/track/1zU25z6hf0J6wMCJwHUOZ9"
@@ -7568,7 +7648,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 125226,
       "name": "Southend Baby",
       "url": "https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD"
@@ -7882,6 +7962,24 @@
       "duration_ms": 167671,
       "name": "Summer Goodbye",
       "url": "https://open.spotify.com/track/5IMH03AnrfH2KUxPyrrrLR"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL"
     },
     {
       "album": {
@@ -8288,6 +8386,28 @@
       "duration_ms": 199991,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0FUkb2Ujgu1vxOWUDLjG1u"
+    },
+    {
+      "album": {
+        "name": "Hot Shot: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4rHF6VN1sUUjKHZu2rgVYG"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/2h1WKeqEuizO0vr8qxIOy6"
     },
     {
       "album": {
@@ -9136,6 +9256,24 @@
       "duration_ms": 149346,
       "name": "Why",
       "url": "https://open.spotify.com/track/2eQBMUJcOCsbEKTwHSqAdx"
+    },
+    {
+      "album": {
+        "name": "wimhof",
+        "url": "https://open.spotify.com/album/74KkMGjWKz63qfraiEdrNX"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "wimhof",
+      "url": "https://open.spotify.com/track/4di9ZH9MTfN2Esep27kvi1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Ankush Bhardwaj",
+  "description": "New music from popular Hindi artists. Cover- Kanishk Seth",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -68,6 +68,28 @@
       "duration_ms": 208258,
       "name": "Aa Mere Kol",
       "url": "https://open.spotify.com/track/2DiyS9ak3O1qHjlQuAeSKf"
+    },
+    {
+      "album": {
+        "name": "Aadhe Raste",
+        "url": "https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2"
+      },
+      "artists": [
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Aadhe Raste",
+      "url": "https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ"
     },
     {
       "album": {
@@ -1362,7 +1384,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 171428,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 204375,
       "name": "Dil Churane Lage Ho - From \"Jannatein\"",
       "url": "https://open.spotify.com/track/2FqN10gkrCZIeKlcEka9r1"
@@ -3673,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "album": {
         "name": "Jadu Salona",
         "url": "https://open.spotify.com/album/53wnbGpczje778Zz4wBpV0"
       },
@@ -3710,6 +3750,28 @@
       "duration_ms": 184462,
       "name": "JADU TONA REH",
       "url": "https://open.spotify.com/track/3o7wfwiSBHxrUIYqhy0aMi"
+    },
+    {
+      "album": {
+        "name": "Jahaan Pe Dil Hai",
+        "url": "https://open.spotify.com/album/7p8SMyYPHhlctJStFTIONG"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Aarifah",
+          "url": "https://open.spotify.com/artist/6vzDLX1aBE4CGlYUcg90Lu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "Jahaan Pe Dil Hai",
+      "url": "https://open.spotify.com/track/3YgM9XcsDUmCzOQIrsBWxS"
     },
     {
       "album": {
@@ -5579,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "Mulaqat Baki Hai",
+        "url": "https://open.spotify.com/album/1RNSZhkN7iUZuaSpTPzfUb"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Mulaqat Baki Hai",
+      "url": "https://open.spotify.com/track/3uIH2zctyh263EVMj7u9UI"
+    },
+    {
+      "album": {
         "name": "Takiya Kalaam",
         "url": "https://open.spotify.com/album/1sUkDpeG4mPaQSJh9mTzzw"
       },
@@ -6466,7 +6546,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259372,
       "name": "Preet",
       "url": "https://open.spotify.com/track/2XeX2lVTjO0TY6Jk0SE6dx"
@@ -7368,7 +7448,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 198447,
       "name": "Socho",
       "url": "https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE"
@@ -8029,6 +8109,28 @@
     },
     {
       "album": {
+        "name": "Titli",
+        "url": "https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        },
+        {
+          "name": "Pranay Parti",
+          "url": "https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155594,
+      "name": "Titli",
+      "url": "https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI"
+    },
+    {
+      "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/7q3J5Z39LFEq1HEdOkfdD9"
       },
@@ -8226,7 +8328,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 241476,
       "name": "Tu Hii To",
       "url": "https://open.spotify.com/track/7IOvVy5KChrDKWlX5Foeet"

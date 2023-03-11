@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-126 songs - 8 hr 35 min
+127 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [RED BLAZE : BLUE FLAME](https://open.spotify.com/track/20M5MWt8cLxaeHWEMvHLZ7) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/7iJPRedEjkEwmI0cNPWV8X) | 4:08 | 2022-07-12 |  |
 | [RED BLAZE : BLUE FLAME](https://open.spotify.com/track/42t6DZoLEQ7h1BWsSMT0pB) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Belle révolte](https://open.spotify.com/album/1zcTlzozh6cb5dmkrHwni6) | 4:08 | 2022-03-08 | 2022-07-29 |
 | [Refrain](https://open.spotify.com/track/1hrnW2QXlx8xrzrY3SojNl) | [Tomiko Van](https://open.spotify.com/artist/7bQTvi0LDupAeQp7wPR4Gr) | [Van.](https://open.spotify.com/album/65qHH8yIeVPFJmzndSO6OS) | 4:26 | 2022-03-08 |  |
+| [Sakura Ittekimasu](https://open.spotify.com/track/4H2l1HGZ4NKmjgt7fOCXKS) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [Sakura Ittekimasu](https://open.spotify.com/album/6svPEVtvFKlfhUN1deRQ9g) | 4:34 | 2023-03-09 |  |
 | [SING!!!!!](https://open.spotify.com/track/3a7f747Xv3UGGvRbhKKvpv) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [G20](https://open.spotify.com/album/6YcYx94kcYhcXuumKVrwhU) | 4:13 | 2022-03-08 |  |
 | [SOUTHPAW](https://open.spotify.com/track/6B0ufMIM7BXqleQk7pB3DV) | [MEG](https://open.spotify.com/artist/625iOFWwsLZyMXt7mx5L2X) | [WEAR I AM](https://open.spotify.com/album/6EBuvTf7SZKFBFwvjXDxMz) | 5:15 | 2022-03-08 |  |
 | [Start it right away](https://open.spotify.com/track/12SzyDBVh8aXwBSe6Oc0A1) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Start it right away](https://open.spotify.com/album/2k10P8MlYRilFTw1vVyt5o) | 4:08 | 2022-03-08 |  |
@@ -118,7 +119,7 @@
 | [帆を上げろ!](https://open.spotify.com/track/2cj8h4l2Mkc8a19gctQJ7I) | [BOYS AND MEN](https://open.spotify.com/artist/3VZOHWaJbouQwpHvfP47Lo) | [友ありて・・](https://open.spotify.com/album/3scNiDBwNDv6J6xp9ThUfE) | 4:25 | 2022-03-08 |  |
 | [星より先に見つけてあげる](https://open.spotify.com/track/4JfFC0KteCysB94ooYSbli) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [蒼い生命](https://open.spotify.com/album/3NHgyxIWN5N5xA42fxTG2F) | 3:52 | 2022-03-08 |  |
 | [最後の恋](https://open.spotify.com/track/3ppA5RIUkVK29mPa5T9erB) | [Keiko Masuda](https://open.spotify.com/artist/7Er8Al0qkSET67raBdRo9Y) | [最後の恋 / 富士山だ](https://open.spotify.com/album/29pgOADoOPzU5Mj52M3JkI) | 3:37 | 2022-03-08 |  |
-| [桜、いってきます](https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [桜、いってきます](https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI) | 4:34 | 2023-03-09 |  |
+| [桜、いってきます](https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [桜、いってきます](https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI) | 4:34 | 2023-03-09 | 2023-03-11 |
 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 | 2022-03-08 |  |
 | [樹愛羅、助けに来たぞ](https://open.spotify.com/track/0a9703vA2qok2MbpWU46M0) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [手遅れcaution](https://open.spotify.com/album/1ANjYhJNnkIbdYwg9ruRzo) | 4:09 | 2022-03-08 |  |
 | [無限∞ブランノワール](https://open.spotify.com/track/2Cb0EoNLoOtJTM07zbzTVW) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS), [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [無限∞ブランノワール](https://open.spotify.com/album/6qZqP0bchSwhrmL3d5zkF2) | 4:36 | 2022-03-08 |  |

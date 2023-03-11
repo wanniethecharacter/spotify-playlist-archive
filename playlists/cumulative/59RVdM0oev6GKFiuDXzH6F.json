@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed",
         "url": "https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX"
       },
@@ -187,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Bumpin'",
+        "url": "https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208869,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
+    },
+    {
+      "album": {
         "name": "You Got Soul",
         "url": "https://open.spotify.com/album/3jpUTkWUzmpBsdHmgd3Yhs"
       },
@@ -300,6 +336,42 @@
       "duration_ms": 183688,
       "name": "DM ME",
       "url": "https://open.spotify.com/track/7dSHCIUMxruReVkPneapxP"
+    },
+    {
+      "album": {
+        "name": "Don't Know Where",
+        "url": "https://open.spotify.com/album/3sZXsUKL1qg7uNfejPlZb2"
+      },
+      "artists": [
+        {
+          "name": "B/AN/K",
+          "url": "https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Don't Know Where",
+      "url": "https://open.spotify.com/track/5xWCRSWqhT4KZfhKlcmvX3"
+    },
+    {
+      "album": {
+        "name": "Dream Of You",
+        "url": "https://open.spotify.com/album/3SrSVPe74Yc7Mq8NFrwzVx"
+      },
+      "artists": [
+        {
+          "name": "Lost Capital",
+          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144047,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/3lm2HKqkzRm6M6WxOZxJr1"
     },
     {
       "album": {
@@ -511,7 +583,7 @@
     },
     {
       "album": {
-        "name": "I Fucking Love Dance Music (feat. GLASGOW KI$$)",
+        "name": "IFLDM (feat. GLASGOW KI$$)",
         "url": "https://open.spotify.com/album/5JHu6XWFumcF3aT1P0B6pP"
       },
       "artists": [
@@ -536,8 +608,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169920,
-      "name": "I Fucking Love Dance Music (feat. GLASGOW KI$$)",
+      "name": "IFLDM (feat. GLASGOW KI$$)",
       "url": "https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW"
+    },
+    {
+      "album": {
+        "name": "Imma",
+        "url": "https://open.spotify.com/album/1vpS1USEEQ5rXoPtcKwP2N"
+      },
+      "artists": [
+        {
+          "name": "Swonikz",
+          "url": "https://open.spotify.com/artist/02qtkJI5Mc88xkT35TFGpK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205236,
+      "name": "Imma",
+      "url": "https://open.spotify.com/track/2xzjCuloHSWqYedOcoIX85"
     },
     {
       "album": {
@@ -696,6 +786,28 @@
       "duration_ms": 156048,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/4QGXpDkEZzuZ33oniNjAQ0"
+    },
+    {
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169624,
+      "name": "Lo Que Siento",
+      "url": "https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK"
     },
     {
       "album": {
@@ -903,7 +1015,29 @@
     },
     {
       "album": {
-        "name": "NYC Baby",
+        "name": "Nikes",
+        "url": "https://open.spotify.com/album/5UHMgAgtfB9zgRdkOgq4MK"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149583,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"
+    },
+    {
+      "album": {
+        "name": "NYC BABY",
         "url": "https://open.spotify.com/album/6Ym9zpIrOmmfZmVI1ArSjE"
       },
       "artists": [
@@ -920,7 +1054,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 125585,
-      "name": "NYC Baby",
+      "name": "NYC BABY",
       "url": "https://open.spotify.com/track/1d8K4YrRelAi7AuZfxP4Uy"
     },
     {
@@ -1568,6 +1702,36 @@
       "duration_ms": 147428,
       "name": "You're Makin Me High",
       "url": "https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ"
+    },
+    {
+      "album": {
+        "name": "Zombie (feat. Sam Stray Wood & Kiirah)",
+        "url": "https://open.spotify.com/album/0D2UuEfuO21LT5al7X1Ygv"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Alterboy",
+          "url": "https://open.spotify.com/artist/4yR4Yc8RhsKBEwJ3JQQcY3"
+        },
+        {
+          "name": "Sam Stray Wood",
+          "url": "https://open.spotify.com/artist/4X1oGt6g3c7h9UFTmwYDhF"
+        },
+        {
+          "name": "Kiirah",
+          "url": "https://open.spotify.com/artist/5dOP9Sfrydo6TqNsX7oPhv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Zombie (feat. Sam Stray Wood & Kiirah)",
+      "url": "https://open.spotify.com/track/1DzhpS9SP57PHHVO5HEewk"
     }
   ],
   "url": "https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F"

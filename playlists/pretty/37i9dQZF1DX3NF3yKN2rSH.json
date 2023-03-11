@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53012,
+  "num_followers": 53013,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDg4OTJmMDE5Mjg3ZjYwOGZhODcxZDFjZjU1YWYzN2Fm",
+  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDI0N2JkM2Y4ZmEwNzU1OWRmYzliMTllMTFhMGRhZDA4",
   "tracks": [
     {
       "added_at": "2023-02-18 05:50:54",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Free To Worship",
         "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 289333,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -903,30 +903,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Unproduced",
-        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        },
-        {
-          "name": "Kierre Bjorn",
-          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
-        }
-      ],
-      "duration_ms": 290432,
-      "name": "Heaven's Here - Live",
-      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -975,6 +951,30 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Unproduced",
+        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        }
+      ],
+      "duration_ms": 290432,
+      "name": "Heaven's Here - Live",
+      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Mary Don't You Weep",
+      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
       "artists": [
         {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Mary Don't You Weep",
-      "url": "https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO"
+      "duration_ms": 211880,
+      "name": "Already Won - Live",
+      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1043,22 +1059,6 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Already Won - Live",
-      "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "I Shall Know Him",
-        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Cleophus Robinson",
-          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "I Shall Know Him",
+        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Cleophus Robinson",
+          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Classic Gold: We're Waiting",
-        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
-      },
-      "artists": [
-        {
-          "name": "Sandra Crouch",
-          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Nothing But the Blood v1.1",
-      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 457000,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Classic Gold: We're Waiting",
+        "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
+      },
+      "artists": [
+        {
+          "name": "Sandra Crouch",
+          "url": "https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Nothing But the Blood v1.1",
+      "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+        "name": "Another Chapter, Psalms 51",
+        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
       "artists": [
         {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+          "name": "Parkes Stewart",
+          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
         }
       ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+      "duration_ms": 356179,
+      "name": "He Loves Me",
+      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1731,22 +1747,6 @@
       "duration_ms": 370826,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "The Blood Song",
         "url": "https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5"
       },
@@ -1803,34 +1819,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
+        "name": "Vickie Winans: Greatest Hits",
+        "url": "https://open.spotify.com/album/5tZW4VvxZM4hOX7YuDLwHI"
       },
       "artists": [
         {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
         }
       ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "He Carried The Cross For Me",
-        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
+      "duration_ms": 421946,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/0B4E7Hgzh4IESmZPgSaiLw"
     }
   ],
   "unique_name": "Easter Gospel",

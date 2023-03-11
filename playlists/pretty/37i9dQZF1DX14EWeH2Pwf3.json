@@ -1,6 +1,6 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rondodasosa",
-  "num_followers": 794949,
+  "num_followers": 795467,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
@@ -963,7 +963,7 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Marciapiedi",
+        "name": "Marciapiedi (feat. Gemitaiz)",
         "url": "https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr"
       },
       "artists": [
@@ -982,10 +982,18 @@
         {
           "name": "Gemitaiz",
           "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Il Tre Beats",
+          "url": "https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19"
         }
       ],
       "duration_ms": 192000,
-      "name": "Marciapiedi",
+      "name": "Marciapiedi - feat. Gemitaiz",
       "url": "https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt"
     },
     {

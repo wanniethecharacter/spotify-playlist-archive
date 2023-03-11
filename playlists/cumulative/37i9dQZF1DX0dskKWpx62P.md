@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-113 songs - 7 hr 28 min
+114 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amor, amor](https://open.spotify.com/track/2fXjZzZbrKwwyV5cY9wOOv) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/5b6k6R3gxsko8WDODQlHIL) | 4:31 | 2022-02-04 | 2022-07-29 |
 | [Amor, Amor](https://open.spotify.com/track/59t1ift5NKs25qhh9nycJk) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 4:31 | 2022-02-04 | 2022-11-05 |
 | [Amor, amor](https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/6Cu6M7FESzzGeFLtyMz5Zh) | 4:31 | 2022-02-04 |  |
-| [AY CORAZÓN](https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [LO MEJOR DE LO ANTERIOR](https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW) | 4:37 | 2022-02-04 |  |
+| [AY CORAZÓN](https://open.spotify.com/track/14XLX8xbjueFBRMnrUNiRk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [LO MEJOR DE LO ANTERIOR](https://open.spotify.com/album/7MzodXzKWxlxylBShZGnSW) | 4:37 | 2022-02-04 | 2023-03-11 |
 | [Ay Corazón](https://open.spotify.com/track/1cjnsRW2d8Fy2gk3M8uIpA) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Edición de Coleccion](https://open.spotify.com/album/4UXEtKzIdri2r9YxbFK3Oo) | 4:37 | 2022-02-04 | 2023-02-18 |
 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 | 2022-02-04 | 2023-02-10 |
 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 | 2022-02-04 |  |
@@ -71,6 +71,7 @@
 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 | 2022-02-04 |  |
 | [La Cornuda](https://open.spotify.com/track/3avbUG70o1fNOtNZmsOUH8) | [Pumita Cazador](https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb) | [El Nuevo Líder del Requinto](https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB) | 5:40 | 2022-02-04 | 2022-07-28 |
 | [La Orquesta](https://open.spotify.com/track/0NM3JRUlrBhKbJM2lgKesV) | [Raíces D'Jauja](https://open.spotify.com/artist/2i5IMep3W8A3oFcCI3kp0D) | [Un Sentimiento de Amor](https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ) | 4:23 | 2022-02-04 |  |
+| [La Tetita](https://open.spotify.com/track/6cGW9ZgtrFHMGMKsco9MC2) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:10 | 2022-02-04 |  |
 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 | 2022-02-04 |  |
 | [Llanto por Llanto](https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 2:41 | 2022-02-04 |  |
 | [Mala Conciencia](https://open.spotify.com/track/7KoOzMXequfGIrZFU3Tyyf) | [María Jesús Rodríguez La Miski](https://open.spotify.com/artist/5pN0gsM5BbogZK9sowAj5q) | [La Miski](https://open.spotify.com/album/0SuLz8YOEvDPA0tppv2sPN) | 3:48 | 2022-02-04 | 2022-07-28 |

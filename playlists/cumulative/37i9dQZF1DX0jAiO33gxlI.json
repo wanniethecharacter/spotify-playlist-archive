@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Tarcis",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Salvador da Rima",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/63o4YpqI95GazC5ah5B3Iu"
+      },
+      "artists": [
+        {
+          "name": "Dimaz Mc",
+          "url": "https://open.spotify.com/artist/1Tv7cZE2EHVJgbY9SGTHzY"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/1Rhvc2FMTP4E2oNVnuTyjy"
+    },
+    {
+      "album": {
         "name": "Al\u00e9m",
         "url": "https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB"
       },
@@ -502,6 +524,28 @@
       "duration_ms": 233250,
       "name": "Apita",
       "url": "https://open.spotify.com/track/5m2XYNroEL5ceFFPDngYe2"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico 10 Anos Cacife",
+        "url": "https://open.spotify.com/album/6TsngftWOHJGgdY38pA22F"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126114,
+      "name": "Aqu\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fnhCJh5ofnk3hxkMiukSD"
     },
     {
       "album": {
@@ -872,7 +916,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 220909,
       "name": "Bug do Mil\u00eanio (A Cone Voltou)",
       "url": "https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n"
@@ -912,7 +956,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 203092,
       "name": "Cad\u00eancia 23",
       "url": "https://open.spotify.com/track/77mnm8Dpd1HxCFm9bZqy1W"
@@ -1136,6 +1180,24 @@
       "duration_ms": 189556,
       "name": "CH\u00c1 DE MA\u00c7\u00c3",
       "url": "https://open.spotify.com/track/0G5ivEEvVSHfmu0rdVoRk9"
+    },
+    {
+      "album": {
+        "name": "Classe",
+        "url": "https://open.spotify.com/album/0Z9QrmKGFct34B17D7WzBT"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77428,
+      "name": "Classe",
+      "url": "https://open.spotify.com/track/4lHxMEW42RcfvryJwdy5Md"
     },
     {
       "album": {
@@ -1959,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "D\u00e1 Pra Virar",
+        "url": "https://open.spotify.com/album/6kuIZDXXzCoqTJ9S6eii3H"
+      },
+      "artists": [
+        {
+          "name": "Hashi",
+          "url": "https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q"
+        },
+        {
+          "name": "Livera",
+          "url": "https://open.spotify.com/artist/5kLbSf5mKL43R8QVahK3fD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162119,
+      "name": "D\u00e1 Pra Virar",
+      "url": "https://open.spotify.com/track/01JvYbPsW7AB1BYHKqpM5f"
+    },
+    {
+      "album": {
         "name": "Easy Money",
         "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
       },
@@ -2612,7 +2696,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172819,
       "name": "Fofoca",
       "url": "https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f"
@@ -3488,7 +3572,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 140477,
       "name": "Laroy\u00ea",
       "url": "https://open.spotify.com/track/3c6f0oBNGq6GSScQlLl2Ia"
@@ -4337,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Modo Avi\u00e3o",
+      "url": "https://open.spotify.com/track/26i58WAIoKhuTf8TMH6I6C"
+    },
+    {
+      "album": {
         "name": "Monstr\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/4TJhD30MT2yq1JaV372r4Y"
       },
@@ -4502,7 +4608,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 152571,
       "name": "M\u00fasica Eletr\u00f4nica de Favela",
       "url": "https://open.spotify.com/track/1RMlyfhOKR22pJ0TYqcgr1"
@@ -4640,7 +4746,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 194846,
       "name": "Navio Pirata",
       "url": "https://open.spotify.com/track/6uCMka0gZbYRtbNCbupW2F"
@@ -5100,7 +5206,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 168190,
       "name": "O pior de mim",
       "url": "https://open.spotify.com/track/2OpWN2qaDXpPv8hDw8EsGD"
@@ -7807,6 +7913,32 @@
     },
     {
       "album": {
+        "name": "Vim da Lama",
+        "url": "https://open.spotify.com/album/5m9mQG6q7vWB16c4FPVoa5"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Lil Ticy",
+          "url": "https://open.spotify.com/artist/6LqIXTKtoJobKSOkgMjfo5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Vim da Lama",
+      "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"
+    },
+    {
+      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/48aPryaTwIQ4035LR0y129"
       },
@@ -7952,6 +8084,28 @@
       "duration_ms": 205714,
       "name": "Zero Um (Versus Vol. 1) [feat. Tropkillaz]",
       "url": "https://open.spotify.com/track/5UpXpV7YS9pdqlkMwRRH4a"
+    },
+    {
+      "album": {
+        "name": "Zl Freestyle",
+        "url": "https://open.spotify.com/album/6eXfaTqAQyiBZaJWfrSYGm"
+      },
+      "artists": [
+        {
+          "name": "2000erimas",
+          "url": "https://open.spotify.com/artist/1d60Kv3HVFOQ44taIU7Xjf"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161163,
+      "name": "Zl Freestyle",
+      "url": "https://open.spotify.com/track/5a5mHg4LmkC4SZ3CoaWW0f"
     },
     {
       "album": {

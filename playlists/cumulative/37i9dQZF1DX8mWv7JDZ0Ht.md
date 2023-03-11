@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Agnes Nunes
 
-277 songs - 13 hr 55 min
+278 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Se Bastasse Amor](https://open.spotify.com/track/3K4gyEycEmKCtFowP0QfAq) | [Torres](https://open.spotify.com/artist/454gFLEvbdE3DuF5O0TksU), [Ort1](https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1) | [Se Bastasse Amor](https://open.spotify.com/album/1aUb1yTxUpdGWZSti1olv9) | 2:41 | 2023-02-25 |  |
 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 | 2023-02-03 |  |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 | 2023-02-04 |
-| [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 | 2023-01-27 |  |
+| [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 | 2023-01-27 | 2023-03-11 |
 | [Sem Filtro](https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Sem Filtro](https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1) | 3:49 | 2022-08-01 | 2023-01-21 |
 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 | 2022-06-03 | 2022-08-06 |
 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 | 2022-06-14 | 2022-08-06 |
@@ -272,6 +272,7 @@
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2022-12-02 |  |
 | [VERÃO DOS MEUS SONHOS](https://open.spotify.com/track/6qQgXxNXsweQMsnuPBlm4q) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [REALVERSO: Lado A](https://open.spotify.com/album/5MuLBsEBEsPn0gGkIgmpZZ) | 3:09 | 2023-02-10 | 2023-03-07 |
 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 | 2022-06-14 | 2022-08-06 |
+| [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 | 2023-03-10 |  |
 | [Vida Livre](https://open.spotify.com/track/7uzqTJLFkKJd8724zmcmV5) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Aetd+](https://open.spotify.com/album/60UPKT3azkcUp2wc4WxKIz) | 3:27 | 2022-05-13 | 2022-06-04 |
 | [Voa Comigo](https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Voa Comigo](https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C) | 2:49 | 2022-05-13 | 2022-12-03 |
 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 | 2022-06-24 | 2022-09-03 |

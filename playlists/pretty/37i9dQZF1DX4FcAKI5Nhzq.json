@@ -1,6 +1,6 @@
 {
   "description": "Future K-Pop hits! Cover: CRAVITY",
-  "num_followers": 742126,
+  "num_followers": 742291,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,34 @@
       "duration_ms": 232040,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/0mvQ0J2oRljP2lcOd3ewgn"
+    },
+    {
+      "added_at": "2023-03-09 09:06:39",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex"
+      },
+      "artists": [
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "viceversa",
+          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "WHIP! - Spotify Singles",
+      "url": "https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r"
     },
     {
       "added_at": "2023-03-09 09:06:39",

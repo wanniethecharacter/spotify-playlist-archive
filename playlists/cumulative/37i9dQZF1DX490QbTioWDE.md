@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-296 songs - 19 hr 28 min
+297 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 | 2023-01-18 |  |
 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 | 2021-12-24 |  |
 | [Dile](https://open.spotify.com/track/7DKr60flV0rMuS96PmWfWA) | [Carli Jiménez](https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe) | [Tal Cual](https://open.spotify.com/album/3pS403llauCP9YljIJkiU2) | 3:35 | 2022-01-10 | 2022-07-17 |
+| [Dime Que Pasó](https://open.spotify.com/track/3aflQMCMmqhs9S8JjGNIUG) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Dime Que Pasó](https://open.spotify.com/album/5gGUOdk6ryPztvUtN6VVZx) | 3:09 | 2023-03-11 |  |
 | [Dos Corazones / Nadie Como Tu \- En Vivo](https://open.spotify.com/track/6vGx5GfOBiAsCf3xrCGfyn) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [EZE BONINO](https://open.spotify.com/artist/0MR0vGT9yrSDdP5nAfvWh6) | [Dos Corazones / Nadie Como Tu \(En Vivo\)](https://open.spotify.com/album/33eXHErmlVVCLe8F9RCsyU) | 3:27 | 2022-03-04 | 2022-04-01 |
 | [Dónde](https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22) | [Negro Videla](https://open.spotify.com/artist/5BlpN6p3oOtHgvTNwsAVpJ) | [Vigencia](https://open.spotify.com/album/1Qjyr4cWyDWLStIviRmhXw) | 3:48 | 2021-12-24 | 2022-10-14 |
 | [El Amor No Es un Juego](https://open.spotify.com/track/2bHDPfEA3d2WfdJ7L2CsGz) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [El Amor No Es un Juego](https://open.spotify.com/album/4R4PuQAw5OX5vaMTAkVLRd) | 3:07 | 2022-01-07 | 2022-06-23 |
@@ -232,7 +233,7 @@
 | [Secretos](https://open.spotify.com/track/0MheE91p8ktWXN3qBv7hur) | [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Secretos](https://open.spotify.com/album/7Mwc0OqzOeYClWklcCLpyk) | 2:31 | 2022-06-17 | 2022-08-26 |
 | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 | 2022-09-16 | 2022-12-03 |
 | [Si Faltas Tú](https://open.spotify.com/track/5qg6DJXbQTPTGGF5Ft94Oa) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Cuarteto Premium](https://open.spotify.com/album/5Bzeyk1auK1ebXzNZRnXvz) | 2:59 | 2022-06-03 | 2022-09-23 |
-| [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 |  |
+| [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 | 2023-03-11 |
 | [Si Te Vas de Mí \- Live](https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si Te Vas de Mí \(Live\)](https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc) | 3:00 | 2022-01-07 | 2022-07-21 |
 | [Si Tu No Estas](https://open.spotify.com/track/3pgPOehuHA8I85GN7YfpiR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Si Tu No Estás](https://open.spotify.com/album/45lk2mZV4w5IKtcvdmErAU) | 2:28 | 2023-01-13 | 2023-02-03 |
 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 | 2021-12-24 | 2022-07-29 |

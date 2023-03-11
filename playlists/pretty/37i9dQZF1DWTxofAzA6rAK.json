@@ -1,6 +1,6 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Skeng",
-  "num_followers": 43464,
+  "num_followers": 43516,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
@@ -498,6 +498,10 @@
         {
           "name": "Skeng",
           "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "John Coop",
+          "url": "https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG"
         }
       ],
       "duration_ms": 161182,

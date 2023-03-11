@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,640 likes - 150 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,698 likes - 150 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 3 | [Wilderness](https://open.spotify.com/track/6FHHNUmzQYCVxqraPzUchi) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Wilderness](https://open.spotify.com/album/54Q3pJUG5p8VbES4aVTbKM) | 3:46 |
 | 4 | [Snoozy Bliss](https://open.spotify.com/track/1vsJH9KHxzOtxvNiutXn9a) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:23 |
 | 5 | [A Long Line of Violet Hills](https://open.spotify.com/track/4d6CikfRNaivEqMOrqtHuF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:07 |
-| 6 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
+| 6 | [Receiving](https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r) | [ANNA](https://open.spotify.com/artist/5zq0B2yaMWrFb7KGrniDzc), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Receiving](https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0) | 7:07 |
 | 7 | [Clouds](https://open.spotify.com/track/2mX0me3pk0W8AplEFsQSPW) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Ambient Calming Sleep](https://open.spotify.com/album/4i4axO2A9i5ppuS37JQTwu) | 2:50 |
 | 8 | [Boundless](https://open.spotify.com/track/0vzxsI3KIPY4lyhI0m0EAH) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Boundless](https://open.spotify.com/album/0yXGrxSC7CMIFXY1zHhB7p) | 3:18 |
 | 9 | [celestia](https://open.spotify.com/track/3u3ijivU8xHxaqkaCEE2eb) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [celestia](https://open.spotify.com/album/1WY2kCwaRlKR8xutuufjKm) | 2:34 |

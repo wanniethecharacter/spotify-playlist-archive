@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. / From the Congo, to the world. \ud83c\udf0d Photo: GIMS",
+  "description": "Du Congo, au monde. / From the Congo, to the world. \ud83c\udf0d Photo: Hiro",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 437586,
       "name": "50 ans",
       "url": "https://open.spotify.com/track/7ueSn0EJb0cOto5fNG5Us6"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 277398,
       "name": "Coeur moderne",
       "url": "https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 492013,
       "name": "Nzinzi",
       "url": "https://open.spotify.com/track/2M7sghd8d1oYp9c2EJx73a"
@@ -2476,6 +2476,24 @@
       "duration_ms": 361351,
       "name": "On dit quoi",
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
+    },
+    {
+      "album": {
+        "name": "Oulala",
+        "url": "https://open.spotify.com/album/79UH7RYzNA2b9v0Xp2MTLt"
+      },
+      "artists": [
+        {
+          "name": "Odrey",
+          "url": "https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150921,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/2IWhvuzDDeTSbX5K3Ex7zB"
     },
     {
       "album": {
@@ -3380,6 +3398,24 @@
       "duration_ms": 397022,
       "name": "Wosso",
       "url": "https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0"
+    },
+    {
+      "album": {
+        "name": "Y'a pas ton 2",
+        "url": "https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191671,
+      "name": "Y'a pas ton 2",
+      "url": "https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I"
     },
     {
       "album": {

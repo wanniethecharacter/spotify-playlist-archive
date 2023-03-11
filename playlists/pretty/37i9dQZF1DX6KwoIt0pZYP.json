@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 149193,
+  "num_followers": 149314,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NzYwMCwwMDAwMDAwMGZjMWIyMDgxMGIyMzJlZDQ5NDYxZjIxMTZjNGJhNDMx",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDIwMDVmZmZlM2Y1YzFkZWY0ZDIxZjhkNzI1YmE0MzE5",
   "tracks": [
     {
       "added_at": "2023-03-09 16:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
         "name": "Shouldn't Be",
         "url": "https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 210480,
       "name": "Shouldn't Be",
       "url": "https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "added_at": "2023-03-09 16:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
-        "name": "The Ones We Once Loved",
-        "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 273362,
-      "name": "The Ones We Once Loved",
-      "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 119744,
       "name": "everything sucks (feat. Eric Nam)",
       "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "The Ones We Once Loved",
+        "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 273362,
+      "name": "The Ones We Once Loved",
+      "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
     },
     {
       "added_at": "2023-03-09 16:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
+        "name": "Steal The Show",
+        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 222232,
       "name": "WILL YOU?",
       "url": "https://open.spotify.com/track/5VsvYVSiMIAhZ2O42qBxnS"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
-        "name": "Steal The Show",
-        "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        },
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
     },
     {
       "added_at": "2023-03-09 16:00:00",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
-        "name": "Fade (English Version)",
-        "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "Fade - English Version",
-      "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
         "name": "Empty House",
         "url": "https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 173540,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "Fade (English Version)",
+        "url": "https://open.spotify.com/album/0KTF15ps0q5IfKX8Ec7mZR"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "Fade - English Version",
+      "url": "https://open.spotify.com/track/65fYGpikgGBtIMtuGqj9SX"
     },
     {
       "added_at": "2023-03-09 16:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
-        "name": "Just a Crush Thing",
-        "url": "https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY"
-      },
-      "artists": [
-        {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        }
-      ],
-      "duration_ms": 188130,
-      "name": "Just a Crush Thing",
-      "url": "https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
         "name": "Lost At Sea (Illa Illa 2)",
         "url": "https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "Just a Crush Thing",
+        "url": "https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "duration_ms": 188130,
+      "name": "Just a Crush Thing",
+      "url": "https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx"
     },
     {
       "added_at": "2023-03-09 16:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-03-09 16:00:00",
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
         "name": "Seeing Other People",
         "url": "https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 210232,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi"
-    },
-    {
-      "added_at": "2023-03-09 16:00:00",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     }
   ],
   "unique_name": "tapioca",

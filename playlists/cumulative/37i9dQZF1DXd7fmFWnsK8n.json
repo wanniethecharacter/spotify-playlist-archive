@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 282640,
       "name": "Mr.AFFECTiON",
       "url": "https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 328000,
       "name": "Sakura Message",
       "url": "https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV"
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "IDOLiSH7",
+          "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "TOMORROW EViDENCE",
+      "url": "https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL"
+    },
+    {
+      "album": {
         "name": "VARIANT",
         "url": "https://open.spotify.com/album/5n3Xy8ZGY9kRNJ1TGpq2VV"
       },
@@ -1744,6 +1762,24 @@
       "duration_ms": 231440,
       "name": "Up to the nines",
       "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
+    },
+    {
+      "album": {
+        "name": "BLACK or WHITE 2022",
+        "url": "https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo"
     },
     {
       "album": {

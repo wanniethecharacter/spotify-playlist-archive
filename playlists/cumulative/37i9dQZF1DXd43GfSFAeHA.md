@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Dizzy Dros
 
-225 songs - 11 hr 49 min
+226 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 | 2023-02-08 |  |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-10-04 | 2022-11-30 |
 | [El Hob Ebn Wes5a](https://open.spotify.com/track/0RsGwcEEqxDMhNA0jahQFV) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:46 | 2022-05-08 | 2022-10-04 |
-| [ELGHIRA](https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5) | 2:47 | 2023-02-08 |  |
+| [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-03-02 |  |
+| [ELGHIRA](https://open.spotify.com/track/42Vy5zKc5KcUsz5dyGEMQI) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/51jFeqsDRYtQDse8p4zTL5) | 2:47 | 2023-02-08 | 2023-03-11 |
 | [Error](https://open.spotify.com/track/3zSlXzlW42RWvjR6Bklz2C) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [A5r Alail](https://open.spotify.com/album/2jYXYCAzyK0cfrQbnEvuwR) | 3:20 | 2023-02-28 |  |
 | [Ezayak](https://open.spotify.com/track/27az6aDS4zWJ3yRU7gXJVH) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Ezayak](https://open.spotify.com/album/2xl5oVu3n8v9nAZDbmgi41) | 3:14 | 2022-05-08 | 2022-08-24 |
 | [Fahmek](https://open.spotify.com/track/3EZxxyB3IcZGi7ALxkywRy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 3:03 | 2022-05-08 | 2022-10-04 |

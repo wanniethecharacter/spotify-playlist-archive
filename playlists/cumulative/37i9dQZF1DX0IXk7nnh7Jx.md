@@ -2,9 +2,9 @@
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Lani Rose
+> Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: Forrest Frank
 
-263 songs - 16 hr 28 min
+266 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 | 2020-12-18 | 2023-02-19 |
 | [Found You](https://open.spotify.com/track/0oD3hbtGptcY1R0JeRHAa3) | [Silicone Boone](https://open.spotify.com/artist/35sTROQ10vkOfLtMf1epnr) | [Found You](https://open.spotify.com/album/602LizcSBxLxMxZNjl4V3r) | 4:03 | 2020-12-18 | 2023-01-17 |
 | [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2023-02-19 |  |
+| [fruit](https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [fruit](https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4) | 2:48 | 2023-03-11 |  |
 | [Fullness Of God](https://open.spotify.com/track/5ZWiFwZRtPpfLMmtQi4gTa) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Fullness Of God](https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc) | 7:51 | 2020-12-18 | 2023-02-19 |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-12-18 | 2023-02-19 |
 | [Garment](https://open.spotify.com/track/7dVzebREEslE4UTztbvosL) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [Garment](https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC) | 4:44 | 2020-12-18 | 2022-07-27 |
@@ -131,6 +132,7 @@
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-12-18 | 2023-02-19 |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2023-02-19 |  |
 | [Lead Me \(Among the Ruins\)](https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Lead Me \(Among the Ruins\)](https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo) | 5:11 | 2020-12-18 | 2022-07-26 |
+| [LIFT MY HANDS](https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LIFT MY HANDS](https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh) | 3:39 | 2023-03-11 |  |
 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 | 2020-12-18 | 2023-02-19 |
 | [Lily of the field](https://open.spotify.com/track/5r5Uf5K0bhSuImB5TpJvkB) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Lily of the field](https://open.spotify.com/album/7reHJREiR01CtHh7YRdY3v) | 3:17 | 2023-02-19 |  |
 | [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 | 2020-12-18 | 2023-02-19 |
@@ -193,17 +195,17 @@
 | [Safe Place](https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD) | [Pauline Zoe Park](https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T) | [Safe Place](https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx) | 3:31 | 2023-02-19 |  |
 | [Salome & Saint Procula](https://open.spotify.com/track/2zmLBzrcJt2es39J8n98SE) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/3UIUny1GT2hwrj7mn0MdHi) | 4:21 | 2020-12-18 | 2022-07-24 |
 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 | 2020-12-18 | 2023-02-19 |
-| [Satchmo](https://open.spotify.com/track/71V7G1re50nQU2l8q87gvq) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Satchmo](https://open.spotify.com/album/1XW4YNoshbIsr0Kvz1QGQW) | 2:28 | 2023-02-24 |  |
+| [Satchmo](https://open.spotify.com/track/71V7G1re50nQU2l8q87gvq) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Satchmo](https://open.spotify.com/album/1XW4YNoshbIsr0Kvz1QGQW) | 2:28 | 2023-02-24 | 2023-03-11 |
 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 | 2020-12-18 | 2023-02-19 |
 | [Scotoma](https://open.spotify.com/track/0QXYZ9DHNY2D3jjkDveTdq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Scotoma](https://open.spotify.com/album/3D67jo28f5OAlDX3dBgSMv) | 1:57 | 2023-02-20 |  |
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2023-02-24 |  |
-| [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 |  |
+| [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 | 2023-03-11 |
 | [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 |  |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2023-02-19 |  |
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 | 2023-02-19 |
 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-02-19 |  |
 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 | 2023-02-24 |  |
-| [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 |  |
+| [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 | 2023-03-11 |
 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 | 2020-12-18 | 2022-07-29 |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-12-18 | 2023-02-19 |
 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 | 2020-12-18 | 2023-02-19 |
@@ -211,6 +213,7 @@
 | [Stay](https://open.spotify.com/track/2gR3jPSYrnwdczEjBACA1i) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [The After](https://open.spotify.com/album/37UvijJdXfvXKiIAe6GZBS) | 4:37 | 2023-02-24 | 2023-03-10 |
 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 | 2023-02-19 |  |
 | [Still Standing](https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Still Standing](https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn) | 3:24 | 2023-02-19 |  |
+| [Still Standing](https://open.spotify.com/track/25tvIkZ6oMsKxeFXwcKwei) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Still Standing](https://open.spotify.com/album/0XEt0POBZWwuxceDlBAOSg) | 3:23 | 2023-03-11 |  |
 | [Stir A Passion](https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [O, Peace](https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL) | 5:04 | 2020-12-18 | 2023-02-19 |
 | [storms](https://open.spotify.com/track/43jJPXj38vutt4BBEfMq5W) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [storms](https://open.spotify.com/album/7LyVXdjhIFhWTnfAzzaJBJ) | 3:48 | 2023-02-24 |  |
 | [Stubborn](https://open.spotify.com/track/4viix5zX6bHoWWXxqcTWbw) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Stubborn](https://open.spotify.com/album/0wrVj7iCicqkOUrFMJVJRA) | 2:12 | 2023-02-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Broke Carrey.",
+  "description": "Flow sudamericano con Nicki Nicole.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 166060,
       "name": "A Lo Rockstar",
       "url": "https://open.spotify.com/track/4QTdOe3d50cfm37j4u8eB9"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 174097,
       "name": "COMPA",
       "url": "https://open.spotify.com/track/40EalzUKMq1i28ha5EccEH"
@@ -3493,6 +3493,28 @@
     },
     {
       "album": {
+        "name": "Cuentos",
+        "url": "https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        },
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192630,
+      "name": "Cuentos",
+      "url": "https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ"
+    },
+    {
+      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -3534,6 +3556,28 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Est\u00e1s?",
+        "url": "https://open.spotify.com/album/2VEcetqb7yEZD9arTcyW8b"
+      },
+      "artists": [
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184834,
+      "name": "C\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/0m8tCUvlPfx5bU1CHA73aR"
     },
     {
       "album": {
@@ -5127,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "Esa Morocha",
+        "url": "https://open.spotify.com/album/4rfBEDe0WCENlXv5B6WmkZ"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Esa Morocha",
+      "url": "https://open.spotify.com/track/1CjcFU0xECNiAgq3WDOFE1"
+    },
+    {
+      "album": {
         "name": "Ese Corte",
         "url": "https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU"
       },
@@ -5422,6 +5484,28 @@
       "duration_ms": 166383,
       "name": "Ferrero",
       "url": "https://open.spotify.com/track/72TwkQpJVPvCEAkwGWIR8g"
+    },
+    {
+      "album": {
+        "name": "Fichaje #2",
+        "url": "https://open.spotify.com/album/5eveQf10qjsqdkTy0pIyBd"
+      },
+      "artists": [
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138518,
+      "name": "Fichaje #2",
+      "url": "https://open.spotify.com/track/49Z1i130g2Uc5nc81fkuOX"
     },
     {
       "album": {
@@ -7342,7 +7426,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 157377,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
@@ -7368,7 +7452,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 230544,
       "name": "KU'",
       "url": "https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M"
@@ -9439,6 +9523,24 @@
     },
     {
       "album": {
+        "name": "MI LOCURA EN BUENOS AIRES",
+        "url": "https://open.spotify.com/album/5qPPycb83v2ycLeOZD3gKw"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "MI LOCURA EN BUENOS AIRES",
+      "url": "https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa"
+    },
+    {
+      "album": {
         "name": "Mi Nena",
         "url": "https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t"
       },
@@ -10914,6 +11016,24 @@
       "duration_ms": 143925,
       "name": "No Toque Mi Naik",
       "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
+    },
+    {
+      "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "album": {
@@ -14576,7 +14696,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 116412,
       "name": "Soy una Gerla",
       "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
@@ -15264,6 +15384,24 @@
       "duration_ms": 170306,
       "name": "THE ROOKIE",
       "url": "https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N"
+    },
+    {
+      "album": {
+        "name": "Tiempo al tiempo",
+        "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Tiempo al tiempo",
+      "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
     },
     {
       "album": {
@@ -16618,7 +16756,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 150613,
       "name": "Vengo De La Brea",
       "url": "https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq"
@@ -17278,7 +17416,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 209838,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-385 songs - 23 hr 26 min
+386 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 | 2022-06-25 |  |
 | [CVS](https://open.spotify.com/track/0AKErkag7pPMyvkGXnBQbk) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [CVS](https://open.spotify.com/album/5VLkFY7Sn2qgrYnrDEswqv) | 6:00 | 2022-03-05 | 2022-06-05 |
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2022-02-19 | 2022-04-09 |
-| [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 | 2022-06-25 |  |
+| [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 | 2022-06-25 | 2023-03-11 |
 | [Do It](https://open.spotify.com/track/6FckE16VQCnThMBqLbZi3c) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh) | [Do It](https://open.spotify.com/album/32mkshtSeN7GuwuoT9bHfX) | 4:09 | 2022-02-19 | 2022-06-20 |
 | [Do It Again](https://open.spotify.com/track/3yHSoXS8cpzrIyNG4cirr3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This Is Evvie McKinney](https://open.spotify.com/album/27FOigKMfea4FVW2Kzluza) | 4:50 | 2022-02-19 | 2022-06-26 |
 | [Don't Cry](https://open.spotify.com/track/1nNFLwGgXcwYG94qhkgjr6) | [Samuel Ljungblahd](https://open.spotify.com/artist/7cI6JpPjdbp5dB1cGTxp94) | [Right Now](https://open.spotify.com/album/2CfkoJlHrB9YOif9yWY5T9) | 5:46 | 2022-06-25 | 2023-01-25 |
@@ -307,6 +307,7 @@
 | [Shout to the Lord](https://open.spotify.com/track/5QbdIj9omsOxwpkZXGWDTU) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Shout to the Lord](https://open.spotify.com/album/48USOS8BlA33ib4hR7HhLn) | 2:38 | 2022-02-19 | 2022-06-26 |
 | [Sick World](https://open.spotify.com/track/2W8wffJ4JEZRnTKJdxBu7A) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Sick World](https://open.spotify.com/album/2jTaaPq4kWFpVB40DY3Lap) | 4:04 | 2022-02-19 | 2022-02-27 |
 | [Silence](https://open.spotify.com/track/3ah4rwiAyuL3VK29FFGYeb) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Silence](https://open.spotify.com/album/3Z5mDX1FaYZDuij0PLczoD) | 3:33 | 2022-02-27 | 2022-06-16 |
+| [Simple Ways](https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a) | [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Simple Ways](https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc) | 2:57 | 2023-01-20 |  |
 | [Single & I Love It](https://open.spotify.com/track/68MMQ3Gbf1n8uQqqNaNbuZ) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 2:37 | 2022-02-19 | 2022-06-25 |
 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 | 2022-04-01 | 2022-04-08 |
 | [Slave](https://open.spotify.com/track/72HJMvot7eaWtFffEzrtpd) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Slave](https://open.spotify.com/album/63uaYCOOyQXKrV3gE11SaQ) | 3:14 | 2022-06-25 | 2022-08-07 |

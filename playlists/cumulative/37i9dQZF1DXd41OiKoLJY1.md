@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: YARA, Artwork: Isu Kim
 
-915 songs - 2 day 6 hr 55 min
+916 songs - 2 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Damn Good](https://open.spotify.com/track/6PnHLDkaZ6bSViLwctZP1e) | [Jude Clarence](https://open.spotify.com/artist/5nSZoxGGJh9ckvokSXPjc2) | [Damn Good](https://open.spotify.com/album/7flby3nDo1WWowvTC40hVh) | 2:24 | 2022-02-03 | 2022-03-11 |
 | [Dance](https://open.spotify.com/track/4wKM1hqbNdhEnvSJ3kYt7O) | [Ako](https://open.spotify.com/artist/04AN4RChXDMNdoPTvt0Rl7) | [Dance](https://open.spotify.com/album/2npT3MZK9WLuij0MSfSnuu) | 4:21 | 2022-06-16 | 2022-09-09 |
 | [Dancing Like We're Twentysomething](https://open.spotify.com/track/62L9FO5Ni5iEnQQHCbl0H2) | [Monolog](https://open.spotify.com/artist/1lFZVpc8Zg0D2JXr11BVrk) | [Dancing Like We're Twentysomething](https://open.spotify.com/album/5HAgAwFddsTLM7rKlUWbEP) | 4:10 | 2022-08-26 | 2022-12-01 |
+| [Daylight](https://open.spotify.com/track/19UN16mgucQdQ1dlj6WG6o) | [Philly Nick](https://open.spotify.com/artist/6ZZIuxXZHgHU9Ad3yRaxj5), [1400](https://open.spotify.com/artist/3khYSaUr7GBHWZY0ZdzbQr) | [Daylight](https://open.spotify.com/album/2WQU5nu0FV6qYe6AUOBbCq) | 2:18 | 2023-03-09 |  |
 | [Days](https://open.spotify.com/track/2GqYzqhNnpXZDodup8rP0r) | [Kanishia](https://open.spotify.com/artist/5rR4NdXCcE4GxT2QPJSwX8) | [Days](https://open.spotify.com/album/5zhJX9t6XULs5ro6UglO61) | 3:14 | 2022-08-26 | 2022-09-23 |
 | [Dead or Alive](https://open.spotify.com/track/0XD93jnME6m5uyDBoSm0Ln) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z), [bylaffur](https://open.spotify.com/artist/2Z8Ib2rbYt6NcZouxnxGKw) | [Dead or Alive](https://open.spotify.com/album/39AQrFJ4yy0mdnQaZkN2MV) | 3:32 | 2022-04-21 | 2022-05-06 |
 | [Deadstock](https://open.spotify.com/track/6PPmUn4N8Rg54gq0XIbJ2e) | [Rocky Sandoval](https://open.spotify.com/artist/0ZFZG4dpBzfXutusAdjQHK) | [Deadstock](https://open.spotify.com/album/4bUozlaM9M0uZQJPvcgcbs) | 2:56 | 2022-05-26 | 2022-08-20 |

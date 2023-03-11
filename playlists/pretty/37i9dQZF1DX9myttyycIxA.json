@@ -1,13 +1,61 @@
 {
   "description": "Underground indie rock gems. Cover: Mo Lowda & the Humble",
-  "num_followers": 281490,
+  "num_followers": 281537,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODExODE2MywwMDAwMDAwMDU5Y2MxOTFiNThiZmRmNjBlZWJmOTU1MTk2ZmM1MzE2",
+  "snapshot_id": "MTY3ODQ4MTc3NywwMDAwMDAwMDgzMjg0MjQzZGUwNjg3M2U4NGU2MWRkMzU0YjBhYTc1",
   "tracks": [
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Shrapnel",
+        "url": "https://open.spotify.com/album/3KXLjYoXnh0yqH6J94s6Ce"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Shrapnel",
+      "url": "https://open.spotify.com/track/1ADmIBKMDRcs6Cfj2Xe0XJ"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Making You Up",
+        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 219595,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
+    },
+    {
+      "added_at": "2023-03-10 20:56:17",
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
+    },
     {
       "added_at": "2023-03-03 16:39:02",
       "album": {
@@ -41,20 +89,36 @@
       "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
-      "added_at": "2023-03-03 16:39:02",
+      "added_at": "2023-03-10 16:10:27",
       "album": {
-        "name": "Bound To Be",
-        "url": "https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb"
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
       },
       "artists": [
         {
-          "name": "Homeschool",
-          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 210458,
-      "name": "Bound To Be",
-      "url": "https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE"
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Back To This",
+        "url": "https://open.spotify.com/album/2nv8JpceboLnk5WIHJaTXE"
+      },
+      "artists": [
+        {
+          "name": "Alaska Reid",
+          "url": "https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Back To This",
+      "url": "https://open.spotify.com/track/6S3FfGti4KjL8wIamymaep"
     },
     {
       "added_at": "2023-03-03 16:39:02",
@@ -87,6 +151,42 @@
       "duration_ms": 171563,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Scaredy's World",
+        "url": "https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        }
+      ],
+      "duration_ms": 151864,
+      "name": "Scaredy's World",
+      "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Are You Okay?",
+        "url": "https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ"
+      },
+      "artists": [
+        {
+          "name": "BEL",
+          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Are You Okay?",
+      "url": "https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy"
     },
     {
       "added_at": "2023-02-10 16:41:23",
@@ -135,6 +235,70 @@
       "duration_ms": 195133,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Liminal Bliss",
+        "url": "https://open.spotify.com/album/2Re8nPKprztJvXmVCAi6gw"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "duration_ms": 202433,
+      "name": "Liminal Bliss",
+      "url": "https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/3Uk2RgzeIgWWGwCqa7vbv3"
+      },
+      "artists": [
+        {
+          "name": "Sunfruits",
+          "url": "https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy"
+        }
+      ],
+      "duration_ms": 211977,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/3SQ80sfeRoBbqnsp4X9KZn"
+    },
+    {
+      "added_at": "2023-03-10 16:10:27",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/6fARki7lNpZLU5evUM2gbn"
+      },
+      "artists": [
+        {
+          "name": "Jacklen Ro",
+          "url": "https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/7K0T7UwNqY46WC0MD6fEhr"
+    },
+    {
+      "added_at": "2023-03-03 16:39:02",
+      "album": {
+        "name": "Bound To Be",
+        "url": "https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb"
+      },
+      "artists": [
+        {
+          "name": "Homeschool",
+          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+        }
+      ],
+      "duration_ms": 210458,
+      "name": "Bound To Be",
+      "url": "https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE"
     },
     {
       "added_at": "2023-03-03 16:39:02",
@@ -1463,174 +1627,6 @@
       "duration_ms": 222544,
       "name": "Song About Love",
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Holding You",
-        "url": "https://open.spotify.com/album/7fbK3jCvnDN9wkWJrfHZ7a"
-      },
-      "artists": [
-        {
-          "name": "GRMLN",
-          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
-        }
-      ],
-      "duration_ms": 161536,
-      "name": "Holding You",
-      "url": "https://open.spotify.com/track/0eq57jxRER9R6yo2p5bhn5"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/0uL6OMzCds7OOSRXq72uMo"
-      },
-      "artists": [
-        {
-          "name": "The WAEVE",
-          "url": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6"
-        },
-        {
-          "name": "Graham Coxon",
-          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
-        },
-        {
-          "name": "Rose Elinor Dougall",
-          "url": "https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC"
-        }
-      ],
-      "duration_ms": 372773,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
-    },
-    {
-      "added_at": "2022-10-21 14:21:13",
-      "album": {
-        "name": "Nowhere, LA",
-        "url": "https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH"
-      },
-      "artists": [
-        {
-          "name": "Why Bonnie",
-          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
-        }
-      ],
-      "duration_ms": 206569,
-      "name": "Nowhere, LA",
-      "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Mark Mothersbaugh Alterego",
-        "url": "https://open.spotify.com/album/47RiulSgSCvFPbzp11Qkf9"
-      },
-      "artists": [
-        {
-          "name": "Yonic South",
-          "url": "https://open.spotify.com/artist/1QRKC6oodMbGbuiTP2hmlg"
-        }
-      ],
-      "duration_ms": 168593,
-      "name": "Mark Mothersbaugh Alterego",
-      "url": "https://open.spotify.com/track/51AXx0yeXKZ9i87yvPwFF5"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Dog",
-        "url": "https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg"
-      },
-      "artists": [
-        {
-          "name": "Farrah Hanna",
-          "url": "https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z"
-        }
-      ],
-      "duration_ms": 171345,
-      "name": "Dog",
-      "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Pieces of Gold",
-        "url": "https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Katz",
-          "url": "https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI"
-        }
-      ],
-      "duration_ms": 241271,
-      "name": "Pieces of Gold",
-      "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Pop Song 2 & 1",
-        "url": "https://open.spotify.com/album/5BLlxvXXNaWcublYzNsNlz"
-      },
-      "artists": [
-        {
-          "name": "Velvet Negroni",
-          "url": "https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm"
-        }
-      ],
-      "duration_ms": 114538,
-      "name": "Pop Song 2",
-      "url": "https://open.spotify.com/track/1ajhtWRkjgsKSvXn9zb6oS"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/1qFxc9TGxsarNpuIYT89kh"
-      },
-      "artists": [
-        {
-          "name": "The Rills",
-          "url": "https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/5Ois32EzRt9Pl1f7OKVQI8"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 212138,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Breaking the Balls of History",
-        "url": "https://open.spotify.com/album/6DVuykMkZf4s7P6hMlnvns"
-      },
-      "artists": [
-        {
-          "name": "Quasi",
-          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
-        }
-      ],
-      "duration_ms": 174843,
-      "name": "Nowheresville",
-      "url": "https://open.spotify.com/track/6eCA6XPUfROV71NtlJ8jHy"
     }
   ],
   "unique_name": "undercurrents",

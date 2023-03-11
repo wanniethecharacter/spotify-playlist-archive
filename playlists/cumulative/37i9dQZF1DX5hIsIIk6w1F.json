@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
+  "description": "Este Flow tiene otro Flow. Foto: King Savagge.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 124254,
       "name": "40 GRADOS EN LA CIUDAD",
       "url": "https://open.spotify.com/track/0NJ8EStpxZZo8xUJ0A0STe"
@@ -674,6 +674,28 @@
       "duration_ms": 247071,
       "name": "Bambini",
       "url": "https://open.spotify.com/track/4qG0BRX5woEZMoAO7K5cGO"
+    },
+    {
+      "album": {
+        "name": "Be Con Be",
+        "url": "https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Be Con Be",
+      "url": "https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR"
     },
     {
       "album": {
@@ -1473,6 +1495,28 @@
     },
     {
       "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/7zQny480glNF22HtDiyuMx"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132118,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/0eE20hYDWpVoclXkWfp6uT"
+    },
+    {
+      "album": {
         "name": "Dias Tristes",
         "url": "https://open.spotify.com/album/5y4XdL2YUwXgS1RenyB4re"
       },
@@ -1612,10 +1656,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 242006,
       "name": "DOLCE",
       "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Donde?",
+      "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
     },
     {
       "album": {
@@ -2156,7 +2222,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 157971,
       "name": "Fashion Girl",
       "url": "https://open.spotify.com/track/35HatUvsF0Rcrn8BoMdhrc"
@@ -2174,7 +2240,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 191739,
       "name": "Fina",
       "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
@@ -2304,6 +2370,28 @@
       "duration_ms": 148084,
       "name": "FLOW NY",
       "url": "https://open.spotify.com/track/2cxJTu1NTE4uigQA5Pnf8H"
+    },
+    {
+      "album": {
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Fluye",
+      "url": "https://open.spotify.com/track/5nAzaS0V99hJURAOcnQmM7"
     },
     {
       "album": {
@@ -3367,6 +3455,28 @@
     },
     {
       "album": {
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4VzEjnnyrmJABQlDgbmGng"
+    },
+    {
+      "album": {
         "name": "Los Diablotes",
         "url": "https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166"
       },
@@ -3676,7 +3786,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185934,
       "name": "MARIMBA GRINGA",
       "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
@@ -4424,7 +4534,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259090,
       "name": "NO ERES SANTA",
       "url": "https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg"
@@ -4783,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Pa La Europa",
+        "url": "https://open.spotify.com/album/3UeGVaUGFEwU2lvYRdP1Nn"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219753,
+      "name": "Pa La Europa",
+      "url": "https://open.spotify.com/track/79Ias0x3ygL9ZQcQ7rAvbG"
+    },
+    {
+      "album": {
         "name": "Pa Mi Na Ma",
         "url": "https://open.spotify.com/album/0pfCtoX1S2cGAmMgpZiAaR"
       },
@@ -4798,7 +4926,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201178,
       "name": "Pa Mi Na Ma",
       "url": "https://open.spotify.com/track/1NnhfvqvkTizmt2ByeDjKX"
@@ -5210,7 +5338,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 136373,
       "name": "Perrea",
       "url": "https://open.spotify.com/track/5J6MhWMuRQsZwo9MtLG31T"
@@ -5357,6 +5485,40 @@
     },
     {
       "album": {
+        "name": "Plata o Plomo",
+        "url": "https://open.spotify.com/album/5hg2rdw9l36rUswjzVTAAk"
+      },
+      "artists": [
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Plata o Plomo",
+      "url": "https://open.spotify.com/track/229sfiAhUrcl53cRSOkkdb"
+    },
+    {
+      "album": {
         "name": "Ponle (Remix)",
         "url": "https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO"
       },
@@ -5448,6 +5610,28 @@
       "duration_ms": 214468,
       "name": "Ponte Pa M\u00ed",
       "url": "https://open.spotify.com/track/4nDFKq4cge5x6pk53cU28S"
+    },
+    {
+      "album": {
+        "name": "Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/30W6CCs45YrbHxCKdLlz6w"
+      },
+      "artists": [
+        {
+          "name": "Paloma Lomax",
+          "url": "https://open.spotify.com/artist/3ndNJDkOuaHwCNcjZvglgd"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/1gJNJ5fkj3Do1ehnxLZccJ"
     },
     {
       "album": {
@@ -5756,6 +5940,24 @@
       "duration_ms": 179650,
       "name": "Qu\u00e9 Tal",
       "url": "https://open.spotify.com/track/10yYzYZwIaZhBLvUt7oMPh"
+    },
+    {
+      "album": {
+        "name": "6.5",
+        "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123434,
+      "name": "Ram",
+      "url": "https://open.spotify.com/track/3th0luN7pe8n10lHJDIDkg"
     },
     {
       "album": {
@@ -6886,7 +7088,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 185284,
       "name": "Tu Favorito",
       "url": "https://open.spotify.com/track/7qonOa9EFJ2SVu7aj3W2dn"

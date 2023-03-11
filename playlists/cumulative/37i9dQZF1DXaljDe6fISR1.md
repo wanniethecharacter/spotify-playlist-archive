@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-99 songs - 7 hr 44 min
+100 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Sr\. Tempo Bom](https://open.spotify.com/track/6vbN5VPXXh2Co1rA9wEJAw) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 4:42 | 2022-04-22 |  |
 | [Sr\. Tempo Bom](https://open.spotify.com/track/5QHmlQiT4VUz0w5jjMQwGy) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima & Ieda Hills](https://open.spotify.com/artist/3K8B64cKUgTjV7Q7QPA7ZS) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 4:42 | 2022-03-11 | 2022-07-29 |
 | [Só](https://open.spotify.com/track/4JzVXnE9e7qExrT1NKgVT6) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 3:21 | 2022-03-11 |  |
+| [Só Sangue Bom, Pt.3](https://open.spotify.com/track/4jUFFvH5CMEq5xAB9JZf4h) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF), [DMN](https://open.spotify.com/artist/3uyCb9gtdnzyXxdActGeJN), [Face da Morte](https://open.spotify.com/artist/6GAY2GRVpYjQ9K7HOyzvea) | [Só Sangue Bom, Pt.3](https://open.spotify.com/album/0AZPtRuZ0lHTZPUGmf2Ead) | 7:16 | 2023-03-10 |  |
 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 | 2022-03-11 |  |
 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 | 2022-03-11 |  |
 | [Triunfo](https://open.spotify.com/track/1mKxoW3WG9YN6vvYTn1gRK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3HoPJLp2P1pkNlMnjNfp0Z) | 3:29 | 2022-03-11 | 2022-07-29 |

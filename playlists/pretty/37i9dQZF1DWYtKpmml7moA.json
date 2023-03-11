@@ -1,12 +1,12 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 373651,
+  "num_followers": 373767,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMGQyMjY0Y2VjY2MyMDg1NWQwYmY4MmQxMGUxNWNiOWNh",
+  "snapshot_id": "MTY2NTY5NzQ3NiwwMDAwMDAwMGMzYjE0MTgzZTZhNGVjMjMzOTIzYTdhNmQ3MGUxYWFj",
   "tracks": [
     {
       "added_at": "2022-10-13 21:44:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-13 21:44:36",
       "album": {
-        "name": "Reggae Gold 2019",
-        "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
-      },
-      "artists": [
-        {
-          "name": "Queen Ifrica",
-          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
-        }
-      ],
-      "duration_ms": 224104,
-      "name": "To See",
-      "url": "https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq"
-    },
-    {
-      "added_at": "2022-10-13 21:44:36",
-      "album": {
         "name": "BLEU, Vol. 1",
         "url": "https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 205714,
       "name": "Patra",
       "url": "https://open.spotify.com/track/6NABMkgjXgSbJvSmX0qg46"
+    },
+    {
+      "added_at": "2022-10-13 21:44:36",
+      "album": {
+        "name": "Reggae Gold 2019",
+        "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
+      },
+      "artists": [
+        {
+          "name": "Queen Ifrica",
+          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
+        }
+      ],
+      "duration_ms": 224104,
+      "name": "To See",
+      "url": "https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq"
     },
     {
       "added_at": "2022-10-13 21:44:36",

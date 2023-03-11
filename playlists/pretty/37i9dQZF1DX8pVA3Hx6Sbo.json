@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 866911,
+  "num_followers": 867381,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyOTQzNywwMDAwMDAwMDcwZjQ2MDMxMGMxNGI4OWUyZTA1ZWM2NGE2MzY0MmNj",
+  "snapshot_id": "MTY3ODEyOTQzNywwMDAwMDAwMGZlZjFjM2Q1M2U1ZmJlMjZhOWFmYjFhZGEzZDViOTY1",
   "tracks": [
     {
       "added_at": "2022-12-09 16:26:52",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-09 16:26:52",
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "La Primera Caricia",
-      "url": "https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk"
-    },
-    {
-      "added_at": "2022-12-09 16:26:52",
-      "album": {
         "name": "Palabra De Rey",
         "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 176813,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x"
+    },
+    {
+      "added_at": "2022-12-09 16:26:52",
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "La Primera Caricia",
+      "url": "https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk"
     },
     {
       "added_at": "2022-12-09 16:26:52",

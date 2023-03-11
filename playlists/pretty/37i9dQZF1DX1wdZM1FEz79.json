@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: J.YUNA(\uc81c\uc774\uc720\ub098)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 242279,
+  "num_followers": 242427,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMDlhMTBlYjI4OTU1NGQ2MzhmNmQzZWUxOWI2MmQ3MjM1",
+  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMDJmYjU5ODY0MTE2NWY5ZDIyM2EzYzkyM2RhN2FlY2Ri",
   "tracks": [
     {
       "added_at": "2023-03-02 06:49:58",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
-        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
-      },
-      "artists": [
-        {
-          "name": "KIMMUSEUM",
-          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "We're Already",
-      "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
+        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "We're Already",
+      "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao"
-      },
-      "artists": [
-        {
-          "name": "Hajin",
-          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
-        }
-      ],
-      "duration_ms": 226825,
-      "name": "Time\u2019s Up",
-      "url": "https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "friend to lover",
         "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187946,
       "name": "friend to lover",
       "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "duration_ms": 226825,
+      "name": "Time\u2019s Up",
+      "url": "https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Remake 1.0",
-        "url": "https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "They're Gonna Say We're Right (@leekangseung111)",
-      "url": "https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "Answer",
         "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 224500,
       "name": "Answer",
       "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "Remake 1.0",
+        "url": "https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "They're Gonna Say We're Right (@leekangseung111)",
+      "url": "https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0"
     },
     {
       "added_at": "2023-03-02 06:49:58",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd"
     },
     {
       "added_at": "2023-03-02 06:49:58",

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-471 songs - 1 day 3 hr 17 min
+472 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Lip up Fatty](https://open.spotify.com/track/5myzkbUsDzFuGjSdYXl7dV) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Ska 'N' B](https://open.spotify.com/album/36Jbhd2RfuDnhqup2PgBzx) | 2:48 | 2021-12-06 |  |
 | [Llunatics](https://open.spotify.com/track/1Dlv3JnIWlciwTdqk94O4W) | [Skatalà](https://open.spotify.com/artist/4yU8WdZjoXlTpyxgxWyCKS) | [Fent d'aquí](https://open.spotify.com/album/63ZZtD98foTK83YmeGQINf) | 3:38 | 2021-12-06 | 2022-07-29 |
 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 | 2021-12-06 |  |
-| [Los Salvajes](https://open.spotify.com/track/12KToB0SxsA1VYNNZzw6ja) | [Los Guanábana](https://open.spotify.com/artist/3K6qSfggEeueKbIWttYWJe) | [Los Salvajes](https://open.spotify.com/album/1j5v9mz2gERAWz07Qnwmw5) | 3:32 | 2021-12-06 | 2023-03-10 |
+| [Los Salvajes](https://open.spotify.com/track/12KToB0SxsA1VYNNZzw6ja) | [Los Guanábana](https://open.spotify.com/artist/3K6qSfggEeueKbIWttYWJe) | [Los Salvajes](https://open.spotify.com/album/1j5v9mz2gERAWz07Qnwmw5) | 3:32 | 2021-12-06 |  |
 | [Love and Affection](https://open.spotify.com/track/56N0hi6bmzEpxLg2FQtZI9) | [Western Standard Time Ska Orchestra](https://open.spotify.com/artist/307wefpFQglED5zeNdeDSA) | [Western Standard Time Ska Orchestra](https://open.spotify.com/album/2esCNfzDvwXfg1wgeKoJ7s) | 2:37 | 2021-12-06 | 2022-07-24 |
 | [LOVELY](https://open.spotify.com/track/2p6nat27bxB2AMzlthwCCl) | [The SKAMOTTS](https://open.spotify.com/artist/0wTU8u6R5Gk5cDeBc7JdMa) | [LOVELY](https://open.spotify.com/album/2HLRvFbuH5bSVPfF6pKR5T) | 3:49 | 2022-11-25 |  |
 | [Luces](https://open.spotify.com/track/5hSbnfAhzymyRPrKLbUlFI) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Luces](https://open.spotify.com/album/6ly1Y9KawTXwqLzT93xMDG) | 4:27 | 2021-12-06 | 2022-07-28 |
@@ -255,7 +255,7 @@
 | [Murdera](https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 4:26 | 2021-12-06 |  |
 | [My Commanding Wife](https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh) | 3:04 | 2021-12-06 | 2022-07-24 |
 | [My Little Girl](https://open.spotify.com/track/3ihEvw7w7TVmemnxpI27iW) | [The Pepper Pots](https://open.spotify.com/artist/3Ir50CSYQyuP5DxXvPoGk9) | [Swingin' Sixties](https://open.spotify.com/album/1vO8GLAScszIg7csHPBBAN) | 2:44 | 2021-12-06 | 2022-07-28 |
-| [My Problem](https://open.spotify.com/track/1LU86cx80C3kn3wYXK51YL) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [The Old Record](https://open.spotify.com/album/4lCTEdF7ch94tpYuatGcKx) | 2:31 | 2021-12-06 |  |
+| [My Problem](https://open.spotify.com/track/1LU86cx80C3kn3wYXK51YL) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [The Old Record](https://open.spotify.com/album/4lCTEdF7ch94tpYuatGcKx) | 2:31 | 2021-12-06 | 2023-03-11 |
 | [My Problem](https://open.spotify.com/track/1r9j3mBytoMwddWGJv6kF0) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [The Old Record](https://open.spotify.com/album/365LSRkU8QSvNZIgtKiAG7) | 2:31 | 2021-12-06 | 2022-07-29 |
 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 | 2022-07-15 |  |
 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 | 2021-12-06 |  |
@@ -327,9 +327,10 @@
 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 | 2021-12-06 | 2022-07-29 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-06 |  |
 | [Runnin' Out Of Fools](https://open.spotify.com/track/0NujRGPKD4hlAerFgSzfUm) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Stormy, 60's Soul Tunes Inna Reggae Style](https://open.spotify.com/album/6UdUhACZTRwwLynS78hXwF) | 3:39 | 2021-12-06 | 2022-07-27 |
-| [Részeg](https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm) | [Pannonia Allstars Ska Orchestra](https://open.spotify.com/artist/6JOOdNj8DMXHtPO470pyHE), [Riger János](https://open.spotify.com/artist/0y00MUz87wCYgqRJADv7BO) | [Ghost Train](https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8) | 3:21 | 2021-12-06 |  |
+| [Részeg](https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm) | [Pannonia Allstars Ska Orchestra](https://open.spotify.com/artist/6JOOdNj8DMXHtPO470pyHE), [Riger János](https://open.spotify.com/artist/0y00MUz87wCYgqRJADv7BO) | [Ghost Train](https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8) | 3:21 | 2021-12-06 | 2023-03-11 |
 | [Saba](https://open.spotify.com/track/0HWeQfNU5gv86mJlJBeGhj) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 5:59 | 2021-12-06 | 2022-07-29 |
 | [Sad World](https://open.spotify.com/track/4haPg47ysdp4NqDBfkNjls) | [Rude Bones](https://open.spotify.com/artist/6y29polqxIbOLnSy2U1uFL) | [Good Times, 7300 Days](https://open.spotify.com/album/7rD3LTukocbewAf0WVebkc) | 2:10 | 2021-12-06 | 2022-07-26 |
+| [Safe or Sorry](https://open.spotify.com/track/49po17vjnvi7tZ2D21fRDn) | [P.O\. Box](https://open.spotify.com/artist/5YPbaDdZM54WBEk1ln0Xcq) | [Safe or Sorry](https://open.spotify.com/album/06p4vWmw3gJHB8ayj8ZWoG) | 2:14 | 2023-03-11 |  |
 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 | 2021-12-06 | 2022-07-29 |
 | [Sally Brown](https://open.spotify.com/track/1uYFAXmaZUobMk7OixX53K) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/6Tv30fedK4kxVkV0uxvjYi) | 4:29 | 2021-12-06 | 2022-07-27 |
 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 | 2021-12-06 |  |

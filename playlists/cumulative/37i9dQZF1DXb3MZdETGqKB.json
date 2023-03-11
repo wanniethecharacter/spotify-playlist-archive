@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Get By",
+        "url": "https://open.spotify.com/album/2n73mSrnTYW28UjTf5pc47"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221920,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/0Dr3V5fTEZyyGHcCu7yDBX"
+    },
+    {
+      "album": {
         "name": "Get That Feeling",
         "url": "https://open.spotify.com/album/2L9TOZMYzAq4hL9Ln0Z9HL"
       },
@@ -1475,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Keep Off of You",
+        "url": "https://open.spotify.com/album/3f44rAp9r0CsGQrHsrYmxb"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184870,
+      "name": "Keep Off of You",
+      "url": "https://open.spotify.com/track/3oNXDpo7ziScRfWi8d9O37"
+    },
+    {
+      "album": {
         "name": "Nothing but Rust",
         "url": "https://open.spotify.com/album/0t4YmNYcOPAddk0G6RKr68"
       },
@@ -1776,6 +1812,24 @@
       "duration_ms": 183564,
       "name": "Love One Another",
       "url": "https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0"
+    },
+    {
+      "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169569,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1"
     },
     {
       "album": {
@@ -3586,6 +3640,28 @@
       "duration_ms": 239148,
       "name": "Wintertime",
       "url": "https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        },
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
     },
     {
       "album": {

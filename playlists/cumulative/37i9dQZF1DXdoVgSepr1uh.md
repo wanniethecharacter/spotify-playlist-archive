@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Lauty Gram & Omar Varela.
+> Argentina en la casa! Foto: Yami Safdie.
 
-167 songs - 8 hr 6 min
+170 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bombon](https://open.spotify.com/track/4Rq2Hu03jIex87RcHy3Kvt) | [Kifykify](https://open.spotify.com/artist/1ZM3GOPFXwiy6yVeY1FM3I), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Bombon](https://open.spotify.com/album/7j4mQ0tIdeTTT1fB2OUJNc) | 2:55 | 2022-05-24 | 2022-06-18 |
 | [Borracho y Loco](https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 2:44 | 2022-07-22 |  |
 | [Cartera Drxga y Maquillaje](https://open.spotify.com/track/1usHY94fx76ykpvlMD5dWk) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Cartera Drxga y Maquillaje](https://open.spotify.com/album/7idvjC1nomwslxVrZum7Rr) | 2:06 | 2023-01-05 |  |
+| [Chau, Bye](https://open.spotify.com/track/5sZkmuKztMmkohDtvqKTBQ) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL) | [Chau, Bye](https://open.spotify.com/album/4s43PBRjE1avz28bIeOLL0) | 2:24 | 2023-03-10 |  |
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 |  |
 | [CLASS \#02: DT.Bilardo](https://open.spotify.com/track/4HV2sYJyHhhm3ekf4EEewk) | [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CLASS \#02: DT.Bilardo](https://open.spotify.com/album/35Gj65krTFwrrU5ZgNQFZo) | 2:31 | 2023-03-03 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 |  |
@@ -36,6 +37,7 @@
 | [Cora Partido](https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO) | [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Cora Partido](https://open.spotify.com/album/1uNQMBHfg8xOWBEsFxG1iV) | 3:23 | 2023-01-27 | 2023-02-04 |
 | [Cristianas](https://open.spotify.com/track/1eaPEMcksRVTM18pwfltIE) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cristianas](https://open.spotify.com/album/1PqHQVuTUIctPdnwMH3aZF) | 2:51 | 2022-05-24 | 2022-08-06 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-05-24 |  |
+| [Cómo Estás?](https://open.spotify.com/track/0m8tCUvlPfx5bU1CHA73aR) | [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Cómo Estás?](https://open.spotify.com/album/2VEcetqb7yEZD9arTcyW8b) | 3:04 | 2023-03-10 |  |
 | [Cómo Le Explico](https://open.spotify.com/track/4K09SCVObadMlQ90AVuuvG) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Cómo Le Explico](https://open.spotify.com/album/2fH98SBzqCHiTGnjKQMHwV) | 3:02 | 2022-05-24 | 2022-08-27 |
 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 | 2022-08-26 |  |
 | [De Vacaciones](https://open.spotify.com/track/0hRKaSIym7bBRZ5oXLUsfx) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [De Vacaciones](https://open.spotify.com/album/3hGXppZGM4VXr1v3m6DVX3) | 2:21 | 2022-06-10 | 2022-11-19 |
@@ -99,6 +101,7 @@
 | [Me Enchulé](https://open.spotify.com/track/1knZxWeEljQswZZ1hNpw6O) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE) | [Me Enchulé](https://open.spotify.com/album/0cCFPRtmdTx56gESqo8fn6) | 2:23 | 2023-03-03 |  |
 | [Me Enseñaste \(Remix\)](https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9) | 4:00 | 2022-05-24 | 2022-07-29 |
 | [Me Enseñaste \- Remix](https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Me Enseñaste \(Remix\)](https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt) | 4:00 | 2022-07-28 |  |
+| [Me Equivoqué](https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Me Equivoqué](https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb) | 2:06 | 2023-03-10 |  |
 | [Me Prefiere](https://open.spotify.com/track/1pWr82d4ODrCxNnpvJt2kO) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr), [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO) | [Me Prefiere](https://open.spotify.com/album/1giWkBz9s2Fc9Jb8K1Yfp1) | 2:32 | 2022-05-24 |  |
 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 | 2022-05-24 | 2022-11-19 |
 | [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 | 2023-01-06 |

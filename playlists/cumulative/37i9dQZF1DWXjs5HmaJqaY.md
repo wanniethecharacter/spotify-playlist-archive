@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-127 songs - 12 hr 49 min
+128 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Hot Dance \- David Morales Red Zone Mix](https://open.spotify.com/track/43yw8iDqEh75DUvk8pwXWz) | [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Hot Dance](https://open.spotify.com/album/5yMkfxICTfooagFb48dMUX) | 5:18 | 2022-09-16 | 2023-02-04 |
 | [Human Element](https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Human Element](https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx) | 3:04 | 2022-09-16 |  |
 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 | 2022-09-16 | 2022-10-28 |
+| [In The Bleak Midwinter](https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [In The Bleak Midwinter](https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v) | 3:54 | 2023-03-10 |  |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-10-27 | 2022-12-03 |
 | [Inescapable \- Moritz Sachse Remix](https://open.spotify.com/track/2wb3Sf2Py8y4Ak05f8b7ka) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Moonslip](https://open.spotify.com/artist/12z16EX06TdZpzkwOte7eg), [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [Telluric](https://open.spotify.com/album/76Nl2NpAkxHJrKUH2Jb7DJ) | 6:23 | 2022-09-16 | 2023-02-11 |
 | [iStart](https://open.spotify.com/track/61x77gza6h1eDDCBCPe6W9) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Co\-Fu3.0](https://open.spotify.com/album/5c1OFamBd5J7yJol5eiJje) | 5:57 | 2022-09-16 | 2022-11-08 |
@@ -117,7 +118,7 @@
 | [Subconscious](https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Subconscious](https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S) | 5:39 | 2022-09-16 |  |
 | [The 8th Fire](https://open.spotify.com/track/6sNki8IYe6xTErgHgYLI3K) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Return to Consciousness](https://open.spotify.com/album/0xSqwS47kEg7mkD9b3k25S) | 6:20 | 2022-09-16 | 2022-12-03 |
 | [The Blame \- Helsloot Remix](https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [The Blame \(Helsloot Remix\)](https://open.spotify.com/album/6CER3OrpXoQlZxr9rAiGNj) | 6:44 | 2022-09-16 | 2023-02-11 |
-| [The Girl In Black](https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [The Girl In Black](https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1) | 7:10 | 2022-12-09 |  |
+| [The Girl In Black](https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM) | [Axel N.](https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG) | [The Girl In Black](https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1) | 7:10 | 2022-12-09 | 2023-03-11 |
 | [The House Of House \- Original Mix](https://open.spotify.com/track/4Dtv1NQTHSbzrja0fEVsX7) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The Ultimate Megamix](https://open.spotify.com/album/2NdTJ1aEFe0gCzFEsQwuxx) | 7:38 | 2022-11-07 | 2022-11-13 |
 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 | 2022-09-16 |  |
 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 | 2022-09-16 |  |

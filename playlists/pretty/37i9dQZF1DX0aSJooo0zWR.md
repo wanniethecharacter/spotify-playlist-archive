@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,344 likes - 80 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,436 likes - 80 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 25 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 |
 | 26 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 |
 | 27 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
-| 28 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
-| 29 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 |
+| 28 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 |
+| 29 | [Sorbet](https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [The Rhinebeck Sessions](https://open.spotify.com/album/3I3BsFSfYcBdS2Zls13Drq) | 7:25 |
 | 30 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
 | 31 | [U.T.F.F.](https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt) | [Chapter One: Shredemption](https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L) | 3:27 |
 | 32 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 39 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
 | 40 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 |
 | 41 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 |
-| 42 | [The New Heritage](https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [David James](https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 2:25 |
-| 43 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 |
+| 42 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 |
+| 43 | [The New Heritage](https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [David James](https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 2:25 |
 | 44 | [Blue Macaw](https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Blue Macaw](https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU) | 4:34 |
 | 45 | [Trains](https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1) | [Steps Ahead](https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5) | [Magnetic](https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb) | 7:31 |
 | 46 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 57 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Pursuit of Ends](https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2) | 4:42 |
 | 58 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
 | 59 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
-| 60 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
-| 61 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
+| 60 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 |
+| 61 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
 | 62 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 63 | [Go Ahead John \(2022 Remaster\)](https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Big Fun \(2022 Remaster\)](https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h) | 28:27 |
 | 64 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 |
 | 80 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDUwNGYxNmNiMmNjYTdjM2MzZjczNDg3NDY1MDU5MzJm`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGNlYjUxMzc2NDEyOTMyNTAzZDg3OWZlMWZmOWJiNTJj`

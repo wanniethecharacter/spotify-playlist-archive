@@ -2,9 +2,9 @@
 
 ### [This Is TWICE](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m)
 
-> One in a million! TWICE! MOONLIGHT SUNRISE is here!
+> One in a million! TWICE! SET ME FREE is here!
 
-180 songs - 9 hr 58 min
+186 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 | 2022-07-19 |  |
 | [BETTER](https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETTER](https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC) | 3:43 | 2022-03-24 |  |
 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 | 2022-03-24 |  |
+| [BLAME IT ON ME](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:40 | 2023-03-10 |  |
 | [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-25 |  |
 | [Brave](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:09 | 2022-08-26 |  |
 | [Breakthrough](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Breakthrough](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) | 3:37 | 2022-03-24 |  |
@@ -40,6 +41,7 @@
 | [CHILLAX](https://open.spotify.com/track/4ujRbi0U14b4BjZhUOlTDK) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:06 | 2022-03-24 | 2022-07-29 |
 | [CHILLAX](https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:06 | 2022-07-19 |  |
 | [Conversation](https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:27 | 2022-03-24 |  |
+| [CRAZY STUPID LOVE](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:49 | 2023-03-10 |  |
 | [CRUEL](https://open.spotify.com/track/139JUU8fJkQoeHl9nABk9C) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:31 | 2022-07-19 |  |
 | [CRUEL](https://open.spotify.com/track/4eEZoKgJBFjMaisskDfXmu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:31 | 2022-03-24 | 2022-07-29 |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2022-03-24 |  |
@@ -75,6 +77,7 @@
 | [GO HARD](https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:01 | 2022-07-19 |  |
 | [Gone](https://open.spotify.com/track/0tTotZHPsxyjW3jqNJ1td2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:15 | 2022-08-26 |  |
 | [Good at Love](https://open.spotify.com/track/4rZ6LHapeH1Cnxgvu8SrFK) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:51 | 2022-03-24 |  |
+| [GOT THE THRILLS](https://open.spotify.com/track/1RVsbqAP1WFFXPiBXQYIah) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:53 | 2023-03-10 |  |
 | [HANDLE IT](https://open.spotify.com/track/2laLdXRHMaHCuqr3DXgzhZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:51 | 2022-07-19 |  |
 | [HANDLE IT](https://open.spotify.com/track/7xhyrH0Es6AZ8SWqtWyUr1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:51 | 2022-03-24 | 2022-07-29 |
 | [HAPPY HAPPY](https://open.spotify.com/track/1yPkYnRgZveWLCUSWX16ra) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [HAPPY HAPPY](https://open.spotify.com/album/7L4aQ3NuXn10GinA6Fs2pc) | 3:26 | 2022-03-24 |  |
@@ -147,6 +150,8 @@
 | [SCIENTIST \(R3HAB Remix\)](https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:28 | 2022-07-19 |  |
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/3dFsp2LG3OIOgBaBU87FR6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [\#TWICE4 \(Japanese ver.\)](https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX) | 3:16 | 2022-03-24 |  |
 | [SCIENTIST \- R3HAB Remix](https://open.spotify.com/track/53V5RztDKB9AXoqbHVKq2y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:28 | 2022-03-24 | 2022-07-29 |
+| [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 |  |
+| [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 |  |
 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 | 2022-03-24 | 2022-07-29 |
 | [SHADOW](https://open.spotify.com/track/7HzvvhTmfzvD1dV4F7MIcm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 2:48 | 2022-07-19 |  |
 | [SHOT CLOCK](https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:29 | 2022-03-24 | 2022-07-29 |
@@ -179,6 +184,7 @@
 | [UP NO MORE](https://open.spotify.com/track/0eeebX5IslzAMBs519PlO5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:34 | 2022-03-24 | 2022-07-29 |
 | [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-19 |  |
 | [Wake Me Up](https://open.spotify.com/track/0CvJiFydKzLSQUn6McFPrb) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:31 | 2022-03-24 |  |
+| [WALLFLOWER](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:56 | 2023-03-10 |  |
 | [What is Love](https://open.spotify.com/track/54mnwt3kO0uYsy0ceg14JP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What Is Love](https://open.spotify.com/album/5o5cJ6yZmcyy4y4hK0J6de) | 3:28 | 2022-08-26 | 2022-11-13 |
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-07-19 |  |
 | [What is Love?](https://open.spotify.com/track/7dZBVloiLpV350g0R6O3nP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:28 | 2022-03-24 | 2022-07-29 |

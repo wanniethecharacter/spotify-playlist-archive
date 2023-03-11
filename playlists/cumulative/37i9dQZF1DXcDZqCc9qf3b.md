@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
+> Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
 
-114 songs - 4 hr 45 min
+115 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:49 | 2022-04-08 |  |
 | [Flying Solo \(feat\. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada\)](https://open.spotify.com/track/2e3ZtFtjaPvcBgJy3xpXFT) | [Julie and the Phantoms Cast](https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC), [Madison Reyes](https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ), [Charlie Gillespie](https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz), [Owen Patrick Joyner](https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa), [Jeremy Shada](https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W) | [Julie and the Phantoms: Season 1 \(From the Netflix Original Series\)](https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm) | 3:04 | 2022-04-08 |  |
 | [For Once In My Life](https://open.spotify.com/track/1aa4uizAfJZQJKycxZCWLo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Motown Magic \(Original Soundtrack\)](https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL) | 2:54 | 2022-04-08 |  |
+| [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 | 2023-03-10 |  |
 | [Freezie Day](https://open.spotify.com/track/2JQR4HGnpYSBeN6G6uJxef) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/2oJA40TLsVdiIa9SSzjXwy) | 2:37 | 2022-04-08 | 2022-11-17 |
 | [Freezie Day](https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0) | 2:37 | 2022-10-12 |  |
 | [Full Speed Fun](https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [Dance and Sing with True](https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW) | 2:10 | 2022-04-08 |  |

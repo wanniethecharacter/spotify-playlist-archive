@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Life Moves Fast",
+        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227290,
+      "name": "Heart is King",
+      "url": "https://open.spotify.com/track/2sG6KBbIaVCVD0oxMgUWbW"
+    },
+    {
+      "album": {
         "name": "High Voltage (Alex Stein Remix)",
         "url": "https://open.spotify.com/album/77Sa8vRVAohisGiJxjPM5x"
       },
@@ -241,6 +259,24 @@
     },
     {
       "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/4r5d4QGdFWBAnBrcwem6kn"
+      },
+      "artists": [
+        {
+          "name": "Krypta",
+          "url": "https://open.spotify.com/artist/6FHZ2SKgBkvakPOgNRzbWv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/5MceUn8ht65byQXvBBsUsf"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/06zuxgvTxrAWhy7MhzaZfv"
       },
@@ -274,6 +310,24 @@
       "duration_ms": 238129,
       "name": "Kick",
       "url": "https://open.spotify.com/track/723L3PgiXq9aNyV8x30fxe"
+    },
+    {
+      "album": {
+        "name": "Life Moves Fast",
+        "url": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233673,
+      "name": "Life Moves Fast",
+      "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
     },
     {
       "album": {
@@ -477,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Rider",
+        "url": "https://open.spotify.com/album/4YsU1wmbXYOGT7l7kVmEMr"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394559,
+      "name": "Rider - Original Mix",
+      "url": "https://open.spotify.com/track/1SMIk113it3eyw9hk0MwXT"
+    },
+    {
+      "album": {
         "name": "Rigel",
         "url": "https://open.spotify.com/album/2SbeViW1M8xSOJaU7vznB5"
       },
@@ -546,6 +618,24 @@
       "duration_ms": 301928,
       "name": "Silence - Vocal Mix",
       "url": "https://open.spotify.com/track/6rMSQ5RzR4aiP2uRImEEiG"
+    },
+    {
+      "album": {
+        "name": "Solar Deity",
+        "url": "https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384009,
+      "name": "Solar Deity",
+      "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
     },
     {
       "album": {
@@ -702,6 +792,28 @@
       "duration_ms": 255996,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/6hMVPaTUtYSrYvVGntSjGn"
+    },
+    {
+      "album": {
+        "name": "You Are Everything",
+        "url": "https://open.spotify.com/album/5SOtV1ZBObA5cr5OuTTZth"
+      },
+      "artists": [
+        {
+          "name": "Karim Alkhayat",
+          "url": "https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25"
+        },
+        {
+          "name": "Flanko",
+          "url": "https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/6feG1cmadvPIYsG8fgeSik"
     }
   ],
   "url": "https://open.spotify.com/playlist/6pr1lshIyJt1vFuhlsnEDS"

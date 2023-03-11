@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Odelia Sabrina
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,723 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,727 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Mereka](https://open.spotify.com/track/2xN29wC2LJmN2QTY4tqrxV) | [Wallaby Project](https://open.spotify.com/artist/2VHDONmZoqBV5bzdgGiWzR) | [Mereka](https://open.spotify.com/album/3ax3v92ijpIczicOSUbrqp) | 4:04 |
 | 20 | [Something Something Insane](https://open.spotify.com/track/14ZIQiMWw2zPxUQnbQeNIF) | [Idiofon](https://open.spotify.com/artist/6TIL8tSEyAlm53E05ruhC1) | [Something Something Insane](https://open.spotify.com/album/1Yc0I16uKJPpE8XxC8iiNZ) | 3:47 |
 | 21 | [Mati Rasa](https://open.spotify.com/track/70M0jshSR6r77cfqEOUWc0) | [D3tik Band](https://open.spotify.com/artist/4LrXRqjrEqGwwFBOME8Dt5), [Ovry](https://open.spotify.com/artist/4RIDuOTGBbnthIIi8Qax0q) | [Mati Rasa](https://open.spotify.com/album/51ZnjfDiJ0tVKSGmNsR7tY) | 3:41 |
-| 22 | [Rasa Tak Biasa](https://open.spotify.com/track/0iXEpRbtHPSuwHqVazwBrH) | [Gisela Sabrina](https://open.spotify.com/artist/78oJHg4VcVmtPcdH2LP2z5) | [Rasa Tak Biasa](https://open.spotify.com/album/7CM3ToTIkU8PMJmn4NC2wq) | 3:58 |
+| 22 | [Rasa Tak Biasa](https://open.spotify.com/track/0iXEpRbtHPSuwHqVazwBrH) | [Gisela Sabrina](https://open.spotify.com/artist/3qSA2bcj5wWZ9sYCbn5fMF) | [Rasa Tak Biasa](https://open.spotify.com/album/7CM3ToTIkU8PMJmn4NC2wq) | 3:58 |
 | 23 | [Sesak](https://open.spotify.com/track/2HdK0KdAUxDRZfEBmEgfoG) | [Musik Hari Ini](https://open.spotify.com/artist/2wuh6dQgIeW78IFY5AWKXa) | [Sesak](https://open.spotify.com/album/5Dzj3g2yiRtgNjCHN5z2oh) | 4:02 |
 | 24 | [Beautiful World](https://open.spotify.com/track/4l0xHZfMziJH7cHNcei2dp) | [Heave](https://open.spotify.com/artist/7aGxsfO1ZwbBpEIrOvOeHv) | [Beautiful World](https://open.spotify.com/album/5FLXNKkriDcFpC9Fj4w7mO) | 4:03 |
 | 25 | [BAHASA BARU](https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [BAHASA BARU](https://open.spotify.com/album/0PnkH2LvSSZwXCtoRJdfEg) | 4:10 |
 | 26 | [Pulang Ke Perenungan](https://open.spotify.com/track/6r0qDxBLYIkEdACkKiJNF6) | [Penenun Kata](https://open.spotify.com/artist/2jz5eHhNxsMtPvZMVeU1mW) | [Pulang Ke Perenungan](https://open.spotify.com/album/3rquQaIF7jbR4gcRxVtWTO) | 5:49 |
-| 27 | [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/track/69TVRrVsckWmAKzAlttolX) | [Aliya](https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY) | [Cinta Sederhana \(Sped Up\)](https://open.spotify.com/album/0qFBTxljDnnGPTAVYpKC5u) | 2:35 |
+| 27 | [Cinta Sederhana](https://open.spotify.com/track/0gKHFUjIP4w4lb81Suyc0H) | [Aliya](https://open.spotify.com/artist/1cTmKgKKE0CMyA2mt9lxHY) | [Cinta Sederhana](https://open.spotify.com/album/56C4AlB4tjz34QvEmKuEWl) | 3:52 |
 | 28 | [Hanya Untuk Dirimu \(First Rhythm Version\)](https://open.spotify.com/track/40d1gG2TXlGmjq9M59GuBS) | [Nanoka](https://open.spotify.com/artist/1INtslrCiaFips5EC6uQrk) | [First Rhythm](https://open.spotify.com/album/1BWIzjBrparUAQ24U8w9YD) | 3:57 |
 | 29 | [Imaji](https://open.spotify.com/track/3S2kIw7BdqzQ5J0bW5grAq) | [Rfrnds](https://open.spotify.com/artist/4yUCOYcBH24p7YrMItNbOy) | [Imaji](https://open.spotify.com/album/7JL5FcaYQU5iMh78Dpcox5) | 3:43 |
 | 30 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 56 | [IMMA GO NOW](https://open.spotify.com/track/2fHUiVm7PVELTnvXYTaCHe) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [GENESIS](https://open.spotify.com/album/39uvywC9ucxHGlD91DhhQC) | 1:25 |
 | 57 | [In My Bed](https://open.spotify.com/track/1XOx9PbO83UQ0bOfdt3AAR) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [GALUH](https://open.spotify.com/artist/5e1GTe7pdNCGQOdcExtUoz) | [In My Bed](https://open.spotify.com/album/1si4dL7DI1wIDhrEOjVCFt) | 2:05 |
 
-Snapshot ID: `MTY3ODM4MzI5NSwwMDAwMDAwMGJkOTBlN2JjMDAxMmZhMjJiMGUxYWVhMGNjNWQ5Mzg1`
+Snapshot ID: `MTY3ODQzODgwMCwwMDAwMDAwMDRhMjNhYjE5Y2FhZTEyMzE1ZGU3NTk4MDVjYTM3MWE5`

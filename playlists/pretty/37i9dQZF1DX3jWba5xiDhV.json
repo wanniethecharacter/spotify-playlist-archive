@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 95285,
+  "num_followers": 95953,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5MDQ4NSwwMDAwMDAwMGQwNWI2NTYxMzVkYjAxNTc2ZWZkNzU4MWFhMzQ5ZjY1",
+  "snapshot_id": "MTY3NzU5MDQ4NSwwMDAwMDAwMGYyNTBkMWVkNmY3ODBiZjc3MzYwNzIyNGI4ZTllMzdk",
   "tracks": [
     {
       "added_at": "2023-02-28 13:21:25",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-02-28 13:21:25",
       "album": {
-        "name": "Outline",
-        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
-      },
-      "artists": [
-        {
-          "name": "Gino Soccio",
-          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
-        }
-      ],
-      "duration_ms": 508120,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
-    },
-    {
-      "added_at": "2023-02-28 13:21:25",
-      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2023-02-28 13:21:25",
+      "album": {
+        "name": "Outline",
+        "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
+      },
+      "artists": [
+        {
+          "name": "Gino Soccio",
+          "url": "https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE"
+        }
+      ],
+      "duration_ms": 508120,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
       "added_at": "2023-02-28 13:21:25",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-28 13:21:25",
       "album": {
-        "name": "Destiny (Original) - Single",
-        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
-      },
-      "artists": [
-        {
-          "name": "Vivien Vee",
-          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
-    },
-    {
-      "added_at": "2023-02-28 13:21:25",
-      "album": {
         "name": "Dirty Talk",
         "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
+    },
+    {
+      "added_at": "2023-02-28 13:21:25",
+      "album": {
+        "name": "Destiny (Original) - Single",
+        "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
+      },
+      "artists": [
+        {
+          "name": "Vivien Vee",
+          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
+        }
+      ],
+      "duration_ms": 279746,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
     },
     {
       "added_at": "2023-02-28 13:21:25",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-02-28 13:21:25",
       "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Hildegard",
+      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2023-02-28 13:21:25",
+      "album": {
         "name": "I'm Going to Go",
         "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 515999,
       "name": "I'm Going to Go - Instrumental Plant Mix",
       "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
-    },
-    {
-      "added_at": "2023-02-28 13:21:25",
-      "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Hildegard",
-      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
     },
     {
       "added_at": "2023-02-28 13:21:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-28 13:21:25",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 357600,
-      "name": "Jamin'",
-      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
-    },
-    {
-      "added_at": "2023-02-28 13:21:25",
-      "album": {
         "name": "Livin' Up",
         "url": "https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 287760,
       "name": "Livin' Up",
       "url": "https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv"
+    },
+    {
+      "added_at": "2023-02-28 13:21:25",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Jamin'",
+      "url": "https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8"
     }
   ],
   "unique_name": "Italo Disco",

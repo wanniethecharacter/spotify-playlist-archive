@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Chiquis",
-  "num_followers": 503111,
+  "num_followers": 503145,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0MTMxNCwwMDAwMDAwMDAxNGU3MzNhZjBiNmZhMmYwNjY0ZDdjYWIzZmJkZWFh",
+  "snapshot_id": "MTY3Nzg0MTMxNCwwMDAwMDAwMDdhMGEyNjE2YjliZTM2N2U4ZmM0Mjc3MjlmNDJmMTdl",
   "tracks": [
     {
       "added_at": "2023-03-03 11:01:54",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-03 11:01:54",
       "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
-    },
-    {
-      "added_at": "2023-03-03 11:01:54",
-      "album": {
         "name": "Sangre De Gorilla",
         "url": "https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2023-03-03 11:01:54",
       "album": {
-        "name": "Por Confiar En El Amor",
-        "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
       },
       "artists": [
         {
-          "name": "Alessa",
-          "url": "https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T"
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
         }
       ],
-      "duration_ms": 166763,
-      "name": "Por Confiar En El Amor",
-      "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
+    },
+    {
+      "added_at": "2023-03-03 11:01:54",
+      "album": {
+        "name": "8-MER",
+        "url": "https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "8-MER",
+      "url": "https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda"
     },
     {
       "added_at": "2023-03-03 11:01:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-03-03 11:01:54",
       "album": {
-        "name": "8-MER",
-        "url": "https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh"
+        "name": "Por Confiar En El Amor",
+        "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
       },
       "artists": [
         {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+          "name": "Alessa",
+          "url": "https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T"
         }
       ],
-      "duration_ms": 167710,
-      "name": "8-MER",
-      "url": "https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda"
+      "duration_ms": 166763,
+      "name": "Por Confiar En El Amor",
+      "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
     },
     {
       "added_at": "2023-03-03 11:01:54",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-03-03 11:01:54",
       "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-03-03 11:01:54",
+      "album": {
         "name": "Fayer",
         "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
-    },
-    {
-      "added_at": "2023-03-03 11:01:54",
-      "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2023-03-03 11:01:54",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-03 11:01:54",
       "album": {
-        "name": "En Peligro De Extinci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "En Peligro De Extinci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
-    },
-    {
-      "added_at": "2023-03-03 11:01:54",
-      "album": {
         "name": "Soy Mala",
         "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 191862,
       "name": "La Mesa Del Rinc\u00f3n",
       "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
+    },
+    {
+      "added_at": "2023-03-03 11:01:54",
+      "album": {
+        "name": "En Peligro De Extinci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "En Peligro De Extinci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2"
     },
     {
       "added_at": "2023-03-03 11:01:54",

@@ -4,12 +4,13 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Harold
 
-207 songs - 9 hr 43 min
+210 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 | 2022-07-08 | 2023-03-04 |
 | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [16CHOPPA \(feat\. Nardo Wick\)](https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk) | 3:27 | 2023-02-03 |  |
+| [2023](https://open.spotify.com/track/4xRfrdTLFLaRDOGJOCihiC) | [Hopout Shawn](https://open.spotify.com/artist/0IHxRJsYzqOU0pLAN7k44r), [DracBaby](https://open.spotify.com/artist/1glhPMhwoZYEKBBhDS6V47) | [2023](https://open.spotify.com/album/7562IU3oLRvzpPIohUVdRJ) | 2:27 | 2023-03-10 |  |
 | [30 Story](https://open.spotify.com/track/1kPTtmiOehb4z9pBvJVd55) | [Yak Yola](https://open.spotify.com/artist/3pnHEUKevBqj5yqYBIvVs6) | [30 Story](https://open.spotify.com/album/661JxOH4TG5SiUBf45v7rn) | 2:17 | 2022-06-03 | 2023-02-18 |
 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 | 2022-09-30 |  |
 | [50 M's](https://open.spotify.com/track/6ccXIf6EOJsfp2CnHsl72s) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [50 M's](https://open.spotify.com/album/1UHlBdLDa9YeGaAa3rBriO) | 2:29 | 2022-08-05 |  |
@@ -174,9 +175,11 @@
 | [Secrets](https://open.spotify.com/track/3AGsZ8Wegk3OBbghcC1EGd) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ) | [Secrets](https://open.spotify.com/album/1l01cI32s2eLY7S3hsVphY) | 2:30 | 2022-09-16 |  |
 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 | 2022-10-21 |  |
 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 | 2022-06-03 | 2022-10-01 |
+| [Shootaz](https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Shootaz](https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c) | 3:28 | 2023-03-10 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2023-02-03 |  |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2022-06-03 | 2022-07-30 |
 | [Sko](https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Sko](https://open.spotify.com/album/0FigtA2FRPWenIdAu5ElwS) | 2:30 | 2022-12-16 |  |
+| [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2022-06-03 | 2022-08-13 |
 | [SPIN SPIN!!!](https://open.spotify.com/track/265CquztdaIpzTYobiDCUJ) | [Murda B](https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr) | [SPIN SPIN!!!](https://open.spotify.com/album/2dXhENzEK6jGZJgjHJ4nKl) | 1:58 | 2023-02-24 |  |
 | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/album/64pd43qCCe2dR4dMnmit3N) | 2:48 | 2022-09-02 |  |

@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment en version acoustique.
 
-58 songs - 3 hr 5 min
+59 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2022-12-21 |  |
 | [Fallin’ \(Adrenaline\) \- Acoustic](https://open.spotify.com/track/3muwps1KXhdLIMGOuzorjF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:35 | 2022-12-21 | 2023-01-13 |
 | [Fast Car \- Acoustic](https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Greatest Covers Ever](https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts) | 3:37 | 2022-12-21 |  |
-| [Flowers \(Demo\)](https://open.spotify.com/track/0436pabrDTOgxH02ugHGBA) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Demo\)](https://open.spotify.com/album/6Zs0gWsA3JOvdL61eKnEt7) | 3:30 | 2023-03-09 |  |
+| [Flowers \(Demo\)](https://open.spotify.com/track/0436pabrDTOgxH02ugHGBA) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Demo\)](https://open.spotify.com/album/6Zs0gWsA3JOvdL61eKnEt7) | 3:30 | 2023-03-09 | 2023-03-11 |
+| [Flowers \(Demo\)](https://open.spotify.com/track/3MnewZrZDqej6thgEx3OB1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:30 | 2023-03-09 |  |
 | [Following the Sun \- Acoustic](https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:37 | 2022-12-21 |  |
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 | 2022-12-21 |  |
 | [Freed from Desire \(Acoustic Version\)](https://open.spotify.com/track/50C5YxTknuct7YpC4WXmAG) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Un homme à la hauteur \(Bande originale du film\)](https://open.spotify.com/album/1Zj9cDigNQ85AEcXv0asXj) | 3:06 | 2022-12-21 |  |

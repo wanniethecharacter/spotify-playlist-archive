@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Caylee Hammack\n",
-  "num_followers": 517616,
+  "num_followers": 517759,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDRlZTUzNjNlMzJkNDFhYzJkZDhmMTUzNjI1OTVhY2Fi",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDg5YWY3ZmRmZWNlZDdkNmY1MmNiYzAxMTk5OTg4MzI0",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Break My Bones",
         "url": "https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 206931,
       "name": "Break My Bones",
       "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -855,26 +855,6 @@
       "duration_ms": 191435,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -971,6 +951,26 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Neon Grave EP",
+        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 189000,
+      "name": "Wrong Right Now",
+      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 190677,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Neon Grave EP",
-        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Wrong Right Now",
-      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Find a Light",
-        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 225165,
-      "name": "Till the Wheels Fall Off",
-      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Get There First",
         "url": "https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 226304,
       "name": "Get There First",
       "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Find a Light",
+        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 225165,
+      "name": "Till the Wheels Fall Off",
+      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 217993,
+      "name": "Are We On Fire",
+      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Days of Gold",
         "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM"
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
         }
       ],
-      "duration_ms": 217993,
-      "name": "Are We On Fire",
-      "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
+      "duration_ms": 268162,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 169700,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Frayed At Both Ends",
-        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        }
-      ],
-      "duration_ms": 268162,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Sunday Drunk",
-        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 271389,
-      "name": "Sunday Drunk",
-      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Sunday Drunk",
+        "url": "https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 271389,
+      "name": "Sunday Drunk",
+      "url": "https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz"
     },
     {
       "added_at": "2023-03-03 05:00:00",

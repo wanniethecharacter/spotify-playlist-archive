@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-240 songs - 14 hr 16 min
+241 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 | 2021-10-16 |  |
 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 | 2021-10-16 | 2023-01-13 |
 | [Enamorado de Ti](https://open.spotify.com/track/653WRYxVaXAmRY44Ikfz5r) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Enamorado de Ti](https://open.spotify.com/album/5JEOLnSsMMwpNoQAAwiZGB) | 3:22 | 2021-10-16 | 2022-05-23 |
-| [Envidiosa](https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Envidiosa](https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx) | 3:04 | 2022-10-28 |  |
+| [Envidiosa](https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Envidiosa](https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx) | 3:04 | 2022-10-28 | 2023-03-11 |
 | [Es Verdad](https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Es Verdad](https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX) | 2:41 | 2021-10-16 |  |
 | [Escalofríos 86](https://open.spotify.com/track/3JSHemsvJqIVRGXmv6NvHX) | [Los Fibos](https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw) | [Escalofríos 86](https://open.spotify.com/album/65aRLQxcZj2x1jx4SPPRWG) | 3:39 | 2021-10-16 | 2022-04-21 |
 | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 | 2021-10-26 | 2022-06-11 |
@@ -182,6 +182,7 @@
 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 | 2021-10-16 |  |
 | [Quien Eres Tu?](https://open.spotify.com/track/4tvLXOysKf9WV0Ty7OO7xh) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Quien Eres Tu?](https://open.spotify.com/album/6jE4T5q7pdWKEmykp2FwKX) | 4:20 | 2021-10-16 | 2022-07-27 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-02-24 |  |
+| [Qué Pecado](https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Qué Pecado](https://open.spotify.com/album/47VeV0BY7It9sMX5jaOZBR) | 2:47 | 2023-03-11 |  |
 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 | 2021-10-16 |  |
 | [Recuéstate a Mi Lado](https://open.spotify.com/track/7rNguSZGjxKIUumzoK2wVr) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Recuéstate a Mi Lado](https://open.spotify.com/album/6suc6iRXTXsTNQI0jf0IXy) | 3:58 | 2023-02-21 |  |
 | [rosas \(dímelo\)](https://open.spotify.com/track/36eeh1rlxM8Rq5uFTMog6t) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rosas \(dímelo\)](https://open.spotify.com/album/1D5uJ3gKp054hw4T2GYjXT) | 3:31 | 2021-10-16 | 2022-04-18 |

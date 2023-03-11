@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Morgan Wallen
+> Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini
 
-608 songs - 1 day 8 hr 45 min
+609 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Every Little Thing](https://open.spotify.com/track/4EpLU30bi1KNWkBTfgZkoK) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:10 | 2019-08-04 | 2020-01-18 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-08-19 |  |
 | [Every Other Memory](https://open.spotify.com/track/3t2xlkvPsrcyia0eBaCZ53) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Every Other Memory](https://open.spotify.com/album/0ktw2DC2UncpzXtCXLXUul) | 3:39 | 2020-06-29 | 2021-02-20 |
-| [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-03-11 |  |
+| [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-03-11 | 2023-03-11 |
 | [Everywhere But On](https://open.spotify.com/track/0ifYeH4gNXEyba41xr3I1w) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:12 | 2020-06-12 | 2020-11-07 |
 | [Everywhere But On](https://open.spotify.com/track/5ULnmELoCHMgS2VzL9qQaK) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Matt Stell](https://open.spotify.com/album/0j9HPvF8qRcifU23KR5w85) | 3:12 | 2019-10-05 | 2020-06-21 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2019-05-26\* | 2019-07-06 |
@@ -368,6 +368,7 @@
 | [My Miracle](https://open.spotify.com/track/3yNuWBImT0geeISSCMbE3p) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [My Miracle](https://open.spotify.com/album/0CkY1OmLa5NdAyrsKNZ2vi) | 4:10 | 2019-05-26\* | 2019-08-13 |
 | [My Truck](https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [My Truck](https://open.spotify.com/album/5TVV5gPKNAhQcFBymp4m2u) | 2:38 | 2020-02-08 | 2020-04-25 |
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2020-06-02 | 2020-06-21 |
+| [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-03-10 |  |
 | [Neon Fools](https://open.spotify.com/track/1C0mdTiVLxRfsBrIhlPQQC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Neon Fools](https://open.spotify.com/album/5upZpszGKEezR0FT1xicc3) | 3:15 | 2020-02-15 | 2020-06-12 |
 | [Neon Fools](https://open.spotify.com/track/4eRclKjJzvw0xWG8XwstCT) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous \- EP](https://open.spotify.com/album/6aN2jKcVtBbiTLtRsysdIV) | 3:15 | 2020-06-12 | 2020-06-21 |
 | [Never Be Sorry](https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:23 | 2020-11-10 | 2021-02-20 |

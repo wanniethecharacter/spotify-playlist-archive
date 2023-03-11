@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Gabi Sampaio, Rebeca Carvalho",
-  "num_followers": 283710,
+  "num_followers": 283783,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMDg2YjUxN2UzOWE4ODBiYTc2MWZlOWMwYTUyMzFiOWEw",
+  "snapshot_id": "MTY3Nzg4NDY4MSwwMDAwMDAwMGI1ZDUyZTAzM2E2NDdjODdmOGM2MjU3ZmM2NTFjNTY1",
   "tracks": [
     {
       "added_at": "2023-03-03 23:04:41",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "duration_ms": 298174,
+      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
       },
@@ -747,38 +763,6 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 298174,
-      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Nasci Pra Deus",
-        "url": "https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Nasci Pra Deus",
-      "url": "https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
         "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
         "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
       },
       "artists": [
         {
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 203960,
-      "name": "Colhendo Frutos (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
+        "name": "Nasci Pra Deus",
+        "url": "https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Nasci Pra Deus",
+      "url": "https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
-        "name": "Gratid\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 239156,
-      "name": "Fiel A Mim",
-      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+      "duration_ms": 203960,
+      "name": "Colhendo Frutos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
     },
     {
       "added_at": "2023-03-03 23:04:41",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-03-03 23:04:41",
       "album": {
+        "name": "Gratid\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 239156,
+      "name": "Fiel A Mim",
+      "url": "https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk"
+    },
+    {
+      "added_at": "2023-03-03 23:04:41",
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 307803,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
-    },
-    {
-      "added_at": "2023-03-03 23:04:41",
-      "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
     },
     {
       "added_at": "2023-03-03 23:04:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,306 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,031 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 109 | [Save Your Soul \(Radio Version\)](https://open.spotify.com/track/2gCxZu0N8esG0WUfJubHnQ) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE), [BLACKKISS](https://open.spotify.com/artist/56JS8LZsZYCp8YdapBRS7G) | [The Star Chief](https://open.spotify.com/album/72W5a10l750dDRtMwCciy1) | 3:16 |
 | 110 | [Warpath](https://open.spotify.com/track/744B0eGBmmfnleCJ7nmKnT) | [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [Indian Summer](https://open.spotify.com/album/240EnJaBvTLPCwCX7ux247) | 3:03 |
 | 111 | [Axe](https://open.spotify.com/track/4WCe8syCgpfxGb3KFCvBWk) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:16 |
-| 112 | [Outlaw Shit](https://open.spotify.com/track/0xXclRFq5QAkSk5WAsrXHF) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [The .357s](https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c) | [Waylon Forever](https://open.spotify.com/album/70GxlBCHNqp0MJ7GSfBNjh) | 5:30 |
+| 112 | [Outlaw Shit](https://open.spotify.com/track/6hPyZ1hZK8j73Ezf6qHotf) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [The .357s](https://open.spotify.com/artist/2Vq1m6dV62h6gYWaEhdr3c) | [Waylon Forever](https://open.spotify.com/album/4hFmvqPVhvOgFssTpFQHHu) | 5:30 |
 | 113 | [I Hurt Too](https://open.spotify.com/track/6I12kd6HCDGwi9VnoPBfc2) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Apple Tree](https://open.spotify.com/album/1xrzzbxD5m2VAcYu70hszz) | 4:28 |
 | 114 | [Lucky Seven](https://open.spotify.com/track/6WBo2nRguJNWTpq36GFNQv) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 4:17 |
 | 115 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDEzNmM3ZTMyMzllNmZjMzRkY2M2Y2M3NWI5NmVlN2E3`
+Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMGU4MmE3OTVhYzMzMmJlMjBmMDI0MTAxMmQ5OGM1MDJi`

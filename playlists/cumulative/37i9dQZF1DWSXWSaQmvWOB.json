@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 235061,
       "name": "Hurts So Bad - with Josh Teskey",
       "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
@@ -4878,6 +4878,24 @@
       "duration_ms": 262213,
       "name": "I'LL WAIT FOR YOU.",
       "url": "https://open.spotify.com/track/609yUX7Hb8mTqT68uI78FS"
+    },
+    {
+      "album": {
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268211,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
     },
     {
       "album": {
@@ -9512,7 +9530,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
@@ -10208,7 +10226,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"

@@ -4,7 +4,7 @@
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-140 songs - 11 hr 46 min
+141 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Contemplation](https://open.spotify.com/track/7u0wxI7hL1kBcy5U9w7eQt) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Contemplation](https://open.spotify.com/album/6F1ZQwSBrF6trhQyt4XTCc) | 5:51 | 2022-10-04 |  |
 | [Cuted](https://open.spotify.com/track/3gdhXa2iXDmPfkIlQehzyH) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Mind Groove](https://open.spotify.com/artist/3qweuxueVmC5XiMQviLH37) | [Cuted](https://open.spotify.com/album/2THF0LlDcp88lG4Gn6Xl4K) | 6:14 | 2022-02-25 | 2022-07-29 |
 | [Deep Down](https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Chilltronica EP 3](https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC) | 3:54 | 2022-01-07 |  |
+| [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 | 2023-03-10 |  |
 | [Deine Augen](https://open.spotify.com/track/5RkjwEQviBKkVDisjJbVSJ) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/7dAYdoahzW8oZgSGHWpfNP) | 5:16 | 2021-12-24 | 2023-03-04 |
 | [Descending Isolation](https://open.spotify.com/track/0S4pxlHnt8lUxczCwy4rhA) | [Gregory Paul Mineeff](https://open.spotify.com/artist/4beTB1W83FGA0l7rM4h4HU) | [Descending Isolation](https://open.spotify.com/album/7hqX1iCYdVyllwErhBbUk6) | 5:30 | 2022-02-04 | 2022-07-28 |
 | [Detached Horizon](https://open.spotify.com/track/7flSnXb9R1JRSMa4WSgtxC) | [Blue Carbon](https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j) | [Detached Horizon](https://open.spotify.com/album/14hDdut9Gi30C2kUacBXXJ) | 4:26 | 2022-03-11 | 2022-09-06 |
@@ -109,7 +110,7 @@
 | [Raum \- Single Edit](https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Raum \(Single Edit\)](https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA) | 7:22 | 2021-12-24 |  |
 | [Red Cloud](https://open.spotify.com/track/0ZuOLYu5FYdaL5jU4zl6IQ) | [Camille Fischer](https://open.spotify.com/artist/2Xkd6B5Bt2liYItQUp1gbO) | [Red Cloud](https://open.spotify.com/album/3i5yZDznCnifpD4TPh1r9s) | 6:10 | 2022-01-07 | 2022-07-20 |
 | [Reflections On The Waterfront](https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY) | [Tryst \(UK\)](https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4) | [Aerious EP](https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D) | 4:37 | 2021-12-24 |  |
-| [Rose Water](https://open.spotify.com/track/0wMnoX0TqfHJxsuXwSRFwC) | [Brett Naucke](https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs) | [Rose Water](https://open.spotify.com/album/0P8tEtuujscXps1tLs3c6C) | 3:55 | 2021-12-24 |  |
+| [Rose Water](https://open.spotify.com/track/0wMnoX0TqfHJxsuXwSRFwC) | [Brett Naucke](https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs) | [Rose Water](https://open.spotify.com/album/0P8tEtuujscXps1tLs3c6C) | 3:55 | 2021-12-24 | 2023-03-11 |
 | [sense](https://open.spotify.com/track/22MoPPtD3KKQSlC9TX4OeU) | [SITES](https://open.spotify.com/artist/2bUC0gcXgRmEE2KxMvvLLf) | [sense](https://open.spotify.com/album/2aNbPPwVOJ9NGrjm8wYW0L) | 8:32 | 2022-01-28 | 2022-07-29 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-12-24 |  |
 | [Sequoia Slumber](https://open.spotify.com/track/4nKRsX9uHP9p94yVk0vTbK) | [Land Systems](https://open.spotify.com/artist/79sKZqPGJ3uPzyC4SlgvAe) | [Elm](https://open.spotify.com/album/4l3FTRLR6VAEDpSl1CJaFR) | 2:38 | 2021-12-24 |  |

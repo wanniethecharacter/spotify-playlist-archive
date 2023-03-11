@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "BOSSLAB",
+        "url": "https://open.spotify.com/album/6OOu5f0k8Fa4bwSPjMm2oQ"
+      },
+      "artists": [
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272398,
+      "name": "BOSSLAB",
+      "url": "https://open.spotify.com/track/3slmbjKKWuyQUKHzbZPbEc"
+    },
+    {
+      "album": {
         "name": "Br\u00fbler des condos",
         "url": "https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 172440,
       "name": "C-17",
       "url": "https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU"
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 182212,
       "name": "CREED",
       "url": "https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6"
@@ -3173,6 +3191,42 @@
     },
     {
       "album": {
+        "name": "Get that Thang",
+        "url": "https://open.spotify.com/album/6b99vKjwOnTWLRHMuHsesG"
+      },
+      "artists": [
+        {
+          "name": "St-Prince",
+          "url": "https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112043,
+      "name": "Get that Thang",
+      "url": "https://open.spotify.com/track/0mgVIOwMXlEKfCZ7W3vtt9"
+    },
+    {
+      "album": {
+        "name": "Ghini",
+        "url": "https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149315,
+      "name": "Ghini",
+      "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
+    },
+    {
+      "album": {
         "name": "Grind",
         "url": "https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ"
       },
@@ -4039,6 +4093,28 @@
     },
     {
       "album": {
+        "name": "Lass\u00e9e",
+        "url": "https://open.spotify.com/album/25BxHyDGivuu5KEh9OwRbg"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        },
+        {
+          "name": "Leys",
+          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166470,
+      "name": "Lass\u00e9e",
+      "url": "https://open.spotify.com/track/28RXCDlIqUahRnwOzZFO6t"
+    },
+    {
+      "album": {
         "name": "Le pass\u00e9 nous le dira",
         "url": "https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt"
       },
@@ -4380,7 +4456,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 222853,
       "name": "Matusalem",
       "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
@@ -4468,6 +4544,24 @@
       "duration_ms": 202992,
       "name": "Metal",
       "url": "https://open.spotify.com/track/5OzHZiK7AapFqnTpAyVTNy"
+    },
+    {
+      "album": {
+        "name": "Mew",
+        "url": "https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197939,
+      "name": "Mew",
+      "url": "https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS"
     },
     {
       "album": {
@@ -4868,7 +4962,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217042,
       "name": "No stress",
       "url": "https://open.spotify.com/track/5DKGxw5dGLk92vicX5WbBb"
@@ -5123,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "Ours en cage",
+        "url": "https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt"
+      },
+      "artists": [
+        {
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+        },
+        {
+          "name": "Gxlden",
+          "url": "https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "Ours en cage",
+      "url": "https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q"
+    },
+    {
+      "album": {
         "name": "Palmar\u00e8s",
         "url": "https://open.spotify.com/album/76Du01EjxBVqFUxuQpNyiP"
       },
@@ -5372,7 +5488,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 177403,
       "name": "Plata",
       "url": "https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ"
@@ -6724,7 +6840,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 140434,
       "name": "Toute La Night",
       "url": "https://open.spotify.com/track/2akJNXtqHPa2UCYt1k20LV"

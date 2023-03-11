@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Miley Cyrus (pictured), Calvin Harris, Nia Archives and more!",
-  "num_followers": 826394,
+  "num_followers": 826663,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMGVmYjgxYWVlZTM0ZWY1M2M1NTczYTQ0ODU4NjMxMWMx",
+  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMGEwY2NlYmZjM2RmMjBkZWQwODI1MGMzZDAwMjY5MDhh",
   "tracks": [
     {
       "added_at": "2023-03-10 00:00:00",
@@ -199,8 +199,8 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "So Trendy",
-        "url": "https://open.spotify.com/album/7K20NkKuowGGMoVfk5ouvd"
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
       },
       "artists": [
         {
@@ -210,7 +210,7 @@
       ],
       "duration_ms": 225179,
       "name": "So Trendy",
-      "url": "https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4"
+      "url": "https://open.spotify.com/track/5mNpXv1fO76wl0088gY6fh"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -231,8 +231,8 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Hood Politics",
-        "url": "https://open.spotify.com/album/33Xz2LLd9XhwJq7PT0zU77"
+        "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/7l3o2KDAtqAbLtqMBZYHjE"
       },
       "artists": [
         {
@@ -246,7 +246,7 @@
       ],
       "duration_ms": 188843,
       "name": "Hood Politics",
-      "url": "https://open.spotify.com/track/57fjmRHlDcLOhhpYhc9bJv"
+      "url": "https://open.spotify.com/track/4UJRuqDtwWxHtlpA76xhAp"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -524,7 +524,7 @@
       "added_at": "2023-03-10 00:00:00",
       "album": {
         "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE"
+        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
       },
       "artists": [
         {
@@ -538,7 +538,7 @@
       ],
       "duration_ms": 183925,
       "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz"
+      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
+        "name": "MO UP FRONT",
+        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "MO UP FRONT",
+      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
         "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
         "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
       },
@@ -903,6 +919,38 @@
       "duration_ms": 164625,
       "name": "BRAINWASHED",
       "url": "https://open.spotify.com/track/4ImWu6A4KgQbTfNkkvaZQ3"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Mirror Story",
+        "url": "https://open.spotify.com/album/6EJiOeDoGEc8l2z5SWltWR"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 179154,
+      "name": "Tell Me Why You Need Me",
+      "url": "https://open.spotify.com/track/6wTOvYqoB3LBYpDfbZg7po"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "SET ME FREE (ENG)",
+      "url": "https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -1503,7 +1551,7 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Energy",
+        "name": "Energy (feat. Andreya Triana)",
         "url": "https://open.spotify.com/album/33ZEwVYKTh6XeSyVAVnqqj"
       },
       "artists": [
@@ -2247,6 +2295,26 @@
       "duration_ms": 139228,
       "name": "Big Dog Barking",
       "url": "https://open.spotify.com/track/4kEarTa6pcGd3TCN6CYGSm"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Talkin' to Me",
+        "url": "https://open.spotify.com/album/7m3NhrdkpODf59SyYjLo2O"
+      },
+      "artists": [
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        },
+        {
+          "name": "Harleighblu",
+          "url": "https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE"
+        }
+      ],
+      "duration_ms": 240769,
+      "name": "Talkin' to Me",
+      "url": "https://open.spotify.com/track/6plcjy4ICjGIn6FBD1fbAx"
     },
     {
       "added_at": "2023-03-10 00:00:00",

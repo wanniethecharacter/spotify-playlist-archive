@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 167400,
       "name": "All The Money (with Gunna) [Bonus]",
       "url": "https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0"
@@ -2087,7 +2087,7 @@
     },
     {
       "album": {
-        "name": "Champions",
+        "name": "CHAMPIONS",
         "url": "https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn"
       },
       "artists": [
@@ -2100,7 +2100,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242000,
-      "name": "Champions",
+      "name": "CHAMPIONS",
       "url": "https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC"
     },
     {
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 111020,
       "name": "Creepers",
       "url": "https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC"
@@ -2964,6 +2964,24 @@
       "duration_ms": 205758,
       "name": "Elon Musk (feat. Gunna)",
       "url": "https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
     },
     {
       "album": {
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 143703,
       "name": "Gang Nem (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
@@ -6346,7 +6364,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 128194,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/32FMtf6NNstA7Geu4B3uUP"
@@ -6492,6 +6510,28 @@
       "duration_ms": 130897,
       "name": "Paris to Tokyo",
       "url": "https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7"
+    },
+    {
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
     },
     {
       "album": {
@@ -9425,6 +9465,32 @@
     },
     {
       "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Trance (with Travis Scott & Young Thug)",
+      "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
+    },
+    {
+      "album": {
         "name": "The Secret Weapon",
         "url": "https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA"
       },
@@ -10064,6 +10130,28 @@
       "duration_ms": 143325,
       "name": "We Not Humping - Remix",
       "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
+    },
+    {
+      "album": {
+        "name": "We On It (feat. Dboylo)",
+        "url": "https://open.spotify.com/album/5usObWbEH1bp2esxkRuoHk"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Dboylo",
+          "url": "https://open.spotify.com/artist/3B8UdBdI65YuIjUd8Ei0TM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "We On It (feat. Dboylo)",
+      "url": "https://open.spotify.com/track/6t6vAKG0JJocfZ1CFYZoMM"
     },
     {
       "album": {

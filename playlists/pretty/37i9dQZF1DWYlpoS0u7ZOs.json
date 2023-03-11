@@ -1,12 +1,12 @@
 {
   "description": "The new wave of rock from the UK & Ireland. Cover: SPIDER",
-  "num_followers": 5640,
+  "num_followers": 5645,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDgyODI5OGNiZDgyZWY0YzVhZWVhODJiZTA2NTQ2ZDVm",
+  "snapshot_id": "MTY3ODQ3MDQzNywwMDAwMDAwMGE2MmM4ZWQ4YWNmYTc5YjJhZjZjYzk4YzZkZTI3ZTkx",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6"
     },
     {
+      "added_at": "2023-03-10 17:47:17",
+      "album": {
+        "name": "SADFACE",
+        "url": "https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df"
+      },
+      "artists": [
+        {
+          "name": "LibraLibra",
+          "url": "https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "SADFACE",
+      "url": "https://open.spotify.com/track/3Ha33JQoabqcnwFXQehnCO"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Prettier",
@@ -359,6 +375,22 @@
       "duration_ms": 144400,
       "name": "I Feel Everything",
       "url": "https://open.spotify.com/track/3EkSfn6JMfIqCu3coLz1jy"
+    },
+    {
+      "added_at": "2023-03-10 17:47:17",
+      "album": {
+        "name": "HALLELUJAH KID",
+        "url": "https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lipp",
+          "url": "https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA"
+        }
+      ],
+      "duration_ms": 198863,
+      "name": "HALLELUJAH KID",
+      "url": "https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -409,6 +441,22 @@
       "url": "https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0"
     },
     {
+      "added_at": "2023-03-10 17:47:17",
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/03lP3ArkPaSSF3Wk0DqDoK"
+      },
+      "artists": [
+        {
+          "name": "Gallus",
+          "url": "https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/1ue2tBH6KZnVy3VprM5BDI"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Tsunami (11:11)",
@@ -441,6 +489,22 @@
       "url": "https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw"
     },
     {
+      "added_at": "2023-03-10 17:47:17",
+      "album": {
+        "name": "PSYCHO!",
+        "url": "https://open.spotify.com/album/3X6uBg2Edx7FvIShAP9Av1"
+      },
+      "artists": [
+        {
+          "name": "Skylight Parade",
+          "url": "https://open.spotify.com/artist/5RkBnINoac82HgteIu1MBI"
+        }
+      ],
+      "duration_ms": 183004,
+      "name": "PSYCHO!",
+      "url": "https://open.spotify.com/track/49AHu113tqQwWl7JGgvWFp"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "K.K.O",
@@ -455,6 +519,22 @@
       "duration_ms": 116000,
       "name": "K.K.O",
       "url": "https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G"
+    },
+    {
+      "added_at": "2023-03-10 17:47:17",
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "God Knows",
+      "url": "https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1123,6 +1203,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "My Perfect",
+        "url": "https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 192488,
+      "name": "My Perfect",
+      "url": "https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "I Never Say No",
         "url": "https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi"
       },
@@ -1135,6 +1231,22 @@
       "duration_ms": 198835,
       "name": "I Never Say No",
       "url": "https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "duration_ms": 212138,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1171,86 +1283,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "fall out",
-        "url": "https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG"
-      },
-      "artists": [
-        {
-          "name": "tmdistant",
-          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "fall out",
-      "url": "https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Freakshow",
-        "url": "https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6"
-      },
-      "artists": [
-        {
-          "name": "JAXN",
-          "url": "https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Freakshow",
-      "url": "https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "wait what",
-        "url": "https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA"
-      },
-      "artists": [
-        {
-          "name": "Gia Lily",
-          "url": "https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "wait what",
-      "url": "https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "My Perfect",
-        "url": "https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 192488,
-      "name": "My Perfect",
-      "url": "https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Points of View",
-        "url": "https://open.spotify.com/album/475DvjXowIrzPg0t6R7Ymk"
-      },
-      "artists": [
-        {
-          "name": "Hotel Lux",
-          "url": "https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Points of View",
-      "url": "https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "in my ways",
         "url": "https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU"
       },
@@ -1263,122 +1295,6 @@
       "duration_ms": 143044,
       "name": "in my ways",
       "url": "https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Esau",
-          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
-        }
-      ],
-      "duration_ms": 212138,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Like a Cloud",
-        "url": "https://open.spotify.com/album/7KBy1bXPUok1aOrWcCEoqI"
-      },
-      "artists": [
-        {
-          "name": "Saint Vienna",
-          "url": "https://open.spotify.com/artist/5yPSiOQWSlccuKzZAAa8q5"
-        }
-      ],
-      "duration_ms": 248273,
-      "name": "Like a Cloud",
-      "url": "https://open.spotify.com/track/7GoINrNECkHo1jsE0lCfX5"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Hush Money",
-        "url": "https://open.spotify.com/album/549SYTY5VnJUTnfxgfa8NO"
-      },
-      "artists": [
-        {
-          "name": "Artio",
-          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
-        }
-      ],
-      "duration_ms": 189371,
-      "name": "Hush Money",
-      "url": "https://open.spotify.com/track/0OwTrDrSkklaJW709hjcDP"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "You I Think Of",
-        "url": "https://open.spotify.com/album/75ddHN5bdFva5O7EyeaRZ1"
-      },
-      "artists": [
-        {
-          "name": "Levi Evans",
-          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
-        },
-        {
-          "name": "CHAMELEON",
-          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "You I Think Of",
-      "url": "https://open.spotify.com/track/7tkugKckqls8hBzYWpjyBp"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Jaws the Shark",
-        "url": "https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5"
-      },
-      "artists": [
-        {
-          "name": "Jaws the Shark",
-          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "Didn't Even Know What I Was Looking For",
-      "url": "https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Leash",
-        "url": "https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ"
-      },
-      "artists": [
-        {
-          "name": "Berry Galazka",
-          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
-        }
-      ],
-      "duration_ms": 162193,
-      "name": "Leash",
-      "url": "https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75"
     }
   ],
   "unique_name": "shockwave",

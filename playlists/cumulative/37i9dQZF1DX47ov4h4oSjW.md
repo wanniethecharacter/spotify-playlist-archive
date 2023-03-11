@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-105 songs - 4 hr 49 min
+106 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2023-01-26 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:44 | 2023-01-26 |  |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2023-01-26 |  |
-| [La Luce Nel Cuore](https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m) | 2:57 | 2023-01-26 |  |
+| [La Luce Nel Cuore](https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m) | 2:57 | 2023-01-26 | 2023-03-11 |
 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 | 2023-01-26 |  |
 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 | 2023-01-26 |  |
 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 | 2023-01-26 |  |
@@ -64,6 +64,7 @@
 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 | 2023-01-26 |  |
 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 | 2023-01-26 |  |
 | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt) | [Nikolas Belalis](https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M) | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi) | 1:38 | 2023-01-26 |  |
+| [My Piano Night](https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Blue Hour](https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx) | 4:45 | 2023-01-26 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2023-01-26 |  |
 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 | 2023-01-26 |  |
 | [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2023-01-26 | 2023-02-09 |

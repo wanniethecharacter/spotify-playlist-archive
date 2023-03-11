@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Egreen in cover.",
-  "num_followers": 30983,
+  "num_followers": 31008,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMGIyNzg0YTBmOWFhYjA4OTM0MWQ0OTZmMDZmMmIzZmU0",
+  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMGIwODE2MjJiYTQzMGE4NTMwZmU5MmIzYTBjZTQ3NTIx",
   "tracks": [
     {
       "added_at": "2023-03-09 23:01:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "Piove Ancora",
+        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 176103,
+      "name": "Blood Nero",
+      "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Piove Ancora",
-        "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 176103,
-      "name": "Blood Nero",
-      "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+        "name": "Foto di gruppo",
+        "url": "https://open.spotify.com/album/0OX04ldIVHEuZTZMDxpokA"
       },
       "artists": [
         {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
         }
       ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+      "duration_ms": 210946,
+      "name": "Foto di gruppo",
+      "url": "https://open.spotify.com/track/6fc22mbFV0QVn6gzdvehnK"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 130593,
       "name": "Yeah (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Foto di gruppo",
-        "url": "https://open.spotify.com/album/0OX04ldIVHEuZTZMDxpokA"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "Foto di gruppo",
-      "url": "https://open.spotify.com/track/6fc22mbFV0QVn6gzdvehnK"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -699,21 +699,13 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Mani sporche",
+        "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
       "artists": [
         {
           "name": "Lovegang126",
           "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        },
-        {
-          "name": "Nino Brown",
-          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
         },
         {
           "name": "Franco126",
@@ -730,10 +722,18 @@
         {
           "name": "Lil Kvneki",
           "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
         }
       ],
       "duration_ms": 197227,
-      "name": "Mani sporche",
+      "name": "Mani sporche - feat. Gianni Bismark & Lil Kvneki",
       "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
     },
     {
@@ -775,62 +775,6 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Brutto Figlio Di",
-      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Ti Pretendo XXX",
-        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
-      },
-      "artists": [
-        {
-          "name": "North of Loreto",
-          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
-        },
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 221380,
-      "name": "Ti Pretendo XXX",
-      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
         "name": "TOTEM (Ultimate Edition)",
         "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
       },
@@ -855,6 +799,62 @@
       "duration_ms": 233363,
       "name": "Un Bacio sulla Fronte",
       "url": "https://open.spotify.com/track/5GBfDgJCZ2RdZw3U0C8d7g"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Brutto Figlio Di",
+      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Ti Pretendo XXX",
+        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
+      },
+      "artists": [
+        {
+          "name": "North of Loreto",
+          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 221380,
+      "name": "Ti Pretendo XXX",
+      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
-        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 225755,
-      "name": "L'attimo esatto",
-      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
         "name": "Mondo Marcio (2022 Remastered)",
         "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 235733,
       "name": "Tieni duro! - 2022 Remastered",
       "url": "https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1415,30 +1415,18 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Guerra fra poveri",
-        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
       },
       "artists": [
         {
-          "name": "Mr. Phil",
-          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Lord Bean",
-          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
         }
       ],
-      "duration_ms": 309466,
-      "name": "Piombo & fango",
-      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1467,18 +1455,54 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
+        "name": "Guerra fra poveri",
+        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
       "artists": [
         {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+          "name": "Mr. Phil",
+          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Lord Bean",
+          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
         }
       ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
+      "duration_ms": 309466,
+      "name": "Piombo & fango",
+      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1507,30 +1531,6 @@
       "duration_ms": 185880,
       "name": "Hashishin",
       "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1575,6 +1575,22 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Solo nebbia",
+        "url": "https://open.spotify.com/album/6ZcPJ8ZpRNmKkc9R5VoZ8s"
+      },
+      "artists": [
+        {
+          "name": "Blue Virus",
+          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Solo nebbia",
+      "url": "https://open.spotify.com/track/1XrNtowdY71ERfdm8snVKQ"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Solo nebbia",
-        "url": "https://open.spotify.com/album/6ZcPJ8ZpRNmKkc9R5VoZ8s"
-      },
-      "artists": [
-        {
-          "name": "Blue Virus",
-          "url": "https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Solo nebbia",
-      "url": "https://open.spotify.com/track/1XrNtowdY71ERfdm8snVKQ"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
         "name": "Max",
         "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
       },
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 238773,
       "name": "Il 6\u00b0 Senso",
       "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
-        }
-      ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 177400,
       "name": "Coltelli",
       "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
+        "name": "Dio lodato",
+        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
+      },
+      "artists": [
+        {
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+        }
+      ],
+      "duration_ms": 260183,
+      "name": "Dio lodato per sta chanche",
+      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2023-03-09 23:01:00",

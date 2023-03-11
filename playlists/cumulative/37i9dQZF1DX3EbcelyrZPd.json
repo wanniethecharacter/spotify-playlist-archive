@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Ali Kiba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Navy Kenzo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Most People Want This",
+        "url": "https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx"
+      },
+      "artists": [
+        {
+          "name": "Navy Kenzo",
+          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155219,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/3yCiJlTtHFEnAknMyBsFCi"
+    },
+    {
+      "album": {
         "name": "Romantic",
         "url": "https://open.spotify.com/album/2zeZk35J1bMoXDhpsxrSxq"
       },
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 276106,
       "name": "Papapu",
       "url": "https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx"

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 76872,
+  "num_followers": 76928,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMDRhMDg0Zjk4MGFhYjdhMzdkNzI2MThlMzQzNjFmNzlk",
+  "snapshot_id": "MTY3ODEzOTQ5MywwMDAwMDAwMGE4YzYwMmI0MDgzYzcxMmM2ZTEyM2E0MTVmZWRiMmM0",
   "tracks": [
     {
       "added_at": "2023-03-06 21:51:33",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+        "name": "The Bearer feat. Karina Mia",
+        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
       },
       "artists": [
         {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
         }
       ],
-      "duration_ms": 432586,
-      "name": "The Dance",
-      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+      "duration_ms": 360773,
+      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
+      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
     },
     {
       "added_at": "2023-03-06 21:51:33",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-03-06 21:51:33",
       "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 432586,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g"
+    },
+    {
+      "added_at": "2023-03-06 21:51:33",
+      "album": {
         "name": "When We Used To Play",
         "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 500807,
       "name": "When We Used To Play - Original Extended Mix",
       "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2023-03-06 21:51:33",
-      "album": {
-        "name": "The Bearer feat. Karina Mia",
-        "url": "https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl"
-      },
-      "artists": [
-        {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
-        }
-      ],
-      "duration_ms": 360773,
-      "name": "The Bearer feat. Karina Mia - Brother\u2019s Burden PT1",
-      "url": "https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk"
     },
     {
       "added_at": "2023-03-06 21:51:33",

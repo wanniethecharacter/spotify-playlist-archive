@@ -1032,10 +1032,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 96420,
       "name": "Gumar (Moon)",
       "url": "https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp"
+    },
+    {
+      "album": {
+        "name": "Gumar EP",
+        "url": "https://open.spotify.com/album/25fxYVTHvMaj8pE9e1wsLr"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96420,
+      "name": "Gumar (Moon)",
+      "url": "https://open.spotify.com/track/5zYHxMoYoPn4btKc1Q2aMb"
     },
     {
       "album": {

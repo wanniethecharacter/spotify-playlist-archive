@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Pesado en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Las Mar\u00edas en portada.",
   "name": "Norte\u00f1o 2023",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 207833,
       "name": "Cosas Del Amor - Live",
       "url": "https://open.spotify.com/track/0bLn6wyEBzI450zdYrMZvI"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 167040,
       "name": "El M-60",
       "url": "https://open.spotify.com/track/2e1jH2poOhLwLC3vKWebgM"
@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Familia, Honor y Talento",
+        "url": "https://open.spotify.com/album/5LoCbJU63mYBbG15Dohpid"
+      },
+      "artists": [
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228205,
+      "name": "Familia, Honor y Talento",
+      "url": "https://open.spotify.com/track/3MxN1O9TsnOAEhUuMhpygw"
+    },
+    {
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -2485,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
+    },
+    {
+      "album": {
         "name": "KDR",
         "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
       },
@@ -2813,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "La Vecinita (En Vivo)",
+        "url": "https://open.spotify.com/album/12jkVkOJVftWbyiN7JfqIk"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "La Vecinita - En Vivo",
+      "url": "https://open.spotify.com/track/2TCR46usOuBC1YMLAjZfiS"
+    },
+    {
+      "album": {
         "name": "La Vieja Escuela",
         "url": "https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz"
       },
@@ -3060,6 +3114,28 @@
       "duration_ms": 208890,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/4XhjEwjPhK30lJO5f9bQkU"
+    },
+    {
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "album": {
@@ -3699,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Noche De Pasi\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/2sjtAV3t1dhuY7EKSun7tX"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183761,
+      "name": "Noche De Pasi\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/1VzI22RK0crOMtRRscUwZN"
+    },
+    {
+      "album": {
         "name": "Nuestra Profec\u00eda",
         "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
       },
@@ -3782,7 +3876,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 210880,
       "name": "Olv\u00eddala Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4cS2MD9v9hc5wOy5VxvaRS"
@@ -4358,7 +4452,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 197986,
       "name": "Se\u00f1or Guzm\u00e1n",
       "url": "https://open.spotify.com/track/5EAi0bdw7Dn7Bv9sfJvy8H"
@@ -4860,7 +4954,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 186525,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/30cecr0ZkOxzBAmdA8fWeu"

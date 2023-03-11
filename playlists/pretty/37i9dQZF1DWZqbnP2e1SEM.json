@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDE4MjQyNDZkYzkzNzRlMjc1M2Y5MjFlZTgyMWEzMjRl",
+  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMGRkYTA0ZDhkNDk5YzJjMzJhYjE5NDU3Nzg3ZGJlMTgx",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -403,22 +403,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -447,22 +447,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Only Honest On The Weekend",
-        "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da) (feat. Topic)",
-      "url": "https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "The Parade",
         "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 158724,
       "name": "The Parade",
       "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Only Honest On The Weekend",
+        "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da) (feat. Topic)",
+      "url": "https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "365 (Thr33 6ix 5ive)",
-        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 151283,
-      "name": "365 (Thr33 6ix 5ive)",
-      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "You Give Me A Feeling",
         "url": "https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "365 (Thr33 6ix 5ive)",
+        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 151283,
+      "name": "365 (Thr33 6ix 5ive)",
+      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Through 2 You",
         "url": "https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 198363,
       "name": "Through 2 You",
       "url": "https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "There For You",
+        "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "There For You",
+      "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "soft spot",
         "url": "https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 219529,
       "name": "soft spot",
       "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "There For You",
-        "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "There For You",
-      "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "System (feat. WizKid)",
         "url": "https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 215645,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2022-06-20 14:23:17",

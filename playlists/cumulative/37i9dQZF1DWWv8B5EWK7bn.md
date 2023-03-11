@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-270 songs - 19 hr 37 min
+271 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-09-11 |  |
 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 | 2022-03-11 | 2023-01-21 |
 | [Have You Felt Lately?](https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Have You Felt Lately?](https://open.spotify.com/album/2xJpkYv3kleK0HDFznrpn9) | 3:54 | 2022-08-03 | 2022-09-16 |
-| [Heartlow \- Edit](https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i) | 3:38 | 2021-10-06 |  |
+| [Heartlow \- Edit](https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i) | 3:38 | 2021-10-06 | 2023-03-11 |
 | [Heartlow \- Edit](https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Heartlow](https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g) | 3:38 | 2021-10-06 | 2023-02-08 |
 | [Hieroglyphs](https://open.spotify.com/track/1kMD0CjbDthGRUsnjgOKmL) | [TRZTN](https://open.spotify.com/artist/4dgxRRkyX6JZJIFQ9jMsr1), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Hieroglyphs](https://open.spotify.com/album/2FAcCSzxIFtVcFrtI9jHwD) | 3:14 | 2021-10-06 | 2022-07-16 |
 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 | 2021-10-06 |  |
@@ -247,6 +247,7 @@
 | [This Is A Life](https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [This Is A Life \(From the Original Motion Picture "Everything Everywhere All at Once"\)](https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR) | 2:41 | 2022-03-11 | 2022-08-04 |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-06 | 2022-09-07 |
 | [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 | 2023-03-10 |
+| [Tintagel](https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 3:48 | 2022-02-09 |  |
 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 | 2023-01-04 |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |
 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 | 2022-09-30 | 2023-02-14 |

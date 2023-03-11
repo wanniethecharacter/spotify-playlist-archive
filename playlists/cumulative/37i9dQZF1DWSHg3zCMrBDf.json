@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212950,
       "name": "Aviator",
       "url": "https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke"
@@ -464,6 +464,28 @@
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+    },
+    {
+      "album": {
+        "name": "Cold & Trophies (feat. Sister Deborah)",
+        "url": "https://open.spotify.com/album/37EViFim4IoCs9l1rUsTaj"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308366,
+      "name": "Cold & Trophies (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/4Nri0xCjwoC1CJUpFSnbaK"
     },
     {
       "album": {

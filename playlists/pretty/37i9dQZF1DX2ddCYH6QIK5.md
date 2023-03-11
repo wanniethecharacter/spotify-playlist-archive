@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: katya., Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,275 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,299 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 48 | [spiel](https://open.spotify.com/track/15eanqdJlpD7rz5o1aTN6O) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [spiel](https://open.spotify.com/album/6OyeNw5pm3Immt9nZ9PKvO) | 2:56 |
 | 49 | [Sans oxygène](https://open.spotify.com/track/0mVCcqZcHUoGAwI7towUJ7) | [Binary Sunset](https://open.spotify.com/artist/6N0OrLKxGISopTNME8rf14) | [Sans oxygène](https://open.spotify.com/album/0BKG6YM0xnmm5vlILohlMV) | 3:29 |
 | 50 | [In A Dress](https://open.spotify.com/track/3xFuUawZfrjPdZZR9hJeJd) | [Stina Holmquist](https://open.spotify.com/artist/5PimmrUrpvEgfhh1ZJwmpY) | [In A Dress](https://open.spotify.com/album/6mxuaAsmg4aD2d0b7XXdPN) | 3:41 |
-| 51 | [All I Know](https://open.spotify.com/track/5WCv12YmfSf1j3SoswLryE) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [All I Know](https://open.spotify.com/album/1pTiNWMK1b1kfL624Q3582) | 3:09 |
+| 51 | [All I Know](https://open.spotify.com/track/2BKNB7lzJTXy3qZkT0eBDW) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [All I Know](https://open.spotify.com/album/6GHRpO9xlj6SbPCp2t18H1) | 3:09 |
 | 52 | [fernweh](https://open.spotify.com/track/4sqs6lmuuRV2zqZUHTtnfx) | [OSTARA](https://open.spotify.com/artist/2Qg4QCqfUMXW4dxkTRZ14j) | [schöne musik](https://open.spotify.com/album/5fhU9OVOUg7ZEu4Ebo9DHy) | 4:28 |
 | 53 | [Touch Base](https://open.spotify.com/track/6PGrQOOjHVqollpiX60S5g) | [Music for Models](https://open.spotify.com/artist/3vNfLZNrzaxuAeo6DKcjJM) | [Touch Base](https://open.spotify.com/album/26FaiDcEI2UDwpelJu2Aah) | 3:10 |
 | 54 | [Dehydriert](https://open.spotify.com/track/3yhUlZhAtpZaDCMRAs6o7E) | [Ducky T.](https://open.spotify.com/artist/7KJl09yTcrdozkPujCvBxC), [NONI](https://open.spotify.com/artist/224ViDqdVyhQAga2BystL6) | [Dehydriert](https://open.spotify.com/album/6pufZ7riNQKe2uScphmKeI) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Blitz Und Feuer](https://open.spotify.com/track/0txsbML07fhtjr9cgZ9Zw4) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Dieser Song](https://open.spotify.com/album/30moaI7FlmFu188p5zPLL9) | 4:16 |
 | 80 | [Transient Depths](https://open.spotify.com/track/33xs9s6sGzKcdRHNT0bkIz) | [Luuk](https://open.spotify.com/artist/1TOVIIT47c5if1gCL5Wj53) | [Transient Depths](https://open.spotify.com/album/66dzSfQvIBl3yWfPOxAXSy) | 2:42 |
 
-Snapshot ID: `MTY3ODI3MzIwMCwwMDAwMDAwMDRhMzQwYWU0OTA1OWMzYjUxNzEyMDY0MWViNWNhMWFi`
+Snapshot ID: `MTY3ODI3MzIwMCwwMDAwMDAwMGQxODNkN2MwNmU2NGViZDc1ZjIzYzU4YjYwZDdlYzJk`

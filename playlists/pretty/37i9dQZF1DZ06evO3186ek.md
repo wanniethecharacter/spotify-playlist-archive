@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,730 likes - 50 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,866 likes - 50 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Acercame \(feat\. Johnny Peña & Laila Olivera\)](https://open.spotify.com/track/4kEF0MXh1BWR0c48T7a9RS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 7:54 |
 | 50 | [Ruins \(feat\. Joe L\. Barnes & Nate Moore\)](https://open.spotify.com/track/73C4In4b1ICegtmEJIyymj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 4:12 |
 
-Snapshot ID: `Mjc5NzI3NzAsMDAwMDAwMDBkNzc4MzA5NjRiMjAwOWE2YzY5MDE3MzA3YzU3MzBkMw==`
+Snapshot ID: `Mjc5NzQyMDMsMDAwMDAwMDA3ZTk1N2Y2Mjk2YjNhYjEwYjcyM2NlNmRmMTc3OGQ0Mw==`

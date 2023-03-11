@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Ange",
+        "url": "https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354357,
+      "name": "Ange",
+      "url": "https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN"
+    },
+    {
+      "album": {
         "name": "Avec Gang",
         "url": "https://open.spotify.com/album/7MTLaQsUGD6AYJa9uucT1T"
       },
@@ -672,6 +694,24 @@
       "duration_ms": 247272,
       "name": "Boondow Bai",
       "url": "https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU"
+    },
+    {
+      "album": {
+        "name": "The Villain in Someone's Story",
+        "url": "https://open.spotify.com/album/2Tz9zXcUdWO1p0Hhi2tPte"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196905,
+      "name": "Break Slow Fast",
+      "url": "https://open.spotify.com/track/5hmGd8oiC1B8wNoT9sIEU2"
     },
     {
       "album": {
@@ -4548,7 +4588,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 259245,
       "name": "Modification",
       "url": "https://open.spotify.com/track/6qZ59pXRuuNyvggLjP2Rxq"
@@ -6116,7 +6156,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 233142,
       "name": "Sangoma - Dubbing Sun Remix",
       "url": "https://open.spotify.com/track/5X531fj1tOQUZ3xZBGdfVW"
@@ -7911,6 +7951,28 @@
     },
     {
       "album": {
+        "name": "Underground Ft. High Tara",
+        "url": "https://open.spotify.com/album/6bHLcabZtowoaPveCk6ujJ"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "High Tara",
+          "url": "https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197768,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7u8p3u6rE0zwWOHVQbpfdq"
+    },
+    {
+      "album": {
         "name": "Crawler",
         "url": "https://open.spotify.com/album/1Cgwt0lcfcJEd8PFGNqpXs"
       },
@@ -8152,7 +8214,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 385818,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/1UFsoj3swW2Cwobwcmgpgp"

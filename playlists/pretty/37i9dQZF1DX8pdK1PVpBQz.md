@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: IN2STELLAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,111 likes - 93 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,112 likes - 93 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 28 | [Bleeding Heart](https://open.spotify.com/track/5BZiyGEE1tVT7FB0OAwj3y) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Bleeding Heart](https://open.spotify.com/album/2omuBvFGk5J3y8abZaITLz) | 2:42 |
 | 29 | [NUMBER 1 PUSSY](https://open.spotify.com/track/21omrvROcaZDtLszH479x0) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [NUMBER 1 PUSSY](https://open.spotify.com/album/6NIfw2vThvl7kna5bmJWrE) | 2:59 |
 | 30 | [Suzuka](https://open.spotify.com/track/4F6v6KqM19TVQFBm1V0Pz1) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Suzuka](https://open.spotify.com/album/6QkC4UxbD1OqEpWcqzqR98) | 3:56 |
-| 31 | [Carpe Diem](https://open.spotify.com/track/0tD3vrZqkixwtGPpeWaCaY) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm) | [Carpe Diem](https://open.spotify.com/album/5mYZ20FsImJCRjYxYbUHPn) | 3:48 |
+| 31 | [Carpe Diem](https://open.spotify.com/track/0tD3vrZqkixwtGPpeWaCaY) | [Leaping Tiger](https://open.spotify.com/artist/6msX2U4FuNMIIDGdCrIuXm), [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [Carpe Diem](https://open.spotify.com/album/5mYZ20FsImJCRjYxYbUHPn) | 3:48 |
 | 32 | [Breathing Again](https://open.spotify.com/track/7oPbyugz38JDeKPafYngCA) | [MANE](https://open.spotify.com/artist/1CtWPi5HGDgyjTTL4o2SvO) | [Breathing Again](https://open.spotify.com/album/09nCLCDhfaLeNWaNVfFNJA) | 3:53 |
 | 33 | [Bumpin](https://open.spotify.com/track/36DmC5caniKemB1A089olS) | [Aquifer](https://open.spotify.com/artist/5k0OaGzMBCeSIk6nxL0WDL), [Kayblaze](https://open.spotify.com/artist/3sObvYNf6y841WBBS1Kstu), [Walkx](https://open.spotify.com/artist/2Hs9iVrTangyYazaWk4y1e) | [Bumpin](https://open.spotify.com/album/2NfP0W9aYoMG91NciglKwF) | 3:49 |
 | 34 | [Don't Leave](https://open.spotify.com/track/6QGT8XutPisjY0xAOaBDmk) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Don't Leave](https://open.spotify.com/album/4JGp5u1LlZCyYw77HFeQY1) | 2:24 |

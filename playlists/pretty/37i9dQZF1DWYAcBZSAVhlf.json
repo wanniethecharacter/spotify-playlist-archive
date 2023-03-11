@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 202578,
+  "num_followers": 202829,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDUxZDM0M2RmZTgwNGFlZjZjYjg4M2Q4YjgxZjIyZmIw",
+  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDQxMTRjMjY5OTBkYjYzMGJlYTMzZGU0YzY1N2NlYmFi",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Jump (For My Love)",
-      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Harold F",
         "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180866,
       "name": "Axel F",
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Jump (For My Love)",
+      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "You Came - Single Version",
-      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 203226,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "You Came - Single Version",
+      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
     },
     {
       "added_at": "2023-01-03 15:06:17",

@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-500 songs - 1 day 10 hr 8 min
+501 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Don't You Go up the Sky](https://open.spotify.com/track/0E2LnmZFoR0p9QoIK3HCyF) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Strange Fruits and Undiscovered Plants](https://open.spotify.com/album/2lnsuHjUjauKCkjQgH4T5W) | 4:18 | 2019-03-11 |  |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-03-11 |  |
 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 | 2019-03-11 |  |
-| [Down Man](https://open.spotify.com/track/11ygR5HZFXjtQIF3ggvwvr) | [Brainbox](https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/3k1adw3i30pKxxzm7XFYj5) | 2:35 | 2019-03-11 |  |
+| [Down Man](https://open.spotify.com/track/756HNdU6TFW8hctr7iNddD) | [Brainbox](https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5) | [Singles & B\-sides 1969\-1971](https://open.spotify.com/album/0xeaZGSk7XZS6HIwxSKdCK) | 2:34 | 2019-03-11 |  |
+| [Down Man](https://open.spotify.com/track/11ygR5HZFXjtQIF3ggvwvr) | [Brainbox](https://open.spotify.com/artist/2bPOtAmEBWgpj3qBhLiOm5) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/3k1adw3i30pKxxzm7XFYj5) | 2:35 | 2019-03-11 | 2023-03-11 |
 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 | 2019-03-11 |  |
 | [Dream All Day](https://open.spotify.com/track/6NQ9hBc6yra6j9fMbnMTS7) | [The Posies](https://open.spotify.com/artist/5ZOh5D4MKLhU3GekPzNFam) | [Frosting On The Beater](https://open.spotify.com/album/72rfhFLb2C6Zo500hgoKq3) | 3:04 | 2019-03-11 |  |
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2019-03-11 |  |

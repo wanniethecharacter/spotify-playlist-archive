@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189474,
       "name": "Didn't Even Know What I Was Looking For",
       "url": "https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG"
@@ -344,6 +344,24 @@
       "duration_ms": 237926,
       "name": "die too",
       "url": "https://open.spotify.com/track/3QMtUdoPW6mTsBO4QJ2E2m"
+    },
+    {
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/03lP3ArkPaSSF3Wk0DqDoK"
+      },
+      "artists": [
+        {
+          "name": "Gallus",
+          "url": "https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/1ue2tBH6KZnVy3VprM5BDI"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 166588,
       "name": "fall out",
       "url": "https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144000,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM"
@@ -524,6 +542,24 @@
       "duration_ms": 180088,
       "name": "GO!",
       "url": "https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC"
+    },
+    {
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/4CTHGfg4ccypcg0JbzsX1e"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "God Knows",
+      "url": "https://open.spotify.com/track/21d4LQbHVuzPruS53gIMYk"
     },
     {
       "album": {
@@ -596,6 +632,24 @@
       "duration_ms": 251000,
       "name": "Great Grief",
       "url": "https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y"
+    },
+    {
+      "album": {
+        "name": "HALLELUJAH KID",
+        "url": "https://open.spotify.com/album/7dh11jHNxLEQKdvlBZhOR0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lipp",
+          "url": "https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198863,
+      "name": "HALLELUJAH KID",
+      "url": "https://open.spotify.com/track/0YMldYHUAVZgdK1JJCRDnC"
     },
     {
       "album": {
@@ -700,7 +754,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189371,
       "name": "Hush Money",
       "url": "https://open.spotify.com/track/0OwTrDrSkklaJW709hjcDP"
@@ -844,10 +898,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U"
+    },
+    {
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212138,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
     },
     {
       "album": {
@@ -880,7 +952,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 162193,
       "name": "Leash",
       "url": "https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75"
@@ -952,7 +1024,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 248273,
       "name": "Like a Cloud",
       "url": "https://open.spotify.com/track/7GoINrNECkHo1jsE0lCfX5"
@@ -1348,7 +1420,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 217280,
       "name": "Points of View",
       "url": "https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN"
@@ -1388,6 +1460,24 @@
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
+    },
+    {
+      "album": {
+        "name": "PSYCHO!",
+        "url": "https://open.spotify.com/album/3X6uBg2Edx7FvIShAP9Av1"
+      },
+      "artists": [
+        {
+          "name": "Skylight Parade",
+          "url": "https://open.spotify.com/artist/5RkBnINoac82HgteIu1MBI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183004,
+      "name": "PSYCHO!",
+      "url": "https://open.spotify.com/track/49AHu113tqQwWl7JGgvWFp"
     },
     {
       "album": {
@@ -1514,6 +1604,24 @@
       "duration_ms": 108984,
       "name": "RUN & HIDE",
       "url": "https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc"
+    },
+    {
+      "album": {
+        "name": "SADFACE",
+        "url": "https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df"
+      },
+      "artists": [
+        {
+          "name": "LibraLibra",
+          "url": "https://open.spotify.com/artist/5eSDYy3APXTkeeOuTn6gye"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "SADFACE",
+      "url": "https://open.spotify.com/track/3Ha33JQoabqcnwFXQehnCO"
     },
     {
       "album": {
@@ -1914,7 +2022,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 163500,
       "name": "wait what",
       "url": "https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw"
@@ -2098,7 +2206,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 188706,
       "name": "You I Think Of",
       "url": "https://open.spotify.com/track/7tkugKckqls8hBzYWpjyBp"

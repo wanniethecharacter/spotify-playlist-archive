@@ -1837,6 +1837,32 @@
     },
     {
       "album": {
+        "name": "Tar",
+        "url": "https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Elijah Parrish",
+          "url": "https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui"
+        },
+        {
+          "name": "Lil Benjas",
+          "url": "https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211384,
+      "name": "Tenemos Que Admitirlo",
+      "url": "https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM"
+    },
+    {
+      "album": {
         "name": "In\u00e9ditos",
         "url": "https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN"
       },

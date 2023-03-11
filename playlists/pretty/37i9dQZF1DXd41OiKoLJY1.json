@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: YARA, Artwork: Isu Kim\n",
-  "num_followers": 53963,
+  "num_followers": 53981,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
       "duration_ms": 181668,
       "name": "WAZE",
       "url": "https://open.spotify.com/track/6bB0C0j9lRaF9p9nV5itGj"
+    },
+    {
+      "added_at": "2023-03-09 16:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2WQU5nu0FV6qYe6AUOBbCq"
+      },
+      "artists": [
+        {
+          "name": "Philly Nick",
+          "url": "https://open.spotify.com/artist/6ZZIuxXZHgHU9Ad3yRaxj5"
+        },
+        {
+          "name": "1400",
+          "url": "https://open.spotify.com/artist/3khYSaUr7GBHWZY0ZdzbQr"
+        }
+      ],
+      "duration_ms": 138513,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/19UN16mgucQdQ1dlj6WG6o"
     },
     {
       "added_at": "2023-03-09 16:00:00",

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-518 songs - 1 day 5 hr 20 min
+519 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Cuff Your Jeans](https://open.spotify.com/track/71ygECRAwecbpqK5MYlpVq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:55 | 2021-05-01 | 2022-07-29 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-06-01 | 2022-07-29 |
 | [Daft Pretty Boys](https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Disappear Here](https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ) | 3:07 | 2021-05-01 |  |
-| [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-04-13 |  |
+| [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 | 2022-04-13 | 2023-03-11 |
 | [Damage Done](https://open.spotify.com/track/3KvuMuJ1cNI6BggtSXKixL) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Damage Done](https://open.spotify.com/album/5O4KNwSA44AvQ07jjQxRZf) | 3:45 | 2021-05-01 | 2022-04-14 |
 | [Dance In Room Song](https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Dance In Room Song](https://open.spotify.com/album/3FkUMOuiprjmmlnY1DmV1u) | 2:51 | 2021-05-01 | 2022-07-29 |
 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 | 2022-04-13 |  |
@@ -133,6 +133,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2021-06-04 | 2022-09-27 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-23 | 2022-12-31 |
 | [Don't Cry](https://open.spotify.com/track/6qXbp2zTI2WJSR0OV4AlJ8) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Don't Cry](https://open.spotify.com/album/1513Yt291Vh9Di4lCEzKjS) | 3:22 | 2021-05-01 | 2022-04-13 |
+| [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-11 |  |
 | [Don't Keep Me Around](https://open.spotify.com/track/35jSR5mRjigfhzlcKX2XX1) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Don't Keep Me Around](https://open.spotify.com/album/2PFROf9YKGMZm95FHkbeAW) | 3:17 | 2021-05-01 | 2022-04-13 |
 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 | 2021-07-19 | 2022-07-23 |
 | [Dope on a Rope](https://open.spotify.com/track/76c1AuZodByXM3X2k48wju) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:10 | 2022-04-13 |  |

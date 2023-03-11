@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 47732,
+  "num_followers": 47767,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzU0MSwwMDAwMDAwMGRkNjUxMTQyNGIyMzRhMTg0NWY5ZjhlNmFhOTg1MmQw",
+  "snapshot_id": "MTY3Nzg2MzU0MSwwMDAwMDAwMDg0ZjQ4MDA2ZTdjYTllNzAwODU0MjY3YzhhMWExNmNl",
   "tracks": [
     {
       "added_at": "2023-02-17 16:00:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
-        "name": "Calm Waves",
-        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Calm Waves",
-      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -955,18 +923,34 @@
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
-        "name": "Semblance",
-        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Semblance",
-      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -983,6 +967,22 @@
       "duration_ms": 170958,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
+        "name": "Semblance",
+        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
+      },
+      "artists": [
+        {
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Semblance",
+      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -1035,50 +1035,18 @@
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
+        "name": "Prieks",
+        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
       "artists": [
         {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
-      },
-      "artists": [
-        {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
-        }
-      ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
+      "duration_ms": 145524,
+      "name": "Prieks",
+      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -1099,50 +1067,34 @@
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
+      "duration_ms": 163200,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
     },
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
       "artists": [
         {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
-        "name": "Prieks",
-        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 145524,
-      "name": "Prieks",
-      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+      "duration_ms": 170958,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -1163,6 +1115,38 @@
     {
       "added_at": "2023-02-17 16:00:08",
       "album": {
+        "name": "Sleep Drifting",
+        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Sleep Drifting",
+      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
         "name": "Floating Without Gravity",
         "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
+    },
+    {
+      "added_at": "2023-02-17 16:00:08",
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 158766,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
     },
     {
       "added_at": "2023-02-17 16:00:08",
@@ -1223,22 +1239,6 @@
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
-    },
-    {
-      "added_at": "2023-02-17 16:00:08",
-      "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 158766,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
     },
     {
       "added_at": "2023-02-17 16:00:08",

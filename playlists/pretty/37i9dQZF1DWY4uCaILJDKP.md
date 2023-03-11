@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 103 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,382 likes - 103 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [桜、いってきます](https://open.spotify.com/track/4BslKjuniF0z1kvOndUmxw) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [桜、いってきます](https://open.spotify.com/album/7711qxWqOaSqsx95MBjouI) | 4:34 |
+| 1 | [Sakura Ittekimasu](https://open.spotify.com/track/4H2l1HGZ4NKmjgt7fOCXKS) | [あいかビンギラ](https://open.spotify.com/artist/6exny1Clx0IBJYC09Kx0eI), [小西陸斗](https://open.spotify.com/artist/5BhnDHwdtxC6g8NXqn0i7T), [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [Sakura Ittekimasu](https://open.spotify.com/album/6svPEVtvFKlfhUN1deRQ9g) | 4:34 |
 | 2 | [ココ☆ナツ \-ZZ ver.\-](https://open.spotify.com/track/4lVQTUYJODAG5uywdK9UVS) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 4:38 |
 | 3 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 |
 | 4 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/03LNdNAUE2xGFZpAsBmXhJ) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:53 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 102 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 103 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGUyMDY1Njg3ZWE0ODQ3YzI3NmE2ZmMyODI0ZTFiMjE1`
+Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGU0MzAzNWU5ZjBjNWZlMjMzYTM3NjVjNGFhNTM2YjQ0`

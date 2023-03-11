@@ -1,12 +1,12 @@
 {
   "description": "Co-curated by CATT. Learn more in our playlist clips!",
-  "num_followers": 24692,
+  "num_followers": 24739,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDI2NzhkNjNjOThhOTZiYzA4NzJhNzdmNTQwYTgzY2Rm",
+  "snapshot_id": "MTY3ODA5NTk4MSwwMDAwMDAwMDM2NTg2ZDlkNWZjMjAwZGJhOGFiMWM3NmQ5ZWE1YjQ0",
   "tracks": [
     {
       "added_at": "2023-03-06 09:38:59",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Create",
-        "url": "https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 234370,
-      "name": "Create",
-      "url": "https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Notfallkontakt",
         "url": "https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 180500,
       "name": "Notfallkontakt",
       "url": "https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Create",
+        "url": "https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 234370,
+      "name": "Create",
+      "url": "https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Running Round",
-        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
-      },
-      "artists": [
-        {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Running Round",
-      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "call me cat",
         "url": "https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 140453,
       "name": "call me cat",
       "url": "https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Running Round",
+        "url": "https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Running Round",
+      "url": "https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "magnetic wave",
-        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
-      },
-      "artists": [
-        {
-          "name": "Lore Vain",
-          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
-        }
-      ],
-      "duration_ms": 224155,
-      "name": "magnetic wave",
-      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "modern disaster",
         "url": "https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 122224,
       "name": "under pressure",
       "url": "https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "magnetic wave",
+        "url": "https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl"
+      },
+      "artists": [
+        {
+          "name": "Lore Vain",
+          "url": "https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5"
+        }
+      ],
+      "duration_ms": 224155,
+      "name": "magnetic wave",
+      "url": "https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl"
     },
     {
       "added_at": "2023-03-06 09:38:59",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy"
+      },
+      "artists": [
+        {
+          "name": "Pina Palau",
+          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
+        }
+      ],
+      "duration_ms": 192428,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
         "name": "Equalista",
         "url": "https://open.spotify.com/album/4ZcVC1LJ2AbKVPwZyH00GR"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy"
-      },
-      "artists": [
-        {
-          "name": "Pina Palau",
-          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
-        }
-      ],
-      "duration_ms": 192428,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Opia EP",
         "url": "https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-06 09:38:59",
       "album": {
-        "name": "Core",
-        "url": "https://open.spotify.com/album/7vpe5uEzl2S7n4c6pmiV09"
-      },
-      "artists": [
-        {
-          "name": "Kya Kyani",
-          "url": "https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL"
-        }
-      ],
-      "duration_ms": 122678,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt"
-    },
-    {
-      "added_at": "2023-03-06 09:38:59",
-      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 156584,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS"
+    },
+    {
+      "added_at": "2023-03-06 09:38:59",
+      "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/7vpe5uEzl2S7n4c6pmiV09"
+      },
+      "artists": [
+        {
+          "name": "Kya Kyani",
+          "url": "https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL"
+        }
+      ],
+      "duration_ms": 122678,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt"
     },
     {
       "added_at": "2023-03-06 09:38:59",

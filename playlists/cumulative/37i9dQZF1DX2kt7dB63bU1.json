@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 283684,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2AoPD54mcUekeaZIyLU3Xs"
@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Coltrane Plays The Blues",
+        "url": "https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO"
+      },
+      "artists": [
+        {
+          "name": "Marc Jordan",
+          "url": "https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322100,
+      "name": "Coltrane Plays the Blues",
+      "url": "https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV"
+    },
+    {
+      "album": {
         "name": "Come Away With Me (Alternate Version)",
         "url": "https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO"
       },
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 216463,
       "name": "Conjuring",
       "url": "https://open.spotify.com/track/460DdHZlDKjYbEorrwBzw8"
@@ -2428,6 +2446,40 @@
       "duration_ms": 442693,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5tJ21wHKBuj9KtzaCwDxZ5"
+    },
+    {
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321485,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf"
     },
     {
       "album": {
@@ -3678,6 +3730,28 @@
       "duration_ms": 270440,
       "name": "Greenbacks",
       "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
+    },
+    {
+      "album": {
+        "name": "Guess Who I Saw Today (Duo Version)",
+        "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285068,
+      "name": "Guess Who I Saw Today (feat. Gerald Clayton) - Duo Version",
+      "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
     },
     {
       "album": {
@@ -5925,6 +5999,28 @@
     },
     {
       "album": {
+        "name": "Lazy Afternoon",
+        "url": "https://open.spotify.com/album/2yH09Pu2HzYcIq4hrC9vwL"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Freda Payne",
+          "url": "https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303266,
+      "name": "Lazy Afternoon",
+      "url": "https://open.spotify.com/track/2eLtQAYHNzglYKH2nGaBrn"
+    },
+    {
+      "album": {
         "name": "Le soleil noir (Radio Edit)",
         "url": "https://open.spotify.com/album/1vtp4mopktVJRrIyp4cdSg"
       },
@@ -6938,7 +7034,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 268802,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/0t96EbQKCrn654SHyUVWQs"
@@ -7522,7 +7618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 316906,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/35CE4sYV612sqeqNGVZ137"
@@ -8406,7 +8502,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 236059,
       "name": "Sit on My Knee and Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/4wEbYOPyYBVbRhrZjZR2qR"
@@ -9272,6 +9368,24 @@
       "duration_ms": 224320,
       "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
+    },
+    {
+      "album": {
+        "name": "Take Love Easy",
+        "url": "https://open.spotify.com/album/05vX7tbISbLuPvTqbJMGxx"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302852,
+      "name": "Take Love Easy",
+      "url": "https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI"
     },
     {
       "album": {

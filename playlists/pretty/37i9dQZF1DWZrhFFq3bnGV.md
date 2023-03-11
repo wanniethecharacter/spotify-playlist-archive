@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,661 likes - 101 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,688 likes - 101 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

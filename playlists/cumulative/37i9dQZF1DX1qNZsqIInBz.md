@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-129 songs - 5 hr 50 min
+132 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 | 2022-12-16 |  |
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
 | [AUTUMN SLEEP \- Slowed & Reverb](https://open.spotify.com/track/7pmw88lKWUHx00WHK4RqsM) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [ETERNAL IN MEMORIUM \(Slowed & Reverb\)](https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi) | 1:52 | 2022-10-10 | 2023-01-21 |
-| [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 | 2022-10-10 |  |
+| [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 | 2022-10-10 | 2023-03-11 |
 | [Before End](https://open.spotify.com/track/2IYDMilyoTEDXMiz2Uxb1P) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Before End](https://open.spotify.com/album/0FLuJwdZPZ5wbUbYzyfJvj) | 2:30 | 2023-01-20 |  |
 | [Black Road](https://open.spotify.com/track/4CyrXp09zI9cJvWwDF3QZ8) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Black Road](https://open.spotify.com/album/70HBya0gUFpkwUiXCu1i6q) | 3:05 | 2022-10-10 |  |
 | [Blow With The Hoe](https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Blow With The Hoe](https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk) | 1:31 | 2022-10-10 | 2023-02-05 |
@@ -45,9 +45,11 @@
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 |  |
 | [EXIST](https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [EXIST](https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9) | 3:03 | 2022-10-10 |  |
 | [Faith](https://open.spotify.com/track/4XwbUt1ryz68nbLdBD9dqs) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Faith](https://open.spotify.com/album/3q6Ulf0dRhKrLd5P3cwfYl) | 2:05 | 2022-10-10 |  |
+| [FANTASIA](https://open.spotify.com/track/5ZN7Ryh3gWfYGwn7zHmktL) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [FANTASIA](https://open.spotify.com/album/4I5ybDugkUxiJd2D5fwwTr) | 2:21 | 2023-03-10 |  |
 | [Farewell](https://open.spotify.com/track/3QXLbx8kUNmcbWd1XhNJD4) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/4i7eb70VPiIHWU7EEDNmIn) | 2:31 | 2022-10-10 |  |
 | [FIREFLIES](https://open.spotify.com/track/3om71PaqkmHXuxQ5d3Hxjk) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy), [Steveruu](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L) | [FIREFLIES](https://open.spotify.com/album/5t94V0MZ61yjI0lt1sJUcP) | 2:43 | 2022-12-30 |  |
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 |  |
+| [Forever In My Mind](https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [Forever In My Mind](https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP) | 3:01 | 2023-03-10 |  |
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
 | [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2022-10-10 |  |
@@ -59,7 +61,7 @@
 | [Hallucination](https://open.spotify.com/track/3o97gI0SFNTqzhPAXpxkGD) | [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [Hallucination](https://open.spotify.com/album/7nNj9pxxPWn6WfYDS6r01W) | 2:33 | 2022-10-10 |  |
 | [HEAD\-ON COLLISION](https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [HEAD\-ON COLLISION](https://open.spotify.com/album/0KoWo621xx4T4cesytZCh5) | 2:00 | 2022-10-10 | 2022-11-19 |
 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 | 2022-12-09 |  |
-| [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 |  |
+| [HYPERPHONK](https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT) | [LXVIATHXN](https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T) | [HYPERPHONK](https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD) | 2:56 | 2022-10-10 | 2023-03-11 |
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 |  |
 | [Infinite](https://open.spotify.com/track/36lAaFOepMC0kbLeHSLtbU) | [Skidz](https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y) | [Infinite](https://open.spotify.com/album/2F7yVNgSaE4UcfTKx9be2B) | 3:22 | 2022-10-10 |  |
 | [IRON KNIGHT](https://open.spotify.com/track/66rbsDlM1RfmVW6I2nBmuh) | [DJ RXBBERY](https://open.spotify.com/artist/0NuERMLAqu8zM3uFAo1dN9) | [IRON KNIGHT](https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT) | 2:24 | 2022-10-10 |  |
@@ -70,6 +72,7 @@
 | [look around](https://open.spotify.com/track/4uZVyTm6D7HdM8h4NRlieW) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [look around](https://open.spotify.com/album/7mRzNvTeo13aKg3NWPOMVY) | 2:07 | 2022-10-10 |  |
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 |  |
 | [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 |  |
+| [Lunar](https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Lunar](https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM) | 2:41 | 2023-03-10 |  |
 | [Lxve](https://open.spotify.com/track/6VlP7dD900vqTtL31OrwBd) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [Lxve](https://open.spotify.com/album/6QcnBfg7bNYyeo1ARkenbb) | 2:06 | 2023-01-13 |  |
 | [LXVE TXWN](https://open.spotify.com/track/1pCDWUyukLwNnDtKuDKk7j) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LXVE TXWN](https://open.spotify.com/album/04FHXUjQJckGhzOiPGZHlm) | 2:38 | 2022-10-10 |  |
 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 | 2022-10-10 |  |
@@ -125,7 +128,7 @@
 | [TEARDROP](https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u) | [L19U1D](https://open.spotify.com/artist/6eIJYF4G64wbLdUXpxCKd2), [attashe](https://open.spotify.com/artist/2D8oenshYhpgfJSaJ8o8on) | [TEARDROP](https://open.spotify.com/album/6dYneATOS4dlt88gyQWvMv) | 3:00 | 2022-10-14 |  |
 | [Tell me what \- Alternative](https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [CRESTA LA CULTURA, Vol.1](https://open.spotify.com/album/17yH3m2wuD17DaOEzorZHr) | 3:45 | 2022-10-10 |  |
 | [Tension](https://open.spotify.com/track/38jLy7No0eF0SW3E5gjMC7) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Tension](https://open.spotify.com/album/1yhhCgv2WnGuAXbNVKtecA) | 2:42 | 2022-10-10 | 2022-12-10 |
-| [The Creeps](https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P) | [GWRZTRMNR](https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi) | [The Creeps](https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD) | 2:25 | 2022-11-18 |  |
+| [The Creeps](https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P) | [GWRZTRMNR](https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi) | [The Creeps](https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD) | 2:25 | 2022-11-18 | 2023-03-11 |
 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 | 2022-10-10 |  |
 | [Tokyo Night](https://open.spotify.com/track/5om4dKxQi2NztFha8FOYbl) | [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4) | [Tokyo Night](https://open.spotify.com/album/1ayeDxvVIdrqPVHToyZa4h) | 2:02 | 2022-10-10 | 2022-12-03 |
 | [UNDERWORLD](https://open.spotify.com/track/6vJVpxuHoWs3dmjYXyjfyW) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [UNDERWORLD](https://open.spotify.com/album/5ZZ4QO3bzFBOG2Gdy4eidW) | 2:10 | 2022-10-10 | 2022-12-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Maisie Peters",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: Niall Horan",
   "name": "Unplugged",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 152842,
       "name": "29 - Stripped",
       "url": "https://open.spotify.com/track/2qfFLxiCWqQarHQ9cVoXKy"
@@ -136,6 +136,24 @@
       "duration_ms": 196473,
       "name": "Anti-Hero - Acoustic Version",
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "album": {
@@ -280,7 +298,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 189003,
       "name": "Bite Me - Acoustic",
       "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
@@ -961,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183644,
+      "name": "Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+    },
+    {
+      "album": {
         "name": "Higher Power (Acoustic Version)",
         "url": "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By"
       },
@@ -1479,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Kill Bill (Acoustic)",
+        "url": "https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168608,
+      "name": "Kill Bill - Acoustic",
+      "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
+    },
+    {
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
       },
@@ -1620,7 +1674,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161028,
       "name": "Life Goes On - Acoustic",
       "url": "https://open.spotify.com/track/0QPiTFqPuUt6NPcJGv5E9u"

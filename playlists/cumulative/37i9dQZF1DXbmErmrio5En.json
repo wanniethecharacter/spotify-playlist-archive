@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "better off dead",
+        "url": "https://open.spotify.com/album/00N0Z98MyHDseMugQdNYKd"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "better off dead",
+      "url": "https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN"
+    },
+    {
+      "album": {
         "name": "biteback",
         "url": "https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP"
       },
@@ -757,6 +775,24 @@
     },
     {
       "album": {
+        "name": "highscore!",
+        "url": "https://open.spotify.com/album/11mhTCGVCQjg2t13MXHRcX"
+      },
+      "artists": [
+        {
+          "name": "cudos",
+          "url": "https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "highscore!",
+      "url": "https://open.spotify.com/track/2crXnfUgYV2a5yfMWOmQdT"
+    },
+    {
+      "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5"
       },
@@ -808,6 +844,28 @@
       "duration_ms": 166727,
       "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
       "url": "https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI"
+    },
+    {
+      "album": {
+        "name": "don't change the channel",
+        "url": "https://open.spotify.com/album/0UO2ggBcfUbwZwjWR7JTWO"
+      },
+      "artists": [
+        {
+          "name": "yung van",
+          "url": "https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b"
+        },
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181727,
+      "name": "I can't save myself",
+      "url": "https://open.spotify.com/track/44o1dpWuXgNN56hKOJLnUX"
     },
     {
       "album": {
@@ -1354,6 +1412,24 @@
       "duration_ms": 117774,
       "name": "play pretend",
       "url": "https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS"
+    },
+    {
+      "album": {
+        "name": "prettynames",
+        "url": "https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN"
+      },
+      "artists": [
+        {
+          "name": "not dvr",
+          "url": "https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161256,
+      "name": "prettynames",
+      "url": "https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF"
     },
     {
       "album": {

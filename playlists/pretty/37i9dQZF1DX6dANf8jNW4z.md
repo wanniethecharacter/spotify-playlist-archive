@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Nuestra embajadora Lola Indigo es la co\-editora de esta lista llena de talento femenino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,085 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,096 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 33 | [Big Bang](https://open.spotify.com/track/7ztCPFuZ2wD0C9VHQsLDHd) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Big Bang](https://open.spotify.com/album/65BnTILTduIpEqP6YWHoIg) | 2:29 |
 | 34 | [Con Amor](https://open.spotify.com/track/7FOkzRqjgfq00BwB80Tmnk) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Con Amor](https://open.spotify.com/album/1H4ZdEPVmXW8kRDNkOJC6x) | 3:26 |
 | 35 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
-| 36 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/0Nsi4QYe7dSV1EGWeD4Ina) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Yes Sir, I Can Boogie](https://open.spotify.com/album/1RL06GXjm2fC8w0eYYWsOc) | 3:53 |
+| 36 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/0Nsi4QYe7dSV1EGWeD4Ina) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk), [Fertita](https://open.spotify.com/artist/22RXUzrzdUX8rCfv7zLIJm) | [Yes Sir, I Can Boogie](https://open.spotify.com/album/1RL06GXjm2fC8w0eYYWsOc) | 3:53 |
 | 37 | [Demasiada velocidad](https://open.spotify.com/track/3DvtwdsEPyu2Cqz4IPbKxP) | [Maīa](https://open.spotify.com/artist/3DcBIxPLJt5OOCsATJe4qB) | [Demasiada velocidad](https://open.spotify.com/album/7EItaNyfMy1wLgFxCVghbZ) | 3:19 |
 | 38 | [Un riu, una platja](https://open.spotify.com/track/5KLHI3cA6IX9cb2b8JL49M) | [GUINEU](https://open.spotify.com/artist/71LogL8lYEei6YssB4RyVD) | [Una sacsejada](https://open.spotify.com/album/2UzQXlICcimPrOGdoOLQea) | 2:56 |
 | 39 | [CLUB](https://open.spotify.com/track/2d1GlsvP1CPSztWlhX8N1Q) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [Maria Hein](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI) | [CLUB](https://open.spotify.com/album/2A2sHVWNu1LsdhHMWfaWYU) | 3:09 |

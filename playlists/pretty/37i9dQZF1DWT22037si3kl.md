@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Oruam, Borges, Chefin
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,091 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,273 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 47 | [Características](https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS) | [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Núcleo Label](https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55) | [Características](https://open.spotify.com/album/0mKyxZHRR7sS6EK2xl5nlv) | 2:20 |
 | 48 | [Bulova](https://open.spotify.com/track/2utE4jw3WNuowCyUFxLbTf) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Ornellas](https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH) | [Bulova](https://open.spotify.com/album/2m3g0xp5U8fdwPrfWiHKXT) | 3:10 |
 | 49 | [Ford Ka](https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Ford Ka](https://open.spotify.com/album/35leKTbOBMKbwK9EPCMBfL) | 2:29 |
-| 50 | [Dores](https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Dores](https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n) | 3:15 |
+| 50 | [Taycan / Quintal da Laia](https://open.spotify.com/track/2DLJ3HNbxprG74FvT4j8VR) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Taycan / Quintal da Laia](https://open.spotify.com/album/1mQ5ixHK9Ev5qYX88N7M6D) | 2:38 |
 
-Snapshot ID: `MTY3NzgxMjQ2MCwwMDAwMDAwMDZiN2QyZmQ2MmY4YzU2NWRmZDE2NWFlYjIxOTMxYTkz`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDk1ZGYxYjRiMDUwMmVhZmFiOWI4YmRkZTUyNGRiZTBh`

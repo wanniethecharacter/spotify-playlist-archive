@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,481 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,642 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 34 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
 | 35 | [Don't Ever](https://open.spotify.com/track/1VlTXiHOAbQf7eXe15gBU9) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Don't Ever](https://open.spotify.com/album/3eMBkyz6Jilgc7OMLcduCg) | 4:30 |
 | 36 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
-| 37 | [Temperatures Rising](https://open.spotify.com/track/46jyHtJNVXtSpiC28yPU7d) | [Saikon](https://open.spotify.com/artist/707ZRpYLs1GDIhrAieihDG) | [Makeda EP](https://open.spotify.com/album/5r3rzzgTCxYmRYucoURrpP) | 4:58 |
-| 38 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
+| 37 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
+| 38 | [Temperatures Rising](https://open.spotify.com/track/46jyHtJNVXtSpiC28yPU7d) | [Saikon](https://open.spotify.com/artist/707ZRpYLs1GDIhrAieihDG) | [Makeda EP](https://open.spotify.com/album/5r3rzzgTCxYmRYucoURrpP) | 4:58 |
 | 39 | [Love Me, Haunt Me](https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Love Me, Haunt Me](https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye) | 4:09 |
 | 40 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
 | 41 | [Lonely Night \- Zero T's Setting Sun Remix](https://open.spotify.com/track/62xrslsJ8crkaQ8jdm3C35) | [Mango](https://open.spotify.com/artist/3bCIW0Hzkeswmblop0PGHD), [Mathman](https://open.spotify.com/artist/1AWZ73rKG01b9UNJ8dG8m6) | [Lonely Night \(Zero T's Setting Sun Remix\)](https://open.spotify.com/album/4SMiTZjeFG0O7kCO8AyZtQ) | 4:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 46 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 | 47 | [Be Free](https://open.spotify.com/track/56lz6rWxzgLWYDmGXxkeJB) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3UcwpRzAtmNpWWW5gfJ58s) | 3:51 |
 | 48 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
-| 49 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 49 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
 
-Snapshot ID: `MTY3NDY2MDAxOCwwMDAwMDAwMDhlYzAxYzE1NzQ4YzNiZjNjNjQwM2NmMTlkZjEyODYx`
+Snapshot ID: `MTY3NDY2MDAxOCwwMDAwMDAwMDhmY2U3NGY0NjdjMTNhYjZiNmQ3MDNhN2NiYjkxYTEx`

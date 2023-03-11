@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,078 likes - 82 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,107 likes - 82 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 17 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 |
 | 18 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
 | 19 | [40 %](https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [40 %](https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS) | 4:38 |
-| 20 | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 |
+| 20 | [Ayibobo](https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Lenny Auguste](https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC) | [Ayibobo](https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ) | 3:28 |
 | 21 | [$payforhaiti \(feat\. Mach\-Hommy\)](https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:03 |
-| 22 | [Ayibobo](https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Lenny Auguste](https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC) | [Ayibobo](https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ) | 3:28 |
+| 22 | [3 Words \(feat\. Leven Kali\)](https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Law of Automata: Valid](https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN) | 3:20 |
 | 23 | [Melanin](https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Melanin](https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN) | 2:13 |
 | 24 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 |
 | 25 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 36 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
 | 37 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
 | 38 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
-| 39 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
-| 40 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
+| 39 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
+| 40 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 41 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
 | 42 | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Meer Colon](https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP) | [Show Me Love \(feat\. Meer Colon\)](https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ) | 2:48 |
 | 43 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 81 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 | 82 | [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 |
 
-Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDBjZmExNTUyZDVjNzg5YjY2N2FkNWQwMzRmMTVjODc1`
+Snapshot ID: `MTY3NjY3MzYwOCwwMDAwMDAwMDA3OTY0Nzg5ODhmMWMwZWIwZjMxYjNlOWYzZjUzMTRi`

@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 199275,
       "name": "Affliction",
       "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Bone Breaker",
+        "url": "https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Bone Breaker",
+      "url": "https://open.spotify.com/track/6t7QJBcI7xDcjKjRO4mBDf"
+    },
+    {
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR"
       },
@@ -828,7 +850,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 201931,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 187000,
       "name": "Cheatcode",
       "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 158035,
       "name": "Fire Dance",
       "url": "https://open.spotify.com/track/1gf1zXY3P0YVhU3OVMMUDo"
@@ -2294,7 +2316,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 185378,
       "name": "FUNNYFACE",
       "url": "https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba"
@@ -2954,7 +2976,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 222861,
       "name": "Invane",
       "url": "https://open.spotify.com/track/5GXQKVMqoz4jBQA6Botohj"
@@ -3930,7 +3952,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 226285,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
@@ -4296,7 +4318,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 200857,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP"
@@ -5071,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Shank",
+        "url": "https://open.spotify.com/album/7FHVGQCCAxhEeDWbEEuMZS"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Shank",
+      "url": "https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK"
+    },
+    {
+      "album": {
         "name": "IN CASE OF FIRE EP",
         "url": "https://open.spotify.com/album/50xJ464PqppzDAKiu1sDM6"
       },
@@ -5136,7 +5176,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 205594,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT"
@@ -6196,6 +6236,24 @@
       "duration_ms": 228000,
       "name": "Transmutation Sequence",
       "url": "https://open.spotify.com/track/2BPxRZ38SsDjqJZhGTRuZr"
+    },
+    {
+      "album": {
+        "name": "Trauma Queen",
+        "url": "https://open.spotify.com/album/7sle2dPfKb5BMTocLlt0Bn"
+      },
+      "artists": [
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Trauma Queen",
+      "url": "https://open.spotify.com/track/1kIXXNc6CUbi0xbnpSHJRc"
     },
     {
       "album": {

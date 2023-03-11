@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-102 songs - 6 hr 49 min
+103 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Neevuntey Chaalu](https://open.spotify.com/track/4Yi86fQx0GHStCZZNIQAY8) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Michael \(Telugu\)](https://open.spotify.com/album/72VOf6gnaZs5Hj4Flex9qS) | 3:48 | 2023-02-04 |  |
 | [Ninne Thaladanne \- From "The Life Of Muthu"](https://open.spotify.com/track/7fdjQVY9LFagl8kzwSVdLr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Ninne Thaladanne \(From "The Life Of Muthu"\)](https://open.spotify.com/album/1AoDAAYvx43fGsk6P195jz) | 4:54 | 2022-09-12 | 2023-02-21 |
 | [Ninnele](https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 4:00 | 2022-04-04 | 2023-02-21 |
+| [Ninnu Choosi Choodanga](https://open.spotify.com/track/5ab5N1AiyDJBxZ1237eBqS) | [Shravan Bharadwaj](https://open.spotify.com/artist/4NJ8t2GbuELfOCiLIfVVOW), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Katha Venuka Katha](https://open.spotify.com/album/2jFleBZRXrLDcBHKACAucc) | 3:30 | 2023-03-10 |  |
 | [Ninnu Chusaka](https://open.spotify.com/track/6YXxe13PhXwODIjbIfIYQX) | [Junaid Kumar](https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN) | [Sridevi Shoban Babu](https://open.spotify.com/album/0MJhgnMFGR6DlPVWdm48yJ) | 4:18 | 2023-02-15 |  |
 | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/track/6ijwldopdkwAHwVg2dB5z0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikar Velamuri](https://open.spotify.com/artist/3QuHNeC4BclLeAelyZO4MO) | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/album/6uHpm30bYnsn9YL4JzVQrR) | 3:16 | 2022-06-30 |  |
 | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\)](https://open.spotify.com/track/0IcuXHf69ZuBAiarYrnY4V) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TTmIcGu9BzL3JSRX2DDdQ) | 5:00 | 2023-02-09 |  |

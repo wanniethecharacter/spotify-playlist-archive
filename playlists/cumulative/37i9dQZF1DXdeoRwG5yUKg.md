@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-137 songs - 9 hr 36 min
+138 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 | 2020-12-08 |  |
 | [Handle Me with Care](https://open.spotify.com/track/3mL3yHCMcY5NfvEo1KxZpP) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/2imCmg8SU9Cms5BS8RWfkI) | 7:15 | 2020-12-08 | 2022-10-22 |
 | [Haunted by You](https://open.spotify.com/track/03hLqqYkI9NrrkyCd6IbAg) | [Caitlin Krisko & The Broadcast](https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY) | [Haunted by You](https://open.spotify.com/album/7iryZotVB6K4OtMufi4Tfm) | 4:42 | 2022-10-14 |  |
+| [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 |  |
 | [Hearts](https://open.spotify.com/track/2rPiEp1fCw6lTF9NWsO8XH) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 5:13 | 2020-11-05 | 2022-09-03 |
 | [Heavenly](https://open.spotify.com/track/7tLvtMMRMSzxqT6wTfGuAI) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Heavenly](https://open.spotify.com/album/6pYjhJeycyRubBoSv2RGjN) | 3:32 | 2020-11-05 |  |
 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 | 2021-04-09 | 2022-07-29 |

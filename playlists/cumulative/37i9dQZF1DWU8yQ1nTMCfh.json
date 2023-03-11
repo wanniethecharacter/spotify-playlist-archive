@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Los Mesoneros",
+  "description": "Las nuevas vibras del rock en Espa\u00f1ol. Cover: Marilina Bertoldi",
   "name": "Rock Total",
   "tracks": [
     {
@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "El Ding Dong",
+        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159829,
+      "name": "El Ding Dong",
+      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
+    },
+    {
+      "album": {
         "name": "Unas Vacaciones Raras",
         "url": "https://open.spotify.com/album/0WPmKeCtjDH4dxCuJeQqIj"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 228466,
       "name": "EL PUENTE",
       "url": "https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ"
@@ -1601,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "album": {
         "name": "Cascajo",
         "url": "https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr"
       },
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 169600,
       "name": "Miento",
       "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
@@ -2190,6 +2226,24 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206615,
+      "name": "Plaza en el cielo",
+      "url": "https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr"
     },
     {
       "album": {
@@ -3094,7 +3148,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"

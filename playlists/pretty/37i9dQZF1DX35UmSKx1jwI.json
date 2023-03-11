@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 83973,
+  "num_followers": 84019,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEyMjU1MiwwMDAwMDAwMGFkMTAyZTQyZmVmZDMxMDRmYjQ4N2U4ZWIyYTQ3Y2I5",
+  "snapshot_id": "MTY2OTEyMjU1MiwwMDAwMDAwMDA1NzNlNjliNDRmMmZkMjI0Zjc0NDkyM2I0YTIyNDk5",
   "tracks": [
     {
       "added_at": "2020-09-07 09:31:00",
@@ -1153,24 +1153,24 @@
       "url": "https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva"
     },
     {
-      "added_at": "2020-09-07 09:31:00",
+      "added_at": "2019-08-19 09:00:50",
       "album": {
-        "name": "House Arrest",
-        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+        "name": "Castles (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         },
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 216441,
-      "name": "House Arrest",
-      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
+      "duration_ms": 204000,
+      "name": "Castles - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
     }
   ],
   "unique_name": "Gym Beats",

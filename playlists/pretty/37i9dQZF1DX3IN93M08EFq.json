@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58461,
+  "num_followers": 58463,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDViMjQ5NTQ3MzRiZGQ0MmUwMDQwZGQ0YzMyOWQ4ZmEw",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDA5ZWQ1ODRjMDI2MzdlZTA3MzE4M2VmZjVkZDc1N2M4",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Plastic Bertrand",
-        "url": "https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq"
-      },
-      "artists": [
-        {
-          "name": "Plastic Bertrand",
-          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Ca Plane Pour Moi",
-      "url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Plastic Bertrand",
+        "url": "https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Ca Plane Pour Moi",
+      "url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g"
     },
     {
       "added_at": "2021-06-15 09:25:05",

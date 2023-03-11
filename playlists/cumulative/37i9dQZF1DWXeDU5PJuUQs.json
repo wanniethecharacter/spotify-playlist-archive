@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
@@ -1778,6 +1778,24 @@
       "duration_ms": 71981,
       "name": "Pupilas Lejanas - En Vivo",
       "url": "https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR"
+    },
+    {
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Noizu & Westend",
+  "description": "Tech house technicians, featuring LOVRA",
   "name": "Operator",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161251,
       "name": "All The Night",
       "url": "https://open.spotify.com/track/68DPFeawfvz8M6woXpUpF8"
@@ -5610,7 +5610,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 149760,
       "name": "Fly Me To Tulum",
       "url": "https://open.spotify.com/track/1UGPFz9rmBEJFBdAjUCpGj"
@@ -7322,7 +7322,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 144758,
       "name": "I Got The Cheese",
       "url": "https://open.spotify.com/track/37ZQ9egbyFrc9xk4O9fXBl"
@@ -10733,6 +10733,24 @@
     },
     {
       "album": {
+        "name": "Moving 2 The Future",
+        "url": "https://open.spotify.com/album/5YZUATxg4gASYVkzixcF8g"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368293,
+      "name": "Moving 2 The Future",
+      "url": "https://open.spotify.com/track/2r6u6Xz39eOTL39bwtqi7Z"
+    },
+    {
+      "album": {
         "name": "Moving All Around (Jumpin') (feat. Kim English) [John Summit Remix]",
         "url": "https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU"
       },
@@ -11196,6 +11214,28 @@
       "duration_ms": 377484,
       "name": "Never Thought [Printworks] - 623 Again Vocal",
       "url": "https://open.spotify.com/track/7FOwVHT3jfr2upIFLPwkxp"
+    },
+    {
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "album": {
@@ -14596,7 +14636,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-11",
       "duration_ms": 161250,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/4dqb9iCXJ7f1FrGNCEJukw"
@@ -17175,6 +17215,36 @@
     },
     {
       "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
         "name": "Together (Guz Remix)",
         "url": "https://open.spotify.com/album/5S8xlz1rr1X9SzJ5DyKZpb"
       },
@@ -18394,6 +18464,24 @@
       "duration_ms": 231750,
       "name": "What You Waiting For?",
       "url": "https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI"
+    },
+    {
+      "album": {
+        "name": "Whatchagonnado EP",
+        "url": "https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Whatchagonnado",
+      "url": "https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY"
     },
     {
       "album": {

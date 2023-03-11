@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-1,175 songs - 3 day 4 hr 53 min
+1,176 songs - 3 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [NEO時をかける少女](https://open.spotify.com/track/7wDSjOaAfSwyQz4fpjc4He) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [NEO時をかける少女](https://open.spotify.com/album/6Lu2olLkfVkUJZxlo3grQh) | 2:33 | 2023-02-16 | 2023-02-22 |
 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 | 2023-01-10 | 2023-01-12 |
 | [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 | 2023-01-10 | 2023-02-18 |
+| [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-03-09 |  |
 | [Never going back](https://open.spotify.com/track/56FDc2R7i8x9WiNeOEJVp4) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Never going back](https://open.spotify.com/album/7k3P0S9TBThJOMytSU6KZK) | 3:48 | 2022-06-30 | 2022-07-02 |
 | [Neverland](https://open.spotify.com/track/1BxnL3aEItRwwdclyksOpQ) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Neverland](https://open.spotify.com/album/0yJdJurfPk87zYjirjJvRx) | 3:10 | 2023-02-21 | 2023-03-08 |
 | [New Life](https://open.spotify.com/track/6bV1wH2YpYrMv3GB7v892I) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [New Life](https://open.spotify.com/album/4UIP2Smckh0TOMFVNsC1mX) | 3:00 | 2022-07-14 | 2022-07-19 |
@@ -913,7 +914,7 @@
 | [初恋が泣いている](https://open.spotify.com/track/1vT6VdL9PrHOBziwubdt29) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [初恋が泣いている](https://open.spotify.com/album/3VEglNaW4ojsqUKftqryRf) | 3:59 | 2022-05-29 | 2022-07-24 |
 | [初恋が泣いている](https://open.spotify.com/track/2qJknEIv5MCKjHG6LNLZvj) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:59 | 2022-08-18 | 2022-08-20 |
 | [初恋は](https://open.spotify.com/track/7ySqZBex82WHNXxuAdtQWt) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [初恋は](https://open.spotify.com/album/50PHL83RxPE1uECcv2ZxQZ) | 4:35 | 2023-02-14 | 2023-02-22 |
-| [初雪](https://open.spotify.com/track/2zIht1HPxFqj3KEwqYdTFK) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [初雪](https://open.spotify.com/album/6pK4fxdjZhvFuzRDdfVw6X) | 3:01 | 2023-01-17 |  |
+| [初雪](https://open.spotify.com/track/2zIht1HPxFqj3KEwqYdTFK) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [初雪](https://open.spotify.com/album/6pK4fxdjZhvFuzRDdfVw6X) | 3:01 | 2023-01-17 | 2023-03-11 |
 | [刺激による彼ら](https://open.spotify.com/track/6pmrBEDpexl95jmAta5MB3) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [刺激による彼ら](https://open.spotify.com/album/7qpoDHk7mpoDBtLFS7eJtp) | 4:22 | 2022-08-23 | 2022-08-31 |
 | [前説ADvance](https://open.spotify.com/track/4BmL1q2aXSsgOJkGExlIjZ) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [前説ADvance](https://open.spotify.com/album/7B3cMK62VedHD4Jjqf7Fce) | 4:11 | 2022-08-30 | 2022-09-07 |
 | [劇場](https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 5:58 | 2022-06-02 | 2022-07-27 |

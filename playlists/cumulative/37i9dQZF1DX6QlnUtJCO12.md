@@ -4,7 +4,7 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-64 songs - 3 hr 33 min
+65 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Never Ever Worry](https://open.spotify.com/track/3uE71mii5hy053sB8tiQkp) | [Pretender](https://open.spotify.com/artist/4Es1oP3MshjrETWIZlUqyV) | [Trini Gold](https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji) | 5:33 | 2021-04-23 | 2022-11-13 |
 | [Never Ever Worry](https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:36 | 2021-04-23 |  |
 | [No Melda](https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Doctor Kitch](https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa) | 2:35 | 2021-04-23 |  |
-| [One Morning](https://open.spotify.com/track/6N8UUBvP8x2AP6PIBpghdV) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 2:56 | 2021-04-23 |  |
+| [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 | 2021-04-23 |  |
+| [One Morning](https://open.spotify.com/track/6N8UUBvP8x2AP6PIBpghdV) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Best Music of Trinidad \- Calypso and Parang Classics](https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz) | 2:56 | 2021-04-23 | 2023-03-11 |
 | [One Morning](https://open.spotify.com/track/31wt5kpN4oS5UX9qBa5LsO) | [Lord Beginner](https://open.spotify.com/artist/1RsidBdQh9dqKrDdVDX7Yq) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:57 | 2021-04-23 | 2022-07-29 |
 | [Poor but Ambitious](https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Calypso Way](https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR) | 3:07 | 2021-04-23 |  |
 | [Rum & Coca Cola](https://open.spotify.com/track/1sJIFhjOaBmlodsqybKqiF) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Rough Guide To Calypso Gold](https://open.spotify.com/album/5VIf7qataA0OtBKwbJLN1x) | 4:10 | 2021-04-23 | 2022-07-29 |

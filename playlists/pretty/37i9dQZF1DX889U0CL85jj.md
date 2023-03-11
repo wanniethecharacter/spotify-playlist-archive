@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415,530 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415,734 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 136 | [The Shaman](https://open.spotify.com/track/7FzTEzwDcjfxCFlNGkkrAU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Shaman](https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir) | 2:36 |
 | 137 | [When Will I Learn](https://open.spotify.com/track/4fhDUKvSmbTtK4yrwV29Q2) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [A Force Majeure](https://open.spotify.com/album/3JQs8Qu80vtIekyP8JIrDH) | 2:49 |
 | 138 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
-| 139 | [Love and Hate in a Different Time \- Demo](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
+| 139 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
 | 140 | [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 |
 | 141 | [Queen of Paisley](https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [Queen of Paisley](https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF) | 4:04 |
 | 142 | [Fleur Blanche](https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb) | [Örsten](https://open.spotify.com/artist/2WSzphbmFHDqz6K17xLjcI) | [Cutworks](https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW) | 4:12 |
