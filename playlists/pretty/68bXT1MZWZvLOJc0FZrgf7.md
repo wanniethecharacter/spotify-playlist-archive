@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Calvin Harris &amp; Ellie Goulding
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,021 likes - 111 songs - 6 hr 5 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,018 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

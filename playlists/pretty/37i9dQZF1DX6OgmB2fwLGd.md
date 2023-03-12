@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,112 likes - 98 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,743 likes - 98 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 24 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 25 | [ascend.mp3](https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl) | [mimofr](https://open.spotify.com/artist/6z69NxGmRyHCMFhOZ8H1Va) | [ascend.mp3](https://open.spotify.com/album/3EbJ2nv3t3hByvhI9Xozcv) | 4:16 |
 | 26 | [Throw It!](https://open.spotify.com/track/3fPZNaoKrRFmZQKj87pBrP) | [Spiffy The Goat](https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32) | [Throw It!](https://open.spotify.com/album/6iCdaedhXedQ5RkV6jSNGb) | 2:23 |
-| 27 | [Tesla](https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR) | 2:12 |
+| 27 | [Tesla](https://open.spotify.com/track/0HnqWiIHn9Q09QQC9EwTAT) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/3vtaY6uchysQRyRYztvpQ7) | 2:12 |
 | 28 | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(featuring NLE Choppa\)](https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA) | 2:49 |
 | 29 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
 | 30 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 97 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 |
 | 98 | [COINCIDENCE](https://open.spotify.com/track/4Y3E5Y3kaBJqFc1vmSyg7V) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 2:03 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDNkNzg3NzM0MjZlOGI4ZWFjZGM3ODBkZjJlMGI0NDAw`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDg2ZTE2YjY5OWU1ZGIyYzI2NGVlYmVjOGMwZjg3Yzk2`

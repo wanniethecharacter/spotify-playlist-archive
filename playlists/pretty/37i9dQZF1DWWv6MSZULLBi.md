@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,812 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,827 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 5 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 |
 | 6 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 7 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
-| 8 | [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 |
+| 8 | [just wanna forget you](https://open.spotify.com/track/1KoKAKqq7vOV0Za6ZE1lkQ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:49 |
 | 9 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 10 | [You and Me](https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [You and Me](https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a) | 3:14 |
 | 11 | [Pearl](https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/75iDlOeKjJUihaEryUECiH) | 5:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 | 100 | [The Sweetest Lie](https://open.spotify.com/track/3M0hEMN4OZSet5nnh1PKGZ) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Sweetest Lie](https://open.spotify.com/album/6tGjHzgMwiHP7oVKzFofVF) | 2:33 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGUzMmM0NGM1YzNjMWM4OWNhZmExMGE1MDc2NTMyNWYy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQ5ZTk3ZWNkMWIwYWE3Y2FjYWM2MWRiODFjMzc1NTY5`

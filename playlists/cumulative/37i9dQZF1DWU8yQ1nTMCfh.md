@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en Español\. Cover: Marilina Bertoldi
 
-170 songs - 9 hr 34 min
+172 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Corto Circuito](https://open.spotify.com/track/2QRDPXSOlA03Tj6BHPIjH9) | [Sierra León](https://open.spotify.com/artist/0cyhvPv23KSGqLirkaCPyV) | [Corto Circuito](https://open.spotify.com/album/7iLicaTgffN4CToV3nhSv6) | 2:19 | 2022-04-15 | 2022-12-10 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-04-15 | 2023-01-23 |
 | [Cosas \- En Vivo](https://open.spotify.com/track/785NJtM6mR2P6HGO01daQc) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Ya No Estamos Tan Solos \(En Vivo\)](https://open.spotify.com/album/6Heut2zfILDHR5Z7KoRWlN) | 3:32 | 2022-04-15 | 2022-12-10 |
+| [Cuenta conmigo](https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Cuenta conmigo](https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6) | 2:46 | 2023-03-10 |  |
 | [Cuesta Arriba](https://open.spotify.com/track/2sSKTls9xVXRnVUe0g8v6O) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cuesta Arriba](https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU) | 2:44 | 2022-12-09 |  |
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-12-09 | 2023-02-11 |
 | [Dame Love \- Remix](https://open.spotify.com/track/0j87wxNxOQtGxFckt6w820) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dame Love \(Remix\)](https://open.spotify.com/album/0nER2H7WylrN5QzZ39aRnR) | 3:11 | 2022-04-15 | 2022-09-07 |
@@ -91,7 +92,7 @@
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
 | [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 | 2022-12-24 |
-| [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 | 2022-12-23 |  |
+| [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 | 2022-12-23 | 2023-03-12 |
 | [Los Cobardes Viven Siempre](https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx) | 3:34 | 2023-01-20 |  |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 | 2023-02-26 |
@@ -99,6 +100,7 @@
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
 | [MARTIRIO](https://open.spotify.com/track/2W0IAUsjR26coSOvppEpKx) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MARTIRIO](https://open.spotify.com/album/6oyeToNU5s7ZGttwTZ8EDF) | 4:04 | 2022-04-15 | 2022-12-24 |
+| [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 | 2023-03-10 |  |
 | [Men vs Men](https://open.spotify.com/track/0hYb8esbOsGwnqmfSDhGNV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Men vs Men](https://open.spotify.com/album/6Ha8T2JkW1ExteeCapbbWr) | 2:19 | 2022-04-15 | 2022-12-10 |
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-01-20 |  |
 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-02-24 | 2023-03-11 |
@@ -161,7 +163,7 @@
 | [Todo está bien](https://open.spotify.com/track/7mDCKxyt76ao6zoqQb1fiv) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Todo está bien](https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0) | 6:16 | 2022-12-16 |  |
 | [Todo Lo Que Siento](https://open.spotify.com/track/5TXAz4xkugCDaACTdtANKN) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:17 | 2022-07-19 | 2022-12-10 |
 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 | 2022-04-15 | 2022-12-10 |
-| [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 | 2023-02-24 |  |
+| [Traidora](https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Traidora](https://open.spotify.com/album/46yK79DN46OjOnQusajJb0) | 3:10 | 2023-02-24 | 2023-03-12 |
 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 | 2023-03-03 |  |
 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 | 2022-12-16 | 2023-03-04 |
 | [Tres de la Mañana](https://open.spotify.com/track/08eri7cwIdWuJrlFrcPH3M) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [El Shirota \(ESH002\)](https://open.spotify.com/album/0tC6X64WVn71CSRDeLljQ8) | 4:35 | 2022-04-15 | 2022-12-10 |

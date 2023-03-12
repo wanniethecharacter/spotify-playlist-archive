@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 288519,
       "name": "Dos Oruguitas - From \"Encanto\" (Feat. Sebasti\u00e1n Yatra)",
       "url": "https://open.spotify.com/track/1H1YLuRIe5yOLnF4sPXKUE"
@@ -1816,6 +1816,24 @@
       "duration_ms": 198971,
       "name": "Haze Garden (Prayer)",
       "url": "https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd"
+    },
+    {
+      "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "Henry St.",
+      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
     },
     {
       "album": {
@@ -4179,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+    },
+    {
+      "album": {
         "name": "She Wanted To Leave",
         "url": "https://open.spotify.com/album/3kYxGeXYpPCsrfpRVCx7Gb"
       },
@@ -5824,7 +5860,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 201306,
       "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
       "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"

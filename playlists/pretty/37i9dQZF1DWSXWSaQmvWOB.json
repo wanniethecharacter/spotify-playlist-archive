@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 436721,
+  "num_followers": 436811,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM1MDI2OSwwMDAwMDAwMDdlOGNjZGIxNzZmNTk1Zjc0ZWQ1YTNiZjY3MmFmNjVl",
+  "snapshot_id": "MTY3ODM1MDI2OSwwMDAwMDAwMDExZGVlODE1NzA1ODNjMzI3OTJlZTU4MzdkNmMwMGQy",
   "tracks": [
     {
       "added_at": "2023-03-09 08:24:29",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/05PBmybm2MvHvcb7n3Vn3r"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 278536,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1tuhxHYZTrfefeO5zqfFSm"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/05PBmybm2MvHvcb7n3Vn3r"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 278536,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1tuhxHYZTrfefeO5zqfFSm"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -427,6 +427,26 @@
       "duration_ms": 273609,
       "name": "What Did You Mean by Love?",
       "url": "https://open.spotify.com/track/18NblhNZmwp79duZn3WzFj"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Sage Motel",
+        "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Sage Motel",
+      "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -483,26 +503,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Sage Motel",
-        "url": "https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        },
-        {
-          "name": "Kelly Finnigan",
-          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Sage Motel",
-      "url": "https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Fun Machine: The Sequel",
         "url": "https://open.spotify.com/album/5O41WrYns4BBDOtvVx1JFM"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Multiply",
         "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 236136,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "90s",
-        "url": "https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR"
-      },
-      "artists": [
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "90s",
-      "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
         "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 186965,
       "name": "Everybody Watching",
       "url": "https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "90s",
+        "url": "https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "No Tears In My Champagne",
-        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 136644,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207804,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "No Tears In My Champagne",
+        "url": "https://open.spotify.com/album/4ujCWLQDODyVswepp36uhF"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 136644,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7L6HxZtyyy9lTekAmP25KX"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
+        "name": "Feel It Comin",
+        "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 205685,
+      "name": "Feel It Comin - Single Version",
+      "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
         "name": "Our Time Our Music",
         "url": "https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 320866,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
-        "name": "Feel It Comin",
-        "url": "https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 205685,
-      "name": "Feel It Comin - Single Version",
-      "url": "https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Those Days Are Over",
-        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Every Day and Every Night",
-      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 244560,
       "name": "I Miss You Baby, Pt. 1",
       "url": "https://open.spotify.com/track/2TN9b4mxmXeA6bXJWTMxuZ"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Those Days Are Over",
+        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Every Day and Every Night",
+      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Two Jobs",
-        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Two Jobs",
-      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Operation Funk",
         "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 276401,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Two Jobs",
+        "url": "https://open.spotify.com/album/7J18RXIKdZUqS7qWzqblGG"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Two Jobs",
+      "url": "https://open.spotify.com/track/4Tdlo4nbfsb0v9ze1Qthax"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 195133,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "duration_ms": 268211,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
         "name": "Help Yourself",
         "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Those Days Are Over",
-        "url": "https://open.spotify.com/album/27umoSQzOA6uPJpUY5TySs"
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
       },
       "artists": [
         {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
-      "duration_ms": 218536,
-      "name": "Those Days Are Over",
-      "url": "https://open.spotify.com/track/0I9tMEnJzW5jme9jbpvmND"
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
-      },
-      "artists": [
-        {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
         "name": "Unify",
         "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
       },
@@ -1659,18 +1659,34 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "Liquid Spirits",
+          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
         }
       ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
+      "duration_ms": 169986,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3"
+    },
+    {
+      "added_at": "2023-03-09 08:24:29",
+      "album": {
+        "name": "Those Days Are Over",
+        "url": "https://open.spotify.com/album/27umoSQzOA6uPJpUY5TySs"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 218536,
+      "name": "Those Days Are Over",
+      "url": "https://open.spotify.com/track/0I9tMEnJzW5jme9jbpvmND"
     },
     {
       "added_at": "2023-03-09 08:24:29",
@@ -1727,34 +1743,18 @@
     {
       "added_at": "2023-03-09 08:24:29",
       "album": {
-        "name": "I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
       "artists": [
         {
-          "name": "Josh Tatofi",
-          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 268211,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
-    },
-    {
-      "added_at": "2023-03-09 08:24:29",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     }
   ],
   "unique_name": "Soul 'n' the City",

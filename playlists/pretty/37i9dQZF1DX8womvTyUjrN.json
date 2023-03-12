@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Nicki Nicole",
-  "num_followers": 273119,
+  "num_followers": 273179,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGFkYTJiYTMwZmZmMmM4ODMwZDVkNWFkZWVmZDdjYWRl",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGE4NTA4MGZlYmRiMDM1YTk0YmRlZjEwMjg5OTgyOTM1",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Yo Te Dir\u00e9",
         "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -587,6 +587,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "MOTEL CALIFORNIA",
+        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "MOTEL CALIFORNIA",
+      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Bora Bora",
         "url": "https://open.spotify.com/album/2PnRPLXqb7SHg141358iah"
       },
@@ -631,26 +651,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "MOTEL CALIFORNIA",
-        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "MOTEL CALIFORNIA",
-      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Corriendo Con Tijeras",
         "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 195133,
       "name": "Corriendo Con Tijeras",
       "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "NUNCA PASAR\u00c1",
-      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "NUNCA PASAR\u00c1",
+      "url": "https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Ajedrez",
         "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
       },
@@ -719,6 +719,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "lo que hay x aqu\u00ed",
+        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 155031,
+      "name": "lo que hay x aqu\u00ed",
+      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -731,6 +763,42 @@
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Los Hombres Son Todos Iguales",
+        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Los Hombres Son Todos Iguales",
+      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -755,38 +823,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Los Hombres Son Todos Iguales",
-        "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Los Hombres Son Todos Iguales",
-      "url": "https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -799,26 +835,6 @@
       "duration_ms": 214573,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 155498,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Pl\u00e1stico",
-        "url": "https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN"
     }
   ],
   "unique_name": "el nuevo pop",

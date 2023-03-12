@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 165311,
+  "num_followers": 165397,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDZmZjQyMmQ2MDE2MDdlMzllMDU0NjkyYmQ5YjI5OWE5",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDIwMzk5YTIxZTM1Yjk4OTc2ZDVjNTMwNDlmNzcyZjU2",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Heaven Is Where You Are",
-        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
       "artists": [
         {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 198835,
-      "name": "Heaven Is Where You Are",
-      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+      "duration_ms": 347893,
+      "name": "There Is a Cloud",
+      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Heaven Is Where You Are",
+        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 347893,
-      "name": "There Is a Cloud",
-      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
+      "duration_ms": 198835,
+      "name": "Heaven Is Where You Are",
+      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 258213,
-      "name": "Overflow (Live)",
-      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 332604,
       "name": "We Will Not Be Shaken - Live",
       "url": "https://open.spotify.com/track/1eZYPovTvmxk3QlVD2VpCX"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 258213,
+      "name": "Overflow (Live)",
+      "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 264120,
+      "name": "Nothing Is Holding Me Back",
+      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 431933,
       "name": "To The End",
       "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Here On Earth",
-        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 264120,
-      "name": "Nothing Is Holding Me Back",
-      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1251,42 +1251,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Your Love is Strong",
-      "url": "https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Moments (Live)",
-        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "SarahBeth Smith",
-          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
-        }
-      ],
-      "duration_ms": 495226,
-      "name": "All Hail King Jesus - Live",
-      "url": "https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Moments: Mighty Sound",
         "url": "https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3"
       },
@@ -1307,6 +1271,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 276521,
+      "name": "Your Love is Strong",
+      "url": "https://open.spotify.com/track/5G1cfJXrmxRlxxvunorfWZ"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "How Can It Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 192933,
       "name": "Now is Forever - Bonus Track",
       "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/1WjKktf3q0AeA9My9MRPtp"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "SarahBeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        }
+      ],
+      "duration_ms": 495226,
+      "name": "All Hail King Jesus - Live",
+      "url": "https://open.spotify.com/track/6M6Vb22Nw9wqKP1HWVZWgB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        },
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
         }
       ],
-      "duration_ms": 214330,
-      "name": "You Won't Let Go",
-      "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"
+      "duration_ms": 315946,
+      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
+      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-        "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        },
-        {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 315946,
-      "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
-      "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
+      "duration_ms": 214330,
+      "name": "You Won't Let Go",
+      "url": "https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "SEU Worship (Live)",
-        "url": "https://open.spotify.com/album/0TqKuDcPHP3dtKBJSkQ7hx"
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 569320,
-      "name": "Sanctuary - Live",
-      "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
     }
   ],
   "unique_name": "Signs & Wonders",

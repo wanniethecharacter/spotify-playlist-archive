@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Shreya Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,749 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,240 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

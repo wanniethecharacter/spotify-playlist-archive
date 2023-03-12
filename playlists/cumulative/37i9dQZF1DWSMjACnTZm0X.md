@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=yhkjM4YgQcialbj\-N\_\-D4A">Mr Eazi</a>
 
-113 songs - 8 hr 25 min
+114 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2022-05-23 | 2022-08-05 |
 | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 | 2022-11-10 | 2022-12-17 |
 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 | 2023-03-02 |  |
-| [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-05-23 |  |
+| [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-05-23 | 2023-03-12 |
+| [Ghorba](https://open.spotify.com/track/4uiYmRLLqjlNTX7uGUdXVf) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/21TOT2INhGedNmSGzcpYt2) | 4:04 | 2023-03-02 |  |
 | [Global](https://open.spotify.com/track/2jOmnwTKCreSIpO6jNPb33) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Global](https://open.spotify.com/album/6GcabwyEVG6I28iqygw0p0) | 4:09 | 2022-10-31 |  |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-10 | 2023-03-03 |
 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 | 2022-05-23 | 2022-11-11 |

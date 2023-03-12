@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Sen Senra
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,782 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,813 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 23 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 |
 | 24 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
 | 25 | [Estrella](https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Estrella](https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8) | 3:18 |
-| 26 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 |
+| 26 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 |
 | 27 | [Alegría](https://open.spotify.com/track/2LDsSHfBfR3tLzMsZvldMC) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [Alegría](https://open.spotify.com/album/2VINANReG9de41qaxOydbo) | 2:31 |
 | 28 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 29 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 |

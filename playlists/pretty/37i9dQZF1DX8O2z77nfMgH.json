@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica nueva de toda la regi\u00f3n. Esta semana en portada: Maluma",
-  "num_followers": 926595,
+  "num_followers": 926696,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -168,12 +168,12 @@
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
           "name": "Genio",
           "url": "https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
           "name": "Juhn",
@@ -994,10 +994,6 @@
         {
           "name": "Oh'laville",
           "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        },
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
         }
       ],
       "duration_ms": 175171,

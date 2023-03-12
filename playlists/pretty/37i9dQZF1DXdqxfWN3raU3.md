@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Zöelle en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,249 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,285 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 33 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 |
 | 34 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
 | 35 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
-| 36 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 |
-| 37 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 |
+| 36 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 |
+| 37 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 |
 | 38 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
 | 39 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 |
 | 40 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 49 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
 | 50 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 
-Snapshot ID: `MTY3ODQ2MjYxMCwwMDAwMDAwMDgyNGM4MjhjMGYzMWY1NGZlZmE0ZmE2MTNmZTkzODA2`
+Snapshot ID: `MTY3ODQ2MjYxMCwwMDAwMDAwMDFjMjRiMzllODI2ZWQxMmRmODdkNzUzNGRhZGFjZmM3`

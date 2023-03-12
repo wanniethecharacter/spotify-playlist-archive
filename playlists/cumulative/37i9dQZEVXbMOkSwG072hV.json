@@ -8302,10 +8302,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "album": {
@@ -8332,7 +8350,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 181767,
       "name": "FOGO E GASOLINA",
       "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
@@ -9656,7 +9674,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 219954,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
@@ -11024,7 +11042,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
@@ -13664,7 +13682,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 202899,
       "name": "M\u00fasicas de amor nunca mais",
       "url": "https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq"
@@ -15734,7 +15752,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 121869,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/0IdkFyYIDMhJqz0NL5zCk9"
@@ -22980,6 +22998,24 @@
       "duration_ms": 105461,
       "name": "Vou Morar no Cabar\u00e9",
       "url": "https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll"
+    },
+    {
+      "album": {
+        "name": "Sentimento E Ousadia",
+        "url": "https://open.spotify.com/album/2yv3WXLmIShYryzpxAwJ5w"
+      },
+      "artists": [
+        {
+          "name": "Lipe Lucena",
+          "url": "https://open.spotify.com/artist/2hr2Pae57x29iMVqjKnHnf"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155595,
+      "name": "Vou Te Assumir",
+      "url": "https://open.spotify.com/track/4F4iKidqJGb5xNBGAcZVek"
     },
     {
       "album": {

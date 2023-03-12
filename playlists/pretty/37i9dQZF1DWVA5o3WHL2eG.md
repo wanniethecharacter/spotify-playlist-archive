@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Co\-curated by CATT\. Learn more in our playlist clips!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,739 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,791 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,40 +23,40 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Suzuki Swift](https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Suzuki Swift](https://open.spotify.com/album/7M0T6e64FpuuLSQ6BqeotP) | 3:22 |
 | 14 | [TRAUM](https://open.spotify.com/track/4DuzhtyeZ7SaKwzunko5lK) | [LIZ](https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm) | [TRAUM](https://open.spotify.com/album/0xXmLAbDru3u0VgNUzywpu) | 2:12 |
 | 15 | [Manchmal fehlst du](https://open.spotify.com/track/01pF5EBqcU3NpdmnvF2tBE) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Manchmal fehlst du](https://open.spotify.com/album/3MY1KU1jbMPBDJfRIc6406) | 2:46 |
-| 16 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 |
-| 17 | [tristesse](https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tristesse](https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS) | 3:00 |
-| 18 | [Notfallkontakt](https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Notfallkontakt](https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp) | 3:00 |
-| 19 | [Create](https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Create](https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq) | 3:54 |
-| 20 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
+| 16 | [tristesse](https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tristesse](https://open.spotify.com/album/6POvDmme72sKHApHzRqyzS) | 3:00 |
+| 17 | [Notfallkontakt](https://open.spotify.com/track/16OeWavQ9VW0lyrXIGcEiV) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Notfallkontakt](https://open.spotify.com/album/5nTfxllqpkVgBaV1p6o1bp) | 3:00 |
+| 18 | [Create](https://open.spotify.com/track/4yAK1AUtAxayjyuQDEoMSv) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Create](https://open.spotify.com/album/7caWffjtRMvvY2zvEvvVDq) | 3:54 |
+| 19 | [BBB \#40](https://open.spotify.com/track/75UAvAAZnHbKvkrC3kKdfN) | [TRINA](https://open.spotify.com/artist/7hLQp9nd2WwuSd9urqu3pJ) | [BBB \#40](https://open.spotify.com/album/5LuB1rFFATNhE2yKo17Stq) | 2:18 |
+| 20 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
 | 21 | [Boys Don't Cry](https://open.spotify.com/track/2aZwLAGErg6yY3i68sUDuw) | [ESKE](https://open.spotify.com/artist/4WBzXEnsUE7dpyKjrZnF5D) | [Boys Don't Cry](https://open.spotify.com/album/0KQ9iYi8d7uHcOQYMW8xye) | 3:05 |
-| 22 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
-| 23 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
-| 24 | [Winterherz](https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Winterherz](https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR) | 2:16 |
+| 22 | [ALL I WANT](https://open.spotify.com/track/076eiWHHHFGmjduZQM4v5G) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [ALL I WANT](https://open.spotify.com/album/715TgYzWSZPq3i2BB5sOaV) | 3:53 |
+| 23 | [Winterherz](https://open.spotify.com/track/3PI8dHTA2glK3zq0hm6tdW) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Winterherz](https://open.spotify.com/album/4RKvRoMWIeyCvg5jCqqoCR) | 2:16 |
+| 24 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
 | 25 | [Boxes](https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Boxes](https://open.spotify.com/album/5RYZA4UfF9LLPd3cmz4i1J) | 3:11 |
-| 26 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
-| 27 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 |
+| 26 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 |
+| 27 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
 | 28 | [Echt](https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Echt](https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde) | 2:56 |
-| 29 | [call me cat](https://open.spotify.com/track/1hkwO8e7X5wCgYEyod3jYE) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [call me cat](https://open.spotify.com/album/5FlC8xzZPpDAQQwKQPiT8U) | 2:20 |
-| 30 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 |
-| 31 | [Unter Uns](https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Unter Uns](https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP) | 3:13 |
-| 32 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 |
-| 33 | [Love Love Love](https://open.spotify.com/track/1wvPjbb1hqSmr69lTHsbbW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Oceanflower](https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR) | 3:46 |
-| 34 | [Tides](https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Tritoness & The Scent of Rain](https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC) | 2:52 |
-| 35 | [under pressure](https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [modern disaster](https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G) | 2:02 |
-| 36 | [magnetic wave](https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl) | [Lore Vain](https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5) | [magnetic wave](https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl) | 3:44 |
-| 37 | [Salt](https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Sophie Lindinger](https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G) | 4:06 |
-| 38 | [DIE LETZTE BRÜCKE](https://open.spotify.com/track/79K4Ca69oIZpWlRjpr28Xc) | [Charlotte Brandi](https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn) | [AN DEN ALPTRAUM](https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB) | 4:50 |
-| 39 | [Therapies](https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Therapies](https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5) | 3:09 |
-| 40 | [Only Human](https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ) | [Jaël](https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe) | [Only Human](https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS) | 3:25 |
-| 41 | [FUTURE KID](https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun) | [UMME BLOCK](https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk) | [FUTURE KID](https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA) | 3:39 |
-| 42 | [Closer](https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Closer](https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy) | 3:12 |
-| 43 | [Equalista](https://open.spotify.com/track/5N8rlTDQQXuxDfzmKGN3jU) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Equalista](https://open.spotify.com/album/4ZcVC1LJ2AbKVPwZyH00GR) | 3:50 |
-| 44 | [Blick](https://open.spotify.com/track/4ezrW9t7zRdIPPmlcIvKyj) | [ANIKA](https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg) | [Self Portrait No\. 1](https://open.spotify.com/album/5BZHMEPhbU6eRpKLCJboF9) | 3:03 |
-| 45 | [Opia](https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [Opia EP](https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn) | 7:19 |
+| 29 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 |
+| 30 | [Unter Uns](https://open.spotify.com/track/37rODg6X5gCPrxOw4cfp2O) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Unter Uns](https://open.spotify.com/album/7ABBR4IBQkgjeRZeHTR4BP) | 3:13 |
+| 31 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 |
+| 32 | [Love Love Love](https://open.spotify.com/track/1wvPjbb1hqSmr69lTHsbbW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Oceanflower](https://open.spotify.com/album/7rtpjReu5z6o9nVQew35YR) | 3:46 |
+| 33 | [Tides](https://open.spotify.com/track/2S4sNPPGvAx4J5vrMrI3Ay) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Tritoness & The Scent of Rain](https://open.spotify.com/album/7iM26B2rnhPRMwfXboYsCC) | 2:52 |
+| 34 | [under pressure](https://open.spotify.com/track/1ARrFsNHFca7pH9KhYqPSs) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [modern disaster](https://open.spotify.com/album/12ten6jqQnPFzNFW8QYE4G) | 2:02 |
+| 35 | [magnetic wave](https://open.spotify.com/track/0nwyYYdkOwGiwQNNLCUwSl) | [Lore Vain](https://open.spotify.com/artist/6DqrVKvdGRhx29OrkIolA5) | [magnetic wave](https://open.spotify.com/album/6Noy80dBq1RYXcXyM4rtfl) | 3:44 |
+| 36 | [Salt](https://open.spotify.com/track/2lPy2tSERqF7Hm542vqimv) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Sophie Lindinger](https://open.spotify.com/album/3l5jkXQVX52tNOur0DUZ3G) | 4:06 |
+| 37 | [DIE LETZTE BRÜCKE](https://open.spotify.com/track/79K4Ca69oIZpWlRjpr28Xc) | [Charlotte Brandi](https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn) | [AN DEN ALPTRAUM](https://open.spotify.com/album/1lsjKIqG8RfLmvx70Pn7YB) | 4:50 |
+| 38 | [Therapies](https://open.spotify.com/track/0fLmaubC2WTaLjVqnDoQEW) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Therapies](https://open.spotify.com/album/5Zk6aKDnOCgKsUYxNlYFx5) | 3:09 |
+| 39 | [Only Human](https://open.spotify.com/track/3msFndU6dPawydh1LtERRZ) | [Jaël](https://open.spotify.com/artist/0z0YozcOIqw3EDJnU2NgOe) | [Only Human](https://open.spotify.com/album/1RbYJYm3I6IXeVGwSzfutS) | 3:25 |
+| 40 | [FUTURE KID](https://open.spotify.com/track/3LdKBBMgYkSXV26BpLrCun) | [UMME BLOCK](https://open.spotify.com/artist/6o8ur7884OGIluc3crtSAk) | [FUTURE KID](https://open.spotify.com/album/3BkVD7Wl1uXB3cGESNsktA) | 3:39 |
+| 41 | [Closer](https://open.spotify.com/track/2FyNJ79bRat5riP6eyCAY2) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Closer](https://open.spotify.com/album/74BCmuVplEIbtDc4BpqIAy) | 3:12 |
+| 42 | [Equalista](https://open.spotify.com/track/5N8rlTDQQXuxDfzmKGN3jU) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Equalista](https://open.spotify.com/album/4ZcVC1LJ2AbKVPwZyH00GR) | 3:50 |
+| 43 | [Blick](https://open.spotify.com/track/4ezrW9t7zRdIPPmlcIvKyj) | [ANIKA](https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg) | [Self Portrait No\. 1](https://open.spotify.com/album/5BZHMEPhbU6eRpKLCJboF9) | 3:03 |
+| 44 | [Opia](https://open.spotify.com/track/2iuh1TuXGRxLvr2frc8HFA) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [Opia EP](https://open.spotify.com/album/7jjxWvwVRvMcPjhkjaOTAn) | 7:19 |
+| 45 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 |
 | 46 | [Hunger](https://open.spotify.com/track/7d9xvjLCcK0egWfG5i3LTS) | [AINIE](https://open.spotify.com/artist/4ws7LzBaXuN1H5b8FbLxqS) | [Amor](https://open.spotify.com/album/1wnqQGGmZi7o7jHZ8nhku4) | 2:36 |
 | 47 | [Core](https://open.spotify.com/track/72T42XJjVprSTUoQVrnPMt) | [Kya Kyani](https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL) | [Core](https://open.spotify.com/album/7vpe5uEzl2S7n4c6pmiV09) | 2:02 |
 | 48 | [Velvet Blue](https://open.spotify.com/track/58LP7YZDOmPXdMroezL9mx) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [Velvet Blue](https://open.spotify.com/album/4qSzQ5mn5XnineMIWl2xPA) | 1:04 |
 | 49 | [Lampenfieber](https://open.spotify.com/track/4N50G190dPvI2S9ISPK6jn) | [Ira Atari](https://open.spotify.com/artist/6xh4CCUrcNmMuODz3OKduD), [CØME](https://open.spotify.com/artist/46rcHr9d49gEy4nI8gjfNS) | [Lampenfieber](https://open.spotify.com/album/60RZBiq774g6lJ8YzvqVQq) | 3:05 |
 | 50 | [Power of Today](https://open.spotify.com/track/4g2eoUYfI9Ro3bEVClMMWI) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:19 |
 
-Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMDM2NTg2ZDlkNWZjMjAwZGJhOGFiMWM3NmQ5ZWE1YjQ0`
+Snapshot ID: `MTY3ODA5NTk4MSwwMDAwMDAwMDRlNDcxMmJjYmZlYzZiZmFlZGUwNGYwNWRmYzExNjU4`

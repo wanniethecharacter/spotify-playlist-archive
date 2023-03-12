@@ -1,12 +1,12 @@
 {
   "description": "Taking the big steps with Drum & Bass.",
-  "num_followers": 306102,
+  "num_followers": 306152,
   "original_name": "Stepping Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NjgwNSwwMDAwMDAwMGVmN2M3M2U4NDE4NTcyZTM0ZWYxMjg0NmNlYWNhNTRj",
+  "snapshot_id": "MTY3NjY2NjgwNSwwMDAwMDAwMDgwMjUyMWRlYTIwNDk4OTQwZmNiYWUyZGRjYmMwZGQ2",
   "tracks": [
     {
       "added_at": "2023-01-06 18:07:36",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Friends and Fam",
         "url": "https://open.spotify.com/album/6dSPW8TB4VsGsIe2S40AMD"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 180790,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/14m8zaNe63k0jBzsCs1Flv"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
+      },
+      "artists": [
+        {
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Heal Me (Spectrasoul Remix)",
-        "url": "https://open.spotify.com/album/60g7rBYssJdXgw8GCN8qfR"
-      },
-      "artists": [
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
-        },
-        {
-          "name": "SpectraSoul",
-          "url": "https://open.spotify.com/artist/5OvI3XKz7Y1TJAxPbn848T"
-        }
-      ],
-      "duration_ms": 206515,
-      "name": "Heal Me - Spectrasoul Remix",
-      "url": "https://open.spotify.com/track/1rPbnnDI0chsjw2WAwq7Qp"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Poveglia",
         "url": "https://open.spotify.com/album/2j3v5tjHZa2maBpncfEN7Q"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 290156,
       "name": "Poveglia",
       "url": "https://open.spotify.com/track/5FmD6Svf1V4A0ECU9wgsoq"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Heal Me (Spectrasoul Remix)",
+        "url": "https://open.spotify.com/album/60g7rBYssJdXgw8GCN8qfR"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        },
+        {
+          "name": "SpectraSoul",
+          "url": "https://open.spotify.com/artist/5OvI3XKz7Y1TJAxPbn848T"
+        }
+      ],
+      "duration_ms": 206515,
+      "name": "Heal Me - Spectrasoul Remix",
+      "url": "https://open.spotify.com/track/1rPbnnDI0chsjw2WAwq7Qp"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -567,30 +567,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/703rIQ63KazLUQbBUSlCx1"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 271542,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Good to Me",
-        "url": "https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 181724,
-      "name": "Good to Me",
-      "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Nothing For Free",
         "url": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
       },
@@ -763,26 +747,6 @@
       "duration_ms": 209515,
       "name": "Driver",
       "url": "https://open.spotify.com/track/1tm7cZeRQFQsc2Nrpv8PYj"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/1VTu7oss8WCM8VC4oLEsrg"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 220789,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/5gFeCFyZG6ZWOTbD1SzoVP"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -803,6 +767,42 @@
       "duration_ms": 272840,
       "name": "Rock It (Wilkinson Remix)",
       "url": "https://open.spotify.com/track/7aYilD8vBLICtiJ7Pt6XLY"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Good to Me",
+        "url": "https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "duration_ms": 181724,
+      "name": "Good to Me",
+      "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/1VTu7oss8WCM8VC4oLEsrg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 220789,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/5gFeCFyZG6ZWOTbD1SzoVP"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Metrik",
-          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
-        }
-      ],
-      "duration_ms": 250276,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Falling Down",
         "url": "https://open.spotify.com/album/2gH6ffMWP4qmEfThTGUqeu"
       },
@@ -923,6 +903,26 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "duration_ms": 250276,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
         "name": "Offender",
         "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 223448,
       "name": "Offender",
       "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "BARRICADE",
+        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "BARRICADE",
+      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -959,22 +975,6 @@
       "duration_ms": 201818,
       "name": "Shrine - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4WxCuK3Jle0OSqWvwbET3g"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
-        "name": "BARRICADE",
-        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "BARRICADE",
-      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1067,26 +1067,18 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "PAWWS",
-          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         }
       ],
-      "duration_ms": 331733,
-      "name": "Ray Of Sun - Sub Focus & Wilkinson",
-      "url": "https://open.spotify.com/track/4D6bJk8Ljhrcns6SOyg4kT"
+      "duration_ms": 248965,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1107,18 +1099,26 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
         }
       ],
-      "duration_ms": 248965,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
+      "duration_ms": 331733,
+      "name": "Ray Of Sun - Sub Focus & Wilkinson",
+      "url": "https://open.spotify.com/track/4D6bJk8Ljhrcns6SOyg4kT"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Say What You Want",
-        "url": "https://open.spotify.com/album/0VPNitgjEkHtyreOZaa1oK"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 240344,
-      "name": "Say What You Want",
-      "url": "https://open.spotify.com/track/7C0AmMGDeLY4JaDNZcBC4b"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/1mMpaRDvqcZJBBzGENDs6q"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 277765,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/7GmQ1s21F9APWVdA3IcEAc"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Say What You Want",
+        "url": "https://open.spotify.com/album/0VPNitgjEkHtyreOZaa1oK"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 240344,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/7C0AmMGDeLY4JaDNZcBC4b"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
+        "name": "Control Me",
+        "url": "https://open.spotify.com/album/4Wn6efpv8JniRyvLGk9ZAI"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 267907,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
-        "name": "Control Me",
-        "url": "https://open.spotify.com/album/4Wn6efpv8JniRyvLGk9ZAI"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "Good Enough / For Me (BCee Remix)",
-        "url": "https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 260344,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Sunchaser EP",
         "url": "https://open.spotify.com/album/2P6lUHlwK4E3SLSNEJEMfr"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 315172,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "Good Enough / For Me (BCee Remix)",
+        "url": "https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 260344,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
+        "name": "DISRUPTOR LP",
+        "url": "https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "duration_ms": 209137,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
         "name": "Push It To The Limit",
         "url": "https://open.spotify.com/album/0U8TlpV5LKhlh2aPJ0svyc"
       },
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "DISRUPTOR LP",
-        "url": "https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Josh Rubin",
-          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
-        }
-      ],
-      "duration_ms": 209137,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/1lj3aGG7Ltxap2LHXUgSvY"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/6PtWDkMBMsesrZmjE07PdA"
       },
@@ -1811,26 +1811,6 @@
       "duration_ms": 267906,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/6bUlKNTAOA2EUg4CQ4PtJb"
-    },
-    {
-      "added_at": "2023-01-06 18:07:36",
-      "album": {
-        "name": "Catharsis X",
-        "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        },
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 244045,
-      "name": "Catharsis X",
-      "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1863,18 +1843,22 @@
     {
       "added_at": "2023-01-06 18:07:36",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5VhDDRgkZfxk4LZVCVwDww"
+        "name": "Catharsis X",
+        "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
       },
       "artists": [
         {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         }
       ],
-      "duration_ms": 248372,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
+      "duration_ms": 244045,
+      "name": "Catharsis X",
+      "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
     },
     {
       "added_at": "2023-01-06 18:07:36",
@@ -1895,6 +1879,22 @@
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
+    },
+    {
+      "added_at": "2023-01-06 18:07:36",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5VhDDRgkZfxk4LZVCVwDww"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
     }
   ],
   "unique_name": "Stepping Out",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,155 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,568 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 39 | [All On Our Own](https://open.spotify.com/track/5bgUkX4PGNDhbXg4V0w19b) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [All On Our Own](https://open.spotify.com/album/7HW2EKueBdAL4pvnTKgmaP) | 2:39 |
 | 40 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
 | 41 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
-| 42 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 42 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 43 | [Vielleicht in einem Jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [Vielleicht in einem Jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
 | 44 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 | 45 | [venedig \(feat\. kid kapri\)](https://open.spotify.com/track/5JeMKCX14e6uwuiWxSs1jz) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:08 |

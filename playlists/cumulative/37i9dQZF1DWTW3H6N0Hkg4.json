@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192933,
       "name": "Carta De Recuerdo",
       "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
@@ -1108,10 +1108,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 199666,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+    },
+    {
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
     },
     {
       "album": {
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 206613,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 266146,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 235880,
       "name": "La Suavecita",
       "url": "https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C"
@@ -3071,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220451,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/0ksLUL7VoeNwHJsmO9ldnR"
+    },
+    {
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
       },
@@ -3140,10 +3176,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "album": {
+        "name": "Vol\u00f3 la Paloma",
+        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
     },
     {
       "album": {
@@ -3158,7 +3212,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 264186,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
@@ -3335,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
       },
@@ -3346,7 +3418,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
@@ -3436,7 +3508,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
@@ -4064,7 +4136,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 254641,
       "name": "Te Llevare",
       "url": "https://open.spotify.com/track/7s4bnNogaYgchCC2z5sn4Z"
@@ -4593,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -4604,7 +4694,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"

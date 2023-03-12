@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,660 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,703 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 33 | [ilym](https://open.spotify.com/track/35vaMa2SQtGbyvJRwZRr4C) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [ilym](https://open.spotify.com/album/3RZ3gxJs0aXflqt1RW4ddg) | 3:57 |
 | 34 | [FOREVER](https://open.spotify.com/track/6rAswyUJ2ckYCLDG1oPg1u) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [FOREVER](https://open.spotify.com/album/3VQ1BFX9dqOsr2zbiS0TQ3) | 2:36 |
 | 35 | [Brokenhearted \(with Marvin L\. Winans\)](https://open.spotify.com/track/37ao4T8DSd6DvIbgIlMps3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 6:01 |
-| 36 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
-| 37 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
+| 36 | [Why Am I Not Yours](https://open.spotify.com/track/3E5F6g4wXD7D8tkyZa6mnt) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [an Anecdote of Love and All that Lies Within](https://open.spotify.com/album/5UjR03cOSRrwzj2abbu0DM) | 3:44 |
+| 37 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 38 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 | 39 | [Happier](https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Happier](https://open.spotify.com/album/1dQCWiSfNzXl9nhRCiGhsV) | 2:08 |
 | 40 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 50 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 
-Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMGMyNDVkZTI4MTdhZmY1ZDlkZWViYTMxZjdmNzU2MmM1`
+Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMGVkZDk0ZTVkZTc3NDhjZmY4NzkzOWViMTQxM2YwZTgz`

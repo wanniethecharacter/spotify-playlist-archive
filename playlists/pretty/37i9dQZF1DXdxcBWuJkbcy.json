@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6735915,
+  "num_followers": 6737841,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDcxZmEzNzQzMzM0NThhNzliZTNkMzk4ZWI0ZWRjZjMw",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMGM4NjJmNzVlYjk0YTYxZGViMDYxMDlkODhiNTJkOWNi",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Damn (You\u2019ve Got Me Saying)",
-        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 195268,
-      "name": "Damn (You\u2019ve Got Me Saying)",
-      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
         "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 211428,
       "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Damn (You\u2019ve Got Me Saying)",
+        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 195268,
+      "name": "Damn (You\u2019ve Got Me Saying)",
+      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Rely On Me",
-        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        }
-      ],
-      "duration_ms": 174585,
-      "name": "Rely On Me",
-      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Belly Dancer (LUM!X Remix)",
         "url": "https://open.spotify.com/album/3VJjBWJCl7mqqWkh9U76vR"
       },
@@ -1319,6 +1295,30 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        }
+      ],
+      "duration_ms": 174585,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -1359,6 +1359,42 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
+      "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1427,42 +1463,6 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
-      },
-      "artists": [
-        {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
-        },
-        {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Steve Void Edit",
-      "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1599,34 +1599,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Don't Play Games",
-        "url": "https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "SELAH",
-          "url": "https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Don't Play Games",
-      "url": "https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -1667,6 +1639,34 @@
       "duration_ms": 155989,
       "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
       "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Don't Play Games",
+        "url": "https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "SELAH",
+          "url": "https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Don't Play Games",
+      "url": "https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Believe (feat. Goodboys) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "Believe (feat. Goodboys) [Galantis Remix]",
-      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
       },
@@ -1887,6 +1863,30 @@
       "duration_ms": 163200,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Believe (feat. Goodboys) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "Believe (feat. Goodboys) [Galantis Remix]",
+      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
     },
     {
       "added_at": "2023-03-09 23:00:00",

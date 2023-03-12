@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 302840,
       "name": "A Touch Of The Night",
       "url": "https://open.spotify.com/track/3nSxFWML4jKvC6E35XLkcZ"
@@ -9094,6 +9094,24 @@
       "duration_ms": 492026,
       "name": "Viimo",
       "url": "https://open.spotify.com/track/1xv6E9bFh5bmkINR5e72Q5"
+    },
+    {
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/7rWqWNXrn9djtvNMZsPnXD"
+      },
+      "artists": [
+        {
+          "name": "Brothomstates",
+          "url": "https://open.spotify.com/artist/7dJoiDu6p9jcAESCcRYU0z"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492026,
+      "name": "Viimo",
+      "url": "https://open.spotify.com/track/5wKQVRYWXpS3WqayHDbAp4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Ken Carson
 
-570 songs - 23 hr 31 min
+571 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,8 @@
 | [Tears](https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [Tears](https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0) | 1:50 | 2022-05-13 | 2022-10-15 |
 | [Tears of a Tiger](https://open.spotify.com/track/2pRU7Hr7vmSWT90NNOQiTd) | [Big Body Bes](https://open.spotify.com/artist/1dGP47tYOn4oiYFyrw3abP) | [Tears of a Tiger](https://open.spotify.com/album/2qLFnJ5LOvJpQURsaVdsdK) | 2:20 | 2021-12-10 | 2021-12-27 |
 | [Tempt](https://open.spotify.com/track/2DTE6afvhrNnhsWJYcr4Aq) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM), [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Just Tired](https://open.spotify.com/album/1UxqMmmqdwl0cvGh7Chxfi) | 2:46 | 2022-08-20 | 2022-10-05 |
-| [Tesla](https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR) | 2:12 | 2023-02-24 |  |
+| [Tesla](https://open.spotify.com/track/0HnqWiIHn9Q09QQC9EwTAT) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/3vtaY6uchysQRyRYztvpQ7) | 2:12 | 2023-02-24 |  |
+| [Tesla](https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR) | 2:12 | 2023-02-24 | 2023-03-12 |
 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-12-21 |  |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-10-06 | 2022-02-05 |
 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-07 | 2022-07-23 |

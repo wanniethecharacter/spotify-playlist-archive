@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Israel Salazar
 
-101 songs - 7 hr 36 min
+102 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Ele é Exaltado \- Acústico](https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Lukas Agustinho \(Acústico\)](https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b) | 2:19 | 2023-01-20 |  |
 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-02 |  |
 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 | 2022-09-02 |  |
+| [Espelhos \- Acústico](https://open.spotify.com/track/1JSHD6UHkXkhkZxfgdNVvU) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Espelhos \(Acústico\)](https://open.spotify.com/album/72XFbUjx5bsrc5rJ3dXRzE) | 3:04 | 2023-03-11 |  |
 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 | 2022-09-02 |  |
 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 | 2022-09-02 |  |
 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 | 2022-09-02 |  |
@@ -108,6 +109,6 @@
 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 | 2022-09-02 |  |
 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 | 2022-09-02 |  |
 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 | 2022-09-02 |  |
-| [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 | 2023-02-11 |  |
+| [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 | 2023-02-11 | 2023-03-12 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

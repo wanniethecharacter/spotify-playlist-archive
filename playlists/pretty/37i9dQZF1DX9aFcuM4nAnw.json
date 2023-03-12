@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2488,
+  "num_followers": 2493,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMGY0NTlhMzExYzA2OGQ5ZjZhN2RkYTRmOWEyZjgwMTcx",
+  "snapshot_id": "MTY2ODcyMTM0OCwwMDAwMDAwMDNjMjRkNzRkNTE4YzA5YzM5YjgzZDcxYzhiM2U2MTIw",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "In Fabric OST",
-        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 254624,
-      "name": "Mannequin Metric",
-      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Starwheel",
         "url": "https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 393440,
       "name": "A Room Between the Rooms",
       "url": "https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "In Fabric OST",
+        "url": "https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 254624,
+      "name": "Mannequin Metric",
+      "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Dakhma",
-        "url": "https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM"
-      },
-      "artists": [
-        {
-          "name": "Council of Nine",
-          "url": "https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "The Magi",
-      "url": "https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Bathyscaphe",
         "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 192757,
       "name": "Bathyscaphe",
       "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Dakhma",
+        "url": "https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM"
+      },
+      "artists": [
+        {
+          "name": "Council of Nine",
+          "url": "https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "The Magi",
+      "url": "https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Spectral Corridor",
-        "url": "https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
-          "name": "The House In the Woods",
-          "url": "https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej"
-        },
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 511898,
-      "name": "Spectral Corridor Part 4",
-      "url": "https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW"
+      "duration_ms": 242232,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx"
     }
   ],
   "unique_name": "Stranger Ambient",

@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 40802,
+  "num_followers": 40843,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMGZmYjgwNDg2ZGM0Zjk2YmVkMWYyODc0MTBmZDY2Y2Fm",
+  "snapshot_id": "MTY0MTIxOTg5NiwwMDAwMDAwMDg0OWFmNzNkNTc3M2VhYmVjOGE2MTIxY2YzMTMyNTc0",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Kicker",
-        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0"
+      "duration_ms": 262209,
+      "name": "Meet Me in the Woods",
+      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "Kicker",
+        "url": "https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
         }
       ],
-      "duration_ms": 262209,
-      "name": "Meet Me in the Woods",
-      "url": "https://open.spotify.com/track/1bqrRn1pJWowNLA5N9L6uW"
+      "duration_ms": 176786,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Need Your Light",
-        "url": "https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL"
+        "name": "Treasure - EP",
+        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
       },
       "artists": [
         {
-          "name": "Ra Ra Riot",
-          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
-        },
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 280333,
-      "name": "Water (feat. Rostam)",
-      "url": "https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS"
+      "duration_ms": 197000,
+      "name": "Tired of Talking",
+      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Treasure - EP",
-        "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
+        "name": "Need Your Light",
+        "url": "https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        },
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Tired of Talking",
-      "url": "https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS"
+      "duration_ms": 280333,
+      "name": "Water (feat. Rostam)",
+      "url": "https://open.spotify.com/track/4WuDLbPWqwjyRvJK2jRCPS"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Pink Lemonade",
-      "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/7dFERLugNJZUgtX1V3KA4b"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Make Out",
-        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 231002,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Make Out",
+        "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 231002,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
     },
     {
       "added_at": "2021-09-14 05:14:45",

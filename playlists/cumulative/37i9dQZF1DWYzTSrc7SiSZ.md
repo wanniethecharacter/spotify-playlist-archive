@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-210 songs - 11 hr 13 min
+212 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-02-17 |  |
 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 | 2022-10-27 | 2023-01-07 |
 | [Lluvia](https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r) | [Lluvia \(Man120\)](https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA) | 3:51 | 2022-05-20 |  |
-| [Llévate](https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Llévate](https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3) | 2:50 | 2022-07-11 |  |
+| [Llévate](https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Llévate](https://open.spotify.com/album/50o7453bYYgKKkbr4CreN3) | 2:50 | 2022-07-11 | 2023-03-12 |
 | [Llévate \(feat\. Gus\)](https://open.spotify.com/track/6XMRFh1pbTQ7dOc4IDgn5S) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Llévate \(feat\. Gus\)](https://open.spotify.com/album/6Uy6KQAhkhFxVe02B8u0Ow) | 2:50 | 2022-05-20 | 2022-07-29 |
+| [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 |  |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2022-05-20 |  |
 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 | 2022-05-20 | 2022-10-28 |
 | [Luna](https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM) | [JAY MAX](https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr) | [ULTRA MAX](https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK) | 3:38 | 2023-02-10 |  |
@@ -145,6 +146,7 @@
 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 | 2022-05-20 |  |
 | [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 | 2023-02-04 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2022-05-20 |  |
+| [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 | 2023-03-10 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 | 2022-05-20 | 2022-10-28 |
 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 | 2022-05-20 | 2022-10-28 |
 | [ojitos caramelo](https://open.spotify.com/track/3TDIrNpqBTHx4ePEBh6zyR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/3tBjBSHpI7up9rQWNWZ3PL) | 2:27 | 2022-05-20 | 2022-07-29 |
@@ -166,7 +168,7 @@
 | [Phone Sex](https://open.spotify.com/track/0SbwmVySMhXR47pGy9F5BA) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Phone Sex](https://open.spotify.com/album/7uPEOCp4fZcA83suKA39b3) | 3:13 | 2022-05-20 | 2023-01-07 |
 | [Planeando Madrid](https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7) | 4:12 | 2022-05-20 |  |
 | [Plegarias \- Acústico Premios Gardel 2020](https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Plegarias \(Acústico Premios Gardel 2020\)](https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS) | 2:59 | 2022-05-20 |  |
-| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 |  |
+| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 | 2023-03-12 |
 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 | 2022-05-20 | 2022-10-28 |
 | [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 | 2022-05-20 |  |
 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 | 2022-05-20 |  |

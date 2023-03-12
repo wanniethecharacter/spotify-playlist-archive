@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,064 likes - 69 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,122 likes - 69 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 38 | [Duplantis](https://open.spotify.com/track/30brjBzRbL5MFUXWxSfG5A) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Duplantis](https://open.spotify.com/album/4CBmgdpkeOTRVcROYdeHGX) | 3:02 |
 | 39 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 |
 | 40 | [BRAZIL](https://open.spotify.com/track/0MNNXGTgc5wL5MPOGkEZNE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [BRAZIL](https://open.spotify.com/album/67KMwvlewFdeXnTnUNWKXu) | 2:30 |
-| 41 | [LLD](https://open.spotify.com/track/5TsxaTXxOC3zDiEX9VDiuW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:04 |
+| 41 | [LLD](https://open.spotify.com/track/0JF8pIVmf8GQq9zyRnEiFW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96 \(Deluxe\)](https://open.spotify.com/album/7xXmglERhyB9jlHgqKL2I2) | 2:04 |
 | 42 | [Smäller lokalt](https://open.spotify.com/track/3qzZR7sk8OvUQAHmaklatW) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Smäller lokalt](https://open.spotify.com/album/26XvNWskss1XednRdp59bH) | 2:12 |
 | 43 | [Hoodrich](https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Hoodrich](https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9) | 2:24 |
 | 44 | [PINK PANTHER](https://open.spotify.com/track/5stW94lVp9FLXKrSG6uNpx) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [Nordik Beatz](https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD) | [PINK PANTHER](https://open.spotify.com/album/57kHLcSSXDQmwC0WTlnqda) | 2:53 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 68 | [Frysen](https://open.spotify.com/track/0slNolzpvcVfK1wsjj1G6C) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Frysen](https://open.spotify.com/album/5ecDxpto1rL2SnFwqWOYtg) | 1:57 |
 | 69 | [MEDALJERNA](https://open.spotify.com/track/0V16lbVQ96VaQb5yA4PlwA) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [MEDALJERNA](https://open.spotify.com/album/5EfOhFgHXAShI3gyJZwNSW) | 4:09 |
 
-Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMGJlZDQ4ZDRjMWU4NjExYjU5ZDMzNWIxN2FhMDY2YTFj`
+Snapshot ID: `MTY3ODQwMjgwMCwwMDAwMDAwMDgzNGM3NWM5Nzg5MmJlZjg5ZWViMTFmYThkZWIyYzVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,883 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,882 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 37 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
 | 38 | [State I'm In](https://open.spotify.com/track/4aUHLZXBqkGETnyJm6vavF) | [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [State I'm In](https://open.spotify.com/album/2rYFcoi3NzplG0wcmd9EAn) | 3:48 |
 | 39 | [Grow](https://open.spotify.com/track/1Z24QIZbcufidG7K4ntWI9) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said \(Deluxe\)](https://open.spotify.com/album/7LnAE20y5EP4TyJCezmZ0n) | 3:59 |
-| 40 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 |
+| 40 | [Pray](https://open.spotify.com/track/6nO4slztvURE36GQXPSol3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [HEAL](https://open.spotify.com/album/35IxlwuDscHGOpwEBqrh7t) | 3:41 |
 | 41 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 |
 | 42 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 |
 | 43 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 100 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
 
-Snapshot ID: `MTY3NzI1MzkzOCwwMDAwMDAwMGQ1NTMyZjkwOTllOWVmMTM5YzA2NzZjOTFhZWNmM2Qw`
+Snapshot ID: `MTY3NzI1MzkzOCwwMDAwMDAwMGZmYTU5OGExMmI4NTA2ZmVjZjZiYjNhZTZlY2FjOTgw`

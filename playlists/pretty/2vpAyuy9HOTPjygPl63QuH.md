@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,706 likes - 23 songs - 1 hr 17 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,709 likes - 23 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 6 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 |
 | 7 | [Loca People](https://open.spotify.com/track/2zCKkNNk40s01xY0to217Y) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Loca People](https://open.spotify.com/album/5cEzNPqONZKG2JU0mc9DDy) | 2:51 |
 | 8 | [Gotta Be Real](https://open.spotify.com/track/1m5xlssT6mhlw9OtsuXUBn) | [Fletcher Kerr](https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k) | [Gotta Be Real](https://open.spotify.com/album/6zOxsFFlU0IMPAqIYVQuHN) | 2:56 |
-| 9 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:26 |
+| 9 | [In My Room](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
 | 10 | [How it is \- Subshift Remix](https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:51 |
 | 11 | [Le Monde de Demain](https://open.spotify.com/track/01NkMTGIYbAu4CnzynNBYJ) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Le Monde de Demain](https://open.spotify.com/album/44I4eK0xzeHSi5DiBjMoTX) | 4:46 |
 | 12 | [Future](https://open.spotify.com/track/3raQAaDeWucnLtoOvVpEea) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Future](https://open.spotify.com/album/6nbVcHHsxb0WXYoSbIrOaV) | 5:09 |

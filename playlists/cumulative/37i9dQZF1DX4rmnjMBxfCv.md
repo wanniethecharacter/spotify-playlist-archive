@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Obeidmusic, Pamela Antoun.
 
-100 songs - 6 hr 40 min
+102 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bala Ehsas \- Remix](https://open.spotify.com/track/7tfqN79YOCofQUGKvdK6gj) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df), [Karno Baghdassarian](https://open.spotify.com/artist/0oOTVy8P8M01l6Pyg4Oz5v) | [Bala Ehsas \(Remix\)](https://open.spotify.com/album/7E6xelo6R9ccoBJguBMwPf) | 3:49 | 2022-08-05 |  |
 | [Balash Ana \(feat\. Carmen Soliman\) \- Mark Shakedown Remix](https://open.spotify.com/track/5OqRDjqBxLUPMOYCqDbxM1) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt), [Mark Shakedown](https://open.spotify.com/artist/0owA2yBBDFjsmyBi4pgVgo) | [Balash Ana \(feat\. Carmen Soliman\) \[Mark Shakedown Remix\]](https://open.spotify.com/album/0XRO7fTxTScR6cf3HkICBv) | 3:07 | 2022-03-30 | 2023-02-02 |
 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 | 2022-12-22 |  |
+| [Bnt El Chalabyea](https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Bnt El Chalabyea](https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK) | 5:09 | 2023-03-11 |  |
 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 | 2022-07-18 | 2022-10-14 |
 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 | 2022-10-11 |  |
 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 | 2022-08-01 |  |
@@ -34,6 +35,7 @@
 | [Fe Einy \- Deep House](https://open.spotify.com/track/3fOFvpwuPppmFHpNm5Rfni) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 2:50 | 2023-02-02 |  |
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2022-03-30 |  |
 | [Fein Mchiti](https://open.spotify.com/track/3AJQUzPULtbagemZSWt96n) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Fein Mchiti](https://open.spotify.com/album/1BznSouUFyp6fZBgQPe3tF) | 3:36 | 2022-03-30 | 2023-02-02 |
+| [Fog Elna Khil \- Tyrvnt Remix](https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9) | [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL), [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Fog Elna Khil \(Tyrvnt Remix\)](https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA) | 4:12 | 2023-03-11 |  |
 | [Galbek Ween](https://open.spotify.com/track/6v0bOBKwDxzpkXhoi14FpN) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Galbek Ween](https://open.spotify.com/album/0y4SxrazWfNf55cdxhZ0v7) | 3:42 | 2022-03-30 | 2022-08-23 |
 | [Ghareeb Alay \- R3HAB Remix](https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghareeb Alay \(R3HAB Remix\)](https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv) | 2:02 | 2022-05-26 |  |
 | [Habibi Ana](https://open.spotify.com/track/06wwtZKCpnImRq1N9Sg3k5) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [Habibi Ana](https://open.spotify.com/album/7k0LvrMEmMVoAoL9JztDFU) | 4:34 | 2022-03-30 | 2022-08-23 |

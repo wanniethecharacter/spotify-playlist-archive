@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 64994,
+  "num_followers": 65151,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDMxOSwwMDAwMDAwMDJjOTgxNTMyNDdkMjdjMGRhMWRlMmQ4ODc0ZWJhYTZi",
+  "snapshot_id": "MTY3ODI4MDMxOSwwMDAwMDAwMDg3OTIxNzE1ZGE5NTYyMjNkZGY4ZTg5NmQzODIwZGNh",
   "tracks": [
     {
       "added_at": "2023-03-08 12:58:39",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Caravan Of Dreams",
-        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 360160,
-      "name": "Caravan of Dreams",
-      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Day Into Night",
         "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 238066,
       "name": "Greenstreet",
       "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Caravan Of Dreams",
+        "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 360160,
+      "name": "Caravan of Dreams",
+      "url": "https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
         "name": "Smooth Sensation",
         "url": "https://open.spotify.com/album/12tng68mKohYzlVWT1QRna"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 276506,
       "name": "Smooth Sensation",
       "url": "https://open.spotify.com/track/1jKOG02lqHnwYXHpyLF3Nd"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Pleasure Seeker",
-      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+      "duration_ms": 269893,
+      "name": "Pleasure Seeker",
+      "url": "https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Seven Large",
         "url": "https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 300560,
       "name": "Love Won't Let Me Wait",
       "url": "https://open.spotify.com/track/3jHXbXBwZ9O1YMVsSfXuee"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
     },
     {
       "added_at": "2023-03-08 12:58:39",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-03-08 12:58:39",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
-    },
-    {
-      "added_at": "2023-03-08 12:58:39",
-      "album": {
         "name": "Flipside",
         "url": "https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 312226,
       "name": "Angel In Paris",
       "url": "https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1"
+    },
+    {
+      "added_at": "2023-03-08 12:58:39",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i"
     },
     {
       "added_at": "2023-03-08 12:58:39",

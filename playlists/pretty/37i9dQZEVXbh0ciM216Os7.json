@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc5NzM3NDAsMDAwMDAwMDA1YWY0Zjk4OGJhMDgxNDE2MDYxN2U3YjFhNzNkZGE3Mw==",
+  "snapshot_id": "Mjc5NzM3NDAsMDAwMDAwMDBlMDgzM2M1MzI1Y2FkMzdjZTliZWQyZGE1YWI0NjgxNg==",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -55,34 +55,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Music to Get Rich To (feat. Ghostface Killah, Lorentz & Jahju16)",
-        "url": "https://open.spotify.com/album/0FaS0JzKiRNo4m5AkyCtI7"
-      },
-      "artists": [
-        {
-          "name": "Halon",
-          "url": "https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT"
-        },
-        {
-          "name": "Lorentz",
-          "url": "https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7"
-        },
-        {
-          "name": "Jahju16",
-          "url": "https://open.spotify.com/artist/0NWqCsFrGXt0a7su3xJSaC"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Music to Get Rich To (feat. Ghostface Killah, Lorentz & Jahju16)",
-      "url": "https://open.spotify.com/track/1geGiUehw4HuopF0xo7f4p"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Slide Again",
         "url": "https://open.spotify.com/album/1ehm10z6uOkUCa7chKy29H"
       },
@@ -99,6 +71,30 @@
       "duration_ms": 121317,
       "name": "Slide Again",
       "url": "https://open.spotify.com/track/680UAnBzIM0mKkXUpT5OyS"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "GAMBINOS",
+        "url": "https://open.spotify.com/album/1ImmQnBFr1ej7uIV2Y8x69"
+      },
+      "artists": [
+        {
+          "name": "Neek Bucks",
+          "url": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 196943,
+      "name": "GAMBINOS",
+      "url": "https://open.spotify.com/track/0WlgUBuHQP5KEavW4uq1dc"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -131,22 +127,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Pontius Pilate's Home Movies",
-        "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Pontius Pilate's Home Movies",
-      "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Things I Like",
         "url": "https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ"
       },
@@ -159,6 +139,22 @@
       "duration_ms": 191798,
       "name": "Things I Like",
       "url": "https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Pontius Pilate's Home Movies",
+        "url": "https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Pontius Pilate's Home Movies",
+      "url": "https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -259,6 +255,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Trucks Gone Wild",
+        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
+      },
+      "artists": [
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "Trucks Gone Wild",
+      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -311,22 +327,38 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Don't Text Don't Call",
-        "url": "https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7"
+        "name": "Fuck Wit Y'All (Chopped & Screwed)",
+        "url": "https://open.spotify.com/album/2BR7tCF7MQH9YGkfoSbtoG"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
         },
         {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 235674,
-      "name": "Don't Text Don't Call",
-      "url": "https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn"
+      "duration_ms": 111990,
+      "name": "Fuck Wit Y'All (Chopped & Screwed)",
+      "url": "https://open.spotify.com/track/0Su4rQjztMYBGnLvDP4iO1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -375,18 +407,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "If Darkness Had a Son",
-        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
         }
       ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
+      "duration_ms": 344242,
+      "name": "Walk With Me - Resound NYC Version",
+      "url": "https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -411,116 +447,124 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5E1hgax8y4HNmdqgTz0zUD"
+        "name": "Gugle",
+        "url": "https://open.spotify.com/album/3hxmWwG0G3IXdjbi2AyHEH"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
         },
         {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
         }
       ],
-      "duration_ms": 344242,
-      "name": "Walk With Me - Resound NYC Version",
-      "url": "https://open.spotify.com/track/2FLXGK0uYcyG0rSWYRByGy"
+      "duration_ms": 194272,
+      "name": "Gugle",
+      "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
     },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Lovesong",
-        "url": "https://open.spotify.com/album/3PceYgXOI6BnaxPAYoCGd4"
+        "name": "Live At SoFi Stadium",
+        "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 237904,
+      "name": "Is There Someone Else? - Live",
+      "url": "https://open.spotify.com/track/1um00PH48BzDbULgyQyRUA"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 201574,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mike (desert island duvet)",
+        "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 264097,
+      "name": "Mike (desert island duvet)",
+      "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Blood Money Part Zer0",
+        "url": "https://open.spotify.com/album/00IWlCz2v0BLL8td4oljJt"
       },
       "artists": [
         {
           "name": "Dope",
           "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        },
-        {
-          "name": "Drama Club",
-          "url": "https://open.spotify.com/artist/3hrpJE5afivJl3uncJ4SWW"
         }
       ],
-      "duration_ms": 255486,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/1rJzEVXTeGmEhYly9GxmrY"
+      "duration_ms": 189579,
+      "name": "Row",
+      "url": "https://open.spotify.com/track/0Lqi31Ocwn2SdASbRoRmth"
     },
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "WYD",
-        "url": "https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "WYD",
-      "url": "https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Float (feat. Seun Kuti & Egypt 80)",
-        "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
-        }
-      ],
-      "duration_ms": 242166,
-      "name": "Float (feat. Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Bitches Are Back (feat. Blu)",
-        "url": "https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm"
-      },
-      "artists": [
-        {
-          "name": "M.E.B.",
-          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Bitches Are Back (feat. Blu)",
-      "url": "https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Beautiful Black Eyes",
-        "url": "https://open.spotify.com/album/4NnTJSBGucLoZWlualGuVf"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4l13qXR6ZTxw6wHBKTb0sg"
       },
       "artists": [
         {
@@ -528,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 555386,
-      "name": "Beautiful Black Eyes",
-      "url": "https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0"
+      "duration_ms": 341333,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/0yY78nwNEr9mXkt1rAz8jl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -551,54 +595,6 @@
       "duration_ms": 190443,
       "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
       "url": "https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "GRRR Live!",
-        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 233213,
-      "name": "Get Off My Cloud - Live",
-      "url": "https://open.spotify.com/track/4ERz9q9Qwzvt1qpZWkGzqs"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/4KIOZBSpZwLNAU5wYMkBQu"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 108292,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/0besl0cAyue3iXVJ2YI97s"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lost Not Forgotten Archives: Distance Over Time Demos (2018)",
-        "url": "https://open.spotify.com/album/3813UgywzpXjMYQiWyb859"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 264161,
-      "name": "Song 02 (Paralyzed) - Demo 2018",
-      "url": "https://open.spotify.com/track/1AOqt8dL9UqsipSOHAZdV2"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

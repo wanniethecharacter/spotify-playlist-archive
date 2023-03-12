@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Yaya Bey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,541 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,516 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 |
 | 2 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 |
-| 3 | [Assumptions \- Kaytranada Remix](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Remix\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
+| 3 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
 | 4 | [break // 1k](https://open.spotify.com/track/6mjveDmSzr5kAjwsC2KdYK) | [mykel online](https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6) | [break // 1k](https://open.spotify.com/album/5K6ufDR0JQUq9ezOsRkzAr) | 1:37 |
 | 5 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 6 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 |

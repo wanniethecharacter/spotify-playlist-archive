@@ -161,6 +161,32 @@
     },
     {
       "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
+        {
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+    },
+    {
+      "album": {
         "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
       },

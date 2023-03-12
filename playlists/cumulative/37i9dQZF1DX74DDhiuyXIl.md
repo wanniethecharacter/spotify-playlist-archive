@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-260 songs - 19 hr 10 min
+261 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [說故事的歌](https://open.spotify.com/track/1e5XhgNrquoMoS3oZx4gP1) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/5lD3mnkciTmGRIBD0UWFfI) | 5:11 | 2022-06-13 | 2022-07-07 |
 | [請離開我](https://open.spotify.com/track/0rlLkJ8H6vDCTvbS8tF8Kp) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 4:31 | 2022-06-06 | 2022-07-25 |
 | [諷刺的情書](https://open.spotify.com/track/45KPkAhDwxLd62MybIxF1c) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [諷刺的情書](https://open.spotify.com/album/59aMP72DRMh9X5xuNdYTxN) | 4:18 | 2022-06-06 | 2022-07-29 |
-| [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 | 2022-08-08 |  |
+| [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 | 2022-08-08 | 2023-03-12 |
 | [讓我留在你身邊](https://open.spotify.com/track/07MNtfddtgCo6VrUm3O9dw) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [讓我留在你身邊](https://open.spotify.com/album/0f3fXdmKfX0cDRweUH37e7) | 3:05 | 2022-06-27 |  |
 | [起风了 \- 电视剧"加油你是最棒的"主题曲](https://open.spotify.com/track/5ZiMscIUd9Gozq4JFPnlJQ) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [起风了 \(电视剧"加油你是最棒的"主题曲\)](https://open.spotify.com/album/1ETGJpJwupn8IEv4XYxcE7) | 5:13 | 2022-06-06 |  |
 | [路過人間](https://open.spotify.com/track/03UChw9aTMMe4VtF2rSEXe) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [路過人間](https://open.spotify.com/album/1ReLs42i1FgChCUqurgmhc) | 4:07 | 2022-07-25 |  |
@@ -259,6 +259,7 @@
 | [都幾歲了 \(電視劇【幸福一家人】片尾曲\)](https://open.spotify.com/track/7eKlApdNdcu8e2GX4nItcO) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [都幾歲了 \(電視劇【幸福一家人】片尾曲\)](https://open.spotify.com/album/25I0xrn5mJIeE09yf3eHPO) | 4:01 | 2022-07-04 | 2022-07-11 |
 | [配合](https://open.spotify.com/track/0pbnohuSAJRMflFdkNcUEo) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [配合](https://open.spotify.com/album/6OodSygYBsk8fLKM0SJgm5) | 4:46 | 2022-07-04 | 2022-07-28 |
 | [错季](https://open.spotify.com/track/32x37nnNt5wydXcWPmk1BC) | [秋原依](https://open.spotify.com/artist/7pCF52SusLNHi4n0cKlaMB) | [错季](https://open.spotify.com/album/5MeSqQUVQBstvgrpOLiUbX) | 4:35 | 2022-07-25 | 2023-02-01 |
+| [错季](https://open.spotify.com/track/3bpmg6cjT1JSApgoXDQd04) | [秋原依](https://open.spotify.com/artist/1heJq6KCSMOGAhJg0iGsEd) | [错季](https://open.spotify.com/album/5VjqmtXynQDvQMXcOOmPkE) | 4:35 | 2023-03-06 |  |
 | [错误示范](https://open.spotify.com/track/71X5zdnwLJTyawr0KMlqCN) | [Nicole Lai](https://open.spotify.com/artist/0qme0QUpU1XxC8Fa5sIVeb) | [错误示范](https://open.spotify.com/album/40ZsyIs9kmEixjQkX9ryWF) | 4:56 | 2022-07-04 | 2022-07-09 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2022-06-06 | 2022-07-29 |
 | [陪你去流浪](https://open.spotify.com/track/4IOIy3ihQZ14jn5QI95aSr) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [陪你去流浪](https://open.spotify.com/album/73PTJANpjZF87s0lgOezSw) | 4:34 | 2022-06-06 | 2022-07-28 |

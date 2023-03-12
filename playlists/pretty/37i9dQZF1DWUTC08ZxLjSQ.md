@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Malak, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,054 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,053 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
+| 1 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
 | 2 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 |
 | 3 | [Coconut](https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U) | [Salwa](https://open.spotify.com/artist/1ydHumv64RGQyZouGFLKp5) | [Late at Night](https://open.spotify.com/album/7idOjiu9Ue6uZCvvC517g4) | 3:29 |
 | 4 | [انا بعيد](https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [انا بعيد](https://open.spotify.com/album/4THTNtqBn0ux8S5GBBTDLg) | 3:34 |

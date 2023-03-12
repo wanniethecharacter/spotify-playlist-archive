@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 83537,
+  "num_followers": 83548,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NDAwMCwwMDAwMDAwMGQ4YWU3YzZlMjhlMTdiOTI3M2ZjNTRmNzZiNDkyNDYw",
+  "snapshot_id": "MTY3ODM3NDAwMCwwMDAwMDAwMGMzOGQ5ZGFkOTNlOWI2ZTc0YjNlMWUwMGQ5OWIyZjNk",
   "tracks": [
     {
       "added_at": "2023-03-09 15:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-09 15:00:00",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2023-03-09 15:00:00",
-      "album": {
         "name": "Everglow",
         "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+    },
+    {
+      "added_at": "2023-03-09 15:00:00",
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2023-03-09 15:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-09 15:00:00",
       "album": {
-        "name": "Walked Through Hell",
-        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 216864,
-      "name": "Walked Through Hell",
-      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
-    },
-    {
-      "added_at": "2023-03-09 15:00:00",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2023-03-09 15:00:00",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
+        "name": "Walked Through Hell",
+        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
+      "duration_ms": 216864,
+      "name": "Walked Through Hell",
+      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
       "added_at": "2023-03-09 15:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2023-03-09 15:00:00",
+      "album": {
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
       "added_at": "2023-03-09 15:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-03-09 15:00:00",
       "album": {
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
+    },
+    {
+      "added_at": "2023-03-09 15:00:00",
+      "album": {
         "name": "Keep Your Head Up Princess",
         "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
-    },
-    {
-      "added_at": "2023-03-09 15:00:00",
-      "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
     },
     {
       "added_at": "2023-03-09 15:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-03-09 15:00:00",
       "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ"
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
         }
       ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
+      "duration_ms": 136182,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
     },
     {
       "added_at": "2023-03-09 15:00:00",

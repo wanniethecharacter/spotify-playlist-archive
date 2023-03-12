@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > A bailar con la mejor cumbia sudamericana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,652 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,031 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 20 | [Bailar Pegados](https://open.spotify.com/track/00GhrZUHzp034GsWIoe4pb) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Bailar Pegados](https://open.spotify.com/album/320kx3PZT50c3SwV1EwnJf) | 3:20 |
 | 21 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 |
 | 22 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
-| 23 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 |
+| 23 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 |
 | 24 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 |
 | 25 | [Fue Difícil](https://open.spotify.com/track/6949gWWMFg0NWjam6SkCDA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2zJ3aQpwT8EmleuSKUEsdD) | 3:46 |
 | 26 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 |
 | 27 | [Y La Hice Llorar](https://open.spotify.com/track/06JpmZhd76BpCngRKdVfwE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:17 |
 | 28 | [Hey Tu](https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Hey Tu](https://open.spotify.com/album/0qEN49ipLOHVnuAaXZJSNV) | 3:16 |
-| 29 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 |
+| 29 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
 | 30 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 |
 | 31 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
 | 32 | [Amores Como el Nuestro](https://open.spotify.com/track/5L1WfoJ8YhGsuNkyk3qLKF) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Dario y Su Grupo Angora](https://open.spotify.com/artist/25EjahuVJSUCDKUBZXZatX), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg), [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Amores Como el Nuestro](https://open.spotify.com/album/7KDE9e97Fl8HUpIr49THrz) | 5:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 |
 | 100 | [Cómo No Amarte](https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [En La Cima](https://open.spotify.com/album/7grjj6Q3ZmcOEjeu0veFi9) | 4:24 |
 
-Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMGNmNDU1ZmZjNzc5NWQ2NjQ1OGQ4ZWNlMjE0YjlhNTc0`
+Snapshot ID: `MTY3ODQxNzIwMCwwMDAwMDAwMGJiNWYzNGIyZDI2MDg2NTNiNTViZTQ2ZmMxN2JjODVl`

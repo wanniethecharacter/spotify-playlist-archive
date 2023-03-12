@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 30750,
+  "num_followers": 30783,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTUzMSwwMDAwMDAwMDAzZDFlYTBmOWQ2OTlhODZlNjY5NWM0MTgzZDNlZWZl",
+  "snapshot_id": "MTY3ODQ1MTUzMSwwMDAwMDAwMDQwMWE1ZTM3NDBiYmViOWNlMjVmYzBkNGQyNGUxZTNi",
   "tracks": [
     {
       "added_at": "2023-02-20 09:01:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 290061,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 290061,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA"
     },
     {
       "added_at": "2023-02-20 09:01:10",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2023-02-20 09:01:10",
+      "album": {
         "name": "Billion Words",
         "url": "https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 454040,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
-    },
-    {
-      "added_at": "2023-02-20 09:01:10",
-      "album": {
         "name": "Merciful",
         "url": "https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-02-20 09:01:10",
       "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
         }
       ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+      "duration_ms": 454040,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
     },
     {
       "added_at": "2023-02-20 09:01:10",

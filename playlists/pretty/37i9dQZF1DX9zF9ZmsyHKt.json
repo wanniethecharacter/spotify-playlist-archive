@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 319853,
+  "num_followers": 319901,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDZjNGM0ZjgwNmY0OGZjZWZiOGIzMDM3OWEyOTIxZjA2",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMGVhZWE1NDk1OTRjYjE4MjliZmFlMDQ4Y2I5YWUwYjhh",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174920,
       "name": "Medo Bobo - Ao Vivo",
       "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Elis Por Ela",
         "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164266,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c1gua na Boca",
-        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
-      },
-      "artists": [
-        {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        }
-      ],
-      "duration_ms": 185341,
-      "name": "\u00c1gua na Boca",
-      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Vem",
         "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c1gua na Boca",
+        "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
+      },
+      "artists": [
+        {
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "\u00c1gua na Boca",
+      "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Iai\u00e1",
-        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 329680,
-      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
-      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "TODXS",
         "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Hitz\u00e3o da Porra",
-        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+        "name": "Iai\u00e1",
+        "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
         }
       ],
-      "duration_ms": 132224,
-      "name": "Hitz\u00e3o da Porra",
-      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+      "duration_ms": 329680,
+      "name": "Menina, Amanh\u00e3 de Manh\u00e3",
+      "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Hitz\u00e3o da Porra",
+        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 132224,
+      "name": "Hitz\u00e3o da Porra",
+      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Vinte Palavras ao Redor do Sol",
         "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 183933,
       "name": "Quem Vai Quem Vem",
       "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     }
   ],
   "unique_name": "Escuta as Minas",

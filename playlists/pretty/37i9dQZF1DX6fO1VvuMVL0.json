@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 48792,
+  "num_followers": 48888,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc0NzI2NywwMDAwMDAwMDk3M2E3YWRiZjBmNDAwYmEwYmJhZjNkYWU4Njk1NjA5",
+  "snapshot_id": "MTY3Nzc0NzI2NywwMDAwMDAwMDExYmE0ZGI3YzM0ZDc0M2JjNWEyYTllNDk5YjhhZWJj",
   "tracks": [
     {
       "added_at": "2023-03-02 08:54:27",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -939,6 +923,22 @@
       "duration_ms": 553320,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2023-03-02 08:54:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-02 08:54:27",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
-    },
-    {
-      "added_at": "2023-03-02 08:54:27",
-      "album": {
         "name": "A Night At The Vanguard",
         "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 260973,
       "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
       "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
+    },
+    {
+      "added_at": "2023-03-02 08:54:27",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2023-03-02 08:54:27",

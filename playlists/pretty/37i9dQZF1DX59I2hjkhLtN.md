@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,895 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,896 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

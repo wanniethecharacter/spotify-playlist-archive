@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: GAYLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,168 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,396 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 11 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 12 | [Leave This Place](https://open.spotify.com/track/6NAjfD8F26BcBP3E9D6VY5) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Leave This Place](https://open.spotify.com/album/4ilfyeO8iIQGWMO4Dqd20u) | 3:26 |
 | 13 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 14 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsey Karter & The Heroines](https://open.spotify.com/artist/6LQggZd9VkeNQiXdLChrDc) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
+| 14 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 | 15 | [Jetlag](https://open.spotify.com/track/5lsGuSTEW7d4xcZCVzGJh3) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Jetlag](https://open.spotify.com/album/6z96WO3T6o7q9dKqhehXH8) | 3:16 |
 | 16 | [Paralyzed](https://open.spotify.com/track/6RPEOpZq5NOOOsrhHXeYYM) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Paralyzed](https://open.spotify.com/album/6eFvbP6gEe8D8wT91NOFVi) | 4:13 |
 | 17 | [Long overdue](https://open.spotify.com/track/23xqqQSFpuEeHIBP2nA6fG) | [Koritni](https://open.spotify.com/artist/3JaPfJiphaV4t4j0dRnj1i) | [Long overdue](https://open.spotify.com/album/0EQ6aCAWV6w1XE7EmWLSFL) | 4:38 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 31 | [loner](https://open.spotify.com/track/3MtZ7NDO0eVP2mltk9PdGA) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [loner](https://open.spotify.com/album/3QRGojp6gEqZf9QgxH6lMK) | 2:46 |
 | 32 | [Hey Monet](https://open.spotify.com/track/2LReZPqy0KOejjm8E0aOLa) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 2:12 |
 | 33 | [Lets Go](https://open.spotify.com/track/2Huoe7IkblyOcQZP3No6uH) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Lets Go](https://open.spotify.com/album/7f8VPd0sSK9RaDywtguiqE) | 2:39 |
-| 34 | [Simp](https://open.spotify.com/track/7jALRLtDWomS83yIjmUZI0) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [Rocket Science](https://open.spotify.com/album/1QGXwt2LukvLgFomHlhC41) | 2:43 |
+| 34 | [simp](https://open.spotify.com/track/7jALRLtDWomS83yIjmUZI0) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [rocket science](https://open.spotify.com/album/1QGXwt2LukvLgFomHlhC41) | 2:43 |
 | 35 | [Preacher](https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Preacher](https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3) | 1:45 |
 | 36 | [Lovers Come and Lovers Go](https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Lovers Come and Lovers Go](https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS) | 2:39 |
 | 37 | [Joy](https://open.spotify.com/track/1dzBgv8KL29Akar9DzME7A) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Joy](https://open.spotify.com/album/0m1TQUYaHzYOLXnyIXJrsC) | 2:55 |

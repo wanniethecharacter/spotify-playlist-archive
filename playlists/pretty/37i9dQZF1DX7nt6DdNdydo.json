@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 39322,
+  "num_followers": 39352,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDFlMmE1N2FjZTRkNjBmMDAzOGJlMjFmMGQxNmEzODAy",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGVkMWQ4YzZmYTJjZjk1ZDRkMGNhYjBiODc0YTdhZWRm",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "Dootone Rock 'N' Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Helen Humes",
+          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+      "duration_ms": 136255,
+      "name": "Real Fine Daddy",
+      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Dootone Rock 'N' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Helen Humes",
-          "url": "https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 136255,
-      "name": "Real Fine Daddy",
-      "url": "https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",

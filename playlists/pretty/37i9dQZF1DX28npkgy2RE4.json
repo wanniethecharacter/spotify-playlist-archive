@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Drugdealer",
-  "num_followers": 397072,
+  "num_followers": 397232,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDYyYWMxY2M2Y2EwZDY0ZGUwNzBhYWRmYzFmYmNiNjdh",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDY1MmUxYTc0MDBiODBhNzdhNDY2YjA1OGE4ZGY4NzZl",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Consolation Prize",
-        "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 240787,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Another Friday Night / Hot Heavy Summer / Sister",
         "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 229291,
       "name": "Hot Heavy Summer",
       "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 240787,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Right on Time",
         "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 215493,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Under the Concrete",
-      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 265995,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Under the Concrete",
+      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Coast is Waiting",
-        "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
+        "name": "Speaking With Trees",
+        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
       },
       "artists": [
         {
-          "name": "Mo Lowda & the Humble",
-          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 219674,
-      "name": "Coast is Waiting",
-      "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
+      "duration_ms": 235413,
+      "name": "Speaking With Trees",
+      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Speaking With Trees",
-        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Speaking With Trees",
-      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 210946,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/5M1TXdS2EjFDSUBIlZdvPs"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Coast is Waiting",
+        "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "duration_ms": 219674,
+      "name": "Coast is Waiting",
+      "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2299,6 +2299,26 @@
       "duration_ms": 116040,
       "name": "Cigarette - 7 Layers Session",
       "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+      },
+      "artists": [
+        {
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2355,22 +2375,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 203547,
-      "name": "Doobie Bronson",
-      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -2383,6 +2387,22 @@
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2483,26 +2503,6 @@
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "On A Beach",
-        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
-      },
-      "artists": [
-        {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245656,
-      "name": "On A Beach",
-      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
     },
     {
       "added_at": "2023-03-03 05:00:00",

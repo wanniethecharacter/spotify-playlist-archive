@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-285 songs - 17 hr 46 min
+286 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Miracle Power](https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Power](https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq) | 4:37 | 2022-05-28 | 2022-08-27 |
 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-02-25 |  |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2022-02-25 | 2022-04-23 |
+| [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 | 2023-03-10 |  |
 | [Nail Scarred Hands](https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nail Scarred Hands](https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD) | 3:12 | 2022-04-22 |  |
 | [Narrow Road](https://open.spotify.com/track/0bk6K6OtdTVQownDeQRoEo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:05 | 2022-08-26 | 2022-10-02 |
 | [Narrow Road](https://open.spotify.com/track/2aslD8gmcu8uHxBXaIQUtF) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [I See The Light](https://open.spotify.com/album/2dHaMmJsjwdJeWx1M356ER) | 4:05 | 2022-08-26 | 2022-10-01 |
@@ -266,7 +267,7 @@
 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 | 2022-02-25 |  |
 | [WALK ON WATER](https://open.spotify.com/track/5WbNxzVhvR4efwcUXB2goL) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WALK ON WATER](https://open.spotify.com/album/6xzXYjFhvyd0m3uVIQcT39) | 4:45 | 2022-02-25 | 2022-04-29 |
 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 | 2022-02-25 | 2022-06-25 |
-| [Walls](https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Walls](https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL) | 4:14 | 2022-06-10 |  |
+| [Walls](https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Walls](https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL) | 4:14 | 2022-06-10 | 2023-03-12 |
 | [We're Here Because You're Here](https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi) | [The Work, Vol\. 2](https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK) | 4:14 | 2022-08-26 |  |
 | [Well Done](https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [Well Done](https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq) | 3:42 | 2022-05-28 | 2023-03-11 |
 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 | 2022-02-25 |  |

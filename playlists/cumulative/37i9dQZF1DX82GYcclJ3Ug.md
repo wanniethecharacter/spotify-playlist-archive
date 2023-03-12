@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Cover: Tame Impala
 
-877 songs - 1 day 22 hr 33 min
+878 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-26 | 2022-02-26 |
 | [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 | 2022-10-07 | 2023-01-21 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
-| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-02-24 |  |
+| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-03-10 |  |
+| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-02-24 | 2023-03-12 |
 | [Cover You](https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Cover You](https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3) | 3:01 | 2022-12-09 | 2023-02-25 |
 | [Cowboy Nudes](https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Cowboy Nudes](https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG) | 2:50 | 2023-02-03 |  |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/04WxFTgT3bEvX1WOYzT5Ky) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 3:09 | 2022-02-18 | 2022-05-20 |
@@ -872,7 +873,7 @@
 | [Wonderful Life \- edit](https://open.spotify.com/track/4xcTOmWUBUOKbsa7UewmLH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:05 | 2022-06-17 | 2022-07-29 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2022-04-02 |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-10 | 2022-01-29 |
-| [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
 | [Wretched](https://open.spotify.com/track/6lKlCsBcsiPky4LP0DRmQd) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wretched](https://open.spotify.com/album/2Ehu1KE6isCk03znJL0LWS) | 3:49 | 2022-06-17 | 2022-10-01 |
 | [Wrongside](https://open.spotify.com/track/5rpwJ4cUvE133ExIlX0xTl) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Wrongside](https://open.spotify.com/album/7L71cZKvX9a8zv0LnN3Q1T) | 3:29 | 2022-09-02 | 2023-01-14 |
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 | 2022-10-08 |

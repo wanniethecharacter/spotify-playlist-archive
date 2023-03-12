@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 69308,
+  "num_followers": 69464,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDhiNjc5ZjlmNjgxODYwNjBiZjZmMzU0ZGQzZWRkNDE5",
+  "snapshot_id": "MTY3MTIyMTg2NywwMDAwMDAwMDdhMWQ1NTlmMWUzYTgzODUwOGYyYTE3MWEzYWNiMjA1",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Vivo Pensando En Ti (feat. Maluma)",
-        "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Vivo Pensando En Ti (feat. Maluma)",
-      "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Muy Nuestro",
         "url": "https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 238893,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Vivo Pensando En Ti (feat. Maluma)",
+        "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Vivo Pensando En Ti (feat. Maluma)",
+      "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -179,22 +179,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+      "duration_ms": 294040,
+      "name": "Tarde Lo Conoci",
+      "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -239,18 +235,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Con Aroma de Mujer",
-        "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
       "artists": [
         {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 294040,
-      "name": "Tarde Lo Conoci",
-      "url": "https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93"
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -339,6 +339,26 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Gracias Mi Gente",
+        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Juan David Herrera",
+          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
+        }
+      ],
+      "duration_ms": 310400,
+      "name": "Sirena Encantada",
+      "url": "https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 333946,
       "name": "Que pena",
       "url": "https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Gracias Mi Gente",
-        "url": "https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Juan David Herrera",
-          "url": "https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "Sirena Encantada",
-      "url": "https://open.spotify.com/track/3LhmbxCgjX7E7xYBEUn30Y"
     },
     {
       "added_at": "2022-12-16 20:17:47",

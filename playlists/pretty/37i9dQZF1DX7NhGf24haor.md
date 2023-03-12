@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: Sub Zero Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,995 likes - 106 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,074 likes - 106 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 13 | [Kings & Queens](https://open.spotify.com/track/7CPF9woL9CckkpmRITn4ID) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e) | [Kings & Queens](https://open.spotify.com/album/4cNDv8FjY6YqTlbI5JxTpI) | 3:30 |
 | 14 | [Out Of The Frame](https://open.spotify.com/track/1gXIL1SScEEYv9MxlRN9hj) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Out Of The Frame](https://open.spotify.com/album/4j7BWorgsb8kd6OumLsm0Z) | 3:28 |
 | 15 | [FEEL DA RHYTHM](https://open.spotify.com/track/0EiNtlxdjsMQerpKoCc1mu) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [FEEL DA RHYTHM](https://open.spotify.com/album/6gqeUEvINGiNdFa3HPxq0Y) | 2:55 |
-| 16 | [ARCEUS](https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Overdrive](https://open.spotify.com/artist/1i5glvnPWpWv56szVy4emC), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [ARCEUS](https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr) | 3:19 |
+| 16 | [ARCEUS](https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Overdrive](https://open.spotify.com/artist/46b88pEZFVY4aBSqG9sne6), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [ARCEUS](https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr) | 3:19 |
 | 17 | [Memory](https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Memory \(feat\. Justin J\. Moore\)](https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF) | 3:45 |
 | 18 | [Never Gonna Stop](https://open.spotify.com/track/4qQeJHebvYHbKghDz8ygEJ) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Never Gonna Stop](https://open.spotify.com/album/6JUIaBwXyIFYQFF7yODtyv) | 2:23 |
 | 19 | [Addicted To You](https://open.spotify.com/track/05iLI2wzA2HzSKl1OnYqom) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Addicted To You](https://open.spotify.com/album/7v0ttic1w2UYSTrpDxRJlw) | 3:10 |

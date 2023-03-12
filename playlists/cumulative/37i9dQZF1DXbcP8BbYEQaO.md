@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-510 songs - 1 day 4 hr 51 min
+511 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Feels Right](https://open.spotify.com/track/5ChP17Mxomk1Zm0MaNidDJ) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Feels Right](https://open.spotify.com/album/2a1LnnBDon4DSj9yldbLwc) | 3:00 | 2020-10-13\* | 2021-10-16 |
 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 | 2021-07-18 | 2022-04-17 |
 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 | 2021-06-19 | 2021-06-26 |
-| [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-12-28 |  |
+| [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-12-28 | 2023-03-12 |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-11-18 | 2021-07-17 |
 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 | 2021-07-10 | 2021-10-02 |
 | [Follow My Girl](https://open.spotify.com/track/0lCfUyNC5NAsfILnKEVj23) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:04 | 2020-10-13\* | 2021-07-04 |
@@ -485,6 +485,7 @@
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
 | [VERDE MENTA](https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:08 | 2023-02-03 |  |
 | [VERDE MENTA](https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:08 | 2022-11-11 | 2023-02-05 |
+| [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 | 2023-03-10 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-11-06 | 2021-12-18 |
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2020-10-13\* | 2021-02-19 |
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2021-06-19 | 2022-01-08 |

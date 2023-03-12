@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,800 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,807 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 39 | [Cryin Over You \- Cahill Radio Edit](https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Cryin' Over You](https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h) | 3:26 |
 | 40 | [Dynamate](https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [DJ SNYPAYUSH](https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr) | [Party Attitude](https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w) | 4:05 |
 | 41 | [Second Chance](https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Third Strike](https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ) | 3:28 |
-| 42 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
-| 43 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
+| 42 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
+| 43 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 | 44 | [Dynamite \- David May Rmx Edit](https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [David May](https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK) | [The Annual Compilation 2012 \(Deluxe Edition\)](https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3) | 4:40 |
 | 45 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `Mjc5NzQyMDIsMDAwMDAwMDBkNTMwMDY0YTYxZTdjZjBhNGMyMmM5YzdiZWQwNDgyNw==`
+Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDAzZWY0MTk2NDY3MTk4ZDY0Y2I4MGJhZjk2NTJkZDY4MQ==`

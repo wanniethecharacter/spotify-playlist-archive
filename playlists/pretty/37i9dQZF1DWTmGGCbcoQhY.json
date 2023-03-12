@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1206166,
+  "num_followers": 1206686,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMDk0Yjg1MDBkNjdmMGVhNTA2OWI0NDllYTc1MGNiODI1",
+  "snapshot_id": "MTY3MzM4Mjg1MywwMDAwMDAwMGQyYmQyZDIwNjNmZDgxN2Q5ZTM0N2VhYjJhZTZlODg3",
   "tracks": [
     {
       "added_at": "2022-06-07 22:21:55",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 223503,
-      "name": "Donde Estaras",
-      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "No Me Llames Mas",
         "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 223503,
+      "name": "Donde Estaras",
+      "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 281861,
+      "name": "Te Vas Con El O Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+        "name": "Oro Puro: \u00c9xitos",
+        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
       },
       "artists": [
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
         }
       ],
-      "duration_ms": 245055,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
+      "duration_ms": 211760,
+      "name": "Int\u00e9ntalo T\u00fa",
+      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Oro Puro: \u00c9xitos",
-        "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
+        "name": "De Reventon",
+        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
       },
       "artists": [
         {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+          "name": "Grupo Maravilla",
+          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Int\u00e9ntalo T\u00fa",
-      "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
+      "duration_ms": 254640,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "De Reventon",
-        "url": "https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
       },
       "artists": [
         {
-          "name": "Grupo Maravilla",
-          "url": "https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7"
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+      "duration_ms": 245055,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1265,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG"
     },
     {
-      "added_at": "2023-01-10 20:34:13",
-      "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
-    },
-    {
       "added_at": "2022-06-07 22:21:55",
       "album": {
         "name": "Donde Estaras",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Locura De Amor",
-        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Karo's",
-          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Amor Carnal",
-      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Enamoradas",
         "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 177213,
       "name": "Por Un Rato",
       "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Locura De Amor",
+        "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Karo's",
+          "url": "https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Amor Carnal",
+      "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1375,6 +1375,22 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2023-01-10 20:34:13",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1511,6 +1527,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "Triste y Vac\u00eda",
+        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+      },
+      "artists": [
+        {
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "El Viejo Panz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
       },
@@ -1587,22 +1619,6 @@
       "duration_ms": 180533,
       "name": "Me Vas A Recordar",
       "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
-      },
-      "artists": [
-        {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Hay El Amor",
         "url": "https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 272471,
-      "name": "Te Vas Con El o Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
         "name": "Acariciame",
         "url": "https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 201862,
       "name": "Acariciame",
       "url": "https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2022-06-07 22:21:55",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2022-06-07 22:21:55",
       "album": {
+        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mijez",
+          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
+        }
+      ],
+      "duration_ms": 229016,
+      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
+      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
+    },
+    {
+      "added_at": "2022-06-07 22:21:55",
+      "album": {
         "name": "Con La Sangre Caliente",
         "url": "https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
-    },
-    {
-      "added_at": "2022-06-07 22:21:55",
-      "album": {
-        "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-        "url": "https://open.spotify.com/album/0ZXMdIJah9WqOw0UxI6Gyn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mijez",
-          "url": "https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF"
-        }
-      ],
-      "duration_ms": 229016,
-      "name": "El Llanto de los Luceros / El Llanto de los Sapos",
-      "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
     },
     {
       "added_at": "2023-01-10 20:34:13",

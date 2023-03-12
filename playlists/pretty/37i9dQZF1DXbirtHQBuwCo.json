@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: Nieah (\ub2c8\uc544))",
-  "num_followers": 832022,
+  "num_followers": 832131,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODMzNjg2MywwMDAwMDAwMDgzMmI0NzZjMzRkOWIyZTdhYjg2YjA0N2RiNjgzMTQ4",
+  "snapshot_id": "MTY3ODMzNjg2MywwMDAwMDAwMDkwMWRlZDlkMmJjOGZjOWM1Mzg2NzkzOTYyYTFlZjll",
   "tracks": [
     {
       "added_at": "2023-03-07 09:03:40",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5DLfhr11jMK4yJanglbWcl"
     },
     {
-      "added_at": "2023-03-11 01:01:35",
+      "added_at": "2023-03-12 01:17:19",
       "album": {
         "name": "Archive 01",
         "url": "https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H"
     },
     {
-      "added_at": "2023-03-11 01:01:35",
+      "added_at": "2023-03-12 01:17:19",
       "album": {
         "name": "Archive 01",
         "url": "https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH"
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
         "name": "Going",
         "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 173240,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "SOULBYSEL Compilation 03",
-        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
-      },
-      "artists": [
-        {
-          "name": "SOULBYSEL",
-          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 153686,
-      "name": "nvrmnd",
-      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 270003,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 153686,
+      "name": "nvrmnd",
+      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
     },
     {
       "added_at": "2023-03-07 09:03:40",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-07 09:03:40",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
-    },
-    {
-      "added_at": "2023-03-07 09:03:40",
-      "album": {
         "name": "What Do I Call You - The 4th Mini Album",
         "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
+    },
+    {
+      "added_at": "2023-03-07 09:03:40",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
     }
   ],
   "unique_name": "TrenChill K-R&B",

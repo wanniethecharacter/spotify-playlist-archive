@@ -1,12 +1,12 @@
 {
   "description": "livin' life in your 250 sq ft apt cover: Zeph",
-  "num_followers": 1461501,
+  "num_followers": 1461571,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDk4OCwwMDAwMDAwMDk1NTRkZjkwMjk0ODViNzE4YmY2N2ZiZTZhMDQzMjZh",
+  "snapshot_id": "MTY3ODQyNDk4OCwwMDAwMDAwMDM1ZjNjOTBjY2I4NWRhMmY3YTFiNmJhMDBlMzJjNmU3",
   "tracks": [
     {
       "added_at": "2023-03-10 04:59:49",
@@ -63,7 +63,7 @@
     {
       "added_at": "2023-03-10 04:59:49",
       "album": {
-        "name": "Worthless",
+        "name": "WORTHLESS",
         "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
       },
       "artists": [
@@ -73,7 +73,7 @@
         }
       ],
       "duration_ms": 163049,
-      "name": "Worthless",
+      "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
     },
     {
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 201373,
       "name": "Flip A Switch.",
       "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Girl Like Me",
-        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 149456,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
+      "duration_ms": 243599,
+      "name": "Where do we go now?",
+      "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+        "name": "Girl Like Me",
+        "url": "https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92"
+      "duration_ms": 149456,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "internet crush",
-        "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
+        "name": "Best Friend Breakup",
+        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 202735,
-      "name": "internet crush",
-      "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
+      "duration_ms": 141060,
+      "name": "Best Friend Breakup",
+      "url": "https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "internet crush",
+        "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "internet crush",
+      "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "All My Exes' Moms",
         "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 125407,
       "name": "All My Exes' Moms",
       "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "Best Friend Breakup",
-        "url": "https://open.spotify.com/album/6mF1bVrioCxksnRBHUN7Ej"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 141060,
-      "name": "Best Friend Breakup",
-      "url": "https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "SOMEONE ELSE'S PROBLEM",
-        "url": "https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "SOMEONE ELSE'S PROBLEM",
-      "url": "https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 160661,
       "name": "THE ONE",
       "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "SOMEONE ELSE'S PROBLEM",
+        "url": "https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SOMEONE ELSE'S PROBLEM",
+      "url": "https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "thank god",
+        "url": "https://open.spotify.com/album/2ImBrGMid90VfbhErSEL7w"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 159076,
+      "name": "thank god",
+      "url": "https://open.spotify.com/track/1ISqxcKx6GHXjomB4NfkpF"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "thank god",
-        "url": "https://open.spotify.com/album/2ImBrGMid90VfbhErSEL7w"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 159076,
-      "name": "thank god",
-      "url": "https://open.spotify.com/track/1ISqxcKx6GHXjomB4NfkpF"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Sad in Hawaii",
-        "url": "https://open.spotify.com/album/4GfT8q1tXsb1L4LvrMBxun"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 151352,
-      "name": "Sad in Hawaii",
-      "url": "https://open.spotify.com/track/72EyF0eOgaQ7B8lJe2RocO"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "Roller Coasters Make Me Sad",
         "url": "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 191976,
       "name": "Roller Coasters Make Me Sad",
       "url": "https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Sad in Hawaii",
+        "url": "https://open.spotify.com/album/4GfT8q1tXsb1L4LvrMBxun"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 151352,
+      "name": "Sad in Hawaii",
+      "url": "https://open.spotify.com/track/72EyF0eOgaQ7B8lJe2RocO"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 180907,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "F U Goodbye",
         "url": "https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo"
       },
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "latenight",
-        "url": "https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
       },
       "artists": [
         {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 181100,
-      "name": "latenight",
-      "url": "https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX"
+      "duration_ms": 180907,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1763,6 +1747,22 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "latenight",
+        "url": "https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        }
+      ],
+      "duration_ms": 181100,
+      "name": "latenight",
+      "url": "https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "Alive and Unwell (Deluxe)",
         "url": "https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 164131,
       "name": "My Bed",
       "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Ugly Crier",
-        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 152053,
-      "name": "Ugly Crier",
-      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "fall in love",
         "url": "https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 229264,
       "name": "fall in love",
       "url": "https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "HOW DARE YOU",
+        "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "HOW DARE YOU",
+      "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "why u gotta be like that (feat. Nightly)",
         "url": "https://open.spotify.com/album/18I1ughAhwfDLtaU9eX3uW"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 143503,
       "name": "why u gotta be like that (feat. Nightly)",
       "url": "https://open.spotify.com/track/7CRThl2cGDh1o9p3ivaLbG"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "HOW DARE YOU",
-        "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "HOW DARE YOU",
-      "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Sweat You Out My System",
-        "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 189858,
-      "name": "Sweat You Out My System",
-      "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "U Taste Like Sundays",
         "url": "https://open.spotify.com/album/1amY4kdkg7tx1wIj83vzb0"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 250071,
       "name": "U Taste Like Sundays",
       "url": "https://open.spotify.com/track/7zSIaxd1mgB53fm4PNX7qA"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Sweat You Out My System",
+        "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Sweat You Out My System",
+      "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1"
+        "name": "THE GRATITUDE PROJECT",
+        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
       "artists": [
         {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 158880,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq"
+      "duration_ms": 217258,
+      "name": "SHOULD I BE OK?",
+      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
     }
   ],
   "unique_name": "young & free",

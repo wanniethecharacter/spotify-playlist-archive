@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: CODE KUNST\(코드 쿤스트\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,986 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,006 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

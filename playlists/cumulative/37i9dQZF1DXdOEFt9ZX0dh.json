@@ -2903,24 +2903,6 @@
     },
     {
       "album": {
-        "name": "Slow Ride / Save Your Loving (For Me)",
-        "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "date_added": "2021-03-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232533,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
-    },
-    {
-      "album": {
         "name": "Fool for the City",
         "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
       },
@@ -2936,6 +2918,24 @@
       "duration_ms": 494533,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
+    },
+    {
+      "album": {
+        "name": "Slow Ride / Save Your Loving (For Me)",
+        "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Slow Ride - Edit",
+      "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
     },
     {
       "album": {

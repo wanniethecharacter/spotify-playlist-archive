@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1080964,
+  "num_followers": 1081687,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMDMwZjFmZmU0OGRmN2NlOWU1OWE4NzM0ZmQxZGUyNDdl",
+  "snapshot_id": "MTY3MDAwNjg5NywwMDAwMDAwMGM0MmMzOTE1NTlkMzA3YTgzYTY1MGQ4ZTdkNTJlMWRm",
   "tracks": [
     {
       "added_at": "2022-12-02 18:48:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-02 18:48:17",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
-    },
-    {
-      "added_at": "2022-12-02 18:48:17",
-      "album": {
         "name": "Vital Idol",
         "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 301800,
       "name": "Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001",
       "url": "https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO"
+    },
+    {
+      "added_at": "2022-12-02 18:48:17",
+      "album": {
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "added_at": "2022-12-02 18:48:17",

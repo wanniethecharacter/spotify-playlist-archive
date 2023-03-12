@@ -4,7 +4,7 @@
 
 > In your bag\. Cover: Kxllswxtch
 
-782 songs - 1 day 11 hr 31 min
+783 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [PARANOID](https://open.spotify.com/track/7wRW6FhvuOrXtvlOkW5VrX) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [TOO GOOD TO BE TRUE](https://open.spotify.com/album/4YGNTJCsfomnXHGO80oSD2) | 2:30 | 2022-03-25 | 2022-06-30 |
 | [patience.](https://open.spotify.com/track/6PkmgGS8wwfLgwqIzwv8zt) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [patience.](https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z) | 2:28 | 2022-05-13 | 2022-05-19 |
 | [PAVEMENT](https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [CHASING BUTTERFLIES](https://open.spotify.com/album/3uQxnxiEOlKgkTnxZ2IXuD) | 3:36 | 2021-09-17 | 2022-04-05 |
-| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 |  |
+| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 | 2023-03-12 |
 | [Petrified](https://open.spotify.com/track/2M85nUhefR3JP7k5EXhlqE) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Petrified](https://open.spotify.com/album/1ORMjwQE0Gz64gU3iIwxel) | 3:06 | 2020-12-13\* | 2021-06-19 |
 | [Phone Down](https://open.spotify.com/track/6zzoT6kZHM4SpPCjLdfLVg) | [Boy Pape](https://open.spotify.com/artist/5HHhIPYoYyTyp1mvCngnkZ) | [Phone Down](https://open.spotify.com/album/6MOkdkDvzJ7CmXMdDLq4tc) | 2:12 | 2020-12-18 | 2021-01-05 |
 | [picture us](https://open.spotify.com/track/6anqdTarC0O3k4MZfaSOnz) | [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [picture us](https://open.spotify.com/album/0ZgKrG7VgRfHY5FvfWOEJO) | 2:44 | 2021-09-17 | 2022-04-18 |
@@ -781,6 +781,7 @@
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
 | [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2022-07-22 | 2023-01-28 |
+| [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 | 2023-03-03 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn) | 1:43 | 2022-07-22 |  |
 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 | 2022-07-22 | 2023-01-28 |
 | [You Got What You Came For](https://open.spotify.com/track/2fwi05EwDuslQa3ua9Ws0p) | [Crawly](https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0) | [You Got What You Came For](https://open.spotify.com/album/1rra23KNUFaDSMbRKz5OY9) | 2:59 | 2021-04-17 | 2022-05-03 |

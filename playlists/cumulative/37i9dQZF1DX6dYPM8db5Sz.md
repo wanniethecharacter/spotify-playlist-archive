@@ -2,7 +2,7 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt?si=BSTQeJSaTQWex9OZy0yrCg">Majozi
+> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt?si=\-YZjTk9jS\-y1URdyCD7Paw">Majozi</a>
 
 214 songs - 12 hr 26 min
 

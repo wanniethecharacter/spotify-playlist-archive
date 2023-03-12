@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-241 songs - 15 hr 10 min
+242 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Alone](https://open.spotify.com/track/1pMJC3hRbJGIs3Qz6gjssl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8) | 4:24 | 2021-11-19 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [From Midnight To Sunrise](https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h) | 4:24 | 2022-06-16 |  |
 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 | 2021-11-19 | 2022-12-13 |
-| [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 | 2021-11-19 |  |
+| [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 | 2021-11-19 | 2023-03-12 |
 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 | 2021-11-19 |  |
 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2022-06-16 |  |
 | [Asal Mein](https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein \- Single](https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV) | 3:44 | 2021-11-19 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 | 2022-06-16 |  |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 | 2021-11-19 | 2022-07-29 |
 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2021-11-19 | 2023-03-01 |
+| [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 | 2022-10-17 |  |
 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 | 2021-11-19 |  |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-11-19 |  |
 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 | 2021-11-19 |  |
@@ -213,7 +214,7 @@
 | [Wassellik Khabar](https://open.spotify.com/track/5eLeUIBvwEmwPlKChDhhVQ) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Wassellik Khabar](https://open.spotify.com/album/6ndPBorakdAiDb0Oq98bk1) | 3:56 | 2021-11-19 | 2022-07-29 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 | 2021-11-19 |  |
 | [Woh Din Yaad Aande Ne](https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9) | [Piyush Mehroliyaa](https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Woh Din Yaad Aande Ne \(From "Code M"\)](https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92) | 3:53 | 2021-11-19 |  |
-| [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-11-19 |  |
+| [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-11-19 |  |
 | [You Are The Reason](https://open.spotify.com/track/03KooGt49z9fEvWjcrtD74) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lovebirds](https://open.spotify.com/album/0fuFsHfdlZIsK0tEVyLzgg) | 3:24 | 2022-10-17 | 2022-11-14 |
 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 | 2021-11-19 | 2022-07-29 |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-06-16 |  |

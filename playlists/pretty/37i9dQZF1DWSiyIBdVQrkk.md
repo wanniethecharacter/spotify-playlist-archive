@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058,028 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058,349 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 49 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 |
 | 50 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
 | 51 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
-| 52 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
-| 53 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
+| 52 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
+| 53 | [Police & Thieves](https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police & Thieves](https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR) | 4:04 |
 | 54 | [Living It Up](https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:00 |
 | 55 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 56 | [If Only](https://open.spotify.com/track/05DjGdZSV6nEeUkd78afBO) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [If Only](https://open.spotify.com/album/2w5KeioTKKUi2rLyH54WVD) | 3:24 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 77 | [Never Find](https://open.spotify.com/track/0lrY5x74InbSUqH93mI1K3) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [Don Corleon Presents \- Changes Riddim](https://open.spotify.com/album/6SXfwsj0EgY6HvUdi0mY98) | 3:27 |
 | 78 | [Cocody Rock](https://open.spotify.com/track/2ocFan1CsWNJqdaIdv2Uux) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/19PEEkcZKlFpiDLi8KSnom) | 4:54 |
 | 79 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 |
-| 80 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
-| 81 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
+| 80 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
+| 81 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
 | 82 | [Wa\-Do\-Dem](https://open.spotify.com/track/7578oiL9J6tFHXEjfCXFAS) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Wa\-Do\-Dem](https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT) | 3:55 |
 | 83 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 |
 | 84 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 85 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 86 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 87 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
-| 88 | [One Draw](https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Who Feels It Knows It](https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F) | 4:25 |
-| 89 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 88 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 89 | [One Draw](https://open.spotify.com/track/0Og4hTQytc9vv4CCxZ2wpy) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Who Feels It Knows It](https://open.spotify.com/album/5BhC8RTEdWPiHF0HrzWE9F) | 4:25 |
 | 90 | [Train to Skaville](https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz) | 2:57 |
 | 91 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 92 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Mama](https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Perfect Key Riddim](https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl) | 3:25 |
 | 110 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 
-Snapshot ID: `MTY2NTY5NTIwOSwwMDAwMDAwMDZkNjdhZmIxYmM4MDE0MjhhZjEzYmZlYTc2MjdmMmRk`
+Snapshot ID: `MTY2NTY5NTIwOSwwMDAwMDAwMGE5ZWE3Y2Q2ZjhmMTE2OTI2MzZhNGNkMTc0ZDc3MjVh`

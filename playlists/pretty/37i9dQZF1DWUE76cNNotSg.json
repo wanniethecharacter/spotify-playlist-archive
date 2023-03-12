@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 423805,
+  "num_followers": 424042,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI0OTA0NiwwMDAwMDAwMDE3N2Y4MjNiZjQ0MmRiNmQ1YzVhNGYwNTExNjEzYjRh",
+  "snapshot_id": "MTY3NzI0OTA0NiwwMDAwMDAwMDYzNjk2NzdhNTIzNzc5Zjc5NzI2Y2Q4NTM5NGJmMDM0",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -359,22 +359,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Zanzibar",
-        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
-      },
-      "artists": [
-        {
-          "name": "Kamaliza",
-          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "Zanzibar",
-      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
+      },
+      "artists": [
+        {
+          "name": "Kamaliza",
+          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "Zanzibar",
+      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Must Be Nice",
@@ -611,6 +595,22 @@
       "duration_ms": 212346,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Fever Dream",
@@ -779,6 +763,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -953,26 +953,6 @@
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Low Season",
-        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Kinda Lovely",
-      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
-    },
-    {
       "added_at": "2021-08-30 22:51:44",
       "album": {
         "name": "Circmvnt",
@@ -991,6 +971,26 @@
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Kinda Lovely",
+      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
       "added_at": "2021-03-19 20:47:30",
       "album": {
         "name": "Temporary Love",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1127,26 +1147,6 @@
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     }
   ],
   "unique_name": "golden hour",

@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
-  "num_followers": 53680,
+  "num_followers": 53687,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGM3MzBjMGNjNmQ2ZTcxYzVmYmI5Y2MwZDUwNTcwMzAw",
+  "snapshot_id": "MTY2ODIwMjg5NCwwMDAwMDAwMGE3MjA1NzY4NGM0NDgyZWNhOGJmYzQ4MDAxOTU0YzVj",
   "tracks": [
     {
       "added_at": "2022-11-11 21:41:34",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "C\u00f3mo decirte, mi amor",
-        "url": "https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 159649,
-      "name": "Jugando a los Sims",
-      "url": "https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Un Koala En Una Palmera",
         "url": "https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "C\u00f3mo decirte, mi amor",
+        "url": "https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 159649,
+      "name": "Jugando a los Sims",
+      "url": "https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Planes para Hoy",
-        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "31 de Febrero",
         "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189396,
       "name": "31 de Febrero",
       "url": "https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 161302,
+      "name": "A la Primera",
+      "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+        "name": "Planes para Hoy",
+        "url": "https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
         }
       ],
-      "duration_ms": 161302,
-      "name": "A la Primera",
-      "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
+      "duration_ms": 283333,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Barquinho",
-        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Barquinho",
-      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 172384,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Barquinho",
+        "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Barquinho",
+      "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Postre",
-        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Postre",
-      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
       },
@@ -959,22 +943,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Marinero",
-        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
+        "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
       },
       "artists": [
         {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        },
-        {
-          "name": "CARRE\u00d1O",
-          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
         }
       ],
-      "duration_ms": 204562,
-      "name": "Marinero",
-      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -995,6 +975,26 @@
       "duration_ms": 246133,
       "name": "Nosotros Dos",
       "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Marinero",
+        "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "CARRE\u00d1O",
+          "url": "https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Marinero",
+      "url": "https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "Coronita",
-        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Arocena",
-          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
-        }
-      ],
-      "duration_ms": 223354,
-      "name": "Coronita",
-      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
         "name": "X AMOR",
         "url": "https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+        "name": "Coronita",
+        "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
       },
       "artists": [
         {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+          "name": "Ignacio Arocena",
+          "url": "https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9"
         }
       ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+      "duration_ms": 223354,
+      "name": "Coronita",
+      "url": "https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1191,6 +1175,22 @@
       "duration_ms": 178656,
       "name": "Helen K",
       "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Los Viernes",
+        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Los Viernes",
+      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Noss de tempo",
         "url": "https://open.spotify.com/album/2FSEx60QIuOYXWsSZGBf3A"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 181672,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Los Viernes",
-        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Los Viernes",
-      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
     },
     {
       "added_at": "2022-11-11 21:41:34",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2022-11-11 21:41:34",
       "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 165205,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
+        "name": "Un Caf\u00e9",
+        "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
+      },
+      "artists": [
+        {
+          "name": "Mila Magal",
+          "url": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
+        }
+      ],
+      "duration_ms": 215690,
+      "name": "Un Caf\u00e9",
+      "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2022-11-11 21:41:34",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/6RLPYVkrJcksEXWRFz6uqI"
       },
@@ -1699,38 +1731,6 @@
       "duration_ms": 207419,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2J9VUqB5ctErOgUHxNopIr"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2022-11-11 21:41:34",
-      "album": {
-        "name": "Un Caf\u00e9",
-        "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
-      },
-      "artists": [
-        {
-          "name": "Mila Magal",
-          "url": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
-        }
-      ],
-      "duration_ms": 215690,
-      "name": "Un Caf\u00e9",
-      "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
     }
   ],
   "unique_name": "mandarina",

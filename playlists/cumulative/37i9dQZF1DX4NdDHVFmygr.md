@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-234 songs - 12 hr 50 min
+235 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Lbechra](https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 5:55 | 2022-11-23 | 2022-12-05 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-09-12 |  |
 | [Li fate](https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Li fate](https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki) | 3:50 | 2022-02-02 | 2022-06-10 |
-| [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-02-21 |  |
+| [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-02-21 | 2023-03-12 |
 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-18 | 2023-01-12 |
 | [Liyam](https://open.spotify.com/track/1n73DuRMeUFn05jNoj5eFZ) | [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Liyam](https://open.spotify.com/album/7oeL2OItTkEJylnw0ZoIRH) | 3:12 | 2022-05-19 | 2023-01-12 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-04-11 | 2023-01-06 |
@@ -208,6 +208,7 @@
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2022-11-25 |  |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-12-25 | 2022-05-20 |
+| [Wahdani](https://open.spotify.com/track/6LAvUVtKN9Qlbf0IKjXG6t) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Wahdani](https://open.spotify.com/album/3oe14m2WWfLW5tS4wNXxsL) | 3:45 | 2023-03-11 |  |
 | [WAHYA](https://open.spotify.com/track/1pJD9zWCzBBVZsGlv9UGo8) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [WAHYA](https://open.spotify.com/album/5SmEFZhrh7PTkDhNhM6zTP) | 2:22 | 2022-02-26 | 2022-03-18 |
 | [Walo Maliya والو ماليا](https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Walo Maliya](https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN) | 3:30 | 2022-06-16 | 2023-01-12 |
 | [Warda](https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Warda](https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx) | 3:25 | 2022-02-14 | 2022-06-28 |

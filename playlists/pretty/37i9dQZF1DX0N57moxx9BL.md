@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,505 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,632 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 24 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 |
 | 25 | [Dreamcatcher](https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [The Fear](https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1) | 3:23 |
 | 26 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 |
-| 27 | [Day by Day](https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Mirror Dimly](https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH) | 5:38 |
-| 28 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
+| 27 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
+| 28 | [Day by Day](https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Mirror Dimly](https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH) | 5:38 |
 | 29 | [End of the World](https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 5:54 |
 | 30 | [The Executioner](https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [The Executioner](https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT) | 4:07 |
 | 31 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 34 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 |
 | 35 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 |
 | 36 | [Halos](https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Death By Admiration](https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A) | 3:38 |
-| 37 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
-| 38 | [Legendary](https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Legendary](https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C) | 2:48 |
+| 37 | [Legendary](https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Legendary](https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C) | 2:48 |
+| 38 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
 | 39 | [Dark Cold Night](https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Dark Cold Night](https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB) | 4:41 |
 | 40 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 |
 | 41 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 |
 | 75 | [Way You Love Me](https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW) | 3:53 |
 | 76 | [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 |
-| 77 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 |
-| 78 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
-| 79 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 |
+| 77 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
+| 78 | [Boom \(The Crystal Method Remix\) \- 2021 Remaster](https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Ken Jordan](https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T), [Scott Kirkland](https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07) | [Boom \(The Crystal Method Remix\) \[2021 Remaster\]](https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr) | 3:16 |
+| 79 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 |
 | 80 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
 
-Snapshot ID: `MTY3NjYzNDIxMCwwMDAwMDAwMGE5ZWUzMWYwNDI2NTM2OGQ1NTVlOTA1MmIyOWE2OTlj`
+Snapshot ID: `MTY3NjYzNDIxMCwwMDAwMDAwMGMyMmI1MTljZDBhNmI3ZTE0ZWE4Yjg4YTZjZTVlMTM3`

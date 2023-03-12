@@ -4,7 +4,7 @@
 
 > Emerging sounds in worship from everywhere.
 
-194 songs - 16 hr 58 min
+195 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Stones \- Live](https://open.spotify.com/track/5bktIa0YLV05n2xnT7R9dO) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Wild Heart](https://open.spotify.com/album/2wkuGTRxZOldvPf9YeeQpx) | 6:48 | 2021-06-12 |  |
 | [The Blessing \(feat\. Maranda Curtis\) \- Song Session](https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Blessing \(feat\. Maranda Curtis\) \[Song Session\]](https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo) | 6:49 | 2021-06-12 |  |
 | [The Blessing \- Live](https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [The Blessing \(Live\)](https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE) | 8:34 | 2021-06-12 |  |
-| [The God Who Fights for Me](https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights for Me](https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y) | 3:45 | 2021-06-12 |  |
+| [The God Who Fights for Me](https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights For Me](https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE) | 3:45 | 2021-06-12 |  |
+| [The God Who Fights for Me](https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [The God Who Fights for Me](https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y) | 3:45 | 2021-06-12 | 2023-03-12 |
 | [The King In All His Beauty](https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [The King In All His Beauty](https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud) | 4:00 | 2021-06-12 |  |
 | [The Rock \(feat\. Tim Hughes\)](https://open.spotify.com/track/1S4GbmRNTJDwbX42L5X9Ij) | [Worship For Everyone](https://open.spotify.com/artist/5VYPBA36e08yP6JOMvPxau), [Nick & Becky Drake](https://open.spotify.com/artist/3jfLD5DtjrE6sk5cYpNhJQ), [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [The Rock \(feat\. Tim Hughes\)](https://open.spotify.com/album/3N1FmwFdKMiosU1zgPbxB3) | 4:05 | 2021-06-12 | 2022-07-29 |
 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 | 2021-06-12 |  |

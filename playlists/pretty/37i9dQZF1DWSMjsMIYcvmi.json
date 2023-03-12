@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 13583,
+  "num_followers": 13585,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzY2NDg0MiwwMDAwMDAwMDFmOWZlYWM1NGE3MTM5ZjJhMmIzZTlkZmE1ZDI2MjY4",
+  "snapshot_id": "MTYwNzY2NDg0MiwwMDAwMDAwMGU4ZTEwMjAxYWZlOTU0NWFkMjNhODIxM2I3ZTA5Yjk4",
   "tracks": [
     {
       "added_at": "2020-09-08 09:44:15",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
-      "added_at": "2019-04-02 06:22:26",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
       "added_at": "2019-03-03 14:37:31",
       "album": {
         "name": "Toto IV",
@@ -235,6 +219,22 @@
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2019-04-02 06:22:26",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2020-12-09 12:53:48",
@@ -473,6 +473,22 @@
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
+      "added_at": "2020-09-08 09:44:15",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
       "added_at": "2020-08-18 11:51:36",
       "album": {
         "name": "folklore",
@@ -491,22 +507,6 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2020-09-08 09:44:15",
-      "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2020-12-09 12:53:48",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
-      "added_at": "2020-06-05 11:02:55",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
-    },
-    {
       "added_at": "2020-01-07 11:03:16",
       "album": {
         "name": "Staying at Tamara's",
@@ -627,6 +611,22 @@
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2020-06-05 11:02:55",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "added_at": "2020-06-05 11:02:55",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
     },
     {
-      "added_at": "2019-06-12 07:12:38",
-      "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 196187,
-      "name": "Don't Give Up On Me - (From \"Five Feet Apart\")",
-      "url": "https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV"
-    },
-    {
       "added_at": "2018-09-23 12:39:12",
       "album": {
         "name": "Expectations",
@@ -1035,6 +1019,22 @@
       "duration_ms": 195519,
       "name": "I'm a Mess",
       "url": "https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"
+    },
+    {
+      "added_at": "2019-06-12 07:12:38",
+      "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 196187,
+      "name": "Don't Give Up On Me - (From \"Five Feet Apart\")",
+      "url": "https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV"
     },
     {
       "added_at": "2020-01-07 11:03:16",

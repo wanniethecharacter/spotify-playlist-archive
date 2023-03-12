@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 669005,
+  "num_followers": 669167,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMDcwZjMxYjUzMjg2NmVhMzQ5NGIwMDE3MWI0MzIyNzYy",
+  "snapshot_id": "MTY3NzA5MTE4NCwwMDAwMDAwMDU1ZjhhMTFiNjliMDdmYjVkNDA5MTlhZWRhMmVlYzAz",
   "tracks": [
     {
       "added_at": "2023-02-07 18:06:48",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
-      "added_at": "2023-02-07 18:06:48",
+      "added_at": "2023-03-12 00:58:44",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "The Gold (Phoebe Bridgers Version)",
-        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 233226,
-      "name": "The Gold - Phoebe Bridgers Version",
-      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -209,20 +205,24 @@
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
     },
     {
-      "added_at": "2023-03-11 01:25:39",
+      "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+        "name": "The Gold (Phoebe Bridgers Version)",
+        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+      "duration_ms": 233226,
+      "name": "The Gold - Phoebe Bridgers Version",
+      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "Black Leaves",
-        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 104280,
-      "name": "Black Leaves",
-      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 210895,
-      "name": "Take Some Time",
-      "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Sheep",
-        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
         }
       ],
-      "duration_ms": 215180,
-      "name": "Sheep",
-      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
+      "duration_ms": 210895,
+      "name": "Take Some Time",
+      "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -799,6 +783,22 @@
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Sheep",
+        "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 215180,
+      "name": "Sheep",
+      "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Hotel Surrender",
         "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "either side",
+      "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "either side",
-      "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
     },
     {
       "added_at": "2023-02-07 18:06:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-02-07 18:06:48",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
-    },
-    {
-      "added_at": "2023-02-07 18:06:48",
-      "album": {
         "name": "Don't Let Me Down (Demo)",
         "url": "https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 195535,
       "name": "Don't Let Me Down - Demo",
       "url": "https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL"
+    },
+    {
+      "added_at": "2023-02-07 18:06:48",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
     },
     {
       "added_at": "2023-02-07 18:06:48",

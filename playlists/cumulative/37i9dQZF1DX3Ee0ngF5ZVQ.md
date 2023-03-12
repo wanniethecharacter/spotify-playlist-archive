@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: The Panhandlers
 
-420 songs - 1 day 1 hr 1 min
+421 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [It's Gonna Take Neon](https://open.spotify.com/track/6PjQ5PfjRv72JkclFeN4t4) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [It's Gonna Take Neon](https://open.spotify.com/album/5PlGkJkgN7H4A9oGWk4TiX) | 3:27 | 2022-01-28 | 2022-08-06 |
 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-09 |  |
 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 | 2021-12-17 | 2022-06-18 |
-| [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 | 2022-08-19 |  |
+| [jackson](https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [What Else Can She Do](https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX) | 3:54 | 2022-08-19 | 2023-03-12 |
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 | 2022-07-10 |
 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 | 2023-02-25 |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
@@ -324,6 +324,7 @@
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 |  |
 | [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 |  |
+| [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
 | [Steady](https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Steady](https://open.spotify.com/album/2usrETNCWm7wx56mNkQ168) | 3:47 | 2022-06-03 | 2022-07-29 |
 | [Sticks and Stones](https://open.spotify.com/track/1yzLtMC3H04rentkZiHU5v) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Sticks and Stones](https://open.spotify.com/album/5ZkeHDmi5q2FBdQfcsZClF) | 3:30 | 2021-12-17 | 2022-01-08 |

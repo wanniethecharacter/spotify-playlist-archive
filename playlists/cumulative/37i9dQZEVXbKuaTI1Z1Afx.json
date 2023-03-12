@@ -5115,6 +5115,28 @@
     },
     {
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
       },
@@ -7000,7 +7022,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 174239,
       "name": "Fact (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD"
@@ -16453,6 +16475,24 @@
     },
     {
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/0bYyytYGK0EIwcGm9nFyKO"
+      },
+      "artists": [
+        {
+          "name": "caribbean",
+          "url": "https://open.spotify.com/artist/1W20yrykYsSQrXP5uBvYtS"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122427,
+      "name": "Painting Pictures",
+      "url": "https://open.spotify.com/track/388w7AL2APajofeBQqby1J"
+    },
+    {
+      "album": {
         "name": "PAINTING PICTURES",
         "url": "https://open.spotify.com/album/2etmOpS2sIksLvcbAzTDpJ"
       },
@@ -16464,7 +16504,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 121869,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/0IdkFyYIDMhJqz0NL5zCk9"
@@ -19006,7 +19046,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
@@ -21464,7 +21504,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/4hB8J06D2ZaGkWZDOMpYZB"

@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 51309,
+  "num_followers": 51388,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDk2ZWZlY2EyYTQ1YjQyMWQ3YzU2NjFhNWE2NzcwZTU1",
+  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDE1YzFiN2E1Y2E3ODJkMDJjNTAwOWM2MzY1Zjg2YzM4",
   "tracks": [
     {
       "added_at": "2022-12-09 12:25:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 212810,
+      "name": "Shots - Live From Spotify London",
+      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 212810,
-      "name": "Shots - Live From Spotify London",
-      "url": "https://open.spotify.com/track/2OmymQ2ONrm6iQJLX9qnmp"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Everything - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Everything - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Live 2013 at The O2 Arena, London",
         "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Best Song Ever (From THIS IS US)",
-        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
-      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Best Song Ever (From THIS IS US)",
+        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
+      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Candle In The Wind - Live",
-      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 265520,
       "name": "Take A Chance On Me - Live",
       "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Candle In The Wind - Live",
+      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Live: Sacred & Profane",
-        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Take My Breath Away - Live",
-      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 262533,
       "name": "Maps - Live In Manchester",
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Live: Sacred & Profane",
+        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Take My Breath Away - Live",
+      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
     },
     {
       "added_at": "2022-12-09 12:25:00",

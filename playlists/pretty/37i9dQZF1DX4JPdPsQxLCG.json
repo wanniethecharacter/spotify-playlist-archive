@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "num_followers": 49687,
+  "num_followers": 49692,
   "original_name": "Canadian Weekend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDU0MjY4MTQ2ZWRiM2Y0ZDAyYmRlODBmZWVkOWZmNjZl",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMGExZTllNzQ3MTcyNDNhNjdmNWUyN2ZjOGJhYzg5MjI5",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
+        "name": "The Union",
+        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
       },
       "artists": [
         {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
         }
       ],
-      "duration_ms": 345013,
-      "name": "Hello, I'm In Delaware",
-      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
+      "duration_ms": 181786,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "The Union",
-        "url": "https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn"
       },
       "artists": [
         {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
         }
       ],
-      "duration_ms": 181786,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
+      "duration_ms": 345013,
+      "name": "Hello, I'm In Delaware",
+      "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
     },
     {
       "added_at": "2022-09-13 21:55:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,717 likes - 345 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,096 likes - 345 songs - 14 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 20 | [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 |
 | 21 | [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 |
 | 22 | [Léopoldine](https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Léopoldine](https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM) | 2:45 |
-| 23 | [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 |
+| 23 | [Lifted By Clouds](https://open.spotify.com/track/5EGuIIQNERZqGKEUbynsqu) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Otherworldly](https://open.spotify.com/album/4firwTZqPeb61lvSPqDdx3) | 2:07 |
 | 24 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 |
 | 25 | [Wednesday, Weaving](https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so) | [Izzy Flynn](https://open.spotify.com/artist/4nglHdB53vreDOUajpOuAd) | [Wednesday, Weaving](https://open.spotify.com/album/1PvlQzGpoL3eek5TmOvmyd) | 2:18 |
 | 26 | [seulement vous](https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [seulement vous](https://open.spotify.com/album/0qlzv0RHDVgNc77X7uiKMH) | 1:46 |
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 344 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 |
 | 345 | [Le parole non bastano](https://open.spotify.com/track/3q257jNovvy9u7dW3BOo4u) | [Massimo Corciani](https://open.spotify.com/artist/0YeuG8IbzLJfqplMuNTxGI) | [Le parole non bastano](https://open.spotify.com/album/6EHWGXSxxhvtOSZVEHr52o) | 2:31 |
 
-Snapshot ID: `MTY3ODM4MTM1MSwwMDAwMDAwMDhlZTRhZDg1ODEyOGRiYTY5ZjQwM2JmMGU3ZWU0NDU0`
+Snapshot ID: `MTY3ODM4MTM1MSwwMDAwMDAwMGZjNTVmYWU4ZmI2OTNlNjdjYjFlMzhmODlmYjhiYmUx`

@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-102 songs - 6 hr 37 min
+103 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 | 2022-05-25 | 2023-03-07 |
 | [Lookin' Good](https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:17 | 2022-05-25 |  |
 | [Midnight In Memphis](https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps) | [Curtis Baker & The Bravehearts](https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR) | [Midnight In Memphis](https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60) | 3:07 | 2022-11-24 |  |
+| [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-03-03 |  |
 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 | 2022-05-25 |  |
-| [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 | 2022-11-24 |  |
+| [Ode to Lynn Taitt](https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Cindy Cashdollar](https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4) | [Ode to Lynn Taitt](https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h) | 3:01 | 2022-11-24 | 2023-03-12 |
 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 | 2022-05-25 |  |
 | [Okie Dokie Stomp](https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Peacock Recordings: 1949\-1959](https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV) | 2:34 | 2022-05-25 |  |
 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 | 2022-05-25 |  |

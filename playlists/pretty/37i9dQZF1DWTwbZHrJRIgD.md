@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Let these happy tunes put a smile on your face\. Cover \- Dear Zindagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,594 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,121 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 9 | [Time Traveller 2](https://open.spotify.com/track/1A773NO838tc7W7vF3f07u) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Time Traveller 2 \- Single](https://open.spotify.com/album/0WoIT0tcDkvW7rqW1ZQuYJ) | 4:44 |
 | 10 | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de) | 4:07 |
 | 11 | [Naina Da Kya Kasoor](https://open.spotify.com/track/4JQxGJ8jsKW8pOUVoAgOZr) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Andhadhun](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 3:30 |
-| 12 | [Mileya Mileya](https://open.spotify.com/track/2KpxQeRbF8ei9u1BeAOdBL) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Andrews](https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7rQN7PzgnjfUPRz9ATLbg6) | 4:26 |
+| 12 | [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tkBjsDswNuXjfVertqYPV) | 4:26 |
 | 13 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
 | 14 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
 | 15 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Befikra](https://open.spotify.com/track/06wTXKpDMrSp5OfB7MErpx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Natalie Ram](https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj), [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB), [Keshia Braganza](https://open.spotify.com/artist/1MnwT7VlD8pJpdbPK49b2k), [Gwen Dias](https://open.spotify.com/artist/1MUIFyUKNBBDXNjkyrPzDP), [Ryan Dias](https://open.spotify.com/artist/4GchJyd4c9eakThZ0j4tCd) | [Befikra](https://open.spotify.com/album/0TUEWVhmKubH0dknaTOKLi) | 5:51 |
 | 50 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 
-Snapshot ID: `MTY3NzgyODIwMCwwMDAwMDAwMDQ3Mzk5NzhiZDVmN2Y1MjBkOWY1N2RhZWMxYzBkYTQy`
+Snapshot ID: `MTY3NzgyODIwMCwwMDAwMDAwMGY4NWViNDU1MWNjMGZlMTc4NGNkZmI1MzBmMWQzOGYz`

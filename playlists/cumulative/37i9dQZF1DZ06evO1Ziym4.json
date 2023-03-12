@@ -430,10 +430,28 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 225706,
       "name": "Mr. Brownstone",
       "url": "https://open.spotify.com/track/4DnEyHNO8MdhFYFrDq73BV"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Mr. Brownstone",
+      "url": "https://open.spotify.com/track/65G4Ib3w7tgLjUkO5GseN0"
     },
     {
       "album": {

@@ -4387,6 +4387,28 @@
     },
     {
       "album": {
+        "name": "Pearls (SILK Remix)",
+        "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246718,
+      "name": "Pearls - SILK Remix",
+      "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
+    },
+    {
+      "album": {
         "name": "Petu EP",
         "url": "https://open.spotify.com/album/29wgJs8snld8eLbNkcjI70"
       },
@@ -4586,7 +4608,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 180223,
       "name": "Release Me (feat. Rationale) - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"

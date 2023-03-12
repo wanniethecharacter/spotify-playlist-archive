@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,427 likes - 34 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,636 likes - 34 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 5 | [Mool Mantra](https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra \- Single](https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW) | 7:45 |
 | 6 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 |
 | 7 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
-| 8 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 |
+| 8 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 |
 | 9 | [Pranayaam Mantra](https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Ravindra Sathe](https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX) | [Mantras To Start the Day](https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL) | 0:38 |
 | 10 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 |
 | 11 | [Om Shanti: Mantra for Peace](https://open.spotify.com/track/0uRzptpVnUqMLvz7ZrhMgP) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:00 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 33 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 |
 | 34 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 
-Snapshot ID: `MTY3NjAwNDI3NSwwMDAwMDAwMDgyMjA1YWZlNWYwN2UxOWVjMGY4YWQ5NTZkZDYxNWMy`
+Snapshot ID: `MTY3NjAwNDI3NSwwMDAwMDAwMDhjMWQ2OWYzNzcyODZhYzZiNTFhMGM2YzNlNTk0N2Q3`

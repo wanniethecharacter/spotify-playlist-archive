@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Torren Foot
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,367 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,389 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 15 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 |
 | 16 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 |
 | 17 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 |
-| 18 | [Assumptions \- Kaytranada Remix](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Remix\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
+| 18 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
 | 19 | [SCREAM](https://open.spotify.com/track/6yjytQ1pqXVN4aDnDYicQG) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [SCREAM](https://open.spotify.com/album/58xaLAi6iuwAyBFxiiLaPD) | 3:08 |
 | 20 | [You Belong To Me](https://open.spotify.com/track/0L9oRCTObdZLvYOAljy7BD) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [You Belong To Me](https://open.spotify.com/album/61zTk4TnNbUMlQIPQAJC27) | 2:42 |
 | 21 | [GET IT](https://open.spotify.com/track/1iE60Ny9k6vGmPRF7iKoUr) | [ZIOS](https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX) | [GET IT](https://open.spotify.com/album/0hA8jrWzuihDqEm7DZtZEK) | 3:32 |

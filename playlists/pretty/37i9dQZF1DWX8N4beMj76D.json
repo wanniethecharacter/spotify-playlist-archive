@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8522,
+  "num_followers": 8529,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGM0N2QyY2JiZTkxMzNiOGY3M2IyNjIyYTgzOTA2MGM4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGIyMWE2ZjUxZDA5NzY4MTRiM2FmYmFmMGUxZmQ3YmVh",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -179,6 +179,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Chelsea Hotel No. 2",
+      "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Granada",
         "url": "https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 291533,
       "name": "God Is Alive Magic Is Afoot",
       "url": "https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Chelsea Hotel No. 2",
-      "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
     },
     {
       "added_at": "2018-12-06 19:29:22",

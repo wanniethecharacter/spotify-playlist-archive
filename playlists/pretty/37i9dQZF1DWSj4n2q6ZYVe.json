@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 325744,
+  "num_followers": 326321,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMGI2MmMwYzk1ODgyNzkyYTQzNDNjODJlNGRhNzFkMTdi",
+  "snapshot_id": "MTY2OTk2NTY1MywwMDAwMDAwMGQyM2E5NTgwNzc1NzUyNmJmN2JhZGMzNjEzN2I0YTlk",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -227,26 +227,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Party Rock",
-        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
-      },
-      "artists": [
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Rock This Party (Everybody Dance Now)",
         "url": "https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 245466,
       "name": "Rock This Party - Everybody Dance Now",
       "url": "https://open.spotify.com/track/0Qn0i8df7Q76ej3RAXAtI2"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Party Rock",
+        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -375,26 +375,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Bag Raiders (Deluxe)",
         "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I'm Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I'm Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
     },
     {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
-    },
-    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1143,6 +1127,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/3BInmwpVjbcr3XyW6qGZ2Q"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "God Is a Girl",
+        "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
+      },
+      "artists": [
+        {
+          "name": "Groove Coverage",
+          "url": "https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "God Is a Girl",
+      "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Twenty",
@@ -1487,22 +1503,6 @@
       "duration_ms": 210786,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "God Is a Girl",
-        "url": "https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0"
-      },
-      "artists": [
-        {
-          "name": "Groove Coverage",
-          "url": "https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "God Is a Girl",
-      "url": "https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "20 Years of Hardcore (Remastered)",
-        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "20 Years of Hardcore (Remastered)",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "20 Years of Hardcore (Remastered)",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Weekend!",
+      "url": "https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Vicious Delicious",
         "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 192400,
       "name": "Welcome to the Club - Video Edit",
       "url": "https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "20 Years of Hardcore (Remastered)",
-        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/4kFmRFE9YzjKnUCbXQKnag"
     },
     {
       "added_at": "2021-04-29 18:40:15",

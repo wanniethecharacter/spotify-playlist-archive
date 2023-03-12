@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,402 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,622 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 44 | [Never Fall Apart: Epilogue](https://open.spotify.com/track/0LRJNAJZXoxWnMUuMvu3uF) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Never Fall Apart](https://open.spotify.com/album/65QVYu346MPfVZpBxHr9MK) | 5:39 |
 | 45 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
 | 46 | [Parched](https://open.spotify.com/track/2HLx0fc5WDpKXxPY6IWJMC) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Parched](https://open.spotify.com/album/5I4W743nQNBUZ76wdpg5ov) | 4:02 |
-| 47 | [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 4:32 |
+| 47 | [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 3:50 |
 | 48 | [Get It Back](https://open.spotify.com/track/29mhNauP6A7LSLqiMOWNlv) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Get It Back](https://open.spotify.com/album/1qUVp9K0Z7w4gMbpzq1wd3) | 3:24 |
 | 49 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 |
 | 50 | [Fly](https://open.spotify.com/track/0dOo9NqxZf5QtyzU44lhFS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Fly](https://open.spotify.com/album/4Av0ru4lo7D7fe0DlKDR10) | 2:43 |

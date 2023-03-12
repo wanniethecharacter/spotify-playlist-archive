@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 215666,
       "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
       "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 302834,
       "name": "Meu Universo",
       "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
@@ -1678,10 +1678,28 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 267142,
       "name": "No Secreto",
       "url": "https://open.spotify.com/track/5jBDl0t9QF4hHkElNCbmsg"
+    },
+    {
+      "album": {
+        "name": "H\u00e1 Um Vinho Novo",
+        "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314640,
+      "name": "No Sil\u00eancio",
+      "url": "https://open.spotify.com/track/5uWsP8qTYiCLycyFxf9pYE"
     },
     {
       "album": {
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
@@ -1827,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Basta Acreditar",
+        "url": "https://open.spotify.com/album/35bfGYis7fR7pponjtqlMv"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273072,
+      "name": "O Maior Vil\u00e3o Sou Eu",
+      "url": "https://open.spotify.com/track/0satRlTjJoDmTqOl8mmmy0"
+    },
+    {
+      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -1882,6 +1918,24 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "album": {
@@ -2246,7 +2300,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 269739,
       "name": "Romanos 8:26 (Ao Vivo)",
       "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
@@ -2440,7 +2494,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 317373,
       "name": "Somos - Ao Vivo",
       "url": "https://open.spotify.com/track/3QvKLhzoyUbI30KtyrIdId"
@@ -2796,7 +2850,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 285624,
       "name": "Vai Passar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"

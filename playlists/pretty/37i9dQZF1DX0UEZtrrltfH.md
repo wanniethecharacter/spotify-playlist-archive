@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,807 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,851 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 44 | [BFF](https://open.spotify.com/track/0G7ociNk1wIbXcU6uXtWPi) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Slayyyter](https://open.spotify.com/album/0e35TENSTAVVkaHlVEsTtz) | 3:35 |
 | 45 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/2DyongA2O2BVHxmOqgCreE) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Sweat \(SOPHIE Remix\)](https://open.spotify.com/album/3jlEeZAHKsFfVqUHIfljkN) | 4:18 |
 | 46 | [Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Legendary Member](https://open.spotify.com/album/7hpf92OLaz5UgW71sPMkaQ) | 2:35 |
-| 47 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
+| 47 | [Dial Tone](https://open.spotify.com/track/3UEjF6mHBlYo5yJsQaDuwI) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI) | [Dial Tone](https://open.spotify.com/album/5Sur0eCCXcse2MTzl9Fe4V) | 2:58 |
 | 48 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 49 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 |
 | 50 | [Confusion \- Pump Panel Reconstruction Mix](https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 10:12 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDhmNzdiNDM5NGEwOGQ2OThiNTcwZWJlMDE5MjgzOGJm`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDczMjU3MDFhNDRmMDhkNWU3NGQ5NTdlNWNhZjg4YTg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. sueco
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,809 likes - 81 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,792 likes - 81 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 33 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 |
 | 34 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 |
 | 35 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 |
-| 36 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsey Karter & The Heroines](https://open.spotify.com/artist/6LQggZd9VkeNQiXdLChrDc) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
+| 36 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 | 37 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 38 | [Bookie's Dirtbag](https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Bookie's Dirtbag](https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K) | 4:00 |
 | 39 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 |

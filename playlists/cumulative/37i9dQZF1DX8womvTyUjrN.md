@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Nicki Nicole
 
-332 songs - 16 hr 55 min
+333 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-02-24 |  |
 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 | 2022-07-08 | 2022-10-29 |
 | [Llorar En La Ducha](https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Llorar En La Ducha](https://open.spotify.com/album/7vdPp2sx8qDWDKdQx9BA0O) | 3:15 | 2022-05-06 | 2022-07-29 |
+| [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 |  |
 | [Loco](https://open.spotify.com/track/2PI1tFqXSeJQmgPniuWGda) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Loco](https://open.spotify.com/album/55o4WYcOPxOlfw1mgVyGA0) | 2:30 | 2022-09-09 | 2022-10-29 |
 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 | 2022-10-28 | 2023-03-08 |
 | [Los Hombres Son Todos Iguales](https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Los Hombres Son Todos Iguales](https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY) | 4:04 | 2023-02-10 |  |
@@ -253,7 +254,7 @@
 | [Playita En La Sala](https://open.spotify.com/track/1Oe2qkD3a6xxWHyn97mNU8) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Hookiao](https://open.spotify.com/album/3e6r8fexEPSAZsf8YvPiXn) | 2:24 | 2022-03-21 | 2022-06-13 |
 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 | 2022-07-08 | 2022-10-29 |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-07-28 | 2022-10-29 |
-| [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-01-13 |  |
+| [Plástico](https://open.spotify.com/track/7IdpZfT9vIWTEEA1pFGJNN) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Plástico](https://open.spotify.com/album/7L8mnNljgSj1MDAKnww7S9) | 2:49 | 2023-01-13 | 2023-03-12 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-03-21 | 2022-05-07 |
 | [Poco a Poco](https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Poco a Poco](https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl) | 4:30 | 2022-06-12 | 2022-10-29 |
 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 | 2022-03-21 | 2022-04-02 |

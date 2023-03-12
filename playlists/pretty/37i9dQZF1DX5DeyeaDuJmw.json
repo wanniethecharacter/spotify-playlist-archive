@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 138781,
+  "num_followers": 138862,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDJiY2ViOGIwYzRhMjg0NzUyOWE4NjkyNzExMWNmOTcy",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDM1MzJjZDU0MGVhNjZiNTJkMWY3ODkzM2NkZWYzZDlh",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "En El Jacuzzi",
+        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "En El Jacuzzi",
+      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "La Mentira (Remix)",
         "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "En El Jacuzzi",
-        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "En El Jacuzzi",
-      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Sola & Vac\u00eda",
+        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 182675,
+      "name": "Sola & Vac\u00eda",
+      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 248966,
       "name": "BICI",
       "url": "https://open.spotify.com/track/3TBZtPqL5tuOk5QYH9WvvK"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Sola & Vac\u00eda",
-        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 182675,
-      "name": "Sola & Vac\u00eda",
-      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "BLUNTED 5 (Remix)",
         "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 141075,
       "name": "BLUNTED 5 - Remix",
       "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 201858,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Titubeo",
         "url": "https://open.spotify.com/album/5EVsvDYBjnXWPmnpdwVOVw"
       },
@@ -1687,22 +1667,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
+        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
+      "duration_ms": 217263,
+      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1727,6 +1707,26 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1879,30 +1879,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1923,6 +1899,30 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Antonio",
+        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Antonio",
+      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Antonio",
-        "url": "https://open.spotify.com/album/273BcEEtroFzuHpJqvR2DR"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Antonio",
-      "url": "https://open.spotify.com/track/6ySWF4gnL9irO78ddAHQX7"
     }
   ],
   "unique_name": "Rimas y Perreo",

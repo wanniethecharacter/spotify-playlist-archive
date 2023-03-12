@@ -678,10 +678,32 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 197040,
       "name": "BEB\u00ca T\u00c1 SOLTA",
       "url": "https://open.spotify.com/track/2xglzPeWAhJAdWpTmmjc38"
+    },
+    {
+      "album": {
+        "name": "BEB\u00ca T\u00c1 SOLTA",
+        "url": "https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Dj Bn\u00e3o",
+          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197104,
+      "name": "BEB\u00ca T\u00c1 SOLTA",
+      "url": "https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE"
     },
     {
       "album": {
@@ -4740,6 +4762,10 @@
         {
           "name": "Murilo Cajaiba",
           "url": "https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "date_added": "2023-02-06",

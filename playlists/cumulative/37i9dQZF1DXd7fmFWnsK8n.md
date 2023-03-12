@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-134 songs - 9 hr 37 min
+135 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,18 +13,18 @@
 | [Ache](https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:06 | 2022-06-09 |  |
 | [Bang!Bang!Bang!](https://open.spotify.com/track/7fFTv30HXrskzZ3Mdb6eoz) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:19 | 2023-03-07 | 2023-03-09 |
 | [Bang!Bang!Bang!](https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:21 | 2022-06-09 |  |
-| [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [Trigger](https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 | 2023-03-07 |  |
+| [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 | 2023-03-07 |  |
 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 | 2022-12-13 |  |
 | [Boys & Girls](https://open.spotify.com/track/17cQxYJ2mcanjoPMwDYAxz) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Opus](https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi) | 4:06 | 2022-06-14 | 2022-07-23 |
 | [Crescent rise](https://open.spotify.com/track/4eFTSvQq9wmNZ1lW1YLZJd) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Crescent rise](https://open.spotify.com/album/3YZZ5tD78xFEa1C9YbOgmC) | 5:36 | 2022-06-09 | 2022-07-29 |
-| [Crescent rise](https://open.spotify.com/track/1IpVaRVTAIr6LrDJuyFBye) | [Trigger](https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 5:37 | 2023-03-07 |  |
+| [Crescent rise](https://open.spotify.com/track/1IpVaRVTAIr6LrDJuyFBye) | [Trigger](https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 5:37 | 2023-03-07 | 2023-03-12 |
 | [Dancing∞BEAT!!](https://open.spotify.com/track/16uBIBXoHbN9fIMLgDIKoP) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:47 | 2022-06-14 | 2022-07-10 |
 | [DAYBREAK INTERLUDE](https://open.spotify.com/track/2EJ9iqqcZ3fo2viIC6mO95) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:52 | 2022-06-09 |  |
 | [Dear Butterfly](https://open.spotify.com/track/3c6fOvtJ2Yg0qZVDQyGBXC) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Dear Butterfly](https://open.spotify.com/album/6wO2L0VdYke2m2AxjPbx5D) | 5:05 | 2022-06-09 | 2023-03-08 |
 | [Dejavu](https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB) | [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Dejavu](https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5) | 3:55 | 2022-06-09 |  |
 | [DESTINY](https://open.spotify.com/track/5uSgEKvV4swXwWG109kCMm) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:37 | 2022-06-09 | 2022-07-29 |
 | [DIAMOND FUSION](https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 3:57 | 2022-06-09 | 2023-03-08 |
-| [DIAMOND FUSION](https://open.spotify.com/track/3JqN8blZpThioKYqirQXX5) | [Trigger](https://open.spotify.com/artist/2L7K9tCouY6bC0Al8gQhDe) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 3:57 | 2023-03-07 |  |
+| [DIAMOND FUSION](https://open.spotify.com/track/3JqN8blZpThioKYqirQXX5) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 3:57 | 2023-03-07 |  |
 | [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 | 2022-06-09 |  |
 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 | 2022-06-09 | 2023-03-08 |
 | [Drift driving](https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:04 | 2022-06-09 |  |
@@ -109,6 +109,7 @@
 | [Viva! Fantastic Life!!!!!!!](https://open.spotify.com/track/1cEUUpMv30fWDebbB2yVrQ) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:06 | 2022-06-09 | 2023-02-11 |
 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 | 2022-06-09 |  |
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 |  |
+| [YOUR RHAPSODY](https://open.spotify.com/track/7CHlI1L51UCziupZC3BzfD) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:07 | 2023-03-07 |  |
 | [ZONE OF OVERLAP](https://open.spotify.com/track/5VuIvbKbqslaV2UpT9oINy) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:59 | 2023-03-07 | 2023-03-09 |
 | [ZONE OF OVERLAP](https://open.spotify.com/track/3G7t21C567I2ryejOVX2ue) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Bang!Bang!Bang!](https://open.spotify.com/album/3mvj8t30jZOic1I5Oe2gFg) | 4:01 | 2022-06-09 |  |
 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 | 2022-06-09 |  |

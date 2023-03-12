@@ -2,12 +2,13 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Palankin \(Ana Rock\)
+> Grandes sucessos e novidades do rock Cristão\. Foto: Central 3, Laura Souguellis
 
-88 songs - 7 hr 13 min
+90 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000 Graus](https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Melyssa Almeida](https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq) | [1000 Graus](https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB) | 2:48 | 2023-03-11 |  |
 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder \- Ao Vivo](https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's \(Ao Vivo\)](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 3:52 | 2022-09-02 |  |
 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 | 2022-09-02 |  |
 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 | 2022-09-02 |  |
@@ -34,7 +35,7 @@
 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 | 2022-09-02 |  |
 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's \(Ao Vivo\)](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 | 2022-09-02 |  |
 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Espelhos Mágicos / Naves Imperiais \(Ao Vivo\)](https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky) | 4:25 | 2022-09-02 | 2022-09-22 |
-| [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 | 2022-09-02 |  |
+| [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 | 2022-09-02 | 2023-03-12 |
 | [Estamos de Pé \- Ao Vivo](https://open.spotify.com/track/715slv9zyByop7EttlmTjQ) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG) | 6:36 | 2022-09-02 |  |
 | [Estrangeiro](https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Estrangeiro](https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI) | 3:46 | 2022-09-02 |  |
 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz \- Ao Vivo](https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Eu Quero É Deus / Celebrai a Cristo / Aquele Que Está Feliz \(Ao Vivo\)](https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0) | 4:43 | 2022-09-02 | 2022-09-22 |
@@ -56,7 +57,7 @@
 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 | 2022-09-02 |  |
 | [Medley Leão de Judá \- Ao Vivo](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's \(Ao Vivo\)](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 | 2022-09-02 |  |
 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 | 2022-09-02 |  |
-| [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 |  |
+| [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 | 2023-03-12 |
 | [Meu Valor](https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu) | 2:53 | 2022-09-02 | 2023-02-12 |
 | [Meu Valor](https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ) | 2:53 | 2023-01-20 |  |
 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 | 2023-03-03 |  |
@@ -78,6 +79,7 @@
 | [Que o Cordeiro Receba \- Ao Vivo](https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Santificado \(Ao Vivo\)](https://open.spotify.com/album/7cEtIbSLnL4SifJaxkm4E1) | 9:22 | 2023-03-03 |  |
 | [Quem de Nós \- Versão Alternativa](https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Bruno Faglioni](https://open.spotify.com/artist/4LIbjnopQ6CL8GEybKGTmq) | [Quem de Nós \(Versão Alternativa\)](https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe) | 5:07 | 2022-09-02 | 2022-10-15 |
 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 | 2022-09-02 |  |
+| [Rei da Glória](https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Pevê Brito](https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Rei da Glória](https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP) | 5:39 | 2023-03-11 |  |
 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 | 2022-09-02 |  |
 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 | 2022-09-02 |  |
 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 | 2022-09-02 |  |

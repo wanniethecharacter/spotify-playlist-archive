@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,575 likes - 30 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,862 likes - 30 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 22 | [Heart Attack](https://open.spotify.com/track/7Cq27Qc3WRyQ3ddwVslpVZ) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Chaxsthexry](https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ) | 3:13 |
 | 23 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/1xIibyoUvyxwoNqx8quHSz) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 3:46 |
 | 24 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 |
-| 25 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
-| 26 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
+| 25 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
+| 26 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 27 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
 | 28 | [Rocket](https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [Sogno](https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG) | 1:46 |
 | 29 | [If Self\-Destruction Was an Olympic Event, I’d Be Tonya Harding](https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:22 |
 | 30 | [STEP BACK \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [LOST IN HERE](https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS) | 2:56 |
 
-Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMDFlODhlYzg4YzYwNmNjMzY0MjZlNGVlZWJkYjcxY2Mz`
+Snapshot ID: `MTY3NzU0MDAwNCwwMDAwMDAwMDBlYTgxNTE3YzhhMjA5OGFmMjQxZDQ5ODQ4MmQ0ODZk`

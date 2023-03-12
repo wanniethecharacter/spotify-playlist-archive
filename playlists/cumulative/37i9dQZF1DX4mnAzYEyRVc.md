@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-472 songs - 1 day 3 hr 19 min
+473 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 | 2021-12-06 |  |
 | [Night Boat To Cairo \- 2009 \- Remaster](https://open.spotify.com/track/1m1PWQeZcDBmFsLCJ5qSdn) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond \(35th Anniversary\)](https://open.spotify.com/album/6MB4YsooVLsTTA9HN24SaA) | 3:31 | 2021-12-06 | 2022-07-29 |
 | [Night Train To Moscow](https://open.spotify.com/track/0sfKsl812lm4CwwyqPF9jm) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/6X8tpqmDaCWHvg7JOmfkXt) | 2:23 | 2021-12-06 | 2022-07-29 |
-| [Night Train to Moscow](https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/7LoRVrbrsi12hSTXJElZG0) | 2:23 | 2021-12-06 |  |
+| [Night Train to Moscow](https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/7LoRVrbrsi12hSTXJElZG0) | 2:23 | 2021-12-06 | 2023-03-12 |
 | [No More Politicians Alive](https://open.spotify.com/track/2wN7zvJXNUNmlSGtRgq2lk) | [The Cabrians](https://open.spotify.com/artist/3Epvk9KEXtCtXVAO0SmpbY) | [For A Few Pussies More](https://open.spotify.com/album/3eG06p3LcdycmFFJ7BbEB5) | 2:43 | 2021-12-06 | 2022-07-29 |
 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 | 2021-12-06 |  |
 | [No No No](https://open.spotify.com/track/15dJCt2q0MoOXwmgGmfcS1) | [Wonderska](https://open.spotify.com/artist/4ocwNMwv78OneVPdjUX6cb) | [Ska..\. Ska..\. Skandal No\. 6](https://open.spotify.com/album/20lgBQ47Go1UtZKozN9tFO) | 4:52 | 2021-12-06 | 2022-07-24 |
@@ -342,6 +342,7 @@
 | [Santeria](https://open.spotify.com/track/0ARZGqAgmhfttwEgHTwrFt) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [90s Rock Hits](https://open.spotify.com/album/5DELeJnBojemtXbEgl1aIh) | 3:03 | 2021-12-06 | 2022-11-13 |
 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 | 2021-12-06 |  |
 | [Satan's Swing](https://open.spotify.com/track/16OEoNS6cxYB82u9qfCJnQ) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI) | 2:31 | 2021-12-06 | 2023-02-24 |
+| [Satan's Swing](https://open.spotify.com/track/2t4BMouccDQHDnUQuy8tqp) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Locos y Rucas In Retro](https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH) | 2:31 | 2021-12-06 |  |
 | [Schaukeln](https://open.spotify.com/track/0xhqgHH7ye5xSN1p0KwTUF) | [Rafiki](https://open.spotify.com/artist/1WjmRjbCVq3TeXCICCLfpa) | [Schaukeln](https://open.spotify.com/album/2X8DYxIYYI8r0BGwdMxBvn) | 3:04 | 2021-12-06 | 2022-07-28 |
 | [Seamos más que amigos \- Remastered](https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs) | 3:55 | 2021-12-06 | 2023-02-20 |
 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 | 2021-12-06 |  |

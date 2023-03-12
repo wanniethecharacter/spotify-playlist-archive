@@ -876,7 +876,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3571,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Abcitoo",
+          "url": "https://open.spotify.com/artist/2ITY7VxNVZseegV5EddAVN"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Daydate (feat. Abcitoo)",
+      "url": "https://open.spotify.com/track/4HQZqXCDny7EECn458ez55"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -4088,6 +4110,24 @@
       "duration_ms": 160880,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm"
+    },
+    {
+      "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141190,
+      "name": "Dit Liv Dit Valg",
+      "url": "https://open.spotify.com/track/7vm1T1Vv4xdMKk04OlesMd"
     },
     {
       "album": {
@@ -4958,7 +4998,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 153856,
       "name": "Endnu En Krig (feat. Lasse Skriver)",
       "url": "https://open.spotify.com/track/4vmpWGyqItUCOwFlJLjyw1"
@@ -5788,10 +5828,28 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "album": {
@@ -5846,7 +5904,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 159012,
       "name": "Flytter Bjerge (feat. Branco)",
       "url": "https://open.spotify.com/track/1Xer1Y9qrReXcVk2qmsYOP"
@@ -6060,6 +6118,24 @@
       "duration_ms": 121571,
       "name": "Forhold",
       "url": "https://open.spotify.com/track/5KNElTOMEGGa88OHR7ckt3"
+    },
+    {
+      "album": {
+        "name": "Forsvinder Aldrig",
+        "url": "https://open.spotify.com/album/7IPBn9xcZ2i9d4YYrgteoe"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253548,
+      "name": "Forsvinder Aldrig",
+      "url": "https://open.spotify.com/track/7IxbCGeFr8xEsBzOZt8mox"
     },
     {
       "album": {
@@ -7933,6 +8009,28 @@
     },
     {
       "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198201,
+      "name": "Hop Ind I Bilen (feat. Gilli)",
+      "url": "https://open.spotify.com/track/5UweB9ExGhruhWeEYSHmG1"
+    },
+    {
+      "album": {
         "name": "Nik & Jay",
         "url": "https://open.spotify.com/album/0cINk796XT7YhwuL0okHpE"
       },
@@ -8042,7 +8140,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -8576,7 +8674,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 170393,
       "name": "I Dette Sekund",
       "url": "https://open.spotify.com/track/6CXEE50UwavPX2ExFa26EY"
@@ -9359,6 +9457,28 @@
     },
     {
       "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127239,
+      "name": "Internet (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/1uIlVnxuqWGkj1LSEveRUk"
+    },
+    {
+      "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
       },
@@ -9682,6 +9802,28 @@
       "duration_ms": 538536,
       "name": "Jesus Lord",
       "url": "https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5"
+    },
+    {
+      "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144197,
+      "name": "Jet Li (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/4Kwem7PKNogrUOYlAHIbFY"
     },
     {
       "album": {
@@ -10894,7 +11036,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -12479,6 +12621,28 @@
     },
     {
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
       },
@@ -13828,7 +13992,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 147226,
       "name": "Ny I Byen",
       "url": "https://open.spotify.com/track/4USLnI3inBG5610CsU3mEz"
@@ -14340,7 +14504,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 136710,
       "name": "Paid",
       "url": "https://open.spotify.com/track/4TduZWpCeQP1YKrrqzPbw4"
@@ -15257,6 +15421,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -15468,6 +15650,28 @@
       "duration_ms": 173513,
       "name": "Samma gamla vanliga (feat. Branco & Kamelen) - Remix",
       "url": "https://open.spotify.com/track/6BrXK35IO466yYtq7iGqVh"
+    },
+    {
+      "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Sammen Med Dig (feat. KESI)",
+      "url": "https://open.spotify.com/track/3osutFOQ1EetSWnrlRZgSt"
     },
     {
       "album": {
@@ -15967,6 +16171,24 @@
     },
     {
       "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140759,
+      "name": "Sifu",
+      "url": "https://open.spotify.com/track/31kqnpjnSqHGcCTaW0VTyO"
+    },
+    {
+      "album": {
         "name": "Sig Det",
         "url": "https://open.spotify.com/album/1ftVwVIB2xbcnEO043J0qu"
       },
@@ -16408,7 +16630,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 202915,
       "name": "Snubler",
       "url": "https://open.spotify.com/track/6oNgurLd0pCnLMWPOxt5Es"
@@ -16702,10 +16924,36 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 212444,
       "name": "Sp\u00f8rgsm\u00e5l (feat. Gilli & Lamin)",
       "url": "https://open.spotify.com/track/3lCI7M5mWqRCehrT7qiEI8"
+    },
+    {
+      "album": {
+        "name": "Dit Liv Dit Valg",
+        "url": "https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212444,
+      "name": "Sp\u00f8rgsm\u00e5l (feat. Gilli & Lamin)",
+      "url": "https://open.spotify.com/track/54U7i6gFHvyk8y4j8gTTor"
     },
     {
       "album": {
@@ -18480,7 +18728,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 266040,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"

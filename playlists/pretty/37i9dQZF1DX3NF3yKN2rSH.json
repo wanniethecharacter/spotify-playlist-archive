@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53013,
+  "num_followers": 53011,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDI0N2JkM2Y4ZmEwNzU1OWRmYzliMTllMTFhMGRhZDA4",
+  "snapshot_id": "MTY3NjY5OTQ1NCwwMDAwMDAwMDY0ZTFkYTZhYjk1ZjAwNWM2YjBlMDdhYjgxZjhhYzlm",
   "tracks": [
     {
       "added_at": "2023-02-18 05:50:54",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
+        "name": "Nicole C. Mullen",
+        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole C. Mullen",
+          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
-        "name": "Nicole C. Mullen",
-        "url": "https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole C. Mullen",
-          "url": "https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Demonstrate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 348680,
-      "name": "Arise (You Are Good)",
-      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+        "name": "Demonstrate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+      "duration_ms": 348680,
+      "name": "Arise (You Are Good)",
+      "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 229800,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2023-02-18 05:50:54",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-18 05:50:54",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2023-02-18 05:50:54",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 266466,
       "name": "Nothing But the Blood v1.1",
       "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
+    },
+    {
+      "added_at": "2023-02-18 05:50:54",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-02-18 05:50:54",

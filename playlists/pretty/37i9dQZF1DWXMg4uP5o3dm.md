@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Grabbitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,535 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,596 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 57 | [Flatline](https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K) | 2:54 |
 | 58 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 59 | [HOUNDIN PT\. II](https://open.spotify.com/track/1tBTGM9KtbCZvt6EPXWGrP) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HOUNDIN PT\. II](https://open.spotify.com/album/5fhi8FFl90FTxFJVfdY7pf) | 3:14 |
-| 60 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
-| 61 | [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 |
+| 60 | [Feel Real Pretty](https://open.spotify.com/track/3RcoIYZ9HOJ8nhKLRV9c4e) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/6zLwTLoaEO41zOMSY64MSD) | 3:03 |
+| 61 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
 | 62 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
 | 63 | [I Like to Party](https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 2:57 |
 | 64 | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Oh No!!! \(from The Suicide Squad\)](https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp) | 3:33 |
 | 65 | [Feel It](https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:51 |
 | 66 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 |
-| 67 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |
+| 67 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
 | 68 | [Mr Regular](https://open.spotify.com/track/0DBXMMwNYbo0O8wCzpVXkC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 2:54 |
-| 69 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 |
+| 69 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |
 | 70 | [Wolves](https://open.spotify.com/track/4opjWVKT2xmlkgn1ejStcY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 3:43 |
 | 71 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 | 72 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 95 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
 | 96 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
 | 97 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 98 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
-| 99 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
+| 98 | [Go Down Together](https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Draw Down The Moon](https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n) | 3:15 |
+| 99 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
 | 100 | [Have Fun](https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Have Fun](https://open.spotify.com/album/1xbi36lPp1gIjz9q8hL06C) | 3:56 |
 
-Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMGEwNmRhM2IyMWNlMGI1ZTRiMTNkNDA0N2E1Y2Q2ZmJj`
+Snapshot ID: `MTY3NTYxNTA5MiwwMDAwMDAwMDhiZDUxYzMyZGUxYWU3ZWFkYWJkOGJmMWZlNjAxYjVh`

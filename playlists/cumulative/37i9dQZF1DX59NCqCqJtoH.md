@@ -4,7 +4,7 @@
 
 > We hear you.
 
-550 songs - 1 day 3 hr 10 min
+551 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [say those things](https://open.spotify.com/track/3xiNoKG659HRaQwOoE7bHF) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [say those things](https://open.spotify.com/album/1XvickaUOGHJjeksW1aule) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/track/7ax2Jyn0CEjsWMZwrSREHy) | [Faye](https://open.spotify.com/artist/46OMcdfGCQJUOaA7o15lJG), [Sofflee](https://open.spotify.com/artist/5nnYwpUK0wd8uxU95JLU71) | [Screams and Dreams \(Staying Friends\)](https://open.spotify.com/album/1DnIl52atsyfrmlIkGC3CM) | 2:25 | 2021-04-02 | 2022-04-18 |
 | [Second Base](https://open.spotify.com/track/0krnQme22s9WqbuUq940fg) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Second Base](https://open.spotify.com/album/1CpVfieiYFzxzbiwckVBbl) | 2:37 | 2021-04-02 | 2022-07-27 |
-| [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-11-08 |  |
+| [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-11-08 | 2023-03-12 |
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-04-02 | 2022-07-29 |
 | [September 13th](https://open.spotify.com/track/5JzhtNahrk4YvntIa7jGNp) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Closure](https://open.spotify.com/album/3lLOJxYWfrolopz8MnKLIc) | 3:36 | 2021-04-02 | 2022-04-21 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-01-25 | 2022-07-16 |
@@ -529,6 +529,7 @@
 | [Welcome to Wonderland](https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Welcome to Wonderland](https://open.spotify.com/album/6YgJ3NjlqdUX6MdejVudHp) | 3:19 | 2021-04-02 | 2022-12-24 |
 | [West Coast City](https://open.spotify.com/track/5AmzmWV5W2cGE3pHesHMmS) | [Tucker Rivera](https://open.spotify.com/artist/09WHWCIpkmBt5LP1OyZLxb) | [West Coast City](https://open.spotify.com/album/5lbDm1Ere07s0xf78mdeFY) | 3:15 | 2021-04-02 | 2022-07-29 |
 | [WH\(3\)RE](https://open.spotify.com/track/0a9Rsv690tu7k9uTBhLuIf) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [honest red](https://open.spotify.com/album/4Ngf93EC3XujEo0qRdawk0) | 2:05 | 2021-04-02 | 2022-04-19 |
+| [what does he have that i don't?](https://open.spotify.com/track/24ryJISwrqnR9GARIFUMTZ) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ) | 1:31 | 2022-11-11 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 | 2021-04-02 | 2022-12-24 |
 | [When I'm No Longer Here](https://open.spotify.com/track/091BHawNKMMYOPh1W2N4jr) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [When I'm No Longer Here](https://open.spotify.com/album/4Jd4g64sw6JKYFNPccByxd) | 2:39 | 2021-04-02 | 2022-04-12 |
 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-04-02 | 2022-10-15 |

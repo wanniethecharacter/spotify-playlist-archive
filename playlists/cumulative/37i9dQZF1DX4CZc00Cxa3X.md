@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-199 songs - 15 hr 51 min
+200 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Crescent](https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Crescent](https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc) | 5:51 | 2022-08-17 | 2023-02-18 |
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 | 2023-01-21 |
 | [Dear \- Amulets Rework](https://open.spotify.com/track/6vzo1YkZADgaP8WzTLld2D) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Amulets](https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt) | [Dear \(Amulets Rework\)](https://open.spotify.com/album/21iHYe4bks6r9xxmbvYJbj) | 5:28 | 2022-12-20 |  |
+| [Deep Creek \(Autumn, 2.33pm\) \- 528hz Meditation](https://open.spotify.com/track/6C1JNqeXFWlAiZc4G42ia1) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Awake Within The Dream: Sound Meditations, Vol\. 1](https://open.spotify.com/album/08NsoOBj6S7PfCp7sGDNPL) | 9:28 | 2023-03-11 |  |
 | [Deep Time](https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk) | [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL), [Ruan](https://open.spotify.com/artist/5jcPfUXM1Mo5coDLdpurNr) | [Deep Time](https://open.spotify.com/album/5XD0RPWsp1bJmNL3JXy1jd) | 3:56 | 2022-07-08 | 2022-07-21 |
 | [Dense Cover](https://open.spotify.com/track/4LeRGWmKd87ixbTS2smg6e) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [A Little Night Music: Aural Apparitions from the Geographic North](https://open.spotify.com/album/3Gd318rDShK1Ds12n3AATc) | 4:18 | 2022-03-30 | 2022-07-29 |
 | [Dewey](https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 4:54 | 2022-05-25 |  |
@@ -144,7 +145,7 @@
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 |  |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 | 2023-01-28 |
 | [Scraping Bottom](https://open.spotify.com/track/4Ogz3gT1fLa1QbJEqRQhWM) | [Erick McNerney](https://open.spotify.com/artist/6XyrTf4egAUHQaGGZCOFIF) | [Music For Runways](https://open.spotify.com/album/3HkSJaQqyYXS5FYiMG6B2t) | 10:36 | 2022-03-17 | 2022-07-26 |
-| [Sea Kaleidoscope](https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Waves Tapes](https://open.spotify.com/album/3iLe9TqutnZJAnaeT4Y2a6) | 6:47 | 2022-07-08 |  |
+| [Sea Kaleidoscope](https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Waves Tapes](https://open.spotify.com/album/3iLe9TqutnZJAnaeT4Y2a6) | 6:47 | 2022-07-08 | 2023-03-12 |
 | [Sealed](https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Oto No Wa: Selected Sounds of Japan 1988\-2018](https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn) | 5:51 | 2022-03-17 | 2023-01-28 |
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-08 |  |
 | [Seconds](https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC) | 2:03 | 2022-03-17 | 2022-07-29 |

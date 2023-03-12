@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists, co-curated by  <a href=\u201chttps://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs?si=ynZhn3bXQ5S1M1yxXVpkmg\u201d>Janelle Mon\u00e1e</a>  for International Women\u2019s Day.",
-  "num_followers": 37067,
+  "num_followers": 37163,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMGJhNjAxY2Q1ZWZlMDU2NTdiZjJkOTMyZmI5ZWVlMmQ5",
+  "snapshot_id": "MTY3NzY0NjgwMCwwMDAwMDAwMDdkZTQ1NzQxNWZlNmI4ZTA1MTgxYmIwZWM0MjhjMTQ3",
   "tracks": [
     {
       "added_at": "2023-03-01 05:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-01 05:00:00",
       "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
+    {
+      "added_at": "2023-03-01 05:00:00",
+      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
-    },
-    {
-      "added_at": "2023-03-01 05:00:00",
-      "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-03-01 05:00:00",

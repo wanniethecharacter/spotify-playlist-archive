@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1163927,
+  "num_followers": 1164109,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE5NDM2MSwwMDAwMDAwMDFkMTk4YWVmZWMzZmQ2OTI1YjUxYzUzOTUzOTMyNGJi",
+  "snapshot_id": "MTY3ODE5NDM2MSwwMDAwMDAwMGZkZTBhNzVlMDQ3YzY5YWI4NTVkM2QwOTc4Y2UzOGZm",
   "tracks": [
     {
       "added_at": "2023-03-07 13:06:01",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
         "name": "With a Twist",
         "url": "https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 279853,
       "name": "Let\u2019s Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
-      },
-      "artists": [
-        {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
-        }
-      ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1583,6 +1551,38 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
+      },
+      "artists": [
+        {
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
+        }
+      ],
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "duration_ms": 262920,
+      "name": "It Amazes Me",
+      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+    },
+    {
+      "added_at": "2023-03-07 13:06:01",
+      "album": {
         "name": "In The Moonlight",
         "url": "https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2023-03-07 13:06:01",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/6Fa65VENHtOlviTo1GIQY1"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
       },
       "artists": [
         {
-          "name": "Marie Bergman",
-          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
         }
       ],
-      "duration_ms": 262920,
-      "name": "It Amazes Me",
-      "url": "https://open.spotify.com/track/7DxwotLgkVN9zOcZ58JFfw"
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2023-03-07 13:06:01",
@@ -1687,22 +1703,6 @@
       "duration_ms": 250293,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
-    },
-    {
-      "added_at": "2023-03-07 13:06:01",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2023-03-07 13:06:01",

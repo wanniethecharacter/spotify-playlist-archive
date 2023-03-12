@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,617 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,650 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 29 | [New Anthem](https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI) | [DBH](https://open.spotify.com/artist/23kRpymkshfkljMDDI5mOF) | [Mood](https://open.spotify.com/album/32rsKcNx5IT9vOMo35Dg0R) | 2:34 |
 | 30 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 |
 | 31 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 |
-| 32 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
+| 32 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 33 | [Let Your Light Shine on Me](https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:08 |
-| 34 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
+| 34 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
 | 35 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
 | 36 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 |
 | 37 | [Ain't Nobody High Raga](https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 8:45 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 62 | [Mama Don't Tear Your Clothes](https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [That's All Right](https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS) | 1:56 |
 | 63 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
 | 64 | [Lazy Sunday](https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a) | [Eddie Martin](https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU) | [The Birdcage Sessions](https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S) | 4:16 |
-| 65 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
-| 66 | [There Is a Place in This Old Town](https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 4:48 |
+| 65 | [There Is a Place in This Old Town](https://open.spotify.com/track/3s6SkrBG4hBEZ0t1XpyXz7) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Imaginational Anthem Vol\. 5](https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE) | 4:48 |
+| 66 | [The Man From Nowhere](https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 3:06 |
 | 67 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 |
 | 68 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
 | 69 | [Right Kind of Trouble](https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 4:21 |
 | 70 | [How Long Blues](https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:14 |
 | 71 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 |
-| 72 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
-| 73 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
+| 72 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
+| 73 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
 | 74 | [Cruel Old World](https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Cruel Old World](https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB) | 2:52 |
 | 75 | [Dodge City](https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 5:16 |
 | 76 | [Top Cat](https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Guitar Routes](https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb) | 2:34 |
 | 77 | [Wayfaring Stranger](https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW) | [Shake the Disease](https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs) | [St\. James Infirmary Blues / Wayfaring Stranger \(Radio Edit\)](https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL) | 3:42 |
 | 78 | [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 |
-| 79 | [Heart Breakin' Blues](https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9) | [Cannon's Jug Stompers](https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS) | [The Best Of Cannon's Jug Stompers](https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F) | 3:06 |
-| 80 | [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 |
+| 79 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 |
+| 80 | [Tell Me Pretty Baby](https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR) | [Fred Davis](https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1) | [Tell Me Pretty Baby](https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE) | 3:29 |
 
-Snapshot ID: `MTY3Nzg2NzA4NywwMDAwMDAwMGUwMmYzZjFhNDNlMWIwNDNhNTY0MmViNTZhMTQzYWFm`
+Snapshot ID: `MTY3Nzg2NzA4NywwMDAwMDAwMGJlN2NhMDc2YjU2MmZlZjlkNzA5NDJlNjNmNzYxNTk2`

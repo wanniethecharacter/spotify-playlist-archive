@@ -357,6 +357,6 @@
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 |  |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 |  |
 | [You n Me Sellin' Weed](https://open.spotify.com/track/3vbiHwFRUuoIU9oa01dwmx) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [You n Me Sellin' Weed](https://open.spotify.com/album/3v7rmNsFfuUSmIOdPMslld) | 4:56 | 2020-10-10\* | 2021-05-13 |
-| [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 |  |
+| [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 |  |
 
 \*This playlist was first scraped on 2020-10-10. Prior content cannot be recovered.

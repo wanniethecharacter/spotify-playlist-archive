@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Courtnie Ramirez
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,997 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,181 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [Forever \- Slowed + Reverb](https://open.spotify.com/track/0iZKR4m58NuWpRwuGgnmaD) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh) | [Slowed + Reverb](https://open.spotify.com/album/6qTlMPEXJUso751nGsMZMC) | 5:44 |
 | 22 | [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 |
 | 23 | [Stacking Stones](https://open.spotify.com/track/0kpmcRGeFiaweIQy7irejI) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Stacking Stones](https://open.spotify.com/album/3XH8FrY35X7KD7QaBA5UwZ) | 5:10 |
-| 24 | [You're Still God \- Live](https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl) | [Songs From the Soil](https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [You're Still God \(Live\)](https://open.spotify.com/album/3obzpfiA5DQ4vKaAodPyF2) | 4:41 |
+| 24 | [You're Still God \- Live](https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl) | [Songs From The Soil](https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [You're Still God \(Live\)](https://open.spotify.com/album/3obzpfiA5DQ4vKaAodPyF2) | 4:41 |
 | 25 | [Never Stop \(feat\. Chris Kuti\)](https://open.spotify.com/track/3DJFFPD3bYTCEmCSo0L74J) | [Lakepointe Music](https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a), [Chris Kuti](https://open.spotify.com/artist/0asHzVHmeEsJnkdi18k9IG) | [Faithful](https://open.spotify.com/album/7BoH8jDXNpyUzO3Kiwdt3L) | 5:18 |
 | 26 | [Eternities praise](https://open.spotify.com/track/3go2c4rRIQr6My8Hi9JJk3) | [Josefina Gniste](https://open.spotify.com/artist/66ka8TwFIB6OtxNgxOhU9c) | [Djupare](https://open.spotify.com/album/2jguY3MQ42HA7Mlkd92twS) | 5:58 |
 | 27 | [Song From Home \- Live](https://open.spotify.com/track/3bi5eUGZyVeVoDBBhU3kpV) | [Summit Worship](https://open.spotify.com/artist/0992pHNXQqEmeykvrDsiJR) | [Song From Home \(Live\)](https://open.spotify.com/album/2ghko899UlBkSk0HGoUeJH) | 4:52 |

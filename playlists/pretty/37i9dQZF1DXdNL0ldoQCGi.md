@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,032 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,338 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 8 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 |
 | 9 | [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 |
 | 10 | [A Caminho do Bega \[Piseiro Remix\] \(feat\. Dj Mizzontti\)](https://open.spotify.com/track/5o4VK4Qe5QwXHrvUPoaGHy) | [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [MC DOM LP](https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W), [Mc L3](https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna), [Dj Mizzontti](https://open.spotify.com/artist/5HevMdws455L9tIAE1nEwu) | [A Caminho do Bega \[Piseiro Remix\]](https://open.spotify.com/album/6qX5mgFX8dUrTxsSbsXOzd) | 2:16 |
-| 11 | [Tô Invisível](https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL) | [DJ Jeffdepl](https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k), [Murilo Cajaiba](https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf) | [Tô Invisível](https://open.spotify.com/album/6lef7pjgBWoQyM1srNbo3K) | 2:32 |
+| 11 | [Tô Invisível](https://open.spotify.com/track/6W2L8PLZq7hbHbVaf1PDFL) | [DJ Jeffdepl](https://open.spotify.com/artist/5EX5ldlEJ3hUw6UT7dTb2k), [Murilo Cajaiba](https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Tô Invisível](https://open.spotify.com/album/6lef7pjgBWoQyM1srNbo3K) | 2:32 |
 | 12 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 13 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 |
 | 14 | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Thaysa Maravilha](https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc) | [ENSAIO DAS MARAVILHAS](https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw) | 2:56 |

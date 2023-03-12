@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Paula Koops",
-  "num_followers": 20946,
+  "num_followers": 20963,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMDA3ZDg1MWNlYmJmMDZkZTc0MTk1Yzg3NDdlZGQ2MGE1",
+  "snapshot_id": "MTY3ODQwMjg2MCwwMDAwMDAwMGJlMmRjM2NlOTZmYWZjMTU5NjNjMTkwYWQ2ODlmNjk0",
   "tracks": [
     {
       "added_at": "2023-03-09 23:01:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
+        "name": "Mil Laberintos",
+        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mil Laberintos",
+      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
+    },
+    {
+      "added_at": "2023-03-09 23:01:00",
+      "album": {
         "name": "T\u00c1NGER Y ZAHARA",
         "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
       },
@@ -235,26 +251,6 @@
       "duration_ms": 160666,
       "name": "ZAHARA",
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
-    },
-    {
-      "added_at": "2023-03-09 23:01:00",
-      "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-03-09 23:01:00",
@@ -275,18 +271,22 @@
     {
       "added_at": "2023-03-09 23:01:00",
       "album": {
-        "name": "Mil Laberintos",
-        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
       "artists": [
         {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Mil Laberintos",
-      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-03-09 23:01:00",

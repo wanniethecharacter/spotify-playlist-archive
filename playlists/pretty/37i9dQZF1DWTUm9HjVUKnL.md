@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,851 likes - 835 songs - 2 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,868 likes - 835 songs - 2 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -809,8 +809,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 799 | [What I Want For The Night \(Bitches\) \- Recorded at Spotify Studios, NYC](https://open.spotify.com/track/2HSQ1gTnaziihf8TMnw5c7) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 2:28 |
 | 800 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:38 |
 | 801 | [Young Blood \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IIytiriguJDtDUyGFEkTV) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:34 |
-| 802 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
-| 803 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
+| 802 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
+| 803 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
 | 804 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 | 805 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 |
 | 806 | [Fountain Of Youth](https://open.spotify.com/track/14B3iL077fUYRAkmka5eTq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 3:49 |

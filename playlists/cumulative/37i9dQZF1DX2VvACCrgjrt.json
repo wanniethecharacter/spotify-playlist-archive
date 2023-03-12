@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Bark Me",
+        "url": "https://open.spotify.com/album/6HEELWialjDW5I9nzNOdLJ"
+      },
+      "artists": [
+        {
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        },
+        {
+          "name": "Hybrid Theory",
+          "url": "https://open.spotify.com/artist/6KkbKOCoCyCZGaaWggWh9Q"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158330,
+      "name": "Bark Me",
+      "url": "https://open.spotify.com/track/6IuzkMqkhCx5j8PdHlrIsS"
+    },
+    {
+      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -5746,7 +5768,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 223695,
       "name": "Own That",
       "url": "https://open.spotify.com/track/5KF52NDzP4e6onV84qsjyR"
@@ -7418,6 +7440,28 @@
     {
       "album": {
         "name": "The Freaks",
+        "url": "https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "The Freaks",
+      "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
+    },
+    {
+      "album": {
+        "name": "The Freaks",
         "url": "https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb"
       },
       "artists": [
@@ -7458,7 +7502,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 182353,
       "name": "The Game is Dead - Kenty Clide Remix",
       "url": "https://open.spotify.com/track/0316CMBIHMjhZLk24s53pm"

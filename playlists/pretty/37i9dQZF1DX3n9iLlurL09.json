@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 61963,
+  "num_followers": 62057,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDE1ZjY2MjE3YmNiOWVlZjQ1ZGY1NzhjMjlmODM3NDcy",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMGUzODFlY2I2Y2VmZDAzODVkM2JlOTJlMThjNzg0MTFj",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Mature Themes",
         "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 287426,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
       "artists": [
         {
-          "name": "The Walkmen",
-          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
+      "duration_ms": 219259,
+      "name": "Funtimes in Babylon",
+      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/121DLZnltkkTOMHzoLrmqB"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
         }
       ],
-      "duration_ms": 219259,
-      "name": "Funtimes in Babylon",
-      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
+      "duration_ms": 262293,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
     }
   ],
   "unique_name": "Best of Indie 2012",

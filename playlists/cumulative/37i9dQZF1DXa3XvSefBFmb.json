@@ -2492,6 +2492,10 @@
         {
           "name": "AET",
           "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
         }
       ],
       "date_added": "2023-03-01",
@@ -4874,7 +4878,7 @@
     {
       "album": {
         "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA"
+        "url": "https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F"
       },
       "artists": [
         {
@@ -4885,6 +4889,24 @@
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176231,
+      "name": "ouvi dizer",
+      "url": "https://open.spotify.com/track/6uRZBkSklUaoSV4NuPLIDH"
+    },
+    {
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
       "duration_ms": 176231,
       "name": "ouvi dizer",
       "url": "https://open.spotify.com/track/6zVFjOyyapIpNDZxYQVsnF"

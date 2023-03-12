@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Wrona \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,289 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,299 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 58 | [Błękitne ptaki](https://open.spotify.com/track/1AGrZJejgDwbfQeblu8bhu) | [Cichy](https://open.spotify.com/artist/0hMqWaNLWmuhJGZzTTsZ5C) | [Błękitne ptaki](https://open.spotify.com/album/7xANBLQkcYb3pQUf1lv0Ck) | 3:12 |
 | 59 | [gydantis](https://open.spotify.com/track/2SSq6OQZW6pYn2R8faD6eG) | [lessman](https://open.spotify.com/artist/7rECpmD47z8OpXvtQg6Mve) | [gydantis](https://open.spotify.com/album/3qcNTo1uKfmJDYyLfkKDOh) | 4:31 |
 | 60 | [Morze](https://open.spotify.com/track/2rNriLelLBX4bHTS3Kfrc3) | [Nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [Morze](https://open.spotify.com/album/5DPC8VxguejLh4dc4lEoXB) | 3:11 |
-| 61 | [Apogeum](https://open.spotify.com/track/5yVP6prerYg7dGuRBoWyV0) | [Weronika Trojanowska](https://open.spotify.com/artist/3DkmN6rRbYffuMWvvsE1LF) | [Apogeum](https://open.spotify.com/album/2VQiKZN2AK5hQA3atK8QVB) | 3:00 |
+| 61 | [Apogeum](https://open.spotify.com/track/5yVP6prerYg7dGuRBoWyV0) | [Versa](https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3) | [Apogeum](https://open.spotify.com/album/2VQiKZN2AK5hQA3atK8QVB) | 3:00 |
 | 62 | [Nie ma nas](https://open.spotify.com/track/02HOs3xvNZN1MHupplkdQM) | [Gree](https://open.spotify.com/artist/4EncTzF0jeAysdTGFpXSCN), [Ratel](https://open.spotify.com/artist/0gwZzR9uPwQHzGwPhCqwll), [Obwn](https://open.spotify.com/artist/0lm7sJvo3g0omixhYIn4Nw) | [Nie ma nas](https://open.spotify.com/album/0E1te0rOrKv2f2s48cuD3F) | 3:01 |
 | 63 | [Białe kwiatki](https://open.spotify.com/track/7r6whNPqIqQQecL6KjYoLc) | [Sonia Zając](https://open.spotify.com/artist/2pHtZd8bjtQNBPml8UBPwW) | [Białe kwiatki](https://open.spotify.com/album/02IfRPdGd9TIGyCgmsTVSF) | 2:51 |
 | 64 | [Bezpośrednie Wyniesienie](https://open.spotify.com/track/3zCxpvpkrnP4HI0pGj1T8r) | [Twoosty Mayonez](https://open.spotify.com/artist/7rJx9DP2cc7qOoji82NuZi) | [Bezpośrednie Wyniesienie](https://open.spotify.com/album/57ORG3QQClQEw5ixuNWqL6) | 6:25 |

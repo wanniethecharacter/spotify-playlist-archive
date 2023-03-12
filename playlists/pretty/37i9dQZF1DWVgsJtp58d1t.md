@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,995 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,986 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 6 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 |
 | 7 | [white rice déjà vu](https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:50 |
 | 8 | [Daily News](https://open.spotify.com/track/1yhY41ETiHG3g8SulQMCaL) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Daily News](https://open.spotify.com/album/1zvGUFwtupod7nYJ9oziqO) | 4:15 |
-| 9 | [Assumptions \- Kaytranada Remix](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Remix\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
+| 9 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
 | 10 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 11 | [Let Me Rock](https://open.spotify.com/track/55XFA9b213huQmBkChy7dc) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Rocky Snyda](https://open.spotify.com/artist/4ZMjCuHAhNfb4EputbOej5) | [Let Me Rock](https://open.spotify.com/album/3NowB60vVv59WdYRusUKl0) | 2:17 |
 | 12 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 |

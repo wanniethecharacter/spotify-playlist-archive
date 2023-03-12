@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 289,
+  "num_followers": 88,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5NDQ3NiwwMDAwMDAwMGEyMjcxNGU5ZTY5ZDU5MGFjN2ZjYzM3YWYzYTFiOGEx",
+  "snapshot_id": "MTY3ODA5NDQ3NiwwMDAwMDAwMGM4Y2NmN2M5Njc2OWVkODNlZjQzMjIyYTcxMTdmNWQx",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "How Can I Forget Her",
-        "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        },
-        {
-          "name": "TwoWorldsApart",
-          "url": "https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B"
-        }
-      ],
-      "duration_ms": 168216,
-      "name": "How Can I Forget Her",
-      "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI"
       },
@@ -1791,6 +1767,30 @@
       "duration_ms": 147725,
       "name": "Kids",
       "url": "https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "How Can I Forget Her",
+        "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        },
+        {
+          "name": "TwoWorldsApart",
+          "url": "https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B"
+        }
+      ],
+      "duration_ms": 168216,
+      "name": "How Can I Forget Her",
+      "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 164160,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6BRqgfyxgBUT1Y6KhkoQLW"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 144761,
       "name": "Party To Survive",
       "url": "https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+      },
+      "artists": [
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
     }
   ],
   "unique_name": "Tr\u00e4ning",

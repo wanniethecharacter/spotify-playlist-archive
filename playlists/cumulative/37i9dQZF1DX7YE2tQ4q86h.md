@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Mae Muller
 
-460 songs - 23 hr 44 min
+461 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-08 | 2022-08-27 |
 | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/track/1uFtzVRVimqjrC8kmy12YI) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/album/0y6005o869Rsc1xmlO4xgW) | 2:55 | 2022-09-02 | 2022-12-24 |
 | [Lose My Head](https://open.spotify.com/track/3riBSHN6260LlPcv7kJg9N) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Lose My Head](https://open.spotify.com/album/3Xj0l8b1CgdaCcmRRxtb3z) | 2:50 | 2022-12-23 | 2023-01-28 |
-| [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 | 2023-01-27 |  |
+| [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 | 2023-01-27 | 2023-03-12 |
 | [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-02-15 | 2022-05-28 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 | 2022-09-17 |
@@ -438,6 +438,7 @@
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-21 | 2022-12-10 |
 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 | 2023-03-10 |  |
 | [Wasting My Time](https://open.spotify.com/track/0NO8wmpvCOYdGs6bKtS26P) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Nightfall Feelings](https://open.spotify.com/album/0DxJpBkuIlXcrOTKQ6oHz8) | 3:33 | 2022-03-18 | 2022-06-18 |
+| [Watch Me](https://open.spotify.com/track/4diNbDaMzGvvuIKhZkfEEC) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [Watch Me](https://open.spotify.com/album/6PNrN7WaLYFXaayK6VB4vE) | 3:03 | 2023-03-11 |  |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-03-03 |  |
 | [We Should Get Lost](https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH1](https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV) | 2:08 | 2023-02-10 |  |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2022-11-11 | 2023-01-14 |

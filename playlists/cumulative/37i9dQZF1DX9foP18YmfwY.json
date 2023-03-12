@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Mission\u00e1rio Shalom, Entretons",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Anjos de Resgate",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 263000,
       "name": "Confio em Ti",
       "url": "https://open.spotify.com/track/0S4O7XVa5ijA9jQXYcIZEA"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 222298,
       "name": "Cora\u00e7\u00e3o de Pai",
       "url": "https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X"
@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Minha Voz Te Louva",
+        "url": "https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200048,
+      "name": "Minha Voz Te Louva",
+      "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
+    },
+    {
+      "album": {
         "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 313194,
       "name": "Nudez de Madalena",
       "url": "https://open.spotify.com/track/2MtL7P6fEUJjg1Db1a6767"
@@ -1340,6 +1358,24 @@
       "duration_ms": 267058,
       "name": "Quando o Sono Bater",
       "url": "https://open.spotify.com/track/0CRdkmYRg8YAQS8W9b0tPA"
+    },
+    {
+      "album": {
+        "name": "Que Amor \u00c9 Esse?",
+        "url": "https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7"
+      },
+      "artists": [
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283384,
+      "name": "Que Amor \u00c9 Esse?",
+      "url": "https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ"
     },
     {
       "album": {
@@ -1780,6 +1816,24 @@
       "duration_ms": 240800,
       "name": "Vale a Pena Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/0h268ATtcBdaQsJYN0WBJk"
+    },
+    {
+      "album": {
+        "name": "Vaso Quebrado",
+        "url": "https://open.spotify.com/album/3KaGmXh0IzExhlWoIYGwbD"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260678,
+      "name": "Vaso Quebrado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqRDkYTbYl54fuDiPtRma"
     },
     {
       "album": {

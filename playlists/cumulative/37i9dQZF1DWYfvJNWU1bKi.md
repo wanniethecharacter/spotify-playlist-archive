@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-113 songs - 8 hr 19 min
+114 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Jigidi Killaadi](https://open.spotify.com/track/6t7oTudS2q6OFVhCXHaL4x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Pattas](https://open.spotify.com/album/1qsm7UXvfm3vTGr1UFKaAH) | 3:38 | 2022-01-03 | 2022-04-29 |
 | [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 | 2023-02-06 |  |
 | [Kaadhal En Kaviye \- From "Salmon 3D"](https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Kaadhal En Kaviye \(From "Salmon 3D"\)](https://open.spotify.com/album/2Ys8XveN5alui1GxnO9JDK) | 5:11 | 2022-06-20 |  |
-| [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 | 2022-01-03 |  |
+| [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 | 2022-01-03 | 2023-03-12 |
+| [Kaadhal Vaithu](https://open.spotify.com/track/0jXnRZTUASl2uhsRfXjoJT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RPmyFX8HsPNYq6jqDFLU0) | 5:09 | 2022-03-11 |  |
 | [Kaalathukkum Nee Venum \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Kaalathukkum Nee Venum \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/3RVPCp07qm53ACN2rq6SqP) | 4:53 | 2022-05-24 |  |
 | [Kaathalae Kaathalae \- From "96"](https://open.spotify.com/track/09d7oLdf8yepEkOh6XXRf3) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Kaathalae Kaathalae \(From "96"\)](https://open.spotify.com/album/0mt4EMEMuKVzTtZoCWKb8G) | 3:13 | 2021-08-16 |  |
 | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/track/4tkSvA7zfuhwgHQbEeNEJU) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Aditi Rao Hydari](https://open.spotify.com/artist/147zpWRMJhUudkGSDZ5qJ0) | [Kaathodu Kaathanen \(From "Jail"\)](https://open.spotify.com/album/02MvEPoIlryHGpUoeez6ud) | 5:10 | 2021-08-16 | 2022-08-30 |

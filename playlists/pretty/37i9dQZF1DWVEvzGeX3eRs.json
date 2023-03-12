@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2600639,
+  "num_followers": 2601051,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMGFiNDJkODJlODlhNzY0OWIwYmJiMzgwYWZhMTU3ZDI3",
+  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDhkZjk4ZGQ5NDQ3OWFlYzdhYjY3ODhlNmYwMjdlMDVh",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Blackstreet",
         "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2021-03-05 00:03:16",

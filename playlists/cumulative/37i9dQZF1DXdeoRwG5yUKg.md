@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-138 songs - 9 hr 41 min
+139 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2020-11-05 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2020-11-05 |  |
 | [Closer](https://open.spotify.com/track/5QqFQFSVdUeTY0xb7uehR5) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [Things You Leave Behind](https://open.spotify.com/album/34XDSyI2Yfa28pGUWQiIq0) | 3:53 | 2020-11-05 |  |
-| [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 |  |
+| [Cryin In The Rain](https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA) | 3:30 | 2022-09-02 |  |
+| [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 | 2023-03-12 |
 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 | 2022-03-15 |  |
 | [Drown in My Own Tears](https://open.spotify.com/track/0FntDGdy2Kgd75xCSO6eZ3) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp) | 4:35 | 2021-10-22 |  |
 | [Emmaline](https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 3:35 | 2022-09-09 |  |

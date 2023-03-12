@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Miley Cyrus \(pictured\), Calvin Harris, Nia Archives and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,663 likes - 131 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,718 likes - 131 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 6 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 |
 | 7 | [1 on 1](https://open.spotify.com/track/7kYuzu1icGDszMFXewYNAG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [1 on 1](https://open.spotify.com/album/7ACj5us0hNmMf6g3VdgZHN) | 3:13 |
 | 8 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
-| 9 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 9 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 10 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
 | 11 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
 | 12 | [So Trendy](https://open.spotify.com/track/5mNpXv1fO76wl0088gY6fh) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:45 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [Skarzz](https://open.spotify.com/track/5L1Xa7s1YPqyE8gjcoMejU) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Novelty / Skarzz Freestyle](https://open.spotify.com/album/2XzTs6Xj0LBiQDCGij88wI) | 2:42 |
 | 44 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
 | 45 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 |
-| 46 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsey Karter & The Heroines](https://open.spotify.com/artist/6LQggZd9VkeNQiXdLChrDc) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
+| 46 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 | 47 | [Love Does](https://open.spotify.com/track/1cBQmAZAnkhLAJnjrlQzYn) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Music In The Madness](https://open.spotify.com/album/4Mi99JusYYPGBlqSVcr371) | 3:13 |
 | 48 | [Not Us](https://open.spotify.com/track/5J2XkHNffLaVS3usFYQDWk) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Not Us](https://open.spotify.com/album/1n1hwtUmUMLu0ZTuTXZeLe) | 4:19 |
 | 49 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 |
 | 127 | [Big Dog Barking](https://open.spotify.com/track/4kEarTa6pcGd3TCN6CYGSm) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Big Dog Barking](https://open.spotify.com/album/5z57cpq7qtolGiw2PIuGdJ) | 2:19 |
 | 128 | [Talkin' to Me](https://open.spotify.com/track/6plcjy4ICjGIn6FBD1fbAx) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Harleighblu](https://open.spotify.com/artist/4cEYh7S0lnB9zj30tzPorE) | [Talkin' to Me](https://open.spotify.com/album/7m3NhrdkpODf59SyYjLo2O) | 4:00 |
-| 129 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:26 |
+| 129 | [In My Room](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 |
 | 130 | [marigold](https://open.spotify.com/track/3hOR32pKvOpj9cE32Po3dE) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [marigold](https://open.spotify.com/album/2RzzkqoNAe7ZS2L4LM44ot) | 2:44 |
 | 131 | [Teeth](https://open.spotify.com/track/0WVCLhaqfBVm8RutijCiMB) | [Local Boy](https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj) | [Teeth](https://open.spotify.com/album/1cfCP9505PAGSh4eVmYQhS) | 3:32 |
 

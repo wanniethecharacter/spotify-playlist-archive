@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 153160,
       "name": "Drukne",
       "url": "https://open.spotify.com/track/17b5jv7NOfFIdzWKcDbijx"
@@ -5972,10 +5972,28 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "album": {
@@ -7388,7 +7406,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
@@ -8352,7 +8370,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 117982,
       "name": "HVA SA DU",
       "url": "https://open.spotify.com/track/1EWRs6LpS4PL5gTbWaUMs6"
@@ -10352,6 +10370,24 @@
       "duration_ms": 190588,
       "name": "Klask 2022 (Hjemmesnekk)",
       "url": "https://open.spotify.com/track/0PjGxOaBFjQfesMeT5HbAw"
+    },
+    {
+      "album": {
+        "name": "Klikk",
+        "url": "https://open.spotify.com/album/4ApqDUOU8zHM5B5WTdK7sr"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154762,
+      "name": "Klikk",
+      "url": "https://open.spotify.com/track/660mpcWbLmQ8lH5Mq59Wfk"
     },
     {
       "album": {
@@ -12365,6 +12401,28 @@
     },
     {
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
       },
@@ -12764,6 +12822,24 @@
       "duration_ms": 246806,
       "name": "Mother",
       "url": "https://open.spotify.com/track/4LtFT8rwlhwwkVN9HxbyRf"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147481,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
       "album": {
@@ -13416,6 +13492,24 @@
       "duration_ms": 216000,
       "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
       "url": "https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX"
+    },
+    {
+      "album": {
+        "name": "Not Worth It",
+        "url": "https://open.spotify.com/album/0iWanB5Cwd1GEbCRXD4Tth"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236062,
+      "name": "Not Worth It",
+      "url": "https://open.spotify.com/track/1rbdesqJL4phqIITSayNm4"
     },
     {
       "album": {
@@ -14336,7 +14430,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -14470,7 +14564,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -15326,6 +15420,24 @@
       "duration_ms": 182000,
       "name": "Rise Up (feat. Vamero)",
       "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
     },
     {
       "album": {
@@ -16336,6 +16448,28 @@
       "duration_ms": 146390,
       "name": "Skyene",
       "url": "https://open.spotify.com/track/58M1sRcgw5Q1dp8t1qGjuQ"
+    },
+    {
+      "album": {
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stefaren",
+          "url": "https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT"
     },
     {
       "album": {
@@ -18978,7 +19112,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"

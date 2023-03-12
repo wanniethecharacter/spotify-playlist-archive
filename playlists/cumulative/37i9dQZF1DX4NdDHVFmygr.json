@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 188800,
       "name": "Lili Nhari",
       "url": "https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O"
@@ -3878,6 +3878,28 @@
       "duration_ms": 169062,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx"
+    },
+    {
+      "album": {
+        "name": "Wahdani",
+        "url": "https://open.spotify.com/album/3oe14m2WWfLW5tS4wNXxsL"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Wahdani",
+      "url": "https://open.spotify.com/track/6LAvUVtKN9Qlbf0IKjXG6t"
     },
     {
       "album": {

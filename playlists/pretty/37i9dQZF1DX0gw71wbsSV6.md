@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,968 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,972 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 41 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 |
 | 42 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 |
 | 43 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
-| 44 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
-| 45 | [Proof](https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Proof](https://open.spotify.com/album/3Cfg3146LWDhdWMX3YpKo1) | 3:41 |
-| 46 | [Lovely](https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Lovely](https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1) | 2:56 |
+| 44 | [Proof](https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Proof](https://open.spotify.com/album/3Cfg3146LWDhdWMX3YpKo1) | 3:41 |
+| 45 | [Lovely](https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Lovely](https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1) | 2:56 |
+| 46 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 47 | [サーカスナイト](https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [リトルメロディ](https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf) | 6:19 |
 | 48 | [あびばのんのん](https://open.spotify.com/track/5RZSpJdflZrwVNLgHudc5t) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [あびばのんのん](https://open.spotify.com/album/6Ch5mvjky8GwIBmqO2c7LR) | 3:40 |
 | 49 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 |
 | 50 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 |
 
-Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGM3Y2U3MjhlNDM5OWZmYzQ1ZDkwMmE3NDQ2MTAwNGZj`
+Snapshot ID: `MTY3ODM3NDAwMCwwMDAwMDAwMGIzODVhYWQwYTYyMWFkMDNjZTUzOTc5YmNhMGYzOGEw`

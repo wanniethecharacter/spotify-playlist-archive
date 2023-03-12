@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-187 songs - 12 hr 46 min
+188 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-03-06 |  |
 | [How Could I Ever \(feat\. Shungudzo\)](https://open.spotify.com/track/1vq1KgeHuDaS3qyhwfpF0P) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [How Could I Ever \(feat\. Shungudzo\)](https://open.spotify.com/album/0I2CCe2F2enbpGd3ScGkad) | 4:07 | 2021-04-02 | 2022-07-29 |
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-02 |  |
-| [I Want You \(feat\. Braev\)](https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. Braev\)](https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx) | 4:18 | 2021-04-02 |  |
+| [I Want You \(feat\. Braev\)](https://open.spotify.com/track/31kN6sakkWj7SxVjm0d0gd) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. Braev\)](https://open.spotify.com/album/2PBu4Kc89jFrsNZqt4ISSx) | 4:18 | 2021-04-02 | 2023-03-12 |
 | [I Want You \(feat\. braev\)](https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [I Want You \(feat\. braev\)](https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a) | 4:18 | 2021-04-02 | 2022-12-01 |
 | [I Won't Forget](https://open.spotify.com/track/0GNDtlr5gUvO8SfjIkj3bP) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [I Won't Forget](https://open.spotify.com/album/2qxrFGq0AaB5J2lv5cmIAB) | 4:33 | 2021-04-02 | 2022-06-01 |
 | [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 | 2022-04-18 |  |
@@ -102,6 +102,7 @@
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-04-02 | 2022-04-12 |
 | [Mandala](https://open.spotify.com/track/3Uc2IHiwx7VHNMzvyTkRtA) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Mandala](https://open.spotify.com/album/0rsqoXduJ6br36z3Pp7Ydy) | 4:49 | 2021-04-28 | 2022-07-29 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 |  |
+| [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-10 |  |
 | [Missing U](https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Missing U](https://open.spotify.com/album/3fZzOuBn4cCQPF3li8Dcs7) | 3:20 | 2021-09-10 | 2022-07-28 |
 | [Mon Cheri \- LP Giobbi Remix](https://open.spotify.com/track/0e6CPJzNGe0v2jvWnyoYso) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Mon Cheri \(LP Giobbi Remix\)](https://open.spotify.com/album/6lhlFWxhGWwGmeLriQVts1) | 5:26 | 2021-07-09 | 2022-07-25 |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-03-06 |  |

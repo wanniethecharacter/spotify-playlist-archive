@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Chris Wendell",
-  "num_followers": 695876,
+  "num_followers": 695846,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMGY5NDkwNzhkNjkwODljMmY0Y2IyZTZmYjE3MjM0NWJh",
+  "snapshot_id": "MTY3NzI2MDEzOCwwMDAwMDAwMDMyMGI3NGQ3MTA0MjIzNWYwNmQzZWNhYWE0YTE2ZDhm",
   "tracks": [
     {
       "added_at": "2023-02-24 17:35:38",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3Lk9DyjczkS9qf8PlJgBYj"
     },
     {
       "added_at": "2023-02-24 17:35:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-24 17:35:38",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2023-02-24 17:35:38",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 187440,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-02-24 17:35:38",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
     },
     {
       "added_at": "2023-02-24 17:35:38",

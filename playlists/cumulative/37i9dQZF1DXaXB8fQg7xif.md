@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-861 songs - 1 day 23 hr 28 min
+862 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,7 @@
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-18 | 2022-01-29 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2020-12-27 | 2021-10-12 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2020-05-22\* | 2022-04-18 |
-| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 |  |
+| [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 | 2023-03-12 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2021-05-11 | 2022-04-20 |
 | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/track/7cfmACXiAe7dDcEI10DGcR) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump The Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/3EdG1l0ZdwNKiAzoyLlhx6) | 4:39 | 2022-07-14 | 2022-07-29 |
 | [Pump the Brakes \- LP Giobbi Remix](https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump the Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve) | 4:39 | 2021-10-10 | 2022-07-30 |
@@ -737,6 +737,7 @@
 | [Survivor](https://open.spotify.com/track/4pD9SWYlUlzj47sUkWtAxp) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/2FY0KY4u0usEJHwR2gcXFN) | 2:43 | 2020-05-22\* | 2022-04-17 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 |  |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-11 |  |
+| [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-29 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2021-09-27 | 2022-12-15 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-29 | 2022-12-15 |

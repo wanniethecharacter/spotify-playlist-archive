@@ -4,7 +4,7 @@
 
 > 150%
 
-174 songs - 7 hr 32 min
+175 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 | 2022-06-09 |  |
 | [Come Inside Of My Heart \(Sped Up\)](https://open.spotify.com/track/1fO083RTFknKJdGUGKE6ZB) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Come Inside Of My Heart](https://open.spotify.com/album/1vhonIQNvNg0bKRMO9RxUE) | 2:53 | 2023-02-24 |  |
 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 | 2022-06-09 |  |
-| [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/track/5LFKZYq2PoGC6Beu2gW8AZ) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:01 | 2023-02-09 |  |
+| [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/track/4wI1w1ebOAwfkmdIqUsOug) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:01 | 2023-02-09 |  |
+| [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/track/5LFKZYq2PoGC6Beu2gW8AZ) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:01 | 2023-02-09 | 2023-03-12 |
 | [Deep End \- Sped Up Version](https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Deep End \(Sped Up Version\)](https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg) | 2:35 | 2022-12-30 | 2023-01-28 |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 | 2022-12-14 |
 | [Destroy Me \(Sped Up\)](https://open.spotify.com/track/0GO2QdhAjnXV4XqwzkWc76) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Destroy Me \(Sped Up\)](https://open.spotify.com/album/3S3BYaqtaUMwUvHaaNOFlN) | 2:42 | 2023-02-03 | 2023-02-18 |

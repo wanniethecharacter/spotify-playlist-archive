@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,808 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,645 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 14 | [SNAP \- Low and Slow](https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:23 |
 | 15 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
 | 16 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
-| 17 | [All Night \- Slowed N Reverb](https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Married In Vegas \(Matoma Remix\)](https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU) | 4:04 |
-| 18 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 |
+| 17 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 |
+| 18 | [All Night \- Slowed N Reverb](https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Married In Vegas \(Matoma Remix\)](https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU) | 4:04 |
 | 19 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 |
 | 20 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
 | 21 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Tard le soir..](https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [Tard le soir..](https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL) | 2:25 |
 | 50 | [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Slowed Down Songs + Reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 |
 
-Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMDlhN2Q5NjZlMjI0MzkyZGE5MTNjZWY4NjAxZTc4OGY5`
+Snapshot ID: `MTY3NzU5Njc5MSwwMDAwMDAwMGQ3YmY4YWJlMGUzMWRlYWUzNjhiOTkzNGZmNTlmMjRl`

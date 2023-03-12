@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-138 songs - 7 hr 52 min
+139 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Crank It Up](https://open.spotify.com/track/1dlwBmalURXIQ29gMXYBnt) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Crank It Up](https://open.spotify.com/album/03X6psm4BYCDWJzN0U9a3X) | 3:20 | 2021-05-21 | 2022-07-29 |
 | [Crank It Up](https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:20 | 2022-07-22 |  |
 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 | 2021-08-13 |  |
-| [Deep Creek](https://open.spotify.com/track/5rsNlCqnnuu89icdMkO1Rb) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Deep Creek](https://open.spotify.com/album/56nF5vr56IXqttefq8N6GX) | 3:12 | 2022-07-29 |  |
+| [Deep Creek](https://open.spotify.com/track/5rsNlCqnnuu89icdMkO1Rb) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Deep Creek](https://open.spotify.com/album/56nF5vr56IXqttefq8N6GX) | 3:12 | 2022-07-29 | 2023-03-12 |
 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 | 2023-01-02 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2021-05-21 | 2022-03-26 |
 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 | 2021-11-19 |  |
@@ -130,6 +130,7 @@
 | [The Dream](https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/12sCOUpKUUFF9XS31GKRLN) | 3:12 | 2021-07-02 |  |
 | [The Plane](https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM) | [Good Ol' Boyz](https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Green Handle](https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0) | 5:50 | 2021-05-21 | 2023-01-03 |
 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 | 2022-08-26 |  |
+| [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 | 2023-03-10 |  |
 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 | 2021-05-21 |  |
 | [Way Down South \(feat\. Kyle Cook, Danny Boone, and Demun Jones\)](https://open.spotify.com/track/4FzkPnSgAVkCLZDdL0W7ja) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Kyle Cook](https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Made On McCosh Mill Road](https://open.spotify.com/album/3vIgm8iitinO2x1N6Xg6nM) | 3:38 | 2021-05-21 | 2022-07-29 |
 | [Way Down South \(feat\. Kyle Cook, Danny Boone, and Demun Jones\)](https://open.spotify.com/track/4lWeAYtwmyzgDlJp44whZQ) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Kyle Cook](https://open.spotify.com/artist/3VbprQmATEsilJkF5SH4dL), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Made On McCosh Mill Road](https://open.spotify.com/album/1TuaaMXRHxbGpFAZeuFF7T) | 3:38 | 2022-07-22 |  |

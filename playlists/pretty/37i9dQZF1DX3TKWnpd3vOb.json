@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
-  "num_followers": 200006,
+  "num_followers": 200008,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMGNhZjUyNmZmZTcwZGM1OGYyNDViNzMxZGZiY2JhZjg4",
+  "snapshot_id": "MTY3NzgxMjQwMCwwMDAwMDAwMDcxNDIzZTVkZWVmMjZmNGEyOWZmNWE2NDhmNGQ3ZDVh",
   "tracks": [
     {
       "added_at": "2023-03-03 03:00:00",
@@ -96,7 +96,7 @@
       "added_at": "2023-03-03 03:00:00",
       "album": {
         "name": "El Mundo Se Termina",
-        "url": "https://open.spotify.com/album/29ISIbpi5qe3Hk33gZMMoF"
+        "url": "https://open.spotify.com/album/1VmWohc27f4BKsUIZCAfCl"
       },
       "artists": [
         {
@@ -106,7 +106,7 @@
       ],
       "duration_ms": 252885,
       "name": "El Mundo Se Termina",
-      "url": "https://open.spotify.com/track/232WwWYvBmxKNOLkxOW2bp"
+      "url": "https://open.spotify.com/track/6Vbs72gwE5sZuVHK4qZ2PW"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX"
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
         }
       ],
-      "duration_ms": 264249,
-      "name": "Dual",
-      "url": "https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l"
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
         }
       ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -379,22 +379,6 @@
       "duration_ms": 216149,
       "name": "LSD",
       "url": "https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -451,22 +435,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "El Tren",
-        "url": "https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 203450,
-      "name": "El Tren",
-      "url": "https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "El Tren",
+        "url": "https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 203450,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 282572,
       "name": "Me Vuelves a Herir - En Vivo",
       "url": "https://open.spotify.com/track/7H18lwb683he5Wwec7gfHH"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -579,22 +579,6 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -699,22 +683,6 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
-        "name": "Reversiones, Vol. 1",
-        "url": "https://open.spotify.com/album/6mIL0XM3koHXG3jyonuzMW"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 315241,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/3x39YiMOzzkcEDg4FDZVEk"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
         "name": "Tu mundo al rev\u00e9s",
         "url": "https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI"
       },
@@ -727,38 +695,6 @@
       "duration_ms": 224885,
       "name": "Tu mundo al rev\u00e9s",
       "url": "https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
-      },
-      "artists": [
-        {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
-        }
-      ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
-      },
-      "artists": [
-        {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -779,6 +715,22 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Despertar (Cuando Todo Quema)",
         "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
       },
@@ -791,22 +743,6 @@
       "duration_ms": 201496,
       "name": "Despertar (Cuando Todo Quema)",
       "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
-    },
-    {
-      "added_at": "2023-03-03 03:00:00",
-      "album": {
-        "name": "Destino Final",
-        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
-      },
-      "artists": [
-        {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
-        }
-      ],
-      "duration_ms": 329875,
-      "name": "Destino Final",
-      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2023-03-03 03:00:00",
@@ -827,6 +763,38 @@
     {
       "added_at": "2023-03-03 03:00:00",
       "album": {
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+      },
+      "artists": [
+        {
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+        }
+      ],
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
+      },
+      "artists": [
+        {
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+        }
+      ],
+      "duration_ms": 329875,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
         "name": "Santos",
         "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 225478,
       "name": "Soldados",
       "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Lo Que Es Real",
+        "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
+      },
+      "artists": [
+        {
+          "name": "El Otro Astronauta",
+          "url": "https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa"
+        }
+      ],
+      "duration_ms": 223593,
+      "name": "Lo Que Es Real",
+      "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
+    },
+    {
+      "added_at": "2023-03-03 03:00:00",
+      "album": {
+        "name": "Majestuosa",
+        "url": "https://open.spotify.com/album/4n68sf9nv5BXNQDROltBWj"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Jefes",
+          "url": "https://open.spotify.com/artist/20F1fCOlXcs8m1qF7bmu0y"
+        }
+      ],
+      "duration_ms": 213135,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/1FBVywDB2kyXMEzj64aPEd"
     }
   ],
   "unique_name": "Rock Chileno",

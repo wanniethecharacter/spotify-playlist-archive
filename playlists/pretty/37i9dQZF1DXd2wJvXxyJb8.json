@@ -1,12 +1,12 @@
 {
   "description": "procuro novos amigos....requisito: casa com piscina...manda dm",
-  "num_followers": 1002548,
+  "num_followers": 1003376,
   "original_name": "Hits da Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxOTQxNywwMDAwMDAwMDdjMjkzZTFhODFkYjA0MDFkNDc4NzY4MjljZTRhNjBh",
+  "snapshot_id": "MTY3ODIxOTQxNywwMDAwMDAwMDQ4MzM5ZjZlNzE0YWQ2NGVmMTFhZjMxNWM5NGQxZjI1",
   "tracks": [
     {
       "added_at": "2023-03-07 20:03:36",
@@ -76,25 +76,21 @@
       "added_at": "2023-03-07 20:03:36",
       "album": {
         "name": "BEB\u00ca T\u00c1 SOLTA",
-        "url": "https://open.spotify.com/album/1Ff17g8o5od0tCccBy5szX"
+        "url": "https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8"
       },
       "artists": [
-        {
-          "name": "Dj Bn\u00e3o",
-          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
-        },
         {
           "name": "Yuri Redicopa",
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Mc Dede Stn",
-          "url": "https://open.spotify.com/artist/1evrJRths0Y9virdhbQBDx"
+          "name": "Dj Bn\u00e3o",
+          "url": "https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8"
         }
       ],
-      "duration_ms": 197040,
+      "duration_ms": 197104,
       "name": "BEB\u00ca T\u00c1 SOLTA",
-      "url": "https://open.spotify.com/track/2xglzPeWAhJAdWpTmmjc38"
+      "url": "https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE"
     },
     {
       "added_at": "2023-03-07 20:03:36",
@@ -290,6 +286,10 @@
         {
           "name": "Murilo Cajaiba",
           "url": "https://open.spotify.com/artist/1MiUsnIz4Mkx9xTJrC7Tlf"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
       "duration_ms": 152267,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,338 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 20 | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU) | [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [How To Love \(Feat.Paul Kim\)](https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD) | 3:00 |
 | 21 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 22 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
-| 23 | [Am I living like a dream?](https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Unlock My Boss, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh) | 4:01 |
-| 24 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 |
+| 23 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 |
+| 24 | [Am I living like a dream?](https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Unlock My Boss, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh) | 4:01 |
 | 25 | [Whatever You Do](https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:38 |
 | 26 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 27 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 |
 | 28 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
 | 29 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
-| 30 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 |
-| 31 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 |
+| 30 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 |
+| 31 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 |
 | 32 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 33 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 |
 | 34 | [Love Me](https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 |
 | 50 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 
-Snapshot ID: `MTY3NzIzNTA4MywwMDAwMDAwMDExNjVkNmJlZjRkZWFiYjQxMTU5NTdjMTA4YWRlMjE5`
+Snapshot ID: `MTY3NzIzNTA4MywwMDAwMDAwMDZhODg1MWI0N2NlYjQ1NWU5MmExNjU1OWNkZGQ4YWJj`

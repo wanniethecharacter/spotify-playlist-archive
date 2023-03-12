@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 367986,
       "name": "Disorder -Acoustic Live ver.-",
       "url": "https://open.spotify.com/track/4TsuMLyaataCvRJPnr2Wzf"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 241168,
       "name": "Lost -Game size-",
       "url": "https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0"
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280186,
+      "name": "Weaker",
+      "url": "https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3"
+    },
+    {
+      "album": {
         "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
@@ -650,6 +668,24 @@
       "duration_ms": 226920,
       "name": "\u304a\u3084\u3059\u307f\u306e\u8a69",
       "url": "https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "\u3055\u3088\u30ca\u30e9",
+      "url": "https://open.spotify.com/track/0aLjwTbwYAQJnUkfuWo0Oi"
     },
     {
       "album": {

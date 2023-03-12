@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421546,
+  "num_followers": 421559,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDM5NTZmM2IxMzFjMjgxMTY2ZjExYzRkMWIzZmUzYWQw",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGNmOGQwOWFkMmEyYjY0NzQ4NTQ1Yzc2NzM1YTZjMzNj",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -539,6 +539,30 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 142320,
       "name": "Quinto Degrau",
       "url": "https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Todo Mundo Ama O Sol",
-        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Diretoria",
         "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 206546,
       "name": "Diretoria",
       "url": "https://open.spotify.com/track/64Clca1w9XxHsPstad5aCX"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "bonita e miser\u00e1vel",
-        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 171601,
-      "name": "bonita e miser\u00e1vel",
-      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Carta Que N\u00e3o Diz",
         "url": "https://open.spotify.com/album/3gK51ZgTFMiFHekQKRUUNX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191911,
       "name": "Carta Que N\u00e3o Diz",
       "url": "https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "bonita e miser\u00e1vel",
+        "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 171601,
+      "name": "bonita e miser\u00e1vel",
+      "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
       "added_at": "2023-02-10 03:00:00",

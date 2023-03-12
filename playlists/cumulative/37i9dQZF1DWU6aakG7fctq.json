@@ -2054,10 +2054,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
+    },
+    {
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 256545,
       "name": "Le hablo al agua",
       "url": "https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y"
@@ -3285,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh"
       },
@@ -3426,6 +3466,32 @@
       "duration_ms": 246750,
       "name": "Obras",
       "url": "https://open.spotify.com/track/6f0HsVqhnyhIh4KqW6ew3K"
+    },
+    {
+      "album": {
+        "name": "ojitos caramelo (Remix)",
+        "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        },
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "ojitos caramelo - Remix",
+      "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
     },
     {
       "album": {
@@ -3952,6 +4018,28 @@
       "duration_ms": 282069,
       "name": "Que Sufras",
       "url": "https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E"
+    },
+    {
+      "album": {
+        "name": "Quer\u00eda Olvidarte",
+        "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166058,
+      "name": "Quer\u00eda Olvidarte",
+      "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
     },
     {
       "album": {
@@ -4786,7 +4874,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 216271,
       "name": "Todo Es Falso",
       "url": "https://open.spotify.com/track/3AYVOwtNyct0qq5NQKnZew"
@@ -5346,7 +5434,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 214000,
       "name": "\u00bfPara d\u00f3nde vamos?",
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"

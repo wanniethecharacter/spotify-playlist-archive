@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,750 likes - 80 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,783 likes - 80 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 62 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 |
 | 63 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 |
 | 64 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 |
-| 65 | [FIRE](https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Overflow](https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM) | 4:50 |
-| 66 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
+| 65 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 |
+| 66 | [FIRE](https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Overflow](https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM) | 4:50 |
 | 67 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 |
 | 68 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 |
 | 69 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 |
 | 70 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 |
 | 71 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 72 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
-| 73 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 |
+| 72 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
+| 73 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 |
 | 74 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 |
-| 75 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
+| 75 | [Jesus](https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Jesus](https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H) | 7:34 |
 | 76 | [Eze Ebube II](https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Ebube II](https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh) | 7:12 |
 | 77 | [Wade In The Water \- Live](https://open.spotify.com/track/0d5m0E5BzI6mrhZVAdDZ2J) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Black History Project \(Live from London\)](https://open.spotify.com/album/5ETzZjl4e0CcHbjzI5uBC6) | 3:19 |
 | 78 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 |
 | 79 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 |
 | 80 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 |
 
-Snapshot ID: `MTY3ODQ1MTUzMSwwMDAwMDAwMDAzZDFlYTBmOWQ2OTlhODZlNjY5NWM0MTgzZDNlZWZl`
+Snapshot ID: `MTY3ODQ1MTUzMSwwMDAwMDAwMDQwMWE1ZTM3NDBiYmViOWNlMjVmYzBkNGQyNGUxZTNi`

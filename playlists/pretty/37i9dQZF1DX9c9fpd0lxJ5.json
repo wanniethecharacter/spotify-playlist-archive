@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 448732,
+  "num_followers": 448779,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDg5ZGVjOWY5YTJhMTJlYmU3Y2IxMzIyMjE3YTJmZjA4",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDU0OTZkNTU0MmY2Njg0YWU3ZDg1YjM1MGE5ZDY3OTA1",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bailando mal",
-        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
-      },
-      "artists": [
-        {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 204193,
-      "name": "Bailando mal",
-      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -343,18 +323,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+        "name": "Bailando mal",
+        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
       },
       "artists": [
         {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+      "duration_ms": 204193,
+      "name": "Bailando mal",
+      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -371,6 +355,22 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Moody",
         "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "BLUE 2000",
-        "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
-      },
-      "artists": [
-        {
-          "name": "Victor Internet",
-          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Arco\u00edris",
         "url": "https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 217021,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "BLUE 2000",
+        "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Bowling",
-        "url": "https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 117639,
-      "name": "New Lane",
-      "url": "https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Pastel",
         "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 252000,
       "name": "Honeydew",
       "url": "https://open.spotify.com/track/7vvn5rvFxxfBDoftYZbwCg"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Bowling",
+        "url": "https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 117639,
+      "name": "New Lane",
+      "url": "https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Die 4 Ur Love (Deluxe)",
-        "url": "https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 213314,
-      "name": "Johnny - Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7MpNJk4yOU2A8nHm3EVFfv"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/77e8Fef7cxAiWngOEq8enQ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 200520,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/2OmMwHDXy86Y9qPvRqiFMA"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Die 4 Ur Love (Deluxe)",
+        "url": "https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 213314,
+      "name": "Johnny - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7MpNJk4yOU2A8nHm3EVFfv"
     },
     {
       "added_at": "2023-03-03 05:00:00",

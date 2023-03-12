@@ -4,7 +4,7 @@
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-98 songs - 6 hr 46 min
+99 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [JUDGEMENT\-審判\- \- Full Spec Edition](https://open.spotify.com/track/2wf2iF6yS4sYSQqJblt2O9) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 3:51 | 2021-05-21 | 2022-07-29 |
 | [Kokyo ni nishiki we kazarubeshi \- Full Spec Edition](https://open.spotify.com/track/6P4nomyilY7gePxdc8LSuT) | [永倉新八\(小山力也\)](https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8) | [Ryu ga gotoku Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6) | 3:58 | 2021-05-21 | 2022-11-13 |
 | [KONNANじゃないっ!](https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3), [澤村 遥](https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 5:10 | 2021-05-21 |  |
+| [life is beautiful](https://open.spotify.com/track/17c8p1kMZpogd4vhmrmrcC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [Ketsunopolis5](https://open.spotify.com/album/4ilbi6RzOeNicKIYbI00kJ) | 6:06 | 2021-05-21 |  |
 | [loneliness loop](https://open.spotify.com/track/7a688ehMsOesi6RR6lNVQm) | [T\-SET](https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0), [白石涼子](https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl), [野中藍](https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 3:34 | 2021-05-21 |  |
 | [MachineGun Kiss \- Full Spec Edition](https://open.spotify.com/track/4EwzzGCJncxHcOLwyppWTz) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:30 | 2021-05-21 | 2022-07-29 |
 | [MachineGun Kiss \- Full Spec Edition](https://open.spotify.com/track/5a6SBFado9c4MmKQlXnOR2) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:30 | 2021-05-21 |  |
@@ -76,7 +77,7 @@
 | [サタデーナイト☆ラヴァー](https://open.spotify.com/track/0qmtwmjJIpHZyCSItymVqr) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:26 | 2021-05-21 |  |
 | [サタデーナイト☆ラヴァー](https://open.spotify.com/track/1j74Ne4RFw5MnijmWGULAn) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック Volume2](https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb) | 2:26 | 2021-05-21 | 2022-07-29 |
 | [バブル](https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [バブル](https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP) | 4:56 | 2021-05-21 |  |
-| [ライフイズビューティフル](https://open.spotify.com/track/7tjzUhIBqcIhsmLRL4y94p) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス5](https://open.spotify.com/album/0icQ1sy5NbKWwOI4ItAt6w) | 6:06 | 2021-05-21 |  |
+| [ライフイズビューティフル](https://open.spotify.com/track/7tjzUhIBqcIhsmLRL4y94p) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス5](https://open.spotify.com/album/0icQ1sy5NbKWwOI4ItAt6w) | 6:06 | 2021-05-21 | 2023-03-12 |
 | [一番歌](https://open.spotify.com/track/3KpKnheFsY52KFOSsLAk3C) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [一番歌](https://open.spotify.com/album/2H98HIfvUyuGMBJsB0OAVg) | 5:01 | 2021-05-21 |  |
 | [乙女色my life](https://open.spotify.com/track/1VtZLN1KfgBPF807Y6FJCl) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック Volume2](https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb) | 2:07 | 2021-05-21 | 2022-07-29 |
 | [乙女色my life](https://open.spotify.com/track/3BMaKx6wNyIxMzJicTGbG8) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:07 | 2021-05-21 |  |

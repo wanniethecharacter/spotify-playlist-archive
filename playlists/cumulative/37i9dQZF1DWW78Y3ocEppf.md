@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: JayO
 
-434 songs - 23 hr 8 min
+435 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 | 2021-12-15 | 2022-07-28 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Awkward](https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:58 | 2022-09-23 |  |
-| [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 |  |
+| [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 | 2023-03-12 |
 | [Bad at Love](https://open.spotify.com/track/3XfJoRcy4VvU6bWp2oznGB) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad at Love](https://open.spotify.com/album/0PlLJYgvrYIKLkfaAKd4aT) | 3:04 | 2022-03-25 | 2022-04-21 |
 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-08-05 |  |
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-08-05 | 2022-10-13 |
@@ -378,6 +378,7 @@
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
+| [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 |  |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |
 | [Tell Me](https://open.spotify.com/track/627yvru8268y11clOwn3f4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Tell Me](https://open.spotify.com/album/6533zPPlpWV1bfbToZdD4c) | 3:24 | 2022-11-11 |  |
 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 | 2022-12-16 |  |

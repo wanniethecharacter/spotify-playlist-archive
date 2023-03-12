@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. delilah bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,692 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,832 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 70 | [Sucker](https://open.spotify.com/track/18CliRAehj3KGvbQnLyt4k) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sucker](https://open.spotify.com/album/7mgBVNxlvVOsMQQMgaj98B) | 2:34 |
 | 71 | [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 |
 | 72 | [fall out](https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [fall out](https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG) | 2:46 |
-| 73 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 |
+| 73 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 |
 | 74 | [LET IT GO](https://open.spotify.com/track/3EsHPsCsmjav3XcqBibcMM) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LET IT GO](https://open.spotify.com/album/0pyPK2kPiSxG4KrBmWsGQt) | 2:07 |
 | 75 | [Not Yours Never Was](https://open.spotify.com/track/4bg3Y2jE3wbjcOHLWBYogo) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Not Yours Never Was](https://open.spotify.com/album/0olqiaBJPPoECCG5CCbu7s) | 2:51 |
 | 76 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 | 80 | [i don't reply](https://open.spotify.com/track/3CyCZZGuBCjir82ta1bkii) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [i don't reply](https://open.spotify.com/album/2j3CSAkyjU62aBogjlm277) | 2:48 |
 
-Snapshot ID: `MTY3ODQ0NTMxMSwwMDAwMDAwMDQzMzEwNmI0NzkwNjdmNGYxZjg4ZmUzODY5YzcwMzZk`
+Snapshot ID: `MTY3ODQ0NTMxMSwwMDAwMDAwMGE3YmQ2MjgyMzZjNjM2ZTNhY2U1OWIyNzg4MTdkNGYy`

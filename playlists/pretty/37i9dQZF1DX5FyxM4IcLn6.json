@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126908,
+  "num_followers": 126912,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDQ1MTQyMGVlZWUyOWMwOTgxZjhiYjY2OTZhMmVmODg5",
+  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMGIyY2UxOWQ4ODdlYmEzOTk5YzIxNmU3ZjNiMjZlZWI3",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 625062,
       "name": "Fear is Not My Future (feat. Brandon Lake & Chandler Moore)",
       "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1235,34 +1235,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
-        "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
-      "url": "https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "When I Pray",
         "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
       },
@@ -1291,6 +1263,34 @@
       "duration_ms": 386346,
       "name": "Harmonia's Dream",
       "url": "https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+        "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 565833,
+      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "url": "https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z"
     },
     {
       "added_at": "2023-02-07 01:47:20",

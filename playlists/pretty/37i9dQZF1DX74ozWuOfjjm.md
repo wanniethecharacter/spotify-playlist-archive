@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume! Co\-curated by Robinson for International Women's Day 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,915 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,928 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,35 +13,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 3 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 4 | [Hard Out Here.](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here.](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 |
 | 5 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
-| 6 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
-| 7 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
-| 8 | [Tell Me](https://open.spotify.com/track/5XWo5K2OikuYJqvyq8zQWe) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Tell Me](https://open.spotify.com/album/6DN0sqBcVOn49GeqKrttyh) | 2:55 |
-| 9 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 |
-| 10 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 |
-| 11 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
-| 12 | [Freeloader](https://open.spotify.com/track/0ETmDfpRKtQIC45COn64V9) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/2kVAEzBvADamc4w3k88beS) | 3:28 |
-| 13 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 |
-| 14 | [Spring to Life](https://open.spotify.com/track/0GzPoR4Q0ik9kfPk01mfdd) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Spring to Life](https://open.spotify.com/album/0qG6DPGDmFKM36zz5KAg1E) | 2:38 |
-| 15 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
-| 16 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
-| 17 | [Happy](https://open.spotify.com/track/3xnwztCYNHAMi1v9OEj1Nq) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Stay Awake](https://open.spotify.com/album/5ZgUaY1zgXYpP6eax5rjam) | 3:59 |
-| 18 | [Cheating on Myself](https://open.spotify.com/track/4pR70cMgLgsH2Y4WjWhbIH) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cheating on Myself](https://open.spotify.com/album/2BBJcoBveE93eqIOXLt7qc) | 2:53 |
-| 19 | [Ahhh](https://open.spotify.com/track/1CxqGW6dmzL0YmnVdDQFb0) | [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Ahhh](https://open.spotify.com/album/1kzd5L9Zcz0pTDQCNy2IFs) | 3:20 |
-| 20 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
-| 21 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 |
-| 22 | [Nothing](https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Nothing](https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ) | 3:16 |
-| 23 | [F4U](https://open.spotify.com/track/64at8RvJZJF03DNGOkHKOi) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [F4U](https://open.spotify.com/album/4QSkjoDdskn9WSJrrxdDoC) | 3:02 |
-| 24 | [I Wanna Be Alive](https://open.spotify.com/track/05dEnmjEuVBe9sTvv2bIVn) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [I Wanna Be Alive](https://open.spotify.com/album/3Rc2qYxuAh4CvfCHAXpfET) | 3:46 |
-| 25 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
-| 26 | [Easy To Forgive](https://open.spotify.com/track/0b493x6UWJyxZjIOyG4NQ6) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Easy To Forgive](https://open.spotify.com/album/701Big6irkwuFGP4yPCOqY) | 2:47 |
-| 27 | [Cold Summer](https://open.spotify.com/track/7whJTS1VSBd441C5bfn9E0) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Cold Summer](https://open.spotify.com/album/3Z9w80XtBRvzFmzBSjdack) | 3:29 |
-| 28 | [Happy Person](https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA) | [Babitha](https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y) | [Brighter Side of Blue](https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB) | 3:21 |
-| 29 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 |
-| 30 | [Clique](https://open.spotify.com/track/4NbG4RBZ3MBPznYgftjiOp) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Clique](https://open.spotify.com/album/3C9IYfLDrQVe54E1TMbYSv) | 3:13 |
-| 31 | [Skin](https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Skin](https://open.spotify.com/album/2AxVopmpBrUglkTcjOWfiB) | 2:50 |
-| 32 | [If You Want My Love](https://open.spotify.com/track/2Qm9VAt4t1BghrBzkbsRbJ) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [If You Want My Love](https://open.spotify.com/album/5yP5FeVIxjBNUnZ59Hg4sY) | 2:38 |
-| 33 | [He Said](https://open.spotify.com/track/2EJsZgcZUA9NcY2vKKXUMC) | [Jordan Gavet](https://open.spotify.com/artist/07Zk7DnHt6dFfnNh5H9fLd) | [He Said](https://open.spotify.com/album/5ZmCYJDWBHmrGQFJ5E1qTD) | 3:08 |
-| 34 | [skin deep](https://open.spotify.com/track/5CmTPL7QXwZoWKjIX6apTB) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [shapeless](https://open.spotify.com/album/2yJtn1NTEXnj5tM3B2NGyf) | 3:24 |
+| 6 | [Till You’re Ready](https://open.spotify.com/track/6uhOg5d86Bvr5KQ3Tj6eo1) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Till You’re Ready](https://open.spotify.com/album/77stMVoaQ9h2oIkHFbFXNU) | 2:56 |
+| 7 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 |
+| 8 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
+| 9 | [Tell Me](https://open.spotify.com/track/5XWo5K2OikuYJqvyq8zQWe) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [Tell Me](https://open.spotify.com/album/6DN0sqBcVOn49GeqKrttyh) | 2:55 |
+| 10 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 |
+| 11 | [Sweat You Out My System](https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Sweat You Out My System](https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi) | 3:09 |
+| 12 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
+| 13 | [Freeloader](https://open.spotify.com/track/0ETmDfpRKtQIC45COn64V9) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/2kVAEzBvADamc4w3k88beS) | 3:28 |
+| 14 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 |
+| 15 | [Spring to Life](https://open.spotify.com/track/0GzPoR4Q0ik9kfPk01mfdd) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Spring to Life](https://open.spotify.com/album/0qG6DPGDmFKM36zz5KAg1E) | 2:38 |
+| 16 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
+| 17 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
+| 18 | [Happy](https://open.spotify.com/track/3xnwztCYNHAMi1v9OEj1Nq) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Stay Awake](https://open.spotify.com/album/5ZgUaY1zgXYpP6eax5rjam) | 3:59 |
+| 19 | [Cheating on Myself](https://open.spotify.com/track/4pR70cMgLgsH2Y4WjWhbIH) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cheating on Myself](https://open.spotify.com/album/2BBJcoBveE93eqIOXLt7qc) | 2:53 |
+| 20 | [Ahhh](https://open.spotify.com/track/1CxqGW6dmzL0YmnVdDQFb0) | [Asta](https://open.spotify.com/artist/3cmUhYaAl8ZVz3coS1T3VC) | [Ahhh](https://open.spotify.com/album/1kzd5L9Zcz0pTDQCNy2IFs) | 3:20 |
+| 21 | [Only Wanna Be With You](https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Only Wanna Be With You](https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ) | 3:10 |
+| 22 | [Waiting Game](https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Morning Sun EP](https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC) | 4:00 |
+| 23 | [Nothing](https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Nothing](https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ) | 3:16 |
+| 24 | [F4U](https://open.spotify.com/track/64at8RvJZJF03DNGOkHKOi) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [F4U](https://open.spotify.com/album/4QSkjoDdskn9WSJrrxdDoC) | 3:02 |
+| 25 | [I Wanna Be Alive](https://open.spotify.com/track/05dEnmjEuVBe9sTvv2bIVn) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [I Wanna Be Alive](https://open.spotify.com/album/3Rc2qYxuAh4CvfCHAXpfET) | 3:46 |
+| 26 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 |
+| 27 | [Easy To Forgive](https://open.spotify.com/track/0b493x6UWJyxZjIOyG4NQ6) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Easy To Forgive](https://open.spotify.com/album/701Big6irkwuFGP4yPCOqY) | 2:47 |
+| 28 | [Cold Summer](https://open.spotify.com/track/7whJTS1VSBd441C5bfn9E0) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Cold Summer](https://open.spotify.com/album/3Z9w80XtBRvzFmzBSjdack) | 3:29 |
+| 29 | [Happy Person](https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA) | [Babitha](https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y) | [Brighter Side of Blue](https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB) | 3:21 |
+| 30 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 |
+| 31 | [Clique](https://open.spotify.com/track/4NbG4RBZ3MBPznYgftjiOp) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Clique](https://open.spotify.com/album/3C9IYfLDrQVe54E1TMbYSv) | 3:13 |
+| 32 | [Skin](https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Skin](https://open.spotify.com/album/2AxVopmpBrUglkTcjOWfiB) | 2:50 |
+| 33 | [If You Want My Love](https://open.spotify.com/track/2Qm9VAt4t1BghrBzkbsRbJ) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [If You Want My Love](https://open.spotify.com/album/5yP5FeVIxjBNUnZ59Hg4sY) | 2:38 |
+| 34 | [He Said](https://open.spotify.com/track/2EJsZgcZUA9NcY2vKKXUMC) | [Jordan Gavet](https://open.spotify.com/artist/07Zk7DnHt6dFfnNh5H9fLd) | [He Said](https://open.spotify.com/album/5ZmCYJDWBHmrGQFJ5E1qTD) | 3:08 |
 | 35 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 |
 | 36 | [nice](https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [nice](https://open.spotify.com/album/6VQGSVyGAftU1zhTJU4Q3t) | 1:57 |
 | 37 | [Loyalty](https://open.spotify.com/track/1iHZqqJyKH1O8pFrU7yFFY) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Loyalty](https://open.spotify.com/album/4JTjrW6NJENPJJBXAtGcun) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 89 | [By The Sea](https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:16 |
 | 90 | [Fuchsia](https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Fuchsia](https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f) | 3:24 |
 
-Snapshot ID: `MTY3ODE0NTUwNCwwMDAwMDAwMDExYzJkMGVlNmU3MGViY2QwODQ1OGE0NDg3MjkzNGRh`
+Snapshot ID: `MTY3ODUxMzM5MywwMDAwMDAwMDkwYmJhYTFkMjU5OTBhNjhmNWM1MWZjYjQ1ZWUzYTE0`

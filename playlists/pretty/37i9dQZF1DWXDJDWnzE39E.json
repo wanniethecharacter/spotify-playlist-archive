@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 595733,
+  "num_followers": 596114,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMDkwMjQ3NDgwYjY5MTlkOTQyMzhjOThlZGNmZGMyNGRi",
+  "snapshot_id": "MTY3Nzc5NDU1NCwwMDAwMDAwMGQxY2JkYzk3NzFjY2Y2MWJhMWQyMmVlY2VkOGYzMDUw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
-      "added_at": "2023-02-10 15:44:35",
-      "album": {
-        "name": "Not My Problem",
-        "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 129399,
-      "name": "Not My Problem",
-      "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "We Bring You the Stars",
@@ -327,6 +311,22 @@
       "duration_ms": 180373,
       "name": "We Bring You the Stars",
       "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+    },
+    {
+      "added_at": "2023-02-10 15:44:35",
+      "album": {
+        "name": "Not My Problem",
+        "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "duration_ms": 129399,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
     },
     {
       "added_at": "2023-03-02 22:02:34",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+        "name": "You're Not Gone, You're Just Dead!",
+        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+      "duration_ms": 175229,
+      "name": "You're Not Gone, You're Just Dead!",
+      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 155342,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "You're Not Gone, You're Just Dead!",
-        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
-      },
-      "artists": [
-        {
-          "name": "VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "You're Not Gone, You're Just Dead!",
-      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
-      "added_at": "2023-02-10 15:44:35",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Paralyzed",
@@ -555,6 +539,22 @@
       "duration_ms": 225692,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
+      "added_at": "2023-02-10 15:44:35",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "weapon",
         "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2022-11-18 01:31:53",

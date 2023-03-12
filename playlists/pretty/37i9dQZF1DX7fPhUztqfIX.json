@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 102804,
+  "num_followers": 102835,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDQ1ZmMzZDI3YzQ0Y2JlYjAwZjcxMjc0ZDNlMjgyNTBk",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGQ1NmU3NmNlMTFlZWRmZDQyOTQ2MmRjMGQ1MzU4YmQ2",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The God Who Fights for Me",
-        "url": "https://open.spotify.com/album/5bSY4TD5nNET1jOtDUiZ8y"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 225228,
-      "name": "The God Who Fights for Me",
-      "url": "https://open.spotify.com/track/4ut1jCNfTaykqaNkSCIwuj"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The Wait: Silence The Noise (Live)",
-        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "I Will Wait - Live",
-      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -811,6 +779,22 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The Wait: Silence The Noise (Live)",
+        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "I Will Wait - Live",
+      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -987,6 +971,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "The God Who Fights For Me",
+        "url": "https://open.spotify.com/album/18Z3YpB4jp3MEuJ2E9bmVE"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 225228,
+      "name": "The God Who Fights for Me",
+      "url": "https://open.spotify.com/track/1KuROOkDBlMbDSHiULDEM6"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Altars",
-        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Altars",
+        "url": "https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "King Jesus",
         "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 414698,
       "name": "King Jesus - Live",
       "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Grace That Changes Everything",
         "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
       },
@@ -1799,22 +1815,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1827,6 +1827,26 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Going Back",
+        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
+      },
+      "artists": [
+        {
+          "name": "Cross Point Music",
+          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
+        },
+        {
+          "name": "Setnick Sene",
+          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
+        }
+      ],
+      "duration_ms": 257812,
+      "name": "No One (feat. Setnick Sene)",
+      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1851,26 +1871,6 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Going Back",
-        "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
-      },
-      "artists": [
-        {
-          "name": "Cross Point Music",
-          "url": "https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P"
-        },
-        {
-          "name": "Setnick Sene",
-          "url": "https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE"
-        }
-      ],
-      "duration_ms": 257812,
-      "name": "No One (feat. Setnick Sene)",
-      "url": "https://open.spotify.com/track/3eVFaPhYojbmuqU3XiwjOl"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+      },
+      "artists": [
+        {
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+        }
+      ],
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Living Proof (Live)",
         "url": "https://open.spotify.com/album/4nO5QhGxrtM39dsSjf9q8J"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 281746,
       "name": "Living Proof - Live",
       "url": "https://open.spotify.com/track/48fSSUAlYJoq6CNmYc5RCw"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
-      },
-      "artists": [
-        {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
-        }
-      ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "duration_ms": 341451,
+      "name": "Landslide - Radio Version",
+      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Holy Holy Here With Me (Live)",
         "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 297563,
       "name": "Holy Holy Here With Me - Live",
       "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0WFJArmcuNFAF96fJsFf0B"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 341451,
-      "name": "Landslide - Radio Version",
-      "url": "https://open.spotify.com/track/6PNcn8mtUlyilOsdgztIHA"
     },
     {
       "added_at": "2021-06-12 04:00:40",

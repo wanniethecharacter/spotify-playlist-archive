@@ -78809,6 +78809,36 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex"
+      },
+      "artists": [
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "viceversa",
+          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
+        },
+        {
+          "name": "SMUGGLERS",
+          "url": "https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "WHIP! - Spotify Singles",
+      "url": "https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r"
+    },
+    {
+      "album": {
         "name": "Recycle",
         "url": "https://open.spotify.com/album/3PILBpS1ZR68SzffLwlFcr"
       },

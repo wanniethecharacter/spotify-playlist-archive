@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 187,
+  "num_followers": 189,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMGEyZjBjYjk3NzdkZTYxYzcyYzE0MWJhZWRkMjJlODBh",
+  "snapshot_id": "MTY3MjU0OTIwMCwwMDAwMDAwMGMxNDI1ZjdlNzEyZjIwOWYxOGMzZjExMDE3YjdkZGU4",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2023-01-01 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 34610,
+  "num_followers": 34764,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMGRmZjMxZGM2NzBjNWZjMDkzYmU0YWUzODA0ZWI1Njc2",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDI0ZGJlNjJlN2M5MTk5NWI1MDk3NDZiNzBjOWQyMWZj",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
-      },
-      "artists": [
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 175333,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Oluwa",
         "url": "https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p"
       },
@@ -751,34 +767,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
       },
       "artists": [
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        },
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "Amanda Kono",
+          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+      "duration_ms": 177600,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -823,6 +827,22 @@
       "duration_ms": 229363,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -879,26 +899,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hylton",
-          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
-        },
-        {
-          "name": "Amanda Kono",
-          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 138710,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "YOUR MIND",
         "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 175312,
       "name": "YOUR MIND",
       "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 138710,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1071,22 +1071,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
       "artists": [
         {
-          "name": "Phontera",
-          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
         },
         {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         }
       ],
-      "duration_ms": 132662,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1111,6 +1115,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 155326,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "NEVER FORGET",
-        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "NEVER FORGET",
-      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1191,22 +1191,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Highly Favoured",
-        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
+        "name": "Belongs to You (EDM Remix)",
+        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
       },
       "artists": [
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
         },
         {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Highly Favoured",
-      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
+      "duration_ms": 187500,
+      "name": "Belongs to You - EDM Remix",
+      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1231,26 +1235,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Belongs to You (EDM Remix)",
-        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
+        "name": "Highly Favoured",
+        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
       },
       "artists": [
         {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
         },
         {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Belongs to You - EDM Remix",
-      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+      "duration_ms": 180000,
+      "name": "Highly Favoured",
+      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1455,42 +1455,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 161495,
-      "name": "Idols",
-      "url": "https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Yakpa",
-        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "Yakpa",
-      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
@@ -1511,6 +1475,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Yakpa",
+        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "Yakpa",
+      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Drunk",
         "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
       },
@@ -1523,6 +1503,46 @@
       "duration_ms": 321428,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1547,26 +1567,6 @@
       "duration_ms": 150606,
       "name": "Pray 4 Me",
       "url": "https://open.spotify.com/track/7xOQE6kpgBewPA0E2gwaO3"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2023-02-10 10:09:36",

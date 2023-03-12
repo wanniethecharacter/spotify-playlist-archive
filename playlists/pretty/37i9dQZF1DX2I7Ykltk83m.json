@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Tommy Lefroy",
-  "num_followers": 323935,
+  "num_followers": 324089,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDk0ZWM5MDA1N2RjZmNiMjQ5Y2U5NWZhZDM2ZjEyZjJm",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDY5ODMzZGY2YjMwNDU5ZTQyOWI4ZDU5NTM5MGFhNTdm",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Projections",
         "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -803,22 +787,6 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 157616,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -839,18 +807,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
       },
       "artists": [
         {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 248666,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
+      "duration_ms": 157616,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 222293,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 275013,
       "name": "I Don't Recognise You",
       "url": "https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 168074,
+      "name": "Write A List of Things To Look Forward To",
+      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "SYT",
+        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SYT",
+      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 168074,
-      "name": "Write A List of Things To Look Forward To",
-      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 219213,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Angelica",
         "url": "https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "90s American Superstar",
-        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "90s American Superstar",
-      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1699,38 +1699,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Come Apart",
-        "url": "https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Come Apart",
-      "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Makes Me Sick Makes Me Smile",
-        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 229961,
-      "name": "Self Fulfilling Prophecy",
-      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1763,6 +1731,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Come Apart",
+        "url": "https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Come Apart",
+      "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Free to Live in Colour",
         "url": "https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 194312,
       "name": "Free to Live in Colour",
       "url": "https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Makes Me Sick Makes Me Smile",
+        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 229961,
+      "name": "Self Fulfilling Prophecy",
+      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 187143,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -1875,18 +1891,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby"
+        "name": "I (motsi)",
+        "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
       },
       "artists": [
         {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
         }
       ],
-      "duration_ms": 187143,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed"
+      "duration_ms": 197437,
+      "name": "It's a good day (to fight the system)",
+      "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1903,22 +1919,6 @@
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "I (motsi)",
-        "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
-      },
-      "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 197437,
-      "name": "It's a good day (to fight the system)",
-      "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1951,6 +1951,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2035,22 +2051,6 @@
       "duration_ms": 279293,
       "name": "Champion",
       "url": "https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sucker's Lunch",
-        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Kenney",
-          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
-        }
-      ],
-      "duration_ms": 283370,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
     }
   ],
   "unique_name": "badass",

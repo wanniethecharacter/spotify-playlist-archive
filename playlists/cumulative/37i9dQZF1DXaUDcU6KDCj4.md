@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Angel Olsen
 
-1,023 songs - 2 day 15 hr 4 min
+1,023 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Lonely Nights](https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Lonely Nights](https://open.spotify.com/album/6TDPDqFhN723c6BMCZcIWV) | 4:01 | 2022-06-10 | 2022-08-06 |
 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/1sRoE43LJzCL1aGHVlBttN) | [The A's](https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p) | [Lonesome L.A\. Cowboy](https://open.spotify.com/album/7GHfzpuu8tmg8HTvXAk7j4) | 4:19 | 2022-10-14 | 2023-01-21 |
 | [Look At Miss Ohio](https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Look At Miss Ohio](https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE) | 3:25 | 2022-07-29 | 2023-01-06 |
-| [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 4:32 | 2023-02-17 |  |
+| [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 3:50 | 2023-02-17 |  |
 | [Look Over My Shoulder](https://open.spotify.com/track/5pVX2A5DLqQfNrpUdRw306) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [Green](https://open.spotify.com/album/7xQTGR29x2BzB1zYniXIan) | 2:26 | 2022-04-29 | 2022-06-18 |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2022-07-15 | 2022-09-10 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-05-28 |

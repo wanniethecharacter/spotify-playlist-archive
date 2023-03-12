@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-653 songs - 1 day 10 hr 38 min
+654 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-17 | 2022-09-16 |
 | [Helan går](https://open.spotify.com/track/3VJHbBZSvktGfRIAW2aXch) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Helan går](https://open.spotify.com/album/6Bzcl46KbEPJLQAUYYcC9T) | 3:15 | 2022-05-05 | 2022-09-30 |
 | [Hello Life](https://open.spotify.com/track/65Ze1JjeWsYW8BtMjpJDJg) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry \[pt\. 1\]](https://open.spotify.com/album/5r4LuaBBNNEYpJCPWFeLCU) | 3:58 | 2022-03-04 | 2022-05-13 |
+| [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-09 |  |
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 |  |
 | [Here Comes The Night](https://open.spotify.com/track/3iLQ42RCWUurSrIUn14ogf) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Here Comes The Night](https://open.spotify.com/album/4Ix7oLZKkbrqbsb12qTShP) | 3:32 | 2021-12-16 | 2022-05-13 |
 | [Higher](https://open.spotify.com/track/6voH1nEeqIS3S0ZOAtqRfi) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Higher](https://open.spotify.com/album/5gjw2rOMq6aWDCYBDgKzhy) | 3:51 | 2023-01-19 | 2023-02-12 |
@@ -471,7 +472,7 @@
 | [Safe](https://open.spotify.com/track/5YWHPx3STBbT1b5Xfn7hGU) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r) | [Safe](https://open.spotify.com/album/47aEkdMv1yTwN6MRJ3LuBl) | 3:07 | 2022-03-10 | 2022-05-30 |
 | [Safety Lines](https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg) | [Dead People](https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9) | [Safety Lines](https://open.spotify.com/album/4beGjjFosk130hWy8tOgVv) | 3:45 | 2021-12-16 | 2022-03-05 |
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
-| [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 |  |
+| [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 | 2023-03-12 |
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
 | [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 |  |
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |

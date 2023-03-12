@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 198625,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX"
@@ -8896,6 +8896,24 @@
       "duration_ms": 188168,
       "name": "VERDE MENTA",
       "url": "https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "Violet Chemistry",
+      "url": "https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U"
     },
     {
       "album": {

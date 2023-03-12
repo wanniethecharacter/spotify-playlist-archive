@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,254 likes - 70 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,282 likes - 70 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 24 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 |
 | 25 | [With My Hands](https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [With My Hands](https://open.spotify.com/album/3f4uAnNYCz9xizRrqhjvDZ) | 5:50 |
 | 26 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 |
-| 27 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 |
+| 27 | [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 |
 | 28 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 29 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 |
 | 30 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 69 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 70 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 |
 
-Snapshot ID: `MTY3Njg3NTMxMywwMDAwMDAwMDE0YTFkNzg1NzFjZDc3MjA4MmVjNjdkNzNmMjZmNTAy`
+Snapshot ID: `MTY3Njg3NTMxMywwMDAwMDAwMDgxOGE5MTk4OWU2NWMwZTkzOTQ2YjQzM2E2OWI4NTQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Weathers
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,089 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,155 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 37 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 |
 | 38 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
 | 39 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
-| 40 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsey Karter & The Heroines](https://open.spotify.com/artist/6LQggZd9VkeNQiXdLChrDc) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
+| 40 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 | 41 | [People Are Vomit](https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [People Are Vomit](https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o) | 2:52 |
 | 42 | [The Credits](https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Credits](https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu) | 3:04 |
 | 43 | [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/75kHO3nwCToe6HKMKyBC8R) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 2:51 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 70 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 | 71 | [Honeylight](https://open.spotify.com/track/7meIkOb8RpI52c6XcmEgHO) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Honeylight](https://open.spotify.com/album/1r7iblFWhX6mfOBlNbc5a4) | 3:21 |
 | 72 | [All We've Ever Wanted](https://open.spotify.com/track/3dKzgSWLkbPmPnsWf8BYxs) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [All We've Ever Wanted](https://open.spotify.com/album/1wX5h4ML7Yiz2SDaWHx2B4) | 3:03 |
-| 73 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Worth It](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
+| 73 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
 | 74 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 75 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 |
 | 76 | [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 |

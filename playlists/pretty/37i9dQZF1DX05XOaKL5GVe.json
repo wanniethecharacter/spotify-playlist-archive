@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 590353,
+  "num_followers": 591153,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjM0ODc3OSwwMDAwMDAwMDFmMWQ4M2NlZjliODE3YjA1MDM2ZDVjZWE4Yjg2ZTJi",
+  "snapshot_id": "MTY3NjM0ODc3OSwwMDAwMDAwMGRkZGUxNWJiNTBlMTkwY2Q0NjA3OTVmMzMzNDQwNjlj",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "2 (Remasterizado 2017)",
         "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 245560,
       "name": "Hoy tengo ganas de ti",
       "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
     },
     {
+      "added_at": "2023-02-14 04:26:19",
+      "album": {
+        "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1f0unBzpTT9n5I5onp2xfV"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Barco a Venus",
+      "url": "https://open.spotify.com/track/4wBigcWzcPC1nrEHzKHF1Z"
+    },
+    {
       "added_at": "2021-04-22 14:20:49",
       "album": {
         "name": "Disco De Oro: Baladas, Vol. 1",
@@ -1075,22 +1091,6 @@
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D"
-    },
-    {
-      "added_at": "2023-02-14 04:26:19",
-      "album": {
-        "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1f0unBzpTT9n5I5onp2xfV"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Barco a Venus",
-      "url": "https://open.spotify.com/track/4wBigcWzcPC1nrEHzKHF1Z"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 266013,
       "name": "Yo No Nac\u00ed para Amar",
       "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mensajes De F\u00e9",
-        "url": "https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5"
+        "name": "Ya Viene el Sol (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/39ItQ4hQshPOoUUhBUFjpE"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 226866,
-      "name": "La Monta\u00f1a (A Montanha)",
-      "url": "https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph"
+      "duration_ms": 250333,
+      "name": "Hawaii-Bombay",
+      "url": "https://open.spotify.com/track/3e22yN2324r75U9qCDadJD"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

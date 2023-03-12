@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover: HUHGAK(\ud5c8\uac01)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 315816,
+  "num_followers": 315888,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM2Mzk0MSwwMDAwMDAwMDJiMWRiZjg2ZDViMGJhODdlNDFiMWFlY2QxYjE3NGFj",
+  "snapshot_id": "MTY3ODM2Mzk0MSwwMDAwMDAwMDg0MzU0NDIxNWJmZDE0ZjJlYmE4MDFhODkwOTIwNTE4",
   "tracks": [
     {
       "added_at": "2023-02-27 05:55:09",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-03-11 00:55:45",
+      "added_at": "2023-03-12 00:42:19",
       "album": {
         "name": "The Work Of Erasing You",
         "url": "https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI"
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "WAW",
-        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Where Are We Now",
-      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Chocolate, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 221746,
       "name": "Just Look for you",
       "url": "https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD"
       },
       "artists": [
         {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
         }
       ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+      "duration_ms": 229000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1107,6 +1091,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "I'M",
-        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1327,54 +1327,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1399,6 +1351,54 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "I'M",
+        "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "\ub0b4\uac00 \uc800\uc9c0\ub978 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
     },
     {
       "added_at": "2023-02-27 05:55:09",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-27 05:55:09",
       "album": {
-        "name": "May I love you",
-        "url": "https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "May I love you",
-      "url": "https://open.spotify.com/track/4Q0abYbjqmNBC4KEd3JfnL"
-    },
-    {
-      "added_at": "2023-02-27 05:55:09",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2023-02-27 05:55:09",
+      "album": {
+        "name": "May I love you",
+        "url": "https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "May I love you",
+      "url": "https://open.spotify.com/track/4Q0abYbjqmNBC4KEd3JfnL"
     },
     {
       "added_at": "2023-02-27 05:55:09",

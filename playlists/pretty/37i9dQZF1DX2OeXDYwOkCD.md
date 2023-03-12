@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,225 likes - 95 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,272 likes - 95 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 | 68 | [La Hija De Juan Simón](https://open.spotify.com/track/2iCuj1KMxtGU5rP2GY9VaP) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:09 |
 | 69 | [Como habla una mujer \(feat\. C\. Tangana\)](https://open.spotify.com/track/1pJeLDLduCZS4hLuc1JByJ) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Como habla una mujer \(feat\. C\. Tangana\)](https://open.spotify.com/album/09sHAU8dDbAuIy3RfCM3wZ) | 3:26 |
 | 70 | [MALDICIÓN \- Cap.10: Cordura](https://open.spotify.com/track/5IIXMynH8cxC8is6MaqdF7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:55 |
-| 71 | [Viene y Va](https://open.spotify.com/track/1UozIJsPRJVXDRG08AgUQP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Viene y Va](https://open.spotify.com/album/1GMAjyXTrGyAgMhvykfLJJ) | 3:10 |
+| 71 | [Viene y Va](https://open.spotify.com/track/1UozIJsPRJVXDRG08AgUQP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Viene y Va](https://open.spotify.com/album/1GMAjyXTrGyAgMhvykfLJJ) | 3:10 |
 | 72 | [DE AQUÍ NO SALES \- Cap.4: Disputa](https://open.spotify.com/track/0CaiddWO1F3v4nTQGgfk9A) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:24 |
 | 73 | [Hong Kong](https://open.spotify.com/track/4kD4ZzJ1rZIVfJ9qw85CVT) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:23 |
 | 74 | [Te Venero](https://open.spotify.com/track/5r3n7YYY1jtl8pqvZr1DAD) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 4:06 |

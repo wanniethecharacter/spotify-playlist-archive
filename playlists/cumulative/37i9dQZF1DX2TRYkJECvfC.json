@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 242068,
       "name": "Nillla (La la La la La)",
       "url": "https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn"
@@ -5568,6 +5568,24 @@
       "duration_ms": 415238,
       "name": "Spectrum - Original",
       "url": "https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31"
+      },
+      "artists": [
+        {
+          "name": "Dan Shake",
+          "url": "https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262853,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr"
     },
     {
       "album": {

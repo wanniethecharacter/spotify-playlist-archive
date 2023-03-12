@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 29408,
+  "num_followers": 29418,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMDVkYjIzZWEzZWRmMTk4YTc4MmQyODY1YjZjYTcwYWY2",
+  "snapshot_id": "MTY3ODEzMjc5NSwwMDAwMDAwMDJlNDEyMzhkMTg0MWM0MTk0ZDA5NjE2NjExZDc3ZWFk",
   "tracks": [
     {
       "added_at": "2023-01-02 21:45:00",
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX"
     },
     {
-      "added_at": "2023-03-11 01:10:45",
+      "added_at": "2023-03-12 00:42:08",
       "album": {
         "name": "I Want 2",
         "url": "https://open.spotify.com/album/4Vc751bJD0eQkOdqc4IiSj"
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
     },
     {
-      "added_at": "2022-09-02 05:54:39",
-      "album": {
-        "name": "Sal de Mar",
-        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 267775,
-      "name": "Sal de Mar",
-      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
-    },
-    {
       "added_at": "2022-02-15 02:17:36",
       "album": {
         "name": "Tamburo Infinito",
@@ -507,6 +491,22 @@
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW"
+    },
+    {
+      "added_at": "2022-09-02 05:54:39",
+      "album": {
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "duration_ms": 267775,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
     },
     {
       "added_at": "2023-01-03 23:30:52",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
-      "added_at": "2022-08-16 00:06:15",
-      "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
       "added_at": "2022-01-11 00:19:39",
       "album": {
         "name": "City of Mirrors",
@@ -651,6 +635,22 @@
       "duration_ms": 148093,
       "name": "Glorieta",
       "url": "https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV"
+    },
+    {
+      "added_at": "2022-08-16 00:06:15",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-04-09 05:10:17",
@@ -737,38 +737,6 @@
       "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
-      "added_at": "2022-09-03 03:44:59",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Sol",
@@ -787,6 +755,38 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2022-09-03 03:44:59",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
+      "added_at": "2022-09-26 21:49:32",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+    },
+    {
       "added_at": "2022-06-24 16:07:34",
       "album": {
         "name": "Duele",
@@ -905,20 +921,20 @@
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
-      "added_at": "2022-09-26 21:49:32",
+      "added_at": "2021-11-10 05:48:01",
       "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
       },
       "artists": [
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -937,20 +953,20 @@
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
-      "added_at": "2021-11-10 05:48:01",
+      "added_at": "2022-10-27 22:16:41",
       "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-09-02 05:18:03",
@@ -967,22 +983,6 @@
       "duration_ms": 255591,
       "name": "la noche de ayer",
       "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
-    },
-    {
-      "added_at": "2022-10-27 22:16:41",
-      "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-01-14 01:12:21",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        },
-        {
-          "name": "Real Stylo",
-          "url": "https://open.spotify.com/artist/0ZHdDT59jztrFM0P25fGES"
-        }
-      ],
-      "duration_ms": 195901,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
-    },
-    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "JEVI",
@@ -1323,6 +1303,26 @@
       "duration_ms": 185440,
       "name": "Pa' Siempre No Es Na",
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
+    },
+    {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/3heydvhPVk5vZ5ZcX1q3u0"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        },
+        {
+          "name": "Real Stylo",
+          "url": "https://open.spotify.com/artist/0ZHdDT59jztrFM0P25fGES"
+        }
+      ],
+      "duration_ms": 195901,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
       "added_at": "2022-04-09 05:10:17",

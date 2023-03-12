@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,669 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,753 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pani Da Rang Male \(From "Vicky Donor"\)](https://open.spotify.com/track/6eTPyEkYUmDUFvNxJdNuOD) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Vicky Donor](https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB) | 4:00 |
+| 1 | [Pani da Rang \(Male\)](https://open.spotify.com/track/0ce9G1z2SstCXHJ9gTg6PB) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Putumayo Presents Indian Groove](https://open.spotify.com/album/10nxOUYmEhheGuBH3QdkIz) | 3:59 |
 | 2 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
 | 3 | [Bana Sharabi \- Reprise](https://open.spotify.com/track/5uQe4p4rE9CTzBIXaqzJ7v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG) | [Govinda Naam Mera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ITI5Ck5zhQ3WTNfwiesZ9) | 2:29 |
 | 4 | [Rabba Janda Acoustic Version \(From "Mission Majnu"\)](https://open.spotify.com/track/0lxj1JdpzWwD4uCpje4oy0) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Rabba Janda Acoustic Version \(From "Mission Majnu"\)](https://open.spotify.com/album/4vEt431lDcAR04hi9ueDGG) | 2:25 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 48 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 |
 | 49 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 
-Snapshot ID: `MTY3NjAwMjg0NywwMDAwMDAwMDUxZGRiZjQ5NjMyZmQwZGUyNjc1Njc4OTRiNWMzYjZl`
+Snapshot ID: `MTY3NjAwMjg0NywwMDAwMDAwMGYwY2YwOWI1MTk5ZWQ2NWM5Njg0MWNiMWFjZDkyOTk4`

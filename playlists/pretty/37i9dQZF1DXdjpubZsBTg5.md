@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,306 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,496 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 57 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 | 58 | [Corazón de neón](https://open.spotify.com/track/5zAnoLd8d4ssifVCnSDrwG) | [Orquesta Mondragon](https://open.spotify.com/artist/6d7LEKCmi5168sop16K9oI) | [Viaje Con Nosotros A Través De 21 Exitos Feroces](https://open.spotify.com/album/1zFPrHua1e0a3dePXw3cGj) | 4:49 |
 | 59 | [A Cara o Cruz](https://open.spotify.com/track/6gyagQouotKjEoGQVi1e7d) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 5:37 |
-| 60 | [Vistete](https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [El Momento](https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR) | 3:57 |
+| 60 | [Dime Jaguar](https://open.spotify.com/track/1KnhTAyAcYZ4hO9YBWAATe) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 4:57 |
 
-Snapshot ID: `MTY2MTM4ODc3OCwwMDAwMDAwMDg2ZjQzYmI2NGRiZWY0YmMzZWFmYzczNWRkNDQ3NjM0`
+Snapshot ID: `MTY2MTM4ODc3OCwwMDAwMDAwMDk3ZGNjNmExZmYwNDE2ZThiMGU2MTc4NjVhZTg4MTIx`

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n. ",
-  "num_followers": 58429,
+  "num_followers": 58487,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDQyYzBhZWRhMmUyNWFkYjk4YjY3NDc0OGU1Yzc3OTI2",
+  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMGE0NmViNTNjNTA5ZWFjYzU0MzU3OTdiMWYwNzE3MDJh",
   "tracks": [
     {
       "added_at": "2021-02-10 18:43:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2021-02-10 18:43:17",

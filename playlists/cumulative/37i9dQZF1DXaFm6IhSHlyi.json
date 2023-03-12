@@ -266,7 +266,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
@@ -1506,6 +1506,28 @@
       "duration_ms": 194951,
       "name": "How Is This Love ?",
       "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
+    },
+    {
+      "album": {
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "album": {
@@ -3864,7 +3886,7 @@
       },
       "artists": [
         {
-          "name": "Malak",
+          "name": "MALAK",
           "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
         }
       ],

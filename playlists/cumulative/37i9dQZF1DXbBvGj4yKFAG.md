@@ -4,7 +4,7 @@
 
 > may include
 
-60 songs - 3 hr 7 min
+61 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Hopeful Ending](https://open.spotify.com/track/6G3Rl9I1mqrok2EyPeQ0PX) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [A Hopeful Ending](https://open.spotify.com/album/6AO2WCT8r2bYtdralBbzsq) | 3:22 | 2023-02-17 |  |
 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-02-23 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2023-02-09 |  |
+| [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 |  |
 | [Become the Warm Jets](https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 5:34 | 2023-02-09 |  |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-02-09 |  |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2023-02-09 |  |
@@ -28,7 +29,7 @@
 | [Hey Bunny](https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Hey Bunny](https://open.spotify.com/album/4yIIE1mHGuQIA4kbTZo0H3) | 2:58 | 2023-03-06 |  |
 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 | 2023-02-09 |  |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-09 |  |
-| [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 |  |
+| [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-03-12 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 | 2023-02-25 |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-02-09 |  |

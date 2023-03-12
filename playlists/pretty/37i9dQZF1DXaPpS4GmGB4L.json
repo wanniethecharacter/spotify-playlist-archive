@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 39088,
+  "num_followers": 39177,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzEyNiwwMDAwMDAwMDIxNTBkZjkwZjE1NjBmZmNlZjRmMTJjMzcxOGMxNDkx",
+  "snapshot_id": "MTY3Nzg2NzEyNiwwMDAwMDAwMDRiNzY3ZDIyZDljNjZjNWNhNTU2NDIyZGMzYThmMzM5",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:06",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 245173,
       "name": "That's What Love Will Make You Do",
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
       "added_at": "2023-03-03 18:12:06",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
+        "name": "Sho Been Worse",
+        "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 174124,
+      "name": "Sho Been Worse",
+      "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 135546,
       "name": "Messin' with the Kid",
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
-        "name": "Sho Been Worse",
-        "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Sho Been Worse",
-      "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
     },
     {
       "added_at": "2023-03-03 18:12:06",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
-        "name": "At Fillmore East",
-        "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 275303,
-      "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
-      "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
-    },
-    {
-      "added_at": "2023-03-03 18:12:06",
-      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-03-03 18:12:06",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "At Fillmore East",
+        "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 275303,
+      "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
+      "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
     },
     {
       "added_at": "2023-03-03 18:12:06",
@@ -711,6 +695,22 @@
       "duration_ms": 154440,
       "name": "Don't You Just Know It",
       "url": "https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4"
+    },
+    {
+      "added_at": "2023-03-03 18:12:06",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2023-03-03 18:12:06",

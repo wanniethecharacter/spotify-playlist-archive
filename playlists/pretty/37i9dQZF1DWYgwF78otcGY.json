@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25300,
+  "num_followers": 25338,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMDU1M2E3YzBmZDZmMjhjN2RiMTZlMGExYmZjY2NhNGNm",
+  "snapshot_id": "MTY3Nzg1NTMwNSwwMDAwMDAwMGY0ZmViMDIyOTA4ZjQwY2MxNjMxZjljNWJjYjc5ZjQ3",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "L\u00e4ngtan",
-        "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
-      },
-      "artists": [
-        {
-          "name": "Timoteij",
-          "url": "https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Kom",
-      "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Eloise",
         "url": "https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188000,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "L\u00e4ngtan",
+        "url": "https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t"
+      },
+      "artists": [
+        {
+          "name": "Timoteij",
+          "url": "https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Kom",
+      "url": "https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bail\u00e1 Bail\u00e1",
-        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
       "artists": [
         {
-          "name": "Alvaro Estrella",
-          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
         }
       ],
-      "duration_ms": 173124,
-      "name": "Bail\u00e1 Bail\u00e1",
-      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
       "artists": [
         {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
         }
       ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Sean den f\u00f6rste Banan",
-        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
-      },
-      "artists": [
-        {
-          "name": "Sean Banan",
-          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Sean den f\u00f6rste Banan",
-      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 181493,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Sean den f\u00f6rste Banan",
+        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
+      },
+      "artists": [
+        {
+          "name": "Sean Banan",
+          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Sean den f\u00f6rste Banan",
+      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
-      },
-      "artists": [
-        {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
-        }
-      ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "R\u00f6k 'n Roll",
         "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 177160,
       "name": "Kom och ta mig",
       "url": "https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Greatest of the Best",
-        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
-      },
-      "artists": [
-        {
-          "name": "\u00d6sten Med Resten",
-          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Hon Kommer Med Solsken",
-      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 180800,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
         "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 183746,
       "name": "Det g\u00f6r ont",
       "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2023-02-26 01:59:39",

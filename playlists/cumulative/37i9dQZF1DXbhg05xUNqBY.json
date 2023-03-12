@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Hymns & Soul",
+        "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292272,
+      "name": "You Didn't Break It",
+      "url": "https://open.spotify.com/track/2Ycuoq1f8APFihfIK7qTzu"
+    },
+    {
+      "album": {
         "name": "You Didn't Break It",
         "url": "https://open.spotify.com/album/59ZgNeHrx3KxmMZHQjnGiG"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN"

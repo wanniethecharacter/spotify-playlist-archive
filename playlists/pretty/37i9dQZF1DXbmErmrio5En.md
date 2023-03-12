@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > saturation, distortion, overdrive, feedBack\. Cover: kurffew
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,508 likes - 78 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,583 likes - 78 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 20 | [punk rock](https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [punk rock](https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis) | 2:22 |
 | 21 | [I can't save myself](https://open.spotify.com/track/44o1dpWuXgNN56hKOJLnUX) | [yung van](https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [don't change the channel](https://open.spotify.com/album/0UO2ggBcfUbwZwjWR7JTWO) | 3:01 |
 | 22 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
-| 23 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 |
+| 23 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 |
 | 24 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 |
 | 25 | [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 |
 | 26 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 77 | [Internet Girl](https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u) | [Mana Garden](https://open.spotify.com/artist/66Gv97uu4XTInfcVvHhbcC) | [Internet Girl](https://open.spotify.com/album/6a48qrtBppd0YVIZpEntaH) | 2:19 |
 | 78 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 |
 
-Snapshot ID: `MTY3ODQ2NTAxNywwMDAwMDAwMDU5NzFlMGUwNWNjYmNkMjQxNjA1MzI3OWZjNDI4Zjg1`
+Snapshot ID: `MTY3ODQ2NTAxNywwMDAwMDAwMGExOTc3NjM2YzM1ODdjYmQ5OTAxZGE0YWIyNTYzNjc1`

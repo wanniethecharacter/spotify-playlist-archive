@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 71716,
+  "num_followers": 71852,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDgwOCwwMDAwMDAwMDNkMzU0NDJlZWI0NWY5Y2JhNTc2N2ZlMGFiMzcwZjFh",
+  "snapshot_id": "MTY3ODUwNDQ4OSwwMDAwMDAwMDY1NTc3MjY3ZjU0ZTgzNTMxMjYzNDQ0ZTFiNzdmNWUz",
   "tracks": [
     {
       "added_at": "2023-01-13 04:40:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Mariana Nolasco Sessions 2",
         "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 138647,
       "name": "Ai que Saudade D'Oc\u00ea - Sessions",
       "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
     },
     {
       "added_at": "2023-01-13 04:40:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-13 04:40:08",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
-    },
-    {
-      "added_at": "2023-01-13 04:40:08",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 225273,
       "name": "I Went Hunting",
       "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
+    },
+    {
+      "added_at": "2023-01-13 04:40:08",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
     },
     {
       "added_at": "2023-01-13 04:40:08",

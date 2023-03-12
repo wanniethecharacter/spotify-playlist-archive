@@ -1,12 +1,12 @@
 {
   "description": "love song do L7 derrete geral",
-  "num_followers": 1079821,
+  "num_followers": 1080714,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGUzODY0OTRmYzBlYzc3OGFiZDk0NDViYmI0ZGFlMTAx",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGRiMTRkODE4ZmEzYmMxYTJiMGY4MWM0MzI2YzVjYTJh",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Namora A\u00ed",
         "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 148615,
       "name": "Namora A\u00ed",
       "url": "https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Hino dos Mlks",
         "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "S\u00f3 de Mal",
+        "url": "https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "S\u00f3 de Mal",
+      "url": "https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "S\u00f3 de Mal",
-        "url": "https://open.spotify.com/album/4xZt0tVpMGl5jS3qFCJYQA"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "S\u00f3 de Mal",
-      "url": "https://open.spotify.com/track/4hWp2U1XNZkXK23iyyfWgh"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "1 Beat 1 Letra",
-        "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Luz Apagada",
-      "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
         "url": "https://open.spotify.com/album/6GTiXru2Ol2oKab0AZ96us"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 298666,
       "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
       "url": "https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "1 Beat 1 Letra",
+        "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Luz Apagada",
+      "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
     },
     {
       "added_at": "2023-03-10 03:01:00",

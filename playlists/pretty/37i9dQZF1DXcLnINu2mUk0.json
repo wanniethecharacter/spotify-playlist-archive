@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro.",
-  "num_followers": 27290,
+  "num_followers": 27342,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQzOTYwNiwwMDAwMDAwMDBhODRhZThhNjhkMDVhY2U3YTgzNWYwMzBmM2ZjZWEx",
+  "snapshot_id": "MTY3ODQzOTYwNiwwMDAwMDAwMGFmMDRmYTE0ZDZmMmU0MjNmYjA1YjVmZmU5OGU4NDcx",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/0Ou5tT3nO5PuBRu3jFoIel"
     },
     {
+      "added_at": "2023-03-12 00:58:10",
+      "album": {
+        "name": "Vida De Artista",
+        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vida De Artista",
+      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Gloss",
@@ -1033,20 +1049,20 @@
       "url": "https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z"
     },
     {
-      "added_at": "2023-03-11 01:35:01",
+      "added_at": "2023-03-12 00:58:10",
       "album": {
-        "name": "Vida De Artista",
-        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
+        "name": "DECLIVE",
+        "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
       },
       "artists": [
         {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+          "name": "EU.CLIDES",
+          "url": "https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vida De Artista",
-      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
+      "duration_ms": 210880,
+      "name": "T\u00ea Menos 1",
+      "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "NO MO Parties",
+        "url": "https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh"
+      },
+      "artists": [
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "NO MO Parties",
+      "url": "https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi"
       },
@@ -1150,27 +1182,15 @@
         {
           "name": "AET",
           "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
         }
       ],
       "duration_ms": 179464,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/4miuy3pvA6hu4P064319An"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "NO MO Parties",
-        "url": "https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh"
-      },
-      "artists": [
-        {
-          "name": "BiDU",
-          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "NO MO Parties",
-      "url": "https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1191,6 +1211,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC"
+      },
+      "artists": [
+        {
+          "name": "Fran2785",
+          "url": "https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8"
+        }
+      ],
+      "duration_ms": 221198,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "why would u",
         "url": "https://open.spotify.com/album/2M7a9lzVlZfJrgzb64ejyy"
       },
@@ -1205,20 +1241,36 @@
       "url": "https://open.spotify.com/track/34wjYTIyNXiijsAgWTLdia"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
+      "added_at": "2023-03-12 00:58:10",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC"
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/2ulTTawKmhQTRDCqqCG0r4"
       },
       "artists": [
         {
-          "name": "Fran2785",
-          "url": "https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8"
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
         }
       ],
-      "duration_ms": 221198,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
+      "duration_ms": 170857,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/39HNWVLgg7VZky4oJjGzZK"
+    },
+    {
+      "added_at": "2023-03-12 00:58:10",
+      "album": {
+        "name": "N\u00e3o Me Leves a Mal",
+        "url": "https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 240763,
+      "name": "N\u00e3o Me Leves a Mal",
+      "url": "https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1267,58 +1319,6 @@
       "duration_ms": 161404,
       "name": "Feisty",
       "url": "https://open.spotify.com/track/1DQ9LTL8hdFkaErvlbCS10"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Quase Me Perdi",
-        "url": "https://open.spotify.com/album/6uPor1BpWCrFCOKYFGqQ8N"
-      },
-      "artists": [
-        {
-          "name": "Westy",
-          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
-        },
-        {
-          "name": "In\u00eas Canelas",
-          "url": "https://open.spotify.com/artist/2kKHNDBmOyU6DpyIg9wLmz"
-        }
-      ],
-      "duration_ms": 233740,
-      "name": "Quase Me Perdi",
-      "url": "https://open.spotify.com/track/2f7Hnuoe0k1HPBZZCzSFKA"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Demais",
-        "url": "https://open.spotify.com/album/5SjLchkDLzAdhjTS8iUdZy"
-      },
-      "artists": [
-        {
-          "name": "GBr\u00efsido",
-          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Demais",
-      "url": "https://open.spotify.com/track/6rhYkzPcdqaDgBXhExYWWW"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Proezas",
-        "url": "https://open.spotify.com/album/6UmJFEwuXm0MrFX1X8saAl"
-      },
-      "artists": [
-        {
-          "name": "B.E.R.A",
-          "url": "https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk"
-        }
-      ],
-      "duration_ms": 256265,
-      "name": "Proezas",
-      "url": "https://open.spotify.com/track/3wGLtyncg8nWioV1woLSA3"
     }
   ],
   "unique_name": "Seda",

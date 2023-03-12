@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-630 songs - 1 day 7 hr 49 min
+631 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Fim da Noite](https://open.spotify.com/track/4jMrV2f00zM9ifqJal3CcG) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Fim da Noite](https://open.spotify.com/album/1QYG4qfUKrTSEGadNN1TWI) | 2:47 | 2021-09-07 | 2021-10-10 |
 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 | 2022-04-01 | 2022-09-11 |
 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 | 2023-02-01 |  |
-| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 | 2022-12-23 |  |
 | [Foi Pá Pum](https://open.spotify.com/track/1Cqg0nJOZRyvltkof8tjqA) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Churrasco das Coleguinhas](https://open.spotify.com/album/7gS7wxmnbG0jm5qoFzOXt2) | 3:03 | 2021-03-27\* | 2021-05-07 |
 | [Foi Pá Pum](https://open.spotify.com/track/5uztIMqjl5FTZSYDlOBJjV) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/1sjc64jbaYx3p0gktRqdV1) | 3:03 | 2021-05-07 | 2021-07-20 |

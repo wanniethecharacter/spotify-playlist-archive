@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ingen kamera på iPhone 2!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,000 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,167 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 13 | [LUFT FÖR MIG](https://open.spotify.com/track/2L6eCNSJ5dZ7o8Wx57bcSy) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [LUFT FÖR MIG](https://open.spotify.com/album/7ecRWkPFYZZeSnyKZdbifH) | 2:28 |
 | 14 | [DANS](https://open.spotify.com/track/7eFhEOgNajLPQKlKW4SDep) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DANS](https://open.spotify.com/album/6k6upK8VE1Cf3NdIzn7Qbd) | 2:22 |
 | 15 | [STRIPPA I DITT VARDAGSRUM](https://open.spotify.com/track/4xIvjr1p5yzXJoDU6vCal3) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [STRIPPA I DITT VARDAGSRUM](https://open.spotify.com/album/2XdAdkpS7wOlWDlYaXPU93) | 1:52 |
-| 16 | [FUCKED UP \- Remix](https://open.spotify.com/track/2DiLLlSfdPUiCgYktreYYf) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [FUCKED UP \(Remix\)](https://open.spotify.com/album/0xwBFDFUfkdzKQjgeSoGN4) | 2:15 |
+| 16 | [FUCKED UP \- Remix](https://open.spotify.com/track/2DiLLlSfdPUiCgYktreYYf) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [FUCKED UP \(Hugge Remix\)](https://open.spotify.com/album/0xwBFDFUfkdzKQjgeSoGN4) | 2:15 |
 | 17 | [Bedövning](https://open.spotify.com/track/6p2u5DXlH5n075PYM2V0XX) | [BRÖDERNA](https://open.spotify.com/artist/4a6DvPdDlrWhE2JuxL3eyT), [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh), [Svardh](https://open.spotify.com/artist/5ej3VmUU1KXMHdBd78563w), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Bedövning](https://open.spotify.com/album/3N1qyCDTxELbWTDCam77Qo) | 2:37 |
 | 18 | [Genom Dalarna](https://open.spotify.com/track/2izd2Ke23axCcWGUkAyKyG) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Genom Dalarna](https://open.spotify.com/album/7qT77qFCP5oiA1PIb9eZeW) | 2:42 |
 | 19 | [Fan vad du är snygg när jag är full \- Remix](https://open.spotify.com/track/1gl1exrlnvfaWfK5DPn0YN) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Fan vad du är snygg när jag är full \(Remix\)](https://open.spotify.com/album/2zD7DOoU43vlOxZA7jOSKd) | 2:51 |

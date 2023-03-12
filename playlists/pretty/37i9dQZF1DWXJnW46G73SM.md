@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: زاب ثروت، ساري هاني، هادز و امير عيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,956 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,007 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 4 | [Bataleny](https://open.spotify.com/track/1PbE0dZap84eVSIqlNRjIr) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bataleny](https://open.spotify.com/album/7s1bkOjp7V8wiWJY9Mf7iq) | 3:50 |
 | 5 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 |
 | 6 | [Gadir Belzikr](https://open.spotify.com/track/7tglXNSp6h9NCiNTFmeOew) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Gadir Belzikr](https://open.spotify.com/album/3V8bmFz2r2Ll4hTMNMvR0X) | 3:15 |
-| 7 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
+| 7 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
 | 8 | [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 |
 | 9 | [GHAREEB](https://open.spotify.com/track/2kg6YlKqj4uiAIjOrn4emi) | [Ziad Adel](https://open.spotify.com/artist/5nriHU88iMjEpEHsgUf5Ca) | [GHAREEB](https://open.spotify.com/album/03146GhjycMt9XEcJVzUQc) | 3:18 |
 | 10 | [Tayeh](https://open.spotify.com/track/5RewmMI1PlDpFSKeo1VL9G) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Tayeh](https://open.spotify.com/album/6plScIvVMfDrLp56hqN2ro) | 3:22 |

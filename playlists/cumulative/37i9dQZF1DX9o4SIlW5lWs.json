@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 199666,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+    },
+    {
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
     },
     {
       "album": {
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
@@ -1442,10 +1460,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "El Polvito Del Amor",
+      "url": "https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg"
     },
     {
       "album": {
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 143570,
       "name": "Fin de Semana Sin Ti",
       "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
@@ -2178,7 +2214,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 181760,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2"
@@ -3032,6 +3068,24 @@
     {
       "album": {
         "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184845,
+      "name": "No Es Mi Despedida",
+      "url": "https://open.spotify.com/track/5D5gQ5AB4Ih09bOstMMmKQ"
+    },
+    {
+      "album": {
+        "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y"
       },
       "artists": [
@@ -3042,7 +3096,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 191120,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/0LxHE5QyoMy2fNQQbeY4i5"
@@ -3192,10 +3246,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 220813,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+    },
+    {
+      "album": {
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "album": {
@@ -3358,10 +3430,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
+    },
+    {
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253266,
+      "name": "Nunca me faltes",
+      "url": "https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj"
     },
     {
       "album": {
@@ -3568,7 +3658,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
@@ -3872,6 +3962,24 @@
     {
       "album": {
         "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
+    },
+    {
+      "album": {
+        "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y"
       },
       "artists": [
@@ -3882,7 +3990,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 210586,
       "name": "Se Me Ha Perdido Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
@@ -4258,10 +4366,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 235933,
       "name": "Tan Solo Amantes",
       "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
     },
     {
       "album": {
@@ -4738,7 +4864,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 183266,
       "name": "Una R\u00e1faga de Amor",
       "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
@@ -5081,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -5092,7 +5236,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 192075,
       "name": "Yo me Enamor\u00e9",
       "url": "https://open.spotify.com/track/6wWLC6V7TJ7NEygWHc1CFh"
@@ -5110,7 +5254,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 231613,
       "name": "Yo Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6ndtFs90yTcAghotHwP6TN"
@@ -5301,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -5312,7 +5474,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"

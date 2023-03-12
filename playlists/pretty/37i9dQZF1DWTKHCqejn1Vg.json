@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 18600,
+  "num_followers": 18650,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMDA2MzZkMDkxMmU0OTBjOWNhZTMwMzUyMmU3MzQ3MTQz",
+  "snapshot_id": "MTY3NzY2MTg1NiwwMDAwMDAwMGMwOWNlYWNkOTY4ZDM5ZTg1ZTVkZjk2MDUxYTgyYWUx",
   "tracks": [
     {
       "added_at": "2023-03-01 09:10:56",
@@ -555,6 +555,30 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "Pick up your phone (Feat. MOON)",
+      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -591,46 +615,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 185729,
-      "name": "Pick up your phone (Feat. MOON)",
-      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 277928,
-      "name": "Love Kills",
-      "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "S.O.S (Sink or Swim)",
         "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 180720,
       "name": "Wet The Bed",
       "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 277928,
+      "name": "Love Kills",
+      "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "EMO #1",
         "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
       },
@@ -799,6 +783,54 @@
       "duration_ms": 217489,
       "name": "Justin Bieber (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2023-03-01 09:10:56",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -827,22 +859,6 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -927,18 +943,22 @@
     {
       "added_at": "2023-03-01 09:10:56",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
         }
       ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2023-03-01 09:10:56",
@@ -1015,26 +1035,6 @@
       "duration_ms": 213000,
       "name": "I want to (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
-    },
-    {
-      "added_at": "2023-03-01 09:10:56",
-      "album": {
-        "name": "bag on you",
-        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        },
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "bag on you",
-      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
     },
     {
       "added_at": "2023-03-01 09:10:56",

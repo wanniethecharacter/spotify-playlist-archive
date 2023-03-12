@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: OG BOBBY\)
 
-1,080 songs - 2 day 7 hr 11 min
+1,081 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,7 +930,8 @@
 | [Tell Santa](https://open.spotify.com/track/1i7Nwas0VfXrUIm4qDcbyL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tell Santa](https://open.spotify.com/album/70PAbNnWnfmU3IF2OK67yY) | 2:27 | 2022-01-20 | 2022-01-28 |
 | [Tempat Pulang](https://open.spotify.com/track/0u5GeVYHGRdqruncvoXQlU) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Tempat Pulang](https://open.spotify.com/album/45LnkhfTEfmOs5UXoRcpCl) | 3:44 | 2022-02-10 | 2022-03-04 |
 | [Temptation](https://open.spotify.com/track/4a9iM6pr9IiqLCd9likJEH) | [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [ONE LIFE ONLY](https://open.spotify.com/album/2mbC11gW5U42uKsO73WV10) | 3:12 | 2022-09-15 | 2022-10-23 |
-| [Tesla](https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR) | 2:12 | 2023-02-23 |  |
+| [Tesla](https://open.spotify.com/track/0HnqWiIHn9Q09QQC9EwTAT) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/3vtaY6uchysQRyRYztvpQ7) | 2:12 | 2023-03-10 |  |
+| [Tesla](https://open.spotify.com/track/2WNqeuld3GP1C2RQ9gJiLA) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Tesla](https://open.spotify.com/album/0x3JTKHNzSW3WlJNX3MhTR) | 2:12 | 2023-02-23 | 2023-03-12 |
 | [Texture.](https://open.spotify.com/track/654Vru27jmXMzQq0xUFtLg) | [Shanii22](https://open.spotify.com/artist/2yYM0ttZlVqxIjzj2MWlQc), [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Texture.](https://open.spotify.com/album/0z9yvUsyKDHlU2tDDgGrhI) | 1:50 | 2022-01-20 | 2022-01-28 |
 | [That's Just Tips](https://open.spotify.com/track/2cqHOnrzsE6JzBzkNADIA1) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [That's Just Tips](https://open.spotify.com/album/6o26foZmRZFOI13LhzNCZS) | 3:54 | 2022-04-29 | 2022-06-03 |
 | [That's We](https://open.spotify.com/track/0ELxYNhnn8OPywuQT00GEc) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [영독](https://open.spotify.com/artist/4dVGwChUNSKQBsCWuVwkop), [Young Chang](https://open.spotify.com/artist/10Q98X72E0f5yLez0jEbQt), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [achillo](https://open.spotify.com/artist/0r5yZki2ePDv8EZ7ah01RA) | [That's We](https://open.spotify.com/album/1ydKFtQJ6R5zXrt9fCTOAg) | 4:31 | 2022-05-12 | 2022-06-10 |

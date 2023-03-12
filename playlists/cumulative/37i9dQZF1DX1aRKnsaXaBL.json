@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 192532,
       "name": "Az\u00facar y Miel",
       "url": "https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "dejarse querer",
+      "url": "https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa"
+    },
+    {
+      "album": {
         "name": "Dejarte Ir Tambi\u00e9n Es Amar",
         "url": "https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 205710,
       "name": "Gusto de Ti",
       "url": "https://open.spotify.com/track/6N7XYykR6M8xGnTSISDuE8"
@@ -388,6 +406,24 @@
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
+    },
+    {
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
       "album": {
@@ -528,7 +564,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 181448,
       "name": "lobo",
       "url": "https://open.spotify.com/track/2EvGnRxPsX6BSxhFsBa3jG"
@@ -640,6 +676,28 @@
       "duration_ms": 169600,
       "name": "Miento",
       "url": "https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF"
+    },
+    {
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
     },
     {
       "album": {

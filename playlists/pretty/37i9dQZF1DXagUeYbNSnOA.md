@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Karina Daza\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,110 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,122 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [cuando viajas](https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [amarcura](https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q) | 3:10 |
 | 25 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 |
 | 26 | [Quererte Igual](https://open.spotify.com/track/2CSptzE2Sh7l0V5O6e8RFw) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Quererte Igual](https://open.spotify.com/album/3RxtjXBIiWqCgtE9DE7VHe) | 2:50 |
-| 27 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
-| 28 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
-| 29 | [Tranquilita Quieta](https://open.spotify.com/track/1SzYWgwf3898EvxcCvl8Sr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [Tranquilita Quieta](https://open.spotify.com/album/7nNcFmwj1G8O9cWyP0CRNq) | 2:08 |
+| 27 | [Tranquilita Quieta](https://open.spotify.com/track/1SzYWgwf3898EvxcCvl8Sr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [Tranquilita Quieta](https://open.spotify.com/album/7nNcFmwj1G8O9cWyP0CRNq) | 2:08 |
+| 28 | [Noche No Te Vayas](https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Noche No Te Vayas](https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8) | 2:50 |
+| 29 | [soñar contigo](https://open.spotify.com/track/1OKV4QvY9t4uQFG4hFtG4e) | [Azel](https://open.spotify.com/artist/7jJ3YJxEOavjy2lvcHyPPa), [Divase](https://open.spotify.com/artist/4vjRyqRrNl49xRnCyvkgdq) | [soñar contigo](https://open.spotify.com/album/7FoxzhMx1BZlJG4lb1uL9x) | 2:55 |
 | 30 | [Hola Qué Tal](https://open.spotify.com/track/3ne3ikSjTbCBENG8CoT9ge) | [El Grupillo](https://open.spotify.com/artist/19HmVwfeIXS6ZcFv4FVIeW) | [Hola Qué Tal](https://open.spotify.com/album/3sKiAfMEgSDuDp0oioXjXp) | 3:31 |
 | 31 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
 | 32 | [Bubalu](https://open.spotify.com/track/1gtyJiiPwLQin53n7BKjMC) | [Ryhan](https://open.spotify.com/artist/7ybeozC8yTsxkDEoCqoBIB) | [EXOTIK](https://open.spotify.com/album/3iJg6qhysMNVTnACGMs57R) | 3:21 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 36 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 |
 | 37 | [Normalidad](https://open.spotify.com/track/6Z6oIEeUbTotePo1cmJKQv) | [Patricio Tello](https://open.spotify.com/artist/7jwFNt4XttPDouOwMzTWse) | [Normalidad](https://open.spotify.com/album/3dJhTBEGyG82Qxgg7ImrBO) | 2:22 |
 | 38 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 |
-| 39 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
-| 40 | [Que tal si](https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I) | [Elio](https://open.spotify.com/artist/1HPJQk3RATpRhuHPzRxx7V), [Zeron](https://open.spotify.com/artist/3mHIRxQ7MhV8yBR2tk5xSn) | [Que tal si](https://open.spotify.com/album/269AjbumPxai7Bv8sa0ADT) | 3:03 |
-| 41 | [No Se Puede Brillar Siempre <3](https://open.spotify.com/track/0Qx7KbI7VGxPjVmyZZIOUj) | [Loyalkidx](https://open.spotify.com/artist/408serMk8u851EicZV2R2w) | [No Se Puede Brillar Siempre <3](https://open.spotify.com/album/2sPDwluC3aQNMsN4AFFEjv) | 1:50 |
-| 42 | [Vientre](https://open.spotify.com/track/0qrTCjRD816Usk3ixgwqWr) | [NN Caronte](https://open.spotify.com/artist/2BgF5llEBHFru5RzVGxd6O) | [NN CARONTE](https://open.spotify.com/album/4xBdgRmStodbuNPAoJIOsQ) | 3:52 |
-| 43 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
-| 44 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 39 | [Que tal si](https://open.spotify.com/track/6NB6MFsGPrOxPGVqKk2R4I) | [Elio](https://open.spotify.com/artist/1HPJQk3RATpRhuHPzRxx7V), [Zeron](https://open.spotify.com/artist/3mHIRxQ7MhV8yBR2tk5xSn) | [Que tal si](https://open.spotify.com/album/269AjbumPxai7Bv8sa0ADT) | 3:03 |
+| 40 | [Brujeria](https://open.spotify.com/track/2WuyWhsKH1nun0VZyWstjS) | [Dru Flecha](https://open.spotify.com/artist/7lmfWJUSLCLveumavOrth2) | [LINDA](https://open.spotify.com/album/7dgG5bAzBXJcG2Q0CmXcf6) | 2:26 |
+| 41 | [Complejo de Martir](https://open.spotify.com/track/5xVAjvnDSbjEQjTX3LXQKB) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Complejo de Martir](https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4) | 3:15 |
+| 42 | [No Se Puede Brillar Siempre <3](https://open.spotify.com/track/0Qx7KbI7VGxPjVmyZZIOUj) | [Loyalkidx](https://open.spotify.com/artist/408serMk8u851EicZV2R2w) | [No Se Puede Brillar Siempre <3](https://open.spotify.com/album/2sPDwluC3aQNMsN4AFFEjv) | 1:50 |
+| 43 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 44 | [Vientre](https://open.spotify.com/track/0qrTCjRD816Usk3ixgwqWr) | [NN Caronte](https://open.spotify.com/artist/2BgF5llEBHFru5RzVGxd6O) | [NN CARONTE](https://open.spotify.com/album/4xBdgRmStodbuNPAoJIOsQ) | 3:52 |
 | 45 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 46 | [María Indebida](https://open.spotify.com/track/5OiE4KbWfrHnhCAcXdMWlQ) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [María Indebida](https://open.spotify.com/album/4mmHX5RHEVJ51X1Fq0Ggax) | 3:14 |
 | 47 | [Llanura de Cristal](https://open.spotify.com/track/5VEZ0FYrCxxZv6CtQHZfEx) | [Hobo Cane](https://open.spotify.com/artist/0KgxWyvE4xlJ82jCxyBAtM) | [Llanura de Cristal](https://open.spotify.com/album/6Dl89xDR4M0ZPkE6rtrWmc) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [TE QUIERO TOO](https://open.spotify.com/track/3oRhGrqQ2B6yZeuo71bOkS) | [Andres Tagliaferro](https://open.spotify.com/artist/10r62aFR3aAv8h2XMhSoDl) | [TE QUIERO TOO](https://open.spotify.com/album/54dxLu64kvK9os72hFbp2o) | 3:10 |
 | 50 | [Rey de la India](https://open.spotify.com/track/1aFe2l0eJVyYppuKG5nplO) | [Pablo Prisma y las Pirámides](https://open.spotify.com/artist/0YFQlX7xBX1SD9nJNbw9EL), [Gúdar](https://open.spotify.com/artist/3LqgCszyAUGMwBSlVO3KKM) | [Rey de la India](https://open.spotify.com/album/1YEWYM0AMugYzZ4ZSjpbGR) | 2:09 |
 
-Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDE1MjM2MjQ5YmFjM2UwNGZjN2IxZTU5ODI1MzAxMDJh`
+Snapshot ID: `MTY3ODI5ODQwMCwwMDAwMDAwMDUwOTY1NDY2NzU5YjJiODU1NjZhMjBiZTkxZTEyZjFm`

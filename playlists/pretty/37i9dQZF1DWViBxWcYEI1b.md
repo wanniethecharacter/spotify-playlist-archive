@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Walk Off the Earth, Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,973 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,983 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 24 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
 | 25 | [Nightmare](https://open.spotify.com/track/2QZkYNacaOPF4nks16VXKv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/5yww0Dfv2PDy2DWmxFsUzv) | 3:35 |
 | 26 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
-| 27 | [Put Me First](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 |
+| 27 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 |
 | 28 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 |
 | 29 | [Chasing Every Sunrise](https://open.spotify.com/track/0Ygba8PsSx8nb6LmgXaTje) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Powder Blue](https://open.spotify.com/album/0kr5NBd2qdQNeZhzke5tHz) | 3:36 |
 | 30 | [Good Mood](https://open.spotify.com/track/65EV15tINczxlO6I9QagBF) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [Good Mood](https://open.spotify.com/album/2W5i2K2TMD4Qi5VdLKmUSo) | 2:32 |

@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 151117,
+  "num_followers": 151182,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1ODc4MCwwMDAwMDAwMDZhZGNhMTFmY2NlYTU3Yzc0ZjAyN2I2ODFkNjM4ZjUw",
+  "snapshot_id": "MTY3Nzg1ODc4MCwwMDAwMDAwMDgxMzAyOTJiYzYwMThlYzhkN2E2NDAyZDlkODI0MzVm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live From The Fox Oakland",
-        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+        "name": "TRY! - Live In Concert",
+        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 338893,
-      "name": "Bird On The Wire - Live",
-      "url": "https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK"
+      "duration_ms": 349253,
+      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
+      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "TRY! - Live In Concert",
-        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 349253,
-      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
-      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+      "duration_ms": 338893,
+      "name": "Bird On The Wire - Live",
+      "url": "https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
     },
     {
+      "added_at": "2023-03-03 15:53:00",
+      "album": {
+        "name": "Known Unknowns (Live)",
+        "url": "https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 364560,
+      "name": "Known Unknowns (Live)",
+      "url": "https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg"
+    },
+    {
       "added_at": "2020-10-30 17:47:12",
       "album": {
         "name": "Alabama (Live)",
@@ -239,22 +255,6 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
-    },
-    {
-      "added_at": "2023-03-03 15:53:00",
-      "album": {
-        "name": "Known Unknowns (Live)",
-        "url": "https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 364560,
-      "name": "Known Unknowns (Live)",
-      "url": "https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live...With A Little Help From Our Friends",
-        "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 549933,
-      "name": "Soulshine",
-      "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "Layla Revisited (Live at LOCKN')",
@@ -339,6 +323,38 @@
       "duration_ms": 299863,
       "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
       "url": "https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ"
+    },
+    {
+      "added_at": "2023-02-03 05:01:00",
+      "album": {
+        "name": "The Loyal Kind (Live)",
+        "url": "https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 394106,
+      "name": "The Loyal Kind (Live)",
+      "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live...With A Little Help From Our Friends",
+        "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 549933,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -371,22 +387,6 @@
       "duration_ms": 386853,
       "name": "Wait on Time - Live",
       "url": "https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "The Loyal Kind (Live)",
-        "url": "https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 394106,
-      "name": "The Loyal Kind (Live)",
-      "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -431,18 +431,34 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live From The Fox Oakland",
-        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 650746,
-      "name": "Keep On Growing - Live",
-      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll (Live)",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "One of These Days - Live",
+      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -463,18 +479,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live Trout Vol. 1",
-        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
       },
       "artists": [
         {
-          "name": "Walter Trout and The Free Radicals",
-          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -495,54 +511,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Naturally Live",
-        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
+        "name": "Live Trout Vol. 1",
+        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
       },
       "artists": [
         {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+          "name": "Walter Trout and The Free Radicals",
+          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
         }
       ],
-      "duration_ms": 308093,
-      "name": "One of These Days - Live",
-      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Layla Revisited (Live at LOCKN')",
-        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        },
-        {
-          "name": "Trey Anastasio",
-          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
-        }
-      ],
-      "duration_ms": 413617,
-      "name": "Little Wing - Live at LOCKN' / 2019",
-      "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 345270,
-      "name": "Let The Good Times Roll (Live)",
-      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+      "duration_ms": 304093,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -591,6 +571,26 @@
       "duration_ms": 571280,
       "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
       "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "duration_ms": 413617,
+      "name": "Little Wing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live! The Real Deal",
-        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 461533,
-      "name": "Damn Right I've Got The Blues - Live",
-      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
+      "duration_ms": 368213,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -819,18 +819,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
-        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
       },
       "artists": [
         {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 368213,
-      "name": "A Better Man",
-      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
+      "duration_ms": 461533,
+      "name": "Damn Right I've Got The Blues - Live",
+      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Morning Glory (Live)",
-        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
-      },
-      "artists": [
-        {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
-        }
-      ],
-      "duration_ms": 259584,
-      "name": "Morning Glory - Live",
-      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Dyin' To Know (Live)",
@@ -967,6 +951,22 @@
       "duration_ms": 192638,
       "name": "Dyin' To Know (Live)",
       "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Morning Glory (Live)",
+        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "duration_ms": 259584,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
     },
     {
       "added_at": "2020-10-30 17:47:12",

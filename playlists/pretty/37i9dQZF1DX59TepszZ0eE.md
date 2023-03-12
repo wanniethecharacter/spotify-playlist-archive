@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,396 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,412 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 7 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 |
 | 8 | [Uzokuphendula](https://open.spotify.com/track/2AEfhL3jyC37LUoFj1tVLm) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Icebo Le Nkosi](https://open.spotify.com/album/7u3wRzBQ19vBWhYN5kvher) | 5:51 |
 | 9 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 |
-| 10 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 |
+| 10 | [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 |
 | 11 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |
 | 12 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 |
 | 13 | [Mnini Mandla Onke](https://open.spotify.com/track/0FpEb0ELaosNg8phFfXAWf) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 26: Joy](https://open.spotify.com/album/0LDgE8E5vGayjvl767emzC) | 5:03 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 28 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 | 29 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 |
 | 30 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
-| 31 | [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 |
+| 31 | [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 |
 | 32 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 33 | [Jesus Is Enough](https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:39 |
 | 34 | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/track/1h80HKqjegsny8lawquT4C) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/album/5UF3bB4HpAtm1cJCQR2J5x) | 8:08 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 49 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 |
 | 50 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 |
 | 51 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 |
-| 52 | [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 |
+| 52 | [You Will Never Leave Me](https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 6:43 |
 | 53 | [Ke Mang \- Live](https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 6:47 |
 | 54 | [The Call \(Chants\)](https://open.spotify.com/track/5Tiam84rOv9mReGegBJN8y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 7:48 |
 | 55 | [Lion of Judah \(Live\)](https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 5:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 74 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 75 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGM2ZTUwNzcyYjI3YTM1ZGRmMDdhNTdkOTg4NDMxOTEw`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMDY3YmU1NDJlZDZjYWJhMWYyZjQ0ZDdmMzI4NzZjYTEx`

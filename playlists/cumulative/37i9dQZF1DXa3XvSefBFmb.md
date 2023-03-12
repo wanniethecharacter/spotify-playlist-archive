@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Carminho, com o volume no máximo.
 
-399 songs - 22 hr 37 min
+400 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2022-01-05 | 2022-04-06 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-04-05 | 2022-06-01 |
 | [Fome De Viagem](https://open.spotify.com/track/33lxmcEisX8NwBNNonE301) | [Inês Homem de Melo](https://open.spotify.com/artist/0QdfRhW7jTykazbcEuNtgL) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 2:47 | 2022-02-02 | 2022-04-06 |
-| [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 |  |
+| [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 |  |
 | [Fuck Up Person](https://open.spotify.com/track/6F6gfbhqgoTEzDcpDt6LgT) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Fuck Up Person](https://open.spotify.com/album/6K4cXrRcWBLBJrZWyFFP0X) | 4:15 | 2022-11-02 | 2022-11-14 |
 | [Fuck Up Person](https://open.spotify.com/track/6VragNqSp2liUsisozixzH) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 4:15 | 2022-11-02 | 2022-12-01 |
 | [Fui Longe de Mais](https://open.spotify.com/track/1G5xlbqp6YgtIYZYtpnnEC) | [Mariana Moreira](https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1) | [Fui Longe de Mais](https://open.spotify.com/album/7gtn6QeZE7tb10jNx2iGHd) | 4:14 | 2022-05-03 | 2022-07-06 |
@@ -272,7 +272,8 @@
 | [Outro Mar](https://open.spotify.com/track/6EQhn0ZYXVi8IPBS4cA5ku) | [Brisa](https://open.spotify.com/artist/0h86oLtyPHlFgPyr7AcAtC) | [Outro Mar](https://open.spotify.com/album/3skOTwzTRlaHveWwNcol3l) | 3:35 | 2022-02-02 | 2023-02-03 |
 | [Outros Planos](https://open.spotify.com/track/30t2xt3amQEfMIbvI15054) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Outros Planos](https://open.spotify.com/album/7GMXmkE4g6yWf0BlZLahhQ) | 3:41 | 2023-01-04 | 2023-03-02 |
 | [ouvi dizer](https://open.spotify.com/track/0mrWtdiImFX4bsU03Czryl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 2:56 | 2023-03-01 | 2023-03-07 |
-| [ouvi dizer](https://open.spotify.com/track/6zVFjOyyapIpNDZxYQVsnF) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 2:56 | 2023-03-01 |  |
+| [ouvi dizer](https://open.spotify.com/track/6uRZBkSklUaoSV4NuPLIDH) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 2:56 | 2023-03-01 |  |
+| [ouvi dizer](https://open.spotify.com/track/6zVFjOyyapIpNDZxYQVsnF) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 2:56 | 2023-03-01 | 2023-03-12 |
 | [Overthinking](https://open.spotify.com/track/64lehEwmtmiB607vXFShyn) | [Melyah](https://open.spotify.com/artist/7M3xFnNddpYffPgjzpt7f1) | [Overthinking](https://open.spotify.com/album/3Q8Yoh0bEjDauYjmDYkUjV) | 3:42 | 2023-02-03 |  |
 | [oxalá](https://open.spotify.com/track/1UbsdHbelOKpiGjMJwOh0x) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:30 | 2023-02-03 | 2023-03-01 |
 | [oxalá](https://open.spotify.com/track/1V51LGS9nZroBDzYZnTsMG) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:30 | 2023-02-03 | 2023-02-26 |

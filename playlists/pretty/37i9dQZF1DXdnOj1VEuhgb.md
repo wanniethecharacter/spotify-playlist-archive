@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,811 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,342 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 |
 | 2 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 |
-| 3 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
-| 4 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
+| 3 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
+| 4 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 5 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 6 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 7 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 |
 | 50 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 |
 
-Snapshot ID: `MTY3ODQzMTYxOCwwMDAwMDAwMDhlYzM5NTgyZDA0ZGFkODllYTQ2ZGE5ODlkMzFjYzA2`
+Snapshot ID: `MTY3ODUxNjU5NSwwMDAwMDAwMGVlMGY2Nzg5OGZkZDZhNzc3MDMyNWQyN2I5ZjhkMjMz`

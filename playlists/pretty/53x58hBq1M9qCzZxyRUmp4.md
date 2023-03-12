@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,277 likes - 50 songs - 2 hr 57 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,293 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 29 | [Beware of the Clown](https://open.spotify.com/track/4bqv2tJk6yXcoVbMTSDLDH) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Beware of the Clown](https://open.spotify.com/album/41EvghkaAZ0JE1busOyAJs) | 3:14 |
 | 30 | [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 |
 | 31 | [I Don't](https://open.spotify.com/track/01BLqXX8qoMFKHxfiuM0Vs) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB) | [I Don't](https://open.spotify.com/album/4KTRgVqC25JChU32tnzl7j) | 3:38 |
-| 32 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepard](https://open.spotify.com/artist/5iYhkPU2FLcywV0y7n7Kt6) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
+| 32 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepherd](https://open.spotify.com/artist/7JATQ4iReEoimQFZPIjxF5) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
 | 33 | [CAR CRASH](https://open.spotify.com/track/2moFfGOWLJantii71PNhKN) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [CAR CRASH](https://open.spotify.com/album/30NIH5mQvx91bh2wlIaMS1) | 3:26 |
 | 34 | [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 |
 | 35 | [The Bird and the Bear](https://open.spotify.com/track/4wdvPKP06uuRbIZ8H08Zx0) | [Valensorow](https://open.spotify.com/artist/4IdQ8RCVI8WgOjaMFsWZfA) | [The Bird and the Bear](https://open.spotify.com/album/61L0lv4gR1euaTaSUwXpoE) | 4:06 |

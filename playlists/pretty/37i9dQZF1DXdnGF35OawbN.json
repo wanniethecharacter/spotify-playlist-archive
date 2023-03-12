@@ -1,12 +1,12 @@
 {
   "description": "The best season of the year, wherever you are! Cover: Karol G",
-  "num_followers": 3872543,
+  "num_followers": 3872523,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDA1Njk1N2QxZjZiODZkODhkZTcyNzA2ZjA3NzY2NjIx",
+  "snapshot_id": "MTY3NzI3MzQ3MCwwMDAwMDAwMDJhZDIzYTVhNTJlYThlMGE5NmViODVlY2QzYjZjZWEx",
   "tracks": [
     {
       "added_at": "2023-01-27 07:00:51",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-01-27 07:00:51",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2023-01-27 07:00:51",
+      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2023-01-27 07:00:51",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-01-27 07:00:51",
@@ -1752,7 +1752,7 @@
       },
       "artists": [
         {
-          "name": "Natti Natasha",
+          "name": "NATTI NATASHA",
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {

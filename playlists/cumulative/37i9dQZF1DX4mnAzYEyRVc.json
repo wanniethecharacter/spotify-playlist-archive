@@ -4824,7 +4824,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 143906,
       "name": "Night Train to Moscow",
       "url": "https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98"
@@ -6242,6 +6242,24 @@
       "duration_ms": 151026,
       "name": "Satan's Swing",
       "url": "https://open.spotify.com/track/16OEoNS6cxYB82u9qfCJnQ"
+    },
+    {
+      "album": {
+        "name": "Locos y Rucas In Retro",
+        "url": "https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Satan's Swing",
+      "url": "https://open.spotify.com/track/2t4BMouccDQHDnUQuy8tqp"
     },
     {
       "album": {

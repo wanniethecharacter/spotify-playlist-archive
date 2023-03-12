@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-119 songs - 7 hr 14 min
+121 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,8 @@
 | [El Marginal](https://open.spotify.com/track/0R2271joKqIt1utuHQbQ4w) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/1SrbhByvhomAAURiA7MLRa) | 3:08 | 2022-07-08 |  |
 | [El Marginal](https://open.spotify.com/track/6SvzbuHAX58FVO2rIOFNvr) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/3QxrSaRjvNT7XgPqb6Ttvr) | 3:08 | 2022-01-14 | 2022-07-29 |
 | [En Peligro de Extinción](https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [En Peligro de Extinción](https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5) | 3:41 | 2022-01-14 |  |
-| [En Tu Pelo](https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:37 | 2022-01-14 |  |
-| [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 | 2022-01-14 | 2023-02-14 |
+| [En Tu Pelo](https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:37 | 2022-01-14 | 2023-03-12 |
+| [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 | 2022-01-14 |  |
 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 | 2022-01-14 |  |
 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 | 2022-07-08 |  |
 | [Estupido](https://open.spotify.com/track/3JQWZOtbBlgnJiIsNeolWB) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Yanet Guadalupe](https://open.spotify.com/artist/4g6w0Ug5YQlSskdUqBQ49g) | [Estupido](https://open.spotify.com/album/1Dec0AVsKagoEGGh3W92om) | 4:59 | 2022-09-23 | 2022-11-13 |
@@ -52,12 +52,13 @@
 | [Frente a Frente](https://open.spotify.com/track/1BPay9AmvLAAVaShW3YU8a) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Frente a Frente](https://open.spotify.com/album/4VYKH1Hd5X53WoWpxgE0gg) | 3:25 | 2023-01-20 |  |
 | [Fuera](https://open.spotify.com/track/3CPvvcF0IbQwOp75rOvlIs) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3OwsrZS7BUxc9waSqFrbFE) | 3:22 | 2022-01-14 | 2022-07-29 |
 | [Fuera](https://open.spotify.com/track/7oPKn4LrkqFJWAXYSNZPGv) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Tiempo de Cambio](https://open.spotify.com/album/3usDqwS6WvQHSFuL5LuJbP) | 3:22 | 2022-07-08 |  |
-| [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 | 2022-01-14 |  |
+| [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 | 2022-01-14 | 2023-03-12 |
 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 | 2022-01-14 |  |
 | [La Cantaleta](https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [20 TropiExitos](https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm) | 3:38 | 2022-07-08 |  |
 | [La Chismeadera](https://open.spotify.com/track/0ceAW9VtBbFOEN6fSIehGA) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/53w81o8xTYSHmcqdg0dsD6) | 3:39 | 2022-01-14 | 2022-10-30 |
 | [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 | 2022-09-23 |  |
-| [La Güera Salomé](https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:03 | 2022-01-14 |  |
+| [La Güera Salome](https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 3:02 | 2023-03-03 |  |
+| [La Güera Salomé](https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Grandes Exitos](https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3) | 3:03 | 2022-01-14 | 2023-03-12 |
 | [La Maleza](https://open.spotify.com/track/3tfxpt6S6JKFHc3kmeMSbW) | [Miloska](https://open.spotify.com/artist/1t7MDhQGrLywx9bxZMgVju) | [La Maleza](https://open.spotify.com/album/0nckuZwitJcBLzw7iKccxC) | 3:40 | 2022-01-14 | 2022-07-26 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997) | [JOHANA RODRIGUEZ](https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw) | [La Mejor Versión de Mi](https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5) | 4:05 | 2022-01-14 |  |
 | [La Muy Muy \- \(Album Version\)](https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:18 | 2022-01-14 |  |
@@ -75,7 +76,8 @@
 | [Mientes](https://open.spotify.com/track/4r3tlABa9UkWfhxysLYdtZ) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/29OwNUnlUMYVINlpdnLHHx) | 3:02 | 2022-01-14 | 2023-01-21 |
 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 | 2023-02-10 |  |
 | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \- En Vivo](https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \(En Vivo\)](https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua) | 9:49 | 2022-01-14 | 2022-07-28 |
-| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-01-14 |  |
+| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-01-14 | 2023-03-12 |
+| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-03 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 | 2022-01-14 |  |
 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 | 2023-01-20 |  |
 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 | 2022-01-14 |  |
@@ -126,6 +128,6 @@
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/1EmFnAYjHBmAPi5TMPIzxg) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/2ijXizRTAsOwAF1aYo0Amy) | 3:31 | 2022-01-14 | 2022-07-29 |
 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 | 2022-09-23 |  |
 | [Yo Tonta, No](https://open.spotify.com/track/4rQzRzx3ljt9gOYGpbc3xH) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/3XzGt66BYB6j1Kz7zLGiKe) | 4:00 | 2022-01-14 | 2022-07-28 |
-| [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 | 2023-03-11 |
+| [Yo Tonta, No](https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnótica](https://open.spotify.com/album/6GkkfBwGPCfXkHvU2fGUep) | 4:00 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

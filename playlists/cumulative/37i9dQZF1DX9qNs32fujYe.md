@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
-701 songs - 2 day 4 hr 11 min
+702 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Seven Headed Whore](https://open.spotify.com/track/1hMe8GvsGxd2Z442FDVg5Y) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Incorruptible](https://open.spotify.com/album/7jdSTiR96uRP2BsetUSLKB) | 3:00 | 2022-01-14 | 2022-06-09 |
 | [Shadowminds](https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Shadowminds](https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc) | 3:53 | 2021-12-17 | 2022-01-22 |
 | [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 | 2022-10-07 | 2022-12-08 |
+| [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-10 |  |
 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 | 2022-07-13 |  |
 | [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2022-10-07 |  |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-10-14 |  |
@@ -543,7 +544,7 @@
 | [Starlight](https://open.spotify.com/track/63fBEvbvxbSwVOOPS9Ik4l) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ronnie Atkins](https://open.spotify.com/artist/6P9001LmAdPIqvcdDhYduM) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 3:38 | 2022-03-22 | 2022-04-20 |
 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-07-13 | 2023-02-11 |
 | [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 | 2022-01-07 | 2022-04-21 |
-| [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 |  |
+| [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 | 2023-03-12 |
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-11 |  |
 | [Steal Away the Light](https://open.spotify.com/track/4oNnIsGr61LVTPTyfa1zyx) | [Triosphere](https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG) | [The Heart of the Matter](https://open.spotify.com/album/0PRu59gkd2Lyi8sybScuec) | 3:53 | 2022-03-22 | 2022-04-21 |
 | [Steel Commanders](https://open.spotify.com/track/3sXsIBIFutSSMc2V4WCknY) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Steel Commanders](https://open.spotify.com/album/5ywV3UAQKe40HxhebYAAAd) | 3:51 | 2021-12-17 | 2022-06-19 |

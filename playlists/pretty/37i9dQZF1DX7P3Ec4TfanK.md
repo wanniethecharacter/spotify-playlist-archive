@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,113 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,119 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 72 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 73 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 |
 | 74 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 |
-| 75 | [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 |
-| 76 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 |
+| 75 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 |
+| 76 | [Vieni nel mio cuore](https://open.spotify.com/track/0OHD6Ask31KqVqxge0OwlG) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Vieni nel mio cuore](https://open.spotify.com/album/1p7JI6emkhorl489KhhiQV) | 2:52 |
 | 77 | [Mi Fiderò \(feat\. Madame\)](https://open.spotify.com/track/2V8AxW9KS5i60ccy7tXCP6) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 3:30 |
 | 78 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 |
 | 79 | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 |
 | 80 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 |
 
-Snapshot ID: `MTY3NzI2MDcyOCwwMDAwMDAwMDBhZDJjOTc1NGZlYWEzM2U3MzYwYzM1NTYzYmQzMDhi`
+Snapshot ID: `MTY3NzI2MDcyOCwwMDAwMDAwMGNmYWQ5NTc3MDZmMDVlNDhlODg1NWMzYjcxY2U3ZDRk`

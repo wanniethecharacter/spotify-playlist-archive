@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. Fuerza Regida en portada.",
-  "num_followers": 96469,
+  "num_followers": 96589,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMGZiYjBmZTBiMWJkMjM0ZGU2Y2FlYTUyNGZmYjQ4MGZm",
+  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMDVkZTllYmJjMTc3YTYwODJiODk4NTA1YTYwOWI5NjI4",
   "tracks": [
     {
       "added_at": "2023-02-22 22:37:37",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Edgardo Nu\u00f1ez Con La S\u00e9ptima Banda",
-        "url": "https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4"
+        "name": "Se\u00f1alado por Costumbre",
+        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 168426,
-      "name": "Botas Blancas",
-      "url": "https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA"
+      "duration_ms": 175868,
+      "name": "Luis Montes (aka Luis Montes el de Uruapan)",
+      "url": "https://open.spotify.com/track/5UYoI6KTyoHePfPwvnW2qS"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -959,18 +955,22 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Se\u00f1alado por Costumbre",
-        "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
+        "name": "Edgardo Nu\u00f1ez Con La S\u00e9ptima Banda",
+        "url": "https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 175868,
-      "name": "Luis Montes (aka Luis Montes el de Uruapan)",
-      "url": "https://open.spotify.com/track/5UYoI6KTyoHePfPwvnW2qS"
+      "duration_ms": 168426,
+      "name": "Botas Blancas",
+      "url": "https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Me Meti Al Ruedo",
-        "url": "https://open.spotify.com/album/2vR78oE2ETchHxESQvNwzX"
+        "name": "Los Mejores Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY"
       },
       "artists": [
         {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 139728,
-      "name": "Iniciales JGL",
-      "url": "https://open.spotify.com/track/6ZZB1ITbgAfYndw9Br5HqS"
+      "duration_ms": 212333,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a"
     }
   ],
   "unique_name": "Corridos con Banda",

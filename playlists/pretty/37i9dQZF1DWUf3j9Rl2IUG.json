@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=iTHo7W6HRT6b5p4Xm83OVQ\"> Boj</a>",
-  "num_followers": 47797,
+  "num_followers": 47881,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1Mjc0NCwwMDAwMDAwMGVhMjI2MDUxNzRiMmUwYjYxMTZhZjRkNTM0NDJjYjlk",
+  "snapshot_id": "MTY3ODQ1Mjc0NCwwMDAwMDAwMGFhZTliYTY5MTc4OGQ0YzI5YzljYWQyY2VlZmIyOWUz",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
-      "added_at": "2023-03-11 00:19:54",
+      "added_at": "2023-03-12 01:00:22",
       "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Philo",
-        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 165309,
-      "name": "Philo",
-      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -879,18 +875,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+        "name": "Philo",
+        "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+      "duration_ms": 165309,
+      "name": "Philo",
+      "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Stand By You",
-        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Abracadabra (Remix)",
         "url": "https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 172062,
       "name": "Abracadabra - Remix",
       "url": "https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Love is Not Enough",
+        "url": "https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 151665,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "African Baddie",
         "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 204599,
       "name": "Pounds & Dollars",
       "url": "https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Love is Not Enough",
-        "url": "https://open.spotify.com/album/4tCH2crJruCSAnwVHO1vJZ"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 151665,
-      "name": "Normally",
-      "url": "https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt"
     }
   ],
   "unique_name": "Gbedu",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=yhkjM4YgQcialbj\-N\_\-D4A">Mr Eazi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 29 | [Happy Day \- Amapiano Remix](https://open.spotify.com/track/1WWIx02hn9qTGYqtq1nSpj) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [Happy Day \(Amapiano Remix\)](https://open.spotify.com/album/5jAbmwEh3xKOwFAcIUhKoN) | 6:51 |
 | 30 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 |
 | 31 | [Global](https://open.spotify.com/track/2jOmnwTKCreSIpO6jNPb33) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Global](https://open.spotify.com/album/6GcabwyEVG6I28iqygw0p0) | 4:09 |
-| 32 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 |
+| 32 | [Ghorba](https://open.spotify.com/track/4uiYmRLLqjlNTX7uGUdXVf) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/21TOT2INhGedNmSGzcpYt2) | 4:04 |
 | 33 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 |
 | 34 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
 | 35 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [Obi Sanaa](https://open.spotify.com/artist/6Jwq0DU8WsVYLYyJqzfhEM), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 50 | [Punk Luv](https://open.spotify.com/track/6bqzTc0gaDiq1wzaHW0g2d) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Punk Luv](https://open.spotify.com/album/37oAGxwK44ijCSqaHy6Mca) | 3:16 |
 
-Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDE1NTVlY2U4Y2Q1MjA0ODc1ZTY0ZDc3ZjhiOWU5M2M3`
+Snapshot ID: `MTY3Nzc5NDM0MCwwMDAwMDAwMDAxZjYwMDYyZDFiZWUyZGQ0YmMzOTY1MGRlNzE4ZmVm`

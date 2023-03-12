@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,372 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,474 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 35 | [5 Seconds Before Sunrise](https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [5 Seconds Before Sunrise](https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md) | 4:35 |
 | 36 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
 | 37 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
-| 38 | [In The Morning \- Edit](https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [In The Morning](https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3) | 3:43 |
-| 39 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 |
+| 38 | [Sunrays](https://open.spotify.com/track/54wXdsqswPdmoMpxlDhRsm) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/1lW6V6LBuzGHECHFfjK6bB) | 3:51 |
+| 39 | [In The Morning \- Edit](https://open.spotify.com/track/6BSWj7GKUJRXBbrdZfNIIp) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [In The Morning](https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3) | 3:43 |
 | 40 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
 | 41 | [Fjäll](https://open.spotify.com/track/7KuYN3fAlt1JM689zzx3wJ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Fjäll](https://open.spotify.com/album/0QgzD9uaXYFfohdHQPKYG1) | 5:15 |
 | 42 | [Finja](https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Finja](https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg) | 3:38 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 62 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
 | 63 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
 | 64 | [Sunset](https://open.spotify.com/track/4fkmywQO1lT7X6V3yOngaw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 6:22 |
-| 65 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
-| 66 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
+| 65 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
+| 66 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 67 | [Dancer In The Dark](https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Together \- Part One](https://open.spotify.com/album/2OyCp5DyvzRA35ZBssD2xg) | 5:05 |
 | 68 | [Solo](https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Solo](https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th) | 4:53 |
 | 69 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 | 70 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMDhlMWFjNzhkYzU3YjRlNjYzOWU2NjU5YWQ2NTBlODc4`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGM4NDM2NDQxNzg3YTIxOTA2MzlkNjI0YzYyODU2YTVj`

@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 279107,
+  "num_followers": 279342,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMGQ1MzY0Y2JlYzMyOWNmZTM4MDRkMmVkOTg2M2UxZmIz",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMGYyZDlmYjkwNTllNDNhOTAwOGM4OGY4MjYyOTUyOTg3",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+      "duration_ms": 141040,
+      "name": "Devoted to You",
+      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 141040,
-      "name": "Devoted to You",
-      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2022-05-30 12:59:00",

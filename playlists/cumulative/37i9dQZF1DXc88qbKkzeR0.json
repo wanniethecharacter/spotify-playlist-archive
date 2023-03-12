@@ -518,10 +518,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 247226,
       "name": "High For This",
       "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
+    },
+    {
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249102,
+      "name": "High For This - Original",
+      "url": "https://open.spotify.com/track/2ye9iWj5V4g6k6HFeTTAKa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees — and past winners — from the 95th annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,445 likes - 56 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,439 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 45 | [Paul](https://open.spotify.com/track/3Ws54uOiepC4hx6NeWUU8K) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [All Quiet On The Western Front \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4) | 1:42 |
 | 46 | [Walking Home Alone](https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 1:17 |
 | 47 | [Jai Ho](https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Slumdog Millionaire \- Music From The Motion Picture](https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx) | 5:19 |
-| 48 | [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 |
-| 49 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 |
+| 48 | [You Must Love Me](https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 2:50 |
+| 49 | [Moon River](https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Essential Henry Mancini](https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE) | 2:40 |
 | 50 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 51 | [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 |
 | 52 | [West Side Story: Act I: Prologue](https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [West Side Story Orchestra](https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F), [Johnny Green](https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa) | 6:36 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 55 | [I Need To Wake Up](https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [Greatest Hits: The Road Less Traveled](https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P) | 3:33 |
 | 56 | [Sooner or Later](https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 3:20 |
 
-Snapshot ID: `MTY3NTE5NDA3NiwwMDAwMDAwMDM3NWNkYzdkYTUxMmRmODFlYzJkZjAzYWQ4ZTQxNGI5`
+Snapshot ID: `MTY3NTE5NDA3NiwwMDAwMDAwMDA0YmEzYjRkOGZkNzc0YTU4NmQ3NmY1MDZjNmE4Njcz`

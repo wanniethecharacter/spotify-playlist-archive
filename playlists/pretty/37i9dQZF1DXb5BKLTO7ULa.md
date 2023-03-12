@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,750 likes - 91 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,764 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 13 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 |
 | 14 | [My Home](https://open.spotify.com/track/5IBOIoEsmORmCHhHUJa5qr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [coin collection](https://open.spotify.com/album/0x5PxA5MaxH53b2eK8wGVp) | 3:50 |
 | 15 | [Wie Zag Het Licht](https://open.spotify.com/track/4NTJa1Leq9cd5kp7k7YjaX) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Wie Zag Het Licht](https://open.spotify.com/album/5FvVrkiyg6Jk1DVWjbTMYS) | 4:00 |
-| 16 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 16 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 17 | [Paranoid](https://open.spotify.com/track/46bGW7GOIBT808Y0ZbMkTR) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Capo Di Tutti](https://open.spotify.com/album/0NwC2X9EvL5fjLo6JXfcvK) | 3:57 |
 | 18 | [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 |
 | 19 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 79 | [Switch](https://open.spotify.com/track/0o9EoSeDpHMhF03PHetVEx) | [Tramhaus](https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB) | [Switch](https://open.spotify.com/album/7MXwpSyr6xlo1w9xNicWvU) | 4:09 |
 | 80 | [Sole Obsession](https://open.spotify.com/track/7KyUA18iLNvY4rrIXtM9vN) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Sole Obsession](https://open.spotify.com/album/457QUbOQKv5pXEzvNXE1l8) | 4:17 |
 | 81 | [Something Like This](https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Something Like This](https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1) | 2:28 |
-| 82 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepard](https://open.spotify.com/artist/5iYhkPU2FLcywV0y7n7Kt6) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
+| 82 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepherd](https://open.spotify.com/artist/7JATQ4iReEoimQFZPIjxF5) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
 | 83 | [Alien](https://open.spotify.com/track/1NdTPvKD9p9IGp7DGYyv1J) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [The Wait Is Over](https://open.spotify.com/album/0A58AEQr8V1htHSimlWgtq) | 3:02 |
 | 84 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 | 85 | [Earth](https://open.spotify.com/track/60PEr9wAeoxZVq4hlghO2v) | [Tayyib Ali](https://open.spotify.com/artist/34KgepLllQVW6H6jP2VyGs), [Golvendans](https://open.spotify.com/artist/2rU7KE2i8oX5KkypkVOCUA) | [Earth](https://open.spotify.com/album/5W95cqIjBFCGwIqaKKsQOD) | 2:50 |

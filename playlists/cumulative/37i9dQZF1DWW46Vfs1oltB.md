@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: sokodomo, Vice Versa, Don Mills, Smugglers\)\)
 
-829 songs - 1 day 22 hr 3 min
+830 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-27 | 2023-03-01 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-01-14 | 2022-07-08 |
 | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/track/298Gzc1eaI6hRDLFmOqkB7) | [PLUMA](https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM) | [Freaky \(Feat\. Chillin Homie\)](https://open.spotify.com/album/3IBGi81dsaFgQpBxrnYssm) | 2:32 | 2022-01-11 | 2022-07-06 |
+| [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/track/44SqDRR0kHV6h4jYJ8q5sm) | [AP Alchemy](https://open.spotify.com/artist/6lJCpS9H1iVfMT6W0HkDRO) | [FREAKY \(Prod\. hyeminsong\)](https://open.spotify.com/album/0JSuPMHCACEmPOF9tv0Lwj) | 7:09 | 2023-03-11 |  |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 | 2022-12-10 |
 | [FRIENDS](https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [FRIENDS](https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV) | 3:10 | 2021-12-18 | 2022-07-08 |
 | [FRIENDS GO FOE](https://open.spotify.com/track/4RXo0smHrIPDjQRb67LYRv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [FRIENDS GO FOE](https://open.spotify.com/album/3rLOkDqmEaHahlivtaZqIv) | 2:38 | 2023-01-11 |  |

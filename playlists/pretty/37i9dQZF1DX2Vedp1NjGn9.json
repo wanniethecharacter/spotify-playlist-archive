@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 81092,
+  "num_followers": 81273,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGYzNTNmNDIxMDYwNjQzNmE4MzFiY2YwOWY3NTMwMDhl",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDZjMDA0MjY0Yjk4YTg0ZDU3ZmQ3YTMwODZhZTI4NTli",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -16,7 +16,7 @@
       },
       "artists": [
         {
-          "name": "Grouplove",
+          "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 255240,
-      "name": "Life Is Simple in the Moonlight",
-      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
+      "duration_ms": 203240,
+      "name": "Taken for a Fool",
+      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Taken for a Fool",
-      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+      "duration_ms": 255240,
+      "name": "Life Is Simple in the Moonlight",
+      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -880,7 +880,7 @@
       },
       "artists": [
         {
-          "name": "Grouplove",
+          "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Suck It and See",
-      "url": "https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Cults",
         "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
@@ -1195,12 +1179,28 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Suck It and See",
+      "url": "https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Grouplove",
+          "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "BTSTU (Edit)",
-        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "BTSTU - Edit",
-      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 274853,
       "name": "No Light, No Light",
       "url": "https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "BTSTU (Edit)",
+        "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "BTSTU - Edit",
+      "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Amor Fati",
-      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Suck It and See",
         "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 183506,
       "name": "Don't Sit Down 'Cause I've Moved Your Chair",
       "url": "https://open.spotify.com/track/577M06tqh2BwsT1qqZOBM1"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1383,6 +1383,22 @@
       "duration_ms": 273840,
       "name": "The Wilhelm Scream",
       "url": "https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "She's Thunderstorms",
+      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "She's Thunderstorms",
-      "url": "https://open.spotify.com/track/5qm8ISXOho1EvFj6e4f4bG"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "You Are All I See",
         "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Black Treacle",
+      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 333466,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0"
       },
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV"
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Black Treacle",
-      "url": "https://open.spotify.com/track/3s4OT5Si1n9TFSNEPjNs0s"
+      "duration_ms": 333466,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
     },
     {
       "added_at": "2021-09-02 08:15:11",

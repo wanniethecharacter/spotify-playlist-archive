@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 54802,
+  "num_followers": 54813,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMDRiODExODAzNDRiNzQ5MDk4ZjIyYjQ4YjVkNDU3MmMw",
+  "snapshot_id": "MTY3NjQ4NTI1MSwwMDAwMDAwMDE3M2Q2MDk2NDRhNDlhOTc3ZDhiMTA0ZDhiZTY2YzNh",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -207,6 +191,22 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -775,6 +759,22 @@
       "duration_ms": 335725,
       "name": "To Chick",
       "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        }
+      ],
+      "duration_ms": 485054,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Sacbe: Sacbe (Complete)",
@@ -863,22 +879,6 @@
       "duration_ms": 269080,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

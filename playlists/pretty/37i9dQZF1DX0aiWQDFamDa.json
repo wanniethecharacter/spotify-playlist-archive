@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 29061,
+  "num_followers": 29117,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMGU0NzU5OGY2OWEzOTllZDUyNTQ5Y2ZmNTY5ZGRiMDc4",
+  "snapshot_id": "MTY3ODQwMjgwMCwwMDAwMDAwMDg5MTJhYzFhNTAzM2M0MTg4NjI1Y2FkNDNiYzI4ODQ3",
   "tracks": [
     {
       "added_at": "2023-03-09 23:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "In the Days of our Love",
-        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
-      },
-      "artists": [
-        {
-          "name": "Newington Green",
-          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
-        }
-      ],
-      "duration_ms": 220019,
-      "name": "In the Days of our Love",
-      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Chet (Keepnews Collection)",
         "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 282053,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "In the Days of our Love",
+        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "duration_ms": 220019,
+      "name": "In the Days of our Love",
+      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Aesthete",
-        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
-      },
-      "artists": [
-        {
-          "name": "Billy Hicks Quartet",
-          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
-        }
-      ],
-      "duration_ms": 222459,
-      "name": "Aesthete",
-      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "The Boss Is Back!",
-        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
+        "name": "Aesthete",
+        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
         }
       ],
-      "duration_ms": 367693,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
+      "duration_ms": 222459,
+      "name": "Aesthete",
+      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 233323,
       "name": "The Way of the Winds",
       "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "The Boss Is Back!",
+        "url": "https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 367693,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
       "artists": [
         {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
         }
       ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1095,34 +1095,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Familiar Places",
-        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
       },
       "artists": [
         {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
         }
       ],
-      "duration_ms": 287323,
-      "name": "It's Beginning To Rain Again",
-      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Correlations",
-        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
-      },
-      "artists": [
-        {
-          "name": "Steve Davis",
-          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 302640,
       "name": "The Wind In The Night",
       "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Correlations",
+        "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
+      },
+      "artists": [
+        {
+          "name": "Steve Davis",
+          "url": "https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Chelsea Bridge",
-        "url": "https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz"
+        "name": "De\u0301sespe\u0301re\u0301s",
+        "url": "https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL"
       },
       "artists": [
         {
-          "name": "Ballroom Jazz Collective",
-          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+          "name": "Vernon Sanders",
+          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
         }
       ],
-      "duration_ms": 234460,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG"
+      "duration_ms": 221624,
+      "name": "De\u0301sespe\u0301re\u0301s",
+      "url": "https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "De\u0301sespe\u0301re\u0301s",
-        "url": "https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL"
+        "name": "Chelsea Bridge",
+        "url": "https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz"
       },
       "artists": [
         {
-          "name": "Vernon Sanders",
-          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
         }
       ],
-      "duration_ms": 221624,
-      "name": "De\u0301sespe\u0301re\u0301s",
-      "url": "https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i"
+      "duration_ms": 234460,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 358533,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 358533,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Min B\u00e4sta V\u00e4n",
         "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Red Garland Revisited!",
         "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 335533,
       "name": "You Keep Coming Back Like A Song",
       "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 239687,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
         "name": "Simplicitas",
         "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 308453,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 239687,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Tokyo '96",
-        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 422933,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
-    },
-    {
-      "added_at": "2023-03-09 23:00:00",
-      "album": {
         "name": "Blues and Ballads",
         "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2023-03-09 23:00:00",
       "album": {
-        "name": "Quiet Time",
-        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
+        "name": "Tokyo '96",
+        "url": "https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h"
       },
       "artists": [
         {
-          "name": "John Brown",
-          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 492933,
-      "name": "When October Goes",
-      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
+      "duration_ms": 422933,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu"
     },
     {
       "added_at": "2023-03-09 23:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 558493,
       "name": "Life And Death",
       "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
+    },
+    {
+      "added_at": "2023-03-09 23:00:00",
+      "album": {
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
+      },
+      "artists": [
+        {
+          "name": "John Brown",
+          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
+        }
+      ],
+      "duration_ms": 492933,
+      "name": "When October Goes",
+      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
     },
     {
       "added_at": "2023-03-09 23:00:00",

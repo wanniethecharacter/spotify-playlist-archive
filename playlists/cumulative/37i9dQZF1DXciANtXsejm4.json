@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240586,
       "name": "Con El No Soportas",
       "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 199666,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
@@ -2264,10 +2264,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "album": {
+        "name": "Vol\u00f3 la Paloma",
+        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
     },
     {
       "album": {
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor del Le\u00f3n",
+        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80880,
+      "name": "Qu\u00e9date Tranquila",
+      "url": "https://open.spotify.com/track/0fbhMix3hzu5L4XoOHU8rM"
+    },
+    {
+      "album": {
         "name": "Lo Mejor Del Le\u00f3n",
         "url": "https://open.spotify.com/album/580OWVSVZG1vLlpzh9iLME"
       },
@@ -2896,10 +2932,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 185077,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/2VEloqLjRlIH5mUrtIFYwB"
+    },
+    {
+      "album": {
+        "name": "Los Mas Grandes Exitos",
+        "url": "https://open.spotify.com/album/2A4irFl71OjqxE0x6FNO0T"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185091,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY"
     },
     {
       "album": {
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 235933,
       "name": "Tan Solo Amantes",
       "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"

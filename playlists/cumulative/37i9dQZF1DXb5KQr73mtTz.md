@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-217 songs - 14 hr 14 min
+218 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 | 2022-09-06 |
 | [Clean one's memory](https://open.spotify.com/track/5GUMM036S9oUGz8CYjkpHV) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Clean one's memory](https://open.spotify.com/album/0dx7RuSLGAC52CtUaIgKNC) | 3:56 | 2022-05-11 | 2022-06-01 |
 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 | 2022-05-11 |  |
+| [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 | 2023-02-28 |  |
 | [Common Regret](https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Monthly magazine home \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/6botCjfBk16Z9AjJL1jv9U) | 4:17 | 2022-05-11 | 2022-07-29 |
 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 | 2022-05-11 |  |
 | [Daystar](https://open.spotify.com/track/2AQNKHky27hmJyPMNcDiNk) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:58 | 2022-05-11 | 2022-07-29 |
@@ -109,7 +110,7 @@
 | [It's Not That](https://open.spotify.com/track/1JTCrMLkmLRVubHx3S3Jhc) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [It's Not That](https://open.spotify.com/album/5kWYIaGJosudsZQbaw9XPp) | 4:58 | 2022-05-11 | 2022-06-06 |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-11 | 2022-06-06 |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-05-11 | 2022-06-08 |
-| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 |  |
+| [Just Friends](https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends](https://open.spotify.com/album/2FZzM4Sb7M8Xvw1oXiibBS) | 4:00 | 2022-07-08 | 2023-03-12 |
 | [Just Friends 욕심](https://open.spotify.com/track/7qJ7KO2ClL5EHZyITBZBl1) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Just Friends 욕심](https://open.spotify.com/album/7LavsevvLKMEUrFOl42SXl) | 4:00 | 2022-05-11 | 2022-07-28 |
 | [Last Goodbye](https://open.spotify.com/track/0GGTcdfOMfP26Vc7z5GJsS) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [The first glance \(Original Television Soundtrack\) \(O'PENing\)](https://open.spotify.com/album/55BHWWpnvOki4ErfJ9EA8v) | 4:00 | 2022-08-09 | 2022-09-06 |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2022-05-11 |  |

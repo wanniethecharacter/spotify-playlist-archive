@@ -1025,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
+    },
+    {
+      "album": {
         "name": "BigBang First Single",
         "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
       },

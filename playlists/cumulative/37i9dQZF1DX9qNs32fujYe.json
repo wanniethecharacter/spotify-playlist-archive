@@ -9109,6 +9109,24 @@
     },
     {
       "album": {
+        "name": "She is a Fire",
+        "url": "https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "She is a Fire",
+      "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
+    },
+    {
+      "album": {
         "name": "Shed My Skin",
         "url": "https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA"
       },
@@ -9814,7 +9832,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 238187,
       "name": "State Of Slow Decay",
       "url": "https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB"

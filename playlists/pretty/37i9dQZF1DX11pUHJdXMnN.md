@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,256 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,288 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 30 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 | 31 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 32 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
-| 33 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
-| 34 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
+| 33 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
+| 34 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
 | 35 | [Dreamers](https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:39 |
 | 36 | [Sununguka \(feat\. Zeke Manyika\) \- Alan Dixon Italo Mix](https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz) | [Faze Action](https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Sununguka \(feat\. Zeke Manyika\)](https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98) | 7:24 |
 | 37 | [Queen of Hearts](https://open.spotify.com/track/0AjOXYBi68jDSQT7n5Ng1c) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Queen of Hearts](https://open.spotify.com/album/3ajvK2fDmbEuUrGCGMeque) | 3:56 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Koko Schanel](https://open.spotify.com/track/59I871wr4KeSHtGRs2MBVU) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Koko Schanel](https://open.spotify.com/album/6D9BNGmHLwT9Vp6eUY8M66) | 3:15 |
 | 45 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGU4MDU5ZDEyMDBiNjMzNTliNDIwMDM2YjA3ZGFkM2Jk`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGVjNzZmYTk5M2MwMzU2NWViMDkxYzFmZTY2NGY4YTQ1`

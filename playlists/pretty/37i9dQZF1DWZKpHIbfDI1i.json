@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. YoSoyMatt en portada.",
-  "num_followers": 522561,
+  "num_followers": 522928,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2NjY4NywwMDAwMDAwMDMyNDNmNjcwNDg0M2FhOWYxYWE5NmZlNmU1MWRlMjk5",
+  "snapshot_id": "MTY3ODQ2NjY4NywwMDAwMDAwMGJmOWI0MmQxNjY4MzcyZDQwODNhOTk5NzU5NDZhYTE1",
   "tracks": [
     {
       "added_at": "2023-03-10 16:44:47",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Pedazo De Tonto",
-        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "Pedazo De Tonto",
-      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
         "name": "Un Amor Como Este",
         "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 185770,
       "name": "Un Amor Como Este",
       "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "Pedazo De Tonto",
+        "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "Pedazo De Tonto",
+      "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 219672,
-      "name": "Sincer\u00e1ndome",
-      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+      "duration_ms": 219672,
+      "name": "Sincer\u00e1ndome",
+      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -939,22 +939,22 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         },
         {
-          "name": "JJ Araujo",
-          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 128073,
-      "name": "Me Aceptaste - En Vivo",
-      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+      "duration_ms": 151600,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -975,22 +975,22 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/025e1NdAZgqFznEwS9Amvm"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
         }
       ],
-      "duration_ms": 151600,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/4KSBQ8YMajJPd7ParPBlV6"
+      "duration_ms": 128073,
+      "name": "Me Aceptaste - En Vivo",
+      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Infieles",
-        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Infieles",
-      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 231053,
       "name": "El lugar correcto",
       "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "Infieles",
+        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Infieles",
+      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
         "name": "Un Viaje a Todas Partes",
         "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 203836,
       "name": "Un Viaje a Todas Partes",
       "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
         "name": "Mecha Corta",
         "url": "https://open.spotify.com/album/6LTuoNqFv4mpSTUjGsbfiI"
       },
@@ -1323,6 +1307,42 @@
       "duration_ms": 205309,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 197036,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2023-03-10 16:44:47",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 197036,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
         "name": "Y Yo Sin Ti",
         "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 198133,
       "name": "Y Yo Sin Ti",
       "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2023-03-10 16:44:47",
-      "album": {
-        "name": "Nueva Inglaterra",
-        "url": "https://open.spotify.com/album/4j35KTU9wyjBbKGeDGr6m6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Nueva Inglaterra",
-      "url": "https://open.spotify.com/track/5jYs2DR2i6PNDLE9vnZGNe"
     },
     {
       "added_at": "2023-03-10 16:44:47",
@@ -1427,6 +1411,26 @@
       "duration_ms": 161147,
       "name": "Polvito de Lim\u00f3n",
       "url": "https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3"
+    },
+    {
+      "added_at": "2023-03-10 16:44:47",
+      "album": {
+        "name": "\u00bfC\u00f3mo Se Supera?",
+        "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 203916,
+      "name": "\u00bfC\u00f3mo Se Supera?",
+      "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
     }
   ],
   "unique_name": "Top M\u00e9xico",

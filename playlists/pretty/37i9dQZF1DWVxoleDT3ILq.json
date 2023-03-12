@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Benjamin Walker + F\u00e1rmacos",
-  "num_followers": 127645,
+  "num_followers": 127656,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMDFiZjc5ZTEwOGQyMmViNDkxNGVkZWQzM2U4M2Y2ZWJi",
+  "snapshot_id": "MTY3ODQxNzIwMCwwMDAwMDAwMDBmYTE3ZjNmODkxM2JlOTkxNDI3YjQwMWY3OGM5ZGNm",
   "tracks": [
     {
       "added_at": "2023-03-10 03:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Qu\u00e9 piensas hacer sin mi amor?",
+        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "Qu\u00e9 piensas hacer sin mi amor?",
+      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Confortas Pero Da\u00f1as",
         "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 249502,
       "name": "Confortas Pero Da\u00f1as",
       "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Qu\u00e9 piensas hacer sin mi amor?",
-        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 248121,
-      "name": "Qu\u00e9 piensas hacer sin mi amor?",
-      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Me Siento Que No",
         "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
       },
@@ -599,34 +615,18 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+        "name": "Retazos de Diciembre",
+        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Donde Mueren Todos",
-        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
-      },
-      "artists": [
-        {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
-        }
-      ],
-      "duration_ms": 189416,
-      "name": "Donde Mueren Todos",
-      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
+      "duration_ms": 180500,
+      "name": "Retazos de Diciembre",
+      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Retazos de Diciembre",
-        "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
+        "name": "Donde Mueren Todos",
+        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
       },
       "artists": [
         {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Retazos de Diciembre",
-      "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+      "duration_ms": 189416,
+      "name": "Donde Mueren Todos",
+      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Al Norte",
         "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "es caprichoso el azar",
-        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        },
-        {
-          "name": "t\u00edo pepe",
-          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
-        }
-      ],
-      "duration_ms": 177309,
-      "name": "es caprichoso el azar",
-      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "entre las sombras,",
         "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "es caprichoso el azar",
+        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        },
+        {
+          "name": "t\u00edo pepe",
+          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
+        }
+      ],
+      "duration_ms": 177309,
+      "name": "es caprichoso el azar",
+      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Corazonada",
+        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Barreras de Cart\u00f3n",
         "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 157733,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Corazonada",
-        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Corazonada",
-      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
-        "name": "despacito",
-        "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 193002,
-      "name": "despacito",
-      "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
         "name": "Casinaranja",
         "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 152517,
       "name": "Sal - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
+        "name": "despacito",
+        "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 193002,
+      "name": "despacito",
+      "url": "https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK"
     },
     {
       "added_at": "2023-03-10 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-10 03:00:00",
       "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
+      },
+      "artists": [
+        {
+          "name": "Los Valentina",
+          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
+        }
+      ],
+      "duration_ms": 260790,
+      "name": "El drag\u00f3n asciende",
+      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
+    },
+    {
+      "added_at": "2023-03-10 03:00:00",
+      "album": {
         "name": "Viejita M\u00cda",
         "url": "https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 235277,
       "name": "Altar",
       "url": "https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj"
-    },
-    {
-      "added_at": "2023-03-10 03:00:00",
-      "album": {
-        "name": "Independencia",
-        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
-      },
-      "artists": [
-        {
-          "name": "Los Valentina",
-          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
-        }
-      ],
-      "duration_ms": 260790,
-      "name": "El drag\u00f3n asciende",
-      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
     },
     {
       "added_at": "2023-03-10 03:00:00",

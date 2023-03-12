@@ -1,18 +1,18 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Kate NV on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 102940,
+  "num_followers": 102983,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY4ODYxMiwwMDAwMDAwMGIxYzlkYmIxZDEyY2RiZDdhMjYwNjViZTg0MjJlMjE2",
+  "snapshot_id": "MTY3NzY4ODYxMiwwMDAwMDAwMGU1NTNlYzQ1NTMxMmMzNmNlNDhmZjM2OTJjM2U3N2Vi",
   "tracks": [
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
         "name": "WOW",
-        "url": "https://open.spotify.com/album/20TkyDiL0i1Szs5Kg9UieZ"
+        "url": "https://open.spotify.com/album/2uQB2kL4Nr8DxpuKIBYI8M"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 146680,
       "name": "meow chat",
-      "url": "https://open.spotify.com/track/1M1BkERJAqeSy043TRqQFJ"
+      "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
     },
     {
       "added_at": "2023-02-15 16:20:15",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/4ux5lTkBgmIFNFC83TwZj8"
     },
     {
-      "added_at": "2022-11-30 13:45:00",
+      "added_at": "2023-03-01 16:36:52",
       "album": {
-        "name": "Blurry",
-        "url": "https://open.spotify.com/album/0HmsJcxp6vrNP24YKJslNy"
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
       "artists": [
         {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
         }
       ],
-      "duration_ms": 179522,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I"
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2023-03-01 16:36:52",
+      "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/0HmsJcxp6vrNP24YKJslNy"
       },
       "artists": [
         {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
         }
       ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+      "duration_ms": 179522,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7mtagl3171hjbfAGQeLH1I"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -241,22 +241,6 @@
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
-      "added_at": "2023-02-15 16:20:15",
-      "album": {
-        "name": "The Fridge",
-        "url": "https://open.spotify.com/album/2p5QMmabdBughqus8HKrTa"
-      },
-      "artists": [
-        {
-          "name": "Ryan Pollie",
-          "url": "https://open.spotify.com/artist/5cZo7U5yKYEWzcaR8ZKhNw"
-        }
-      ],
-      "duration_ms": 211850,
-      "name": "Arugula",
-      "url": "https://open.spotify.com/track/4Lj5cpFVJHOhg63hAmVb2c"
-    },
-    {
       "added_at": "2023-03-01 16:36:52",
       "album": {
         "name": "Origen",
@@ -271,6 +255,22 @@
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+    },
+    {
+      "added_at": "2023-02-15 16:20:15",
+      "album": {
+        "name": "The Fridge",
+        "url": "https://open.spotify.com/album/2p5QMmabdBughqus8HKrTa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Pollie",
+          "url": "https://open.spotify.com/artist/5cZo7U5yKYEWzcaR8ZKhNw"
+        }
+      ],
+      "duration_ms": 211850,
+      "name": "Arugula",
+      "url": "https://open.spotify.com/track/4Lj5cpFVJHOhg63hAmVb2c"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/76EHY28KFA81weQ6NhXidd"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Echo Drift",
-        "url": "https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 199894,
-      "name": "Echo Drift",
-      "url": "https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0"
-    },
-    {
       "added_at": "2023-02-01 16:47:43",
       "album": {
         "name": "Dot",
@@ -337,22 +321,6 @@
       "url": "https://open.spotify.com/track/0f0c0GFBCoqLGbXLdO3wTD"
     },
     {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "One at a Time",
-        "url": "https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv"
-      },
-      "artists": [
-        {
-          "name": "Lisel",
-          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "One at a Time",
-      "url": "https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -367,6 +335,38 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Echo Drift",
+        "url": "https://open.spotify.com/album/4cNPYTddkxIIPLt0QbDN6B"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/6Ut9YRKyjDBAmRswxBj4f0"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "One at a Time",
+        "url": "https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv"
+      },
+      "artists": [
+        {
+          "name": "Lisel",
+          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "One at a Time",
+      "url": "https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN"
     },
     {
       "added_at": "2023-03-01 16:36:52",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/26oHfWOpQWBW5id8TZ8E78"
     },
     {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
+        "name": "Into Your Trap",
+        "url": "https://open.spotify.com/album/1AQzrQhtUuOl8UvCk5nJOr"
+      },
+      "artists": [
+        {
+          "name": "Mouissie",
+          "url": "https://open.spotify.com/artist/0ttveQ3Wb7pinhXutAvoDq"
+        }
+      ],
+      "duration_ms": 312500,
+      "name": "Into Your Trap",
+      "url": "https://open.spotify.com/track/2GECtLjf9pFR8nOK790w38"
+    },
+    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "SEIM",
@@ -471,22 +487,6 @@
       "duration_ms": 256440,
       "name": "Adkrog (feat. Gareth Jones)",
       "url": "https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C"
-    },
-    {
-      "added_at": "2023-03-01 16:36:52",
-      "album": {
-        "name": "Into Your Trap",
-        "url": "https://open.spotify.com/album/1AQzrQhtUuOl8UvCk5nJOr"
-      },
-      "artists": [
-        {
-          "name": "Mouissie",
-          "url": "https://open.spotify.com/artist/0ttveQ3Wb7pinhXutAvoDq"
-        }
-      ],
-      "duration_ms": 312500,
-      "name": "Into Your Trap",
-      "url": "https://open.spotify.com/track/2GECtLjf9pFR8nOK790w38"
     },
     {
       "added_at": "2023-02-15 16:20:15",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
     },
     {
-      "added_at": "2023-02-15 16:20:15",
-      "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy"
-      },
-      "artists": [
-        {
-          "name": "Toumba",
-          "url": "https://open.spotify.com/artist/2BX3Brla1PKdsoIUg0HoaF"
-        }
-      ],
-      "duration_ms": 260349,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2s8I0xkAKxruP1QxcQrAm7"
-    },
-    {
       "added_at": "2023-03-01 16:36:52",
       "album": {
         "name": "Slowly Forgetting, Barely Remembering",
@@ -551,6 +535,22 @@
       "duration_ms": 168000,
       "name": "Slowly Forgetting, Barely Remembering",
       "url": "https://open.spotify.com/track/5WZSFvCa9sw3lDufP9w8nb"
+    },
+    {
+      "added_at": "2023-02-15 16:20:15",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy"
+      },
+      "artists": [
+        {
+          "name": "Toumba",
+          "url": "https://open.spotify.com/artist/2BX3Brla1PKdsoIUg0HoaF"
+        }
+      ],
+      "duration_ms": 260349,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2s8I0xkAKxruP1QxcQrAm7"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -571,6 +571,22 @@
       "duration_ms": 258004,
       "name": "As It Happens",
       "url": "https://open.spotify.com/track/6ECmmkWc0esLE3hYHuD5KU"
+    },
+    {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
+        "name": "Dream Hacker",
+        "url": "https://open.spotify.com/album/2tr2kXZrYu5OcCwZ98jXSP"
+      },
+      "artists": [
+        {
+          "name": "Otay:onii",
+          "url": "https://open.spotify.com/artist/0C3Qh4eVVKpw4tzzXBfwKh"
+        }
+      ],
+      "duration_ms": 154428,
+      "name": "Light Burst",
+      "url": "https://open.spotify.com/track/56E7AQz2Dx3AtLjG0Eg4NS"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -641,22 +657,6 @@
       "url": "https://open.spotify.com/track/6scOPJVVswNdwVRCyJ6Th1"
     },
     {
-      "added_at": "2023-03-01 16:36:52",
-      "album": {
-        "name": "Dream Hacker",
-        "url": "https://open.spotify.com/album/2tr2kXZrYu5OcCwZ98jXSP"
-      },
-      "artists": [
-        {
-          "name": "Otay:onii",
-          "url": "https://open.spotify.com/artist/0C3Qh4eVVKpw4tzzXBfwKh"
-        }
-      ],
-      "duration_ms": 154428,
-      "name": "Light Burst",
-      "url": "https://open.spotify.com/track/56E7AQz2Dx3AtLjG0Eg4NS"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Pararatronic",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5wEKnz6PAPW37NL5TgzX54"
     },
     {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Built On Sand",
-        "url": "https://open.spotify.com/album/1lo6Q8QDFAZsjQYZIzCok4"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        }
-      ],
-      "duration_ms": 375473,
-      "name": "Built On Sand",
-      "url": "https://open.spotify.com/track/0ptP5TGbE7MjnvaYU6EPYm"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Guidance in Dreams",
@@ -719,6 +703,22 @@
       "duration_ms": 131879,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Built On Sand",
+        "url": "https://open.spotify.com/album/1lo6Q8QDFAZsjQYZIzCok4"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        }
+      ],
+      "duration_ms": 375473,
+      "name": "Built On Sand",
+      "url": "https://open.spotify.com/track/0ptP5TGbE7MjnvaYU6EPYm"
     },
     {
       "added_at": "2023-03-01 16:36:52",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/1yEiUh040BuVgk26EpVAcd"
     },
     {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Immature",
-        "url": "https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa"
-      },
-      "artists": [
-        {
-          "name": "Lisel",
-          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Immature",
-      "url": "https://open.spotify.com/track/0W4p2qCSHBambiI5dAAtzr"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Snow Ball",
@@ -835,34 +819,18 @@
     {
       "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
-        "url": "https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P"
+        "name": "Immature",
+        "url": "https://open.spotify.com/album/3FcnUDXDi5KCbZNmdvfgEa"
       },
       "artists": [
         {
-          "name": "Yikii",
-          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+          "name": "Lisel",
+          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
-      "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Fatima",
-        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
-      },
-      "artists": [
-        {
-          "name": "Ruhail Qaisar",
-          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
-        }
-      ],
-      "duration_ms": 339500,
-      "name": "Fatima's Poplar",
-      "url": "https://open.spotify.com/track/0XWldQSPFGe8lZGgfB4xs6"
+      "duration_ms": 211493,
+      "name": "Immature",
+      "url": "https://open.spotify.com/track/0W4p2qCSHBambiI5dAAtzr"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -881,6 +849,22 @@
       "url": "https://open.spotify.com/track/172OO0aGapGphSl7nPZVGa"
     },
     {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
+        "url": "https://open.spotify.com/album/7cTIcwmmaCNbls2psGTQ5P"
+      },
+      "artists": [
+        {
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
+      "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"
+    },
+    {
       "added_at": "2023-03-01 16:36:52",
       "album": {
         "name": "Suono In Un Tempo Trasfigurato",
@@ -895,6 +879,38 @@
       "duration_ms": 128573,
       "name": "Le Ossa",
       "url": "https://open.spotify.com/track/2ogSgGDotKiMMfMWDFnmAh"
+    },
+    {
+      "added_at": "2023-02-01 16:47:43",
+      "album": {
+        "name": "Fatima",
+        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
+      },
+      "artists": [
+        {
+          "name": "Ruhail Qaisar",
+          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
+        }
+      ],
+      "duration_ms": 339500,
+      "name": "Fatima's Poplar",
+      "url": "https://open.spotify.com/track/0XWldQSPFGe8lZGgfB4xs6"
+    },
+    {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
+        "name": "VIOLENT GLARE",
+        "url": "https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT"
+      },
+      "artists": [
+        {
+          "name": "TUNA DISPLAY",
+          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "SPIN FOREVER",
+      "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
       "added_at": "2023-02-15 16:20:15",
@@ -945,20 +961,36 @@
       "url": "https://open.spotify.com/track/0hvUG4dlVkEdzft1zsscQG"
     },
     {
-      "added_at": "2023-03-01 16:36:52",
+      "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "VIOLENT GLARE",
-        "url": "https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT"
+        "name": "sit on the floor and wait for storms",
+        "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
       },
       "artists": [
         {
-          "name": "TUNA DISPLAY",
-          "url": "https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 250200,
-      "name": "SPIN FOREVER",
-      "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
+      "duration_ms": 196015,
+      "name": "sit on the floor and wait for storms",
+      "url": "https://open.spotify.com/track/5Na0Vg74YJYuLHu3mb1wg3"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Coqueta/Las Drogas Raras",
+        "url": "https://open.spotify.com/album/3l9NHNlkdDivqaOh5iFEmG"
+      },
+      "artists": [
+        {
+          "name": "Coqueta",
+          "url": "https://open.spotify.com/artist/2DbXpnpj7VecSYMp2NBvhR"
+        }
+      ],
+      "duration_ms": 264570,
+      "name": "Las Drogas Raras",
+      "url": "https://open.spotify.com/track/30h5cO2dGMIaYJje8STHnl"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -983,22 +1015,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Coqueta/Las Drogas Raras",
-        "url": "https://open.spotify.com/album/3l9NHNlkdDivqaOh5iFEmG"
-      },
-      "artists": [
-        {
-          "name": "Coqueta",
-          "url": "https://open.spotify.com/artist/2DbXpnpj7VecSYMp2NBvhR"
-        }
-      ],
-      "duration_ms": 264570,
-      "name": "Las Drogas Raras",
-      "url": "https://open.spotify.com/track/30h5cO2dGMIaYJje8STHnl"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "imagine naked!",
         "url": "https://open.spotify.com/album/4lh0aaeNMTfhI5I10edLmb"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 319446,
       "name": "to fill the quiet!",
       "url": "https://open.spotify.com/track/0ZgWsTr3OuQ79hE88oINvT"
-    },
-    {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "sit on the floor and wait for storms",
-        "url": "https://open.spotify.com/album/740kNc03eogV31bPoDpkV5"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 196015,
-      "name": "sit on the floor and wait for storms",
-      "url": "https://open.spotify.com/track/5Na0Vg74YJYuLHu3mb1wg3"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/5yzDkcVeP5kiYnVOfNt2sJ"
     },
     {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
+        "name": "The Things We See When We Look Closer",
+        "url": "https://open.spotify.com/album/3df9GiynsYFZ3oBcOWnV3o"
+      },
+      "artists": [
+        {
+          "name": "Sam Goku",
+          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Yellow River Drone",
+      "url": "https://open.spotify.com/track/1IhaSAvt7pf9qEEBt5bkoj"
+    },
+    {
       "added_at": "2023-02-15 16:20:15",
       "album": {
         "name": "Flowers for the Formless",
@@ -1115,18 +1131,34 @@
     {
       "added_at": "2023-03-01 16:36:52",
       "album": {
-        "name": "The Things We See When We Look Closer",
-        "url": "https://open.spotify.com/album/3df9GiynsYFZ3oBcOWnV3o"
+        "name": "Excess",
+        "url": "https://open.spotify.com/album/05AUVHIbbsAWgFEDn4Hx0I"
       },
       "artists": [
         {
-          "name": "Sam Goku",
-          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
+          "name": "FAKETHIAS",
+          "url": "https://open.spotify.com/artist/38vw9qnNRDz22drwGDr0om"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Yellow River Drone",
-      "url": "https://open.spotify.com/track/1IhaSAvt7pf9qEEBt5bkoj"
+      "duration_ms": 154371,
+      "name": "Anaesthesia",
+      "url": "https://open.spotify.com/track/6ml8BMLfEJjR6gQyAtiGQZ"
+    },
+    {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/2oyjP6PPzSn1hTOlYcod2Z"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "duration_ms": 80219,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/7kJ6HwxgvdYgp1M05ONYNB"
     },
     {
       "added_at": "2023-01-11 14:45:51",
@@ -1145,22 +1177,6 @@
       "url": "https://open.spotify.com/track/7iyso5r0vIAZKtN5TgJagH"
     },
     {
-      "added_at": "2023-02-01 16:47:43",
-      "album": {
-        "name": "Fatima",
-        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
-      },
-      "artists": [
-        {
-          "name": "Ruhail Qaisar",
-          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Sachu Melung",
-      "url": "https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD"
-    },
-    {
       "added_at": "2022-11-30 13:45:00",
       "album": {
         "name": "Iterations Felidae",
@@ -1177,20 +1193,20 @@
       "url": "https://open.spotify.com/track/69rmPrVJ4VJgLG0Hz4gOJj"
     },
     {
-      "added_at": "2023-03-01 16:36:52",
+      "added_at": "2023-02-01 16:47:43",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/2oyjP6PPzSn1hTOlYcod2Z"
+        "name": "Fatima",
+        "url": "https://open.spotify.com/album/6MWz7VYMDIJgX6DvjBFpUC"
       },
       "artists": [
         {
-          "name": "aus",
-          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+          "name": "Ruhail Qaisar",
+          "url": "https://open.spotify.com/artist/51H8yuHc5GM0yY7DAMtKcv"
         }
       ],
-      "duration_ms": 80219,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/7kJ6HwxgvdYgp1M05ONYNB"
+      "duration_ms": 261000,
+      "name": "Sachu Melung",
+      "url": "https://open.spotify.com/track/6bSXnkFFBScbfgWqC5NeLD"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 189000,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/0eZ7rXLl7PPvqnrBib6yv0"
-    },
-    {
-      "added_at": "2023-03-01 16:36:52",
-      "album": {
-        "name": "Excess",
-        "url": "https://open.spotify.com/album/05AUVHIbbsAWgFEDn4Hx0I"
-      },
-      "artists": [
-        {
-          "name": "FAKETHIAS",
-          "url": "https://open.spotify.com/artist/38vw9qnNRDz22drwGDr0om"
-        }
-      ],
-      "duration_ms": 154371,
-      "name": "Anaesthesia",
-      "url": "https://open.spotify.com/track/6ml8BMLfEJjR6gQyAtiGQZ"
     },
     {
       "added_at": "2023-02-01 16:47:43",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-11 14:45:51",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/3vVinGv4WKDwrSWTPXeXfI"
-      },
-      "artists": [
-        {
-          "name": "Guppi",
-          "url": "https://open.spotify.com/artist/5nh8clVBo9FF44ZCLQFX0o"
-        }
-      ],
-      "duration_ms": 204206,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/63By9fJeNee1s2XfbeANwb"
-    },
-    {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/4Iwk2ewnpoNveZYtyUOkVh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 924000,
       "name": "Askew",
       "url": "https://open.spotify.com/track/13NA43NS3lFqwzGOO4Y2nL"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/3vVinGv4WKDwrSWTPXeXfI"
+      },
+      "artists": [
+        {
+          "name": "Guppi",
+          "url": "https://open.spotify.com/artist/5nh8clVBo9FF44ZCLQFX0o"
+        }
+      ],
+      "duration_ms": 204206,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/63By9fJeNee1s2XfbeANwb"
     },
     {
       "added_at": "2023-02-15 16:20:15",
@@ -1435,22 +1435,6 @@
       "duration_ms": 239173,
       "name": "Stalactite",
       "url": "https://open.spotify.com/track/2oEf33lW1c73KYfITLxgKf"
-    },
-    {
-      "added_at": "2023-01-11 14:45:51",
-      "album": {
-        "name": "Lumbago",
-        "url": "https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB"
-      },
-      "artists": [
-        {
-          "name": "[BORDERS]",
-          "url": "https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu"
-        }
-      ],
-      "duration_ms": 163953,
-      "name": "Lumbago",
-      "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 480052,
       "name": "Road to Techno",
       "url": "https://open.spotify.com/track/3Qc7eb1JrtCPjMjwhmzhxh"
+    },
+    {
+      "added_at": "2023-01-11 14:45:51",
+      "album": {
+        "name": "Lumbago",
+        "url": "https://open.spotify.com/album/5VdPz6FNMsqG1zkipJgxiB"
+      },
+      "artists": [
+        {
+          "name": "[BORDERS]",
+          "url": "https://open.spotify.com/artist/1R9x7GaOIBxNsWsUo8KRdu"
+        }
+      ],
+      "duration_ms": 163953,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0XUGhlYuGfxW61NKaLzt5j"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-03-01 16:36:52",
       "album": {
+        "name": "the moment a zipper",
+        "url": "https://open.spotify.com/album/5QcBwD6HXVRHtPRwgCJtqc"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "the moment a zipper",
+      "url": "https://open.spotify.com/track/5gZv0ObJ7rBIiNhde9ESR3"
+    },
+    {
+      "added_at": "2023-03-01 16:36:52",
+      "album": {
         "name": "Slow Fiction",
         "url": "https://open.spotify.com/album/1E6EbTOK4fkXha0g2LH5us"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2023-03-01 16:36:52",
       "album": {
-        "name": "the moment a zipper",
-        "url": "https://open.spotify.com/album/5QcBwD6HXVRHtPRwgCJtqc"
+        "name": "Leeches In The Mud",
+        "url": "https://open.spotify.com/album/4D9MQsm9mw5Ysts19R4QS4"
       },
       "artists": [
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+          "name": "Early Fern",
+          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
         }
       ],
-      "duration_ms": 321000,
-      "name": "the moment a zipper",
-      "url": "https://open.spotify.com/track/5gZv0ObJ7rBIiNhde9ESR3"
+      "duration_ms": 190361,
+      "name": "Leeches In The Mud",
+      "url": "https://open.spotify.com/track/3QP6hVJrBAaHpYd88sRfg3"
     },
     {
       "added_at": "2023-02-15 16:20:15",
@@ -1631,22 +1647,6 @@
       "duration_ms": 96040,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2dIIlXxQAJYY7hjy1faThs"
-    },
-    {
-      "added_at": "2023-03-01 16:36:52",
-      "album": {
-        "name": "Leeches In The Mud",
-        "url": "https://open.spotify.com/album/4D9MQsm9mw5Ysts19R4QS4"
-      },
-      "artists": [
-        {
-          "name": "Early Fern",
-          "url": "https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE"
-        }
-      ],
-      "duration_ms": 190361,
-      "name": "Leeches In The Mud",
-      "url": "https://open.spotify.com/track/3QP6hVJrBAaHpYd88sRfg3"
     },
     {
       "added_at": "2023-02-01 16:47:43",

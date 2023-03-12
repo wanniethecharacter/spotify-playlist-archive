@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Cuco & The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,738 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,835 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 4 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 5 | [Mbappe \- Remix](https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Mbappe \(Remix\)](https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h) | 3:57 |
 | 6 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |
-| 7 | [Cuanto Quieres](https://open.spotify.com/track/1JcjFen7sEpyDBUsxVHRio) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cuanto Quieres](https://open.spotify.com/album/6uywOpoOam8zLawTZtWQHJ) | 3:30 |
+| 7 | [Cuanto Quieres](https://open.spotify.com/track/1JcjFen7sEpyDBUsxVHRio) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cuanto Quieres](https://open.spotify.com/album/6uywOpoOam8zLawTZtWQHJ) | 3:30 |
 | 8 | [Jugando con la Nieve](https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [BBinc](https://open.spotify.com/artist/1VUpITDLlaLQXHJrBXXiB7) | [Jugando con la Nieve](https://open.spotify.com/album/2MzO7ZX3uRtJS4zuf6Koor) | 2:40 |
 | 9 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
 | 10 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 |

@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 227946,
       "name": "Leave Now",
       "url": "https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL"
@@ -840,6 +840,24 @@
       "duration_ms": 198773,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh"
+    },
+    {
+      "album": {
+        "name": "Love, Surround Me In Everything I Do",
+        "url": "https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Love, Surround Me In Everything I Do",
+      "url": "https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE"
     },
     {
       "album": {

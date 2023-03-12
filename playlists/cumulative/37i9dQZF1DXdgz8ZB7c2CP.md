@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring OBLVYN
 
-363 songs - 20 hr 25 min
+365 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [I Know](https://open.spotify.com/track/5VbIVAw08zctCJDTRty1Th) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [I Know](https://open.spotify.com/album/1XPLPBZdygSmi2clyvixcM) | 2:20 | 2022-01-14 | 2022-06-21 |
 | [I Love You.](https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Love You.](https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9) | 4:06 | 2021-08-06 |  |
 | [I LUV U](https://open.spotify.com/track/1al8r3l7iz20WrImQUJKOI) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [I LUV U](https://open.spotify.com/album/4HHrcXMrwJC7tRO9ylWOgu) | 3:47 | 2021-09-17 | 2022-07-26 |
-| [I Need](https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [I Need](https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX) | 2:51 | 2021-08-06 |  |
+| [I Need](https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [I Need](https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX) | 2:51 | 2021-08-06 | 2023-03-12 |
 | [i'm busy](https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [i'm busy](https://open.spotify.com/album/1tpx9WDPwZkFWnHNZr85pU) | 2:48 | 2021-08-06 | 2022-06-30 |
 | [idio\-savan](https://open.spotify.com/track/21kzMROplBP8MhBCmfYcSm) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 4:24 | 2021-11-26 | 2023-03-10 |
 | [Illuminate](https://open.spotify.com/track/4JpQy59PDi8Wiucp4fHSpH) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Illuminate](https://open.spotify.com/album/2yZmsxq2kSnNv6wWCYN2Fq) | 2:45 | 2021-08-06 | 2022-07-29 |
@@ -202,6 +202,8 @@
 | [lovely2\*](https://open.spotify.com/track/123954RVtblgBxIcwOLwSM) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [lovely2\*](https://open.spotify.com/album/52tKktVRWcDxiYyip1Uoug) | 2:35 | 2023-02-04 |  |
 | [LSD](https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Xan Griffin](https://open.spotify.com/artist/3wkHMiy2I0PuYIh9JNyqVk) | [LSD](https://open.spotify.com/album/2trplsWRMpKmMHd9i260Gg) | 2:18 | 2021-08-20 | 2022-07-29 |
 | [Lucid](https://open.spotify.com/track/0TVxCTwrNzKUgoKYVtwTY3) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Lucid](https://open.spotify.com/album/7xwefRWGLjwWKYTQsmfy3N) | 3:35 | 2021-10-29 | 2022-07-17 |
+| [LULLABY](https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:39 | 2023-03-10 |  |
+| [MADLY](https://open.spotify.com/track/7Eg6WudP6Qp7JzqldA2ZTH) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [JUNGLE](https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo) | 4:09 | 2023-03-10 |  |
 | [Make Me A Memory](https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Make Me A Memory](https://open.spotify.com/album/3GZEU2tfdPrz7MWFDVxSyg) | 3:12 | 2021-09-17 | 2023-03-05 |
 | [Memories](https://open.spotify.com/track/4A64jF6FhfuNduCm3VLLGZ) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Memories](https://open.spotify.com/album/5Te858VbhA2CD4zLrMYxIH) | 3:12 | 2023-02-05 |  |
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2023-02-10 |  |
@@ -288,7 +290,7 @@
 | [Something Wonderful](https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI) | 4:19 | 2021-08-06 |  |
 | [Sonder](https://open.spotify.com/track/3td8TUsU9wfF4saGDi6NI4) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [Sonder](https://open.spotify.com/album/0hyjsGgDVWPqVwAm7NfYhZ) | 5:39 | 2021-08-06 | 2022-04-21 |
 | [SORROW TECH \- Good Times Ahead Remix](https://open.spotify.com/track/3MyVIXUGQnxVTS1oScHziI) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [SORROW TECH \(Good Times Ahead Remix\)](https://open.spotify.com/album/301h6nWPcna2nHMocZQ8IP) | 4:21 | 2021-08-06 | 2022-04-18 |
-| [Spectacle](https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Spectacle](https://open.spotify.com/album/0v1ZVoPvGy2pVd2aFHBOkU) | 4:11 | 2021-12-24 |  |
+| [Spectacle](https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Spectacle](https://open.spotify.com/album/0v1ZVoPvGy2pVd2aFHBOkU) | 4:11 | 2021-12-24 | 2023-03-12 |
 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 | 2021-08-06 | 2023-02-04 |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-08-06 | 2022-07-29 |
 | [Statues](https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [PILLARS ///](https://open.spotify.com/album/1xPKjBXYPMnr3N4vhKSo63) | 3:25 | 2022-02-25 |  |

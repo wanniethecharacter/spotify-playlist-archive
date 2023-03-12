@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 45351,
+  "num_followers": 45473,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDQ4N2JlZDEyMzIxODg4NTg0YzEzNDdlMzQyNjYyZDEw",
+  "snapshot_id": "MTY3NzEwMzU1NywwMDAwMDAwMDkyMWE4NDQxYTlkMzkxYzg5M2Q3MzA2MTkxYzZlNDM4",
   "tracks": [
     {
       "added_at": "2022-12-06 14:58:14",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
-      "added_at": "2023-03-11 00:55:26",
+      "added_at": "2023-03-12 01:00:37",
       "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
-      },
-      "artists": [
-        {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
-        }
-      ],
-      "duration_ms": 192544,
-      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192544,
+      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
     },
     {
       "added_at": "2022-12-06 14:58:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-06 14:58:14",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Et dans 150 ans",
-      "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
-    },
-    {
-      "added_at": "2022-12-06 14:58:14",
-      "album": {
         "name": "Sommeil levant",
         "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
       },
@@ -637,7 +621,23 @@
       "url": "https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co"
     },
     {
-      "added_at": "2023-03-11 00:55:26",
+      "added_at": "2022-12-06 14:58:14",
+      "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Et dans 150 ans",
+      "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
+    },
+    {
+      "added_at": "2023-03-12 01:00:37",
       "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
     },
     {
-      "added_at": "2023-03-11 00:55:26",
+      "added_at": "2023-03-12 01:00:37",
       "album": {
         "name": "Br\u00fbler le Feu 2",
         "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"

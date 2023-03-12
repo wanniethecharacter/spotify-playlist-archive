@@ -4,7 +4,7 @@
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-40 songs - 3 hr 1 min
+41 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 | 2021-02-02 |  |
 | [New Jack Hustler \(Nino's Theme\)](https://open.spotify.com/track/3kPFTuTu8rBgSoglYRBRiE) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [New Jack City \(Music from the Motion Picture\)](https://open.spotify.com/album/3N1GCkG6Z5Rs4Qy1iwnIEB) | 4:43 | 2021-02-02 |  |
 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 | 2021-02-02 |  |
-| [Part Time Lover](https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:06 | 2021-02-02 |  |
+| [Part Time Lover](https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim](https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS) | 4:06 | 2021-02-02 | 2023-03-12 |
+| [Part Time Lover](https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:07 | 2021-02-02 |  |
 | [Pass The Peas](https://open.spotify.com/track/4FD1AIbChsuCiwt2mqPfWo) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 3:10 | 2021-02-02 |  |
 | [Renee](https://open.spotify.com/track/6oEatPhiu9HoijKnU4v7WJ) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Don't Be A Menace To South Central While Drinking Your Juice In The Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac) | 5:00 | 2021-02-02 |  |
 | [Shame](https://open.spotify.com/track/1apzxNzMksJZtbDBKFIsdx) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [A Low Down Dirty Shame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wsZKe08Etc5Z1vE5fHN9M) | 4:14 | 2021-02-02 |  |

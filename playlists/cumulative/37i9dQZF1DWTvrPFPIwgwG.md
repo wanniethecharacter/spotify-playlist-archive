@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kemilly Santos
 
-122 songs - 10 hr 8 min
+123 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adorarei](https://open.spotify.com/track/1IrOfZTENgD6zd7ijPl2bB) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Adorarei](https://open.spotify.com/album/1EI39CSfZIwDWQ0qjd8HUS) | 6:19 | 2022-10-08 | 2022-10-15 |
 | [Aguenta Firme](https://open.spotify.com/track/273szeex8IxWLBi7V6VJQe) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Aguenta Firme](https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr) | 4:38 | 2022-09-09 |  |
 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 | 2022-09-09 |  |
-| [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 | 2022-09-09 |  |
+| [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 | 2022-09-09 | 2023-03-12 |
 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 | 2022-09-09 | 2023-02-25 |
 | [Basta uma Palavra](https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL) | [Angélica Azevedo Oficial](https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE) | [Basta uma Palavra](https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk) | 3:59 | 2022-09-09 | 2023-02-04 |
 | [Basta uma Palavra](https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R) | [Sandra Pires](https://open.spotify.com/artist/2NHt4egawSl0pKxbF04Lhf) | [Basta uma Palavra](https://open.spotify.com/album/1GDrhQp5Q0xL0GrmNPPeCN) | 5:04 | 2022-09-09 |  |
@@ -120,6 +120,7 @@
 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 | 2022-09-09 | 2023-02-04 |
 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 | 2022-09-09 |  |
 | [Um Vencedor](https://open.spotify.com/track/6pRqkptX0mR2nenNo31ENX) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Um Vencedor](https://open.spotify.com/album/3rLP9GSQlADHlNt7dIKCOo) | 4:27 | 2022-09-09 | 2022-11-05 |
+| [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 | 2023-03-11 |  |
 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 | 2022-09-09 |  |
 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 | 2022-09-09 |  |
 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 | 2022-09-09 |  |

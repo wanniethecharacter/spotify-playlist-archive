@@ -1,29 +1,13 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1222512,
+  "num_followers": 1222799,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMDcwYWU5MDg4YzEyZTE0YzkwN2M0YWVkNTcwMDBhYTUx",
+  "snapshot_id": "MTY3NDA3NzEwNCwwMDAwMDAwMGU1NDMwYTQ2Y2E0MWEyMDFlZjRhYTczNGRiZDY5YmU3",
   "tracks": [
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Eve 6",
-        "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
-      },
-      "artists": [
-        {
-          "name": "Eve 6",
-          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220467,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Eve 6",
+        "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
+      },
+      "artists": [
+        {
+          "name": "Eve 6",
+          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
     },
     {
       "added_at": "2023-01-18 21:25:04",

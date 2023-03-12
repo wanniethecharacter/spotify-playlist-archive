@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 275076,
+  "num_followers": 275574,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMDUwZmQ0YWNmODYyMmVjMzdkZTZhYzBkMDQ5YmMyMWZm",
+  "snapshot_id": "MTY3NjAwNTIwMCwwMDAwMDAwMGYyN2QzNWZkMTU5MTg5MzExN2M3NTVjZTZlOTFlMDZk",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "El De Las Dos Pistolas",
         "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 167288,
       "name": "El De Las Dos Pistolas",
       "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Soy el Raton (En Vivo)",
-        "url": "https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW"
-      },
-      "artists": [
-        {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Soy el Rat\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 199000,
       "name": "Ladeando",
       "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Soy el Raton (En Vivo)",
+        "url": "https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Soy el Rat\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Pa Que Vayan y Digan",
-        "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 182767,
-      "name": "Pa Que Vayan y Digan",
-      "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Hierba de Receta",
         "url": "https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 193561,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Pa Que Vayan y Digan",
+        "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "Pa Que Vayan y Digan",
+      "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2091,8 +2091,8 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Niveleando Cuh",
-        "url": "https://open.spotify.com/album/3tIZ5QpL2ywQSEtoTTfPN9"
+        "name": "Delux 12",
+        "url": "https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb"
       },
       "artists": [
         {
@@ -2100,25 +2100,9 @@
           "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 252152,
-      "name": "Trokiando Sin Destino",
-      "url": "https://open.spotify.com/track/3T2lrPHEVN8b79k5N6AOuO"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Vida Rencorosa",
-        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Vida Rencorosa",
-      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
+      "duration_ms": 194673,
+      "name": "Mi Gusto, Mi Dinero",
+      "url": "https://open.spotify.com/track/6kHFsaoRFgBkudAKgOvcdQ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2171,6 +2155,54 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
+        "name": "La Suelita Roja",
+        "url": "https://open.spotify.com/album/5OWvgA1WF2DcBj0sQYQFlh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/4NoPDzvT4pNmi04UAUd4bW"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Vida Rencorosa",
+        "url": "https://open.spotify.com/album/4gNmyfqYP4Fy72OYAnbM6D"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Vida Rencorosa",
+      "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Niveleando Cuh",
+        "url": "https://open.spotify.com/album/3tIZ5QpL2ywQSEtoTTfPN9"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 252152,
+      "name": "Trokiando Sin Destino",
+      "url": "https://open.spotify.com/track/3T2lrPHEVN8b79k5N6AOuO"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
         "name": "Pueblo Querido",
         "url": "https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT"
       },
@@ -2183,22 +2215,6 @@
       "duration_ms": 153693,
       "name": "Pueblo Querido",
       "url": "https://open.spotify.com/track/6ufRv4b8t82pr1bIsA3ob5"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Delux 12",
-        "url": "https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 194673,
-      "name": "Mi Gusto, Mi Dinero",
-      "url": "https://open.spotify.com/track/6kHFsaoRFgBkudAKgOvcdQ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -2219,22 +2235,6 @@
       "duration_ms": 195750,
       "name": "El Fendi",
       "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "La Suelita Roja",
-        "url": "https://open.spotify.com/album/5OWvgA1WF2DcBj0sQYQFlh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/4NoPDzvT4pNmi04UAUd4bW"
     },
     {
       "added_at": "2023-02-10 05:00:00",

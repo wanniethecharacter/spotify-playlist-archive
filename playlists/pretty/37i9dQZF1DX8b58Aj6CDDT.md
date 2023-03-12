@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 39 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
 | 40 | [Charly García](https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Charly García](https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF) | 2:37 |
 | 41 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 |
-| 42 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
-| 43 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 42 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 43 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
 | 44 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
 | 45 | [Te Sigo Buscando](https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo) | 4:01 |
 | 46 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 |
 | 50 | [Lamentar](https://open.spotify.com/track/4VUO4tl0mGNhz2zoQ2EZd0) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Lamentar](https://open.spotify.com/album/3qqKA3lRu2PizL8UuQCD68) | 2:41 |
 
-Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMDJjMTM4NzQwN2JmMjVlMjUyNGYyMGZmYjJhYzEzMWI1`
+Snapshot ID: `MTY2OTgyMDYzMiwwMDAwMDAwMGQwYmNiNzcxMTQwOTA0YmQ0NDRiMjU5OTk3ZGFiNzRm`

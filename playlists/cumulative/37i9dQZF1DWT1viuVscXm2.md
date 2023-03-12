@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-206 songs - 12 hr 12 min
+208 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Mujer](https://open.spotify.com/track/7FZYwegaHD1mWZZGyAgESI) | [Valentin Reigada](https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Mujer](https://open.spotify.com/album/0KT87buTeJTjElmq4WHTfy) | 2:50 | 2021-12-24 | 2022-04-23 |
 | [Negra Caderona](https://open.spotify.com/track/0qSmxnzk8yAONBAiuNppJu) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Negra Caderona](https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy) | 4:08 | 2022-08-05 |  |
 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 |  |
-| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 |  |
+| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 | 2023-03-12 |
+| [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-10 |  |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 | 2022-12-03 |
 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 | 2023-03-09 |  |
@@ -211,7 +212,8 @@
 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 | 2021-12-24 |  |
 | [Yo Tomo](https://open.spotify.com/track/2J3phqO09lgu24e82siYtt) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/2rgOhgDY4o4Fy6ctcHZ69Z) | 3:24 | 2021-12-24 | 2022-07-29 |
 | [Yo Tomo](https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm) | 3:24 | 2022-07-22 |  |
-| [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2021-12-24 |  |
+| [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-03-10 |  |
+| [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2021-12-24 | 2023-03-12 |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2021-12-24 | 2022-01-12 |
 | [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 | 2022-11-18 |  |
 

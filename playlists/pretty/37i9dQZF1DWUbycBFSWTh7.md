@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,468 likes - 126 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,515 likes - 126 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 23 | [Yasuo](https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Yasuo](https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa) | 6:50 |
 | 24 | [High School](https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [High School](https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ) | 2:57 |
 | 25 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
-| 26 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 |
+| 26 | [Deep Gone Far](https://open.spotify.com/track/39BOHYjYd5ZE6m5B1O88zu) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/2DWWFGNT5xoajrRYOHC6CD) | 6:12 |
 | 27 | [Strange Movement](https://open.spotify.com/track/0Uiixt84V1yXi45RSMF7VG) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [H2O](https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2) | 4:57 |
 | 28 | [Forever Whatever](https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Trembala](https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2) | 7:50 |
 | 29 | [Together We Rise](https://open.spotify.com/track/4sHYIG3VE8ZZKnf7lC5nFT) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [First Contact](https://open.spotify.com/album/4ULoeeCtktRn9rs6nf19jo) | 4:34 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 66 | [Holos \- Edit](https://open.spotify.com/track/0bkzYVDAsHmwrbbgzu6nfh) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Holos](https://open.spotify.com/album/5qqz89AxH2yfrkc1X2Lu01) | 4:40 |
 | 67 | [Jameela](https://open.spotify.com/track/73ACKQUKfq1iz7cAgPCUim) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Jameela](https://open.spotify.com/album/0f4XzO7YPKUZtfLHj4BK4f) | 3:09 |
 | 68 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 |
-| 69 | [Intergalactic Tango \- Chambord Remix](https://open.spotify.com/track/0WXKzePDLsicpvN24XFd3C) | [VANDER](https://open.spotify.com/artist/4o5px3d86caBOIUUGfmgDB), [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv), [Mâhfoud](https://open.spotify.com/artist/2lPOIPlOen5YhEB9JQ6DmR), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Intergalactic Tango](https://open.spotify.com/album/3V2TuhZVk7nUFbynV4oKQJ) | 4:13 |
+| 69 | [Intergalactic Tango \- Chambord Remix](https://open.spotify.com/track/5YxwPJMmVYUUoX79zd9Tq1) | [VANDER](https://open.spotify.com/artist/4o5px3d86caBOIUUGfmgDB), [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv), [Mâhfoud](https://open.spotify.com/artist/2lPOIPlOen5YhEB9JQ6DmR), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Intergalactic Tango](https://open.spotify.com/album/2zCWnAfoeFWktlE3gLlxFP) | 4:13 |
 | 70 | [Lose Yourself](https://open.spotify.com/track/0MSuNP3R7SziYnf8Ve4Hdl) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Lose Yourself](https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN) | 3:10 |
 | 71 | [Testify \- Kerri Chandler's Feel Dub](https://open.spotify.com/track/6OoSUHpYGzf7fDEgzE0czB) | [Byron Stingily](https://open.spotify.com/artist/3EoFVszwsvsw0Cr7b4ncaD), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Testify \(Kerri Chandler's Unreleased Dub Mixes\)](https://open.spotify.com/album/2l2DxnCiaURMKeSjdDULE0) | 5:45 |
 | 72 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 125 | [Ave](https://open.spotify.com/track/6oDWwQrIwz0AZQAWOv787F) | [Milio](https://open.spotify.com/artist/3NoWSOGaFNLvKXxho4phMO) | [Ave](https://open.spotify.com/album/3I01ShTuRryxPPJzRW5vht) | 5:04 |
 | 126 | [Relax Yourself](https://open.spotify.com/track/4ZZbPgotZ7FGKDpOBkd2ls) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [Relax Yourself](https://open.spotify.com/album/48rzCIZ2b7pxhKrsvAz1PC) | 6:11 |
 
-Snapshot ID: `MTY3NzQ4NjUyMCwwMDAwMDAwMDkyYjkyYzQzZjA2YTM0NTI3Yjc3NWEyODU3YWViOWZj`
+Snapshot ID: `MTY3NzQ4NjUyMCwwMDAwMDAwMGE2ODZiYjJkOTA4YzhkMzgwMzBlY2I5NTgzM2RiZGQy`

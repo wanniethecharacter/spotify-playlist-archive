@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 417071,
+  "num_followers": 417234,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMDMzZTU4OWZjZTc1ZmMxOTg2NWE2YjIwN2YzNWNhMjJh",
+  "snapshot_id": "MTY3ODQwNjQwMCwwMDAwMDAwMGViOWM2OWVhNDBlMzNiMWQ3YmRiYmNiMDhlYjlmYzIz",
   "tracks": [
     {
       "added_at": "2023-03-10 00:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -591,26 +591,6 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
-        "name": "Into The Sun",
-        "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
-      },
-      "artists": [
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
-        },
-        {
-          "name": "STRNGE",
-          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
-        }
-      ],
-      "duration_ms": 287213,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -663,6 +643,26 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "STRNGE",
+          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
+        }
+      ],
+      "duration_ms": 287213,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
         "name": "14 Joints in a Spaceship",
         "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 340645,
       "name": "14 Joints in a Spaceship",
       "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 312000,
       "name": "I Gotta Cry",
       "url": "https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-10 00:00:00",
       "album": {
-        "name": "Kindzmarauli",
-        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 256695,
-      "name": "Random Places",
-      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        }
+      ],
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -915,22 +915,6 @@
       "duration_ms": 255841,
       "name": "BACK 2 BLACK",
       "url": "https://open.spotify.com/track/4JRR2dm6RN6SxoAwGnamGm"
-    },
-    {
-      "added_at": "2023-03-10 00:00:00",
-      "album": {
-        "name": "Tirana",
-        "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
-      },
-      "artists": [
-        {
-          "name": "minds&machines",
-          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
-        }
-      ],
-      "duration_ms": 249193,
-      "name": "Tirana",
-      "url": "https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t"
     },
     {
       "added_at": "2023-03-10 00:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 275131,
       "name": "Chilli Heatwave",
       "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
+    },
+    {
+      "added_at": "2023-03-10 00:00:00",
+      "album": {
+        "name": "Tirana",
+        "url": "https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3"
+      },
+      "artists": [
+        {
+          "name": "minds&machines",
+          "url": "https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ"
+        }
+      ],
+      "duration_ms": 249193,
+      "name": "Tirana",
+      "url": "https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t"
     },
     {
       "added_at": "2023-03-10 00:00:00",

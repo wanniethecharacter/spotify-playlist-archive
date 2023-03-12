@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Rufus Wainwright
 
-347 songs - 20 hr 53 min
+348 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 | 2022-12-03 |
 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/52xOiplF4RbYstcdHhWL1l) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:38 | 2023-03-10 |  |
 | [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
-| [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 | 2023-03-03 |  |
+| [just wanna forget you](https://open.spotify.com/track/1KoKAKqq7vOV0Za6ZE1lkQ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5J89BAE1jHjAsexy2sQK1F) | 4:49 | 2023-03-10 |  |
+| [just wanna forget you](https://open.spotify.com/track/1xOB6323tKOY2AEGzzWFwa) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/6dvJwQ43S7Q1avsF1wT6XA) | 4:49 | 2023-03-03 | 2023-03-12 |
 | [just wanna forget you](https://open.spotify.com/track/7mk1jSxoxjLlZkygBwvgLJ) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3GMuMRTMVX0cGnol8lRiBR) | 4:49 | 2023-02-24 | 2023-03-05 |
 | [just wanna forget you](https://open.spotify.com/track/7zZGRskmNql6RuRcmbjd1z) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/365YdFD2Mmu5Ae3rlt0YuE) | 4:49 | 2023-02-17 | 2023-03-08 |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 |  |

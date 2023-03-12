@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,847 likes - 60 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,880 likes - 60 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 3 | [Million Little Miracles \(feat\. Joe L Barnes\)](https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:45 |
 | 4 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 5 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 |
-| 6 | [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 |
+| 6 | [You Will Never Leave Me](https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 6:43 |
 | 7 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 |
 | 8 | [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 |
 | 9 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 59 | [Glory to Jesus](https://open.spotify.com/track/6xTrc6cdCG4swyK75GfOmk) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [Bishop William Murphy](https://open.spotify.com/artist/6SQCM4MqvXTzLEWovhqG6b) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 5:11 |
 | 60 | [Yeshua](https://open.spotify.com/track/37T7RYTyUFprERyvcVgKXR) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Yeshua](https://open.spotify.com/album/55bIedlvdE17Lc5xS1kliN) | 3:19 |
 
-Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMGZmOTRiOTEzYzc3MDU5ZWVlMzlhODhhZDI4NzlkZDYw`
+Snapshot ID: `MTY3Njk5MDAwMCwwMDAwMDAwMGQwYjNmOGMwNzBhODVlYTNhNzI4OWQ5YzRjZjc0ZDk0`

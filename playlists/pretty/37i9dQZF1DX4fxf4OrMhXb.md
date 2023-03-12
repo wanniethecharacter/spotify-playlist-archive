@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,345 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,441 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 36 | [GLY \- Hot Chip Remix \- Edit](https://open.spotify.com/track/1GENTgldl1ncN3MTfsEO99) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [GLY \(Hot Chip Remix\)](https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA) | 3:22 |
 | 37 | [Rush](https://open.spotify.com/track/2RVbDkUFdnZcQuqHWOgZe1) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Rush / Can't Stop Thinking About](https://open.spotify.com/album/2A7lN5fuMXlLQXlgAzuXDN) | 4:06 |
 | 38 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
-| 39 | [IHEARTPARIS](https://open.spotify.com/track/1q4RIjVsZ7lBsW3wZhranD) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Boxia](https://open.spotify.com/artist/1OU8mX7tZjCf4u3Ege0JX3) | [IHEARTPARIS](https://open.spotify.com/album/4fagOwyVkX7lSzA4Ma0snt) | 5:50 |
-| 40 | [agape](https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [agape](https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S) | 3:18 |
+| 39 | [agape](https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [agape](https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S) | 3:18 |
+| 40 | [IHEARTPARIS](https://open.spotify.com/track/1q4RIjVsZ7lBsW3wZhranD) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Boxia](https://open.spotify.com/artist/1OU8mX7tZjCf4u3Ege0JX3) | [IHEARTPARIS](https://open.spotify.com/album/4fagOwyVkX7lSzA4Ma0snt) | 5:50 |
 | 41 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
 | 42 | [Untitled IV](https://open.spotify.com/track/4ziCKpNj8dDFCi5kNrUECp) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 4:44 |
 | 43 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 |
 | 60 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
 
-Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMDZjNTFjNDY3M2I3NzY2ODBhZTlmN2FiNDNkNWNlMGFk`
+Snapshot ID: `MTY3NzE5MzI2MCwwMDAwMDAwMGQ2ZTUwNGZjOGE5NzFjNjExOTU3OGQwMmFmNWFiMzZi`

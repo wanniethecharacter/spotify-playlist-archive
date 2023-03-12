@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "JOM3A",
+        "url": "https://open.spotify.com/album/56xy5BFJX3K1mlQJQ2zWHq"
+      },
+      "artists": [
+        {
+          "name": "Chaos333",
+          "url": "https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bdaya",
+      "url": "https://open.spotify.com/track/5blyt2tipjAs66kMpbftDH"
+    },
+    {
+      "album": {
         "name": "VENOM",
         "url": "https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 259956,
       "name": "NO MERCY",
       "url": "https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw"

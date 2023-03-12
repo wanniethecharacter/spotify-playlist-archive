@@ -1,12 +1,12 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 128306,
+  "num_followers": 128496,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMDg2ZjQzYmI2NGRiZWY0YmMzZWFmYzczNWRkNDQ3NjM0",
+  "snapshot_id": "MTY2MTM4ODc3OCwwMDAwMDAwMDk3ZGNjNmExZmYwNDE2ZThiMGU2MTc4NjVhZTg4MTIx",
   "tracks": [
     {
       "added_at": "2021-02-24 17:08:59",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
+        "name": "El Equilibrio De Los Jaguares",
+        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
       },
       "artists": [
         {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
         }
       ],
-      "duration_ms": 237626,
-      "name": "Vistete",
-      "url": "https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA"
+      "duration_ms": 297200,
+      "name": "Dime Jaguar",
+      "url": "https://open.spotify.com/track/1KnhTAyAcYZ4hO9YBWAATe"
     }
   ],
   "unique_name": "Rock en tu Idioma",

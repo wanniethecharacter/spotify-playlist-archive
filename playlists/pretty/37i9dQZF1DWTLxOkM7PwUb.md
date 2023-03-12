@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,752 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,856 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 70 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
 | 71 | [Sexy \(feat\. KHEA & Duki\)](https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. KHEA & Duki\)](https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC) | 4:14 |
 | 72 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
-| 73 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 |
-| 74 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
+| 73 | [Mi Llamada \(Remix\)](https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Mi Llamada \(Remix\)](https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA) | 6:54 |
+| 74 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 |
 | 75 | [C14TORCE III](https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE III](https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e) | 2:23 |
 | 76 | [Digame Usted](https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Digame Usted](https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF) | 2:21 |
 | 77 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
 | 100 | [Ke Sientes](https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Ke Sientes](https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX) | 3:27 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDU4ZWZmOWZjMjIwZDY0ODhmMWM0ZGU0NmViMGMxYTA0`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDExMjg3NzI2OTZkZjYwNTFmNTVlZGNkMDViYzhjNDVj`

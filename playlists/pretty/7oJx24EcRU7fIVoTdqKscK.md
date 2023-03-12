@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-[nyphospital](https://open.spotify.com/user/nyphospital) - 138,530 likes - 57 songs - 3 hr 32 min
+[nyphospital](https://open.spotify.com/user/nyphospital) - 138,544 likes - 57 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 | 26 | [What's Going On](https://open.spotify.com/track/71HpoDarWEZLMIeUFhQY34) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Complete Collection](https://open.spotify.com/album/3pGwB7ejI259aveugz3f7n) | 3:53 |
 | 27 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 28 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/5ybUdN3DmQL8T3eqg4XjmQ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:33 |
-| 29 | [Body Movin' \- Fatboy Slim Remix/Remastered 2009](https://open.spotify.com/track/3ZQqzOCuHqJQqqEH8KB282) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Hello Nasty \(Deluxe Version/Remastered 2009\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 5:32 |
+| 29 | [Body Movin' \- Fatboy Slim Remix/Remastered 2009](https://open.spotify.com/track/3ZQqzOCuHqJQqqEH8KB282) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Hello Nasty \(Deluxe Version/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 5:32 |
 | 30 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 |
 | 31 | [Dancing Queen](https://open.spotify.com/track/2ATDkfqprlNNe9mYWodgdc) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR) | 3:51 |
 | 32 | [Heart and Soul](https://open.spotify.com/track/7HW7ZM5qAWhwf7SgwP9kJ1) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [80's Super Hits](https://open.spotify.com/album/4PbG9Ygfp3vDNhe9yKH1DN) | 4:14 |

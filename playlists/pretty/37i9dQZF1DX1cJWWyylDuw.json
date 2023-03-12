@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Chelsea Grin",
-  "num_followers": 93224,
+  "num_followers": 93601,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDMxYzBhYTM2MjUyNjU0YzlmZTFjYzcxZGExZjhlNThi",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMGZhYTcwNzU3NWZhOWQyODU5NThmYjZiMTYyNGY3ZWUz",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Sea of Tragic Beasts",
+        "url": "https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 264652,
+      "name": "The Sea of Tragic Beasts",
+      "url": "https://open.spotify.com/track/79yvAWlqVukArNOxtyyKCI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Recreant",
         "url": "https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 268871,
       "name": "Recreant",
       "url": "https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Sea of Tragic Beasts",
-        "url": "https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 264652,
-      "name": "The Sea of Tragic Beasts",
-      "url": "https://open.spotify.com/track/79yvAWlqVukArNOxtyyKCI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Human Target",
+        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 181097,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "GRAVESIDE CONFESSIONS",
         "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 231493,
       "name": "In Dying Days",
       "url": "https://open.spotify.com/track/19Xnb13zRC2leMWlT6lHhV"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Human Target",
-        "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "New Gods",
-      "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -875,8 +875,8 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "This Heavy Void",
-        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
+        "name": "Dead Rabbit",
+        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
         }
       ],
-      "duration_ms": 232634,
-      "name": "Black of My Eyes",
-      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
+      "duration_ms": 191023,
+      "name": "Dead Rabbit",
+      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -971,8 +971,8 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dead Rabbit",
-        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
+        "name": "This Heavy Void",
+        "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
         }
       ],
-      "duration_ms": 191023,
-      "name": "Dead Rabbit",
-      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
+      "duration_ms": 232634,
+      "name": "Black of My Eyes",
+      "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+        "name": "Behind the Hand of God",
+        "url": "https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp"
       },
       "artists": [
         {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
         }
       ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+      "duration_ms": 200307,
+      "name": "Behind the Hand of God",
+      "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Behind the Hand of God",
-        "url": "https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp"
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
         }
       ],
-      "duration_ms": 200307,
-      "name": "Behind the Hand of God",
-      "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Psalm of Agony",
-        "url": "https://open.spotify.com/album/4T9StwfDCVyX6C9B0XYQqe"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 412160,
-      "name": "Psalm of Agony",
-      "url": "https://open.spotify.com/track/5uQadwUb80JnombUNJ3aJ1"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Fear Tomorrow",
         "url": "https://open.spotify.com/album/5Zp2KRLuMqZiUbq04wpDD8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 269381,
       "name": "Fear Tomorrow",
       "url": "https://open.spotify.com/track/113EVghey6uEB0wyplsY5F"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Psalm of Agony",
+        "url": "https://open.spotify.com/album/4T9StwfDCVyX6C9B0XYQqe"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "duration_ms": 412160,
+      "name": "Psalm of Agony",
+      "url": "https://open.spotify.com/track/5uQadwUb80JnombUNJ3aJ1"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Orphan Of Blight",
-        "url": "https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Orphan Of Blight",
-      "url": "https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Caved In",
         "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 178279,
       "name": "Caved In",
       "url": "https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Orphan Of Blight",
+        "url": "https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Orphan Of Blight",
+      "url": "https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Drone Corpse Aviator",
         "url": "https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 226146,
       "name": "Drone Corpse Aviator",
       "url": "https://open.spotify.com/track/0dV79XvxIl9godBsFty67L"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Gypsy Disco",
         "url": "https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 121864,
       "name": "Gypsy Disco",
       "url": "https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 228304,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Bleed the Future",
         "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 228186,
       "name": "Bleed the Future",
       "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 228304,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Empyrean",
-        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
+        "name": "A Hill to Die Upon",
+        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
       "artists": [
         {
-          "name": "Fallujah",
-          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Mindless Omnipotent Master",
-      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
+      "duration_ms": 229000,
+      "name": "King Ov Fire",
+      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1915,18 +1915,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "A Hill to Die Upon",
-        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
+        "name": "Empyrean",
+        "url": "https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb"
       },
       "artists": [
         {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+          "name": "Fallujah",
+          "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 229000,
-      "name": "King Ov Fire",
-      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+      "duration_ms": 278600,
+      "name": "Mindless Omnipotent Master",
+      "url": "https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "World War X",
+        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 268331,
+      "name": "World War X",
+      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1947,22 +1963,6 @@
       "duration_ms": 207000,
       "name": "Fixated",
       "url": "https://open.spotify.com/track/78joxQg417lVT1oCIt1McL"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World War X",
-        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 268331,
-      "name": "World War X",
-      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 238318,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Hell Will Come for Us All",
         "url": "https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 210840,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/3ZULFLjv3iyEZCgOzmmKHp"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 238318,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy"
     }
   ],
   "unique_name": "Deathcore",

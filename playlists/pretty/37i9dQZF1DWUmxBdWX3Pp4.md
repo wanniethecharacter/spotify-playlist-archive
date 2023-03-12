@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Young Miko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,480 likes - 105 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,018 likes - 105 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

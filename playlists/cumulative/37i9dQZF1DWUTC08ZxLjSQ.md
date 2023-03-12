@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [103](https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [103](https://open.spotify.com/album/0UmHC2jX7B5oIb64bDkPh0) | 1:46 | 2023-01-17 |  |
-| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
+| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
 | [7doude](https://open.spotify.com/track/1neLWhWm0gw1pHjb0qdkZh) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [7doude](https://open.spotify.com/album/2qJw5ynTpaVIFfICGu1fId) | 3:00 | 2022-11-23 | 2023-01-18 |
 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 | 2022-09-20 | 2022-11-09 |
 | [All On You](https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [All On You](https://open.spotify.com/album/4x1NJpdoUhSKs1yXag2zXy) | 3:07 | 2022-09-20 | 2022-10-05 |

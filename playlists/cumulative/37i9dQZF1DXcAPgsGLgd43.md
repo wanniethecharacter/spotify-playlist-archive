@@ -4,13 +4,14 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-68 songs - 4 hr 3 min
+69 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 to Go](https://open.spotify.com/track/0cfqqNzKftMco4vjzkKMNo) | [Francesco V](https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q) | [2 to Go](https://open.spotify.com/album/0G5PVLMF8r8MidflHkemq7) | 5:17 | 2021-10-08 | 2022-07-28 |
 | [Africa \- Radio Edit](https://open.spotify.com/track/5pwPniwRlGObeCpl0ivxwT) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Christian Cheval](https://open.spotify.com/artist/0s7uxedaGedYmr74DC6qhg) | [Africa](https://open.spotify.com/album/7pfgoZbBtdgq4QRWUt30IM) | 2:58 | 2021-10-08 | 2022-07-23 |
 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 | 2021-10-08 |  |
+| [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 | 2021-10-08 |  |
 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 | 2021-10-08 | 2023-02-26 |
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-10-08 |  |
 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 | 2021-10-08 |  |
@@ -30,7 +31,7 @@
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 |  |
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-15 |  |
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-05-01 |  |
-| [Felicidad \- Colombian Mix](https://open.spotify.com/track/179w55cexITAFHwisxwRaE) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Felicidad \(Colombian Mix\)](https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF) | 5:55 | 2021-10-08 |  |
+| [Felicidad \- Colombian Mix](https://open.spotify.com/track/179w55cexITAFHwisxwRaE) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Felicidad \(Colombian Mix\)](https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF) | 5:55 | 2021-10-08 | 2023-03-12 |
 | [Felicidad \- Colombian Mix](https://open.spotify.com/track/3b03vx1pp3mF4VXISZKqgc) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Felicidad](https://open.spotify.com/album/7LBZ3DsoUmKG5rxyO2ttZs) | 5:55 | 2021-10-08 | 2022-07-29 |
 | [Frisky In Fortaleza](https://open.spotify.com/track/6ImDe3MEJdeLRgw4hwqwYh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Frisky In Fortaleza EP](https://open.spotify.com/album/3IO6R1UgxXAWK3lUuwGkof) | 3:37 | 2021-10-08 | 2022-07-29 |
 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 | 2021-10-08 |  |

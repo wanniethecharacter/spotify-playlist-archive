@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Mc Taya
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,645 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,690 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 42 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 | 43 | [Di Cantin](https://open.spotify.com/track/356CwzCo3A8DAePdSEA4u6) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [Manel Beats](https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j) | [VÊNUS 95](https://open.spotify.com/album/72ONRFXSWFtgf5QzZbKeuq) | 3:33 |
 | 44 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
-| 45 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
-| 46 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:24 |
+| 45 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:24 |
+| 46 | [A Cuca](https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [A Cuca](https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK) | 3:18 |
 | 47 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 48 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
 | 49 | [Neurose](https://open.spotify.com/track/30H19lwk43YYwrzpgKK9xz) | [Mika Mc](https://open.spotify.com/artist/7Dtyvrw9EwQcMgHuBaOZJn), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Neurose](https://open.spotify.com/album/1eq2mPYo4Pozh1a4sILQxg) | 2:34 |
 | 50 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMDlkMTc4OTNmMDU2ZDkxZWVhMjFiZDI0OTBjZDY2ZjY4`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGE3ODhjNDJhMDc3MTIxZDVkMDc1NDA1MzQ4YTlmNDZh`

@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 668337,
+  "num_followers": 668550,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDdiYzU4MWFhYTdmZDZjYmFmMjQwODUwMzUwNWY1Yzdi",
+  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDJhZGExMWEyMDFlY2I4NzdiMmIxYzcwZGE4YjAzN2U1",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "See See Rider",
-        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 150426,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Be What You Are (Reissue)",
         "url": "https://open.spotify.com/album/2p7fRyRo0bvJtmAE8O8Lk7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 267173,
       "name": "If You're Ready (Come Go With Me)",
       "url": "https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "See See Rider",
+        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 150426,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
       "added_at": "2021-04-29 10:16:48",

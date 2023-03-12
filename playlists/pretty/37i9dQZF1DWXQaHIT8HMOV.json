@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1367,
+  "num_followers": 1368,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMGQyYjNlYjFlOGVhZmU1YzNmZTBhNjI2NWMyMTFiMmIy",
+  "snapshot_id": "MTY3NzgyODMxNSwwMDAwMDAwMDIwNGI2NjA5ODdmNzg0ZWYxYjg0YTE0YTFlMDU1MGZl",
   "tracks": [
     {
       "added_at": "2023-01-20 05:07:11",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
-      "added_at": "2023-03-11 00:42:51",
+      "added_at": "2023-03-12 01:07:43",
       "album": {
         "name": "Tok Tok",
         "url": "https://open.spotify.com/album/3bRLDOq4DgCY27Lc6r3kFh"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK"
     },
     {
-      "added_at": "2023-03-11 00:42:51",
+      "added_at": "2023-03-12 01:07:43",
       "album": {
         "name": "Glory To The King",
         "url": "https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2"
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
       "added_at": "2022-12-16 11:22:34",
       "album": {
         "name": "Don't Stopp",
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Kikole",
         "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 209361,
       "name": "Kikole",
       "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
-    },
-    {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "Zinge",
-        "url": "https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo"
-      },
-      "artists": [
-        {
-          "name": "Play01",
-          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
-        },
-        {
-          "name": "Adrenalyn Muzik",
-          "url": "https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Zinge",
-      "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -671,6 +651,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
@@ -691,22 +687,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 201822,
       "name": "Low",
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Zinge",
+        "url": "https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo"
+      },
+      "artists": [
+        {
+          "name": "Play01",
+          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
+        },
+        {
+          "name": "Adrenalyn Muzik",
+          "url": "https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Zinge",
+      "url": "https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 210000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2022-11-10 20:59:00",

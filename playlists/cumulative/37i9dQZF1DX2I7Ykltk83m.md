@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-329 songs - 19 hr 55 min
+330 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Stop Speaking](https://open.spotify.com/track/6GVVo5kj1eCZHmwnSXoZYA) | [jennylee](https://open.spotify.com/artist/0YJbZA7Ci73cEk1Ylcukgt), [Dave Gahan](https://open.spotify.com/artist/7hKXTmrq3ZppBx881yBbOr) | [Stop Speaking / In Awe Of](https://open.spotify.com/album/0gxmomjwcF5Idl68FdikJk) | 3:42 | 2022-04-01 | 2022-04-16 |
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2021-11-14 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2021-11-14 | 2022-07-29 |
-| [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-05-20 |  |
+| [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-05-20 | 2023-03-12 |
 | [sunstruck](https://open.spotify.com/track/74ofPe4D7s8ajM7A7haPYE) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [sunstruck](https://open.spotify.com/album/3Ngb3n0RgkVD6Uo6pIvU9c) | 5:01 | 2022-04-15 | 2022-07-29 |
 | [Sure](https://open.spotify.com/track/38jmyQQhIpC6SP0zRF5WCu) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/6Wzwhd5VTklhTkqQPooIla) | 4:09 | 2022-05-20 | 2022-10-08 |
 | [Sure](https://open.spotify.com/track/6gE07whLj5Zis7MnL2Q4nm) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sure](https://open.spotify.com/album/4YDaXqdjZQMJQ0RIBEGlcg) | 4:09 | 2021-11-14 | 2022-07-28 |
@@ -285,6 +285,7 @@
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-07 |  |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-04-01 |  |
 | [Tears Are Falling](https://open.spotify.com/track/3JAu0EQd84Mhu8RMLuwhsf) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn) | 2:44 | 2022-04-15 | 2022-06-29 |
+| [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 | 2023-03-10 |  |
 | [That's Life Honey](https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [That's Life Honey](https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1) | 3:02 | 2021-11-14 | 2022-07-29 |
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-05-20 | 2023-03-08 |
 | [The Bus Song](https://open.spotify.com/track/2dH6JDf5L4kQnDAtxBNeio) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Everybody Works](https://open.spotify.com/album/1ZMtgC7o6TGbzwkv5SpThU) | 3:36 | 2022-04-01 | 2022-05-19 |

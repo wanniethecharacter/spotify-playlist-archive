@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS?si=lbOt\-CVZT82\-\-\_qr7nn\_gA">Loatinover Pounds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,232 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,316 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 13 | [Dangerous](https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 3:43 |
 | 14 | [Sondela \(feat\. Yumbs, Raspy, Blxckie, Riky Rick & Tshego\)](https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD) | [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Sondela \(feat\. Yumbs, Raspy, Blxckie, Riky Rick & Tshego\)](https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA) | 4:06 |
 | 15 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
-| 16 | [Window \(feat\. Moniqué Lawz\)](https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Moniqué Lawz](https://open.spotify.com/artist/5b71oYiMStAi1tQjY008ab) | [Window \(feat\. Moniqué Lawz\)](https://open.spotify.com/album/55DjT38wAN05lrLYXhozkV) | 1:38 |
+| 16 | [Window \(feat\. Moniqué Lawz\)](https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Window \(feat\. Moniqué Lawz\)](https://open.spotify.com/album/55DjT38wAN05lrLYXhozkV) | 1:38 |
 | 17 | [Real Niggas Only](https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd) | [Pièce De Résistance](https://open.spotify.com/album/7t0p4OruJQr1txqiPC55jj) | 2:07 |
 | 18 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 |
 | 19 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 |

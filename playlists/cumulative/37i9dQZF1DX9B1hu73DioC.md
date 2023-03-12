@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-597 songs - 1 day 12 hr 15 min
+598 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [For Goodness Sake](https://open.spotify.com/track/1ZzAja0kcAqJEXLZzVbPms) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [For Goodness Sake](https://open.spotify.com/album/5Jzk8JkbvxrTu6r5T6kKAu) | 3:07 | 2022-03-07 | 2022-04-10 |
 | [Foreign Fields](https://open.spotify.com/track/7e2lRhdJQ6vH4EwOrIMb4g) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Foreign Fields](https://open.spotify.com/album/4cL398EQIoZAKrTsNu3kSM) | 3:41 | 2020-10-16 | 2022-04-20 |
 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 | 2021-06-04 | 2022-04-19 |
-| [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-07 |  |
+| [FORTUNE COOKIE](https://open.spotify.com/track/15AlAaDJfXPfxvbuVzgFYV) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:29 | 2022-10-07 | 2023-03-12 |
 | [FORTUNE COOKIE](https://open.spotify.com/track/6RUqhV256iewIJuq622HVy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [FORTUNE COOKIE](https://open.spotify.com/album/69RYXrW4jEdIy6qFmLyTgj) | 2:29 | 2022-10-07 | 2022-10-16 |
 | [Four Walls](https://open.spotify.com/track/1IcEofBOoS01ouUsqdn8ke) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:28 | 2021-05-03 | 2022-04-18 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2020-10-05\* | 2022-09-30 |
@@ -270,6 +270,7 @@
 | [I Can't Speak](https://open.spotify.com/track/2DX5gNbz6dPpv9UJpFgHRh) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Weirdo Shrine](https://open.spotify.com/album/6q4OSe8nsfQ6eHYETx7yis) | 3:03 | 2020-10-05\* | 2022-04-17 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-05\* | 2022-11-11 |
 | [I Dreamt We Spoke Again](https://open.spotify.com/track/0AHOqF7FKuOR7rSUIMQkWr) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Dreamt We Spoke Again](https://open.spotify.com/album/3NggszD6AO6baGJUz131Nr) | 3:04 | 2020-10-05\* | 2021-05-24 |
+| [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 | 2023-03-12 |  |
 | [I Hope to Be Around \(Live\)](https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn) | 3:46 | 2022-09-15 | 2022-10-29 |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 | 2021-06-04 |  |
 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 | 2021-03-15 |  |

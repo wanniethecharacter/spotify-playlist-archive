@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 108216,
+  "num_followers": 108717,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMGM2ZmVmODBhNmEyYzg5Y2Y3ZjQ4YzAwN2JkNWNjZjJi",
+  "snapshot_id": "MTY3NzU1ODc4NSwwMDAwMDAwMDlkM2QzOGFjYjQ1NWI1MWJiMzljYTA4MzBmZTM1MDAy",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
-      "added_at": "2023-03-11 00:55:03",
+      "added_at": "2023-03-12 01:01:34",
       "album": {
         "name": "Crux Australis",
         "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
     },
     {
-      "added_at": "2023-03-11 00:55:03",
+      "added_at": "2023-03-12 01:01:34",
       "album": {
         "name": "Big Night",
         "url": "https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
     },
     {
-      "added_at": "2023-03-11 00:55:03",
+      "added_at": "2023-03-12 01:01:34",
       "album": {
         "name": "Regresar (Vibes4YourSoul Remix)",
         "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
@@ -413,24 +413,20 @@
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-08-02 22:05:40",
       "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 170158,
-      "name": "SALTA",
-      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+      "duration_ms": 216163,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -457,40 +453,24 @@
       "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
     },
     {
-      "added_at": "2022-08-02 22:05:40",
-      "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/4wTAcLALGFyUt5Ck34lga3"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 216163,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/48lZeIvSLUaeJewLX1KGwF"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+      "duration_ms": 170158,
+      "name": "SALTA",
+      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
     },
     {
       "added_at": "2022-09-30 04:03:44",
@@ -511,22 +491,38 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2022-09-29 01:47:59",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
+      "added_at": "2022-07-01 02:43:42",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "On te l'avait dit",
@@ -659,22 +675,6 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-08-03 03:35:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/0BOOqxJh6ioHQ1caqztRcQ"
     },
     {
-      "added_at": "2023-01-02 21:43:35",
-      "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Paloma + Remixes",
@@ -1035,6 +1019,22 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
+    },
+    {
+      "added_at": "2023-01-02 21:43:35",
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Carnavalera",
-        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 227984,
-      "name": "Carnavalera",
-      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Ch'usay Remixes",
         "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Carnavalera",
+        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 227984,
+      "name": "Carnavalera",
+      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Tropical Gypsy",
+        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 181926,
+      "name": "Tropical Gypsy",
+      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/5GgPj1eGdTFiZefQYEPqOi"
       },
@@ -1219,34 +1235,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Tropical Gypsy",
-        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Tropical Gypsy",
-      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
-      },
-      "artists": [
-        {
-          "name": "Mente Org\u00e1nica",
-          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
-        }
-      ],
-      "duration_ms": 310401,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1267,34 +1267,42 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/0nt8pOx5bT4aU24zQ5RW9v"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Mente Org\u00e1nica",
+          "url": "https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT"
         }
       ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+      "duration_ms": 310401,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/2lkrvCh5EArrBxSagwHRX1"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-11-03 18:27:44",
       "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+        "name": "Mientras Tanto",
+        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
         }
       ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+      "duration_ms": 135000,
+      "name": "Mientras Tanto",
+      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
     }
   ],
   "unique_name": "Tulum Vibes",

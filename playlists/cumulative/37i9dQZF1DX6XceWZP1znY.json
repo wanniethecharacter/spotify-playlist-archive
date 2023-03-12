@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 210968,
       "name": "3\u520629\u79d2",
       "url": "https://open.spotify.com/track/04rQMy0kPLdMyIeK5oyg1g"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 215572,
       "name": "Heaven\u2019s falling down",
       "url": "https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH"
@@ -2807,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
+    },
+    {
+      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 235013,
       "name": "I Wanna Be...",
       "url": "https://open.spotify.com/track/4Dygh4Ef0TFQQOvKbLGbXf"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "Iden Teitei Meltdown",
       "url": "https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 226240,
       "name": "Judgement",
       "url": "https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 242027,
       "name": "Love is Show",
       "url": "https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88"
@@ -4676,6 +4694,24 @@
       "duration_ms": 256720,
       "name": "Papersky",
       "url": "https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ItabiqjFEYWwMFL1jBfve"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
     },
     {
       "album": {
@@ -6436,7 +6472,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 236346,
       "name": "TRUE STORY",
       "url": "https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W"
@@ -6502,6 +6538,24 @@
       "duration_ms": 183531,
       "name": "U - English Version",
       "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
+    },
+    {
+      "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121692,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
     },
     {
       "album": {
@@ -7258,7 +7312,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 176915,
       "name": "\u304f\u3089\u3048!\u30c6\u30ec\u30d1\u30b7\u30fc",
       "url": "https://open.spotify.com/track/7Jj6eiasbU7LVPXqZKBaNf"
@@ -7866,7 +7920,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
@@ -7974,7 +8028,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 245853,
       "name": "\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3",
       "url": "https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70"
@@ -8028,7 +8082,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 209466,
       "name": "\u30a8\u30bd\u30a2",
       "url": "https://open.spotify.com/track/6JIIzfPFXofQvU7h4OQqWy"
@@ -10698,7 +10752,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 213000,
       "name": "\u5bbf\u7e01",
       "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
@@ -11950,7 +12004,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"

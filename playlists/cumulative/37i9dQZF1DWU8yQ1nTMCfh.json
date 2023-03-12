@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Cuenta conmigo",
+        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166717,
+      "name": "Cuenta conmigo",
+      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
+    },
+    {
+      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/3jcbZuDgzNIyoFllQhpmIU"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 188431,
       "name": "Lo Que Nadie Supo Dar",
       "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
@@ -1688,6 +1706,32 @@
       "duration_ms": 244230,
       "name": "MARTIRIO",
       "url": "https://open.spotify.com/track/2W0IAUsjR26coSOvppEpKx"
+    },
+    {
+      "album": {
+        "name": "mejores amigos",
+        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173259,
+      "name": "mejores amigos",
+      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
       "album": {
@@ -2850,7 +2894,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 190146,
       "name": "Traidora",
       "url": "https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH"

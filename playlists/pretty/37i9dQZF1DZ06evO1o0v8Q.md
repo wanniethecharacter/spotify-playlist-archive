@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 34 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,655 likes - 34 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o0v8Q.md) - [plain]
 | 27 | [Yes I Need My Generator](https://open.spotify.com/track/4vFicRRBJFCC5UofT5sWAT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Mall Grab](https://open.spotify.com/artist/6zOjgckldodS8u8cZoY3cc) | [Share A View](https://open.spotify.com/album/5pxz1toBQ4J9WIkaXHJprU) | 5:08 |
 | 28 | [Move Thru Me](https://open.spotify.com/track/5U0GKdcQ6vhHndCkoRbP1c) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/4yv0f6J21URHCBZ0owXEPl) | 2:18 |
 | 29 | [Pushing Me Away](https://open.spotify.com/track/2lko49bKOuj6hsh7byOXIz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:12 |
-| 30 | [Death Grip](https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:10 |
+| 30 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 |
 | 31 | [Fuck Me Blind](https://open.spotify.com/track/1jZKqbGJL62N2SeUyx2RYm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/4yv0f6J21URHCBZ0owXEPl) | 2:22 |
-| 32 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 |
+| 32 | [Death Grip](https://open.spotify.com/track/6BNPwD7KTEHu31hles8CyD) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:10 |
 | 33 | [Heavy Hand](https://open.spotify.com/track/5crhehni76VWBAk1h5KRtE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:55 |
 | 34 | [Pressure to Succeed](https://open.spotify.com/track/6lgwU51adM1hZwgFWLF2nh) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:13 |
 
-Snapshot ID: `Mjc5NzQyMDIsMDAwMDAwMDA5ZTM4MzZmNTE1NjhjNzVhYTA3YjEzZWJjMjNjOGU5Mg==`
+Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDAwYWY2YTQ0YmRhNDg3NjYwZWJjMWZkYjhhNGVmYzlkMA==`

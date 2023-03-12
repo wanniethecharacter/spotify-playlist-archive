@@ -4,7 +4,7 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-78 songs - 5 hr 15 min
+79 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 | 2021-10-31 |  |
 | [Yahweh Elyon](https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN) | 3:14 | 2021-10-31 | 2022-12-22 |
 | [Yahweh Elyon](https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/2dHsxvO9y5w2sVJezQd1Qu) | 3:14 | 2021-10-31 |  |
-| [You Didn't Break It](https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [You Didn't Break It](https://open.spotify.com/album/59ZgNeHrx3KxmMZHQjnGiG) | 4:52 | 2021-10-31 |  |
+| [You Didn't Break It](https://open.spotify.com/track/2Ycuoq1f8APFihfIK7qTzu) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 4:52 | 2023-02-07 |  |
+| [You Didn't Break It](https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [You Didn't Break It](https://open.spotify.com/album/59ZgNeHrx3KxmMZHQjnGiG) | 4:52 | 2021-10-31 | 2023-03-12 |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

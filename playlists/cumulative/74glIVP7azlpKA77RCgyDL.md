@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Castle Rat
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Employed to Serve
 
-347 songs - 22 hr 14 min
+353 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 |  |
+| [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 | 2023-03-10 |  |
 | [Dagger Dragger](https://open.spotify.com/track/3I0iaBY4eNmJJlCgu86ppw) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Dagger Dragger](https://open.spotify.com/album/6qHj91jBNyU856zUf8O6yb) | 4:00 | 2023-03-03 |  |
 | [Damnation](https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd) | [Raw Breed](https://open.spotify.com/artist/6QEopd1XsizMiGKMMqRRFn) | [Damnation](https://open.spotify.com/album/2z0KrMrHcKDNT48ae7aGrn) | 1:41 | 2022-09-02 |  |
 | [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-10-28 |  |
@@ -128,6 +129,7 @@
 | [fourthh.love](https://open.spotify.com/track/069TWN782MDQjfc4k3JdgF) | [Weeping Wound](https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn) | [fourthh.love](https://open.spotify.com/album/5Rc9t2bIIWY7XfQczIhlAd) | 3:42 | 2022-08-12 |  |
 | [FRESH BONES](https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [FRESH BONES](https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW) | 2:28 | 2023-02-17 |  |
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 |  |
+| [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-10 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
@@ -165,6 +167,7 @@
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 |  |
+| [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 |  |
 | [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 |  |
@@ -246,6 +249,7 @@
 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 | 2022-07-22 |  |
 | [Reign of Terror](https://open.spotify.com/track/12RtrL5GqsYvtTQhlNzxMN) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Reign of Terror](https://open.spotify.com/album/2V8KRphUa4Vp18I5IviUGi) | 3:46 | 2022-05-27 |  |
 | [Relic of Damnation](https://open.spotify.com/track/3RH9ZlJDOphL9ZAZUS9t36) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Relic of Damnation](https://open.spotify.com/album/17Z9CfhKDSBBUdoPE6EvgC) | 2:27 | 2022-10-28 |  |
+| [Resurrection II](https://open.spotify.com/track/4vLJYJjWCRAsfpvl31AYTa) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Resurrection II](https://open.spotify.com/album/7HVjB5TNxYYKv7CTQfcZMY) | 3:02 | 2023-03-10 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 |  |
 | [Rot & Decay](https://open.spotify.com/track/2dwYVykmRQsVfJbRZvGGjb) | [Dead To Fall](https://open.spotify.com/artist/4fJhgb2uzeQZUtUUVqQLX3) | [Rot & Decay](https://open.spotify.com/album/34hAGVDT8f5qM9FjLyHNPz) | 3:22 | 2022-09-16 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 |  |
@@ -276,6 +280,7 @@
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 |  |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 |  |
+| [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 | 2023-03-10 |  |
 | [Talk For Hours](https://open.spotify.com/track/7tpm14q61uGlBLqOS0WaOL) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Talk For Hours](https://open.spotify.com/album/3wivAGbT1Wrtg1G7jGm23W) | 4:59 | 2022-04-15 |  |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 |  |
 | [tear gas](https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L) | 4:17 | 2022-07-15 |  |
@@ -324,6 +329,7 @@
 | [Victoria](https://open.spotify.com/track/092s2mBt9gxSKCPjT2CWNz) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Victoria](https://open.spotify.com/album/0UPo0E0JG2cSsce1ehoSpI) | 3:58 | 2022-09-09 |  |
 | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/track/1soD4IaI1iibVmQXwbyY7R) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Violence No Matter What \(Duet with Lzzy Hale\)](https://open.spotify.com/album/3fqekMyypWqmySaVMdToi6) | 3:54 | 2023-01-27 |  |
 | [Violent Compulsion for Conquest](https://open.spotify.com/track/1OB49XpJ0oTfGqTJFEBzjo) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Violent Compulsion for Conquest](https://open.spotify.com/album/4NpkaZpM336JMTwG8rNDI5) | 4:32 | 2022-10-07 |  |
+| [Visions In The Mist](https://open.spotify.com/track/4cPJ4tDwsjUOfBaLgiRftu) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 3:00 | 2023-03-10 |  |
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 |  |
 | [Void of Light](https://open.spotify.com/track/5Q4d2drbLswy6d35s9a0Mn) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Void of Light](https://open.spotify.com/album/45lXSwxmeq0AHX5NL9pevv) | 4:44 | 2022-08-19 |  |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |

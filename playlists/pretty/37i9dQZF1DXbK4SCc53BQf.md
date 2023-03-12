@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,404 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,442 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 23 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
 | 24 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 25 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 |
-| 26 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
-| 27 | [Batugozo](https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH) | 3:55 |
+| 26 | [Batugozo](https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH) | 3:55 |
+| 27 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
 | 28 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
 | 29 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
-| 30 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
-| 31 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 30 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 31 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |
 | 32 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 |
 | 33 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
 | 34 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 36 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
 | 37 | [Autor](https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:57 |
 | 38 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
-| 39 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
-| 40 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
-| 41 | [Tu Voz Hablar](https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [Tu Voz Hablar](https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN) | 3:56 |
+| 39 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
+| 40 | [Tu Voz Hablar](https://open.spotify.com/track/4ehRzyVzgGAVbHcK8x6JyM) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [Tu Voz Hablar](https://open.spotify.com/album/1OxNn74h25cDuGuHkREQzN) | 3:56 |
+| 41 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 42 | [Tu Amor](https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Melissa Hermosillo](https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP) | [Tu Amor](https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90) | 3:12 |
 | 43 | [Yo Te Adoro](https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:17 |
 | 44 | [Va Cae](https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Ritmo Del Cielo](https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA) | [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [Conteo Regresivo](https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg) | 3:49 |
 | 50 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 
-Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMDg4OTk3OGM0MTYwYjdlYjM4Y2JiYWJmZDM1ODZiMmI5`
+Snapshot ID: `MTYwNjIyNDIzNSwwMDAwMDAwMGJmZTBlZjBmMzg2MDdhOTViYzE0OGRjOWYyZTZiM2My`

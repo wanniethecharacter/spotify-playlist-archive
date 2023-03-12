@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 217734,
       "name": "Catch Your Breath",
       "url": "https://open.spotify.com/track/1UDxGTXSwv5lDvOQIAfse4"
@@ -1362,6 +1362,24 @@
       "duration_ms": 417375,
       "name": "Circulate (Together)",
       "url": "https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I"
+    },
+    {
+      "album": {
+        "name": "City Boy",
+        "url": "https://open.spotify.com/album/5xWuavh9nDjdOYbcXfCAz2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222992,
+      "name": "City Boy",
+      "url": "https://open.spotify.com/track/44bA4pNIp4Qbewb4u4GcCO"
     },
     {
       "album": {
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Speicher 128",
+        "url": "https://open.spotify.com/album/0UX8KlGK0N9Ox8GMdG6H3r"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330188,
+      "name": "Environ",
+      "url": "https://open.spotify.com/track/4KZbPvwW0OoWvGatXXnLM9"
+    },
+    {
+      "album": {
         "name": "Eternal September",
         "url": "https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs"
       },
@@ -2796,6 +2832,24 @@
       "duration_ms": 449320,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/07K4JzMfVOsHvPW9PZ9lYM"
+    },
+    {
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "album": {
@@ -4012,6 +4066,28 @@
       "duration_ms": 238829,
       "name": "Kammy (like i do)",
       "url": "https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c"
+    },
+    {
+      "album": {
+        "name": "KEEP ME IN YOUR MIND (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389575,
+      "name": "KEEP ME IN YOUR MIND - Einmusik Remix",
+      "url": "https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy"
     },
     {
       "album": {
@@ -6948,7 +7024,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 274891,
       "name": "Soul Seekers - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/0OaPgWQe0OrOamArbbAga9"
@@ -7338,7 +7414,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 231659,
       "name": "Tales Of Balagan",
       "url": "https://open.spotify.com/track/38Z4JwNboXrTDpgAqN6XKb"
@@ -8868,7 +8944,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 401073,
       "name": "You",
       "url": "https://open.spotify.com/track/2LjVKREXkeZWUo7QIyWx2r"

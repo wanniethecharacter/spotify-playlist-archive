@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: RaRa
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,955 likes - 63 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,006 likes - 63 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

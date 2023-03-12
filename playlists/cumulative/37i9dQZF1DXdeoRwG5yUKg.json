@@ -356,7 +356,7 @@
     {
       "album": {
         "name": "Cryin In The Rain",
-        "url": "https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv"
+        "url": "https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA"
       },
       "artists": [
         {
@@ -367,6 +367,24 @@
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 210882,
+      "name": "Cryin In The Rain",
+      "url": "https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy"
+    },
+    {
+      "album": {
+        "name": "Cryin In The Rain",
+        "url": "https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
       "duration_ms": 210882,
       "name": "Cryin In The Rain",
       "url": "https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34"

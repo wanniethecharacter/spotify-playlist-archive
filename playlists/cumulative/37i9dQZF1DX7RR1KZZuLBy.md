@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-71 songs - 7 hr 1 min
+72 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [You Restore](https://open.spotify.com/track/6WNy8lG1fbcsqtutkQj62L) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [You Restore](https://open.spotify.com/album/4qwpP2cLhv5pkPz4MPHQUl) | 4:12 | 2021-10-14 |  |
 | [You Say](https://open.spotify.com/track/7vcpXdAmmWEhGdCzoC55Vq) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [NOW That's What I Call Music! Vol\. 68](https://open.spotify.com/album/2AuBqtSWlUAVF6YiIr3iRd) | 4:33 | 2018-09-23 | 2022-11-13 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2018-09-23 |  |
-| [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 |  |
+| [You Will Never Leave Me](https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 6:43 | 2023-02-21 |  |
+| [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 | 2023-03-12 |
 | [Zilungiselen'](https://open.spotify.com/track/3mmfdTiC29CbKmoOnsxvER) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Rebecca Malope](https://open.spotify.com/artist/3AKDIFynpUHJKEZfiSJNw7) | [Zilungiselen'](https://open.spotify.com/album/1hHb9UMcL2lBjFqwBUkbOP) | 4:34 | 2021-11-18 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

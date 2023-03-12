@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 278013,
       "name": "Gimme a Penny - Take 6",
       "url": "https://open.spotify.com/track/5XDdfhTKYX8rzmxXZPZs0e"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 171666,
       "name": "Hound Dog - Single Version",
       "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 156200,
       "name": "How Come",
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
@@ -748,9 +748,27 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "date_added": "2023-03-05",
+      "date_added": "2023-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Laugh Laugh Laugh",
+      "url": "https://open.spotify.com/track/5BoS5f4x2T4nr8bJm2py4m"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
       "duration_ms": 165140,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/58ZJKSu9uU1k1YOzQokiJm"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 278986,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 294826,
       "name": "Sassy Mama",
       "url": "https://open.spotify.com/track/33RcmXrV5n8FtyY6mOfCTQ"
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp"

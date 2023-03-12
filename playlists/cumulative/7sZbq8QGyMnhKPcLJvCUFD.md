@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-214 songs - 10 hr 57 min
+217 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 |  |
 | [Call On Me](https://open.spotify.com/track/6IZBXIuMsIuVYL6MI5IW50) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Call On Me](https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e) | 3:05 | 2022-09-21 |  |
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 |  |
+| [Can't Break Me Down](https://open.spotify.com/track/4RW5Yf1FlsxHZfIiy7hwdT) | [PHI NIX](https://open.spotify.com/artist/5eAD22qkgKXFfoP2Z58lU6) | [Can't Break Me Down](https://open.spotify.com/album/3eAKTpoqXitMmo7E7PPZqw) | 3:00 | 2023-03-10 |  |
 | [Can't Say No](https://open.spotify.com/track/3GjkAL654ijp5s8Xkh93wV) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q) | [Can't Say No](https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX) | 3:35 | 2023-01-05 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 |  |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 |  |
@@ -139,6 +140,7 @@
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 |  |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-07-26 |  |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 |  |
+| [numbers](https://open.spotify.com/track/4qF8OCdowrImJ8To54Xfzo) | [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [numbers](https://open.spotify.com/album/04MxkL5HrdLkF7SXqtxW2D) | 2:35 | 2023-03-10 |  |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 |  |
 | [On & On](https://open.spotify.com/track/4B2kkxg3wKSTZw5JPaUtzQ) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/0Lt1PzvVZoslDNI2Jsq6pW) | 3:27 | 2022-06-23 |  |
 | [On & On \- Affe & Cole Phillips Remix](https://open.spotify.com/track/1tBZzzCSVUjOvC4adSDW6I) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Affe](https://open.spotify.com/artist/7LB3pyq7UlmNT12HFgmqL7), [Cole Phillips](https://open.spotify.com/artist/6w0DbMntYACzvgDcrWHk22), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:13 | 2022-05-12 |  |
@@ -206,6 +208,7 @@
 | [Waiting](https://open.spotify.com/track/5ZsVoJMUYzanwp2MZfNOvf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Waiting](https://open.spotify.com/album/0xfFT55IkgeDqA3zuvyg6z) | 3:07 | 2022-12-13 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 |  |
+| [What I Say \- Thorne Remix](https://open.spotify.com/track/1t54AP4CUYAG0gScKyWDlq) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [What I Say \(Thorne Remix\)](https://open.spotify.com/album/3fA3glGee0K59Lm08CVElv) | 3:08 | 2023-03-10 |  |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-25 |  |
 | [What You Gonna Do](https://open.spotify.com/track/4vmgwpTfj1TsOwCNKnl6Ro) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [What You Gonna Do](https://open.spotify.com/album/0QUZjVOZFGsf6xsCxbWXxn) | 3:05 | 2023-02-01 |  |
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 |  |

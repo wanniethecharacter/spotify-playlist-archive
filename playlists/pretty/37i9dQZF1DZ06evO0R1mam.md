@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,239 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,256 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 15 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
 | 16 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 | 17 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
-| 18 | [IDK](https://open.spotify.com/track/7iBKYoVKGE8yJ2paD87Zvi) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:18 |
-| 19 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
+| 18 | [Get Up \- Live](https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 6:19 |
+| 19 | [IDK](https://open.spotify.com/track/7iBKYoVKGE8yJ2paD87Zvi) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:18 |
 | 20 | [Chasing Me Down \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:12 |
 | 21 | [We Are Victorious \(feat\. Tye Tribbett\)](https://open.spotify.com/track/3nAL7SbBrEUcDGDAQofFfG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Duets](https://open.spotify.com/album/2pn94b30NhIFRdBNI0cvn4) | 5:07 |
-| 22 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
-| 23 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 22 | [Most High God \(Lude\)](https://open.spotify.com/track/0Yr713K1aMn4Zeppi7srVK) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 1:41 |
+| 23 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
 | 24 | [There Is Nothing Like \- Live](https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 0:50 |
 | 25 | [You Are Good \- Live](https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:02 |
 | 26 | [Reppin' The Kingdom \(feat\. J Moss, Canton Jones, Tye Tribbett & T Haddy\)](https://open.spotify.com/track/6NabK7p4Fcor1gwBgv2jLQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [T Haddy](https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd) | [Church On The Moon](https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Stand Out](https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:42 |
 | 50 | [My Joy](https://open.spotify.com/track/00tk3yXvbdngvs5nuTysRJ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 6:00 |
 
-Snapshot ID: `Mjc5NzQyMDIsMDAwMDAwMDA3YTJkMThkYjA5NWRjN2JiY2NhMDE3ZThiOGQxNzgyYg==`
+Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDBjNWEzOWExZGIwYzEyMmMxOTNhMDc2MjVmMjBiZTVhNw==`

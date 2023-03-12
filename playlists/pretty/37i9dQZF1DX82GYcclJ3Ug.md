@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,893 likes - 126 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,065 likes - 126 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 |
 | 2 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
-| 3 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 3 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 4 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 5 | [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 |
 | 6 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 92 | [Nauseous](https://open.spotify.com/track/3x8LO1bv2kPXaHc6czEZ3k) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 3:18 |
 | 93 | [More Than Fine](https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [More Than Fine](https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV) | 3:27 |
 | 94 | [Easy Now](https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Easy Now](https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT) | 3:53 |
-| 95 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 |
+| 95 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 |
 | 96 | [closure](https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [closure](https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN) | 2:22 |
 | 97 | [Slowly Healing](https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Slowly Healing](https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7) | 2:34 |
 | 98 | [DROP!!](https://open.spotify.com/track/71jQDHJXd7RZ3MbgqVjQeg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DROP!!](https://open.spotify.com/album/7yIHOCUF6QSxxZuDh2phKD) | 2:05 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/track/6N8hCmutQjQ3zZevRbJk36) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Maestro \(Tears Don't Lie\)](https://open.spotify.com/album/70M68ZXCoG4pdeUdN4yzhm) | 3:22 |
 | 126 | [Oblivious](https://open.spotify.com/track/0CvvMsMTOiBFY9xI8171U3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 3:04 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDBmZmUzMTE1MDNkMDE5MTUyMWJlMmJhMjYyNGFmNTA1`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGQ4MzQzMjQ1NTg0ODVkZDZhMDJhMWIxMGJiZWJiN2Ni`

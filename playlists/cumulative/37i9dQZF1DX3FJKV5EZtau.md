@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-343 songs - 19 hr 50 min
+344 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Found Me \- yuigot Remix](https://open.spotify.com/track/2sRKVHD3tF6t9t0U9CZYNY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0) | [Found Me \(yuigot Remix\)](https://open.spotify.com/album/04JshYBSgHVzGjKT5xY9k9) | 3:11 | 2022-01-28 | 2022-03-13 |
 | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/track/1UqkLxHHcQixRPYesIkHXu) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Melanie Fontana](https://open.spotify.com/artist/2CFNHBel5Q4lnOlXiOM09z) | [Fragile \(feat\. Melanie Fontana\)](https://open.spotify.com/album/62dR038JPyEd8u2MW5FyRz) | 3:53 | 2022-01-07 |  |
 | [Friends with the Rain](https://open.spotify.com/track/4LZmqD0ImQzd6nkHWL9Y8k) | [Swif7](https://open.spotify.com/artist/31qwjgvIiGA2TSON0W5Yka) | [Friends With The Rain](https://open.spotify.com/album/7wRUUwC9QY1Bek7ReLUuhV) | 3:27 | 2022-10-07 |  |
+| [From Atoms To Pixels](https://open.spotify.com/track/4AePvZi230wC0eAodJekoe) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT) | [From Atoms To Pixels](https://open.spotify.com/album/4XsHvYSqnnzR3C7BRn9aZV) | 4:00 | 2023-03-10 |  |
 | [From Me \- Icarus Remix](https://open.spotify.com/track/5Z01Ak7WyuJHl2ykICS8BF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Bernache](https://open.spotify.com/artist/3hK7zrlyCSC3oKnpVL6g5L), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Juvenile \(Remixed\)](https://open.spotify.com/album/3yjnnlJE5S5cbRQ1zGOFsf) | 3:58 | 2022-07-14 | 2022-08-06 |
 | [From The Start](https://open.spotify.com/track/74wHiizV0lG0YBHq2Cxn0j) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA) | [Exobolt 008](https://open.spotify.com/album/2evf2RWFyaA9syHGU9n2Wq) | 3:37 | 2022-01-07 | 2022-07-28 |
 | [Full Circle \- William Crooks Remix](https://open.spotify.com/track/4ALJcAs0hpc0lHfYqHf4Ll) | [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0), [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [Full Circle \(William Crooks Remix\)](https://open.spotify.com/album/40rTmUprramNnl93N5Fjtd) | 2:39 | 2022-07-14 | 2022-08-06 |
@@ -344,7 +345,7 @@
 | [You Make Me Better](https://open.spotify.com/track/6RnBCZ7caDIpkauSYrTqzp) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [You Make Me Better](https://open.spotify.com/album/2VfC59wqz3dEf7gNIi6ZkF) | 4:48 | 2022-10-27 | 2022-11-23 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2022-01-07 |  |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-07-29 |
-| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 |  |
+| [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 | 2023-03-12 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2022-01-07 | 2022-10-15 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2022-01-07 | 2022-10-13 |
 | [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2022-10-07 |  |

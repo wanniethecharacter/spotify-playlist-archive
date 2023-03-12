@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-591 songs - 1 day 1 hr 40 min
+592 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,8 @@
 | [Lets Out A Breath](https://open.spotify.com/track/7ztNb6Fr9IenjMnG7Q7jbc) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Lets Out A Breath](https://open.spotify.com/album/21NBQDiXsQJQ1WRMMLMhd3) | 2:21 | 2022-12-22 |  |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-15 |  |
 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 | 2022-04-15 | 2022-09-21 |
-| [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 | 2023-02-20 |  |
+| [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 | 2023-02-20 | 2023-03-12 |
+| [Lifted By Clouds](https://open.spotify.com/track/5EGuIIQNERZqGKEUbynsqu) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Otherworldly](https://open.spotify.com/album/4firwTZqPeb61lvSPqDdx3) | 2:07 | 2023-02-27 |  |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2022-04-15 |  |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2022-04-15 |  |
 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 |  |

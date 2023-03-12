@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-441 songs - 1 day 6 hr 35 min
+442 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2021-12-03 | 2022-05-25 |
-| [Darn That Dream](https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd) | 4:59 | 2021-12-03 |  |
+| [Darn That Dream](https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd) | 4:59 | 2021-12-03 | 2023-03-12 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2023-02-09 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 | 2022-09-01 | 2022-11-18 |
 | [Dear Old Stockholm](https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 7:46 | 2021-12-03 | 2022-11-11 |
@@ -231,6 +231,7 @@
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-02-02 |  |
 | [Lost In Your Eyes](https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 4:02 | 2023-02-09 |  |
+| [Lost Souls](https://open.spotify.com/track/08M4RqR7inoJHlarJHv3nY) | [Donatas Petreikis](https://open.spotify.com/artist/2GohawNLmXECVv5UOhQYM2) | [One Way](https://open.spotify.com/album/3QItkNHdOvWF0nU9QX2ELQ) | 5:50 | 2023-03-09 |  |
 | [Love in the First Degree](https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Love in the First Degree](https://open.spotify.com/album/489cU8nNEb4pS0bBMjcS00) | 3:12 | 2023-02-16 |  |
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-02 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-11-10 |  |

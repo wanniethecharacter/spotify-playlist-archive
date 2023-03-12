@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. delilah bon
 
-474 songs - 22 hr 23 min
+475 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [complicated](https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [complicated](https://open.spotify.com/album/0ktZQAbl5PPYU9UOXoJ0aM) | 2:12 | 2023-02-24 | 2023-03-03 |
 | [CORPSE$](https://open.spotify.com/track/0J5apfOF4WspEaSzDf5CIn) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Lui Surreal](https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7), [triplesixdelete](https://open.spotify.com/artist/1MWqzCKKuVN5wDahu2F4g2) | [CORPSE$](https://open.spotify.com/album/2RelSGPWsonQDrBVgLqXnA) | 1:44 | 2022-01-05 | 2022-03-25 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
-| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-03-03 |  |
+| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-03-10 |  |
+| [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-03-03 | 2023-03-12 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-01-13 | 2023-03-03 |
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |

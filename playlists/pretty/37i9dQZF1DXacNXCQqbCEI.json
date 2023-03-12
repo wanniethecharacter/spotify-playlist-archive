@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 338805,
+  "num_followers": 338912,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMGE3Y2FjZTg4NWI1ZDc5NDQ2MDNlYzBlNTE4MmRkMmM4",
+  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMGFkMDdjZjY0ZjIwNzEzMDk2Nzc4NzRiZTNiYWIyODhi",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "A Short Story of the Mahale Mountains",
-        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
       "artists": [
         {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
         }
       ],
-      "duration_ms": 162765,
-      "name": "A Short Story of the Mahale Mountains",
-      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -955,22 +959,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "A Short Story of the Mahale Mountains",
+        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 162765,
+      "name": "A Short Story of the Mahale Mountains",
+      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
     },
     {
       "added_at": "2023-02-13 21:09:56",

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-319 songs - 19 hr 18 min
+320 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-07-08 |  |
 | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-07-08 | 2023-03-04 |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 |  |
-| [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 |  |
+| [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 | 2023-03-12 |
 | [Wasted Time](https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Badnights](https://open.spotify.com/artist/5CiCfM47n3cXeWvxtn5TVd) | [Wasted Time](https://open.spotify.com/album/6vRishxcEmdMeKR7LQ46Rd) | 3:29 | 2022-07-08 | 2022-09-19 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-07-08 |  |
 | [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 |  |
@@ -316,6 +316,7 @@
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-26 | 2022-11-29 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2022-12-16 |  |
 | [When I'm Gone](https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [When I'm Gone](https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG) | 4:22 | 2022-08-19 |  |
+| [When I'm Gone \- NGHTMRE Remix](https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [When I'm Gone \(NGHTMRE Remix\)](https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg) | 3:42 | 2023-03-10 |  |
 | [Wherever You Go](https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF) | 2:44 | 2022-08-26 | 2023-03-01 |
 | [Wherever You Go](https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/4LoqJkatX8j9Xtrj3moCE1) | 2:44 | 2023-01-13 |  |
 | [Whisper](https://open.spotify.com/track/1YlWCasPU6Kdv147UaOOXJ) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Whisper](https://open.spotify.com/album/3Y5RhdqH9uhjmN3KXjBUm7) | 3:03 | 2022-07-08 |  |

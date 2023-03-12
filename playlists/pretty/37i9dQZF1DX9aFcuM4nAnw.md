@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,488 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 39 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
 | 40 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
 | 41 | [\#4](https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:39 |
-| 42 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 |
-| 43 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
+| 42 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
+| 43 | [Mannequin Metric](https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [In Fabric OST](https://open.spotify.com/album/56h30DA2RokyYVDobT2U5a) | 4:14 |
 | 44 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 | 45 | [A Curved Blade](https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Void](https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj) | 6:03 |
 | 46 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 68 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
 | 69 | [Teresa, Lark of Ascension](https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C) | 3:37 |
 | 70 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 |
-| 71 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
-| 72 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
+| 71 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
+| 72 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
 | 73 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 74 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
-| 75 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
+| 75 | [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGY0NTlhMzExYzA2OGQ5ZjZhN2RkYTRmOWEyZjgwMTcx`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDNjMjRkNzRkNTE4YzA5YzM5YjgzZDcxYzhiM2U2MTIw`

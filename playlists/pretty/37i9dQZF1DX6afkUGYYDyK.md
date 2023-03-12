@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,970 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,980 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 8 | [Grateful](https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 6:55 |
 | 9 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
 | 10 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 |
-| 11 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
-| 12 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 11 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
+| 12 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
 | 13 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
 | 14 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
 | 15 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 47 | [I Won't Forget \(Live\)](https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP) | [Lifepoint Worship](https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [I Won't Forget](https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7) | 8:41 |
 | 48 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
 | 49 | [Give Thanks](https://open.spotify.com/track/0GP883AbjnoO3iTvvjzVO5) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Give Thanks](https://open.spotify.com/album/1lWryrB5wYLjMNjb92XsrK) | 4:31 |
-| 50 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
+| 50 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 |
 | 51 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
-| 52 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 |
+| 52 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
 | 53 | [Give Thanks To The Lord \(Forever\)](https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Grace \- Live Worship From New Wine 2001](https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG) | 3:57 |
 | 54 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 |
 | 55 | [Oh Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/1zmKMlVCxrHBL38BcRBp27) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [Oh Give Thanks \(Psalm 107\) \[Live\]](https://open.spotify.com/album/36LAY52wPfMK172ikMQrha) | 6:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Joyful Blessing](https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [N!x](https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn) | [Talk to God](https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf) | 2:09 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMDljM2MzNjhmZmI0MDE3OGY0MmYxNzllYWI2OTllNjY5`
+Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMDcwMjk4YjdlNzg5OGFhZmViNTNhODZmMTZhMGViNDRh`

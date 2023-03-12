@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,795 likes - 70 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,823 likes - 70 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 32 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 33 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
 | 34 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
-| 35 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 |
-| 36 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 35 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 36 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 |
 | 37 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 |
 | 38 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 39 | [fall back](https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw) | [fall back](https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj) | 4:12 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 49 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
 | 50 | [Bleu \- Radio Edit](https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Bleu](https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid) | 3:48 |
 | 51 | [The Corner](https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Corner](https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi) | 3:40 |
-| 52 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 |
-| 53 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
-| 54 | [Setting Sun](https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Setting Sun](https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G) | 6:13 |
-| 55 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 52 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 |
+| 53 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 |
+| 54 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 |
+| 55 | [Setting Sun](https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Setting Sun](https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G) | 6:13 |
 | 56 | [Shallow Water](https://open.spotify.com/track/1lJPVwuvM9b8wpdZIYRNq9) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 4:41 |
 | 57 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 58 | [The Antidote](https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Jewels from the Sun EP](https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW) | 4:50 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 62 | [Control](https://open.spotify.com/track/3aCHltJ5vsCJI94VxpWhf2) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Control EP](https://open.spotify.com/album/5XqTrQdLMhuCxtxKwxDTFx) | 3:59 |
 | 63 | [RÊVES](https://open.spotify.com/track/5bju4Ul1M7JFdGd8PdixSP) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [RÊVES](https://open.spotify.com/album/2K2urI4ggKMFzLjhVT9MYY) | 4:28 |
 | 64 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
-| 65 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
-| 66 | [Komodo](https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Komodo / Flores](https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3) | 4:21 |
+| 65 | [Komodo](https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Komodo / Flores](https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3) | 4:21 |
+| 66 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 67 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 |
-| 68 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
-| 69 | [Sometimes](https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW) | 5:29 |
+| 68 | [Sometimes](https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW) | 5:29 |
+| 69 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
 | 70 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 |
 
-Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMDJmZGUyNDdhNzUwZTIzZjI1MmZkZDUxOWJjNjMxNTVk`
+Snapshot ID: `MTY3Nzc2MjAwMCwwMDAwMDAwMGI0ZjY0NWM2NTgyZmE2NTM5YTlkYjcwMDA2OTg0NDM4`

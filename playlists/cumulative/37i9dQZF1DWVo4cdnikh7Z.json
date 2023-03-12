@@ -932,10 +932,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 132000,
       "name": "Araro Ariraaro",
       "url": "https://open.spotify.com/track/2r8V08QsE3q5uPpAH1MsNV"
+    },
+    {
+      "album": {
+        "name": "Ayothi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/31ZWPOn7HHih5iGePKblPl"
+      },
+      "artists": [
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Sarathi",
+          "url": "https://open.spotify.com/artist/2EFX35KEBAhgi3lwgvKdSA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Araro Ariraaro",
+      "url": "https://open.spotify.com/track/7sfGr6Rr7qumPuFEnKEM0i"
     },
     {
       "album": {
@@ -9563,6 +9585,28 @@
     },
     {
       "album": {
+        "name": "Ayothi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/31ZWPOn7HHih5iGePKblPl"
+      },
+      "artists": [
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        },
+        {
+          "name": "Kavimuni",
+          "url": "https://open.spotify.com/artist/2h8dLnZO8KIgFrwW9Fx8J4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Sethupathi Naattukulle",
+      "url": "https://open.spotify.com/track/5RuGTQyJUS2RFPTnORVBXe"
+    },
+    {
+      "album": {
         "name": "Ayothi",
         "url": "https://open.spotify.com/album/54LUQHad6ZjD1LLT8Teg7z"
       },
@@ -9578,7 +9622,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 231000,
       "name": "Sethupathi Naattukulle",
       "url": "https://open.spotify.com/track/5c6RRSMbzXWl5d5NCYnmgO"
@@ -11444,6 +11488,10 @@
         {
           "name": "D. Imman",
           "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
         },
         {
           "name": "Jayamoorthi",

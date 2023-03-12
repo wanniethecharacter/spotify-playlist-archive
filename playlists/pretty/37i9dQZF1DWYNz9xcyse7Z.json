@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 42097,
+  "num_followers": 42170,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMGQxYTFhMmFlMDY4OTU2ODJiYTU1MDI1YWU4ZmJkYzFj",
+  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMGUzMzZhYzVjODViYzNkYjkwNmMwN2E5MTk2OGZhNGI3",
   "tracks": [
     {
       "added_at": "2023-02-03 00:16:49",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Hombres de Rancho",
-        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Que Casualidad",
-      "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Mirandote En Las Estrellas",
         "url": "https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205280,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Hombres de Rancho",
+        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Que Casualidad",
+      "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Hombres de Rancho",
-        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Dos Palomas Al Volar",
-      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Mi Guitarra y Yo Vol. 2",
         "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Intentare Olvidarte",
-        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Esta Libertad",
-      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Los Dos De La Sierra",
         "url": "https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 201549,
       "name": "Los Barandales Del Puente",
       "url": "https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Hombres de Rancho",
+        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Dos Palomas Al Volar",
+      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Intentare Olvidarte",
+        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Esta Libertad",
+      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Besos y Caricias",
         "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 130039,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Para Morir Nac\u00ed",
-        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
-      },
-      "artists": [
-        {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Para Morir Naci",
-      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1147,18 +1131,34 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Un Golpe Mas",
-        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
+        "name": "Para Morir Nac\u00ed",
+        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
         }
       ],
-      "duration_ms": 151813,
-      "name": "La Chuparrosa",
-      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
+      "duration_ms": 192000,
+      "name": "Para Morir Naci",
+      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 180819,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+        "name": "Un Golpe Mas",
+        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 180819,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
+      "duration_ms": 151813,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 184386,
       "name": "Las Lluvias",
       "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 279520,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 159059,
       "name": "El Buque de Mas Potencia",
       "url": "https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
     },
     {
       "added_at": "2023-02-03 00:16:49",

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 84474,
+  "num_followers": 84504,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDU0YzA5ZDcxOWE0NGE5NzI2MDNiNDVkYTVkZjRmZWRl",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDZiYjI4NmU1N2UzNTU0OTVjZjUwNzU5NmQ0N2YyOWE5",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "I Cry Jesus",
+        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 218765,
+      "name": "I Cry Jesus",
+      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Thank God For Sunday Morning",
         "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
       },
@@ -327,18 +343,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Cry Jesus",
-        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 218765,
-      "name": "I Cry Jesus",
-      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -359,22 +375,6 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I'm So Blessed (Aaron Cole Mix)",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed - Aaron Cole Mix",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -487,18 +467,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "A Thousand Shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 255586,
-      "name": "A Thousand Shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -515,6 +499,22 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "A Thousand Shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "A Thousand Shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -595,22 +595,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
         }
       ],
-      "duration_ms": 215213,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
+      "duration_ms": 187205,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Soul Worth Saving",
+        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226650,
+      "name": "Soul Worth Saving",
+      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -631,18 +643,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 187205,
-      "name": "How Far",
-      "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
+      "duration_ms": 215213,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -663,22 +679,6 @@
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Soul Worth Saving",
-        "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 226650,
-      "name": "Soul Worth Saving",
-      "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Rest On Us - Single Version",
-      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "This I Know (Jesus Loves Me)",
         "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 222428,
       "name": "This I Know (Jesus Loves Me)",
       "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Rest On Us - Single Version",
+      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Healing",
         "url": "https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 229252,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "Jesus Changed My Life",
+      "url": "https://open.spotify.com/track/3xNxLuVwQBc2Y9Zbx68tDU"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 197280,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Jesus Changed My Life",
-        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "Jesus Changed My Life",
-      "url": "https://open.spotify.com/track/3xNxLuVwQBc2Y9Zbx68tDU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Live Out Loud",
-        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 203507,
-      "name": "Live Out Loud",
-      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 215800,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Live Out Loud",
+        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 203507,
+      "name": "Live Out Loud",
+      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 205811,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp"
       },
       "artists": [
         {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
         }
       ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+      "duration_ms": 205811,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "One Heart at a Time",
         "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1579,6 +1563,22 @@
       "duration_ms": 253800,
       "name": "When The World Is Changing",
       "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Holy Spirit Come",
-        "url": "https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        }
-      ],
-      "duration_ms": 254358,
-      "name": "Holy Spirit Come",
-      "url": "https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Is On The Throne",
         "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 284413,
       "name": "God Is On The Throne",
       "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Holy Spirit Come",
+        "url": "https://open.spotify.com/album/675wCYd2ed5JUJF9sLBsyG"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "duration_ms": 254358,
+      "name": "Holy Spirit Come",
+      "url": "https://open.spotify.com/track/0fFPUhjQSy1TWgK7W09fmo"
     },
     {
       "added_at": "2022-10-29 07:17:38",

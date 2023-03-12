@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 31039,
+  "num_followers": 31098,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMGZmZDRjYjA1NjRlY2E5NGQ0ZGY4OGE5Mzk4MGIwMTBk",
+  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDRjNDgxZTc1YThmZjI2YmFjMTQxNzMzMzYyMjFlZGEx",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Blues To The Bone",
         "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 215333,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Sweet Emma Barrett And Her New Orleans Music",
         "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -967,6 +967,26 @@
       "duration_ms": 214293,
       "name": "I'm Getting 'Long Alright",
       "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Blues Book and Beyond",
+        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
+      },
+      "artists": [
+        {
+          "name": "Ottilie Patterson",
+          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
+        },
+        {
+          "name": "Chris Barber's Jazz Band",
+          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bad Spell Blues",
+      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1063,26 +1083,6 @@
       "duration_ms": 179133,
       "name": "Tight in Chicago",
       "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
-        "name": "Blues Book and Beyond",
-        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
-      },
-      "artists": [
-        {
-          "name": "Ottilie Patterson",
-          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
-        },
-        {
-          "name": "Chris Barber's Jazz Band",
-          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Bad Spell Blues",
-      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Sippie Wallace",
-        "url": "https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR"
+        "name": "Lil's Big Hits",
+        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
       },
       "artists": [
         {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+          "name": "Lilgreen",
+          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
         }
       ],
-      "duration_ms": 197893,
-      "name": "A Jealous Woman Like Me",
-      "url": "https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z"
+      "duration_ms": 202964,
+      "name": "Romance In The Dark",
+      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
     }
   ],
   "unique_name": "Queens of the Blues",

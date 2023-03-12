@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. julie on cover!
 
-275 songs - 18 hr 54 min
+276 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Destroy Us](https://open.spotify.com/track/5JTsQo9mTbBs8d68UIjNEl) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 | 2022-12-03 |
 | [Dismal](https://open.spotify.com/track/4xlAQxlNPIUtSg8K6aVlL8) | [Kalé](https://open.spotify.com/artist/5yNF3n8SacvZy5i5zK7ERv) | [Dismal](https://open.spotify.com/album/44ZdavZzRQbOxaOEbDB31E) | 4:22 | 2022-08-13 | 2022-09-29 |
-| [Don't Give Up](https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Don't Give Up](https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0) | 1:52 | 2023-02-09 |  |
+| [Don't Give Up](https://open.spotify.com/track/7cDPpQ4ZGoX8pUctXfBQIw) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Don't Give Up](https://open.spotify.com/album/5zvDBwrFpUGpLkYM382Ix0) | 1:52 | 2023-02-09 | 2023-03-12 |
 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 | 2021-10-19 |  |
 | [Dopamine](https://open.spotify.com/track/53FCh1Yv1gdlnybyYWsyca) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:55 | 2021-10-19 | 2022-07-29 |
 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 | 2021-10-19 |  |
@@ -170,6 +170,7 @@
 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 | 2021-10-19 |  |
 | [Love Fade](https://open.spotify.com/track/24ZsdPJj8uwhCxo4uanFpG) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/4yfIr3uR60hcYNr1ttJNoC) | 3:40 | 2021-10-19 | 2022-07-29 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-02-27 |  |
+| [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-10 |  |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 | 2023-01-14 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2023-02-09 | 2023-02-23 |

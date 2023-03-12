@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 158800,
+  "num_followers": 158816,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1OTM1OSwwMDAwMDAwMGI4YjcyMjlkOTk4NWMxMTI3N2UzZGJiZTE3ZjQwNDlm",
+  "snapshot_id": "MTY3ODQ1OTM1OSwwMDAwMDAwMDM5YjI2OWE1NmI0YmQ4MDZhNDVkNDRjNDQyMWYxZTgw",
   "tracks": [
     {
       "added_at": "2023-03-10 14:42:39",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -871,30 +887,6 @@
       "duration_ms": 115306,
       "name": "A Nossa Brisa",
       "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "U.GOT",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -927,18 +919,26 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
       "artists": [
         {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "U.GOT",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-03-10 14:42:39",
@@ -1135,42 +1135,6 @@
     {
       "added_at": "2023-03-10 14:42:39",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-03-10 14:42:39",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1191,6 +1155,42 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2023-03-10 14:42:39",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-03-10 14:42:39",

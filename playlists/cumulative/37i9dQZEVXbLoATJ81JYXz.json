@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -3106,6 +3106,24 @@
       "duration_ms": 146298,
       "name": "B\u00e4stis Festis",
       "url": "https://open.spotify.com/track/6xjKLvdIXKA3mXDZUsMmPC"
+    },
+    {
+      "album": {
+        "name": "B\u00e4vling",
+        "url": "https://open.spotify.com/album/6s5kpLikMJf3k3PvCExcEn"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/5dnegcfdqoliHuDXVW5nYw"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116386,
+      "name": "B\u00e4vling",
+      "url": "https://open.spotify.com/track/6PmzO31LLWsHvY0tG37m8F"
     },
     {
       "album": {
@@ -4688,7 +4706,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 165045,
       "name": "Din l\u00e5t",
       "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
@@ -6892,10 +6910,28 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "album": {
@@ -7128,7 +7164,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 171250,
       "name": "Free At Last",
       "url": "https://open.spotify.com/track/0n1JxDmR4Juj9LEZ4deFjW"
@@ -7182,7 +7218,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 140077,
       "name": "Fri Fr\u00e5n Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/22F7PGDs5cDvsr11Aouk1o"
@@ -7348,7 +7384,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 110305,
       "name": "FUCKED UP - Hansell Remix",
       "url": "https://open.spotify.com/track/60S5aC7jL01SqODVWDhBWO"
@@ -7600,6 +7636,24 @@
       "duration_ms": 148800,
       "name": "G-CODE",
       "url": "https://open.spotify.com/track/7GLqG1b18ebqXmCl7EUNt3"
+    },
+    {
+      "album": {
+        "name": "G63",
+        "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162105,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
     },
     {
       "album": {
@@ -10006,7 +10060,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 139764,
       "name": "I Care",
       "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
@@ -14465,6 +14519,28 @@
     },
     {
       "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
         "name": "Sista minuten",
         "url": "https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN"
       },
@@ -15952,7 +16028,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA"
@@ -17101,6 +17177,28 @@
     },
     {
       "album": {
+        "name": "RAGGARBIL",
+        "url": "https://open.spotify.com/album/4OzfP62K5kmYNkBD1yw0nd"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124950,
+      "name": "RAGGARBIL",
+      "url": "https://open.spotify.com/track/2VhK6oiMVLEMp16Ri3FRqW"
+    },
+    {
+      "album": {
         "name": "RAGGARHIMLEN",
         "url": "https://open.spotify.com/album/2YQ2wXQ9xvjCyn62zhA5Zy"
       },
@@ -17584,6 +17682,24 @@
       "duration_ms": 162576,
       "name": "Ringar p\u00e5 vattnet",
       "url": "https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
     },
     {
       "album": {
@@ -19770,7 +19886,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 90677,
       "name": "Spiderman Del 2",
       "url": "https://open.spotify.com/track/2IpGbRTC0b58mYvq5O0mmw"

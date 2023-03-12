@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 
 > Featuring El Alfa, Farruko, Omega, ROSALÍA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JeuYQRSLDs.md) - [plain]
 | 18 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 |
 | 19 | [Encantadora \(feat\. Farruko & Zion & Lennox\) \- Remix](https://open.spotify.com/track/0EpFfFZpCuqYFzHvxOtrZS) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Egbert Rosa aka Haze](https://open.spotify.com/artist/2UBLJyUgCq6XMiSVV7oGv8) | [Encantadora \(feat\. Farruko & Zion & Lennox\) \[Remix\]](https://open.spotify.com/album/5lQLNkR6i87BZeiKq7Yg8Y) | 4:12 |
 | 20 | [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 |
-| 21 | [Tiempo](https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Tiempo](https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA) | 3:46 |
+| 21 | [Tiempo](https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Tiempo](https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA) | 3:46 |
 | 22 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 |
 | 23 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 |
 | 24 | [Materile](https://open.spotify.com/track/7KR2kBHjAATGyKCscrzkE3) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Materile](https://open.spotify.com/album/1JnTZNv08vuF1Ws95mF3Po) | 2:47 |

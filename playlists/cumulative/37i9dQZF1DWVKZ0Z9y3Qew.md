@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, Taylar Elizza Beth
 
-481 songs - 22 hr 29 min
+482 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Curfew](https://open.spotify.com/track/4VnEKKCBOk58uoj1N1Hydp) | [Royce The Choice](https://open.spotify.com/artist/0IUBTnweyOMhLh7dcNbJ0g) | [Aesthetics By Choice](https://open.spotify.com/album/6K4zjSM5kQUgsXF7Ht7GaN) | 2:44 | 2022-02-18 | 2022-09-25 |
 | [Daily](https://open.spotify.com/track/1FhS4QdwBSGdIDOdIVYNCS) | [Covi.](https://open.spotify.com/artist/6kxLApfEzk2X5GqUc35rtS), [Deanoboyyoucrazy](https://open.spotify.com/artist/5i6EiqlK330WH5DKi8eg3o) | [Daily](https://open.spotify.com/album/0mOp8mI03m3lOk1Uuoo8ql) | 2:32 | 2022-08-08 | 2022-12-03 |
 | [Dance](https://open.spotify.com/track/6sj3QQ03Skwe41fzDzIAJq) | [D.Worthy](https://open.spotify.com/artist/3erKONJnV1kHT5ksWJLR7y), [SADLOKA](https://open.spotify.com/artist/4GWbqE5gzUI7fFco1vO6Zo) | [Secrets Keep Friends](https://open.spotify.com/album/4rf9sIzWYeUGmimR2oTKkQ) | 2:02 | 2022-04-15 | 2022-07-23 |
-| [Dash Off](https://open.spotify.com/track/0lyhtDrqFH2Y9ZcTpoLSm9) | [Majik9](https://open.spotify.com/artist/13iLsHLvOmOCA21NJ8s3LH), [Britan M](https://open.spotify.com/artist/43Ri1hu1HM2fTyhHQNVdT3) | [Coast 2 Coast](https://open.spotify.com/album/5Oul3VItJOnajpuNt0Z5GW) | 2:40 | 2023-02-14 |  |
+| [Dash Off](https://open.spotify.com/track/0lyhtDrqFH2Y9ZcTpoLSm9) | [Majik9](https://open.spotify.com/artist/13iLsHLvOmOCA21NJ8s3LH), [Britan M](https://open.spotify.com/artist/43Ri1hu1HM2fTyhHQNVdT3) | [Coast 2 Coast](https://open.spotify.com/album/5Oul3VItJOnajpuNt0Z5GW) | 2:40 | 2023-02-14 | 2023-03-12 |
+| [Dash Off](https://open.spotify.com/track/29yZEsD4cXP1PVAyYQgWQG) | [Majik9](https://open.spotify.com/artist/13iLsHLvOmOCA21NJ8s3LH), [Britan M](https://open.spotify.com/artist/43Ri1hu1HM2fTyhHQNVdT3) | [Coast 2 Coast](https://open.spotify.com/album/1gTe7p4FfJ7AjhPFX4uKMu) | 2:40 | 2023-02-14 |  |
 | [Dash Off](https://open.spotify.com/track/2DBs4rAk1mFC5M3qNraJg4) | [Majik9](https://open.spotify.com/artist/13iLsHLvOmOCA21NJ8s3LH), [Britan M](https://open.spotify.com/artist/43Ri1hu1HM2fTyhHQNVdT3) | [Coast 2 Coast](https://open.spotify.com/album/3NZskKPB41iGSS3fotrF1u) | 2:40 | 2023-02-14 | 2023-03-04 |
 | [Days Like This \(Killzs Verse\)](https://open.spotify.com/track/3mvc6ls86x7fmjKjYulaUX) | [Killzs](https://open.spotify.com/artist/0xjWAN0XjyX3o4bqC2A7ye) | [Days Like This \(Killzs Verse\)](https://open.spotify.com/album/4KEiliM17r06DubgM8tSof) | 1:59 | 2022-12-02 | 2023-01-14 |
 | [DEADMAN](https://open.spotify.com/track/7E3edqU8348FNeX5NF99IF) | [Bvmmer](https://open.spotify.com/artist/3neew60nDYKzqWDtXqkfdj), [OldMilk](https://open.spotify.com/artist/6qrdRXkYaP7jTxwJV5PEce), [KHRIS P](https://open.spotify.com/artist/5kWlBrfLyEaITpIECNy577) | [DEADMAN](https://open.spotify.com/album/72yFFKxh3DsJLVXGYZYpxf) | 3:28 | 2022-03-18 | 2022-04-02 |

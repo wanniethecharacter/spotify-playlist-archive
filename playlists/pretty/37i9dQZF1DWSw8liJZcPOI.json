@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 88014,
+  "num_followers": 19138,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI3MjUxMiwwMDAwMDAwMGMzYzdmNThhOGEyYTYwNjVkNjU0Y2Q4YzM3MWI2YzBk",
+  "snapshot_id": "MTY3ODI3MjUxMiwwMDAwMDAwMGQ3MGM1YzhmOGQwMGEzYWUwNTE4OGExYjExZDdlOWEz",
   "tracks": [
     {
       "added_at": "2023-03-03 13:30:36",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Over The Pines (from the Motion Picture \"Land\")",
         "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 191386,
       "name": "Over The Pines",
       "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 229606,
+      "name": "Solitude I",
+      "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
         "name": "Still / Sound \u2014 piano reworks",
         "url": "https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 229606,
-      "name": "Solitude I",
-      "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Big Wide World (Reimagined for Piano)",
         "url": "https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
-        "name": "A Collective Destiny",
-        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "A Collective Destiny",
-      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -991,6 +975,22 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/683mwxOizslObemAVOmvH4"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "A Collective Destiny",
+        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "A Collective Destiny",
+      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
+        "name": "Movement 5 - Pt. 2",
+        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Movement 5 - Pt. 2 - Instrumental",
+      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -1087,22 +1107,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 127147,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -1115,6 +1119,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 127147,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Movement 5 - Pt. 2",
-        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Scottish Ensemble",
-          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Movement 5 - Pt. 2 - Instrumental",
-      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
-        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
+        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
       "artists": [
         {
-          "name": "Slow Shiver",
-          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
         }
       ],
-      "duration_ms": 127865,
-      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
-      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
+      "duration_ms": 233253,
+      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
+      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1275,6 +1279,22 @@
       "duration_ms": 183653,
       "name": "From All Who Came Before",
       "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
+        "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
+      },
+      "artists": [
+        {
+          "name": "Slow Shiver",
+          "url": "https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl"
+        }
+      ],
+      "duration_ms": 127865,
+      "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
+      "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
-        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Bill Ryder-Jones",
-          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
-      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1359,6 +1359,38 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
+    },
+    {
+      "added_at": "2023-03-03 13:30:36",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2023-03-03 13:30:36",
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2023-03-03 13:30:36",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
         "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
         "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 207000,
       "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
       "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
-    },
-    {
-      "added_at": "2023-03-03 13:30:36",
-      "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
     }
   ],
   "unique_name": "Not Quite Classical",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,225 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,239 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 58 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 | 59 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 | 60 | [Sweetest Thing on This Side of Heaven](https://open.spotify.com/track/6O69NGPST8QReoHAplv9OL) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 3:41 |
-| 61 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
-| 62 | [Take A Little Trip](https://open.spotify.com/track/2hGkbsIbb0W8lLRnHelMxQ) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Perfect Angel \(Deluxe Edition\)](https://open.spotify.com/album/7xGpVZEhEVctoAjpx3UgsS) | 4:15 |
-| 63 | [Lost and Lookin'](https://open.spotify.com/track/34EltYEPxM1kwzfvi7PUU9) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:11 |
-| 64 | [Quicksand](https://open.spotify.com/track/0hL8sBBOvup2rbzNwou5FX) | [Starcrost](https://open.spotify.com/artist/41dXD0yUxhnUk5ZuXqujKa) | [Beauty: A Journey Through Jeremy Underground's Collection](https://open.spotify.com/album/1PYpPBCZIMgFChfO7NKb3N) | 5:04 |
-| 65 | [Pretty Bird](https://open.spotify.com/track/4SoNUIg58ISjWdvsk7WY9m) | [Lemuria](https://open.spotify.com/artist/6wzxL5b6rHgsbAaKwhwTDi), [Terea](https://open.spotify.com/artist/6NtHkAB0wnU6v3RNs9n55r) | [Hunk Of Heaven/Pretty Bird](https://open.spotify.com/album/6a2AXXlm4TuB2rFqhmS66Q) | 4:04 |
-| 66 | [Think Like A Lover](https://open.spotify.com/track/1Ygf9RhP2N6QgCu9E0aBaW) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Prone](https://open.spotify.com/album/0AIDXpbImFcertAo6sI1ou) | 4:36 |
-| 67 | [Corinna \- From "The Natch'l Blues"](https://open.spotify.com/track/5aBpIqXfktr9SSwyAi8Hlj) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 3:00 |
-| 68 | [Angola, Louisiana](https://open.spotify.com/track/4iqtrToCLSIMCbt8QtvbAn) | [Gil Scott\-Heron & Brian Jackson](https://open.spotify.com/artist/2OELvPolUUefy9oQNgs8rj) | [Secrets](https://open.spotify.com/album/0MrHVkohZztmdrTrQAosNe) | 5:34 |
-| 69 | [I'm Glad You're Mine](https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 2:57 |
-| 70 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
 
 Snapshot ID: `MTY3MTE3NTkyMSwwMDAwMDAwMDU1MmUwZmVkNTU0NDIwZDBiMmE4Y2RiMGUyYzA3ZGNk`

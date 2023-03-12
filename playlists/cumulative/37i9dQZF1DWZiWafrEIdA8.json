@@ -1355,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "DARKROOM",
+        "url": "https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JINBO",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209086,
+      "name": "Home Sh*t Home (Feat. JINBO)",
+      "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
+    },
+    {
+      "album": {
         "name": "CLICHE",
         "url": "https://open.spotify.com/album/64ecQuiMbt2TrdvxcwHoGZ"
       },
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"

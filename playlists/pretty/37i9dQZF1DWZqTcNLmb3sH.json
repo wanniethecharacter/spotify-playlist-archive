@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 47485,
+  "num_followers": 47588,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3MDAyNSwwMDAwMDAwMGQyNGNjYzk3YTAxNzkyODYxN2NhYmYxZGVjOTYwZGVk",
+  "snapshot_id": "MTY3ODM3MDAyNSwwMDAwMDAwMGJmZjE2NDA1NGZlNTMwMTJkMTA0ZjdhYzljZTUzMzQz",
   "tracks": [
     {
       "added_at": "2023-02-06 07:20:37",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2023-01-27 04:56:59",
       "album": {
-        "name": "Upadhyaksha",
-        "url": "https://open.spotify.com/album/3Hbxhl13i4WFzaTiHnBhY1"
+        "name": "Upadhyaksha Title Track (from \"Upadhyaksha\")",
+        "url": "https://open.spotify.com/album/5uqVy0bz5uTjOQ4CMfd7Cf"
       },
       "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
         {
           "name": "Vyasraj Sosale",
           "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
         }
       ],
       "duration_ms": 240044,
-      "name": "Upadhyaksha Title Track",
-      "url": "https://open.spotify.com/track/1UbXgNpimNLPUnNFo7StOB"
+      "name": "Upadhyaksha Title Track - from \"Upadhyaksha\"",
+      "url": "https://open.spotify.com/track/6QOSva7goIIBuaN1YJwCjZ"
     },
     {
       "added_at": "2023-02-03 09:21:47",
@@ -1215,18 +1219,22 @@
     {
       "added_at": "2023-01-25 09:04:22",
       "album": {
-        "name": "Bheema",
-        "url": "https://open.spotify.com/album/209XgvCrhFucyROj9vwMLs"
+        "name": "Bheema (Theme Music 02) [From \"Bheema\"]",
+        "url": "https://open.spotify.com/album/0J0bVCAtSXmQe1qtM5MKk4"
       },
       "artists": [
         {
           "name": "Duniya Vijaykumar",
-          "url": "https://open.spotify.com/artist/7ft0dZNzMlaYTiQAabk3SA"
+          "url": "https://open.spotify.com/artist/48gcdZawVdHNkTo5DNAdW4"
+        },
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
         }
       ],
       "duration_ms": 84421,
-      "name": "Bheema Theme Music 02",
-      "url": "https://open.spotify.com/track/4lwpLVVOsn7AYq2bKDkmJ3"
+      "name": "Bheema (Theme Music 02) - From \"Bheema\"",
+      "url": "https://open.spotify.com/track/4OraYbf908dDLYzb1fp1do"
     },
     {
       "added_at": "2023-01-17 04:08:21",
@@ -1944,9 +1952,17 @@
       "added_at": "2022-12-22 05:39:38",
       "album": {
         "name": "Temper",
-        "url": "https://open.spotify.com/album/1BRXVzRSv3jRPHtOpmbQpy"
+        "url": "https://open.spotify.com/album/3SmCeF4eJE8ueKQpxH63j2"
       },
       "artists": [
+        {
+          "name": "R.Haribabu",
+          "url": "https://open.spotify.com/artist/6ZMveULwdH83cl96ke2ZLC"
+        },
+        {
+          "name": "Manju Kavi",
+          "url": "https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q"
+        },
         {
           "name": "Santhosh Venky",
           "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
@@ -1958,7 +1974,7 @@
       ],
       "duration_ms": 260196,
       "name": "Onde Ondu Saari Nee",
-      "url": "https://open.spotify.com/track/2iFmV0D6ttNleeGwbEgYUn"
+      "url": "https://open.spotify.com/track/7sYtAS4h3oV5QG92SNRbnw"
     },
     {
       "added_at": "2022-10-27 11:48:36",

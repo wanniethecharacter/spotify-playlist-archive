@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RBD en portada.",
-  "num_followers": 62736,
+  "num_followers": 62784,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI3NjQxMiwwMDAwMDAwMGFlZmI1MjM0ZDgyNDZkMzBhM2M1MTY3NWFmYmIzNjZi",
+  "snapshot_id": "MTY3NzI3NjQxMiwwMDAwMDAwMDk5MTUwZWI2YTg2YjBiODhkNDAyOWI2YWI3OWQxMTFj",
   "tracks": [
     {
       "added_at": "2023-02-24 22:06:52",
@@ -251,6 +251,50 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
+        "name": "Uno los Dos",
+        "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Uno los Dos",
+      "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -287,50 +331,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
-        "name": "Uno los Dos",
-        "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Uno los Dos",
-      "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": "2023-02-24 22:06:52",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
-        "name": "Crayola",
-        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
-      },
-      "artists": [
-        {
-          "name": "SHEISA",
-          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "Crayola",
-      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
+        "name": "Crayola",
+        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
+      },
+      "artists": [
+        {
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
         "name": "Darte Un Beso - Spotify Singles",
         "url": "https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
-    },
-    {
-      "added_at": "2023-02-24 22:06:52",
-      "album": {
         "name": "T\u00edrame Un Hello",
         "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello",
       "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
+    },
+    {
+      "added_at": "2023-02-24 22:06:52",
+      "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2023-02-24 22:06:52",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-02-24 22:06:52",
       "album": {
-        "name": "TERMINAMOS",
-        "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
+        "name": "Pasos de Gigante",
+        "url": "https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
         }
       ],
-      "duration_ms": 157927,
-      "name": "TERMINAMOS",
-      "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
+      "duration_ms": 221609,
+      "name": "Pasos de Gigante",
+      "url": "https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho"
     },
     {
       "added_at": "2023-02-24 22:06:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,157 likes - 101 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 101 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 44 | [Love Is For Real \- Live in New York City, February 8, 1975](https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Love Is For Real \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/6YrBa9ZMQN2DkvvQAFaxFM) | 4:41 |
 | 45 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 |
 | 46 | [Ms\. Angelou \- Live](https://open.spotify.com/track/2aSiGeZ9qoYgdASyvzmOLl) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Inside Straight](https://open.spotify.com/artist/7MtmFTvuto2LZ3I9y4Gd96) | [Live at the Village Vanguard](https://open.spotify.com/album/1RZBIIFd5NYufxARh6yyWy) | 10:02 |
-| 47 | [Impressions \- Live At The Half Note, 1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
+| 47 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ), [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
 | 48 | [Dat Dere \- Live At Hibiya Public Hall, Tokyo, Japan 1/14/61](https://open.spotify.com/track/1nlsh7FXUf0sLaCOPvo2sz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [First Flight To Tokyo: The Lost 1961 Recordings](https://open.spotify.com/album/5pe7gBl8IgEAaknrfd0hnF) | 12:13 |
 | 49 | [Oleo \- Live](https://open.spotify.com/track/3Y1FeOnRQhsAEZlrJX9p7i) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Oleo \(Live\)](https://open.spotify.com/album/4s2gCzpD7CRhgQM5I8qaW0) | 19:08 |
 | 50 | [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 |

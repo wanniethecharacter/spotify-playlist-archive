@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 35651,
+  "num_followers": 35686,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMDdlYjJiMzBjOTZjY2JkMDk0MmUwN2I2Y2VhMmE3YWI1",
+  "snapshot_id": "MTY2MzMwNDAxNiwwMDAwMDAwMGVjMTQzZTk5ZGY4MmFiZjk5ZTRkOTg2N2UwMzM2N2M2",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199579,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199579,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": "2022-09-16 04:53:36",

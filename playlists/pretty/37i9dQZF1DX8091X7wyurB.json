@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 33187,
+  "num_followers": 33293,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMDM0ZWUyZGI1NzRiYWUzODk4MDg4MzdkZmIxMTY1NDdl",
+  "snapshot_id": "MTY3ODQ1MTMxNCwwMDAwMDAwMDEyNzRiZGUwMTc0MzY1ZjgyNWRmMGJkNTVhNjIyNjNh",
   "tracks": [
     {
       "added_at": "2023-03-03 08:09:51",
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
-      "added_at": "2023-03-11 01:07:40",
+      "added_at": "2023-03-12 01:36:57",
       "album": {
         "name": "Greater",
         "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 174146,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -367,18 +367,22 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 224634,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -403,22 +407,18 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 224634,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 137739,
       "name": "Ife Wami",
       "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "This can only be God",
+        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "This can only be God",
+      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 183529,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "This can only be God",
-        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy D Psalmist",
-          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "This can only be God",
-      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Taking care (Live at Bliss Experience)",
-        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 310278,
-      "name": "Taking care - Live at Bliss Experience",
-      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 203027,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "Come & See (Creative Version)",
-        "url": "https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 433232,
-      "name": "Come & See",
-      "url": "https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "NEVER FORGET",
         "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "Come & See (Creative Version)",
+        "url": "https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 433232,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
-      },
-      "artists": [
-        {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
-        }
-      ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 161333,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+      },
+      "artists": [
+        {
+          "name": "Florocka",
+          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+        }
+      ],
+      "duration_ms": 350981,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
     },
     {
       "added_at": "2023-03-03 08:09:51",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-03-03 08:09:51",
       "album": {
+        "name": "Afurum Gi Nanya",
+        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Tryphena",
+          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Afurum Gi Nanya",
+      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
+    },
+    {
+      "added_at": "2023-03-03 08:09:51",
+      "album": {
         "name": "W'asem",
         "url": "https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 172680,
       "name": "For Me",
       "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
-    },
-    {
-      "added_at": "2023-03-03 08:09:51",
-      "album": {
-        "name": "Afurum Gi Nanya",
-        "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
-      },
-      "artists": [
-        {
-          "name": "Okey Sokay",
-          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
-        },
-        {
-          "name": "Tryphena",
-          "url": "https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub"
-        }
-      ],
-      "duration_ms": 139320,
-      "name": "Afurum Gi Nanya",
-      "url": "https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai"
     },
     {
       "added_at": "2023-03-03 08:09:51",

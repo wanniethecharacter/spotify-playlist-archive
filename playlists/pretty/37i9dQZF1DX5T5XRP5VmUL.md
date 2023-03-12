@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,702 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,683 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 53 | [Last Christmas](https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Last Christmas](https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ) | 2:56 |
 | 54 | [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 |
 | 55 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4) | 1:55 |
-| 56 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
-| 57 | [The Bells Are Ringing](https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ) | 3:18 |
+| 56 | [The Bells Are Ringing](https://open.spotify.com/track/61czg3UxRqmcoCNe7frNlC) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing](https://open.spotify.com/album/7jCgZ8XltO9qaIBckSpQqZ) | 3:18 |
+| 57 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 58 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 | 59 | [The Banister Bough](https://open.spotify.com/track/5kPfxp5TqffVKM6iVeS1xb) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/02UKO5a8LFQ5DLmyozpQBc) | 4:09 |
 | 60 | [Favorite Christmas Song](https://open.spotify.com/track/4Q3yYPlcjuQ2umodTkdMeR) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [Favorite Christmas Song](https://open.spotify.com/album/05QDmn6fw0MTjC3RCig5cB) | 3:25 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 69 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
 | 70 | [The First Noel](https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [River City Christmas](https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg) | 3:39 |
 | 71 | [It Snowed \- Remastered](https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38) | [Meaghan Smith](https://open.spotify.com/artist/47QqI0kuVSCrV0KVRBZ3km) | [It Snowed](https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9) | 3:44 |
-| 72 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
-| 73 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
-| 74 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 |
+| 72 | [christmas vacation](https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [christmas vacation](https://open.spotify.com/album/3wQIx8fylcIeKYMmfzVDkp) | 2:13 |
+| 73 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 |
+| 74 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 |
 | 75 | [Christmas In A Cage](https://open.spotify.com/track/1gf6ixq1F0sZkoc9Kvaray) | [Fur Trade](https://open.spotify.com/artist/3Wrg4k4AIvnUbg9103fxkW) | [Christmas In A Cage](https://open.spotify.com/album/37ULvZCm8qn0gEEGA3Wytp) | 4:02 |
 | 76 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 |
 | 77 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 93 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
 | 94 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 |
 | 95 | [Good King Wenceslas](https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Angels](https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn) | 3:53 |
-| 96 | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 |
-| 97 | [Christmas Morning is Finally Here!](https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Yet Another BROS Christmas](https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ) | 2:25 |
+| 96 | [Christmas Morning is Finally Here!](https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Yet Another BROS Christmas](https://open.spotify.com/album/38NS7xdd19T0kWT89XDTmZ) | 2:25 |
+| 97 | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/track/71JECBTllXdl37lGVkH33S) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [It Won't Be Christmas \('till You're Here\)](https://open.spotify.com/album/6t6t6VnBN5OfgtUVe0DU6t) | 4:00 |
 | 98 | [Christmas Time's A Comin'](https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Christmas Time's A Comin'](https://open.spotify.com/album/3MKhVxsFUt1XYgMCZ4UkPN) | 2:43 |
 | 99 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 |
 | 100 | [O Come All Ye Faithful](https://open.spotify.com/track/3PJWrzeVy0zQIEN1WlyCxo) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 3:43 |
 
-Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMGNhZTA4NmMyZWQzZjBhNzE4M2U5NTI3OWM0ODU0MDI5`
+Snapshot ID: `MTY3MTIwODQ0OSwwMDAwMDAwMDhmNTJlN2Q3ZWM1NTBiOTU1N2M0ZmNlOTFhMjZmZjhm`

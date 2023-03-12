@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 99905,
+  "num_followers": 99931,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NzY3MywwMDAwMDAwMGVhYzFhZTk1NzFlMTExZDAzMDU1ZjUyZTdjMWM5NDRi",
+  "snapshot_id": "MTY3MzQ3NzY3MywwMDAwMDAwMGNlMjJlOWM0MDJiMjcwMzYxYmY2OTY4M2U3MzE3N2E2",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Gates to the Sun (POLLEN Singles)",
         "url": "https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 135748,
       "name": "Gates to the Sun (POLLEN Singles)",
       "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Praying for July - Spotify Singles",
-        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 186159,
-      "name": "Praying for July - Spotify Singles",
-      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 261337,
       "name": "Goodpain - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Praying for July - Spotify Singles",
+        "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 186159,
+      "name": "Praying for July - Spotify Singles",
+      "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -960,22 +960,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 332163,
-      "name": "Scott Street - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU"
       },
       "artists": [
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+      "duration_ms": 332163,
+      "name": "Scott Street - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 239487,
-      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1067,6 +1051,22 @@
       "duration_ms": 245786,
       "name": "Give Yourself A Try - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 239487,
+      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1156,17 +1156,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 323466,
-      "name": "Bittersweet Symphony - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/0Bi1yywe4x2EpWgcuCZ1Hb"
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1188,17 +1188,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 323466,
+      "name": "Bittersweet Symphony - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/0Bi1yywe4x2EpWgcuCZ1Hb"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1272,7 +1272,7 @@
       },
       "artists": [
         {
-          "name": "Grouplove",
+          "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
@@ -1436,17 +1436,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+        "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 155797,
-      "name": "Go Away - Spotify Singles",
-      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+      "duration_ms": 176958,
+      "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1500,33 +1500,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 176958,
-      "name": "Life Is Confusing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/3xTqO5pmcvcQ42RIYodPNO"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Dead Boys - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
+      "duration_ms": 155797,
+      "name": "Go Away - Spotify Singles",
+      "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1543,6 +1527,22 @@
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Dead Boys - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1756,22 +1756,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 292687,
-      "name": "Nocturne - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
@@ -1783,6 +1767,22 @@
       "duration_ms": 234473,
       "name": "Breathe - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 292687,
+      "name": "Nocturne - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1932,22 +1932,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Headlock - Spotify Singles",
-      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
       },
       "artists": [
@@ -1959,6 +1943,22 @@
       "duration_ms": 188196,
       "name": "My Backwards Walk - Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Wasting Time - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Wasting Time - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96"
     }
   ],
   "unique_name": "Spotify Singles: Indie & Alternative",

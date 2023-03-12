@@ -4,14 +4,15 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-592 songs - 1 day 1 hr 55 min
+593 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certainty](https://open.spotify.com/track/4W5voTvwyWCra3bqLGatqA) | [Khanipova](https://open.spotify.com/artist/7KHQppBj7ea6qRp4NsTN1u) | [A Certainty](https://open.spotify.com/album/28UBpqqFY7XuKo5fIMgunc) | 2:37 | 2022-04-21 | 2022-09-24 |
+| [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-03-12 |  |
 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 | 2022-04-21 |  |
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2022-04-21 |  |
-| [A Piece In Three Four](https://open.spotify.com/track/53QF1jYx9t2QTfViROvl6W) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Winter Sessions By The Lake](https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA) | 2:43 | 2022-04-21 |  |
+| [A Piece In Three Four](https://open.spotify.com/track/53QF1jYx9t2QTfViROvl6W) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Winter Sessions By The Lake](https://open.spotify.com/album/4pwxYdiYntZbLCuyJQnadA) | 2:43 | 2022-04-21 | 2023-03-12 |
 | [A Tough Hand](https://open.spotify.com/track/4UYSLzyr0ONAmb9MapOruJ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [A Tough Hand](https://open.spotify.com/album/24rSOZgo1sJvLCmoRXelVe) | 2:27 | 2022-04-21 |  |
 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 | 2022-04-21 |  |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-21 | 2022-07-21 |
@@ -201,7 +202,7 @@
 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 | 2022-04-21 | 2022-07-21 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-04-21 | 2022-09-24 |
 | [Hengivenhet](https://open.spotify.com/track/09xhHABxdKi798ORUSbor5) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Hengivenhet](https://open.spotify.com/album/2UqDfKhXAABKso80rqHEAW) | 2:00 | 2022-04-21 | 2022-09-24 |
-| [Hidden place](https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Hidden place](https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx) | 3:15 | 2022-07-20 | 2022-09-24 |
+| [Hidden place](https://open.spotify.com/track/3NZVlwqVu3qMwYM7EXaMV9) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Hidden place](https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx) | 3:15 | 2022-07-20 |  |
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-04-21 | 2022-07-21 |
 | [Higher Powers](https://open.spotify.com/track/6Et50X8JCM7xDxACF28mv3) | [Isabelle Taylor](https://open.spotify.com/artist/4XTnPVtZMaZfV1pScZs0g2) | [Transients](https://open.spotify.com/album/4qeC0Kw7vuH2EgSQaP0i5Z) | 2:55 | 2022-07-20 | 2022-09-24 |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-21 | 2022-09-24 |
@@ -280,7 +281,7 @@
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-21 |  |
 | [Liefde](https://open.spotify.com/track/6mcqEF5nxG6PHa0NNaZmcD) | [Juultje Berben](https://open.spotify.com/artist/7y7TQWBzst8y1iWH8V4bxM) | [Liefde](https://open.spotify.com/album/5QYroHBDwWKZGcl2vvpGXc) | 2:08 | 2022-04-21 | 2022-09-24 |
 | [Liefde maakt blind](https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Liefde maakt blind](https://open.spotify.com/album/7CPXA05Q0uVQgND8qMzyIN) | 2:21 | 2022-04-21 | 2022-09-24 |
-| [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 | 2023-02-20 |  |
+| [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 | 2023-02-20 | 2023-03-12 |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2022-04-21 | 2022-09-24 |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2022-04-21 | 2022-07-21 |
 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 | 2022-04-21 |  |

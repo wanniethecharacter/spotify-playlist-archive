@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Turf en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,624 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,646 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 20 | [¡Paraliza!](https://open.spotify.com/track/1gkxLvVU53ZVUC1uDX3vXf) | [Sergio Arau](https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [¡Paraliza!](https://open.spotify.com/album/5A692oLgPdiMykmUTu7ey4) | 3:08 |
 | 21 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 |
 | 22 | [Carlota](https://open.spotify.com/track/4TQBzrYB34PFJBod5A1gOM) | [Ceu](https://open.spotify.com/artist/19wWQRvLIGwQ64kvt3BY4N), [Gato Ventura](https://open.spotify.com/artist/7h2kM4syJ9RjSNu0UMGmTZ), [Hábikas](https://open.spotify.com/artist/4B4iNqGxreBvUxdoJnhM0l) | [Carlota](https://open.spotify.com/album/55MBkS69nYcKmvjZ0CHnCX) | 4:37 |
-| 23 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 |
+| 23 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 |
 | 24 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 |
 | 25 | [Cuál es el Precio?](https://open.spotify.com/track/1SYg2THcUb9ngNLlrG9orl) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [\#leopunk](https://open.spotify.com/album/6P9zapTllsF4lBjUBPkbAx) | 2:39 |
 | 26 | [Sintigo](https://open.spotify.com/track/08E2MbW153qUf0fX2V6Eup) | [Vaho](https://open.spotify.com/artist/6JmWO5NtRuHGpSI2HfFIA9) | [Sintigo](https://open.spotify.com/album/6YF0laPG6Ye6qUhA6sHbr7) | 3:47 |

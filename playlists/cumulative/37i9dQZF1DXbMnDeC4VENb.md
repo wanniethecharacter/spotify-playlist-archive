@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-100 songs - 6 hr 0 min
+101 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Azul](https://open.spotify.com/track/3a5W4nmrBbVRjG021nr7TT) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Azul](https://open.spotify.com/album/2FMtltWwGmupZfrxlrBqgf) | 2:43 | 2022-05-25 |  |
 | [Balada](https://open.spotify.com/track/4i1AQRFGt5pMeXDi7WL0xT) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/72UUDbcdajvOVAvKgRnhIS) | 4:20 | 2022-06-27 |  |
 | [Balada](https://open.spotify.com/track/7otmcwp4mIqNLm12UJRg9k) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/6CZNH0qfdnTQQFf3PXWejf) | 4:20 | 2022-05-25 | 2022-07-29 |
-| [Barbie Ven](https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD) | 2:40 | 2022-05-25 |  |
+| [Barbie Ven](https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD) | 2:40 | 2022-05-25 | 2023-03-12 |
+| [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 | 2022-10-17 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2022-05-25 |  |
 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 | 2022-05-25 |  |
 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 | 2022-05-25 |  |

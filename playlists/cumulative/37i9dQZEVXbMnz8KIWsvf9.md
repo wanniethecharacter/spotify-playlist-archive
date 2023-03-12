@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-562 songs - 1 day 9 hr 3 min
+563 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 | 2023-01-14 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-29 | 2022-09-23 |
-| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 |  |
+| [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/track/4pfjFUrtfnnkADqijqKmzP) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันคือนักสะสมความเศร้า](https://open.spotify.com/album/10y1B7xbbawrkQ9VZ6uXZC) | 4:48 | 2023-02-11 | 2023-03-12 |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-30 | 2022-12-20 |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
@@ -497,6 +497,7 @@
 | [สองใจ \- เพลงประกอบละคร วันทอง](https://open.spotify.com/track/5sXuqzLmT1z6Gnf3S2TzSz) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [เพลงประกอบละคร วันทอง](https://open.spotify.com/album/0u4nlYmFv63JtoNUVBwpaT) | 4:10 | 2021-03-27\* | 2021-07-23 |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 | 2021-03-27\* | 2022-01-19 |
 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2022-08-17 | 2022-09-18 |
+| [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-11 |  |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2021-04-01 | 2021-08-20 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0joifGFQVXZY8dZlwN9Gue) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/24fGy2iVe1Ptkqh4CJqps9) | 4:10 | 2021-06-19 | 2021-06-26 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/0Gex9SSDNTtbiL4JOqfOhl) | 4:14 | 2021-06-12 | 2021-08-03 |

@@ -4,7 +4,7 @@
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-58 songs - 5 hr 6 min
+59 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Lasidan \(with Ry Cooder\)](https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 6:06 | 2021-12-28 |  |
 | [Ledi Coumbe](https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 3:14 | 2021-12-28 |  |
 | [Mahini Me \(feat\. Taj Mahal\) \- 2017 Remastered Version](https://open.spotify.com/track/1No6xpDnfTqDIpON5Zqnmd) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Source \(2017 Remastered Version\)](https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj) | 5:24 | 2021-12-28 |  |
+| [Malahani](https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 3:59 | 2023-03-11 |  |
 | [Mali Dje](https://open.spotify.com/track/1CHKHF1roftcIHOp2jPzc1) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 5:39 | 2021-12-28 | 2023-01-10 |
 | [Mamadou boutiquier](https://open.spotify.com/track/4IaqsaM4hrXiSep5zQIVku) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 5:03 | 2021-12-28 |  |
 | [Monsieur le Maire de Niafunké](https://open.spotify.com/track/00lcn90nnKszEEuVgO8VzK) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [In the Heart of the Moon](https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX) | 3:55 | 2021-12-28 |  |

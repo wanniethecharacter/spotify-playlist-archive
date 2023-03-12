@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 48720,
+  "num_followers": 48841,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDRmMDUxZDE1NjBjZTlhYWZkNmMyODY1MDQ0OTI5YWQ0",
+  "snapshot_id": "MTY3MjI0NjkzMSwwMDAwMDAwMDQyODlkODg0NjQ1MTJlNmM1MWEyYWEwYmUzMWUzNmY3",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 231846,
-      "name": "Dance To This (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 231846,
+      "name": "Dance To This (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "I Drove All Night",
-      "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "I Drove All Night",
+      "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 192172,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 239853,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 192172,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Bubblebath",
-        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
-      },
-      "artists": [
-        {
-          "name": "That Poppy",
-          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Meaning of Life",
         "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 172426,
       "name": "Love So Soft",
       "url": "https://open.spotify.com/track/16QN8cBubEq706vNtPpOME"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Bubblebath",
+        "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
+      },
+      "artists": [
+        {
+          "name": "That Poppy",
+          "url": "https://open.spotify.com/artist/5LtL2B9LC31DesMx7ihMFc"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 315466,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
     },
     {
       "added_at": "2022-12-28 17:02:11",

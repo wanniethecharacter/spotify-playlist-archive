@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 414455,
+  "num_followers": 414460,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMDkzOSwwMDAwMDAwMDc2MDlhNmJhMjBmNDY0YWQ1MWVhODNlOGY0ODg0Y2Iy",
+  "snapshot_id": "MTY3ODIwMDkzOSwwMDAwMDAwMDg4MTJiYWE1NWMwMGQxZmZhNjM2Yzg0OTkzNWY2MGJj",
   "tracks": [
     {
       "added_at": "2023-03-07 14:55:39",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        },
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Con La Brisa",
-      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Con La Brisa",
+      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 220346,
       "name": "Firebabe",
       "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 165835,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 165835,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 130042,
-      "name": "Sad Anymore",
-      "url": "https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
         "name": "Call Me A Dreamer",
         "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 130042,
+      "name": "Sad Anymore",
+      "url": "https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr"
     },
     {
       "added_at": "2023-03-07 14:55:39",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-03-07 14:55:39",
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "duration_ms": 163414,
+      "name": "Hallelujah I Love Her So",
+      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
+    },
+    {
+      "added_at": "2023-03-07 14:55:39",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 173196,
       "name": "Have I Ever Been",
       "url": "https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up"
-    },
-    {
-      "added_at": "2023-03-07 14:55:39",
-      "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
-      },
-      "artists": [
-        {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
-        }
-      ],
-      "duration_ms": 163414,
-      "name": "Hallelujah I Love Her So",
-      "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
     },
     {
       "added_at": "2023-03-07 14:55:39",

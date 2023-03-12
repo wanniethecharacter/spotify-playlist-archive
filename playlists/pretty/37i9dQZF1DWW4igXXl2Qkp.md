@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: SheedTs
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,144 likes - 65 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,178 likes - 65 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 4 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 |
 | 5 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
 | 6 | [Bleeda Story](https://open.spotify.com/track/2MybTFEA2hpIpPwvOQZgeg) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7) | [Bleeda Story](https://open.spotify.com/album/3coKnhp9KOQ4YL9mE075iN) | 3:28 |
-| 7 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:34 |
+| 7 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:31 |
 | 8 | [before the sunset](https://open.spotify.com/track/6Sl8ZFkYXI2oYXHeHjo0gy) | [Seth Sutch](https://open.spotify.com/artist/2znMo5vYA8FuOuCZ1V8uXt) | [before the sunset](https://open.spotify.com/album/7yBmQJ8URZIoE4Fr1wVdmr) | 2:31 |
 | 9 | [ELEGANT](https://open.spotify.com/track/4ldrsvOaR5xm52qYbza3OS) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [ELEGANT](https://open.spotify.com/album/5tkDAf8KqAe23FWIOCH1HN) | 2:09 |
 | 10 | [Heart On Fire](https://open.spotify.com/track/2cdoLBywWSteVmmWYzERWQ) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV), [Bachi](https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK) | [21](https://open.spotify.com/album/02FoSzcOuebI50hMoSzrrK) | 2:42 |

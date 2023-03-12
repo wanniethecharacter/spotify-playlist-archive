@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [369](https://open.spotify.com/track/2OdI0PsoOfmYDpL82pa70r) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [369](https://open.spotify.com/album/3e2NSVt6UDn8J4stYPA5eT) | 4:08 | 2022-11-10 | 2023-01-27 |
-| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
+| [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [MALAK](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 |  |
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 |  |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
 | [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 |  |

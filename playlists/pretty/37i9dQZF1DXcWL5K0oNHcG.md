@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Olivia Khoury Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,977 likes - 90 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,029 likes - 90 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

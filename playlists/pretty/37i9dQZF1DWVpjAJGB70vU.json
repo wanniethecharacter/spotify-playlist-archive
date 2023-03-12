@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Brooks & Dunn's iconic album \"Hard Workin' Man\" on 90s Country! ",
-  "num_followers": 1495140,
+  "num_followers": 1496079,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEyODQwMCwwMDAwMDAwMGNhNjRhYzY0ZTE1N2QzY2UyZjllMmM5YjY4MDcwMDZj",
+  "snapshot_id": "MTY3NzEyODQwMCwwMDAwMDAwMDM0NWViNTcyZTI4MGE5OWFjZGIwYjhjZjhmZjliOWUw",
   "tracks": [
     {
       "added_at": "2023-01-20 04:30:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211306,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "The Greatest Hits Collection",
         "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 147640,
       "name": "Tall, Tall Trees",
       "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "T-R-O-U-B-L-E",
-        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 180160,
-      "name": "T-R-O-U-B-L-E",
-      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
+      "duration_ms": 188200,
+      "name": "How Forever Feels",
+      "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "How Forever Feels",
-      "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Third Rock From The Sun",
         "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216200,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "T-R-O-U-B-L-E",
+        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "T-R-O-U-B-L-E",
+      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "I Will Stand",
         "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 272066,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 198440,
       "name": "Party Crowd",
       "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+          "name": "Ricochet",
+          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
         }
       ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+      "duration_ms": 183493,
+      "name": "Daddy's Money",
+      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
       "artists": [
         {
-          "name": "Ricochet",
-          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Daddy's Money",
-      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -1715,38 +1715,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Something In Red",
-        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Except for Monday",
-      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
-        "name": "High Lonesome",
-        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Better Class of Losers",
-      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Boomtown",
         "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
@@ -1763,6 +1731,22 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
+        "name": "Something In Red",
+        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
+      },
+      "artists": [
+        {
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Except for Monday",
+      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 210866,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "High Lonesome",
+        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Better Class of Losers",
+      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
     },
     {
       "added_at": "2023-01-20 04:30:15",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-01-20 04:30:15",
       "album": {
-        "name": "Only What I Feel",
-        "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
-      },
-      "artists": [
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 298560,
-      "name": "How Can I Help You Say Goodbye",
-      "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
-    },
-    {
-      "added_at": "2023-01-20 04:30:15",
-      "album": {
         "name": "Wynonna",
         "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 240706,
       "name": "No One Else On Earth",
       "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
+    },
+    {
+      "added_at": "2023-01-20 04:30:15",
+      "album": {
+        "name": "Only What I Feel",
+        "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "duration_ms": 298560,
+      "name": "How Can I Help You Say Goodbye",
+      "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
     },
     {
       "added_at": "2023-01-20 04:30:15",

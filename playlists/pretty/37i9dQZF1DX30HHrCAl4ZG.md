@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring Slow Pulp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,097 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,098 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
-| 2 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 2 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 3 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 |
 | 4 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 |
 | 5 | [Words](https://open.spotify.com/track/6DjalgUwaxb7bSv88iMzxG) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Words](https://open.spotify.com/album/51idvHzj31cdleqV2kXpYJ) | 5:08 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 23 | [Ghost](https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Ghost](https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P) | 2:51 |
 | 24 | [Fish Maan](https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Fish Maan](https://open.spotify.com/album/0LgNeIrO1osf37UbuW1BIa) | 1:49 |
 | 25 | [Pontius Pilate's Home Movies](https://open.spotify.com/track/152Ddv62y84DfPLEKTUKd5) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Pontius Pilate's Home Movies](https://open.spotify.com/album/1i2UudOjUlX4RKyARPGbh1) | 3:54 |
-| 26 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Worth It](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
+| 26 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
 | 27 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
 | 28 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 |
 | 29 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 |

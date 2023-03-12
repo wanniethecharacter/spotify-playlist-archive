@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
+    },
+    {
+      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 201909,
       "name": "confession",
       "url": "https://open.spotify.com/track/5Qz5MH0tnp5Hu1WNc7ZC13"
@@ -854,6 +872,24 @@
       "duration_ms": 267337,
       "name": "Deconstruction",
       "url": "https://open.spotify.com/track/5OZMaDnsgkKDgXOe8l39iF"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189528,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE"
     },
     {
       "album": {
@@ -1557,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
+    },
+    {
+      "album": {
         "name": "Goodbye Ole Me",
         "url": "https://open.spotify.com/album/4nFLk3fZUyo8CnQZ1FHKc2"
       },
@@ -1604,7 +1662,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 128000,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7aUtyTij6lRyNjSAV9liDq"
@@ -1792,7 +1850,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 157975,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/0fuBuGMSf5gPKkKvJ9BjG4"
@@ -4007,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
+    },
+    {
+      "album": {
         "name": "Sweet Water",
         "url": "https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q"
       },
@@ -4134,7 +4210,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 261000,
       "name": "Taste And See",
       "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"

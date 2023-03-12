@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,058 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,062 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 53 | [I Don't Care \(with Justin Bieber\) \- Jonas Blue Remix](https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Don't Care \(with Justin Bieber\) \[Jonas Blue Remix\]](https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT) | 3:12 |
 | 54 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
 | 55 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 |
-| 56 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
-| 57 | [Why Boy](https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Dave Crusher](https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F) | [Why Boy](https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo) | 2:30 |
+| 56 | [Why Boy](https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Dave Crusher](https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F) | [Why Boy](https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo) | 2:30 |
+| 57 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
 | 58 | [Pieces](https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Pieces](https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE) | 3:00 |
 | 59 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 60 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 | 80 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 |
 
-Snapshot ID: `MTY3ODQ0MzU0NiwwMDAwMDAwMGJkYjNjNmI4ODk5NDYyOGYyYTU0YTc3ZmNlYzY4YmNj`
+Snapshot ID: `MTY3ODQ0MzU0NiwwMDAwMDAwMDRhOTczZDEyNTkyMWFkZTEyMjRhOTc1ODMwOWVjMGZm`

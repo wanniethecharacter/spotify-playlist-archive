@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,983 likes - 95 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,000 likes - 95 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 11 | [Emmaline](https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 3:35 |
 | 12 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
 | 13 | [Out of Sight \(Out of Mind\)](https://open.spotify.com/track/00XkBPsjAlNyw4VeQrQSJY) | [Emily West](https://open.spotify.com/artist/20YJEBSWm14EDzjbXNcwDA), [Whiskey Wolves of the West](https://open.spotify.com/artist/301ao5Vcw38iIFuWiMG1Rj) | [Dear Diary](https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi) | 4:00 |
-| 14 | [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 |
+| 14 | [Cryin In The Rain](https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA) | 3:30 |
 | 15 | [Little Bit Longer](https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA) | [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Little Bit Longer](https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7) | 3:55 |
 | 16 | [What A Strange Time To Be Alive](https://open.spotify.com/track/0mmapJXijQcLERMo1t747B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [What A Strange Time To Be Alive](https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp) | 3:06 |
 | 17 | [Never Tear Us Apart](https://open.spotify.com/track/5LDbQdfOJEb0y2f3QwlzUw) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Never Tear Us Apart](https://open.spotify.com/album/7hWLND0iED2GC0JEQZRJek) | 3:24 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 94 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 95 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDM4M2Q1ZTgyYjAzMzgwYjkyODg0Njg5MTIzZDEzN2Qx`
+Snapshot ID: `MTY3ODQyNDQ2MCwwMDAwMDAwMDMyNWFiMTQ4NTFhOGRlNmMxNzJjZmE4MWY1MTBhMTQx`

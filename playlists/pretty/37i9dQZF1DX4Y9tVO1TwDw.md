@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Eddie Zuko
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,094 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,101 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 43 | [overflow](https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [overflow](https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU) | 2:55 |
 | 44 | [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 |
 | 45 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 |
-| 46 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
-| 47 | [Judge Not](https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Judge Not](https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O) | 2:38 |
+| 46 | [Judge Not](https://open.spotify.com/track/6NFbwWsDoXyqLKZsQq9dVP) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Judge Not](https://open.spotify.com/album/1JLe0I0YpC6hJmEIkW265O) | 2:38 |
+| 47 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 48 | [9pm](https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [9pm](https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca) | 2:26 |
 | 49 | [Cost of Loyalty](https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Cost of Loyalty](https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS) | 2:28 |
 | 50 | [Drink Me Like Wine](https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Drink Me Like Wine](https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k) | 2:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 54 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 |
 | 55 | [Azúcar y Miel](https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS) | [Los Velvets](https://open.spotify.com/artist/2XwCyW0m2J8oTZZ3VIBVy5) | [Azúcar y Miel](https://open.spotify.com/album/66RHHesIVcYuJm0BkmajkK) | 3:12 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDFmOGQ3NjVjNTU2N2RmZGNhZTY3MDE1MjkyZDU5YjRl`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGJjMmRkMThkMTJlNTg4Yjc4OTYzNjY5ZTE5MWE4Zjhl`

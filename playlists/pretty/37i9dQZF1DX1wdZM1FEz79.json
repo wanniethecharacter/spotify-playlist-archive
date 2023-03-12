@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: J.YUNA(\uc81c\uc774\uc720\ub098)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 242427,
+  "num_followers": 242590,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMDJmYjU5ODY0MTE2NWY5ZDIyM2EzYzkyM2RhN2FlY2Ri",
+  "snapshot_id": "MTY3NzczOTc5OCwwMDAwMDAwMGRkN2JkYTQzYWVlNjhlZDA0MGI2NjhhNGE2MTVlNWMx",
   "tracks": [
     {
       "added_at": "2023-03-02 06:49:58",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-03-02 06:49:58",
       "album": {
-        "name": "Dear My All",
-        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Dear My All",
-      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
-    },
-    {
-      "added_at": "2023-03-02 06:49:58",
-      "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
+    },
+    {
+      "added_at": "2023-03-02 06:49:58",
+      "album": {
+        "name": "Dear My All",
+        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Dear My All",
+      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
     },
     {
       "added_at": "2023-03-02 06:49:58",

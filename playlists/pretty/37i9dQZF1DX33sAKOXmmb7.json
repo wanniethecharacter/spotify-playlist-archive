@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 39142,
+  "num_followers": 39250,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGIxNjA1MjM5N2RiZmY4OWYxNTQ5ODg3YWQ0N2ZiODNh",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDY0NWNhOTk0NzVjYzcyYjRhMzQ1ZTMyYzJmMmZkMWMw",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 280794,
       "name": "By and By",
       "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
         "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Recording 15",
-      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Recording 15",
+      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Burn Your Fire For No Witness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 125440,
       "name": "Unfucktheworld",
       "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Small Hands",
-      "url": "https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/11gZYT85Mx4aSiHthMYLLQ"
+      },
+      "artists": [
+        {
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Small Hands",
+      "url": "https://open.spotify.com/track/40jiZBsr1W3SG15AGU9227"
     },
     {
       "added_at": "2022-02-04 21:53:01",

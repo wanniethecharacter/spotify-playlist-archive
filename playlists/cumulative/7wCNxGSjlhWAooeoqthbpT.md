@@ -4,7 +4,7 @@
 
 > Check your vibe with Epic Records.
 
-156 songs - 7 hr 57 min
+157 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
 | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/track/08S37oejetoPevVixK6iXN) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Baby Don't Cry \(feat\. Young Thug\)](https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1) | 3:04 | 2023-01-20 |  |
 | [Baccwood](https://open.spotify.com/track/5If13CIfsTGrzOcT2FOa1t) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Baccwood](https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94) | 1:27 | 2022-06-10 | 2022-07-16 |
-| [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 |  |
+| [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-24 | 2023-03-12 |
 | [Bad For Me \(feat\. Teddy Swims\) \- jtrain Remix](https://open.spotify.com/track/1OMpg6BS9PkqaB2mfiPD7H) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [jtrain](https://open.spotify.com/artist/3kub3T0UYuzMjoMw8ofksM) | [Bad For Me \(Remixes\) \(feat\. Teddy Swims\)](https://open.spotify.com/album/39niNC5MSsZ9MOO3ICkjnp) | 3:07 | 2022-08-26 | 2022-09-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-04 | 2022-11-05 |
 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 | 2022-11-18 |  |
@@ -103,6 +103,7 @@
 | [Modern Art](https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Modern Art](https://open.spotify.com/album/6YQt8LnQUXAEzO4eWIdPfx) | 2:39 | 2022-03-11 | 2022-09-25 |
 | [Moonwalking \(feat\. DJ Drama & Ron Suno\)](https://open.spotify.com/track/4uYDoLcUEAKhy9cLEECtzw) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [Moonwalking \(feat\. DJ Drama & Ron Suno\)](https://open.spotify.com/album/1DNweKGpzInFXs1FgsIjy1) | 3:33 | 2022-05-06 | 2022-07-09 |
 | [MORE THAN FRIENDS](https://open.spotify.com/track/3woWtzkN6KKSfX7VBW6nDg) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:18 | 2022-07-29 |  |
+| [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 | 2023-03-10 |  |
 | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/track/2Ql8dkIZNyKwUAERBTSKhy) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Mr Universe \(feat\. General Levy\)](https://open.spotify.com/album/2UiNHGYxJR1RDDEIiPlQQD) | 2:53 | 2022-09-23 |  |
 | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ) | 2:24 | 2022-04-29 | 2022-07-09 |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-06-10 | 2022-10-15 |

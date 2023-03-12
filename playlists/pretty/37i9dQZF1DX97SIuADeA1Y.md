@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,641 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,762 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 22 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Isaak Guderian](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |
 | 23 | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 |
 | 24 | [Mask Off](https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Mask Off](https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl) | 2:31 |
-| 25 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
-| 26 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
+| 25 | [Sweet Dreams \(feat\. Imanbek\) \- With Alok](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
+| 26 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
 | 27 | [Party All The Time](https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Party All The Time](https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh) | 2:14 |
 | 28 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 |
 | 29 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt) | 2:59 |
 | 60 | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Hypanda](https://open.spotify.com/artist/04SWu4kCwYK5DjY6V7KoEk), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/album/3exvA9tTSdyyykWzLqCrCq) | 2:19 |
 
-Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMGJlMjExZjhiMzQxYmM3YzVkZjY2ZTY1Mjc0NjA0ZDM3`
+Snapshot ID: `MTY3ODQ2NDAwMCwwMDAwMDAwMGRlOTM3ZWEwY2RlMzYwZmYxZmNlN2JlMDM5OWQ0NjMy`

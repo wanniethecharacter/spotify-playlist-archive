@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,818 likes - 141 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,944 likes - 141 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

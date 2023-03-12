@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-278 songs - 15 hr 45 min
+279 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bittern](https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 1:21 | 2022-07-19 | 2022-07-23 |
 | [Bittern](https://open.spotify.com/track/4BAnBnoMh2NIImT9kzTR6I) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 1:21 | 2023-01-13 |  |
 | [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 | 2023-01-28 |
+| [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 | 2023-03-09 |  |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2022-07-29 |
 | [Bluebirds](https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP) | [The Highest Clouds](https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH) | [Bluebirds](https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw) | 2:07 | 2022-06-29 |  |
 | [Brain Imaging](https://open.spotify.com/track/0y970SMstSYeB4fErHwjGY) | [Neural Oscillations](https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb) | [Alpha Activity](https://open.spotify.com/album/1S7gmkPo26PWlGiotf5RWy) | 2:43 | 2022-06-29 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-06-29 |  |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-06-29 |  |
 | [Dusty Dreams](https://open.spotify.com/track/6b4RgLPHXlHhFmQPQAGvHR) | [Gloomscape](https://open.spotify.com/artist/1MjyCytp4mykFQFzY4Eaxr) | [Impulse](https://open.spotify.com/album/1Xw82vyc5q3JSm74fJGexh) | 3:06 | 2022-07-19 | 2022-07-29 |
-| [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 |  |
+| [Earth Shapes: Nature](https://open.spotify.com/track/6F2VfHRVN9JGHfu8wcYeCG) | [Sverre Knut Johansen](https://open.spotify.com/artist/1lwjp3HkW6gREisFqZrj7S) | [Earth Shapes](https://open.spotify.com/album/2Agc5QqZw24ihceuYA3Btg) | 4:11 | 2022-06-29 | 2023-03-12 |
 | [Epilogue](https://open.spotify.com/track/3YEoriryySI6V3qvGaWMhi) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Epilogue](https://open.spotify.com/album/35tY6f0RQolHGEoipgL7Sl) | 3:07 | 2022-06-29 | 2022-07-29 |
 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-01-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-06-29 |  |

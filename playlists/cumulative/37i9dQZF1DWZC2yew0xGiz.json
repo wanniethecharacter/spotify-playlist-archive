@@ -572,10 +572,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 246520,
       "name": "Part Time Lover",
       "url": "https://open.spotify.com/track/17EMfJzJqG8ND5oroo5o6j"
+    },
+    {
+      "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "H-Town",
+          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247960,
+      "name": "Part Time Lover",
+      "url": "https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv"
     },
     {
       "album": {

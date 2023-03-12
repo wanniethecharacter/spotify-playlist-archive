@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Lizzy McAlpine",
-  "num_followers": 807609,
+  "num_followers": 807798,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDQwNDg3YzI4NGRlMzIxYzgxNzRiZTUyODdhMDNiOGEx",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGFiZTc4MmVhMzExYTRlY2M4NTk0NTU1NjJmODhkOGNj",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -683,6 +703,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -699,22 +735,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -815,22 +835,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "This Could Be Good",
-      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa"
       },
@@ -847,6 +851,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "This Could Be Good",
+      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Yellow Paper Daisy",
         "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 199772,
       "name": "Yellow Paper Daisy",
       "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        },
-        {
-          "name": "Lostboycrow",
-          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        },
+        {
+          "name": "Lostboycrow",
+          "url": "https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Pretty Picture, Dirty Brush",
         "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -991,6 +995,22 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1383,22 +1403,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 211579,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1447,6 +1451,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 211579,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Omaha",
         "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
       },
@@ -1479,22 +1499,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "These Cold Nights",
         "url": "https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9"
       },
@@ -1511,18 +1515,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "All But The Sun",
-        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Winterbourne",
-          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 266397,
-      "name": "Steady My Bones",
-      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1539,6 +1543,22 @@
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "All But The Sun",
+        "url": "https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb"
+      },
+      "artists": [
+        {
+          "name": "Winterbourne",
+          "url": "https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty"
+        }
+      ],
+      "duration_ms": 266397,
+      "name": "Steady My Bones",
+      "url": "https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1639,22 +1659,6 @@
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "In Tokens & Charms",
-        "url": "https://open.spotify.com/album/1O6ouUiZXpuAOjINj1JYul"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 211193,
-      "name": "Oh Love",
-      "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
     }
   ],
   "unique_name": "Folk Pop",

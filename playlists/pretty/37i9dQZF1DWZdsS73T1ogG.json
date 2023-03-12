@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Mariah Angeliq ",
-  "num_followers": 513934,
+  "num_followers": 513991,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDRmMGMwMDNmNWZhODkzYTdlMDhjZjM5YjU3YjgxYTM3",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ1ZWVkZWM4MmM5OTUwNGUyZjg4NzYxMjMyMDdhZWQy",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "SHERATON",
+        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "SHERATON",
+      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Nopalatele",
         "url": "https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 189000,
       "name": "Solo $exo",
       "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "SHERATON",
-        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "SHERATON",
-      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "LE DOY 20 MIL",
-        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 182793,
-      "name": "LE DOY 20 MIL",
-      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 209203,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "LE DOY 20 MIL",
+        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 182793,
+      "name": "LE DOY 20 MIL",
+      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 165396,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 165396,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Tratemos",
-        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
+        "name": "Pretty Bad Bitch",
+        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
       },
       "artists": [
         {
-          "name": "Bernier",
-          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         },
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Tratemos",
-      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+      "duration_ms": 203280,
+      "name": "Pretty Bad Bitch",
+      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Tratemos",
+        "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
+      },
+      "artists": [
+        {
+          "name": "Bernier",
+          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Tratemos",
+      "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Chingar (Remix)",
         "url": "https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 187195,
       "name": "Chingar (Remix)",
       "url": "https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Pretty Bad Bitch",
-        "url": "https://open.spotify.com/album/4KPCiL8KXZ0c6GZlb0dSRV"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Pretty Bad Bitch",
-      "url": "https://open.spotify.com/track/5Pfv9O833ZMX4q2PdiCHvT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Toronto",
-        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "Persy",
-          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Toronto",
-      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "UuU",
         "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
@@ -1667,18 +1647,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/1QOr09jMkuAzns6EAxUkr0"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "Persy",
+          "url": "https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Arte",
-      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+      "duration_ms": 232277,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/2HoDXiTgzmcNiY1Pich8cP"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 213983,
       "name": "La Ideal",
       "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Arte",
+      "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/0QZODC5XhYHHCowfJFOHbC"
-      },
-      "artists": [
-        {
-          "name": "Mequi",
-          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 198951,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/2mkS6DKJIldz6Qv88e2ka9"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Uva",
         "url": "https://open.spotify.com/album/36CZqjmsiL3aRFkkbgn5d2"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 187040,
       "name": "Uva",
       "url": "https://open.spotify.com/track/7eiLYbtnvcPcA7UE7lcgqm"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Romeo",
+        "url": "https://open.spotify.com/album/0QZODC5XhYHHCowfJFOHbC"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "duration_ms": 198951,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/2mkS6DKJIldz6Qv88e2ka9"
     },
     {
       "added_at": "2023-03-10 05:00:00",

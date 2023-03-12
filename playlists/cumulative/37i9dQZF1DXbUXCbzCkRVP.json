@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Mr. B.",
+        "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
+      },
+      "artists": [
+        {
+          "name": "Tomislav Goluban",
+          "url": "https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN"
+        },
+        {
+          "name": "Bo\u0161ko Petrovi\u0107",
+          "url": "https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405346,
+      "name": "Mr. B.",
+      "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 181814,
       "name": "Ode to Lynn Taitt",
       "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"

@@ -4,7 +4,7 @@
 
 > Time to mend your broken heart with beautiful melodies!
 
-88 songs - 6 hr 26 min
+89 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Paakatha](https://open.spotify.com/track/1DMtKqASKCs8lKnSujsOKX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Aaru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6wkrVFcU6leM2EV1MEtmMR) | 4:25 | 2021-09-15 |  |
 | [Po Nee Po \- The Pain of Love](https://open.spotify.com/track/6zdikHQs2PBFgGIZBxqOeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 4:11 | 2021-09-15 |  |
 | [Po Urave](https://open.spotify.com/track/0QcpmVsHY4b4aI8fn0QJo5) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kaatrin Mozhi](https://open.spotify.com/album/5UFD0pRW2cv0y4t0FVMP6d) | 3:22 | 2021-09-15 |  |
-| [Pogadhe](https://open.spotify.com/track/2WiYbMi6kTLAWSCUbzf5zm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:30 | 2021-09-15 |  |
+| [Pogadhe](https://open.spotify.com/track/2WiYbMi6kTLAWSCUbzf5zm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:30 | 2021-09-15 | 2023-03-12 |
+| [Pogadhe](https://open.spotify.com/track/7JNI3n8XBeonVoDIB8gUg4) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RPmyFX8HsPNYq6jqDFLU0) | 5:30 | 2021-09-15 |  |
 | [Pogatha Yennavittu](https://open.spotify.com/track/07aADAqhVze8oPrzBil7FX) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Nega Venugopal](https://open.spotify.com/artist/7KNnnywuBxB09b6w0oEOLA) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:41 | 2021-09-15 |  |
 | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Aishwarya Suresh Bindra](https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg) | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/3Pbe8ZyeyqvBT0aNNJXsuK) | 4:20 | 2021-09-15 |  |
 | [Sakarai Nilave](https://open.spotify.com/track/2zSDrE2wZDvkJllUmzxp5o) | [Nirthayan](https://open.spotify.com/artist/2qrwiErBfAnSu6UoIDOXnd) | [Sakarai Nilave](https://open.spotify.com/album/6g0lhjIpjBt5DgdzFIwusM) | 5:42 | 2021-09-15 |  |

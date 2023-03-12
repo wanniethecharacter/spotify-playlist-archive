@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 378 songs - 16 hr 41 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 3 likes - 384 songs - 16 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -386,5 +386,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 376 | [Temptation](https://open.spotify.com/track/513pwnUHAEGZJKFrReMpE6) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:36 |
 | 377 | [Igloo](https://open.spotify.com/track/1K0otsAQ9l0HZlAC8PHnQ0) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Son Of A Gun](https://open.spotify.com/album/14QMSPjwCAdA2qr6rKUXSs) | 3:17 |
 | 378 | [News or Something](https://open.spotify.com/track/3BzlZAqfnZDjv1F5CLlpHx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:33 |
+| 379 | [imreallytrynaf\*ckwichu](https://open.spotify.com/track/6dPPmvsoMacSlVCSfNC2mk) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Husel](https://open.spotify.com/artist/4mRwHKm2edtTqp0NXoQ1aC) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:32 |
+| 380 | [HeMotions](https://open.spotify.com/track/39HsFsNfFYZdpnQfq8lbS3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:07 |
+| 381 | [Hipnotica \(feat\. Trippie Redd, Zelly Ocho\)](https://open.spotify.com/track/5nWnJjAIldZeHEREjwrFan) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Zelly Ocho](https://open.spotify.com/artist/3svb0AOLHdFPE6P8PRB2ML) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 2:44 |
+| 382 | [NIGHTCARE](https://open.spotify.com/track/6M3E2Zamd9yPqklfHqye8Y) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:22 |
+| 383 | [WAR 1](https://open.spotify.com/track/53f9imwov2EaXhtWj0rthl) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 |
+| 384 | [IG](https://open.spotify.com/track/5e1SWZlh4fcOA1t2QB5QXG) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [IG](https://open.spotify.com/album/1VhKVzWNxkU2a5A5Saip2e) | 3:08 |
 
-Snapshot ID: `NjkzNSw1YTFmNmNlMDYwMmU1NGM3NmQ2MjU5OTVkZGU4NWYwOTdkOTY2YTRl`
+Snapshot ID: `Njk0MSxmMWQzNzNkYjBhYWY1NmQzMTQ2NmJiMmEzOWE2MGU0NzQ1Y2M3YWEz`

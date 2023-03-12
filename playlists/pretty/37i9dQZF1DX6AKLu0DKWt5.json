@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5431,
+  "num_followers": 5435,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDI3YzMzNGRkZThhZDk1YTFiOWFiM2M4ZTE3YjE5YzVl",
+  "snapshot_id": "MTY3MTY0NDczNCwwMDAwMDAwMDZkNzllMTQyMzczNjEyYzcxMTdmOTNiMzA3MjZiZWM3",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 98440,
-      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
-      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "Naatu Naatu (From \"Rrr\")",
         "url": "https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 214399,
       "name": "Naatu Naatu (From \"Rrr\")",
       "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Tapia De Veer",
+          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
+        }
+      ],
+      "duration_ms": 98440,
+      "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
+      "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
     },
     {
       "added_at": "2022-12-21 17:45:34",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
-        "name": "The Woman King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 97706,
-      "name": "Agojie Return",
-      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
         "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 199173,
       "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
       "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
+        "name": "The Woman King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 97706,
+      "name": "Agojie Return",
+      "url": "https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK"
     },
     {
       "added_at": "2022-12-21 17:45:34",

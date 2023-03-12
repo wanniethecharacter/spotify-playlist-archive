@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-325 songs - 21 hr 30 min
+326 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dreams \- Lil Texas Remix](https://open.spotify.com/track/2lfUpF2DryDUrNmQMe4Qr4) | [Kid Froopy](https://open.spotify.com/artist/4yXRQkCMWWkfZSSTA2oKjU), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Drive Slow](https://open.spotify.com/album/4HaHzvVVqxq4q1DWppTWjH) | 4:00 | 2020-12-22 | 2022-07-26 |
 | [Drift](https://open.spotify.com/track/1LdV2QpLGtA3E6WNMwAPGE) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Drift](https://open.spotify.com/album/39dR49LCVjZ5j8WvNC4JB4) | 3:42 | 2020-12-22 | 2022-04-19 |
 | [Drift](https://open.spotify.com/track/4Sf23jc43dY15uoRQ4fWjf) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/4qdyokbbBtstJS3cwipv5c) | 3:42 | 2020-12-22 | 2022-10-13 |
+| [Drift](https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e) | 3:42 | 2020-12-22 |  |
 | [Drift](https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo) | 3:42 | 2020-12-22 | 2023-01-27 |
 | [Dynasty](https://open.spotify.com/track/1UglHGkDf43W58XZKdnqbE) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Through the Walls](https://open.spotify.com/album/58NWdqyxvKIUlzHEXqfeiv) | 3:21 | 2020-12-22 | 2022-04-20 |
 | [Ecstasy](https://open.spotify.com/track/5wzGHgamBPcqrWwuhGDfam) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 5:03 | 2020-12-22 | 2022-04-19 |
@@ -203,7 +204,7 @@
 | [NUMB](https://open.spotify.com/track/0feV26ESzVptPP83N82VAO) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Between Us](https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB) | 3:37 | 2020-12-22 |  |
 | [NUMB](https://open.spotify.com/track/4JEwMJFPyAl6nNw0UQTwIu) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [NUMB](https://open.spotify.com/album/7pzVWvxakWV1zjYce30yhH) | 3:37 | 2020-12-22 | 2022-04-15 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-09-10 | 2022-07-07 |
-| [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-03-19 |  |
+| [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2021-03-19 | 2023-03-12 |
 | [Oceans](https://open.spotify.com/track/4eZHR12k7QFYFeDvZlh6rE) | [Third Floor](https://open.spotify.com/artist/2cIORcjDWj0e8H0KKeBwlu) | [Oceans](https://open.spotify.com/album/5iBwvnzbjizww4o7mRHUtg) | 4:18 | 2020-12-22 | 2022-04-15 |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2022-05-13 | 2022-06-04 |
 | [Okay, Saint Laurent](https://open.spotify.com/track/68uwWsxoI2yb0RhQw69eRF) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Okay, Saint Laurent](https://open.spotify.com/album/0nrujX14UZkDHf6kLRHR2G) | 3:00 | 2020-12-22 | 2022-07-29 |

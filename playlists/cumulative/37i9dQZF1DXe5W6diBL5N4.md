@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: ONEW\(온유\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-4,448 songs - 10 day 18 hr 5 min
+4,449 songs - 10 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4050,6 +4050,7 @@
 | [Where the Good Ones Go](https://open.spotify.com/track/4ysvpmchtmyJcOwSyvIGg4) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Where the Good Ones Go](https://open.spotify.com/album/0X5HGu7Zsa4usObo0qkeyx) | 3:01 | 2022-07-15 | 2022-07-28 |
 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 | 2022-05-02 | 2022-05-10 |
 | [Where you at \(feat\. Wang Jun Hyup\)](https://open.spotify.com/track/3cyfJ4sIeN8QKB8EHT2l9l) | [Private Story](https://open.spotify.com/artist/2d7sJ0zIcqj1jDMYBkw4S6), [Wang Jun Hyup](https://open.spotify.com/artist/2F6k5xMpJhWOw3TsaUoEKq) | [Where you at](https://open.spotify.com/album/2vQFdr7DmIuhlGE7cIMPOn) | 3:29 | 2023-03-06 |  |
+| [WHIP! \- Spotify Singles](https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2UF4tunNCYC2VYyjkAk8ex) | 2:32 | 2023-03-11 |  |
 | [Whiskey n Whiskey](https://open.spotify.com/track/2HvkvLqPtSVC2EeBisdIYj) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Recycle](https://open.spotify.com/album/3PILBpS1ZR68SzffLwlFcr) | 3:33 | 2022-06-27 | 2022-07-05 |
 | [Whisky on the Rock](https://open.spotify.com/track/6JZllw3leQQZBcWGUO3W30) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 | 2022-04-19 | 2022-04-23 |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 | 2022-08-30 |

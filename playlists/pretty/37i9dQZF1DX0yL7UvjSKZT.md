@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,666 likes - 134 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,696 likes - 134 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

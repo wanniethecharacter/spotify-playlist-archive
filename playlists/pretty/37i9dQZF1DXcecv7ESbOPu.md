@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,408 likes - 113 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,415 likes - 113 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 4 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
 | 5 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 |
 | 6 | [Blå anemoner](https://open.spotify.com/track/6CMdrWTUMYLL32H07cTehD) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Blå anemoner](https://open.spotify.com/album/2JXKsAsYmmcTELiDWlKuCH) | 2:59 |
-| 7 | [Put Me First](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 |
+| 7 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 |
 | 8 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
 | 9 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 10 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 |
 | 11 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 |
-| 12 | [Worthless](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Worthless](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 12 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 13 | [Mary Cookins](https://open.spotify.com/track/5UM3vYLQuMrlouoKmqeEHr) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Mary Cookins](https://open.spotify.com/album/1zFUtQ4gxN5wkrrJKQmB4r) | 3:11 |
 | 14 | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/track/6TLjoYLWtjziKPsLxSOkZv) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Balans \(Vad händer Fatima!!?\)](https://open.spotify.com/album/6ErQass5rD25XSozTbKqq9) | 2:16 |
 | 15 | [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Tear It Down](https://open.spotify.com/track/4cvsQ7dzP1ba5onYeImGxP) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Tear It Down](https://open.spotify.com/album/1IN1ocMOvYvrrd1uAoZVML) | 3:15 |
 | 108 | [Ay Lala \(feat\. Baby Gang\)](https://open.spotify.com/track/7IFuCdfzWR9bKgIoOqJE4j) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Adwokat Diabla](https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf) | 3:56 |
 | 109 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 |
-| 110 | [Aldrig glömma bort](https://open.spotify.com/track/1g2YtM1D9HTXpWW6OmkT8N) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx), [Pregame](https://open.spotify.com/artist/4C3xckfmc7nHR3P29jrXFb) | [Aldrig glömma bort](https://open.spotify.com/album/51dFxrPw1gMZua3dxsvQb0) | 2:18 |
+| 110 | [Aldrig glömma bort](https://open.spotify.com/track/1g2YtM1D9HTXpWW6OmkT8N) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Aldrig glömma bort](https://open.spotify.com/album/51dFxrPw1gMZua3dxsvQb0) | 2:18 |
 | 111 | [Swimsuit](https://open.spotify.com/track/0nP0O17kR9Q39S8bR6fBGf) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Swimsuit](https://open.spotify.com/album/6hlJ3VpU0XBW2qjzubEPSP) | 3:50 |
 | 112 | [Lighter Better](https://open.spotify.com/track/2aLLgMDijCDiNYYeDhEr1V) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Lighter Better](https://open.spotify.com/album/5kUx9LciOvOTrMEK98Hvrk) | 3:12 |
 | 113 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 |

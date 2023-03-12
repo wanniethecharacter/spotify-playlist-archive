@@ -598,6 +598,32 @@
       },
       "artists": [
         {
+          "name": "Bob Sherman",
+          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "Impromptu interview with Alexander Schneider",
+      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
+    },
+    {
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         },
@@ -1310,7 +1336,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 439640,
       "name": "WNYC Radio Broadcast, September 12, 1995",
       "url": "https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ"

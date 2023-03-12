@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,667 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,786 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 43 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
 | 44 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
 | 45 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 |
-| 46 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
-| 47 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 |
+| 46 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 |
+| 47 | [DEATH BY PUSSY](https://open.spotify.com/track/2ACsS8OzRf6Up3iySax5tV) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [JUICY CLASS](https://open.spotify.com/album/5cLj0MKQjx66hwwwYveErJ) | 4:36 |
 | 48 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 | 49 | [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 |
 | 50 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
 
-Snapshot ID: `MTY3NzA5MzQ4MiwwMDAwMDAwMDFiM2JiYTdiNGI4NTk5NmRiMjQ3NTQ4NzZkM2JhMTRm`
+Snapshot ID: `MTY3NzA5MzQ4MiwwMDAwMDAwMDI5ZTZjMzI3NTczYTI1Y2U3NmVjY2I2YjJkYTdlOTJm`

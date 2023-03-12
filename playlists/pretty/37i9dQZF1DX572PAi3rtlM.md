@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,832 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,849 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 3 | [Touch in the Night \- Radio Version](https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ) | [Silent Circle](https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie) | [No.1 \(Jubiläums Edition\)](https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY) | 3:37 |
 | 4 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
 | 5 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 |
-| 6 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
-| 7 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:23 |
+| 6 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:23 |
+| 7 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
 | 8 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
 | 9 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
 | 10 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 50 | [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 |
 
-Snapshot ID: `MTY3ODEzOTUwOCwwMDAwMDAwMGE0MjE4YzhjNTJhYjg4NmI5ZjQyYzQyODllYzE1Zjhh`
+Snapshot ID: `MTY3ODEzOTUwOCwwMDAwMDAwMGRmYjNjMDllMWMyMzg4MzE4MTNlNzYyZjZkZGMwMzhm`

@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Against The Current",
-  "num_followers": 443059,
+  "num_followers": 443097,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDFkYTg0NThmZDBhZmI5ZTliOGVlOWFiMTViY2E1ODVh",
+  "snapshot_id": "MTY3MDQzNjcyOCwwMDAwMDAwMDk2NjI3ZDE4OWJhODhlNWZkNWFiMTFjNDllNDA3NDgy",
   "tracks": [
     {
       "added_at": "2022-12-02 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 129812,
-      "name": "Next Ex",
-      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "I Won\u2019t Reach Out to You",
         "url": "https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173800,
       "name": "Featuring Mark Hoppus",
       "url": "https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 129812,
+      "name": "Next Ex",
+      "url": "https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 221282,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Earthquake (feat. jxdn)",
         "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Chemical Warfare",
-        "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 166858,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 198365,
       "name": "In Over My Head",
       "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Chemical Warfare",
+        "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 166858,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/2g8vCXagoE2nrPw2aFwcAb"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Face Down (Symphonic Edition)",
-        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Face Down - Symphonic Edition",
-      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Amazing Things",
         "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 238783,
       "name": "One True Prince",
       "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Face Down (Symphonic Edition)",
+        "url": "https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Face Down - Symphonic Edition",
+      "url": "https://open.spotify.com/track/3rzwBdOX741P5N394o5faL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 218552,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2491,6 +2491,26 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/6qm6v3TnZyRghFCCjlWWji"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 162559,
+      "name": "Play Pretend (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/2iuiPZXIeAdnLwkNGnMfyi"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/69vgQKuL4alaiEshd7my6c"
       },
@@ -2515,26 +2535,6 @@
       "duration_ms": 177281,
       "name": "Problem",
       "url": "https://open.spotify.com/track/0LYvntdyZiGuy6HvFp2kHF"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Untitled Vol. 1",
-        "url": "https://open.spotify.com/album/6qm6v3TnZyRghFCCjlWWji"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 162559,
-      "name": "Play Pretend (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/2iuiPZXIeAdnLwkNGnMfyi"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "Keep Me Up All Night",
-      "url": "https://open.spotify.com/track/5sgFUQAbvYZCujpbZfgD0w"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "SORRY 4 MYSELF",
         "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
       },
@@ -2627,6 +2611,22 @@
       "duration_ms": 200999,
       "name": "SORRY 4 MYSELF",
       "url": "https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "Keep Me Up All Night",
+      "url": "https://open.spotify.com/track/5sgFUQAbvYZCujpbZfgD0w"
     },
     {
       "added_at": "2022-12-02 05:00:00",

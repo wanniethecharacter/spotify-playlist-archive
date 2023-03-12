@@ -4,13 +4,14 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-80 songs - 8 hr 20 min
+83 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 | 2022-09-15 |  |
 | [Because of Jesus](https://open.spotify.com/track/7zddQIafkMLWDpnEw7r7y8) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Because of Jesus](https://open.spotify.com/album/4r089kmUNmAaP2DgQqXrq8) | 8:46 | 2022-05-08 |  |
-| [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 |  |
+| [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 | 2019-09-26 |  |
+| [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
 | [Dumelang \(Tribute To Barorisi Ba Morena\)](https://open.spotify.com/track/2aYF7mVCVVRdYkLsPCkzyV) | [OKAY GOD](https://open.spotify.com/artist/2hFJOQgC6LBgvQKudZBXFH), [Zito Mowa](https://open.spotify.com/artist/3Dk9FD41zSgiSrJYgmhmRj) | [GAE](https://open.spotify.com/album/65D9hOUlBpFFfpqo6o3lbs) | 5:32 | 2022-09-15 |  |
 | [Ebenezer](https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Africa For Jesus](https://open.spotify.com/album/0fTvvmaFCgpExHxRz4sAkt) | 8:51 | 2022-02-17 |  |
 | [Ekugcineni \- Live](https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 5:31 | 2018-10-08 |  |
@@ -60,7 +61,8 @@
 | [The 4th Man](https://open.spotify.com/track/78aypN49XOCv12qx2v35wE) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [The 4th Man](https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM) | 6:37 | 2022-05-12 |  |
 | [The Call \(Chants\)](https://open.spotify.com/track/5Tiam84rOv9mReGegBJN8y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 7:48 | 2022-04-28 |  |
 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 | 2020-11-12 |  |
-| [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 | 2020-09-01 |  |
+| [Thel' Umoya](https://open.spotify.com/track/3jOcdERCd7e3JNBqb0iWgS) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/5UKG4D9iQIwpY0ZJyAwm7Z) | 4:04 | 2020-09-01 |  |
+| [Thel' Umoya](https://open.spotify.com/track/7F5JEUzNSmDCWJr0sixvdk) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Benjamin Dube \- Spiritual Celebration, Vol.1](https://open.spotify.com/album/6cvqICbcHx32KbIecxwKDa) | 4:04 | 2020-09-01 | 2023-03-12 |
 | [Thelumoya](https://open.spotify.com/track/4m3si6zfyw7JI045D2iiUx) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2), [Tshepiso Motaung](https://open.spotify.com/artist/5W1gtTJxIuuNRso18Ng6f0) | [Thelumoya](https://open.spotify.com/album/5YIOuPvc6JJfmGWmQeLEmY) | 5:01 | 2022-02-17 |  |
 | [Thina Ngemihla \(Live\)](https://open.spotify.com/track/1tNsMLoMNn06Qf37fcDfwH) | [Teboho Moloi](https://open.spotify.com/artist/3LmjTfyNxwbzwXJoQkhQp0) | [Atamelang Ho Jehova \(Live\)](https://open.spotify.com/album/6Jg7TeqC6VyWcvCX9jYJnD) | 7:44 | 2019-03-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
@@ -86,7 +88,8 @@
 | [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 | 2020-02-13 |  |
 | [You Fight for Me](https://open.spotify.com/track/0u7YkWTgB1r4jFRo15LivX) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/3skHw4wyk7wifVBsMpkasj) | 4:39 | 2020-02-13 | 2022-10-17 |
 | [You Reign Forever](https://open.spotify.com/track/7r6K4qSyliTXbRpsOgFQyh) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP) | [Devotion](https://open.spotify.com/album/6wGUP0pqf61PtlY1MEAQJN) | 4:08 | 2020-07-31 |  |
-| [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 |  |
+| [You Will Never Leave Me](https://open.spotify.com/track/7c800fIUf9VBIYaemw5vgW) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 6:43 | 2019-10-07 |  |
+| [You Will Never Leave Me \- Live](https://open.spotify.com/track/1Y2L2fRfR6xRxmE9ucmYig) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 6:43 | 2019-10-07 | 2023-03-12 |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2020-03-13 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

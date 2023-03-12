@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Oruam, Borges, Chefin",
-  "num_followers": 90273,
+  "num_followers": 90460,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDk1ZGYxYjRiMDUwMmVhZmFiOWI4YmRkZTUyNGRiZTBh",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDM3MzE0MWQ5MjZlY2Q3OTQyYjFiMmI5OTc5NTBmYWIw",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -395,22 +395,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Iphone Branco",
-        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Iphone Branco",
-      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -443,30 +451,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Iphone Branco",
+        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 137142,
+      "name": "Iphone Branco",
+      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -763,6 +763,34 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Lideran\u00e7a",
+        "url": "https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "KIB7",
+          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "duration_ms": 210445,
+      "name": "Lideran\u00e7a",
+      "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -791,34 +819,6 @@
       "duration_ms": 238208,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/3tpfnn4QoKrkzWW20UKili"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Lideran\u00e7a",
-        "url": "https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "KIB7",
-          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        }
-      ],
-      "duration_ms": 210445,
-      "name": "Lideran\u00e7a",
-      "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Caracter\u00edsticas",
+        "url": "https://open.spotify.com/album/0mKyxZHRR7sS6EK2xl5nlv"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "N\u00facleo Label",
+          "url": "https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55"
+        }
+      ],
+      "duration_ms": 140541,
+      "name": "Caracter\u00edsticas",
+      "url": "https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Drip Drip",
         "url": "https://open.spotify.com/album/0FO3trgqcrbJtIOJYOIebC"
       },
@@ -1183,26 +1207,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Caracter\u00edsticas",
-        "url": "https://open.spotify.com/album/0mKyxZHRR7sS6EK2xl5nlv"
+        "name": "Taycan / Quintal da Laia",
+        "url": "https://open.spotify.com/album/1mQ5ixHK9Ev5qYX88N7M6D"
       },
       "artists": [
         {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "N\u00facleo Label",
-          "url": "https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55"
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
         }
       ],
-      "duration_ms": 140541,
-      "name": "Caracter\u00edsticas",
-      "url": "https://open.spotify.com/track/31QpCmyiQqozO7nED7rIZS"
+      "duration_ms": 158769,
+      "name": "Taycan / Quintal da Laia",
+      "url": "https://open.spotify.com/track/2DLJ3HNbxprG74FvT4j8VR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 149707,
       "name": "Ford Ka",
       "url": "https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Taycan / Quintal da Laia",
-        "url": "https://open.spotify.com/album/1mQ5ixHK9Ev5qYX88N7M6D"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Taycan / Quintal da Laia",
-      "url": "https://open.spotify.com/track/2DLJ3HNbxprG74FvT4j8VR"
     }
   ],
   "unique_name": "O Drip",

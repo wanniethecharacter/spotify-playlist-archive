@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 117599,
+  "num_followers": 117778,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMDBkMjUwNDlkZWVjMDFiNjY4NWJmYzNkOTRhNmViMTg2",
+  "snapshot_id": "MTY3MjQyNjc4NywwMDAwMDAwMGNlOTU4ODhmNTg2YmY5OWUwZDA5NzcyZjRkZjcxZGUz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "El Favorito",
-        "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "La Rabia",
-      "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Joan Sebastian con Tambora",
         "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 157222,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "El Favorito",
+        "url": "https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "La Rabia",
+      "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "El Viej\u00f3n de Oro",
         "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 159213,
       "name": "Tamarindo",
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+        "name": "Puras De Viento Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
       },
       "artists": [
         {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
+      "duration_ms": 167787,
+      "name": "El Olotito - En Vivo",
+      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Puras De Viento Vol. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
         }
       ],
-      "duration_ms": 167787,
-      "name": "El Olotito - En Vivo",
-      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
     },
     {
       "added_at": "2022-12-30 18:59:47",

@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-860 songs - 1 day 14 hr 2 min
+861 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,8 @@
 | [Lite Lätt \(feat\. Elias Abbas\)](https://open.spotify.com/track/0eAHfYB7YvOYAVcjH4ImSu) | [Keya](https://open.spotify.com/artist/6Fzcb6MUQTqnojF8woJsKd), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Lite Lätt \(feat\. Elias Abbas\)](https://open.spotify.com/album/1aGVk2sGUiLTCcNQ9wME43) | 2:29 | 2022-06-09 | 2022-07-08 |
 | [Livsstilen](https://open.spotify.com/track/2m77O2S1cYrE1qo3Akqj0T) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Jack](https://open.spotify.com/artist/1nAAfLCQgCSY9KowgqfgU4) | [Livsstilen](https://open.spotify.com/album/43jTX63KglSLqHQM1NVQd9) | 3:02 | 2022-07-29 | 2022-09-09 |
 | [Ljuset I Tunneln](https://open.spotify.com/track/5sMrEVS5GCB8QnmgoBfxYm) | [Abbadi](https://open.spotify.com/artist/30evSY1KEZxqkjWB3aphyn) | [Ljuset I Tunneln](https://open.spotify.com/album/3rDfQU2FB4xSrK8Zl3ECMv) | 2:51 | 2022-02-25 | 2022-03-05 |
-| [LLD](https://open.spotify.com/track/5TsxaTXxOC3zDiEX9VDiuW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:04 | 2023-01-26 |  |
+| [LLD](https://open.spotify.com/track/0JF8pIVmf8GQq9zyRnEiFW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96 \(Deluxe\)](https://open.spotify.com/album/7xXmglERhyB9jlHgqKL2I2) | 2:04 | 2023-03-09 |  |
+| [LLD](https://open.spotify.com/track/5TsxaTXxOC3zDiEX9VDiuW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:04 | 2023-01-26 | 2023-03-12 |
 | [Lotta & Sanna](https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Lotta & Sanna](https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg) | 2:15 | 2021-12-16 | 2022-03-11 |
 | [Lotta & Sanna \- Remix](https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Lotta & Sanna \(Remix\)](https://open.spotify.com/album/3TR9wVArlfPF9m4DDnP3d5) | 2:51 | 2022-03-10 | 2022-05-13 |
 | [Louvren](https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 1:59 | 2022-03-10 | 2022-05-09 |

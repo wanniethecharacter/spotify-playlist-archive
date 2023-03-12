@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 393877,
+  "num_followers": 394346,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMDZjOGEzMWIyOTcwMjljODJiMjEzMWZkYzRiMDY5Yzky",
+  "snapshot_id": "MTY3NjYwMjg2MCwwMDAwMDAwMDk1NWU5NGM1YTM5NTYxZDMwODc0YzI3YzNmZDM0ZTVm",
   "tracks": [
     {
       "added_at": "2023-02-17 03:01:00",
@@ -75,30 +75,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Sou Teu F\u00e3",
-        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 170956,
-      "name": "Sou Teu F\u00e3",
-      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Ai Ai Ai (Felguk & Cat Dealers Remix)",
         "url": "https://open.spotify.com/album/6dxLUe2QiX8NyhJNjcOeoB"
       },
@@ -119,6 +95,30 @@
       "duration_ms": 200322,
       "name": "Ai Ai Ai - Felguk & Cat Dealers Remix",
       "url": "https://open.spotify.com/track/56yFJewuZr1kKfYu2O35nx"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "Sou Teu F\u00e3",
+        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 170956,
+      "name": "Sou Teu F\u00e3",
+      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -659,26 +659,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Fica Tudo Bem (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 174125,
-      "name": "Fica Tudo Bem - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -727,26 +727,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
+        "name": "Fica Tudo Bem (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         },
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+      "duration_ms": 174125,
+      "name": "Fica Tudo Bem - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
-        "name": "All The Lies (with Felix Jaehn & The Vamps)",
-        "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "All The Lies (with Felix Jaehn & The Vamps)",
-      "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
+        "name": "All The Lies (with Felix Jaehn & The Vamps)",
+        "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "All The Lies (with Felix Jaehn & The Vamps)",
+      "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-02-17 03:01:00",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-02-17 03:01:00",
       "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2023-02-17 03:01:00",
+      "album": {
         "name": "Como Eu Te Quero (Remix)",
         "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2023-02-17 03:01:00",
-      "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2023-02-17 03:01:00",

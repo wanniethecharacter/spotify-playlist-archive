@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,690 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,792 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 45 | [Bleed](https://open.spotify.com/track/5XzombolzpiaOSTdj1W0VS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:56 |
 | 46 | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/36Mq31otog86NGRflpMmkg) | 4:14 |
 | 47 | [Run It Up \(feat\. Sleepy Hallow & A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Run It Up \(feat\. Sleepy Hallow & A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/1U0q68MEzbooMCtsjn4oLe) | 2:51 |
-| 48 | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj) | 2:36 |
-| 49 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 |
+| 48 | [Young Grizzley World \(feat\. A Boogie Wit Da Hoodie & YNW Melly\)](https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 5:32 |
+| 49 | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj) | 2:36 |
 | 50 | [Foreigner \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:41 |
 | 51 | [Pills & Automobiles \(feat\. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black\)](https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:53 |
 | 52 | [Glasses](https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:22 |
 
-Snapshot ID: `Mjc5NzQyMDMsMDAwMDAwMDBjMGRkM2U4NWI2ZGM4ZmYzYzU1YWI2ZWE4N2U3ZGEwOQ==`
+Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDAzMTdmZDM0ZjNkNGJhNWEyZDI2ZTVmNDlkY2U1Zjc3Yw==`

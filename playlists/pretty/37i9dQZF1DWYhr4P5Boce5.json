@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 190014,
+  "num_followers": 190113,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDRjNjI2NTY0MzYwYTlmMjg3MTJiZjkyZDJhYzhlNzMw",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDliYzRmOTlmM2I5MGFmYmE1MDJlNmJmZjE5NmE0Y2Rh",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Your Love Is Strong",
-      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 209880,
       "name": "Girl of My Dreams",
       "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Your Love Is Strong",
+      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "As for Me and My House",
-        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
-      },
-      "artists": [
-        {
-          "name": "John Waller",
-          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "The Marriage Prayer",
-      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 148800,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "As for Me and My House",
+        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "The Marriage Prayer",
+      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 187134,
-      "name": "Pretty Beautiful",
-      "url": "https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 179271,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
       "artists": [
         {
@@ -1440,9 +1440,9 @@
           "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 224000,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
       "artists": [
         {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+      "duration_ms": 246240,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "I'm in Love With You",
-      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
         }
       ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     }
   ],
   "unique_name": "Higher Love",

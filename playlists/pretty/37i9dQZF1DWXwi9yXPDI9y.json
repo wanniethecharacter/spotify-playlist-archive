@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 40963,
+  "num_followers": 41056,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM1MzMyOSwwMDAwMDAwMDA1YTNhYTVkMGQ1YmI3MzIyM2I4Mjc3YWIxY2JkYjY2",
+  "snapshot_id": "MTY3ODM1MzMyOSwwMDAwMDAwMGJjZDRiYzgzNDU5ZTYyODg5ZDYxYTFlOWQxNTEyMjIx",
   "tracks": [
     {
       "added_at": "2023-03-09 09:15:29",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
         "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
         "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 394173,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -703,18 +699,22 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -751,6 +751,22 @@
       "duration_ms": 207413,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
+        "name": "Trav'lin' Light",
+        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -815,22 +831,6 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
-        "name": "Trav'lin' Light",
-        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 335533,
       "name": "Make The Man Love Me",
       "url": "https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/1QwPURs9jcgxhyidnzLKme"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 427080,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204333,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/07l1kkIQkfNlCmVwMC4GD0"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Blue Gardenia",
+      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 321026,
-      "name": "Blue Gardenia",
-      "url": "https://open.spotify.com/track/3tClapksxcn9cDDUf6Arqc"
+      "duration_ms": 427080,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj"
     },
     {
       "added_at": "2023-03-09 09:15:29",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 436573,
-      "name": "Mad About The Boy",
-      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
-      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
-    },
-    {
-      "added_at": "2023-03-09 09:15:29",
-      "album": {
         "name": "Dinah Jams (Live)",
         "url": "https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg"
       },
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2023-03-09 09:15:29",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 436573,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
         "name": "Complete Roost Recordings",
         "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 181266,
       "name": "Autumn Leaves - Instrumental Version",
       "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
+    },
+    {
+      "added_at": "2023-03-09 09:15:29",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
+      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
     },
     {
       "added_at": "2023-03-09 09:15:29",

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Bnt El Chalabyea",
+        "url": "https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK"
+      },
+      "artists": [
+        {
+          "name": "Moe Turk",
+          "url": "https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309612,
+      "name": "Bnt El Chalabyea",
+      "url": "https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF"
+    },
+    {
+      "album": {
         "name": "Challenge",
         "url": "https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw"
       },
@@ -550,6 +568,32 @@
       "duration_ms": 216847,
       "name": "Fein Mchiti",
       "url": "https://open.spotify.com/track/3AJQUzPULtbagemZSWt96n"
+    },
+    {
+      "album": {
+        "name": "Fog Elna Khil (Tyrvnt Remix)",
+        "url": "https://open.spotify.com/album/5mL8U6uMNh6qOzwwvYa3cA"
+      },
+      "artists": [
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        },
+        {
+          "name": "Zamane",
+          "url": "https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc"
+        },
+        {
+          "name": "Tyrvnt",
+          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252005,
+      "name": "Fog Elna Khil - Tyrvnt Remix",
+      "url": "https://open.spotify.com/track/29SkEO4EJVs2Wa5kTps3f9"
     },
     {
       "album": {

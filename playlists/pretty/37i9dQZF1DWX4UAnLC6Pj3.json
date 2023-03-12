@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1091482,
+  "num_followers": 1091938,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMGI3YzhhMjEzOGE4MjQ1MGU1NTdhMjAwOTZlNmIxNDE3",
+  "snapshot_id": "MTY3ODQyODAwMCwwMDAwMDAwMDFiNGUxNTVlNjcwZDk1YWNmNTBjOWNjZmIzOTQ1NjZl",
   "tracks": [
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "Prefiero Estar Muerto",
         "url": "https://open.spotify.com/album/6b227pi8A1XHMFZkU4aWyl"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "Hoy Me Puse A Tomar",
         "url": "https://open.spotify.com/album/7kmd08ir57Dian9BkXRNFf"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "XV Aniversario",
         "url": "https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
-      "added_at": "2023-03-11 00:50:04",
+      "added_at": "2023-03-12 01:11:44",
       "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/12O8waJUg99SP7cm4km7aW"
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio - En Vivo",
-      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 179821,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que Llore, Que Llore",
+      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que Llore, Que Llore",
-      "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
     },
     {
       "added_at": "2023-01-16 19:52:16",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
     },
     {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Me Rindo",
@@ -1207,26 +1227,6 @@
       "duration_ms": 181204,
       "name": "El 30 de Febrero",
       "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-01-13 06:00:00",

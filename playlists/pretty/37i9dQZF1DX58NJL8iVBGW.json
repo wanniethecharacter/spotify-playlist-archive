@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 543571,
+  "num_followers": 543719,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDdjMTMxMDU1Zjg2MmY1ZmJlZjJhMWQ1ZjBkMDk1ZDI3",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGUzYjdmYWExYWI5ZjdjNDE4ZTlmNGFjNzFhNTU3NjY5",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "It Will Come Back",
-      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Oh, Willie, Please...",
+        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
+      },
+      "artists": [
+        {
+          "name": "Vandaveer",
+          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
+        }
+      ],
+      "duration_ms": 228958,
+      "name": "Pretty Polly",
+      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
-      },
-      "artists": [
-        {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Real Gone (Remastered)",
         "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
       },
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
+      },
+      "artists": [
+        {
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 331908,
       "name": "Shake off Your Flesh",
       "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Oh, Willie, Please...",
-        "url": "https://open.spotify.com/album/6zAjJYvX7qsgoRPNMAZeN3"
-      },
-      "artists": [
-        {
-          "name": "Vandaveer",
-          "url": "https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A"
-        }
-      ],
-      "duration_ms": 228958,
-      "name": "Pretty Polly",
-      "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Lions And Lambs",
-        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
-      },
-      "artists": [
-        {
-          "name": "Cary Ann Hearst",
-          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Lions And Lambs",
+        "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
+      },
+      "artists": [
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Ribbon",
-        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 216538,
-      "name": "Ribbon",
-      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Hell Among The Yearlings",
-        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 270893,
-      "name": "The Devil Had A Hold Of Me",
-      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "I Am The Man Thomas",
         "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 159101,
       "name": "I Am The Man Thomas",
       "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Hell Among The Yearlings",
+        "url": "https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "The Devil Had A Hold Of Me",
+      "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Longest Day",
-        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Bright",
-          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
-        }
-      ],
-      "duration_ms": 270228,
-      "name": "Highway 9",
-      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Longest Day",
+        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+        }
+      ],
+      "duration_ms": 270228,
+      "name": "Highway 9",
+      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
       "added_at": "2022-06-06 19:18:28",

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Caylee Hammack\n",
-  "num_followers": 517759,
+  "num_followers": 517879,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDg5YWY3ZmRmZWNlZDdkNmY1MmNiYzAxMTk5OTg4MzI0",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDExOGMzZDBhY2U5YzEzODc0MGM0NDU1N2JjMzg3MTMz",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Neon Grave EP",
+        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Wrong Right Now",
+      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 208480,
       "name": "Wrong Turns",
       "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
-      },
-      "artists": [
-        {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
-        }
-      ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Neon Grave EP",
-        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Wrong Right Now",
-      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Still a Few Cowboys Left",
-        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
-      },
-      "artists": [
-        {
-          "name": "Ben Gallaher",
-          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Still a Few Cowboys Left",
-      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 201711,
       "name": "4 X 4 Play",
       "url": "https://open.spotify.com/track/6pMR5gZyVQQFIzh0NAvX41"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "These Old Boots",
+        "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
+      },
+      "artists": [
+        {
+          "name": "Seth Anthony",
+          "url": "https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo"
+        }
+      ],
+      "duration_ms": 206307,
+      "name": "These Old Boots",
+      "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
     }
   ],
   "unique_name": "Country Rocks",

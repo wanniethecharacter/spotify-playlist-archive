@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Zinadelphia\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,468 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,381 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 60 | [Unlove Me](https://open.spotify.com/track/7fX4KLKk1dtCUHa9AT1bco) | [NOVALU](https://open.spotify.com/artist/6WW932bJ0s12prfQgFyzTG) | [Unlove Me](https://open.spotify.com/album/0APyDpteAPwWPxGmwhLDw8) | 2:42 |
 | 61 | [Lovestruck](https://open.spotify.com/track/3BzoUhHpQmPrCZoKJ6SetR) | [Vale\-Smith](https://open.spotify.com/artist/4FYz0h7BBwsnav5Ptdtvj0) | [Lovestruck](https://open.spotify.com/album/6aLOujf8Xnn8mHjSHA8h7M) | 2:16 |
 | 62 | [Need You Like](https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Need You Like](https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47) | 2:02 |
-| 63 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:34 |
+| 63 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:31 |
 | 64 | [CAMPGROUND](https://open.spotify.com/track/0kzE5NWXrcroDqu6iN1za5) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6) | [PSSST!](https://open.spotify.com/album/2mpmmZuwNKpA1TD1coBwFg) | 3:16 |
 
 Snapshot ID: `MTY3ODQ4MDIyOCwwMDAwMDAwMDk4NmI2ZmEzZTIxYjY3ODQ2MzFlMTY4NzU0YmRmM2Qz`

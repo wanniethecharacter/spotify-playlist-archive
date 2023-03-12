@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,992 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,039 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 16 | [Simple Twist Of Fate](https://open.spotify.com/track/7bKJtDh41HViUzl3Hthc3U) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 4:53 |
 | 17 | [Spanish Mary](https://open.spotify.com/track/7KbuK70PwKK722BvMXvfqB) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 5:31 |
 | 18 | [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/5EazaacsECVBEBgZ4PP8s5) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Folk For Kids](https://open.spotify.com/album/1YFazXCNk4rEFdirMrVorj) | 3:31 |
-| 19 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
+| 19 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 |
 | 20 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/5YqdrbmXUOYUjL7GYaSVSo) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:12 |
 | 21 | [Let Me Die in My Footsteps](https://open.spotify.com/track/4a17Q8L8npMkjfc09a5d9X) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Out in the Open](https://open.spotify.com/album/0ua1zWDDg2brY46TtBp687) | 3:23 |
 | 22 | [Rainy Day Women \#12 & 35 \(Live\)](https://open.spotify.com/track/1V64DUCRrEFgZwEwANKTw9) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 4:10 |

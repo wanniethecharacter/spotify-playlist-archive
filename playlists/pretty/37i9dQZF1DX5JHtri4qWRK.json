@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 5369,
+  "num_followers": 5370,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMGJiOTBiODI1MTY1ODE2MmM2OTg1ZjY4NjRhMjhlYTFl",
+  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMDgwZTkwMGE3Mjk2M2RkOGRiMmIwMjBkYzk1NjY2M2Y1",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1150,15 +1150,11 @@
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Don't Hurt Yourself (feat. Jack White)",
-      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
+      "duration_ms": 237440,
+      "name": "Love Drought",
+      "url": "https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1302,11 +1298,15 @@
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Love Drought",
-      "url": "https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN"
+      "duration_ms": 233666,
+      "name": "Don't Hurt Yourself (feat. Jack White)",
+      "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "3LW",
-        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
-      },
-      "artists": [
-        {
-          "name": "3LW",
-          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "No More (Baby I'ma Do Right)",
-      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "3LW",
+        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
+      },
+      "artists": [
+        {
+          "name": "3LW",
+          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "No More (Baby I'ma Do Right)",
+      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
     },
     {
       "added_at": "2021-12-14 12:56:56",

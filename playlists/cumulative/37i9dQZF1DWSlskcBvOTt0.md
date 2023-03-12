@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-381 songs - 1 day 15 hr 12 min
+382 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-04-21 | 2022-04-23 |
 | [Ahora Todo Va \- Gorgon City Remix](https://open.spotify.com/track/0KkseucFbIhvQQI7SJMwcx) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Ahora Todo Va](https://open.spotify.com/album/5bMPgYIWxZut8L5k9FVslo) | 4:43 | 2021-06-04 | 2022-04-23 |
 | [Aitne \- Monkey Safari Remix](https://open.spotify.com/track/7vzybiTEICEwnewA8KqU57) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Aitne](https://open.spotify.com/album/4Or0QJZ9FFfFkyDJOdsk28) | 8:25 | 2021-04-21 | 2022-07-27 |
-| [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 | 2021-05-07 |  |
+| [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:50 | 2021-05-07 | 2023-03-12 |
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-04-21 | 2023-01-11 |
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
@@ -63,6 +63,7 @@
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 |  |
 | [Canto del Pilón \- Meines Remix](https://open.spotify.com/track/4eGGJGQY0UUx7lrPG2Y3Ww) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Meines](https://open.spotify.com/artist/58J4dcCu15dtqMbtQu94K3) | [Milk & Sugar Summer Sessions 2021](https://open.spotify.com/album/4ASxdmE6WZosAoxv2FkjVs) | 3:49 | 2021-07-02 | 2022-04-21 |
 | [Caramel](https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Caramel](https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC) | 7:28 | 2022-07-28 | 2022-09-26 |
+| [Carry On \- EarthLife Remix](https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Carry On \(EarthLife Remix\)](https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4) | 3:38 | 2023-03-10 |  |
 | [Cascada](https://open.spotify.com/track/5M5Lwtcha7fE8UQwSzIhjS) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Cascada](https://open.spotify.com/album/3pp75bcu0VJzigYnGfqcZd) | 4:38 | 2022-07-01 | 2022-07-22 |
 | [Chaka \- Edit](https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Chaka / Viola](https://open.spotify.com/album/4L6q8ALQXky8iGVECuiRoP) | 3:20 | 2021-04-21 | 2022-11-20 |
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-06-25 | 2023-01-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Cookiee Kawaii
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,189 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,344 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 36 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
 | 37 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
 | 38 | [PIANO \(feat\. Lay Bankz\)](https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Club Godfather](https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi) | 2:36 |
-| 39 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
-| 40 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
+| 39 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 |
+| 40 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
 | 41 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 42 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 |
 | 43 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [Look Back It \(Club Mix\)](https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Ziggy Reloaded II](https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil) | 1:42 |
 | 50 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMGNkNzRjNzZjNjE1YmI4NzE3MmMwODExZWMyMWUyYjE4`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDNkMDZiMjYwMjcwNDE1YmI3MjdmMTAwZmQ0MjIxNmM5`

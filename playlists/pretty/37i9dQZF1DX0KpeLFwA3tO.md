@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sleaford Mods
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,012 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,072 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 9144,
+  "num_followers": 9186,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDEzODFhN2NjODFkZjgzMzU2ZDRhY2I4MmZiYWU4ZmQw",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDZmYjVkNTVmMDc2NjQ0YjBlZTljYTQxYzVlYmI0NzRl",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
-    },
-    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Fire It Up",
@@ -399,6 +383,22 @@
       "duration_ms": 222620,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Old School",
-        "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 408413,
-      "name": "Money Is The Name Of The Game",
-      "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 265506,
       "name": "First You Cry",
       "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 408413,
+      "name": "Money Is The Name Of The Game",
+      "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Stronger Than You Need To Be",
-      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "From the Heart and Soul",
         "url": "https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 282026,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Stronger Than You Need To Be",
+      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Bridge to a Legacy",
         "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -739,22 +739,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Memphisapolis",
-        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
       "artists": [
         {
-          "name": "Willie Walker",
-          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
-        },
-        {
-          "name": "The Butanes",
-          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Won't Be Lonely",
-      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -791,18 +787,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+        "name": "Memphisapolis",
+        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
       },
       "artists": [
         {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+          "name": "Willie Walker",
+          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
+        },
+        {
+          "name": "The Butanes",
+          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
+      "duration_ms": 227800,
+      "name": "I Won't Be Lonely",
+      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
+      },
+      "artists": [
+        {
+          "name": "Preston Shannon",
+          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Baby I Will",
+      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Cheatin' Habit",
         "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 256466,
       "name": "Engines And Wings",
       "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Midnight In Memphis",
-        "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
-      },
-      "artists": [
-        {
-          "name": "Preston Shannon",
-          "url": "https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Baby I Will",
-      "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -951,18 +951,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0JBRVO8stjOO9JF4UnrWSv"
+        "name": "Memphisapolis",
+        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
       },
       "artists": [
         {
-          "name": "Carl Weathersby",
-          "url": "https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw"
+          "name": "Willie Walker",
+          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
+        },
+        {
+          "name": "The Butanes",
+          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
         }
       ],
-      "duration_ms": 264400,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf"
+      "duration_ms": 249893,
+      "name": "What's It Take?",
+      "url": "https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp"
     },
     {
       "added_at": "2020-12-01 05:01:00",

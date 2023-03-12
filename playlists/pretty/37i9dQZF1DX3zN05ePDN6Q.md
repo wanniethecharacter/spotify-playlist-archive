@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Febre 90's
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,916 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,960 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 4 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 |
 | 5 | [O Boombap Não Morre](https://open.spotify.com/track/7AC44OGeO16I8PkqdmDNOv) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:43 |
 | 6 | [Terra de Ninguém](https://open.spotify.com/track/1ZbUPNmGbaDSCVj3JdWduI) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Terra de Ninguém](https://open.spotify.com/album/6TjWUZBQVci9JnXgWxLh0q) | 3:02 |
-| 7 | [De Coração \- Extend Version](https://open.spotify.com/track/0qASMrCdhWRjnjqsav11aF) | [Arthur Freestyle](https://open.spotify.com/artist/7tRuMFXUl7QIgTbou4dJkc), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [De Coração \(Extend Version\)](https://open.spotify.com/album/4uiORO4JWPPuRNNWECjlPi) | 4:10 |
+| 7 | [De Coração \- Extended Version](https://open.spotify.com/track/0qASMrCdhWRjnjqsav11aF) | [Arthur Freestyle](https://open.spotify.com/artist/7tRuMFXUl7QIgTbou4dJkc), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [De Coração \(Extended Version\)](https://open.spotify.com/album/4uiORO4JWPPuRNNWECjlPi) | 4:10 |
 | 8 | [Abençoado](https://open.spotify.com/track/4KdbIsaPbgBke0NNwcu2Te) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Matheusiddy](https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93) | [Abençoado](https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr) | 2:29 |
 | 9 | [São Bento Vive!](https://open.spotify.com/track/6eWvgP1RVaRMbuqnSHhXQ1) | [Sobrenome De Mello](https://open.spotify.com/artist/0wsWuJbPs4nflTLs6fIGbs), [Dö Mc](https://open.spotify.com/artist/3ZUnv9j8nKS09bTDzTuYVB), [Lou Piensa](https://open.spotify.com/artist/3Epr49EwL2ztSjaYTgKzBc), [Nuno Mendes](https://open.spotify.com/artist/20XcqrSCaLh6Elb3m4RUCt) | [São Bento Vive!](https://open.spotify.com/album/3HjqfQOXGhHJD1hA0fRR1t) | 5:10 |
 | 10 | [Soldado sem Coração](https://open.spotify.com/track/2NzxxgUanq360r29LzuDQM) | [Boaventura](https://open.spotify.com/artist/5jclJvn6eulBAXMjqrprO8), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [Soldado sem Coração](https://open.spotify.com/album/6ocAO0JnWL8I9Nup1s7XEJ) | 2:20 |

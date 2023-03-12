@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 11421,
+  "num_followers": 11436,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDJlMTdhNzRlNzYxZGE5ZjQ1OWMzZDVlODMzOGU5OWYw",
+  "snapshot_id": "MTY3NzIzNDkxOSwwMDAwMDAwMDQ1YzA4OGViM2M3ODE5NTZlNTk3MmVlNTZmOTVlYTgx",
   "tracks": [
     {
       "added_at": "2023-02-14 07:48:55",
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
-      "added_at": "2023-03-11 01:42:42",
+      "added_at": "2023-03-12 01:08:29",
       "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
-      "added_at": "2023-03-11 01:42:42",
+      "added_at": "2023-03-12 01:08:29",
       "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-02-14 07:48:55",
       "album": {
-        "name": "SOULBYSEL Compilation 04",
-        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
-      },
-      "artists": [
-        {
-          "name": "SOULBYSEL",
-          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
-        },
-        {
-          "name": "Image",
-          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
-        }
-      ],
-      "duration_ms": 124572,
-      "name": "Donut",
-      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
-    },
-    {
-      "added_at": "2023-02-14 07:48:55",
-      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 147359,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
+    },
+    {
+      "added_at": "2023-02-14 07:48:55",
+      "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Image",
+          "url": "https://open.spotify.com/artist/58L7Wn6gqkg86DH0I3z2p5"
+        }
+      ],
+      "duration_ms": 124572,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/4WN6ZxyOx9DLGOKonyKRT5"
     },
     {
       "added_at": "2023-02-14 07:48:55",

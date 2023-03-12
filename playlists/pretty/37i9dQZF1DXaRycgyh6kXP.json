@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 164816,
+  "num_followers": 164941,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDBjNTNiM2YwZDk1MzdmYjk0OWY1OTllYTM1OWE5YmJh",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGExYmViMzk0NmRhN2YwNjAwOWE2OGMyYTVlZGE0ODA4",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Saw You for the First Time",
         "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 299448,
+      "name": "Way Ur Touchin Me",
+      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 340276,
-      "name": "As Much as Possible",
-      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 340276,
+      "name": "As Much as Possible",
+      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
       },
       "artists": [
         {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "L.O.S.S.",
         "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 267250,
       "name": "Nobody New Around You",
       "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
     }
   ],
   "unique_name": "Electronica Romantica",

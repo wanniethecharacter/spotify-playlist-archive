@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 77016,
+  "num_followers": 77137,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMDk5NDVjMzk1OGExOTU1Mjc2NWRlMTZkNDQ1NDJiYWFh",
+  "snapshot_id": "MTY3NTIyNzIwMCwwMDAwMDAwMGJhZjRhMGEzZDU0OTlhZDI2YTEwOGNkMmM1OGNjYjVj",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Southtown",
-      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
+      "duration_ms": 179226,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
       "artists": [
         {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/3b6uenXXbpCRxXyzFzWi3J"
+      "duration_ms": 247253,
+      "name": "Southtown",
+      "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Sixpence None the Richer: Greatest Hits",
-        "url": "https://open.spotify.com/album/21KNgondk578mn6CS8AAKu"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 250125,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Sixpence None the Richer: Greatest Hits",
+        "url": "https://open.spotify.com/album/21KNgondk578mn6CS8AAKu"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
+        "name": "# 1's Vol. 1",
+        "url": "https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
         "name": "With Abandon",
         "url": "https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 223826,
       "name": "Love Liberty Disco",
       "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
-        "name": "# 1's Vol. 1",
-        "url": "https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Best Of Plumb",
-        "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
-      },
-      "artists": [
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Seven Day Jesus",
         "url": "https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 210768,
       "name": "Butterfly - Seven Day Jesus Album Version",
       "url": "https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Best Of Plumb",
+        "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
     },
     {
       "added_at": "2023-02-01 04:53:20",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 28845,
+  "num_followers": 28896,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMGUzNWI5ODM3MjM3Yjk4MWZlZmRkOTQ5NGVhMzhlZjRm",
+  "snapshot_id": "MTY2NDUwOTU0MCwwMDAwMDAwMDYwOWQ5YzE1Mjc4ZDk3Y2QxNDliNjFjNDhjNWQxMWFj",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "La Llorona",
@@ -675,6 +659,22 @@
       "duration_ms": 250360,
       "name": "Floricanto",
       "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188355,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
-        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Vald\u00e9z",
-          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
-        },
-        {
-          "name": "Tintan",
-          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Endangered Species Remixed",
         "url": "https://open.spotify.com/album/2TlM03dkKtiI20cS1ODVAl"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 260000,
       "name": "Mi Swing es Tropical - Zeb Remix",
       "url": "https://open.spotify.com/track/3xwJcguCWN0nHRSANZR8O8"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
+        "url": "https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9z",
+          "url": "https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l"
+        },
+        {
+          "name": "Tintan",
+          "url": "https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
     },
     {
       "added_at": "2022-04-19 19:22:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Loca Navidad Latin Rock Vol. 4",
-        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 159800,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Loca Navidad Latin Rock Vol. 4",
+        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
+        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Tengo una debilidad",
+      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Sonidos Gold",
         "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 545467,
       "name": "Luna Negra - Live",
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
-        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Tengo una debilidad",
-      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Los Originales Vol. 3",
-        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz y La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
-        }
-      ],
-      "duration_ms": 157352,
-      "name": "Caramelos",
-      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Trio Nuevomexicano",
         "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 239213,
       "name": "La Xochipitzahuatl",
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Los Originales Vol. 3",
+        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz y La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
+        }
+      ],
+      "duration_ms": 157352,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1539,6 +1539,22 @@
       "duration_ms": 166813,
       "name": "Afro Blue - Koop Remix",
       "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Echu Mingua",
+        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e1 Diaz",
+          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "A Love Supreme",
+      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1587,22 +1603,6 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Echu Mingua",
-        "url": "https://open.spotify.com/album/7hf8NZQgZ1rDxziIyaMHEx"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e1 Diaz",
-          "url": "https://open.spotify.com/artist/1iXpmR9Jhw99P6tTCkKHaz"
-        }
-      ],
-      "duration_ms": 349973,
-      "name": "A Love Supreme",
-      "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
     },
     {
       "added_at": "2022-01-11 03:10:29",

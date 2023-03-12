@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,002 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,022 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 15 | [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 |
 | 16 | [12月17日](https://open.spotify.com/track/4mwL32lnMsw2X9RIPqi5jZ) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [GALAXY](https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j) | 3:56 |
 | 17 | [指の行方](https://open.spotify.com/track/3g80KGbeo6QCuzKEGLAkPW) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:04 |
-| 18 | [ライフイズビューティフル](https://open.spotify.com/track/7tjzUhIBqcIhsmLRL4y94p) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス5](https://open.spotify.com/album/0icQ1sy5NbKWwOI4ItAt6w) | 6:06 |
+| 18 | [life is beautiful](https://open.spotify.com/track/17c8p1kMZpogd4vhmrmrcC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [Ketsunopolis5](https://open.spotify.com/album/4ilbi6RzOeNicKIYbI00kJ) | 6:06 |
 | 19 | [rain drops \- Full Spec Edition](https://open.spotify.com/track/22tEijyxz920RizPo8pMN2) | [花\(平野綾\)](https://open.spotify.com/artist/1A2yBiM3rc5VjokjfM06f4) | [Ryu ga gotoku Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6) | 5:25 |
 | 20 | [harukaze \- Full Spec Edition](https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C) | [向田 紗栄子<上坂 すみれ>](https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:02 |
 | 21 | [ring \- Full Spec Edition](https://open.spotify.com/track/1n6eakU3mozez5M2F7HY1w) | [ユキ\(杉平真奈美\)](https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ) | [Ryu ga gotoku Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMDBhMDVlMWNiZGJlYjAwMTk1ZWNlOWJiMjhiNTUwNTM4`
+Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMDk3ZDgzZjUwN2E2OWMwODUxZDk1ZTAwOWRjNzcwOWIy`

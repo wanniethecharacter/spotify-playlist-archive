@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 149748,
+  "num_followers": 149791,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNjc2MCwwMDAwMDAwMDQyZWFmM2VlZGMzMmVhMjU4ZGRlY2ZiMTRkMGVkMjE3",
+  "snapshot_id": "MTY3NzIzNjc2MCwwMDAwMDAwMGEyMTE4MDY5MzU1ZmVhMDBlNDdiNDI4YjA3M2FkM2Nh",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 199462,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 199462,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "see u tomorrow (stripped)",
-        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        }
-      ],
-      "duration_ms": 197845,
-      "name": "see u tomorrow - stripped",
-      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "see u tomorrow (stripped)",
+        "url": "https://open.spotify.com/album/5vZlS7f7ZH0HJLdKgG9bJH"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "see u tomorrow - stripped",
+      "url": "https://open.spotify.com/track/2yey1giM7ReLBWsGnlGqR1"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
     },
     {
+      "added_at": "2023-02-24 11:06:00",
+      "album": {
+        "name": "Sometimes I Feel",
+        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 147354,
+      "name": "Sometimes I Feel",
+      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Hailey (EMBERS Remix)",
@@ -1155,22 +1171,6 @@
       "duration_ms": 199375,
       "name": "One Life - Acoustic",
       "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
-    },
-    {
-      "added_at": "2023-02-24 11:06:00",
-      "album": {
-        "name": "Sometimes I Feel",
-        "url": "https://open.spotify.com/album/6lCLB2OMj5ypVqKthI4E6r"
-      },
-      "artists": [
-        {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
-        }
-      ],
-      "duration_ms": 147354,
-      "name": "Sometimes I Feel",
-      "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'll Buy A House (Acoustic)",
-        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
-      },
-      "artists": [
-        {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "I'll Buy A House - Acoustic",
-      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 160500,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'll Buy A House (Acoustic)",
+        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "I'll Buy A House - Acoustic",
+      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 138220,
-      "name": "I don't mind if you don't mind (draft)",
-      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Bizarre Love Triangle (Acoustic)",
         "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In Hindsight",
+        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 138220,
+      "name": "I don't mind if you don't mind (draft)",
+      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
+        "name": "Sending Light (For Lucas)",
+        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
         }
       ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+      "duration_ms": 194094,
+      "name": "Sending Light (For Lucas)",
+      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Sending Light (For Lucas)",
-        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
       },
       "artists": [
         {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 194094,
-      "name": "Sending Light (For Lucas)",
-      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 216841,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
+      "duration_ms": 140130,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7"
     }
   ],
   "unique_name": "Soft Morning",

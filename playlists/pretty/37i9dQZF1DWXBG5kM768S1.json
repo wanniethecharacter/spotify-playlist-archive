@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 67030,
+  "num_followers": 67052,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDg5ODdhZDAyMmVmNzIzNTQ2YWZmMGFkZWVlY2ZhODVh",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDg3NmY3ZTk2YjE5Njk3YzM5NmJjODcwZGMxZjNlMDEx",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -387,22 +387,26 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Underlig Frihet",
-        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
+        "name": "Sol\u00f8ye",
+        "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
         },
         {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+          "name": "Ola Bremnes",
+          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
+        },
+        {
+          "name": "Lars Bremnes",
+          "url": "https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4"
         }
       ],
-      "duration_ms": 265400,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+      "duration_ms": 203937,
+      "name": "\u00c5 Kunne \u00c6 Skrive",
+      "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -431,26 +435,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Sol\u00f8ye",
-        "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
+        "name": "Underlig Frihet",
+        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
       "artists": [
         {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
         },
         {
-          "name": "Ola Bremnes",
-          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
-        },
-        {
-          "name": "Lars Bremnes",
-          "url": "https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4"
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
         }
       ],
-      "duration_ms": 203937,
-      "name": "\u00c5 Kunne \u00c6 Skrive",
-      "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
+      "duration_ms": 265400,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
       "artists": [
         {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+      "duration_ms": 279240,
+      "name": "P\u00e5 vei",
+      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -639,38 +639,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "P\u00e5 vei",
-        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 279240,
-      "name": "P\u00e5 vei",
-      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Ein kallar det kj\u00e6rleik",
-        "url": "https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 197384,
-      "name": "Ein kallar det kj\u00e6rleik",
-      "url": "https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT"
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -707,6 +687,26 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Ein kallar det kj\u00e6rleik",
+        "url": "https://open.spotify.com/album/4SN2FWk4dpxqlbjNa47tAh"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 197384,
+      "name": "Ein kallar det kj\u00e6rleik",
+      "url": "https://open.spotify.com/track/5r1saX7FrmteQoWy4EX4ZT"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Duell",
         "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+      },
+      "artists": [
+        {
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Pusterom",
         "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -787,38 +787,6 @@
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "Henda i v\u00e6ret",
-        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Lite og stort",
-      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -839,6 +807,38 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Henda i v\u00e6ret",
+        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Lite og stort",
+      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2023-02-09 23:00:00",

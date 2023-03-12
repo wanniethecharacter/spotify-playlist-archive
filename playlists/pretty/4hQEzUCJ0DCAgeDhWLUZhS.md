@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,651 likes - 163 songs - 9 hr 45 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,650 likes - 163 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 144 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 145 | [Trust Fund Glee](https://open.spotify.com/track/3QGRXZxtHdSqr3NlQlN9DD) | [Totally Unicorn](https://open.spotify.com/artist/3pSMLXDjk3lrfOK0xIZtq3) | [Trust Fund Glee](https://open.spotify.com/album/3Va0FWK51JNN7Hu5vvBI74) | 4:27 |
 | 146 | [Cold Water](https://open.spotify.com/track/0Bi5NIXkCVSQtZl3vFNMQI) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Cold Water](https://open.spotify.com/album/7M5CjLdBzbAi9BytyXNQqC) | 3:40 |
-| 147 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 |
+| 147 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 |
 | 148 | [Bounce](https://open.spotify.com/track/1IKFjq1kUtSFDeAwW5b9Mq) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Bounce](https://open.spotify.com/album/1F6Bpt1LHmOBepi4yhA1PJ) | 3:02 |
 | 149 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 |
 | 150 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 |

@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 45574,
+  "num_followers": 45594,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDYzOGY5NjU5YzllODY1ZDZhOTIyNGM5Mjk5NWMyMTFl",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDg1ZjgxNzI2NmE5ZjA0NzJhN2JhNTYxNDRjZWYwYmEy",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ponte Vecchio",
-        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
-      },
-      "artists": [
-        {
-          "name": "Indigo Mazati",
-          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
-        }
-      ],
-      "duration_ms": 148716,
-      "name": "Ponte Veccio",
-      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "A Brand New World",
         "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 142560,
       "name": "Bossa Bravado",
       "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ponte Vecchio",
+        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
+      },
+      "artists": [
+        {
+          "name": "Indigo Mazati",
+          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
+        }
+      ],
+      "duration_ms": 148716,
+      "name": "Ponte Veccio",
+      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 304600,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ibiza Sunset",
         "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
       "artists": [
         {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
         }
       ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+      "duration_ms": 152663,
+      "name": "Me Estas Haciendo Falta",
+      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+      },
+      "artists": [
+        {
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+        }
+      ],
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 181498,
       "name": "Black Orpheus",
       "url": "https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
-      },
-      "artists": [
-        {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
-        }
-      ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ilha Do Amor",
         "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Meu cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
       },
       "artists": [
         {
-          "name": "Xavier Hermenegildo",
-          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
         }
       ],
-      "duration_ms": 143179,
-      "name": "Meu cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Meu cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Hermenegildo",
+          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+        }
+      ],
+      "duration_ms": 143179,
+      "name": "Meu cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Just Feeling Great",
         "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 121814,
       "name": "Just Feeling Great",
       "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Senior Emilio",
+        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
+      },
+      "artists": [
+        {
+          "name": "Diego Fernandez",
+          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
+        }
+      ],
+      "duration_ms": 278675,
+      "name": "Senior Emilio",
+      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 205746,
       "name": "Repiqueteos Flamencos (Zapateado)",
       "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Senior Emilio",
-        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
-      },
-      "artists": [
-        {
-          "name": "Diego Fernandez",
-          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
-        }
-      ],
-      "duration_ms": 278675,
-      "name": "Senior Emilio",
-      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Contemporary Spanish Guitar: Kindred Spirits",
-        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
-      },
-      "artists": [
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
-        }
-      ],
-      "duration_ms": 402466,
-      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
-      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Classical Guitar Latin Style",
         "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 246040,
       "name": "Libertango",
       "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Contemporary Spanish Guitar: Kindred Spirits",
+        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "duration_ms": 402466,
+      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
+      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
     }
   ],
   "unique_name": "Cena con Guitarras",

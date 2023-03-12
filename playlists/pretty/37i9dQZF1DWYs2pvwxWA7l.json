@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ?si=ksCbWaD_SaaKDic_pKYdSw\"> Libianca</a> ,  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=PnUO-d-eQMGMLF0bLcmQ9Q\"> Ayra Starr</a>  and  <a href=\"https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=13y9EdRHRL20-5GRvDcwuQ\"> Omah Lay </a>  ",
-  "num_followers": 426837,
+  "num_followers": 427451,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ0MDU3OCwwMDAwMDAwMDg4ZjQ4YzcyZTcyYjVlYzI3MmNhODA2MTAyMGU1YWNk",
+  "snapshot_id": "MTY3ODQ0MDU3OCwwMDAwMDAwMDMzMzY3NjM4MjQyZTdkMjNkNWJhN2YyMTJlMjc1MWU1",
   "tracks": [
     {
       "added_at": "2023-03-10 00:31:46",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 166642,
-      "name": "emiliana",
-      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-03-10 00:31:46",
+      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-03-10 00:31:46",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
-        "name": "Anogo",
-        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 190140,
-      "name": "Anogo",
-      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+        "name": "Anogo",
+        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+      "duration_ms": 190140,
+      "name": "Anogo",
+      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
-      "added_at": "2023-03-11 01:06:57",
+      "added_at": "2023-03-12 00:54:42",
       "album": {
         "name": "AFROBOY",
         "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
+        "name": "ROOM 96",
+        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Encorps",
+      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
+    },
+    {
+      "added_at": "2023-03-10 00:31:46",
+      "album": {
         "name": "WO WO (Remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 225450,
       "name": "WO WO (Remix)",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"
-    },
-    {
-      "added_at": "2023-03-10 00:31:46",
-      "album": {
-        "name": "ROOM 96",
-        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Encorps",
-      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -943,6 +943,34 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
+        "name": "MASS COUNTRY",
+        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2VaU2Xam8mNfJ2VuDWrI2B"
+        }
+      ],
+      "duration_ms": 253380,
+      "name": "Sponono (feat. Baby S.O.N & 031 Choppa)",
+      "url": "https://open.spotify.com/track/2zdvRlkcacMBIf78Yf7IvP"
+    },
+    {
+      "added_at": "2023-03-10 00:31:46",
+      "album": {
         "name": "More Of You",
         "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
@@ -975,34 +1003,6 @@
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2023-03-10 00:31:46",
-      "album": {
-        "name": "MASS COUNTRY",
-        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        },
-        {
-          "name": "031CHOPPA",
-          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
-        },
-        {
-          "name": "Baby S.O.N",
-          "url": "https://open.spotify.com/artist/2VaU2Xam8mNfJ2VuDWrI2B"
-        }
-      ],
-      "duration_ms": 253380,
-      "name": "Sponono (feat. Baby S.O.N & 031 Choppa)",
-      "url": "https://open.spotify.com/track/2zdvRlkcacMBIf78Yf7IvP"
     },
     {
       "added_at": "2023-03-10 00:31:46",
@@ -1091,6 +1091,30 @@
     {
       "added_at": "2023-03-10 00:31:46",
       "album": {
+        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
+        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Loud Urban Choir",
+          "url": "https://open.spotify.com/artist/70XlHZiSwP7V4WiOi0sm3z"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
+      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2023-03-10 00:31:46",
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": "2023-03-10 00:31:46",
-      "album": {
-        "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
-        "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Loud Urban Choir",
-          "url": "https://open.spotify.com/artist/70XlHZiSwP7V4WiOi0sm3z"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
-      "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
       "added_at": "2023-03-10 00:31:46",

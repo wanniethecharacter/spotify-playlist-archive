@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 370786,
+  "num_followers": 372030,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDUzZWZkMzFjZmNlMzc2NWQ5ZDgxYWE2NjFkOWE1OGQ0",
+  "snapshot_id": "MTY3Nzc5ODAwMCwwMDAwMDAwMDAwYzk4ZTk2N2ZkM2Y3NGIyZGI3YmJhNTBjYzNiY2Jj",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Foreign Affair",
@@ -1239,6 +1223,22 @@
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You",
-      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "True Confessions (Collector's Edition)",
         "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+        "name": "Branigan",
+        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+      "duration_ms": 289853,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1741,6 +1725,22 @@
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Hysteria",
@@ -1755,6 +1755,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1787,22 +1803,6 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1889,6 +1889,22 @@
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Body Wishes",
+        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Baby Jane - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Around The World In A Day",
@@ -1919,22 +1935,6 @@
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Body Wishes",
-        "url": "https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Baby Jane - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
@@ -2031,6 +2015,22 @@
       "duration_ms": 193440,
       "name": "One Night In Bangkok - Radio Edit / From \u201cChess\u201d / Remastered 2016",
       "url": "https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2145,22 +2145,6 @@
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Love Songs (A Compilation Old and New)",
@@ -2175,6 +2159,22 @@
       "duration_ms": 204386,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Empty Glass",
-        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
-      },
-      "artists": [
-        {
-          "name": "Pete Townshend",
-          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Let My Love Open The Door",
-      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Empty Glass",
+        "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
+      },
+      "artists": [
+        {
+          "name": "Pete Townshend",
+          "url": "https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Let My Love Open The Door",
+      "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
     },
     {
       "added_at": "2021-09-08 13:09:25",

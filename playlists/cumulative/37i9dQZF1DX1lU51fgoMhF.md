@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-288 songs - 16 hr 0 min
+289 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Save Me](https://open.spotify.com/track/54s6sdPuMjVtdB5d5KFzTC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:16 | 2021-11-17 | 2022-07-28 |
 | [Save Me](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:16 | 2022-07-27 |  |
 | [SAY MY NAME](https://open.spotify.com/track/2bqJlYb6t4lXKGB4Xd4TjK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:25 | 2021-11-17 | 2022-07-27 |
-| [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-27 |  |
+| [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-27 | 2023-03-12 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-27 |  |
 | [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 | 2022-07-27 |  |
 | [SEE SEA](https://open.spotify.com/track/481yYUbtfs67PaKYKxJOeF) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/2BOKToUfHlLRoVEcRxbQsr) | 3:20 | 2021-11-17 | 2022-07-27 |
@@ -250,6 +250,7 @@
 | [Sparkling](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:06 | 2022-07-11 |  |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-11 | 2022-07-23 |
 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 | 2021-11-17 | 2022-07-25 |
+| [Starry Night](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) | 3:31 | 2023-02-24 |  |
 | [Starry Night](https://open.spotify.com/track/5MaDeMdqsPsZTxNWdEZPVH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn) | 3:31 | 2021-11-17 | 2023-03-10 |
 | [Stay For Me \(feat\. Seo Inguk\)](https://open.spotify.com/track/6On3SNbFuW1Awer6MFYfpx) | [HYUK](https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Stay For Me](https://open.spotify.com/album/4LYpLBLp0X8VtktEUQ1Ev8) | 3:26 | 2022-10-07 | 2023-02-28 |
 | [Stupid Cool](https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Stupid Cool](https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN) | 2:58 | 2022-06-18 | 2022-08-13 |

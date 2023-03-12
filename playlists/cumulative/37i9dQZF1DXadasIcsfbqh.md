@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Sam Hunt
 
-211 songs - 11 hr 2 min
+212 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-10-08 |
 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 | 2022-11-04 |  |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-12-17 |  |
-| [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 |  |
+| [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2022-01-07 | 2023-03-12 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-17 |  |
 | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/track/4xhnOiqFLxGf3IHqMiOm7C) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Sunday Morning Kinda Saturday Night](https://open.spotify.com/album/5FTBgPGbuzKi2l5IO2pYPc) | 3:32 | 2021-12-17 | 2022-09-29 |
 | [Sunroof](https://open.spotify.com/track/4vEhv7jNjMFozzXWoJ3hve) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Sunroof](https://open.spotify.com/album/6l77h0TCCEIOl49SS3hwT6) | 3:42 | 2021-12-17 | 2022-07-28 |
@@ -190,6 +190,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [Thinkin’ Bout Me](https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:57 | 2023-03-03 |  |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-17 | 2022-06-01 |
+| [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 |  |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-17 |  |
 | [Treated Me Good](https://open.spotify.com/track/0WlenzbcPClIkMc9lwzXdP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Treated Me Good](https://open.spotify.com/album/7xdKctABSF6i9zKy9B5wHB) | 3:20 | 2023-03-01 |  |
 | [Trying Not To](https://open.spotify.com/track/5yxaMW0oneWyj2rso0BwZ5) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Trying Not To](https://open.spotify.com/album/74AUxh2czF7cU9qKIh6vXk) | 3:24 | 2021-12-17 | 2022-01-08 |

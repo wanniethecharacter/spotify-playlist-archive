@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 4 hr 56 min
+76 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2022-03-31 |  |
 | [Cinema](https://open.spotify.com/track/7lpcsfhzWhzbBjg3QopQYb) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/59qMNeLYyUvxNBO3hXgtE5) | 2:06 | 2022-03-31 | 2022-11-25 |
 | [Confusion \- Pump Panel Reconstruction Mix](https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 10:12 | 2022-03-31 |  |
-| [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 | 2022-03-31 |  |
+| [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 | 2022-03-31 | 2023-03-12 |
+| [Dial Tone](https://open.spotify.com/track/3UEjF6mHBlYo5yJsQaDuwI) | [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI) | [Dial Tone](https://open.spotify.com/album/5Sur0eCCXcse2MTzl9Fe4V) | 2:58 | 2022-03-31 |  |
 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 | 2022-03-31 |  |
 | [egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [The Fool](https://open.spotify.com/album/4n1tg05JN5EY0k7FRRcAir) | 2:18 | 2022-03-31 |  |
 | [Embrace](https://open.spotify.com/track/6BgGIR4gyQr8aetJahZNN6) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Embrace](https://open.spotify.com/album/3i7C7hrizEkge47FgDz5rJ) | 3:34 | 2022-03-31 |  |

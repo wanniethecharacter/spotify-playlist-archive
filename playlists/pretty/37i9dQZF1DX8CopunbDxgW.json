@@ -1,15 +1,15 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: The Blaze",
-  "num_followers": 836974,
+  "num_followers": 837275,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2MjA5MiwwMDAwMDAwMDJjOGMzNTdiZWE5MDc0N2E0ZWFkM2IxNDVkNmQ5YWQy",
+  "snapshot_id": "MTY3ODQ2MjA5MiwwMDAwMDAwMGJkNjBiMzlhZTVjNWJlYWZkNzdkODc3OWE5NTNiY2Q4",
   "tracks": [
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
@@ -61,9 +61,9 @@
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
-        "name": "Assumptions (Kaytranada Remix)",
+        "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
       },
       "artists": [
@@ -77,11 +77,11 @@
         }
       ],
       "duration_ms": 288097,
-      "name": "Assumptions - Kaytranada Remix",
+      "name": "Assumptions - Kaytranada Edit",
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "Gabo's Last Resort / Hyakutake",
         "url": "https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
-      "added_at": "2023-03-11 00:51:54",
+      "added_at": "2023-03-12 01:37:17",
       "album": {
         "name": "Low Lights and Throwback Tunes",
         "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
@@ -691,8 +691,8 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "CLASH",
-        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
       "artists": [
         {
@@ -700,25 +700,9 @@
           "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 210773,
-      "name": "CLASH - Edit",
-      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Is U",
         "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+        "name": "CLASH",
+        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+      "duration_ms": 210773,
+      "name": "CLASH - Edit",
+      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "U Neva",
-        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "U Neva",
-      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "U Neva",
+        "url": "https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "U Neva",
+      "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Slugger 1.4 [2014 Export.WAV]",
-        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
+        "name": "Circle Back Around",
+        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 248811,
-      "name": "Slugger 1.4 [2014 Export.WAV]",
-      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
+      "duration_ms": 195408,
+      "name": "Circle Back Around",
+      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1049,20 +1049,20 @@
       "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Circle Back Around",
-        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
+        "name": "Slugger 1.4 [2014 Export.WAV]",
+        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 195408,
-      "name": "Circle Back Around",
-      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
+      "duration_ms": 248811,
+      "name": "Slugger 1.4 [2014 Export.WAV]",
+      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1085,10 +1085,10 @@
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
+        "name": "Sunsleeper",
+        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
+      "duration_ms": 220744,
+      "name": "Sunsleeper",
+      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Better Now (feat. MARO)",
         "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
       },
@@ -1231,28 +1251,8 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Sunsleeper",
-        "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 220744,
-      "name": "Sunsleeper",
-      "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Caution To The Wind",
+        "url": "https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Caution To The Wind",
+      "url": "https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Waterfall",
@@ -1479,22 +1495,6 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Caution To The Wind",
-        "url": "https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Caution To The Wind",
-      "url": "https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "House of FM",
         "url": "https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Blutooth / enough 4 u",
-        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Blutooth",
-      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "WATER. (feat. Bryce Vine)",
         "url": "https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 166779,
       "name": "WATER. (feat. Bryce Vine)",
       "url": "https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Blutooth / enough 4 u",
+        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Blutooth",
+      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
       "added_at": "2023-02-17 05:00:00",

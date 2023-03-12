@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-333 songs - 18 hr 38 min
+334 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [King on the Inside](https://open.spotify.com/track/2NtGEO4J6TpOpXxhxpjQv5) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [King on the Inside](https://open.spotify.com/album/6254xJxjkaP61rmvqhSp2e) | 3:24 | 2021-10-31 | 2023-01-14 |
 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 | 2021-10-31 | 2023-01-14 |
 | [Kingdom Disposition](https://open.spotify.com/track/0ZNVRTj3qXVw0toVUqfdP0) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Closer](https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw) | 4:28 | 2021-10-31 | 2022-07-21 |
+| [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 | 2023-01-13 |  |
 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 | 2023-01-13 |  |
 | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/track/2LMXLQAQZcQehXHApaNrIW) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [L.H.U.Y \(LET HIM USE YA\)](https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy) | 3:21 | 2021-10-31 | 2023-01-14 |
 | [Lean Back](https://open.spotify.com/track/1QSuiZPdQUpfpM7o8bp754) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Greater is He & Lean Back](https://open.spotify.com/album/2Qw9de5l2J7bmAzLVlicib) | 3:46 | 2021-10-31 | 2022-07-27 |
@@ -331,7 +332,7 @@
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-01-13 |  |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-01-14 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2022-07-28 |
-| [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-01-13 |  |
+| [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-01-13 | 2023-03-12 |
 | [Wouldn't Change a Thing](https://open.spotify.com/track/0Ci05XtL8veIKewQRDlbgo) | [Steph Alessi Muiña](https://open.spotify.com/artist/0YyhKuzuNV2wAYKkBKx5Gd) | [Wouldn't Change a Thing](https://open.spotify.com/album/7yl6G54uyUIn9FdgjYiqqU) | 3:16 | 2021-10-31 | 2022-07-29 |
 | [Yes & No](https://open.spotify.com/track/5f4a8LWYVgk4WEQyQhuOwU) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Yes & No](https://open.spotify.com/album/22ULpHp5fGM6yL5cg1wUk0) | 2:59 | 2021-10-31 | 2022-07-29 |
 | [Yes & No](https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 2:59 | 2021-10-31 | 2023-01-14 |

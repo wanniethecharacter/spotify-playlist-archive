@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,129 likes - 45 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,137 likes - 45 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 44 | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/track/2X7Mzcr24Zk7LyHE0JQBs9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \- Demo \- 2008](https://open.spotify.com/album/3WfMKEzc06cGLrqfyDAQ5c) | 4:04 |
 | 45 | [Zona de promesas](https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver \- Tributo Chileno a Cerati \(Disco 2\)](https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6) | 4:47 |
 
-Snapshot ID: `Mjc5NzQyMDIsMDAwMDAwMDA5N2VkZmFkODE0OTU5Y2YzZDEyZDRmMzU2Y2Q1YjFjMA==`
+Snapshot ID: `Mjc5NzU3MjcsMDAwMDAwMDBjODhhYzQ3MDUwOWE5NjRiZmI0M2QwMjBlNTU0ZTkwOA==`

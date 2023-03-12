@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 84294,
+  "num_followers": 84318,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDdlMjFiZDRlMGI2ZGYxMTM0ODdlMmVlNzc2ZTI0Mzcz",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGRhZmIyM2NiMDEyMDYwMWRkMzMxZDQxMzZiMzY0OTg3",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "The Talking Stage Game",
-        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 195558,
-      "name": "The Talking Stage Game",
-      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/4WUlDXjoMdKnanASiOhZ0N"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192566,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/2I17HGSFMhoT1AXYrE43jg"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "The Talking Stage Game",
+        "url": "https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 195558,
+      "name": "The Talking Stage Game",
+      "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
-      },
-      "artists": [
-        {
-          "name": "Tskinz",
-          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/1tSvHyoAQUPXrzbBdzBIAA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 180047,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/3DSJEZhKvNL4QDYN4ntbhc"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
+      },
+      "artists": [
+        {
+          "name": "Tskinz",
+          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
-      },
-      "artists": [
-        {
-          "name": "Otis Lloyid",
-          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190615,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5"
+      },
+      "artists": [
+        {
+          "name": "Otis Lloyid",
+          "url": "https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Drunk and Confused 2.0",
         "url": "https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 227727,
       "name": "Drunk and Confused 2.0",
       "url": "https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111253,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
     },
     {
       "added_at": "2022-08-02 15:42:28",

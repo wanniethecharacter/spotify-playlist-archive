@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 217280,
       "name": "En Tu Pelo",
       "url": "https://open.spotify.com/track/0zWv4SB4NLDHZeTQPJpfZs"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 182973,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "La G\u00fcera Salome",
+      "url": "https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/0zhysJHZai73HznxQ5Kmj3"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 183240,
       "name": "La G\u00fcera Salom\u00e9",
       "url": "https://open.spotify.com/track/0ztaqx3ChIDhqmZepSoJkB"
@@ -1298,10 +1316,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 227373,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a"
+    },
+    {
+      "album": {
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "album": {
@@ -2276,7 +2312,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 240091,
       "name": "Yo Tonta, No",
       "url": "https://open.spotify.com/track/6RqE0vPNiiGj0eyxY9vKx1"

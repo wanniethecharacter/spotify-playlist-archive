@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,780 likes - 56 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,885 likes - 56 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 5 | [BLOODPUDDLE](https://open.spotify.com/track/4cbmaakH3pHNNBn4oYhxgO) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [BLOODPUDDLE](https://open.spotify.com/album/1ECcVLJb9ksKW15h4Slulo) | 1:54 |
 | 6 | [Red Fur](https://open.spotify.com/track/1jj922BgyJexH19yoHd23L) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Red Fur](https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc) | 3:31 |
 | 7 | [ObZen \- 2023, 15th Anniversary Remastered Edition](https://open.spotify.com/track/793kfIPUvMqqbpuG3xPxiH) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/7FEtkDhMVgM7vD1rIrixB5) | 4:24 |
-| 8 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepard](https://open.spotify.com/artist/5iYhkPU2FLcywV0y7n7Kt6) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
+| 8 | [Paradise](https://open.spotify.com/track/7KEAVUTJE74vU76mKnxaSo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa), [Heidi Shepherd](https://open.spotify.com/artist/7JATQ4iReEoimQFZPIjxF5) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:20 |
 | 9 | [The Ghost Of You](https://open.spotify.com/track/2jl13uamngIpwRkWydXXe2) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [The Ghost Of You](https://open.spotify.com/album/0DkBUIdSb4759fw0ZR92SV) | 3:00 |
 | 10 | [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 |
 | 11 | [Hellions](https://open.spotify.com/track/2ifhuqHixRseGujnENtfbl) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hellions](https://open.spotify.com/album/59J4vXs3evRbjxhtSBiztl) | 4:13 |

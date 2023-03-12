@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 40300,
+  "num_followers": 40344,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMGZlODNlMTVjYTc2OWJjZGM5OWRiMmE0ZDdmZjdiMWE1",
+  "snapshot_id": "MTY2ODU2MDE0NSwwMDAwMDAwMDFlMGMwNGQ2NzhmOGZjYTRiMWRhNjg4OTUzOTljNmYx",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u6bd4\u5948 \u30de\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "\u5fc3\u306e\u307e\u307e\u306b",
-      "url": "https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "DIGGIN\u2019 VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO",
         "url": "https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 213520,
       "name": "On the Coast",
       "url": "https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u6bd4\u5948 \u30de\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "\u5fc3\u306e\u307e\u307e\u306b",
+      "url": "https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -363,6 +363,22 @@
       "duration_ms": 332175,
       "name": "\u5f71\u306b\u306a\u3063\u3066",
       "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "BAND WAGON (Remastered 2017)",
+        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
+      },
+      "artists": [
+        {
+          "name": "Shigeru Suzuki",
+          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Suna no Onna",
+      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -435,22 +451,6 @@
       "duration_ms": 231760,
       "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
       "url": "https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "BAND WAGON (Remastered 2017)",
-        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
-      },
-      "artists": [
-        {
-          "name": "Shigeru Suzuki",
-          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Suna no Onna",
-      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "Feel Happy 2007 ~Debut 30th Anniversary~",
+        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
+      },
+      "artists": [
+        {
+          "name": "Shinji Harada",
+          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "\u3066\u3043\u30fc\u3093\u305a \u3076\u308b\u30fc\u3059",
+      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "City Lights by the Moonlight",
         "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 371226,
       "name": "ON THE SEASHORE",
       "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "Feel Happy 2007 ~Debut 30th Anniversary~",
-        "url": "https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB"
-      },
-      "artists": [
-        {
-          "name": "Shinji Harada",
-          "url": "https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "\u3066\u3043\u30fc\u3093\u305a \u3076\u308b\u30fc\u3059",
-      "url": "https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7"
     },
     {
       "added_at": "2022-11-16 00:55:45",

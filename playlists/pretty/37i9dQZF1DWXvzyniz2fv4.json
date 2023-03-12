@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 145253,
+  "num_followers": 145268,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDk5ZWMxY2Y4MWY1MjA3N2ZjNmExMGRiYzQxNGYwNTIx",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMGEwYjg0MTA3Y2QwNTJhNWZjYzY3ZTNlM2ZmYmVkMmIw",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "O Melhor Da Vida",
-        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
-      },
-      "artists": [
-        {
-          "name": "DOM7NICO",
-          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Vamo Pra Praia",
-      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Te Ver De Novo",
-        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 168321,
-      "name": "Te Ver De Novo",
-      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Nada Comum",
         "url": "https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO"
       },
@@ -815,6 +783,66 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Te Ver De Novo",
+        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 168321,
+      "name": "Te Ver De Novo",
+      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "O Melhor Da Vida",
+        "url": "https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33"
+      },
+      "artists": [
+        {
+          "name": "DOM7NICO",
+          "url": "https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Vamo Pra Praia",
+      "url": "https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Muleke Solto",
+        "url": "https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 210553,
+      "name": "Muleke Solto",
+      "url": "https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1115,6 +1143,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1155,30 +1207,6 @@
       "duration_ms": 128000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1327,22 +1355,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1359,6 +1371,22 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1627,34 +1655,6 @@
       "duration_ms": 214490,
       "name": "Mais um Som de Amor",
       "url": "https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Muleke Solto",
-        "url": "https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 210553,
-      "name": "Muleke Solto",
-      "url": "https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV"
     }
   ],
   "unique_name": "Resenha na Praia",

@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 228500,
+  "num_followers": 228625,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODMxMjMwMiwwMDAwMDAwMGRlMWUxODI2MWQ1NWRjODA0MWJlZTkxZTYyOThkNWQ2",
+  "snapshot_id": "MTY3ODMxMjMwMiwwMDAwMDAwMDExNjgwYzQ4ZjExMTY2NGMxNGY3ODE3OWFiMWRjNGVk",
   "tracks": [
     {
       "added_at": "2023-03-02 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Anogo",
-        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 190140,
-      "name": "Anogo",
-      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Anogo",
+        "url": "https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 190140,
+      "name": "Anogo",
+      "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
       "artists": [
         {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+        "name": "Fini",
+        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
       },
       "artists": [
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
+      "duration_ms": 173790,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Fini",
-        "url": "https://open.spotify.com/album/5KvaprWGjxV4RqG1PaQW8t"
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
         }
       ],
-      "duration_ms": 173790,
-      "name": "Fini",
-      "url": "https://open.spotify.com/track/0JJSn1Fq32PgxrqQtPpbeC"
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Wayih",
-        "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "Wayih",
-      "url": "https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Konsentra",
         "url": "https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2"
       },
@@ -2343,6 +2323,26 @@
       "duration_ms": 188571,
       "name": "Konsentra",
       "url": "https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Wayih",
+        "url": "https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "Wayih",
+      "url": "https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -3123,8 +3123,8 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Thank You Jah",
-        "url": "https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ"
+        "name": "Bad Gyal",
+        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
       },
       "artists": [
         {
@@ -3132,9 +3132,25 @@
           "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 202884,
-      "name": "Thank You Jah",
-      "url": "https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa"
+      "duration_ms": 216470,
+      "name": "Bad Gyal",
+      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Lagrimas",
+        "url": "https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa"
+      },
+      "artists": [
+        {
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+        }
+      ],
+      "duration_ms": 130772,
+      "name": "Lagrimas",
+      "url": "https://open.spotify.com/track/6myPV2uNaOOvnMXJhHJqlI"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -3159,22 +3175,6 @@
       "duration_ms": 374617,
       "name": "Velletjes (Amapiano Remix)",
       "url": "https://open.spotify.com/track/1rmkT2BEd7mQbF7p5KeKXk"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
-        "name": "Lagrimas",
-        "url": "https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa"
-      },
-      "artists": [
-        {
-          "name": "Sarita Lorena",
-          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
-        }
-      ],
-      "duration_ms": 130772,
-      "name": "Lagrimas",
-      "url": "https://open.spotify.com/track/6myPV2uNaOOvnMXJhHJqlI"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -3267,8 +3267,8 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Bad Gyal",
-        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
+        "name": "Thank You Jah",
+        "url": "https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ"
       },
       "artists": [
         {
@@ -3276,9 +3276,9 @@
           "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bad Gyal",
-      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
+      "duration_ms": 202884,
+      "name": "Thank You Jah",
+      "url": "https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -3367,26 +3367,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Cali Roots Riddim 2021",
         "url": "https://open.spotify.com/album/47ngDCKILaUidvXeest7sz"
       },
@@ -3403,6 +3383,26 @@
       "duration_ms": 165776,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
     },
     {
       "added_at": "2023-03-02 23:00:00",
@@ -3531,26 +3531,6 @@
     {
       "added_at": "2023-03-02 23:00:00",
       "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 221059,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
-    },
-    {
-      "added_at": "2023-03-02 23:00:00",
-      "album": {
         "name": "Matter Of Time II",
         "url": "https://open.spotify.com/album/7wqVMzE8uRN0DKnMMU3GMC"
       },
@@ -3567,6 +3547,26 @@
       "duration_ms": 151227,
       "name": "Clear This Sometime",
       "url": "https://open.spotify.com/track/0XLFIYfCuUOBolcHoUi7Uz"
+    },
+    {
+      "added_at": "2023-03-02 23:00:00",
+      "album": {
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 221059,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
     },
     {
       "added_at": "2023-03-02 23:00:00",

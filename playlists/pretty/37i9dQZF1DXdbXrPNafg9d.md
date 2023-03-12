@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Christine & The Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,446 likes - 172 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,525 likes - 172 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 71 | [You Had 2](https://open.spotify.com/track/1Tq7zQdC9POU1RoTOzYxqN) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [You Had 2](https://open.spotify.com/album/1qmxldYTL5jZ5SCna56TCY) | 3:13 |
 | 72 | [Ghost](https://open.spotify.com/track/2WSbMaSstjDFlY30mRaRz5) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [Ghost](https://open.spotify.com/album/0EkJjzIlZsOtkOablHVy9P) | 2:51 |
 | 73 | [KARMA](https://open.spotify.com/track/3emszROVbzl1a22YQ8hX6r) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [HEALING / 힐링](https://open.spotify.com/album/3SgxZCQJRMeFwtXLhvZN6h) | 2:34 |
-| 74 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Worth It](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
+| 74 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 |
 | 75 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
 | 76 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
 | 77 | [Vega](https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Music for the Future](https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm) | 3:23 |

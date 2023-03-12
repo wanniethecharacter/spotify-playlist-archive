@@ -4296,7 +4296,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 188733,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
@@ -4534,6 +4534,24 @@
       "duration_ms": 201600,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk"
+    },
+    {
+      "album": {
+        "name": "Yellow Flower",
+        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211236,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
     },
     {
       "album": {

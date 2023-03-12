@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: 6LACK
 
-768 songs - 1 day 17 hr 29 min
+769 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-04-15 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 |  |
 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 | 2022-05-13 | 2023-02-04 |
+| [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 | 2023-03-03 |  |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-01-14 |  |
 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 | 2022-06-10 | 2022-07-30 |
 | [Motorbike](https://open.spotify.com/track/6W2trGwkUVR8mwGSH4Ftpf) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Motorbike](https://open.spotify.com/album/1E4NH1W98mv4PaD3tvf5B9) | 3:08 | 2021-05-14 | 2022-07-29 |
@@ -601,7 +602,7 @@
 | [Shy Dancer](https://open.spotify.com/track/6rIXjTkphb5RB5cXGz6CyX) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Shy Dancer](https://open.spotify.com/album/6qk0iK3VpzfcnlZDNlBAPz) | 2:51 | 2021-03-19 | 2022-07-30 |
 | [Signal Down](https://open.spotify.com/track/6MXXwCvDKQBBNjR0RIKOhY) | [Daniel Hex](https://open.spotify.com/artist/05vHPIc91srHZA2JhBQzeX) | [Signal Down / Sideways](https://open.spotify.com/album/7K1r3n9CcH7fEbQMmctX86) | 2:01 | 2021-03-19 | 2022-01-21 |
 | [Simon Says](https://open.spotify.com/track/4QGITEzvSZ77PQCAp9XIkR) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:47 | 2022-08-05 | 2022-08-25 |
-| [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-10 |  |
+| [Simp](https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Simp](https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr) | 2:31 | 2023-02-10 | 2023-03-12 |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 |  |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2022-07-24 |  |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2021-03-19 | 2022-07-23 |

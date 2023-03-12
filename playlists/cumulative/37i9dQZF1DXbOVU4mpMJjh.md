@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-604 songs - 1 day 21 hr 32 min
+605 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Everything I Love](https://open.spotify.com/track/0Pw63fBSPpWdWPfcUr9hY5) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [John Taylor](https://open.spotify.com/artist/3xdh5R3rzl351hFb8raN5F) | [You Never Know](https://open.spotify.com/album/1ewZeCccAJFFZdbf7Ve0MU) | 7:45 | 2022-04-14 | 2022-09-23 |
 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 | 2022-04-14 | 2022-10-08 |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-03-09 |  |
+| [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-09 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
 | [Fall Song](https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:37 | 2022-09-15 |  |
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 | 2022-09-23 |
@@ -447,7 +448,7 @@
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-06-30 | 2022-10-08 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-09 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 |  |
-| [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-23 |  |
+| [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-23 | 2023-03-12 |
 | [Sand of Joshua](https://open.spotify.com/track/5nxwjmH5fsySx2gjMnIJOL) | [Jacob Gurevitsch](https://open.spotify.com/artist/1h9GstBf9XSQT3jzZqt3vH) | [Sand of Joshua](https://open.spotify.com/album/0LsjlMEOI7gpOphAfxSpPt) | 4:00 | 2022-04-14 | 2022-05-14 |
 | [Sandu](https://open.spotify.com/track/6OYVeWlKICv4I70RM1yHUC) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/2BpAy5GfHM0An9M0TOprBq) | 4:57 | 2022-04-14 | 2022-05-03 |
 | [Say It Over And Over Again](https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Lost In Your Eyes](https://open.spotify.com/album/2UDV9MOiixQUoXttk0sihh) | 3:20 | 2023-03-09 |  |

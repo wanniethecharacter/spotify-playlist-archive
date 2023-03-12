@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 166422,
+  "num_followers": 166477,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMGZjNTA5MmU5NjBmNDAxN2Y2OGQyYWFiN2ViZDEyNWU4",
+  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDU2Njc5NTJiMzgwMTk2NjMzNDVlZmVkZWFjOTM5Y2U5",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Nuestro Amo Juega al Esclavo",
-      "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 348840,
       "name": "Derecho de Nacimiento (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Nuestro Amo Juega al Esclavo",
+      "url": "https://open.spotify.com/track/0xt7T3rqNolRjO0AUWqBiD"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 197386,
       "name": "Santiago De Chile",
       "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 279413,
-      "name": "Nada Pas\u00f3",
-      "url": "https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Nada Pas\u00f3",
+      "url": "https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Aerolineas Makiza",
-        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
+        "name": "Escribo Rap Con R De Revolucion",
+        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
       },
       "artists": [
         {
-          "name": "Makiza",
-          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
         }
       ],
-      "duration_ms": 272800,
-      "name": "En Paro",
-      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
+      "duration_ms": 268467,
+      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
+      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Escribo Rap Con R De Revolucion",
-        "url": "https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7"
+        "name": "Aerolineas Makiza",
+        "url": "https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ"
       },
       "artists": [
         {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+          "name": "Makiza",
+          "url": "https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5"
         }
       ],
-      "duration_ms": 268467,
-      "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
-      "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
+      "duration_ms": 272800,
+      "name": "En Paro",
+      "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Almismotiempo",
+        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 222432,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "La chusma inconsciente",
         "url": "https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 354973,
       "name": "La chusma inconsciente",
       "url": "https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Almismotiempo",
-        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 222432,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Yo Vivo en Esta Ciudad",
-        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
-      },
-      "artists": [
-        {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "La Marcha De La Bronca",
-      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Autogesti\u00f3n y Resistencia",
         "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 220000,
       "name": "Sororidad",
       "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Yo Vivo en Esta Ciudad",
+        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
+      },
+      "artists": [
+        {
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "La Marcha De La Bronca",
+      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "El Club de la Resistencia",
+      "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Ellas",
         "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "El Club de la Resistencia",
-      "url": "https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Formas para Perderse o I.D.E.A.S",
-        "url": "https://open.spotify.com/album/4BPphO6cUdSLxYXefZSd0R"
-      },
-      "artists": [
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 299319,
-      "name": "Polyrics",
-      "url": "https://open.spotify.com/track/6AMi0uaTgLG3HrbOIIrRls"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Almadura",
         "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 136000,
       "name": "Su Madre Patria",
       "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

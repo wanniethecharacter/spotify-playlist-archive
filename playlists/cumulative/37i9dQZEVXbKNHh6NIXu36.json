@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 160426,
       "name": "25 Mann",
       "url": "https://open.spotify.com/track/7gC8OO5ORfuqX4OrE9EQtE"
@@ -1327,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/3uOS4JoGRQ6azsAJYxtloB"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134397,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1cfRQnbM4Cf0xEt3mx2cQ6"
+    },
+    {
+      "album": {
         "name": "Amin",
         "url": "https://open.spotify.com/album/05pWzqivs016ZwbGoPmAY8"
       },
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 149030,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6"
@@ -1854,6 +1880,28 @@
       "duration_ms": 167741,
       "name": "Auf die Feinde (feat. RAF Camora)",
       "url": "https://open.spotify.com/track/4Ir5arQOnMzt0wSB2lq6U3"
+    },
+    {
+      "album": {
+        "name": "Auf die Party",
+        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164199,
+      "name": "Auf die Party",
+      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
     },
     {
       "album": {
@@ -7990,10 +8038,28 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
       "album": {
@@ -10578,7 +10644,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -11126,7 +11192,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
@@ -11657,6 +11723,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -11704,7 +11788,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 164936,
       "name": "Jeden Tag mehr",
       "url": "https://open.spotify.com/track/6y5LixQNwrWROFebIKQfFN"
@@ -15959,6 +16043,24 @@
     },
     {
       "album": {
+        "name": "MOTTO",
+        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217271,
+      "name": "MOTTO",
+      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
+    },
+    {
+      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/232yH7AJET01p686ArJaZL"
       },
@@ -16642,7 +16744,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 66885,
       "name": "NICE",
       "url": "https://open.spotify.com/track/04qB3GdYC9b06ZossBTLpo"
@@ -18256,7 +18358,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
@@ -19822,7 +19924,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -19848,6 +19950,24 @@
       "duration_ms": 182000,
       "name": "Rise Up (feat. Vamero)",
       "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
     },
     {
       "album": {
@@ -21638,7 +21758,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -22194,7 +22314,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -22500,7 +22620,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 146491,
       "name": "Sturkopf (mit ner Glock)",
       "url": "https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw"
@@ -24448,7 +24568,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 224445,
       "name": "Vergessen wie",
       "url": "https://open.spotify.com/track/28yd3NLXZkDi5p9segSvcf"
@@ -25543,6 +25663,24 @@
     },
     {
       "album": {
+        "name": "Wenn ich will",
+        "url": "https://open.spotify.com/album/4lKDtKvVHeMvyz7SnL7BPw"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144072,
+      "name": "Wenn ich will",
+      "url": "https://open.spotify.com/track/5npUWsfEl4R2UOvPDlRjjZ"
+    },
+    {
+      "album": {
         "name": "Palmen aus Plastik 3",
         "url": "https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9"
       },
@@ -25764,7 +25902,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 159417,
       "name": "Who the Hell Is Edgar?",
       "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
@@ -26324,6 +26462,28 @@
       "duration_ms": 131948,
       "name": "YumYum",
       "url": "https://open.spotify.com/track/4lkLzhx8zsVIdNd1WANxuA"
+    },
+    {
+      "album": {
+        "name": "Zangar Zangar",
+        "url": "https://open.spotify.com/album/0C9m4I1lxh6sQ4Ri5qai3S"
+      },
+      "artists": [
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Zangar Zangar",
+      "url": "https://open.spotify.com/track/5YbW5cwfwhjPPyIOZ0I92z"
     },
     {
       "album": {

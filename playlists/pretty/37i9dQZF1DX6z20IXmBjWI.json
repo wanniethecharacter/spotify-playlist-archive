@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. ",
-  "num_followers": 2142269,
+  "num_followers": 2142273,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMGUyYjk0ZWNmOTIwMzNkNzkzMTliMWMyOTg2N2VhYTJk",
+  "snapshot_id": "MTY3Njk5MDA0NywwMDAwMDAwMDg2ZGM0YTQ1ZTEzOThlNGEzYTk2NTc1MzczYjRhMGZk",
   "tracks": [
     {
       "added_at": "2023-02-06 19:59:45",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Feathers & Fishhooks",
         "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 233693,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1607,22 +1607,6 @@
       "duration_ms": 237126,
       "name": "Only Children",
       "url": "https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1679,22 +1663,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -1711,18 +1679,34 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1743,6 +1727,22 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1807,6 +1807,22 @@
       "duration_ms": 235871,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -1887,22 +1903,6 @@
       "duration_ms": 298013,
       "name": "If I Told",
       "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 205812,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2219,22 +2235,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Persephone",
-      "url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Don't Let Me Disappear",
         "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
@@ -2247,6 +2247,22 @@
       "duration_ms": 264522,
       "name": "Don't Let Me Disappear",
       "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2283,22 +2299,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "On Board",
         "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
       },
@@ -2315,6 +2315,22 @@
       "duration_ms": 310817,
       "name": "On Board",
       "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2347,22 +2363,6 @@
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
     },
     {
       "added_at": "2023-02-06 19:59:45",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-02-06 19:59:45",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2023-02-06 19:59:45",
-      "album": {
         "name": "Favors EP (Acoustic)",
         "url": "https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 180706,
       "name": "Sorrow - Acoustic",
       "url": "https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB"
+    },
+    {
+      "added_at": "2023-02-06 19:59:45",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     }
   ],
   "unique_name": "Infinite Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 262377,
+  "num_followers": 262640,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMDVjZDY4MWNlYjY5ZjBlNTgyNTYwYmRhZDVhMjNkODc2",
+  "snapshot_id": "MTY3NTE5MTA3NCwwMDAwMDAwMDg3NWFiMDBjMzZjOTZiMmEzY2QwMTg4MGE0NGJhMmMy",
   "tracks": [
     {
       "added_at": "2023-01-31 18:51:13",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 244538,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -427,8 +427,8 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 436000,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
+      "duration_ms": 226733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -587,8 +587,8 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+      "duration_ms": 436000,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Recoded",
-        "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        },
-        {
-          "name": "Rhys Fulber",
-          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
-        }
-      ],
-      "duration_ms": 344918,
-      "name": "Hatred Will Prevail - Monolith Remix",
-      "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Recoded",
+        "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        },
+        {
+          "name": "Rhys Fulber",
+          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
+        }
+      ],
+      "duration_ms": 344918,
+      "name": "Hatred Will Prevail - Monolith Remix",
+      "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Killing Joke",
         "url": "https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225466,
       "name": "Requiem - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Into the Void (Remix Contest Compilation)",
-        "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Hard Box",
-          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
-        }
-      ],
-      "duration_ms": 219123,
-      "name": "Into the Void - HARD BOX Remix",
-      "url": "https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Ofelia",
         "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 271666,
       "name": "PUMPED UP KICKS",
       "url": "https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Into the Void (Remix Contest Compilation)",
+        "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Hard Box",
+          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
+        }
+      ],
+      "duration_ms": 219123,
+      "name": "Into the Void - HARD BOX Remix",
+      "url": "https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Hengit\u00e4",
-        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Hengit\u00e4",
-      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "Hengit\u00e4",
+        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "Hengit\u00e4",
+      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "For the Beaten",
-        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 211450,
-      "name": "For the Beaten",
-      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
-    },
-    {
-      "added_at": "2023-01-31 18:51:13",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 243400,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK"
+    },
+    {
+      "added_at": "2023-01-31 18:51:13",
+      "album": {
+        "name": "For the Beaten",
+        "url": "https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 211450,
+      "name": "For the Beaten",
+      "url": "https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1519,22 +1519,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/0tSJeKgD4TlepuXTt13Zj9"
       },
       "artists": [
         {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
         },
         {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+          "name": "Strange Bones",
+          "url": "https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
+      "duration_ms": 182297,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/1rqUtcFAapMVcO2KID5EBW"
     },
     {
       "added_at": "2023-01-31 18:51:13",
@@ -1555,22 +1555,22 @@
     {
       "added_at": "2023-01-31 18:51:13",
       "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/0tSJeKgD4TlepuXTt13Zj9"
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
         },
         {
-          "name": "Strange Bones",
-          "url": "https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts"
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
         }
       ],
-      "duration_ms": 182297,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/1rqUtcFAapMVcO2KID5EBW"
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-01-31 18:51:13",

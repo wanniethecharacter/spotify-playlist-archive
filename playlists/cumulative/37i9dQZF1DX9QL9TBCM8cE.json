@@ -434,7 +434,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 241933,
       "name": "Killer\u00d7Mission (\u9edb \u51ac\u512a\u5b50 Ver.)",
       "url": "https://open.spotify.com/track/0h6EKytVocBfF88nJS26CF"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 247600,
       "name": "\u3042\u306e\u82b1\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT"
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 07",
+        "url": "https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30af\u30c1\u30eb",
+          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "\u50d5\u3089\u3060\u3051\u306e\u672a\u6765\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/4PLZYL3uBFJxfVuZqVUAAf"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
         "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
       },
@@ -1058,6 +1076,24 @@
       "duration_ms": 232226,
       "name": "\u5922\u54b2\u304dAfter school",
       "url": "https://open.spotify.com/track/1FZNbQaBpxoOXRpqVWvxtC"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 \u5922\u54b2\u304dAfter school",
+        "url": "https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291520,
+      "name": "\u592a\u967d\u30ad\u30c3\u30b9",
+      "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
     },
     {
       "album": {

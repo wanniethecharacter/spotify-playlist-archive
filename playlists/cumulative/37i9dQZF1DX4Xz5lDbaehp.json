@@ -2788,7 +2788,7 @@
     {
       "album": {
         "name": "Superstar",
-        "url": "https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr"
+        "url": "https://open.spotify.com/album/0eaPjnExG9lTC62awP82AJ"
       },
       "artists": [
         {
@@ -2799,6 +2799,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172117,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1dtxr4bhyFnGxEt4bwPEeH"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
       "duration_ms": 172117,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z"

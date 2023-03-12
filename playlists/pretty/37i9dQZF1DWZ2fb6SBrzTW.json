@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 10633,
+  "num_followers": 10653,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ1MTYzMSwwMDAwMDAwMDc0YTBhZmFkNGQ5N2RhNjMwZWZmOGE1NTU0YTI5ODQz",
+  "snapshot_id": "MTY3ODQ1MTYzMSwwMDAwMDAwMGFhNzRkYmUzOTVhYWM2OTUzMzIyYzdhMzc3NmYwZTVj",
   "tracks": [
     {
       "added_at": "2023-03-10 12:33:51",
@@ -247,22 +247,18 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2023-03-10 12:33:51",
@@ -291,18 +287,22 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kolomental",
-      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-03-10 12:33:51",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2023-03-10 12:33:51",
       "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
+        "name": "Honest Decision",
+        "url": "https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T"
       },
       "artists": [
         {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Bryann",
+          "url": "https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19"
         }
       ],
-      "duration_ms": 176842,
-      "name": "The Love Song (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+      "duration_ms": 139610,
+      "name": "Honest Decision",
+      "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
     }
   ],
   "unique_name": "Keep Fit Club ",

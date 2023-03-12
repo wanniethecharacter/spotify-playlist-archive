@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Marco Mares
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,036 likes - 132 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,040 likes - 132 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [tiempo](https://open.spotify.com/track/535DppotJEFD9C8636VIYQ) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:10 |
 | 2 | [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 |
-| 3 | [i lied](https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Borja](https://open.spotify.com/artist/5gQn8QHEDibTqR7iVLKrGl) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:12 |
+| 3 | [i lied](https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:12 |
 | 4 | [No Hay Señal](https://open.spotify.com/track/3v6JTq29JwEKfQiOWIbqX1) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [Don Carmelo](https://open.spotify.com/artist/40JGx0uMilA6xnCKTl8m7Q) | [El Día Antes del Día](https://open.spotify.com/album/64kvdyNV6IEJNreCVl4GlT) | 3:14 |
 | 5 | [Fogón](https://open.spotify.com/track/0SuMeetAuZ5shCVqNMKSQi) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Día Antes del Día](https://open.spotify.com/album/64kvdyNV6IEJNreCVl4GlT) | 3:16 |
 | 6 | [Sin Ropa](https://open.spotify.com/track/2oVJ40hTrZAmr3UJareeii) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Sin Ropa](https://open.spotify.com/album/0E9Vj1K5Lq1Zubvb9JZLjE) | 3:11 |

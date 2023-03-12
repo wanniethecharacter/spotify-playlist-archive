@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-03-12",
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/18BIUBXVi4c5HwNCjKeANr"
@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 189737,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5mfwPQqeoP8jzGJCHwM3iF"
@@ -7910,6 +7910,24 @@
       "duration_ms": 363428,
       "name": "Suffer (feat. Elle Vee)",
       "url": "https://open.spotify.com/track/5gopgUCFUOnS60WqZRvDX4"
+    },
+    {
+      "album": {
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
     },
     {
       "album": {

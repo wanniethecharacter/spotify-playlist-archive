@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Los Bitchos",
-  "num_followers": 48179,
+  "num_followers": 48187,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDdjODdkN2VkN2MwZDk4MzAyNTczOTE4NjA2ZGQ0Yzc2",
+  "snapshot_id": "MTY3NzgwMTYwMCwwMDAwMDAwMDM4ZGJiMmM2NmM0MzliYzQ0Y2JlMzA5M2UwMDk3YTlk",
   "tracks": [
     {
       "added_at": "2023-03-03 00:00:00",
@@ -319,38 +319,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/4nlVzlGL7OHDOhST7U4QiJ"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Here\u2019s What You Could Have Won",
         "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
       },
@@ -371,6 +339,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/4nlVzlGL7OHDOhST7U4QiJ"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Most Normal",
         "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
       },
@@ -971,34 +987,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
         }
       ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Fashion",
-        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
-      },
-      "artists": [
-        {
-          "name": "Bilk",
-          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Fashion",
-      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+      "duration_ms": 115936,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
       "artists": [
         {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+          "name": "Bilk",
+          "url": "https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K"
         }
       ],
-      "duration_ms": 115936,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
+      "duration_ms": 174379,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Hell of Mine",
-        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
-      },
-      "artists": [
-        {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
-        }
-      ],
-      "duration_ms": 125484,
-      "name": "Hell of Mine",
-      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Grade 2",
         "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Paying The Price",
         "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Cool Blue",
-        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
-      },
-      "artists": [
-        {
-          "name": "happydaze",
-          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
-        }
-      ],
-      "duration_ms": 189072,
-      "name": "Cool Blue",
-      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Bullet Farm",
         "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 190614,
       "name": "Bullet Farm",
       "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
       },
       "artists": [
         {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
         }
       ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/112fCF19lmyd56p14czHBO"
       },
       "artists": [
         {
-          "name": "Petrol Girls",
-          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
         }
       ],
-      "duration_ms": 192281,
-      "name": "Baby, I Had an Abortion",
-      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+      "duration_ms": 106638,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2gDzbtMofzJlmaN5oGjI7x"
     }
   ],
   "unique_name": "The Punk List",

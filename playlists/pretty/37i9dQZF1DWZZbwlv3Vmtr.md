@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,001 likes - 384 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,192 likes - 384 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 16 | [touring](https://open.spotify.com/track/5oMoDylmKjg2dEv00OmP6V) | [ted traver](https://open.spotify.com/artist/08j9BSeKARV01FHZ9FwbpZ) | [touring](https://open.spotify.com/album/684fYtehLjITRbiCEk2E1I) | 2:53 |
 | 17 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
 | 18 | [moog me up](https://open.spotify.com/track/0A8jHHS6r4XsCKq1NKLIZQ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [moog me up](https://open.spotify.com/album/0whRlQmX3GyDVH6uJX2C6l) | 1:54 |
-| 19 | [Sade Ghi](https://open.spotify.com/track/5PVN3nc3S5D6ZwT85qm3fB) | [Ellie.](https://open.spotify.com/artist/3jDAiLLOPnbZb73uG56jVF) | [Favorite Smile](https://open.spotify.com/album/1mj8BnVTLloQOwl8Rcq81K) | 1:58 |
+| 19 | [Sade Ghi](https://open.spotify.com/track/5PVN3nc3S5D6ZwT85qm3fB) | [Ellie S](https://open.spotify.com/artist/7abvh5NuD8o9JobP35lsv7) | [Favorite Smile](https://open.spotify.com/album/1mj8BnVTLloQOwl8Rcq81K) | 1:58 |
 | 20 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 | 21 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 |
 | 22 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 |
